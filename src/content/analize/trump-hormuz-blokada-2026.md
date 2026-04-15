@@ -6,7 +6,7 @@ category: "Geopolitika"
 readingTime: 10
 featured: true
 premium: false
-image: "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?auto=format&fit=crop&w=1200&q=80"
 ---
 
 ## Kaj se je zgodilo
