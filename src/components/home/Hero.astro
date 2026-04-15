@@ -1,0 +1,186 @@
+---
+import { SITE } from '../../config';
+import Button from '../ui/Button.astro';
+---
+
+<section class="hero">
+  <div class="container hero__inner">
+    <div class="hero__content fade-in">
+
+      <!-- Label -->
+      <div class="hero__label">
+        <span class="hero__label-dot"></span>
+        <span>Finančno izobraževanje za Slovence</span>
+      </div>
+
+      <!-- Headline -->
+      <h1 class="hero__title">
+        Razlaga trgov skozi<br />
+        <span class="hero__title-accent">aktualne dogodke.</span>
+      </h1>
+
+      <!-- Subtitle -->
+      <p class="hero__subtitle">
+        Filtriramo svetovno dogajanje in razlagamo, kako geopolitika, makroekonomija
+        in trgi vplivajo drug na drugega — v razumljivem slovenskem jeziku.
+        Brez hypea. Brez šuma. Brez finančnih nasvetov.
+      </p>
+
+      <!-- CTA Buttons -->
+      <div class="hero__ctas">
+        <Button href="/analize" size="lg">
+          Preberi analize
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <line x1="5" y1="12" x2="19" y2="12"/>
+            <polyline points="12 5 19 12 12 19"/>
+          </svg>
+        </Button>
+        <Button href={SITE.twitterUrl} variant="ghost" size="lg" external={true}>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.737-8.835L1.254 2.25H8.08l4.253 5.622 5.911-5.622Zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+          </svg>
+          Spremljaj na X
+        </Button>
+      </div>
+
+      <!-- Stats row -->
+      <div class="hero__stats">
+        <div class="hero__stat">
+          <span class="hero__stat-number">5+</span>
+          <span class="hero__stat-label">analiz mesečno</span>
+        </div>
+        <div class="hero__stat-divider"></div>
+        <div class="hero__stat">
+          <span class="hero__stat-number">100%</span>
+          <span class="hero__stat-label">v slovenščini</span>
+        </div>
+        <div class="hero__stat-divider"></div>
+        <div class="hero__stat">
+          <span class="hero__stat-number">0</span>
+          <span class="hero__stat-label">finančnih nasvetov</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<style>
+  .hero {
+    padding: var(--space-3xl) 0 var(--space-2xl);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .hero__inner {
+    max-width: 720px;
+  }
+
+  /* Label */
+  .hero__label {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-sm);
+    font-size: var(--text-sm);
+    font-weight: 500;
+    color: var(--color-text-muted);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-full);
+    padding: 4px 14px;
+    margin-bottom: var(--space-xl);
+  }
+
+  .hero__label-dot {
+    display: inline-block;
+    width: 7px;
+    height: 7px;
+    background: var(--color-success);
+    border-radius: 50%;
+    animation: pulse 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+  }
+
+  /* Title */
+  .hero__title {
+    font-size: clamp(2.2rem, 5vw, 3.5rem);
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: -0.03em;
+    color: var(--color-text);
+    margin-bottom: var(--space-lg);
+  }
+
+  .hero__title-accent {
+    color: var(--color-accent);
+  }
+
+  /* Subtitle */
+  .hero__subtitle {
+    font-size: var(--text-lg);
+    color: var(--color-text-muted);
+    line-height: 1.7;
+    margin-bottom: var(--space-xl);
+    max-width: 600px;
+  }
+
+  /* CTAs */
+  .hero__ctas {
+    display: flex;
+    gap: var(--space-md);
+    flex-wrap: wrap;
+    margin-bottom: var(--space-2xl);
+  }
+
+  /* Stats */
+  .hero__stats {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xl);
+    flex-wrap: wrap;
+  }
+
+  .hero__stat {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .hero__stat-number {
+    font-size: var(--text-xl);
+    font-weight: 700;
+    color: var(--color-text);
+    letter-spacing: -0.02em;
+  }
+
+  .hero__stat-label {
+    font-size: var(--text-xs);
+    color: var(--color-text-subtle);
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .hero__stat-divider {
+    width: 1px;
+    height: 32px;
+    background: var(--color-border);
+  }
+
+  @media (max-width: 640px) {
+    .hero {
+      padding: var(--space-2xl) 0 var(--space-xl);
+    }
+
+    .hero__stat-divider {
+      display: none;
+    }
+
+    .hero__stats {
+      gap: var(--space-lg);
+    }
+  }
+</style>

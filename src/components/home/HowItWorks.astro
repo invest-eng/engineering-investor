@@ -1,0 +1,153 @@
+---
+const steps = [
+  {
+    number: '01',
+    title: 'Novica ali dogodek',
+    description:
+      'Geopolitični premiki, centralnobančne odločitve, gospodarski podatki ali tržni premiki — izbiramo, kar resnično šteje.',
+    icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8V6z"/></svg>`,
+  },
+  {
+    number: '02',
+    title: 'Analiza in kontekst',
+    description:
+      'Razložimo, kaj se je zgodilo, zakaj je to pomembno in kako to vpliva na različne tržne razrede — delnice, obveznice, valute, zlato, bitcoin.',
+    icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>`,
+  },
+  {
+    number: '03',
+    title: 'Razumevanje trgov',
+    description:
+      'Odidete z boljšim razumevanjem, kako globalni trgi delujejo — in s konkretnim znanjem, ki ga lahko apliciramo v prihodnje.',
+    icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>`,
+  },
+];
+---
+
+<section class="how-it-works">
+  <div class="container">
+    <div class="how-it-works__header fade-in">
+      <h2 class="how-it-works__title">Kako deluje</h2>
+      <p class="how-it-works__subtitle">
+        Preprost proces od novice do razumevanja.
+      </p>
+    </div>
+
+    <div class="how-it-works__steps">
+      {steps.map((step, i) => (
+        <div class="step fade-in" style={`transition-delay: ${i * 100}ms`}>
+          <div class="step__header">
+            <div class="step__icon" set:html={step.icon} />
+            <span class="step__number">{step.number}</span>
+          </div>
+          <h3 class="step__title">{step.title}</h3>
+          <p class="step__description">{step.description}</p>
+          {i < steps.length - 1 && (
+            <div class="step__arrow" aria-hidden="true">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="5" y1="12" x2="19" y2="12"/>
+                <polyline points="12 5 19 12 12 19"/>
+              </svg>
+            </div>
+          )}
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<style>
+  .how-it-works {
+    padding: var(--space-3xl) 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .how-it-works__header {
+    text-align: center;
+    margin-bottom: var(--space-2xl);
+  }
+
+  .how-it-works__title {
+    font-size: var(--text-3xl);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: var(--space-sm);
+  }
+
+  .how-it-works__subtitle {
+    font-size: var(--text-lg);
+    color: var(--color-text-muted);
+  }
+
+  .how-it-works__steps {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr auto 1fr;
+    gap: 0;
+    align-items: start;
+  }
+
+  .step {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    padding: var(--space-xl);
+    position: relative;
+  }
+
+  .step__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: var(--space-lg);
+  }
+
+  .step__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    background: var(--color-accent-bg);
+    border: 1px solid var(--color-accent-border);
+    border-radius: var(--radius-md);
+    color: var(--color-accent);
+  }
+
+  .step__number {
+    font-size: var(--text-2xl);
+    font-weight: 700;
+    color: var(--color-border-strong);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .step__title {
+    font-size: var(--text-lg);
+    font-weight: 600;
+    margin-bottom: var(--space-sm);
+  }
+
+  .step__description {
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+    line-height: 1.7;
+  }
+
+  .step__arrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 var(--space-md);
+    color: var(--color-border-strong);
+    padding-top: 60px;
+  }
+
+  @media (max-width: 768px) {
+    .how-it-works__steps {
+      grid-template-columns: 1fr;
+    }
+
+    .step__arrow {
+      display: none;
+    }
+  }
+</style>

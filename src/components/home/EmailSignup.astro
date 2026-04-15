@@ -1,0 +1,161 @@
+---
+---
+
+<section class="email-signup">
+  <div class="container">
+    <div class="email-signup__card fade-in">
+      <div class="email-signup__content">
+        <div class="email-signup__badge">Newsletter</div>
+        <h2 class="email-signup__title">Ostani obveščen</h2>
+        <p class="email-signup__desc">
+          Prejmi nove analize direktno na email. Brez spam-a, samo vsebina, ki šteje.
+          Odjava kadarkoli.
+        </p>
+      </div>
+
+      <form class="email-signup__form" onsubmit="return false;" novalidate>
+        <div class="email-signup__input-group">
+          <label for="email-input" class="sr-only">Email naslov</label>
+          <input
+            type="email"
+            id="email-input"
+            name="email"
+            placeholder="vas@email.si"
+            class="email-signup__input"
+            autocomplete="email"
+            required
+          />
+          <button type="submit" class="email-signup__btn">
+            Naroči se
+          </button>
+        </div>
+        <p class="email-signup__note">
+          Kmalu na voljo. Pustite email in vas obvestimo ob zagonu.
+        </p>
+      </form>
+    </div>
+  </div>
+</section>
+
+<style>
+  .email-signup {
+    padding: var(--space-3xl) 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .email-signup__card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    padding: var(--space-2xl);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-2xl);
+    align-items: center;
+  }
+
+  .email-signup__badge {
+    display: inline-block;
+    font-size: var(--text-xs);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-accent);
+    background: var(--color-accent-bg);
+    border-radius: var(--radius-full);
+    padding: 3px 10px;
+    margin-bottom: var(--space-md);
+  }
+
+  .email-signup__title {
+    font-size: var(--text-2xl);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: var(--space-sm);
+  }
+
+  .email-signup__desc {
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+    line-height: 1.7;
+  }
+
+  /* Form */
+  .email-signup__input-group {
+    display: flex;
+    gap: var(--space-sm);
+    margin-bottom: var(--space-sm);
+  }
+
+  .email-signup__input {
+    flex: 1;
+    font-family: var(--font-sans);
+    font-size: var(--text-sm);
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    padding: 0.625rem var(--space-md);
+    color: var(--color-text);
+    transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+    min-width: 0;
+  }
+
+  .email-signup__input::placeholder {
+    color: var(--color-text-subtle);
+  }
+
+  .email-signup__input:focus {
+    outline: none;
+    border-color: var(--color-accent);
+    box-shadow: 0 0 0 3px var(--color-accent-bg);
+  }
+
+  .email-signup__btn {
+    font-family: var(--font-sans);
+    font-size: var(--text-sm);
+    font-weight: 500;
+    background: var(--color-accent);
+    color: white;
+    border: none;
+    border-radius: var(--radius-sm);
+    padding: 0.625rem 1.25rem;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: background-color var(--transition-fast);
+    flex-shrink: 0;
+  }
+
+  .email-signup__btn:hover {
+    background: var(--color-accent-hover);
+  }
+
+  .email-signup__note {
+    font-size: var(--text-xs);
+    color: var(--color-text-subtle);
+  }
+
+  /* Screen reader only */
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+  }
+
+  @media (max-width: 768px) {
+    .email-signup__card {
+      grid-template-columns: 1fr;
+      gap: var(--space-xl);
+      padding: var(--space-xl);
+    }
+
+    .email-signup__input-group {
+      flex-direction: column;
+    }
+  }
+</style>

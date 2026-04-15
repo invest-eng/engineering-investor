@@ -1,0 +1,25 @@
+export const SITE = {
+  name: 'Engineering Investor',
+  tagline: 'Razlaga trgov skozi aktualne dogodke.',
+  description:
+    'Finančno-izobraževalna vsebina za slovensko občinstvo. Filtriramo informacije, razlagamo trge in geopolitiko — brez hypea, brez finančnih nasvetov.',
+  url: 'https://engineeringinvestor.si',
+  twitterHandle: '@EngineeringInvestor',
+  twitterUrl: 'https://x.com/EngineeringInvestor',
+};
+
+export const NAV_LINKS = [
+  { label: 'Analize', href: '/analize' },
+  { label: 'Premium', href: '/premium' },
+  { label: 'O meni', href: '/o-meni' },
+];
+
+export const CATEGORIES = [
+  'Makro',
+  'Geopolitika',
+  'Trgi',
+  'Bitcoin',
+  'Delnice',
+] as const;
+
+export type Category = (typeof CATEGORIES)[number];
