@@ -13,9 +13,10 @@ interface Props {
   readingTime: number;
   category: string;
   premium?: boolean;
+  image?: string;
 }
 
-const { title, description, pubDate, readingTime, category, premium = false } = Astro.props;
+const { title, description, pubDate, readingTime, category, premium = false, image } = Astro.props;
 
 const formattedDate = new Intl.DateTimeFormat('sl-SI', {
   day: 'numeric',
@@ -71,6 +72,13 @@ const formattedDate = new Intl.DateTimeFormat('sl-SI', {
               </div>
             </div>
           </header>
+
+          <!-- Hero image -->
+          {image && (
+            <div class="article-hero-image">
+              <img src={image} alt={title} loading="lazy" />
+            </div>
+          )}
 
           <!-- Article divider -->
           <hr class="article-divider" />
@@ -268,6 +276,27 @@ const formattedDate = new Intl.DateTimeFormat('sl-SI', {
     gap: var(--space-sm);
     font-size: var(--text-sm);
     color: var(--color-text-muted);
+  }
+
+  /* Hero image */
+  .article-hero-image {
+    margin: var(--space-xl) 0 0;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    border: 1px solid var(--color-border);
+  }
+
+  .article-hero-image img {
+    width: 100%;
+    height: 420px;
+    object-fit: cover;
+    display: block;
+  }
+
+  @media (max-width: 640px) {
+    .article-hero-image img {
+      height: 220px;
+    }
   }
 
   .article-divider {
