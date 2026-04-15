@@ -1,6 +1,7 @@
 ---
 import { SITE } from '../../config';
 import Button from '../ui/Button.astro';
+import { url } from '../../utils/url';
 ---
 
 <section class="hero">
@@ -22,7 +23,7 @@ import Button from '../ui/Button.astro';
 
       <!-- CTA Buttons -->
       <div class="hero__ctas">
-        <Button href="/analize" size="lg">
+        <Button href={url('/analize')} size="lg">
           Preberi analize
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <line x1="5" y1="12" x2="19" y2="12"/>

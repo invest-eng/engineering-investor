@@ -1,6 +1,7 @@
 ---
 import { SITE, NAV_LINKS } from '../../config';
 import ThemeToggle from '../ui/ThemeToggle.astro';
+import { url } from '../../utils/url';
 
 const currentPath = Astro.url.pathname;
 ---
@@ -8,7 +9,7 @@ const currentPath = Astro.url.pathname;
 <header class="navbar" id="navbar">
   <div class="container navbar__inner">
     <!-- Logo / Brand -->
-    <a href="/" class="navbar__brand" aria-label={SITE.name}>
+    <a href={url('/')} class="navbar__brand" aria-label={SITE.name}>
       <span class="navbar__brand-icon">EI</span>
       <span class="navbar__brand-name">{SITE.name}</span>
     </a>
@@ -19,7 +20,7 @@ const currentPath = Astro.url.pathname;
         {NAV_LINKS.map((link) => (
           <li>
             <a
-              href={link.href}
+              href={url(link.href)}
               class={`navbar__link ${currentPath.startsWith(link.href) ? 'navbar__link--active' : ''}`}
             >
               {link.label}
@@ -66,7 +67,7 @@ const currentPath = Astro.url.pathname;
         {NAV_LINKS.map((link) => (
           <li>
             <a
-              href={link.href}
+              href={url(link.href)}
               class={`navbar__mobile-link ${currentPath.startsWith(link.href) ? 'navbar__mobile-link--active' : ''}`}
             >
               {link.label}

@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import ArticleCard from '../articles/ArticleCard.astro';
 import Button from '../ui/Button.astro';
+import { url } from '../../utils/url';
 
 const allArticles = await getCollection('analize');
 const latestArticles = allArticles
@@ -16,7 +17,7 @@ const latestArticles = allArticles
         <h2 class="latest-articles__title">Zadnje analize</h2>
         <p class="latest-articles__subtitle">Najnovejše razlage aktualnih dogodkov in njihovega vpliva na trge.</p>
       </div>
-      <Button href="/analize" variant="ghost" size="sm">
+      <Button href={url('/analize')} variant="ghost" size="sm">
         Vse analize
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <line x1="5" y1="12" x2="19" y2="12"/>

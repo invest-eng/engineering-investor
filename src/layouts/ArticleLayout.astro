@@ -4,6 +4,7 @@ import Badge from '../components/ui/Badge.astro';
 import Disclaimer from '../components/ui/Disclaimer.astro';
 import Button from '../components/ui/Button.astro';
 import { SITE } from '../config';
+import { url } from '../utils/url';
 
 interface Props {
   title: string;
@@ -29,9 +30,9 @@ const formattedDate = new Intl.DateTimeFormat('sl-SI', {
 
       <!-- Breadcrumb -->
       <nav class="article-breadcrumb" aria-label="Pot do strani">
-        <a href="/" class="article-breadcrumb__link">Domov</a>
+        <a href={url('/')} class="article-breadcrumb__link">Domov</a>
         <span class="article-breadcrumb__sep" aria-hidden="true">/</span>
-        <a href="/analize" class="article-breadcrumb__link">Analize</a>
+        <a href={url('/analize')} class="article-breadcrumb__link">Analize</a>
         <span class="article-breadcrumb__sep" aria-hidden="true">/</span>
         <span class="article-breadcrumb__current" aria-current="page">{title}</span>
       </nav>
@@ -100,7 +101,7 @@ const formattedDate = new Intl.DateTimeFormat('sl-SI', {
             </div>
 
             <div class="article-footer__cta">
-              <Button href="/analize" variant="ghost">
+              <Button href={url('/analize')} variant="ghost">
                 ← Vse analize
               </Button>
             </div>
@@ -122,7 +123,7 @@ const formattedDate = new Intl.DateTimeFormat('sl-SI', {
             <div class="article-sidebar__cta-badge">Newsletter</div>
             <h3 class="article-sidebar__cta-title">Ostani obveščen</h3>
             <p class="article-sidebar__cta-desc">Prejmi nove analize na email.</p>
-            <a href="/#email-signup" class="article-sidebar__cta-btn">Naroči se</a>
+            <a href={url('/#email-signup')} class="article-sidebar__cta-btn">Naroči se</a>
           </div>
         </aside>
       </div>

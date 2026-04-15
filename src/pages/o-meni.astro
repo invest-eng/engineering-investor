@@ -3,6 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import Disclaimer from '../components/ui/Disclaimer.astro';
 import Button from '../components/ui/Button.astro';
 import { SITE } from '../config';
+import { url } from '../utils/url';
 ---
 
 <BaseLayout
@@ -138,7 +139,7 @@ import { SITE } from '../config';
             <p class="about-sidebar__card-desc">
               Oglej si zadnje analize in preizkusi, ali ti pristop ustreza.
             </p>
-            <Button href="/analize" size="sm">
+            <Button href={url('/analize')} size="sm">
               Preberi analize →
             </Button>
           </div>

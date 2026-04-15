@@ -1,5 +1,6 @@
 ---
 import Badge from '../ui/Badge.astro';
+import { url } from '../../utils/url';
 
 interface Props {
   title: string;
@@ -31,7 +32,7 @@ const formattedDate = new Intl.DateTimeFormat('sl-SI', {
 ---
 
 <article class={`article-card ${featured ? 'article-card--featured' : ''}`}>
-  <a href={`/analize/${slug}`} class="article-card__link" aria-label={`Preberi: ${title}`}>
+  <a href={url(`/analize/${slug}`)} class="article-card__link" aria-label={`Preberi: ${title}`}>
     <div class="article-card__meta-top">
       <Badge category={category} size="sm" />
       {premium && (

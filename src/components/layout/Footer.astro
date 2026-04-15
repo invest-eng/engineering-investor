@@ -1,5 +1,6 @@
 ---
 import { SITE, NAV_LINKS } from '../../config';
+import { url } from '../../utils/url';
 ---
 
 <footer class="footer">
@@ -9,7 +10,7 @@ import { SITE, NAV_LINKS } from '../../config';
     <div class="footer__top">
       <!-- Brand -->
       <div class="footer__brand">
-        <a href="/" class="footer__brand-link" aria-label={SITE.name}>
+        <a href={url('/')} class="footer__brand-link" aria-label={SITE.name}>
           <span class="footer__brand-icon">EI</span>
           <span class="footer__brand-name">{SITE.name}</span>
         </a>
@@ -21,9 +22,9 @@ import { SITE, NAV_LINKS } from '../../config';
         <p class="footer__nav-title">Strani</p>
         <ul class="footer__nav-links">
           {NAV_LINKS.map((link) => (
-            <li><a href={link.href} class="footer__nav-link">{link.label}</a></li>
+            <li><a href={url(link.href)} class="footer__nav-link">{link.label}</a></li>
           ))}
-          <li><a href="/knjiznica" class="footer__nav-link">Knjižnica</a></li>
+          <li><a href={url('/knjiznica')} class="footer__nav-link">Knjižnica</a></li>
         </ul>
       </nav>
 

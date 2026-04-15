@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Button from '../components/ui/Button.astro';
+import { url } from '../utils/url';
 ---
 
 <BaseLayout
@@ -37,7 +38,7 @@ import Button from '../components/ui/Button.astro';
         </ul>
 
         <div class="knjiznica-cta">
-          <Button href="/analize">
+          <Button href={url('/analize')}>
             Medtem pa: preberi analize →
           </Button>
         </div>
