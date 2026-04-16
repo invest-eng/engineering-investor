@@ -50,7 +50,8 @@ import { url } from '../../utils/url';
         </div>
         <div class="hero__stat-divider"></div>
         <div class="hero__stat">
-          <span class="hero__stat-number hero__stat-number--text">Fokus na razumevanju</span>
+          <span class="hero__stat-number">Fokus</span>
+          <span class="hero__stat-label">na razumevanju</span>
         </div>
       </div>
 
@@ -164,12 +165,6 @@ import { url } from '../../utils/url';
     flex-shrink: 0;
   }
 
-  .hero__stat-number--text {
-    font-size: var(--text-sm);
-    font-weight: 600;
-    letter-spacing: -0.01em;
-  }
-
   @media (max-width: 640px) {
     .hero {
       padding: var(--space-2xl) 0 var(--space-xl);
@@ -182,10 +177,6 @@ import { url } from '../../utils/url';
 
     .hero__stat-number {
       font-size: var(--text-base);
-    }
-
-    .hero__stat-number--text {
-      font-size: var(--text-xs);
     }
 
     .hero__stat-label {
