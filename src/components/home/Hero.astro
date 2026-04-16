@@ -45,7 +45,12 @@ import { url } from '../../utils/url';
         </div>
         <div class="hero__stat-divider"></div>
         <div class="hero__stat">
-          <span class="hero__stat-number" style="font-size: var(--text-sm); font-weight: 600; letter-spacing: -0.01em; text-align: center;">Fokus na razumevanju</span>
+          <span class="hero__stat-number">Več let</span>
+          <span class="hero__stat-label">izkušenj na trgu</span>
+        </div>
+        <div class="hero__stat-divider"></div>
+        <div class="hero__stat">
+          <span class="hero__stat-number hero__stat-number--text">Fokus na razumevanju</span>
         </div>
       </div>
 
@@ -156,6 +161,13 @@ import { url } from '../../utils/url';
     width: 1px;
     height: 32px;
     background: var(--color-border);
+    flex-shrink: 0;
+  }
+
+  .hero__stat-number--text {
+    font-size: var(--text-sm);
+    font-weight: 600;
+    letter-spacing: -0.01em;
   }
 
   @media (max-width: 640px) {
@@ -163,12 +175,21 @@ import { url } from '../../utils/url';
       padding: var(--space-2xl) 0 var(--space-xl);
     }
 
-    .hero__stat-divider {
-      display: none;
+    .hero__stats {
+      gap: var(--space-md);
+      flex-wrap: nowrap;
     }
 
-    .hero__stats {
-      gap: var(--space-lg);
+    .hero__stat-number {
+      font-size: var(--text-base);
+    }
+
+    .hero__stat-number--text {
+      font-size: var(--text-xs);
+    }
+
+    .hero__stat-label {
+      font-size: 10px;
     }
   }
 </style>
