@@ -2,7 +2,7 @@ export const SITE = {
   name: 'Engineering Investor',
   tagline: 'Razlaga trgov skozi aktualne dogodke.',
   description:
-    'Finančno-izobraževalna vsebina za slovensko občinstvo. Filtriramo informacije, razlagamo trge in geopolitiko — brez hypea, brez finančnih nasvetov.',
+    'Finančno-izobraževalna vsebina za slovensko občinstvo. Filtriramo informacije, razlagamo trge in geopolitiko. Brez hypea, brez finančnih nasvetov.',
   url: 'https://engineeringinvestor.si',
   twitterHandle: '@EngineeringInvestor',
   twitterUrl: 'https://x.com/EngineeringInvestor',
