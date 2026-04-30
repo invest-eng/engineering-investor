@@ -10,6 +10,7 @@ export const SITE = {
 
 export const NAV_LINKS = [
   { label: 'Analize', href: '/analize' },
+  { label: 'Kalkulator', href: '/kalkulator' },
   { label: 'Premium', href: '/premium' },
   { label: 'O meni', href: '/o-meni' },
 ];

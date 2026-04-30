@@ -1,0 +1,8 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import InrIbkrCalculator from '../components/calculators/InrIbkrCalculator.jsx';
+---
+
+<BaseLayout title="INR vs IBKR Kalkulator" description="Primerjaj INR (Ilirika) in IBKR z FIFO izračunom, davki in vsemi stroški. Za slovenskega vlagatelja.">
+  <InrIbkrCalculator client:load />
+</BaseLayout>
