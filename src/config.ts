@@ -10,7 +10,7 @@ export const SITE = {
 
 export const NAV_LINKS = [
   { label: 'Analize', href: '/analize' },
-  { label: 'Kalkulator', href: '/kalkulator' },
+  { label: 'Kalkulatorji', href: '/kalkulatorji' },
   { label: 'Premium', href: '/premium' },
   { label: 'O meni', href: '/o-meni' },
 ];
