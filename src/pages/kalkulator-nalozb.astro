@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import InvestmentCalculator from '../components/calculators/InvestmentCalculator.jsx';
+---
+
+<BaseLayout
+  title="Kalkulator naložb"
+  description="Primerjaj S&P 500 ETF, nepremičnine, zlato, Bitcoin, obveznice in varčevanje. Z davki SLO, stroški, grafom rasti in osebno oceno primernosti."
+>
+  <InvestmentCalculator client:load />
+</BaseLayout>
