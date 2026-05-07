@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import MarketBriefing from '../components/news/MarketBriefing.jsx';
+---
+
+<BaseLayout
+  title="Dnevni pregled trgov"
+  description="Avtomatsko generiran povzetek najpomembnejših finančnih in geopolitičnih dogodkov zadnjih 24 ur."
+>
+  <MarketBriefing client:load />
+</BaseLayout>
