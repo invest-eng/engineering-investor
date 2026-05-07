@@ -26,15 +26,17 @@ const SYSTEM_PROMPT = `Si finančni analitik za slovensko občinstvo. Spremljaš
 
 const TODAY = new Date().toISOString().slice(0, 10);
 
-const USER_PROMPT = `Naredi pregled najpomembnejših finančnih dogodkov za ${TODAY}, izhajajoč IZKLJUČNO iz novic na CNBC (cnbc.com).
+const USER_PROMPT = `Naredi pregled najpomembnejših finančnih dogodkov, izhajajoč IZKLJUČNO iz novic na CNBC (cnbc.com).
 
 PRAVILA ZA ISKANJE — IZJEMNO POMEMBNO:
-- Z Google Search uporabljaj poizvedbe omejene na site:cnbc.com (npr. "site:cnbc.com markets", "site:cnbc.com Fed", "site:cnbc.com stocks today", "site:cnbc.com oil", "site:cnbc.com bitcoin").
-- Najprej pridobi zgodbe z naslovne strani CNBC (cnbc.com) in iz rubrik Markets, Business, Economy, Investing.
-- Izberi TOČNO 6 najpomembnejših člankov, ki so bili OBJAVLJENI NA DAN ${TODAY} (UTC). Članki s starejšim datumom NISO sprejemljivi — tudi če je vsebina aktualna.
-- Vsaka novica mora imeti vir_url, ki je polni URL DIREKTNO do članka na cnbc.com (https://www.cnbc.com/...). URL-ji do domače strani, kategorije ali drugih medijev so prepovedani.
+- Datum tekočega zagona je ${TODAY} (UTC). Iskanje začni s tem datumom.
+- Z Google Search uporabljaj poizvedbe omejene na site:cnbc.com — npr. "site:cnbc.com markets", "site:cnbc.com stocks today", "site:cnbc.com Fed", "site:cnbc.com oil", "site:cnbc.com bitcoin", "site:cnbc.com economy".
+- Pridobi zgodbe z naslovne strani CNBC in iz rubrik Markets, Business, Economy, Investing, Pro.
+- Prednost imajo članki, objavljeni na ${TODAY}. Če zanj še ni dovolj člankov (npr. zgodaj zjutraj UTC), uporabi članke iz zadnjih 24–36 ur.
+- Izberi 6 najpomembnejših člankov. Če ne najdeš 6, vrni manj — ampak nikoli ne izmišljaj URL-jev in nikoli ne uporabljaj drugih medijev.
+- vir_url mora biti polni URL DIREKTNO do članka na cnbc.com (oblika https://www.cnbc.com/YYYY/MM/DD/...html ali podobno). URL-ji do domače strani, kategorije ali drugih medijev so prepovedani.
 - Vir naj bo vedno "CNBC".
-- Če za določen dan ne najdeš 6 ustreznih CNBC člankov, vrni manj — ampak ne izmišljaj URL-jev in ne uporabljaj drugih medijev.
+- POMEMBNO: ČE ne najdeš nobene ustrezne novice, KLJUB TEMU vrni veljaven JSON z "novice": [] in povzetkom, ki to pojasni. NIKOLI ne vrni proste razlage namesto JSON-a.
 
 Vrni IZKLJUČNO veljaven JSON v spodnji obliki, brez markdown ograj, brez razlage pred ali po:
 
