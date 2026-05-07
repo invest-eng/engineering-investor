@@ -1,10 +1,9 @@
 #!/usr/bin/env node
 /**
- * Daily market briefing generator.
- * Calls Claude with web_search to summarize last 24h market news in Slovene,
- * writes the result to public/data/briefing.json.
+ * Daily market briefing generator (Google Gemini + Google Search grounding).
+ * Free tier: Gemini 2.5 Pro, ~1500 grounded requests/day.
  *
- * Required env: ANTHROPIC_API_KEY
+ * Required env: GEMINI_API_KEY
  */
 
 import { writeFile, mkdir } from 'node:fs/promises';
@@ -14,25 +13,25 @@ import { fileURLToPath } from 'node:url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT_PATH = join(__dirname, '..', 'public', 'data', 'briefing.json');
 
-const API_KEY = process.env.ANTHROPIC_API_KEY;
+const API_KEY = process.env.GEMINI_API_KEY;
 if (!API_KEY) {
-  console.error('Missing ANTHROPIC_API_KEY');
+  console.error('Missing GEMINI_API_KEY');
   process.exit(1);
 }
 
-const MODEL = 'claude-sonnet-4-5';
-const MAX_TOKENS = 8000;
+const MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-pro';
+const ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${API_KEY}`;
 
 const SYSTEM_PROMPT = `Si finančni analitik za slovensko občinstvo. Spremljaš globalne trge, makro podatke in geopolitiko. Pišeš jasno, brez hypea, brez finančnih nasvetov. Vedno odgovoriš v slovenščini.`;
 
 const USER_PROMPT = `Naredi pregled najpomembnejših finančnih in geopolitičnih dogodkov zadnjih 24 ur, ki vplivajo na trge.
 
-Z web_search orodjem poišči zadnje novice o: ameriških delnicah, evropskih trgih, kriptovalutah, naftah, zlatu, obveznicah, centralnih bankah (Fed, ECB), pomembnih makro objavah (CPI, NFP, GDP), in geopolitiki.
+Z Google Search poišči zadnje novice o: ameriških delnicah, evropskih trgih, kriptovalutah, nafti, zlatu, obveznicah, centralnih bankah (Fed, ECB), pomembnih makro objavah (CPI, NFP, GDP), in geopolitiki.
 
-Izberi 5–8 najpomembnejših novic in vrni IZKLJUČNO veljaven JSON v naslednji obliki, brez markdown ograj, brez razlage:
+Izberi 5–8 najpomembnejših novic in vrni IZKLJUČNO veljaven JSON v naslednji obliki, brez markdown ograj, brez razlage pred ali po:
 
 {
-  "datum": "ISO datum YYYY-MM-DD",
+  "datum": "YYYY-MM-DD",
   "povzetek": "1–2 stavka kontekstnega povzetka dneva v slovenščini",
   "novice": [
     {
@@ -50,49 +49,48 @@ Izberi 5–8 najpomembnejših novic in vrni IZKLJUČNO veljaven JSON v naslednji
 
 Intenziteta je 1 (manjša novica), 2 (pomembna), 3 (zelo pomembna). Vrni SAMO JSON, nič drugega.`;
 
-async function callClaude() {
-  const res = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: {
-      'content-type': 'application/json',
-      'x-api-key': API_KEY,
-      'anthropic-version': '2023-06-01',
+async function callGemini() {
+  const body = {
+    systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] },
+    contents: [{ role: 'user', parts: [{ text: USER_PROMPT }] }],
+    tools: [{ google_search: {} }],
+    generationConfig: {
+      temperature: 0.4,
+      maxOutputTokens: 8000,
     },
-    body: JSON.stringify({
-      model: MODEL,
-      max_tokens: MAX_TOKENS,
-      system: SYSTEM_PROMPT,
-      tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 8 }],
-      messages: [{ role: 'user', content: USER_PROMPT }],
-    }),
+  };
+
+  const res = await fetch(ENDPOINT, {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify(body),
   });
 
   if (!res.ok) {
     const text = await res.text();
-    throw new Error(`Claude API ${res.status}: ${text}`);
+    throw new Error(`Gemini API ${res.status}: ${text}`);
   }
   return res.json();
 }
 
-function extractJson(message) {
-  const textBlocks = (message.content || [])
-    .filter((b) => b.type === 'text')
-    .map((b) => b.text)
-    .join('\n');
+function extractJson(response) {
+  const parts = response?.candidates?.[0]?.content?.parts ?? [];
+  const text = parts.map((p) => p.text || '').join('\n').trim();
+  if (!text) throw new Error('Empty model output');
 
-  const fenced = textBlocks.match(/```(?:json)?\s*([\s\S]*?)```/);
-  const candidate = fenced ? fenced[1] : textBlocks;
+  const fenced = text.match(/```(?:json)?\s*([\s\S]*?)```/);
+  const candidate = fenced ? fenced[1] : text;
 
   const start = candidate.indexOf('{');
   const end = candidate.lastIndexOf('}');
-  if (start === -1 || end === -1) throw new Error('No JSON in model output');
+  if (start === -1 || end === -1) throw new Error('No JSON in model output:\n' + text);
   return JSON.parse(candidate.slice(start, end + 1));
 }
 
 async function main() {
   console.log(`[briefing] calling ${MODEL}...`);
-  const message = await callClaude();
-  const data = extractJson(message);
+  const response = await callGemini();
+  const data = extractJson(response);
 
   const out = {
     generiranoOb: new Date().toISOString(),

@@ -27,7 +27,7 @@ jobs:
 
       - name: Generate briefing
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/generate-briefing.mjs
 
       - name: Commit updated briefing
