@@ -34,6 +34,7 @@ jobs:
       - name: Generate briefing
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          NEWSAPI_KEY: ${{ secrets.newsapi_org }}
         run: node scripts/generate-briefing.mjs
 
       - name: Commit updated briefing

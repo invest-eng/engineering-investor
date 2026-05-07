@@ -1,9 +1,12 @@
 #!/usr/bin/env node
 /**
- * Daily market briefing generator (Google Gemini + Google Search grounding).
- * Free tier: Gemini 2.5 Pro, ~1500 grounded requests/day.
+ * Daily market briefing generator.
+ *  1. Fetch latest CNBC top headlines from NewsAPI.org (real URLs, real dates).
+ *  2. Send the article list to Gemini, ask it to pick 6, translate and analyze
+ *     in Slovene, returning JSON.
+ *  3. Write public/data/briefing.json.
  *
- * Required env: GEMINI_API_KEY
+ * Required env: GEMINI_API_KEY, NEWSAPI_KEY
  */
 
 import { writeFile, mkdir } from 'node:fs/promises';
@@ -13,61 +16,81 @@ import { fileURLToPath } from 'node:url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT_PATH = join(__dirname, '..', 'public', 'data', 'briefing.json');
 
-const API_KEY = process.env.GEMINI_API_KEY;
-if (!API_KEY) {
-  console.error('Missing GEMINI_API_KEY');
-  process.exit(1);
-}
+const GEMINI_KEY = process.env.GEMINI_API_KEY;
+const NEWSAPI_KEY = process.env.NEWSAPI_KEY;
+if (!GEMINI_KEY) { console.error('Missing GEMINI_API_KEY'); process.exit(1); }
+if (!NEWSAPI_KEY) { console.error('Missing NEWSAPI_KEY'); process.exit(1); }
 
 const MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
-const ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${API_KEY}`;
+const GEMINI_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${GEMINI_KEY}`;
 
-const SYSTEM_PROMPT = `Si finančni analitik za slovensko občinstvo. Spremljaš globalne trge, makro podatke in geopolitiko. Pišeš jasno, brez hypea, brez finančnih nasvetov. Vedno odgovoriš v slovenščini.`;
+const SYSTEM_PROMPT = `Si finančni analitik za slovensko občinstvo. Pišeš jasno, brez hypea, brez finančnih nasvetov. Vedno odgovoriš v slovenščini.`;
 
-const TODAY = new Date().toISOString().slice(0, 10);
+async function fetchCnbcArticles() {
+  const url = `https://newsapi.org/v2/top-headlines?sources=cnbc&pageSize=30&apiKey=${NEWSAPI_KEY}`;
+  const res = await fetch(url, { headers: { 'User-Agent': 'engineering-investor-briefing/1.0' } });
+  if (!res.ok) throw new Error(`NewsAPI ${res.status}: ${await res.text()}`);
+  const data = await res.json();
+  if (data.status !== 'ok') throw new Error(`NewsAPI status: ${JSON.stringify(data)}`);
 
-const USER_PROMPT = `Naredi pregled najpomembnejših finančnih dogodkov, izhajajoč IZKLJUČNO iz novic na CNBC (cnbc.com).
+  const articles = (data.articles || [])
+    .filter((a) => a.url && a.title)
+    .map((a) => ({
+      title: a.title,
+      description: a.description || '',
+      url: a.url,
+      publishedAt: a.publishedAt,
+    }));
+  console.log(`[briefing] NewsAPI returned ${articles.length} CNBC articles`);
+  return articles;
+}
 
-PRAVILA ZA ISKANJE — IZJEMNO POMEMBNO:
-- Datum tekočega zagona je ${TODAY} (UTC). Iskanje začni s tem datumom.
-- Z Google Search uporabljaj poizvedbe omejene na site:cnbc.com — npr. "site:cnbc.com markets", "site:cnbc.com stocks today", "site:cnbc.com Fed", "site:cnbc.com oil", "site:cnbc.com bitcoin", "site:cnbc.com economy".
-- Pridobi zgodbe z naslovne strani CNBC in iz rubrik Markets, Business, Economy, Investing, Pro.
-- Prednost imajo članki, objavljeni na ${TODAY}. Če zanj še ni dovolj člankov (npr. zgodaj zjutraj UTC), uporabi članke iz zadnjih 24–36 ur.
-- Izberi 6 najpomembnejših člankov. Če ne najdeš 6, vrni manj — ampak nikoli ne izmišljaj URL-jev in nikoli ne uporabljaj drugih medijev.
-- vir_url mora biti polni URL DIREKTNO do članka na cnbc.com (oblika https://www.cnbc.com/YYYY/MM/DD/...html ali podobno). URL-ji do domače strani, kategorije ali drugih medijev so prepovedani.
-- Vir naj bo vedno "CNBC".
-- POMEMBNO: ČE ne najdeš nobene ustrezne novice, KLJUB TEMU vrni veljaven JSON z "novice": [] in povzetkom, ki to pojasni. NIKOLI ne vrni proste razlage namesto JSON-a.
+function buildUserPrompt(articles) {
+  const today = new Date().toISOString().slice(0, 10);
+  const list = articles
+    .map((a, i) => `${i + 1}. ${a.title}\n   URL: ${a.url}\n   Objavljen: ${a.publishedAt}\n   Opis: ${a.description}`)
+    .join('\n\n');
 
-Vrni IZKLJUČNO veljaven JSON v spodnji obliki, brez markdown ograj, brez razlage pred ali po:
+  return `Spodaj je seznam najnovejših CNBC novic (zadnjih 24h, datum tekočega zagona ${today}).
+
+${list}
+
+NALOGA:
+- Izberi TOČNO 6 najpomembnejših novic z vidika finančnih trgov (delnice, obveznice, valute, surovine, kripto, makro, centralne banke, geopolitika z vplivom na trge).
+- Za vsako napiši slovenski povzetek in analizo. URL in datum objave VEDNO ohrani točno tako kot je v seznamu — ne spreminjaj jih, ne izmišljaj novih.
+- Pred novicami napiši 4–6 stavčni "Pregled dneva", ki povzame vse 6 izbrane novice in skupni vpliv na trge.
+
+Vrni IZKLJUČNO veljaven JSON v naslednji obliki, brez markdown ograj, brez razlage pred ali po:
 
 {
-  "datum": "YYYY-MM-DD",
-  "povzetek": "4–6 stavkov, ki povzamejo grobi pregled vseh 6 novic, kako se medsebojno povezujejo, in skupni vpliv na trge ta dan (delnice, obveznice, valute, surovine, kripto). Slovenščina, brez hypea.",
+  "datum": "${today}",
+  "povzetek": "4–6 stavkov kontekstnega povzetka dneva v slovenščini, ki povzema vseh 6 novic in njihov skupni vpliv na delnice, obveznice, valute, surovine in kripto.",
   "novice": [
     {
-      "naslov": "jasen, informativen naslov v slovenščini (8–14 besed)",
+      "naslov": "jasen, informativen naslov v slovenščini (8–14 besed, prevod ali parafraza CNBC naslova)",
       "sektor": "eden od: Tehnologija & AI | Energetika | Finance | Potrošniki | Makro & Centralne banke",
       "smer": "eden od: pozitivno | negativno | mešano",
       "intenziteta": 2,
-      "povzetek": "2–3 stavki, ki bralcu povedo bistvo dogodka in zakaj je pomembno (kaj se je zgodilo, kdo, kdaj, koliko).",
-      "analiza": "5–7 stavkov poglobljene analize: kontekst (kaj je predhodilo), zakaj se to dogaja zdaj, kako se vpenja v širše trende, kakšne so posledice za različne razrede sredstev (delnice/obveznice/valute/surovine), in kaj pomeni za dolgoročnega slovenskega vlagatelja. Brez finančnih nasvetov, samo razlaga.",
-      "vpliv": ["konkretna posledica 1 (npr. 'Pritisk na donose 10-letnih ameriških obveznic')", "konkretna posledica 2", "konkretna posledica 3"],
-      "vir": "ime medija (npr. Reuters, Bloomberg, Financial Times)",
-      "vir_url": "polni URL do članka, https://..."
+      "povzetek": "2–3 stavki o tem, kaj se je zgodilo (kdo, kdaj, koliko, zakaj pomembno).",
+      "analiza": "5–7 stavkov: kontekst (kaj je predhodilo), zakaj zdaj, kako se vpenja v trende, posledice za razrede sredstev (delnice/obveznice/valute/surovine), kaj pomeni za dolgoročnega slovenskega vlagatelja. Brez finančnih nasvetov.",
+      "vpliv": ["konkretna posledica 1", "konkretna posledica 2", "konkretna posledica 3"],
+      "vir": "CNBC",
+      "vir_url": "polni URL iz seznama, nespremenjen"
     }
   ]
 }
 
-Intenziteta: 1 = manjša novica, 2 = pomembna, 3 = ključna novica dneva. Vrni SAMO JSON, nič drugega.`;
+Intenziteta: 1 = manjša, 2 = pomembna, 3 = ključna novica dneva. Vrni SAMO JSON, nič drugega.`;
+}
 
-async function callGemini() {
+async function callGemini(userPrompt) {
   const body = {
     systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] },
-    contents: [{ role: 'user', parts: [{ text: USER_PROMPT }] }],
-    tools: [{ google_search: {} }],
+    contents: [{ role: 'user', parts: [{ text: userPrompt }] }],
     generationConfig: {
       temperature: 0.4,
       maxOutputTokens: 16000,
+      responseMimeType: 'application/json',
     },
   };
 
@@ -75,12 +98,11 @@ async function callGemini() {
   const MAX_ATTEMPTS = 5;
 
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
-    const res = await fetch(ENDPOINT, {
+    const res = await fetch(GEMINI_ENDPOINT, {
       method: 'POST',
       headers: { 'content-type': 'application/json' },
       body: JSON.stringify(body),
     });
-
     if (res.ok) return res.json();
 
     const text = await res.text();
@@ -109,10 +131,26 @@ function extractJson(response) {
   return JSON.parse(candidate.slice(start, end + 1));
 }
 
+function validateAndCleanup(data, allowedUrls) {
+  const allowed = new Set(allowedUrls);
+  const novice = (data.novice || []).filter((n) => {
+    if (!n.vir_url || !allowed.has(n.vir_url)) {
+      console.warn(`[briefing] dropping item with invalid vir_url: ${n.vir_url}`);
+      return false;
+    }
+    return true;
+  });
+  return { ...data, novice };
+}
+
 async function main() {
+  const articles = await fetchCnbcArticles();
+  if (articles.length === 0) throw new Error('NewsAPI returned no CNBC articles');
+
   console.log(`[briefing] calling ${MODEL}...`);
-  const response = await callGemini();
-  const data = extractJson(response);
+  const response = await callGemini(buildUserPrompt(articles));
+  const raw = extractJson(response);
+  const data = validateAndCleanup(raw, articles.map((a) => a.url));
 
   const out = {
     generiranoOb: new Date().toISOString(),
