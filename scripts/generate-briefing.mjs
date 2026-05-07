@@ -26,38 +26,39 @@ const GEMINI_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models
 
 const SYSTEM_PROMPT = `Si finančni analitik za slovensko občinstvo. Pišeš jasno, brez hypea, brez finančnih nasvetov. Vedno odgovoriš v slovenščini.`;
 
-async function fetchCnbcArticles() {
-  const url = `https://newsapi.org/v2/top-headlines?sources=cnbc&pageSize=30&apiKey=${NEWSAPI_KEY}`;
+async function fetchArticles() {
+  const url = `https://newsapi.org/v2/top-headlines?category=business&language=en&pageSize=50&apiKey=${NEWSAPI_KEY}`;
   const res = await fetch(url, { headers: { 'User-Agent': 'engineering-investor-briefing/1.0' } });
   if (!res.ok) throw new Error(`NewsAPI ${res.status}: ${await res.text()}`);
   const data = await res.json();
   if (data.status !== 'ok') throw new Error(`NewsAPI status: ${JSON.stringify(data)}`);
 
   const articles = (data.articles || [])
-    .filter((a) => a.url && a.title)
+    .filter((a) => a.url && a.title && a.title !== '[Removed]')
     .map((a) => ({
       title: a.title,
       description: a.description || '',
       url: a.url,
       publishedAt: a.publishedAt,
+      source: a.source?.name || 'Unknown',
     }));
-  console.log(`[briefing] NewsAPI returned ${articles.length} CNBC articles`);
+  console.log(`[briefing] NewsAPI returned ${articles.length} business articles`);
   return articles;
 }
 
 function buildUserPrompt(articles) {
   const today = new Date().toISOString().slice(0, 10);
   const list = articles
-    .map((a, i) => `${i + 1}. ${a.title}\n   URL: ${a.url}\n   Objavljen: ${a.publishedAt}\n   Opis: ${a.description}`)
+    .map((a, i) => `${i + 1}. ${a.title}\n   Vir: ${a.source}\n   URL: ${a.url}\n   Objavljen: ${a.publishedAt}\n   Opis: ${a.description}`)
     .join('\n\n');
 
-  return `Spodaj je seznam najnovejših CNBC novic (zadnjih 24h, datum tekočega zagona ${today}).
+  return `Spodaj je seznam najnovejših poslovnih novic (zadnjih 24h, datum tekočega zagona ${today}), ki jih je vrnil NewsAPI.
 
 ${list}
 
 NALOGA:
 - Izberi TOČNO 6 najpomembnejših novic z vidika finančnih trgov (delnice, obveznice, valute, surovine, kripto, makro, centralne banke, geopolitika z vplivom na trge).
-- Za vsako napiši slovenski povzetek in analizo. URL in datum objave VEDNO ohrani točno tako kot je v seznamu — ne spreminjaj jih, ne izmišljaj novih.
+- Za vsako napiši slovenski povzetek in analizo. URL, vir in datum objave VEDNO ohrani točno tako kot je v seznamu — ne spreminjaj jih, ne izmišljaj novih.
 - Pred novicami napiši 4–6 stavčni "Pregled dneva", ki povzame vse 6 izbrane novice in skupni vpliv na trge.
 
 Vrni IZKLJUČNO veljaven JSON v naslednji obliki, brez markdown ograj, brez razlage pred ali po:
@@ -74,7 +75,7 @@ Vrni IZKLJUČNO veljaven JSON v naslednji obliki, brez markdown ograj, brez razl
       "povzetek": "2–3 stavki o tem, kaj se je zgodilo (kdo, kdaj, koliko, zakaj pomembno).",
       "analiza": "5–7 stavkov: kontekst (kaj je predhodilo), zakaj zdaj, kako se vpenja v trende, posledice za razrede sredstev (delnice/obveznice/valute/surovine), kaj pomeni za dolgoročnega slovenskega vlagatelja. Brez finančnih nasvetov.",
       "vpliv": ["konkretna posledica 1", "konkretna posledica 2", "konkretna posledica 3"],
-      "vir": "CNBC",
+      "vir": "ime vira iz seznama (npr. Reuters, CNBC, Bloomberg) — NESPREMENJENO",
       "vir_url": "polni URL iz seznama, nespremenjen"
     }
   ]
@@ -144,8 +145,8 @@ function validateAndCleanup(data, allowedUrls) {
 }
 
 async function main() {
-  const articles = await fetchCnbcArticles();
-  if (articles.length === 0) throw new Error('NewsAPI returned no CNBC articles');
+  const articles = await fetchArticles();
+  if (articles.length === 0) throw new Error('NewsAPI returned no articles');
 
   console.log(`[briefing] calling ${MODEL}...`);
   const response = await callGemini(buildUserPrompt(articles));
