@@ -59,8 +59,8 @@ export default function MarketBriefing() {
   const [expanded, setExpanded] = useState(null);
 
   useEffect(() => {
-    const base = import.meta.env.BASE_URL || '/';
-    const url = `${base}data/briefing.json`.replace(/\/+/g, '/');
+    const base = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
+    const url = `${base}/data/briefing.json`;
     fetch(url, { cache: 'no-store' })
       .then((r) => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
