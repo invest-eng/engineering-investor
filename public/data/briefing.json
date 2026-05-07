@@ -1,7 +1,98 @@
 {
-  "generiranoOb": "2026-05-07T18:17:44.968Z",
+  "generiranoOb": "2026-05-07T18:38:34.045Z",
   "model": "gemini-2.5-flash",
   "datum": "2026-05-07",
-  "povzetek": "Za 7. maj 2026 in prejšnji dan, 6. maj 2026, ni bilo mogoče najti nobenih ustreznih finančnih novic, objavljenih neposredno na spletni strani cnbc.com, kljub obsežnemu iskanju po različnih rubrikah. Iskanje je bilo omejeno izključno na domeno cnbc.com, kot je bilo zahtevano. Zato ni mogoče podati pregleda najpomembnejših finančnih dogodkov, ki bi izhajali izključno iz tega vira.",
-  "novice": []
+  "povzetek": "Današnje poslovne novice kažejo na mešano, a večinoma pozitivno razpoloženje na trgih. Ameriški delniški indeksi, kot je Dow Jones, so se približali izhodu iz območja korekcije, medtem ko so tehnološke delnice, vključno z Disneyjem, beležile rast po močnih rezultatih. Optimizem je podprlo tudi umirjanje cen nafte, saj so se pojavili znaki napredka pri iranskem dogovoru, kar je pomagalo znižati inflacijske pritiske. V sektorju umetne inteligence so se zvrstile pomembne objave o strateških partnerstvih in naložbah, kot je sodelovanje med xAI in Anthropic ter Nvidijina investicija v Corning, kar kaže na nadaljnjo širitev in konsolidacijo industrije. Hkrati pa Bela hiša razmišlja o strožjem nadzoru nad napredno umetno inteligenco, kar bi lahko vplivalo na prihodnjo regulacijo in razvoj v tem sektorju. Skupno kaže dan na robustno rast tehnološkega sektorja, izboljšanje makroekonomskih kazalnikov in nadaljnje premike v energetiki in regulaciji AI.",
+  "novice": [
+    {
+      "naslov": "xAI in Anthropic sta sklenila strateško partnerstvo za dostop do superračunalniških zmogljivosti",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Podjetje xAI, ustvarjalec klepetalnega robota Grok, je objavilo dogovor z Anthropicom za dostop do superračunalnika Colossus 1. To partnerstvo bo xAI omogočilo razširitev svojih zmogljivosti za razvoj in usposabljanje naprednih modelov umetne inteligence.",
+      "analiza": "Vse večja kompleksnost modelov umetne inteligence zahteva izjemne računske zmogljivosti, zato so tovrstna partnerstva ključna za nadaljnji razvoj. Sodelovanje med xAI in Anthropicom poudarja trend konsolidacije in delitve virov v industriji AI, kjer si podjetja prizadevajo optimizirati stroške in pospešiti inovacije. Za delnice v sektorju AI to pomeni nadaljnjo rast povpraševanja po infrastrukturi in storitvah, hkrati pa lahko prinese konkurenčne prednosti vpletenim podjetjem. Dolgoročno to kaže na zavezanost k napredku AI, kar je pomembno za slovenske vlagatelje, ki spremljajo globalne tehnološke trende.",
+      "vpliv": [
+        "Povečano povpraševanje po AI infrastrukturi",
+        "Konsolidacija v sektorju umetne inteligence",
+        "Potencialna rast delnic vpletenih podjetij"
+      ],
+      "vir": "X.ai",
+      "vir_url": "https://x.ai/news/anthropic-compute-partnership"
+    },
+    {
+      "naslov": "Dow Jones zrasel ob umirjanju cen nafte zaradi napredka pri iranskem dogovoru",
+      "sektor": "Makro & Centralne banke",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Delniški indeks Dow Jones je zrasel za 500 točk, medtem ko so se cene nafte umirile. To je posledica napredka pri pogovorih o iranskem dogovoru, kar zmanjšuje geopolitične napetosti in skrbi glede dobave nafte.",
+      "analiza": "Umirjanje cen nafte je pomemben dejavnik za globalno gospodarstvo, saj neposredno vpliva na inflacijo in stroške poslovanja podjetij. Napredek pri iranskem dogovoru, ki bi lahko povečal ponudbo nafte na trgu, je bil pozitivno sprejet, saj zmanjšuje pritisk na potrošnike in podjetja. To lahko vodi do izboljšanja dobičkonosnosti podjetij in spodbuja potrošniško porabo. Za delniške trge je to pozitiven signal, saj zmanjšuje negotovost in podpira rast. Slovenski vlagatelji bi morali spremljati gibanje cen surovin, saj imajo te velik vpliv na globalno ekonomijo in s tem tudi na vrednost naložb.",
+      "vpliv": [
+        "Znižanje inflacijskih pritiskov",
+        "Pozitiven vpliv na dobičkonosnost podjetij",
+        "Rast delniških trgov"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/05/05/stock-market-today-live-updates.html"
+    },
+    {
+      "naslov": "Indeks Dow Jones tik pred izhodom iz korekcije, kar kaže na okrevanje trga",
+      "sektor": "Makro & Centralne banke",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Indeks Dow Jones se je povzpel nad prag 49.683,30 točke, kar pomeni, da je tik pred uradnim izhodom iz območja korekcije. To okrevanje je bilo pogojeno z dobrimi poslovnimi rezultati in umirjanjem cen nafte.",
+      "analiza": "Izhod pomembnega indeksa, kot je Dow Jones, iz območja korekcije je močan signal za izboljšanje tržnega razpoloženja. Korekcija običajno pomeni padec za 10 % ali več od nedavnega vrha, zato je preboj nad ta prag znak, da se vlagatelji počutijo bolj samozavestne. To lahko spodbudi nadaljnje naložbe in poveča likvidnost na trgu. Okrevanje je podprto z robustnimi dobički podjetij in zmanjšanjem inflacijskih skrbi, kar ustvarja ugodnejše okolje za delnice. Slovenski vlagatelji lahko to razumejo kot znak splošnega okrevanja globalnih trgov, kar lahko pozitivno vpliva na njihove portfelje.",
+      "vpliv": [
+        "Izboljšanje tržnega razpoloženja",
+        "Spodbuda za nadaljnje naložbe",
+        "Zmanjšanje negotovosti na delniških trgih"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-dow-is-about-to-exit-correction-territory-showing-the-old-school-economys-role-in-the-ai-boom-58e1640b"
+    },
+    {
+      "naslov": "Delnice Disneyja poskočile po preseganju pričakovanj in rasti dobičkov od pretočnih storitev",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Disney je v drugem četrtletju presegel ocene analitikov, kar je bilo posledica močne rasti prihodkov in znatnega povečanja dobičkov od pretočnih storitev Disney+ in Hulu. Delnice podjetja so po objavi poskočile.",
+      "analiza": "Uspešnost podjetja Disney je pomemben pokazatelj zdravja potrošniškega sektorja in moči blagovnih znamk v zabavni industriji. Rast dobičkov od pretočnih storitev kaže na uspešno strategijo podjetja pri prilagajanju na spreminjajoče se navade potrošnikov. To je dober znak za širši trg, saj kaže na odpornost in inovativnost velikih podjetij. Močni rezultati lahko spodbujajo zaupanje vlagateljev v sektor potrošniške diskrecijske porabe. Za slovenske vlagatelje, ki imajo v portfeljih globalna podjetja, to pomeni, da so podjetja z močnimi blagovnimi znamkami in prilagodljivimi poslovnimi modeli še vedno privlačna naložbena priložnost.",
+      "vpliv": [
+        "Zaupanje v potrošniški sektor",
+        "Potencialna rast delnic v zabavni industriji",
+        "Potrditev uspešnosti strategije pretočnih storitev"
+      ],
+      "vir": "Investor's Business Daily",
+      "vir_url": "https://www.investors.com/news/disney-earnings-q2-2026-dis-stock-streaming-disney-parks-experiences-dow-jones-warner-bros-paramount-wbd/"
+    },
+    {
+      "naslov": "Nvidia bo investirala 500 milijonov dolarjev v Corning za širitev proizvodnje optičnih vlaken",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Nvidia bo vložila 500 milijonov dolarjev v podjetje Corning, da bi razširila proizvodnjo optičnih vlaken. Ta poteza je del Nvidijine strategije za zagotavljanje ključnih komponent za svojo rastočo infrastrukturo, ki poganja umetno inteligenco.",
+      "analiza": "Nvidijina naložba v Corning poudarja pomen robustne dobavne verige za hitro rastoči sektor umetne inteligence. Optična vlakna so ključna za hitro prenašanje podatkov, kar je nujno za delovanje naprednih AI sistemov in podatkovnih centrov. Ta strateška poteza kaže, da Nvidia ne vlaga le v razvoj čipov, temveč tudi v celotno ekosistemsko infrastrukturo. Za delnice obeh podjetij je to pozitivno, saj zagotavlja dolgoročno sodelovanje in rast. Slovenski vlagatelji bi morali biti pozorni na podjetja, ki so ključna za infrastrukturo AI, saj imajo ta velik potencial za rast, ne glede na neposredno vpletenost v razvoj AI modelov.",
+      "vpliv": [
+        "Okrepljena dobavna veriga za AI",
+        "Povečano povpraševanje po optičnih vlaknih",
+        "Dolgoročna rast za Nvidia in Corning"
+      ],
+      "vir": "The Wall Street Journal",
+      "vir_url": "https://www.wsj.com/tech/nvidia-corning-form-partnership-to-expand-fiber-optic-manufacturing-17f525de"
+    },
+    {
+      "naslov": "Bela hiša razmišlja o strožjem nadzoru nad napredno umetno inteligenco",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Trumpova administracija razpravlja o vrsti novih izvršnih ukrepov glede mejnih modelov umetne inteligence. Ti ukrepi vključujejo režim preverjanja za oceno tveganj za nacionalno varnost, kar bi lahko vplivalo na razvoj in uporabo AI tehnologij.",
+      "analiza": "Potencialna vladna regulacija umetne inteligence je dvorezen meč za tehnološki sektor. Na eni strani lahko strožji nadzor poveča zaupanje javnosti in zmanjša tveganja, povezana z zlorabo AI. Na drugi strani pa lahko pretirana regulacija zavira inovacije in poveča stroške razvoja za podjetja. Takšni ukrepi bi lahko vplivali na vrednotenje delnic AI podjetij, saj bi lahko povzročili negotovost glede prihodnjih operativnih pogojev. Slovenski vlagatelji bi morali spremljati razvoj regulativnega okolja za AI, saj bo to dolgoročno oblikovalo industrijo in vplivalo na naložbene priložnosti.",
+      "vpliv": [
+        "Povečana regulativna negotovost",
+        "Potencialni vpliv na inovacije AI",
+        "Spremenjeni stroški razvoja za AI podjetja"
+      ],
+      "vir": "Politico",
+      "vir_url": "https://www.politico.com/news/2026/05/05/white-house-mulls-tight-new-controls-on-advanced-ai-00907468"
+    }
+  ]
 }
