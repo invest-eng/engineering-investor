@@ -1,7 +1,78 @@
 {
-  "generiranoOb": "2026-04-30T06:30:00.000Z",
-  "model": "claude-sonnet-4-5",
-  "datum": "2026-04-30",
-  "povzetek": "Dnevni pregled še ni bil generiran. Prvi avtomatski pregled bo objavljen po prvem zagonu opravila.",
-  "novice": []
+  "generiranoOb": "2026-05-07T08:20:59.246Z",
+  "model": "gemini-2.5-flash",
+  "datum": "2026-05-07",
+  "povzetek": "Globalni trgi so v zadnjih 24 urah doživeli mešano dogajanje, zaznamovano z optimizmom glede umirjanja geopolitičnih napetosti na Bližnjem vzhodu, kar je pognalo delnice in kriptovalute navzgor, medtem ko so cene nafte strmo padle. Evropska centralna banka je medtem ohranila stabilno denarno politiko.",
+  "novice": [
+    {
+      "naslov": "Ameriške delnice dosegle nove vrhove ob optimizmu glede AI in Bližnjega vzhoda",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Ameriške borze so zabeležile močno rast, predvsem zaradi navdušenja nad umetno inteligenco in optimizma glede reševanja konflikta na Bližnjem vzhodu.",
+      "analiza": "Rast tehnoloških delnic, še posebej proizvajalcev čipov, kaže na nadaljnjo moč sektorja umetne inteligence. Mirovni obeti na Bližnjem vzhodu zmanjšujejo geopolitično tveganje, kar pozitivno vpliva na širši trg in apetit po tveganju.",
+      "vpliv": [
+        "Rast tehnološkega sektorja",
+        "Zmanjšanje geopolitičnega tveganja",
+        "Povečan apetit po tveganju"
+      ],
+      "vir": "Finance"
+    },
+    {
+      "naslov": "Bitcoin presegel 82.000 dolarjev ob umirjanju geopolitičnih napetosti",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Cena Bitcoina je za kratek čas presegla 82.000 dolarjev, kar je posledica umirjanja geopolitičnih napetosti in likvidacije kratkih pozicij.",
+      "analiza": "Kriptovalute so se odzvale na splošno izboljšanje razpoloženja na trgih, še posebej ob zmanjšanju tveganj na Bližnjem vzhodu. Likvidacija kratkih pozicij dodatno poganja ceno navzgor, kar kaže na občutljivost trga kriptovalut na globalne dogodke.",
+      "vpliv": [
+        "Rast trga kriptovalut",
+        "Povečan interes vlagateljev",
+        "Vpliv geopolitike na digitalna sredstva"
+      ],
+      "vir": "Bitcoin News"
+    },
+    {
+      "naslov": "Cene nafte strmo padle ob upanju na mirovni sporazum med ZDA in Iranom",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Cene surove nafte so strmoglavile za 8 odstotkov, potem ko so se pojavila poročila, da Iran preučuje ameriški predlog za končanje vojne.",
+      "analiza": "Močan padec cen nafte odraža zmanjšanje 'premije tveganja', povezane z nestabilnostjo na Bližnjem vzhodu in morebitnim ponovnim odprtjem Hormuške ožine. To je pozitivno za potrošnike in podjetja zaradi nižjih stroškov energije, vendar negativno za proizvajalce nafte.",
+      "vpliv": [
+        "Nižji stroški energije",
+        "Zmanjšanje inflacijskih pritiskov",
+        "Negativen vpliv na energetska podjetja"
+      ],
+      "vir": "Finance"
+    },
+    {
+      "naslov": "ECB kljub povečanim tveganjem ohranila obrestne mere nespremenjene",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Svet Evropske centralne banke (ECB) je skladno s pričakovanji osrednje obrestne mere za evrsko območje ohranil nespremenjene.",
+      "analiza": "Odločitev ECB kaže na previdnost banke, ki kljub morebitnim tveganjem za inflacijo ne želi prehitro zaostrovati denarne politike. To lahko podpira gospodarsko rast, a hkrati ohranja določena inflacijska tveganja, kar vpliva na pričakovanja vlagateljev glede prihodnjih donosov obveznic in delnic.",
+      "vpliv": [
+        "Stabilnost denarne politike",
+        "Podpora gospodarski rasti",
+        "Potencialna inflacijska tveganja"
+      ],
+      "vir": "24ur.com"
+    },
+    {
+      "naslov": "Rusija zamenjala poveljnika zračnih sil po napadih ukrajinskih dronov",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Ruski predsednik Vladimir Putin je po nizu ukrajinskih napadov z droni na rusko energetsko infrastrukturo in Moskvo zamenjal poveljnika Ruskih zračno-svemirskih sil.",
+      "analiza": "Zamenjava visokega vojaškega poveljnika kaže na naraščajoče pritiske in morebitne notranje napetosti v Rusiji zaradi ukrajinskih napadov. To poudarja nadaljevanje konflikta in s tem povezano geopolitično nestabilnost, ki lahko posredno vpliva na cene energentov in globalno varnostno percepcijo.",
+      "vpliv": [
+        "Nadaljevanje geopolitične nestabilnosti",
+        "Možnost eskalacije konflikta",
+        "Vpliv na cene energentov (posredno)"
+      ],
+      "vir": "Geopolitika News"
+    }
+  ]
 }
