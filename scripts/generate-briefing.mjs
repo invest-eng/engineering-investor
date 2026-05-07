@@ -69,17 +69,28 @@ async function callGemini() {
     },
   };
 
-  const res = await fetch(ENDPOINT, {
-    method: 'POST',
-    headers: { 'content-type': 'application/json' },
-    body: JSON.stringify(body),
-  });
+  const RETRY_STATUS = new Set([429, 500, 502, 503, 504]);
+  const MAX_ATTEMPTS = 5;
 
-  if (!res.ok) {
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    const res = await fetch(ENDPOINT, {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify(body),
+    });
+
+    if (res.ok) return res.json();
+
     const text = await res.text();
+    if (RETRY_STATUS.has(res.status) && attempt < MAX_ATTEMPTS) {
+      const wait = Math.min(60_000, 2_000 * 2 ** (attempt - 1));
+      console.warn(`[briefing] ${res.status} (attempt ${attempt}/${MAX_ATTEMPTS}), retry in ${wait}ms`);
+      await new Promise((r) => setTimeout(r, wait));
+      continue;
+    }
     throw new Error(`Gemini API ${res.status}: ${text}`);
   }
-  return res.json();
+  throw new Error('Gemini API: exhausted retries');
 }
 
 function extractJson(response) {
