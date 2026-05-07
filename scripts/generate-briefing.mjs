@@ -26,28 +26,37 @@ const SYSTEM_PROMPT = `Si finančni analitik za slovensko občinstvo. Spremljaš
 
 const USER_PROMPT = `Naredi pregled najpomembnejših finančnih in geopolitičnih dogodkov zadnjih 24 ur, ki vplivajo na trge.
 
-Z Google Search poišči zadnje novice o: ameriških delnicah, evropskih trgih, kriptovalutah, nafti, zlatu, obveznicah, centralnih bankah (Fed, ECB), pomembnih makro objavah (CPI, NFP, GDP), in geopolitiki.
+Z Google Search poišči zadnje novice o: ameriških delnicah (S&P 500, Nasdaq, Dow), evropskih trgih (DAX, CAC, FTSE), azijskih trgih, kriptovalutah (BTC, ETH), nafti (Brent, WTI), zlatu, obveznicah (US 10Y, Bund), centralnih bankah (Fed, ECB, BoJ, BoE), makro objavah (CPI, PPI, NFP, GDP, PMI, retail sales) in geopolitiki, ki vpliva na trge.
 
-Izberi 5–8 najpomembnejših novic in vrni IZKLJUČNO veljaven JSON v naslednji obliki, brez markdown ograj, brez razlage pred ali po:
+PRAVILA ZA VIRE — IZJEMNO POMEMBNO:
+- Uporabljaj IZKLJUČNO preverjene finančne medije: Reuters, Bloomberg, Financial Times, Wall Street Journal, CNBC, MarketWatch, Investing.com, Yahoo Finance, AP News, Barron's, The Economist, ECB/Fed uradne objave. Slovenski viri: Finance.si, STA, Delo (samo za posebno relevantne lokalne novice).
+- Tabloidi, blog stran, agregatorji, anonimni viri NISO sprejemljivi.
+- vir_url MORA biti VELJAVEN URL DIREKTNO do objavljenega članka, nikoli do domače strani ali kategorije. URL mora biti tisti, ki si ga pravkar našel preko Google Search.
+- Če za novico nimaš zanesljivega URL-ja, novice NE vključi.
+
+Izberi TOČNO 6 najpomembnejših novic dneva (ne več, ne manj).
+
+Vrni IZKLJUČNO veljaven JSON v spodnji obliki, brez markdown ograj, brez razlage pred ali po:
 
 {
   "datum": "YYYY-MM-DD",
-  "povzetek": "1–2 stavka kontekstnega povzetka dneva v slovenščini",
+  "povzetek": "4–6 stavkov, ki povzamejo grobi pregled vseh 6 novic, kako se medsebojno povezujejo, in skupni vpliv na trge ta dan (delnice, obveznice, valute, surovine, kripto). Slovenščina, brez hypea.",
   "novice": [
     {
-      "naslov": "kratek naslov v slovenščini",
+      "naslov": "jasen, informativen naslov v slovenščini (8–14 besed)",
       "sektor": "eden od: Tehnologija & AI | Energetika | Finance | Potrošniki | Makro & Centralne banke",
       "smer": "eden od: pozitivno | negativno | mešano",
-      "intenziteta": 1,
-      "povzetek": "1 stavek povzetka",
-      "analiza": "2–3 stavki konteksta in pomena za vlagatelja",
-      "vpliv": ["kratka točka 1", "kratka točka 2", "kratka točka 3"],
-      "vir": "ime vira (npr. Reuters, Bloomberg)"
+      "intenziteta": 2,
+      "povzetek": "2–3 stavki, ki bralcu povedo bistvo dogodka in zakaj je pomembno (kaj se je zgodilo, kdo, kdaj, koliko).",
+      "analiza": "5–7 stavkov poglobljene analize: kontekst (kaj je predhodilo), zakaj se to dogaja zdaj, kako se vpenja v širše trende, kakšne so posledice za različne razrede sredstev (delnice/obveznice/valute/surovine), in kaj pomeni za dolgoročnega slovenskega vlagatelja. Brez finančnih nasvetov, samo razlaga.",
+      "vpliv": ["konkretna posledica 1 (npr. 'Pritisk na donose 10-letnih ameriških obveznic')", "konkretna posledica 2", "konkretna posledica 3"],
+      "vir": "ime medija (npr. Reuters, Bloomberg, Financial Times)",
+      "vir_url": "polni URL do članka, https://..."
     }
   ]
 }
 
-Intenziteta je 1 (manjša novica), 2 (pomembna), 3 (zelo pomembna). Vrni SAMO JSON, nič drugega.`;
+Intenziteta: 1 = manjša novica, 2 = pomembna, 3 = ključna novica dneva. Vrni SAMO JSON, nič drugega.`;
 
 async function callGemini() {
   const body = {
@@ -56,7 +65,7 @@ async function callGemini() {
     tools: [{ google_search: {} }],
     generationConfig: {
       temperature: 0.4,
-      maxOutputTokens: 8000,
+      maxOutputTokens: 16000,
     },
   };
 

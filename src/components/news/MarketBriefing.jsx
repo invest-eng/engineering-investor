@@ -120,16 +120,19 @@ export default function MarketBriefing() {
           <>
             {data.povzetek && (
               <section style={{
-                padding: '1.25rem 1.5rem',
+                padding: '1.5rem 1.75rem',
                 background: 'var(--color-surface)',
-                border: '1px solid var(--color-border)',
+                border: '1px solid var(--color-accent-border, var(--color-border))',
+                borderLeft: '3px solid var(--color-accent)',
                 borderRadius: 12,
-                marginBottom: '1.5rem',
+                marginBottom: '1.75rem',
               }}>
-                <div style={{ fontSize: '0.8rem', textTransform: 'uppercase', letterSpacing: '0.08em', color: 'var(--color-accent)', fontWeight: 700, marginBottom: '0.5rem' }}>
-                  Kontekst dneva
+                <div style={{ fontSize: '0.8rem', textTransform: 'uppercase', letterSpacing: '0.08em', color: 'var(--color-accent)', fontWeight: 700, marginBottom: '0.6rem' }}>
+                  Pregled dneva
                 </div>
-                <p style={{ margin: 0, lineHeight: 1.7 }}>{data.povzetek}</p>
+                <p style={{ margin: 0, lineHeight: 1.75, fontSize: '1.02rem', color: 'var(--color-text)' }}>
+                  {data.povzetek}
+                </p>
               </section>
             )}
 
@@ -226,10 +229,27 @@ export default function MarketBriefing() {
                         </span>
                         <span style={{ color: dir.color, fontSize: '0.9rem', fontWeight: 700 }}>{dir.icon}</span>
                         <IntensityDots value={item.intenziteta} />
-                        {item.vir && (
+                        {item.vir && !item.vir_url && (
                           <span style={{ fontSize: '0.75rem', color: 'var(--color-text-subtle)', marginLeft: 'auto' }}>
                             {item.vir}
                           </span>
+                        )}
+                        {item.vir_url && (
+                          <a
+                            href={item.vir_url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            onClick={(e) => e.stopPropagation()}
+                            style={{
+                              fontSize: '0.75rem',
+                              color: 'var(--color-accent)',
+                              marginLeft: 'auto',
+                              textDecoration: 'none',
+                              borderBottom: '1px solid currentColor',
+                            }}
+                          >
+                            {item.vir || 'Vir'} ↗
+                          </a>
                         )}
                       </div>
                       <h2 style={{ fontSize: '1.1rem', fontWeight: 700, margin: 0, letterSpacing: '-0.01em' }}>
