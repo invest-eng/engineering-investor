@@ -24,17 +24,17 @@ const ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${MODE
 
 const SYSTEM_PROMPT = `Si finančni analitik za slovensko občinstvo. Spremljaš globalne trge, makro podatke in geopolitiko. Pišeš jasno, brez hypea, brez finančnih nasvetov. Vedno odgovoriš v slovenščini.`;
 
-const USER_PROMPT = `Naredi pregled najpomembnejših finančnih in geopolitičnih dogodkov zadnjih 24 ur, ki vplivajo na trge.
+const TODAY = new Date().toISOString().slice(0, 10);
 
-Z Google Search poišči zadnje novice o: ameriških delnicah (S&P 500, Nasdaq, Dow), evropskih trgih (DAX, CAC, FTSE), azijskih trgih, kriptovalutah (BTC, ETH), nafti (Brent, WTI), zlatu, obveznicah (US 10Y, Bund), centralnih bankah (Fed, ECB, BoJ, BoE), makro objavah (CPI, PPI, NFP, GDP, PMI, retail sales) in geopolitiki, ki vpliva na trge.
+const USER_PROMPT = `Naredi pregled najpomembnejših finančnih dogodkov za ${TODAY}, izhajajoč IZKLJUČNO iz novic na CNBC (cnbc.com).
 
-PRAVILA ZA VIRE — IZJEMNO POMEMBNO:
-- Uporabljaj IZKLJUČNO preverjene finančne medije: Reuters, Bloomberg, Financial Times, Wall Street Journal, CNBC, MarketWatch, Investing.com, Yahoo Finance, AP News, Barron's, The Economist, ECB/Fed uradne objave. Slovenski viri: Finance.si, STA, Delo (samo za posebno relevantne lokalne novice).
-- Tabloidi, blog stran, agregatorji, anonimni viri NISO sprejemljivi.
-- vir_url MORA biti VELJAVEN URL DIREKTNO do objavljenega članka, nikoli do domače strani ali kategorije. URL mora biti tisti, ki si ga pravkar našel preko Google Search.
-- Če za novico nimaš zanesljivega URL-ja, novice NE vključi.
-
-Izberi TOČNO 6 najpomembnejših novic dneva (ne več, ne manj).
+PRAVILA ZA ISKANJE — IZJEMNO POMEMBNO:
+- Z Google Search uporabljaj poizvedbe omejene na site:cnbc.com (npr. "site:cnbc.com markets", "site:cnbc.com Fed", "site:cnbc.com stocks today", "site:cnbc.com oil", "site:cnbc.com bitcoin").
+- Najprej pridobi zgodbe z naslovne strani CNBC (cnbc.com) in iz rubrik Markets, Business, Economy, Investing.
+- Izberi TOČNO 6 najpomembnejših člankov, ki so bili OBJAVLJENI NA DAN ${TODAY} (UTC). Članki s starejšim datumom NISO sprejemljivi — tudi če je vsebina aktualna.
+- Vsaka novica mora imeti vir_url, ki je polni URL DIREKTNO do članka na cnbc.com (https://www.cnbc.com/...). URL-ji do domače strani, kategorije ali drugih medijev so prepovedani.
+- Vir naj bo vedno "CNBC".
+- Če za določen dan ne najdeš 6 ustreznih CNBC člankov, vrni manj — ampak ne izmišljaj URL-jev in ne uporabljaj drugih medijev.
 
 Vrni IZKLJUČNO veljaven JSON v spodnji obliki, brez markdown ograj, brez razlage pred ali po:
 
