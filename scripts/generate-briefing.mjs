@@ -19,7 +19,7 @@ if (!API_KEY) {
   process.exit(1);
 }
 
-const MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-pro';
+const MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
 const ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${API_KEY}`;
 
 const SYSTEM_PROMPT = `Si finančni analitik za slovensko občinstvo. Spremljaš globalne trge, makro podatke in geopolitiko. Pišeš jasno, brez hypea, brez finančnih nasvetov. Vedno odgovoriš v slovenščini.`;
