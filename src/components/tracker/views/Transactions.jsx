@@ -93,9 +93,22 @@ export default function Transactions({ state, dispatch }) {
         action={<Button onClick={openNew}>+ Nova transakcija</Button>}
       />
 
-      <Card padding="0.85rem">
+      <Card padding="0.85rem 1rem">
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.6rem' }}>
+          <div style={{ fontSize: '0.72rem', color: 'var(--color-text-muted)', textTransform: 'uppercase', letterSpacing: '0.06em', fontWeight: 700 }}>
+            Filtri
+          </div>
+          {(filter.search || filter.type !== 'all' || filter.accountId !== 'all' || filter.categoryId !== 'all' || filter.from || filter.to) && (
+            <button
+              onClick={() => setFilter({ type: 'all', accountId: 'all', categoryId: 'all', from: '', to: '', search: '' })}
+              style={{ background: 'transparent', border: 'none', color: 'var(--color-accent)', fontSize: '0.78rem', cursor: 'pointer', fontFamily: 'inherit' }}
+            >
+              Počisti
+            </button>
+          )}
+        </div>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(140px, 1fr))', gap: '0.5rem' }}>
-          <Input placeholder="Iskanje..." value={filter.search} onChange={(e) => setFilter({ ...filter, search: e.target.value })} />
+          <Input placeholder="Po plačniku, opombi..." value={filter.search} onChange={(e) => setFilter({ ...filter, search: e.target.value })} />
           <Select value={filter.type} onChange={(e) => setFilter({ ...filter, type: e.target.value })}>
             <option value="all">Vse vrste</option>
             {TYPES.map((t) => <option key={t.id} value={t.id}>{t.label}</option>)}
@@ -108,8 +121,8 @@ export default function Transactions({ state, dispatch }) {
             <option value="all">Vse kategorije</option>
             {cats.map((c) => <option key={c.id} value={c.id}>{c.name} ({c.type === 'income' ? 'P' : 'O'})</option>)}
           </Select>
-          <Input type="date" value={filter.from} onChange={(e) => setFilter({ ...filter, from: e.target.value })} />
-          <Input type="date" value={filter.to} onChange={(e) => setFilter({ ...filter, to: e.target.value })} />
+          <Input type="date" value={filter.from} placeholder="Od" onChange={(e) => setFilter({ ...filter, from: e.target.value })} />
+          <Input type="date" value={filter.to} placeholder="Do" onChange={(e) => setFilter({ ...filter, to: e.target.value })} />
         </div>
       </Card>
 
