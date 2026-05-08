@@ -12,6 +12,7 @@ export const NAV_LINKS = [
   { label: 'Analize', href: '/analize' },
   { label: 'Dnevni pregled', href: '/dnevni-pregled' },
   { label: 'Kalkulatorji', href: '/kalkulatorji' },
+  { label: 'Sledilnik', href: '/sledilnik' },
   { label: 'Premium', href: '/premium' },
   { label: 'O meni', href: '/o-meni' },
 ];
