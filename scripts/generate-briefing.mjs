@@ -21,8 +21,8 @@ const NEWSAPI_KEY = process.env.NEWSAPI_KEY;
 if (!GEMINI_KEY) { console.error('Missing GEMINI_API_KEY'); process.exit(1); }
 if (!NEWSAPI_KEY) { console.error('Missing NEWSAPI_KEY'); process.exit(1); }
 
-const MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
-const GEMINI_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${GEMINI_KEY}`;
+const MODELS = (process.env.GEMINI_MODELS || 'gemini-2.5-flash,gemini-2.0-flash,gemini-2.5-flash-lite').split(',').map(s => s.trim()).filter(Boolean);
+const geminiEndpoint = (model) => `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${GEMINI_KEY}`;
 
 const SYSTEM_PROMPT = `Si finančni analitik za slovensko občinstvo. Pišeš jasno, brez hypea, brez finančnih nasvetov. Vedno odgovoriš v slovenščini.`;
 
@@ -57,7 +57,7 @@ function buildUserPrompt(articles) {
 ${list}
 
 NALOGA:
-- Izberi TOČNO 6 najpomembnejših novic z vidika finančnih trgov (delnice, obveznice, valute, surovine, kripto, makro, centralne banke, geopolitika z vplivom na trge).
+- Izberi najpomembnejše novice z vidika finančnih trgov (delnice, obveznice, valute, surovine, kripto, makro, centralne banke, geopolitika z vplivom na trge).
 - Za vsako napiši slovenski povzetek in analizo. URL, vir in datum objave VEDNO ohrani točno tako kot je v seznamu — ne spreminjaj jih, ne izmišljaj novih.
 - Pred novicami napiši 4–6 stavčni "Pregled dneva", ki povzame vse 6 izbrane novice in skupni vpliv na trge.
 
@@ -96,26 +96,34 @@ async function callGemini(userPrompt) {
   };
 
   const RETRY_STATUS = new Set([429, 500, 502, 503, 504]);
-  const MAX_ATTEMPTS = 5;
+  const ATTEMPTS_PER_MODEL = 3;
+  let lastErr;
 
-  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
-    const res = await fetch(GEMINI_ENDPOINT, {
-      method: 'POST',
-      headers: { 'content-type': 'application/json' },
-      body: JSON.stringify(body),
-    });
-    if (res.ok) return res.json();
+  for (const model of MODELS) {
+    for (let attempt = 1; attempt <= ATTEMPTS_PER_MODEL; attempt++) {
+      const res = await fetch(geminiEndpoint(model), {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify(body),
+      });
+      if (res.ok) {
+        const json = await res.json();
+        return { json, model };
+      }
 
-    const text = await res.text();
-    if (RETRY_STATUS.has(res.status) && attempt < MAX_ATTEMPTS) {
-      const wait = Math.min(60_000, 2_000 * 2 ** (attempt - 1));
-      console.warn(`[briefing] ${res.status} (attempt ${attempt}/${MAX_ATTEMPTS}), retry in ${wait}ms`);
-      await new Promise((r) => setTimeout(r, wait));
-      continue;
+      const text = await res.text();
+      lastErr = `Gemini API ${res.status} on ${model}: ${text}`;
+      if (RETRY_STATUS.has(res.status) && attempt < ATTEMPTS_PER_MODEL) {
+        const wait = Math.min(30_000, 2_000 * 2 ** (attempt - 1));
+        console.warn(`[briefing] ${res.status} on ${model} (attempt ${attempt}/${ATTEMPTS_PER_MODEL}), retry in ${wait}ms`);
+        await new Promise((r) => setTimeout(r, wait));
+        continue;
+      }
+      console.warn(`[briefing] ${res.status} on ${model} — switching to next model`);
+      break;
     }
-    throw new Error(`Gemini API ${res.status}: ${text}`);
   }
-  throw new Error('Gemini API: exhausted retries');
+  throw new Error(`All models failed. Last: ${lastErr}`);
 }
 
 function extractJson(response) {
@@ -148,14 +156,15 @@ async function main() {
   const articles = await fetchArticles();
   if (articles.length === 0) throw new Error('NewsAPI returned no articles');
 
-  console.log(`[briefing] calling ${MODEL}...`);
-  const response = await callGemini(buildUserPrompt(articles));
+  console.log(`[briefing] calling Gemini (models: ${MODELS.join(', ')})...`);
+  const { json: response, model: usedModel } = await callGemini(buildUserPrompt(articles));
+  console.log(`[briefing] success with model ${usedModel}`);
   const raw = extractJson(response);
   const data = validateAndCleanup(raw, articles.map((a) => a.url));
 
   const out = {
     generiranoOb: new Date().toISOString(),
-    model: MODEL,
+    model: usedModel,
     ...data,
   };
 

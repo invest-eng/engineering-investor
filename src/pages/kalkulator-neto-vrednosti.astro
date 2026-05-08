@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import NetWorthCalculator from '../components/calculators/NetWorthCalculator.jsx';
+---
+
+<BaseLayout
+  title="Kalkulator neto vrednosti"
+  description="Izračunaj svojo neto vrednost — sredstva minus obveznosti. Z razčlembo na likvidno in nelikvidno premoženje, grafom strukture in shranjevanjem podatkov lokalno."
+>
+  <NetWorthCalculator client:load />
+</BaseLayout>
