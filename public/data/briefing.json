@@ -1,98 +1,83 @@
 {
-  "generiranoOb": "2026-05-08T10:58:27.838Z",
+  "generiranoOb": "2026-05-09T10:17:46.249Z",
   "model": "gemini-2.5-flash",
-  "datum": "2026-05-08",
-  "povzetek": "Globalni finančni trgi so danes kazali mešano sliko, zaznamovano z geopolitičnimi napetostmi in močnim povpraševanjem po umetni inteligenci. Delniški indeksi, kot sta S&P 500 in Nasdaq, so dosegli nove rekorde, kar kaže na optimizem v tehnološkem sektorju. Vendar pa so nafta in surovine ostale pod vplivom dogajanja v Iranu, saj so cene nafte Brent presegale 100 dolarjev za sod, kljub upanju na ponovno odprtje Hormuške ožine. Medtem ko so podjetja, kot je AMD, poročala o izjemni rasti zaradi AI čipov, je delnica Arma po objavi rezultatov doživela divje nihanje, kar poudarja volatilnost v sektorju. Pomembna je tudi novica, da je Južna Koreja prehitela Kanado in postala sedmi največji borzni trg na svetu, predvsem zaradi povpraševanja po AI čipih, medtem ko je Disney presenetil s pozitivnimi rezultati v segmentu pretakanja.",
+  "datum": "2026-05-09",
+  "povzetek": "Današnji finančni trgi so pod vplivom mešanice geopolitičnih napetosti, makroekonomskih pričakovanj in razvoja v tehnološkem sektorju. Geopolitična trenja med ZDA in Iranom so povzročila rast cen nafte, medtem ko se trgi pripravljajo na ključno poročilo o zaposlovanju v ZDA, ki bo določilo smer kratkoročnih gibanj. V tehnološkem sektorju so se pojavile novice o domnevnem tihotapljenju čipov Nvidia na Kitajsko, kar poudarja izzive v dobavnih verigah in geopolitično rivalstvo. Mednarodni denarni sklad opozarja na sistemska tveganja, ki jih prinašajo novi modeli umetne inteligence v finančnem sektorju, hkrati pa Bela hiša nakazuje na manj strogo regulacijo AI, kar bi lahko spodbudilo inovacije. Medtem pa odpuščanja v podjetju Cloudflare kažejo na nadaljnje prilagajanje v tehnološki industriji.",
   "novice": [
     {
-      "naslov": "Delniška indeksa S&P 500 in Nasdaq dosegla nove rekorde, trgi spremljajo Iran",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
+      "naslov": "ZDA sumijo tihotapljenje Nvidijinih čipov Alibabi preko Tajske, kar poudarja geopolitične napetosti",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Indeksa S&P 500 in Nasdaq Composite sta v sredo ponovno dosegla nove rekordne vrednosti tako znotraj dneva kot ob zaključku trgovanja. Terminske pogodbe za S&P 500 so se zvišale, medtem ko vlagatelji pozorno spremljajo razvoj dogodkov v Iranu, ki vplivajo na globalne trge.",
-      "analiza": "Ta novica kaže na nadaljnji optimizem na ameriških delniških trgih, kljub geopolitičnim tveganjem. Predhodno so trge poganjali močni rezultati podjetij, zlasti v tehnološkem sektorju, in pričakovanja glede morebitnega znižanja obrestnih mer v prihodnosti. Rast delniških indeksov v času, ko se vlagatelji osredotočajo na Iran, poudarja odpornost trga, a tudi njegovo občutljivost na zunanje šoke. Za dolgoročnega slovenskega vlagatelja to pomeni, da so globalni delniški trgi še vedno v fazi rasti, vendar je potrebna previdnost zaradi potencialnih geopolitičnih dejavnikov, ki lahko hitro spremenijo sentiment.",
+      "povzetek": "Ameriške oblasti domnevajo, da je ključno podjetje na Tajskem pomagalo pri tihotapljenju milijard dolarjev vrednih strežnikov Super Micro Computer Inc. z naprednimi čipi Nvidia Corp. na Kitajsko, pri čemer je Alibaba Group Holding Ltd. eden izmed končnih kupcev. To razkriva nadaljnje napetosti v tehnološki dobavni verigi med ZDA in Kitajsko.",
+      "analiza": "Ta novica prihaja v času zaostrenih trgovinskih in tehnoloških odnosov med ZDA in Kitajsko, kjer ZDA aktivno poskušajo omejiti kitajski dostop do napredne polprevodniške tehnologije. Morebitno tihotapljenje čipov Nvidia, ključnega igralca v sektorju umetne inteligence, bi lahko imelo resne posledice za vpletena podjetja, vključno z morebitnimi sankcijami in preiskavami. Za delnice Nvidie bi to pomenilo povečano regulativno tveganje in morebitno prekinitev dobavnih verig. Na širšem trgu to poudarja krhkost globalnih dobavnih verig in vpliv geopolitike na tehnološki sektor, kar lahko dolgoročno vpliva na zaupanje vlagateljev v podjetja, ki so močno izpostavljena kitajskemu trgu. Slovenski vlagatelji naj bodo pozorni na morebitno volatilnost delnic podjetij, vpletenih v tovrstne spore.",
       "vpliv": [
-        "Rast globalnih delniških indeksov",
-        "Povečana volatilnost zaradi geopolitike",
-        "Zadržan optimizem vlagateljev"
+        "Povečano regulativno tveganje za Nvidia in Alibaba",
+        "Zaostrovanje ameriško-kitajskih tehnoloških napetosti",
+        "Potencialne motnje v globalnih dobavnih verigah"
+      ],
+      "vir": "Bloomberg",
+      "vir_url": "https://www.bloomberg.com/news/articles/2026-05-08/us-said-to-suspect-nvidia-chips-smuggled-to-alibaba-via-thailand"
+    },
+    {
+      "naslov": "Borzni terminski posli višje ob spremljanju dogajanja med ZDA in Iranom ter pričakovanju poročila o delovnih mestih",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Borzni terminski posli so se zvišali, saj vlagatelji spremljajo razvoj dogodkov med ZDA in Iranom, hkrati pa pričakujejo objavo aprilskega poročila o delovnih mestih v ZDA. Ekonomisti pričakujejo skromno rast zaposlovanja in stabilno stopnjo brezposelnosti pri 4,3 %.",
+      "analiza": "Pričakovanja glede poročila o delovnih mestih v ZDA so ključna za smer finančnih trkov, saj močno vplivajo na odločitve centralnih bank glede obrestnih mer. Šibkejše poročilo bi lahko okrepilo pričakovanja o znižanju obrestnih mer, kar bi bilo pozitivno za delnice in obveznice, medtem ko bi močnejše poročilo lahko povzročilo nasprotni učinek. Hkrati geopolitične napetosti med ZDA in Iranom, ki so že povzročile rast cen nafte, dodajajo negotovost. Ta kombinacija makroekonomskih podatkov in geopolitičnih dogodkov ustvarja volatilno okolje. Za slovenske vlagatelje je pomembno spremljati te globalne dejavnike, saj vplivajo na svetovne trge in posredno tudi na domače naložbe, zlasti preko tečajev valut in cen surovin.",
+      "vpliv": [
+        "Povečana volatilnost pred objavo podatkov o zaposlovanju",
+        "Vpliv na pričakovanja glede obrestnih mer Federal Reserve",
+        "Geopolitične napetosti vplivajo na cene nafte"
       ],
       "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/05/06/stock-market-today-live-updates.html"
+      "vir_url": "https://www.cnbc.com/2026/05/07/stock-market-today-live-updates.html"
     },
     {
-      "naslov": "Delnica Arma po objavi rezultatov divje niha kljub močnemu povpraševanju",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Delnica podjetja Arm je po objavi solidnih četrtletnih rezultatov v sredo popoldne doživela divje nihanje. Kljub močnemu povpraševanju po njihovih čipih, zlasti tistih za umetno inteligenco, je trg reagiral z visoko volatilnostjo.",
-      "analiza": "Arm je ključen igralec v industriji polprevodnikov, še posebej pomemben za razvoj čipov, ki poganjajo umetno inteligenco. Njegovi rezultati so bili solidni, kar potrjuje močno povpraševanje v sektorju. Vendar pa divje nihanje delnice po objavi kaže na visoka pričakovanja vlagateljev in morebitno pregrevanje trga. To je pogost pojav pri hitro rastočih tehnoloških podjetjih, kjer tudi minimalna odstopanja od pričakovanj lahko povzročijo močne reakcije. Za slovenskega vlagatelja to poudarja, da je kljub dolgoročnemu potencialu AI sektorja, kratkoročna volatilnost lahko visoka, kar zahteva premišljeno strategijo in razumevanje tveganj.",
-      "vpliv": [
-        "Povečana volatilnost v tehnološkem sektorju",
-        "Potrjeno močno povpraševanje po AI čipih",
-        "Visoka pričakovanja vlagateljev"
-      ],
-      "vir": "Barron's",
-      "vir_url": "https://www.barrons.com/articles/arm-earnings-stock-price-044c9e87"
-    },
-    {
-      "naslov": "Upanje na ponovno odprtje Hormuške ožine dviguje svetovne delnice, nafta Brent nad 100 $",
+      "naslov": "Cene nafte se dvigujejo po izmenjavi ognja med ZDA in Iranom v Hormuški ožini",
       "sektor": "Energetika",
       "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Svetovne delnice so napredovale, pri čemer je tokijski Nikkei 225 zrasel za skoraj 6 %. Cena nafte Brent se je v četrtek zjutraj držala nad 100 dolarji za sod, saj vlagatelji čakajo na morebiten dogovor med ZDA in Iranom, ki bi omogočil dostavo nafte.",
-      "analiza": "Geopolitične napetosti, zlasti v zvezi z Iranom in Hormuško ožino, imajo neposreden vpliv na cene nafte in globalne trge. Hormuška ožina je ključna pomorska pot za transport nafte, zato vsaka negotovost tam takoj dvigne cene. Upanje na dogovor in ponovno odprtje je pozitivno za svetovne delnice, saj zmanjšuje tveganje za motnje v dobavi in inflacijske pritiske. Vendar pa vztrajna cena nafte nad 100 dolarji kaže, da je tveganje še vedno prisotno. Za slovenskega vlagatelja to pomeni, da so cene energentov še vedno pomemben dejavnik, ki lahko vpliva na inflacijo in s tem na monetarno politiko centralnih bank ter posledično na donosnost obveznic in delnic.",
-      "vpliv": [
-        "Zvišanje cen nafte Brent",
-        "Rast svetovnih delniških trgov",
-        "Zmanjšanje geopolitičnega tveganja (začasno)"
-      ],
-      "vir": "Associated Press",
-      "vir_url": "https://apnews.com/article/stocks-markets-rates-iran-trump-oil-44bac8b794519ae9169f968ddc9ea675"
-    },
-    {
-      "naslov": "Južna Koreja prehitela Kanado in postala sedmi največji borzni trg na svetu",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Južnokorejski delniški trg je prehitel kanadskega in postal sedmi največji na svetu. To rast poganja predvsem izjemno povpraševanje po čipih, ki so ključni za razvoj umetne inteligence.",
-      "analiza": "Ta novica poudarja globalni premik v gospodarski moči in vpliv tehnološkega sektorja, zlasti umetne inteligence. Južna Koreja je dom nekaterih največjih proizvajalcev polprevodnikov, kar jo postavlja v ospredje globalne AI revolucije. Prehiter rast borznega trga odraža zaupanje vlagateljev v njeno tehnološko industrijo in prihodnje ekonomske obete. Za dolgoročnega slovenskega vlagatelja je to pomemben indikator, ki kaže na nadaljnjo globalno preusmeritev kapitala v tehnološko napredne ekonomije in poudarja pomen diverzifikacije portfelja v regije, ki so ključne za prihodnje tehnološke trende.",
+      "povzetek": "Cene nafte so se zvišale, potem ko sta si ZDA in Iran izmenjala ogenj v Hormuški ožini. Ta incident dodatno ogroža prekinitev ognja med državama, ki jo je Trump podaljšal za nedoločen čas 21. aprila.",
+      "analiza": "Hormuška ožina je ključna pomorska pot za svetovni transport nafte, zato vsaka eskalacija napetosti v regiji takoj vpliva na cene te surovine. Rast cen nafte je neposredna posledica povečanega geopolitičnega tveganja in strahu pred motnjami v dobavi. To je pozitivno za delnice naftnih in plinskih podjetij, vendar negativno za podjetja, ki so odvisna od nizkih cen energije, kot so letalske družbe in transportna podjetja, ter za potrošnike zaradi višjih stroškov goriva. Za slovenske vlagatelje to pomeni, da se lahko poveča inflacijski pritisk, kar bi lahko vplivalo na politiko Evropske centralne banke in posledično na obvezniške trge.",
       "vpliv": [
-        "Povečan pomen azijskih trgov",
-        "Rast povpraševanja po AI čipih",
-        "Sprememba globalne borzne hierarhije"
+        "Rast cen nafte na svetovnih trgih",
+        "Povečana inflacijska tveganja",
+        "Vpliv na delnice energetskih in transportnih podjetij"
       ],
-      "vir": "Bloomberg.com",
-      "vir_url": "https://www.bloomberg.com/news/articles/2026-05-07/korea-surpasses-canada-as-world-s-seventh-largest-stock-market"
+      "vir": "BBC News",
+      "vir_url": "https://www.bbc.com/news/articles/c86dp85g59xo"
     },
     {
-      "naslov": "Delnica Disneyja poskočila po rezultatih, dobički od pretakanja cvetijo, Warner Bros. razočaral",
-      "sektor": "Potrošniki",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Disney je v drugem četrtletju presegel pričakovanja analitikov, kar je posledica močne rasti prihodkov in znatnega povečanja dobička v segmentih Disney+ in Hulu. Delnica Disneyja je po objavi poskočila, medtem ko je Warner Bros. Discovery razočaral.",
-      "analiza": "Rezultati Disneyja kažejo na uspešno preusmeritev podjetja v dobičkonosno poslovanje s pretakanjem, kar je bil ključen strateški cilj. To je pomemben signal za celotno medijsko industrijo, da se lahko platforme za pretakanje preoblikujejo iz stroškovnega centra v vir dobička. Kontrast z rezultati Warner Bros. Discovery poudarja razlike v strategijah in izvedbi med tekmeci. Za slovenskega vlagatelja to pomeni, da je sektor zabave in medijev še vedno privlačen, vendar je ključno prepoznati podjetja, ki uspešno prilagajajo svoje poslovne modele spreminjajočim se navadam potrošnikov in dosegajo dobičkonosnost v digitalnem prostoru.",
-      "vpliv": [
-        "Rast delnice Disneyja",
-        "Dobičkonosnost platform za pretakanje",
-        "Razlike v uspešnosti med medijskimi podjetji"
-      ],
-      "vir": "Investor's Business Daily",
-      "vir_url": "https://www.investors.com/news/disney-earnings-q2-2026-dis-stock-streaming-disney-parks-experiences-dow-jones-warner-bros-paramount-wbd/"
-    },
-    {
-      "naslov": "Delnice AMD poskočile za 15 % zaradi izjemne rasti prihodkov, poganjane z umetno inteligenco",
+      "naslov": "Bela hiša se distancira od strožje regulacije umetne inteligence, išče partnerstvo s podjetji",
       "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Delnice podjetja AMD so poskočile za 15 % po objavi močnih rezultatov in rasti prihodkov, ki jih je poganjalo močno povpraševanje po AI čipih. Prodaja v segmentu podatkovnih centrov se je močno povečala, kar kaže na izjemen optimizem glede prihodnjih obetov.",
-      "analiza": "AMD je eden ključnih igralcev v industriji polprevodnikov, ki tekmuje z Nvidio na področju AI čipov. Njegovi izjemni rezultati potrjujejo izjemno močno povpraševanje po procesorjih, optimiziranih za umetno inteligenco, kar je trenutno eden najmočnejših trendov na trgu. Rast prihodkov v segmentu podatkovnih centrov je še posebej pomembna, saj kaže na širšo implementacijo AI tehnologij v podjetjih. Za dolgoročnega slovenskega vlagatelja to poudarja nadaljnji potencial rasti v sektorju umetne inteligence in polprevodnikov, vendar je pomembno spremljati konkurenčno dinamiko in morebitno pregrevanje trga.",
+      "intenziteta": 2,
+      "povzetek": "Bela hiša si pri nadzoru nad umetno inteligenco prizadeva za \"partnerstvo\" s podjetji, namesto da bi sledila \"vladni regulaciji\", je dejal visoki uradnik Bele hiše. To nakazuje na bolj proaktiven pristop, ki bi lahko spodbudil inovacije.",
+      "analiza": "Odločitev Bele hiše, da se osredotoči na partnerstvo namesto na strogo regulacijo, je pomembna za celoten sektor umetne inteligence. Manjše regulativne ovire bi lahko pospešile razvoj in implementacijo AI tehnologij, kar bi bilo pozitivno za delnice podjetij, ki delujejo na tem področju. Hkrati pa to lahko pomeni tudi večjo odgovornost za podjetja pri samoregulaciji in etičnem razvoju AI. Dolgoročno bi lahko takšen pristop ZDA postavil v vodilni položaj pri inovacijah na področju AI, kar bi pritegnilo nadaljnje naložbe. Slovenski vlagatelji naj bodo pozorni na podjetja, ki so v ospredju razvoja AI in bi lahko imela koristi od bolj liberalnega regulativnega okolja.",
       "vpliv": [
-        "Močna rast delnice AMD",
-        "Povečano povpraševanje po AI čipih",
-        "Potrjen optimizem v sektorju polprevodnikov"
+        "Spodbujanje inovacij v sektorju umetne inteligence",
+        "Manjše regulativne ovire za AI podjetja",
+        "Povečana odgovornost podjetij za etični razvoj AI"
       ],
-      "vir": "Yahoo Entertainment",
-      "vir_url": "https://finance.yahoo.com/markets/stocks/articles/amd-shares-jump-15-stunning-120350094.html"
+      "vir": "Politico",
+      "vir_url": "https://www.politico.com/news/2026/05/07/white-house-ai-oversight-00910837"
+    },
+    {
+      "naslov": "Tehnološki velikan Cloudflare načrtuje več kot 1.100 odpuščanj ob reorganizaciji okoli umetne inteligence",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Tehnološko podjetje Cloudflare iz San Francisca je napovedalo, da bo globalno ukinilo več kot 1.100 delovnih mest, saj se reorganizira okoli umetne inteligence. To kaže na nadaljnje prilagajanje v tehnološki industriji.",
+      "analiza": "Odpuščanja v podjetju Cloudflare, ki so del reorganizacije okoli umetne inteligence, so pomemben signal o tekočih spremembah v tehnološkem sektorju. Medtem ko se nekatera podjetja širijo zaradi AI, druga prestrukturirajo svoje poslovanje, kar pogosto vključuje zmanjšanje števila zaposlenih na določenih področjih. To lahko kaže na pritisk na marže ali pa na preusmeritev virov v bolj donosne segmente. Za delnice podjetja je to običajno kratkoročno negativno, dolgoročno pa lahko pomeni izboljšanje učinkovitosti. Širše gledano, to odpuščanje poudarja, da tudi v rastočem sektorju AI prihaja do konsolidacije in optimizacije. Slovenski vlagatelji naj bodo pozorni na finančno stabilnost in strateške usmeritve tehnoloških podjetij, v katera vlagajo.",
+      "vpliv": [
+        "Kratkoročni negativni vpliv na delnice Cloudflare",
+        "Indikator prestrukturiranja v tehnološkem sektorju",
+        "Preusmeritev virov v AI in optimizacija poslovanja"
+      ],
+      "vir": "San Francisco Chronicle",
+      "vir_url": "https://www.sfchronicle.com/tech/article/cloudflare-layoffs-ai-san-francisco-22247850.php"
     }
   ]
 }
