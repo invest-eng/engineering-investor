@@ -1,83 +1,68 @@
 {
-  "generiranoOb": "2026-05-11T13:00:07.115Z",
+  "generiranoOb": "2026-05-11T16:20:31.592Z",
   "model": "gemini-2.5-flash",
   "datum": "2026-05-11",
-  "povzetek": "Današnje novice prinašajo mešano sliko za finančne trge, zaznamovano z makroekonomskimi dejavniki, geopolitičnimi tveganji in razvojem v tehnološkem sektorju. Močno poročilo o delovnih mestih v ZDA kaže na robustno gospodarstvo, kar je pozitivno za delnice, a hkrati povečuje inflacijske skrbi in s tem pritisk na Federal Reserve. Odločitev predsednika Feda Powella, da ostane v odboru, in potreba po izdaji dodatnega državnega dolga v ZDA ustvarjata negotovost na trgu obveznic in glede prihodnje monetarne politike. Geopolitične napetosti, zlasti iranska vojna, dramatično izčrpavajo svetovne zaloge nafte, kar poganja cene surovin navzgor in povečuje inflacijske pritiske. V tehnološkem sektorju sodni proces OpenAI razkriva notranja rivalstva, medtem ko stroški nadgradnje električnega omrežja za podatkovne centre AI v Marylandu poudarjajo naraščajoče infrastrukturne izzive in stroške, povezane z rastjo umetne inteligence.",
+  "povzetek": "Današnje novice kažejo na povečano negotovost na globalnih finančnih trgih, predvsem zaradi geopolitičnih napetosti in makroekonomskih dejavnikov. Vojna v Iranu ne le grozi s povišanjem cen nafte in spremembami na energetskih trgih, ampak bi lahko tudi prisilila ameriško centralno banko (Fed) k dvigu obrestnih mer. Hkrati je Fed objavil poslabšano inflacijsko napoved, kar dodatno obremenjuje obvezniške trge, ki se že soočajo z napovedjo večjega zadolževanja ameriške vlade. Politična trenja okoli neodvisnosti Feda, ki jih nakazuje poteza predsednika Powella, dodajajo še eno plast negotovosti. V tehnološkem sektorju pa odmeva sojenje OpenAI, ki razkriva notranje spore v podjetju z astronomsko vrednostjo.",
   "novice": [
     {
-      "naslov": "Predsednik Feda Jerome Powell ostaja v upravnem odboru, kar je prelom s tradicijo",
+      "naslov": "Predsednik Feda Jerome Powell prekinil 75-letno tradicijo, kar je razjezilo Trumpa",
       "sektor": "Makro & Centralne banke",
       "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Jerome Powell je napovedal, da bo ostal član upravnega odbora Federal Reserve tudi po izteku mandata predsednika. Ta poteza prekinja 75-letno tradicijo, po kateri so predsedniki Feda po koncu mandata zapustili odbor.",
-      "analiza": "Odločitev predsednika Feda, da ostane v upravnem odboru, je presenetljiva in potencialno vpliva na neodvisnost centralne banke. V preteklosti so predsedniki odstopili, da bi se izognili morebitnim konfliktom interesov ali vplivanju na naslednika. Ta poteza lahko povzroči negotovost glede prihodnje usmeritve monetarne politike, saj bi lahko Powell s svojim vplivom še vedno oblikoval odločitve. Za trge to pomeni dodaten dejavnik tveganja, saj se lahko pojavi percepcija zmanjšane neodvisnosti Feda, kar bi lahko vplivalo na zaupanje v dolgoročno stabilnost. Vpliv na obveznice in valute je lahko negativen zaradi negotovosti, medtem ko bi delnice lahko reagirale mešano, odvisno od interpretacije.",
+      "povzetek": "Predsednik Federal Reserve, Jerome Powell, je napovedal, da namerava ostati v Odboru guvernerjev Feda tudi po izteku svojega mandata predsednika. Ta poteza prekinja 75-letno tradicijo, po kateri so predsedniki Feda po koncu mandata zapustili odbor, in najverjetneje ne bo po volji nekdanjemu predsedniku Trumpu.",
+      "analiza": "Odločitev Powella, da ostane v odboru po koncu predsedniškega mandata, je nenavadna in poudarja napetosti med politiko in neodvisnostjo centralne banke. Takšna poteza lahko vpliva na percepcijo neodvisnosti Feda in morda povzroči dodatne politične pritiske, kar ustvarja negotovost na trgih. Vpliv na delniške trge bi bil lahko mešan, saj nekateri vidijo to kot znak stabilnosti, drugi pa kot vir politične nestabilnosti. Za obvezniške trge bi to lahko pomenilo večjo volatilnost, saj se vlagatelji sprašujejo o prihodnji smeri denarne politike in morebitnih političnih vplivih. Dolgoročni slovenski vlagatelj naj bo pozoren na morebitne spremembe v retoriki in delovanju Feda, saj lahko politični pritiski vplivajo na odločitve o obrestnih merah.",
       "vpliv": [
-        "Povečana negotovost glede neodvisnosti Feda",
-        "Potencialni vpliv na prihodnjo monetarno politiko",
-        "Mešan odziv na delniških trgih"
+        "Povečana politična negotovost glede Feda",
+        "Možna volatilnost na trgih obveznic",
+        "Vprašanja o neodvisnosti centralne banke"
       ],
-      "vir": "The Motley Fool",
+      "vir": "Motley Fool",
       "vir_url": "https://www.fool.com/investing/2026/05/09/fed-chair-jerome-powell-just-broke-75-years-of-pre/"
     },
     {
-      "naslov": "Iranska vojna izčrpava svetovne zaloge nafte z izjemno hitrostjo",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Po ocenah Morgan Stanleyja so se globalne zaloge nafte med 1. marcem in 25. aprilom zmanjšale za približno 4,8 milijona sodčkov dnevno. Ta izčrpavanje je posledica iranske vojne in s tem povezanih motenj v dobavi.",
-      "analiza": "Konflikt v Iranu ima neposreden in močan vpliv na svetovne energetske trge. Zmanjševanje zalog nafte po tako visoki stopnji pomeni, da je trg pod velikim pritiskom, kar se običajno odraža v rasti cen nafte. Višje cene nafte imajo lahko inflacijski učinek na globalno gospodarstvo, saj povečujejo stroške transporta in proizvodnje. Za vlagatelje to pomeni potencialno rast delnic v energetskem sektorju, medtem ko bi lahko imelo negativen vpliv na podjetja, ki so odvisna od nizkih cen goriva. Centralne banke bi se lahko soočile z dodatnim pritiskom glede inflacije, kar bi lahko vplivalo na odločitve o obrestnih merah.",
-      "vpliv": [
-        "Rast cen nafte in energentov",
-        "Povečan inflacijski pritisk",
-        "Potencialna rast delnic energetskih podjetij"
-      ],
-      "vir": "Fortune",
-      "vir_url": "https://fortune.com/2026/05/09/iran-war-is-global-oil-stockpile-reserves-releases-strategic-petroleum-reserve/"
-    },
-    {
-      "naslov": "Zvezna vlada mora izdati več dolga zaradi šibkega denarnega toka; trg obveznic opozarja",
+      "naslov": "Ameriška vlada mora izdati več dolga, kot je pričakovano, saj se denarni tokovi slabšajo",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Ameriška zvezna vlada bo morala izdati več dolga, kot je bilo pričakovano, zaradi oslabljenega denarnega toka. Analitiki opozarjajo, da je odziv trga obveznic na to situacijo \"brez primere\" v zadnjih desetletjih.",
-      "analiza": "Povečana potreba po izdaji državnega dolga kaže na fiskalne izzive, s katerimi se sooča ameriška vlada. To lahko povzroči pritisk na navzgor na dolgoročne obrestne mere, saj se poveča ponudba obveznic. Višje obrestne mere imajo lahko negativen vpliv na gospodarstvo, saj podražijo zadolževanje za podjetja in potrošnike, kar lahko upočasni gospodarsko rast. Za vlagatelje v obveznice to pomeni tveganje padca cen obstoječih obveznic, medtem ko bi lahko nove izdaje ponujale višje donose. Na delniških trgih bi višje obrestne mere lahko zmanjšale privlačnost delnic, še posebej tistih z visokim zadolževanjem.",
+      "intenziteta": 3,
+      "povzetek": "Ameriška zvezna vlada bo morala izdati več dolga, kot je bilo prvotno pričakovano, saj se njeni denarni tokovi slabšajo. Analitiki opozarjajo, da \"trg obveznic kriči\", kar kaže na zaskrbljenost glede naraščajočega javnega dolga in njegovega vpliva na obrestne mere.",
+      "analiza": "Povečano zadolževanje vlade običajno pomeni večjo ponudbo obveznic na trgu, kar lahko povzroči padec cen obveznic in s tem dvig njihovih donosov (obrestnih mer). To ima lahko širše posledice za gospodarstvo, saj se dražje zadolžujejo tudi podjetja in posamezniki. Za delniške trge višje obrestne mere pomenijo dražje financiranje in manj privlačne prihodnje dobičke. Za obvezniške trge to pomeni nadaljnji pritisk na donose. Slovenski vlagatelj mora razumeti, da se globalni obvezniški trgi odzivajo na te trende, kar posredno vpliva tudi na domače obrestne mere in dostopnost kapitala. Povečanje dolga lahko dolgoročno vpliva na inflacijo in stabilnost valute.",
       "vpliv": [
-        "Rast dolgoročnih obrestnih mer",
-        "Padec cen obstoječih obveznic",
-        "Potencialno upočasnjevanje gospodarske rasti"
+        "Dvig donosov na obveznice",
+        "Povečani stroški zadolževanja za vlade in podjetja",
+        "Potencialni pritisk na inflacijo"
       ],
       "vir": "Fortune",
       "vir_url": "https://fortune.com/2026/05/09/us-debt-treasury-bonds-government-borrowing-cash-flow-yields-fed/"
     },
     {
-      "naslov": "Državljani Marylanda se soočajo z 2 milijardama dolarjev stroškov za nadgradnjo omrežja zaradi podatkovnih centrov AI",
-      "sektor": "Tehnologija & AI",
+      "naslov": "Inflacijska napoved Federal Reserve za maj je slabša, kar je zaskrbljujoče za Wall Street",
+      "sektor": "Makro & Centralne banke",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Državljani Marylanda se soočajo z računom v višini 2 milijard dolarjev za nadgradnjo električnega omrežja, ki bo večinoma koristila podatkovnim centrom AI izven države. Maryland se je pritožil zveznim energetskim regulatorjem, saj meni, da to krši obljube o zaščiti porabnikov.",
-      "analiza": "Ta novica poudarja naraščajoče infrastrukturne in energetske zahteve, ki jih prinaša hitra rast umetne inteligence in podatkovnih centrov. Čeprav je AI sektor v vzponu, se pojavljajo vprašanja o tem, kdo bo nosil stroške te ekspanzije. Povečani stroški za električno omrežje lahko vplivajo na cene energije za potrošnike in podjetja, kar lahko dolgoročno zmanjša konkurenčnost določenih regij. Za vlagatelje to pomeni, da je treba poleg potenciala rasti AI upoštevati tudi njene stranske stroške in regulativna tveganja. Podjetja, ki gradijo podatkovne centre, se lahko soočijo z večjimi stroški ali regulativnimi ovirami, kar lahko vpliva na njihovo dobičkonosnost.",
+      "intenziteta": 3,
+      "povzetek": "Najnovejša inflacijska napoved Federal Reserve za maj kaže na poslabšanje razmer, kar je povzročilo zaskrbljenost na Wall Streetu. Ta prognostika centralne banke predstavlja \"nočno moro\" za drugi najdražji delniški trg v zgodovini, saj nakazuje na vztrajnejše inflacijske pritiske.",
+      "analiza": "Slabša inflacijska napoved Feda pomeni, da centralna banka pričakuje, da bo inflacija ostala visoka dlje časa, kar povečuje verjetnost, da bodo obrestne mere ostale visoke ali se celo dvignile. To je negativna novica za delniške trge, saj višje obrestne mere zmanjšujejo privlačnost delnic in povečujejo stroške zadolževanja podjetij. Za obvezniške trge to pomeni nadaljnji pritisk na padanje cen obveznic in rast donosov. Vlagatelji v valute lahko pričakujejo krepitev dolarja, če se bo Fed odločil za bolj agresivno politiko. Slovenski vlagatelj mora biti pozoren na inflacijska pričakovanja, saj ta neposredno vplivajo na realno donosnost naložb in kupno moč.",
       "vpliv": [
-        "Povečani stroški energije za potrošnike",
-        "Regulativna tveganja za podatkovne centre AI",
-        "Potencialno zmanjšanje privlačnosti določenih regij za AI investicije"
+        "Povečana verjetnost višjih obrestnih mer",
+        "Negativen vpliv na delniške trge",
+        "Rast donosov na obveznice"
       ],
-      "vir": "Tom's Hardware UK",
-      "vir_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises"
+      "vir": "Motley Fool",
+      "vir_url": "https://www.fool.com/investing/2026/05/09/oof-fed-may-inflation-forecast-is-in-ugly-wall-st/"
     },
     {
-      "naslov": "Poročilo o delovnih mestih, močnejše od pričakovanj, razkriva stanje gospodarstva",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
+      "naslov": "Vojna v Iranu bo pomembno spremenila globalne energetske trge, opozarjajo naftni direktorji",
+      "sektor": "Energetika",
+      "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Ministrstvo za delo je poročalo, da je stopnja brezposelnosti v aprilu ostala stabilna, ZDA pa so dodale 115.000 delovnih mest, kar je preseglo pričakovanja. To kaže na robusten trg dela.",
-      "analiza": "Močno poročilo o delovnih mestih je običajno znak zdravega gospodarstva, kar je pozitivno za delniške trge. Vendar pa lahko robusten trg dela tudi prispeva k inflacijskim pritiskom, saj se plače in povpraševanje povečujejo. To lahko vpliva na odločitve centralnih bank glede obrestnih mer – močnejše gospodarstvo lahko Fedu omogoči, da dlje časa ohranja višje obrestne mere ali jih celo zviša. Za trg obveznic to pomeni potencialni padec cen, saj višje obrestne mere zmanjšujejo privlačnost fiksnih donosov. Valute lahko reagirajo pozitivno, saj močnejše gospodarstvo krepi zaupanje v valuto. Vlagatelji morajo uravnotežiti optimizem glede gospodarske rasti z morebitnimi posledicami za monetarno politiko.",
+      "povzetek": "Naftni direktorji opozarjajo, da bo vojna v Iranu bistveno spremenila globalne energetske trge. Iranska blokada Hormuške ožine je povzročila izgubo skoraj milijarde sodčkov nafte, pomanjkanje pa se vsak dan povečuje, kar ima resne posledice za svetovno oskrbo z energijo.",
+      "analiza": "Hormuška ožina je ključna pomorska pot za transport nafte, zato ima vsaka motnja v tej regiji globalne posledice. Zmanjšanje dobave nafte neposredno vpliva na cene surovin, kar vodi v višje cene bencina in energije za potrošnike in podjetja. To pospešuje inflacijo in lahko upočasni gospodarsko rast. Za delniške trge to pomeni pritisk na podjetja, ki so odvisna od nizkih cen energije, medtem ko bi energetska podjetja lahko imela koristi. Za slovenske vlagatelje to pomeni višje stroške goriva in energije, kar vpliva na kupno moč in stroške poslovanja podjetij, v katere vlagajo. Pomembno je spremljati cene nafte in geopolitične dogodke, ki jih poganjajo.",
       "vpliv": [
-        "Podpora delniškim trgom zaradi gospodarske moči",
-        "Povečan inflacijski pritisk",
-        "Možnost daljšega ohranjanja višjih obrestnih mer Feda"
+        "Dvig cen nafte in energentov",
+        "Povečanje inflacijskih pritiskov",
+        "Motnje v svetovnih dobavnih verigah"
       ],
-      "vir": "PBS",
-      "vir_url": "https://www.pbs.org/newshour/show/what-a-stronger-than-expected-jobs-report-tells-us-about-the-state-of-the-economy"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/05/09/iran-war-oil-gas-energy-security.html"
     }
   ]
 }
