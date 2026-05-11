@@ -1,98 +1,83 @@
 {
-  "generiranoOb": "2026-05-10T10:47:52.817Z",
+  "generiranoOb": "2026-05-11T13:00:07.115Z",
   "model": "gemini-2.5-flash",
-  "datum": "2026-05-10",
-  "povzetek": "Današnje novice kažejo mešano sliko globalnih finančnih trgov. Na eni strani so optimizem spodbudili rekordni zaključki indeksov Nasdaq in S&P 500, podprti z upanjem na premirje v Iranu in močnim povpraševanjem po delnicah podjetij, povezanih z umetno inteligenco. Dodatno pozitivno noto je prinesla Kitajska z rekordno vrednostjo izvoza, kljub geopolitičnim napetostim, kar nakazuje odpornost globalne trgovine. Na drugi strani pa se pojavljajo zaskrbljujoči signali, saj je razpoloženje potrošnikov v ZDA padlo na novo rekordno nizko raven zaradi visokih cen goriva. Poleg tega Trumpova administracija s svojimi ukrepi proti kitajskim solarnim podjetjem zavira rast ameriške proizvodnje sončnih panelov, kar kaže na nadaljevanje trgovinskih trenj. Vse večji izziv predstavlja tudi obremenitev ameriškega energetskega omrežja zaradi naraščajočih potreb po električni energiji za umetno inteligenco, kar bi lahko vplivalo na stroške in razvoj v tehnološkem sektorju.",
+  "datum": "2026-05-11",
+  "povzetek": "Današnje novice prinašajo mešano sliko za finančne trge, zaznamovano z makroekonomskimi dejavniki, geopolitičnimi tveganji in razvojem v tehnološkem sektorju. Močno poročilo o delovnih mestih v ZDA kaže na robustno gospodarstvo, kar je pozitivno za delnice, a hkrati povečuje inflacijske skrbi in s tem pritisk na Federal Reserve. Odločitev predsednika Feda Powella, da ostane v odboru, in potreba po izdaji dodatnega državnega dolga v ZDA ustvarjata negotovost na trgu obveznic in glede prihodnje monetarne politike. Geopolitične napetosti, zlasti iranska vojna, dramatično izčrpavajo svetovne zaloge nafte, kar poganja cene surovin navzgor in povečuje inflacijske pritiske. V tehnološkem sektorju sodni proces OpenAI razkriva notranja rivalstva, medtem ko stroški nadgradnje električnega omrežja za podatkovne centre AI v Marylandu poudarjajo naraščajoče infrastrukturne izzive in stroške, povezane z rastjo umetne inteligence.",
   "novice": [
     {
-      "naslov": "Kitajska kljub krizi v Hormuški ožini aprila dosegla rekordno vrednost izvoza",
+      "naslov": "Predsednik Feda Jerome Powell ostaja v upravnem odboru, kar je prelom s tradicijo",
       "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
+      "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Kitajska je aprila zabeležila 14,1-odstotno medletno rast vrednosti izvoza, kar je preseglo tržna pričakovanja. To se je zgodilo kljub napetostim v Hormuški ožini, ki so povečale stroške ladijskega prometa. Podatek kaže na odpornost kitajskega gospodarstva in globalne trgovine.",
-      "analiza": "Ta novica je pomembna, saj kaže na moč kitajskega izvoznega sektorja in njegovo sposobnost, da se prilagodi geopolitičnim izzivom. Visok izvoz lahko podpira kitajsko valuto in prispeva k stabilnosti globalnih dobavnih verig. Za slovenske vlagatelje to pomeni, da kljub negotovostim ostaja Kitajska ključen akter v svetovnem gospodarstvu, kar lahko vpliva na podjetja, ki so odvisna od kitajskega povpraševanja ali dobav. Dolgoročno je odpornost kitajskega izvoza pomemben dejavnik za globalno gospodarsko rast.",
+      "povzetek": "Jerome Powell je napovedal, da bo ostal član upravnega odbora Federal Reserve tudi po izteku mandata predsednika. Ta poteza prekinja 75-letno tradicijo, po kateri so predsedniki Feda po koncu mandata zapustili odbor.",
+      "analiza": "Odločitev predsednika Feda, da ostane v upravnem odboru, je presenetljiva in potencialno vpliva na neodvisnost centralne banke. V preteklosti so predsedniki odstopili, da bi se izognili morebitnim konfliktom interesov ali vplivanju na naslednika. Ta poteza lahko povzroči negotovost glede prihodnje usmeritve monetarne politike, saj bi lahko Powell s svojim vplivom še vedno oblikoval odločitve. Za trge to pomeni dodaten dejavnik tveganja, saj se lahko pojavi percepcija zmanjšane neodvisnosti Feda, kar bi lahko vplivalo na zaupanje v dolgoročno stabilnost. Vpliv na obveznice in valute je lahko negativen zaradi negotovosti, medtem ko bi delnice lahko reagirale mešano, odvisno od interpretacije.",
       "vpliv": [
-        "Pozitivno na kitajske delnice",
-        "Podpora globalni trgovini",
-        "Stabilizacija cen surovin"
+        "Povečana negotovost glede neodvisnosti Feda",
+        "Potencialni vpliv na prihodnjo monetarno politiko",
+        "Mešan odziv na delniških trgih"
       ],
-      "vir": "Post Magazine",
-      "vir_url": "https://www.scmp.com/economy/economic-indicators/article/3352970/china-trade-growth-resilient-april-despite-hormuz-crisis-inflating-costs"
+      "vir": "The Motley Fool",
+      "vir_url": "https://www.fool.com/investing/2026/05/09/fed-chair-jerome-powell-just-broke-75-years-of-pre/"
     },
     {
-      "naslov": "Nasdaq in S&P 500 z rekordnimi vrednostmi ob upanju na Iran in rast AI delnic",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
+      "naslov": "Iranska vojna izčrpava svetovne zaloge nafte z izjemno hitrostjo",
+      "sektor": "Energetika",
+      "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Indeksa Nasdaq in S&P 500 sta zaključila dan z rekordnimi vrednostmi, kar je bilo delno pripisano upanju na premirje med ZDA in Iranom. Delnice tehnoloških podjetij, zlasti tistih, povezanih z umetno inteligenco, kot je Nvidia, so dosegle nove vrhunce, kar kaže na nadaljnji optimizem v sektorju.",
-      "analiza": "Rast delniških indeksov, še posebej tehnološko usmerjenega Nasdaqa, odraža močno zaupanje v gospodarsko rast in dobičkonosnost podjetij, zlasti v sektorju umetne inteligence. Geopolitična stabilizacija, četudi začasna, zmanjšuje negotovost in spodbuja apetit po tveganju. Za slovenskega vlagatelja to pomeni, da so globalni trgi še vedno v fazi rasti, še posebej v inovativnih sektorjih. Vendar pa je pomembno upoštevati, da so visoke vrednosti lahko tudi znak pregrevanja in da je geopolitična stabilnost krhka.",
+      "povzetek": "Po ocenah Morgan Stanleyja so se globalne zaloge nafte med 1. marcem in 25. aprilom zmanjšale za približno 4,8 milijona sodčkov dnevno. Ta izčrpavanje je posledica iranske vojne in s tem povezanih motenj v dobavi.",
+      "analiza": "Konflikt v Iranu ima neposreden in močan vpliv na svetovne energetske trge. Zmanjševanje zalog nafte po tako visoki stopnji pomeni, da je trg pod velikim pritiskom, kar se običajno odraža v rasti cen nafte. Višje cene nafte imajo lahko inflacijski učinek na globalno gospodarstvo, saj povečujejo stroške transporta in proizvodnje. Za vlagatelje to pomeni potencialno rast delnic v energetskem sektorju, medtem ko bi lahko imelo negativen vpliv na podjetja, ki so odvisna od nizkih cen goriva. Centralne banke bi se lahko soočile z dodatnim pritiskom glede inflacije, kar bi lahko vplivalo na odločitve o obrestnih merah.",
       "vpliv": [
-        "Rast delniških indeksov",
-        "Povečan apetit po tveganju",
-        "Rast delnic AI podjetij"
+        "Rast cen nafte in energentov",
+        "Povečan inflacijski pritisk",
+        "Potencialna rast delnic energetskih podjetij"
       ],
-      "vir": "Investor's Business Daily",
-      "vir_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-april-jobs-report/"
+      "vir": "Fortune",
+      "vir_url": "https://fortune.com/2026/05/09/iran-war-is-global-oil-stockpile-reserves-releases-strategic-petroleum-reserve/"
     },
     {
-      "naslov": "Delnice Intela poskočile po predhodnem dogovoru z Applom o proizvodnji čipov",
+      "naslov": "Zvezna vlada mora izdati več dolga zaradi šibkega denarnega toka; trg obveznic opozarja",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Ameriška zvezna vlada bo morala izdati več dolga, kot je bilo pričakovano, zaradi oslabljenega denarnega toka. Analitiki opozarjajo, da je odziv trga obveznic na to situacijo \"brez primere\" v zadnjih desetletjih.",
+      "analiza": "Povečana potreba po izdaji državnega dolga kaže na fiskalne izzive, s katerimi se sooča ameriška vlada. To lahko povzroči pritisk na navzgor na dolgoročne obrestne mere, saj se poveča ponudba obveznic. Višje obrestne mere imajo lahko negativen vpliv na gospodarstvo, saj podražijo zadolževanje za podjetja in potrošnike, kar lahko upočasni gospodarsko rast. Za vlagatelje v obveznice to pomeni tveganje padca cen obstoječih obveznic, medtem ko bi lahko nove izdaje ponujale višje donose. Na delniških trgih bi višje obrestne mere lahko zmanjšale privlačnost delnic, še posebej tistih z visokim zadolževanjem.",
+      "vpliv": [
+        "Rast dolgoročnih obrestnih mer",
+        "Padec cen obstoječih obveznic",
+        "Potencialno upočasnjevanje gospodarske rasti"
+      ],
+      "vir": "Fortune",
+      "vir_url": "https://fortune.com/2026/05/09/us-debt-treasury-bonds-government-borrowing-cash-flow-yields-fed/"
+    },
+    {
+      "naslov": "Državljani Marylanda se soočajo z 2 milijardama dolarjev stroškov za nadgradnjo omrežja zaradi podatkovnih centrov AI",
       "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Delnice Intela so zabeležile rast po objavi predhodnega dogovora z Applom o proizvodnji čipov. V pogajanjih, ki so trajala več kot eno leto, je imel ključno vlogo 10-odstotni delež ameriške vlade v Intelu. To nakazuje na pomembno strateško sodelovanje med tehnološkima velikanoma.",
-      "analiza": "Ta dogovor je strateško pomemben za Intel, saj mu omogoča vstop v Applovo dobavno verigo, kar lahko pomeni znatne prihodke in potrditev njegove tehnološke sposobnosti. Za Apple bi to lahko pomenilo diverzifikacijo dobaviteljev in morebitno zmanjšanje odvisnosti od drugih proizvajalcev. Vpletenost ameriške vlade poudarja pomen polprevodniške industrije za nacionalno varnost in gospodarstvo. Slovenski vlagatelji, ki imajo izpostavljenost do tehnološkega sektorja, lahko pričakujejo, da bo ta dogovor vplival na konkurenčno pokrajino in morebitno preoblikovanje dobavnih verig v industriji čipov.",
-      "vpliv": [
-        "Rast delnic Intela",
-        "Povečana konkurenca v industriji čipov",
-        "Krepitev ameriške proizvodnje čipov"
-      ],
-      "vir": "Quartz India",
-      "vir_url": "https://qz.com/intel-apple-chip-manufacturing-deal-050826"
-    },
-    {
-      "naslov": "Trumpovi ukrepi proti kitajskim solarnim podjetjem ovirajo rast ameriške proizvodnje",
-      "sektor": "Energetika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Ukrepi Trumpove administracije proti solarnim podjetjem, povezanim s Kitajsko, so ustavili rast ameriške proizvodnje sončnih panelov. Vodilna solarna podjetja, banke in zavarovalnice so prekinile poslovanje z vsaj pol ducata novozgrajenih ameriških tovarn, kar kaže na vpliv trgovinskih napetosti.",
-      "analiza": "Ta novica poudarja nadaljevanje trgovinskih napetosti med ZDA in Kitajsko, ki imajo neposreden vpliv na sektor obnovljivih virov energije. Medtem ko je cilj ukrepov krepitev domače proizvodnje, kratkoročno povzročajo negotovost in ovirajo investicije. Za slovenske vlagatelje, ki so izpostavljeni sektorju zelene energije ali globalnim dobavnim verigam, to pomeni, da je geopolitično tveganje še vedno prisotno in lahko vpliva na donosnost naložb v ta sektor. Dolgoročno lahko takšne politike preoblikujejo globalno krajino proizvodnje sončne energije.",
+      "povzetek": "Državljani Marylanda se soočajo z računom v višini 2 milijard dolarjev za nadgradnjo električnega omrežja, ki bo večinoma koristila podatkovnim centrom AI izven države. Maryland se je pritožil zveznim energetskim regulatorjem, saj meni, da to krši obljube o zaščiti porabnikov.",
+      "analiza": "Ta novica poudarja naraščajoče infrastrukturne in energetske zahteve, ki jih prinaša hitra rast umetne inteligence in podatkovnih centrov. Čeprav je AI sektor v vzponu, se pojavljajo vprašanja o tem, kdo bo nosil stroške te ekspanzije. Povečani stroški za električno omrežje lahko vplivajo na cene energije za potrošnike in podjetja, kar lahko dolgoročno zmanjša konkurenčnost določenih regij. Za vlagatelje to pomeni, da je treba poleg potenciala rasti AI upoštevati tudi njene stranske stroške in regulativna tveganja. Podjetja, ki gradijo podatkovne centre, se lahko soočijo z večjimi stroški ali regulativnimi ovirami, kar lahko vpliva na njihovo dobičkonosnost.",
       "vpliv": [
-        "Zaviranje investicij v solarno energijo v ZDA",
-        "Povečane trgovinske napetosti",
-        "Negativno na delnice solarnih podjetij"
+        "Povečani stroški energije za potrošnike",
+        "Regulativna tveganja za podatkovne centre AI",
+        "Potencialno zmanjšanje privlačnosti določenih regij za AI investicije"
       ],
-      "vir": "Yahoo Entertainment",
-      "vir_url": "https://finance.yahoo.com/sectors/energy/articles/trump-crackdown-china-linked-solar-101123367.html"
+      "vir": "Tom's Hardware UK",
+      "vir_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises"
     },
     {
-      "naslov": "Razpoloženje potrošnikov maja padlo na rekordno nizko raven zaradi visokih cen goriva",
+      "naslov": "Poročilo o delovnih mestih, močnejše od pričakovanj, razkriva stanje gospodarstva",
       "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
+      "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Razpoloženje potrošnikov je v začetku maja padlo na novo rekordno nizko raven, predvsem zaradi naraščajočih cen goriva, ki so posledica vojne v Iranu. To kaže na zaskrbljenost gospodinjstev glede inflacije in njihove kupne moči.",
-      "analiza": "Padec potrošniškega razpoloženja je ključen makroekonomski indikator, saj lahko napoveduje zmanjšanje potrošnje, kar bi negativno vplivalo na gospodarsko rast. Visoke cene goriva neposredno zmanjšujejo razpoložljiv dohodek gospodinjstev in povečujejo inflacijske pritiske, kar lahko vpliva na odločitve centralnih bank glede obrestnih mer. Za slovenskega vlagatelja to pomeni, da je inflacija še vedno pomemben dejavnik tveganja, ki lahko vpliva na donosnost obveznic in delnic podjetij, odvisnih od potrošnje.",
+      "povzetek": "Ministrstvo za delo je poročalo, da je stopnja brezposelnosti v aprilu ostala stabilna, ZDA pa so dodale 115.000 delovnih mest, kar je preseglo pričakovanja. To kaže na robusten trg dela.",
+      "analiza": "Močno poročilo o delovnih mestih je običajno znak zdravega gospodarstva, kar je pozitivno za delniške trge. Vendar pa lahko robusten trg dela tudi prispeva k inflacijskim pritiskom, saj se plače in povpraševanje povečujejo. To lahko vpliva na odločitve centralnih bank glede obrestnih mer – močnejše gospodarstvo lahko Fedu omogoči, da dlje časa ohranja višje obrestne mere ali jih celo zviša. Za trg obveznic to pomeni potencialni padec cen, saj višje obrestne mere zmanjšujejo privlačnost fiksnih donosov. Valute lahko reagirajo pozitivno, saj močnejše gospodarstvo krepi zaupanje v valuto. Vlagatelji morajo uravnotežiti optimizem glede gospodarske rasti z morebitnimi posledicami za monetarno politiko.",
       "vpliv": [
-        "Zmanjšana potrošnja",
-        "Povečani inflacijski pritiski",
-        "Potencialni vpliv na monetarno politiko"
+        "Podpora delniškim trgom zaradi gospodarske moči",
+        "Povečan inflacijski pritisk",
+        "Možnost daljšega ohranjanja višjih obrestnih mer Feda"
       ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/05/08/consumer-sentiment-falls-to-fresh-record-low-in-may-as-surging-gas-prices-hit-outlook.html"
-    },
-    {
-      "naslov": "Največje ameriško električno omrežje pod pritiskom zaradi umetne inteligence",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "PJM Interconnection, ki nadzoruje največje ameriško električno omrežje, se sooča z izjemnimi obremenitvami zaradi naraščajočih potreb po energiji za podatkovne centre in umetno inteligenco. To povzroča nezadovoljstvo in pozive k preoblikovanju omrežja, saj trenutna infrastruktura ni kos povpraševanju.",
-      "analiza": "Ta novica poudarja naraščajoči izziv, ki ga predstavlja hitra rast umetne inteligence za energetsko infrastrukturo. Povečana poraba električne energije za podatkovne centre lahko vodi do višjih stroškov energije, obremenitev omrežja in potencialnih izpadov. To ima lahko dolgoročne posledice za razvoj AI tehnologij in energetska podjetja. Za slovenskega vlagatelja je to opozorilo, da je pri naložbah v AI sektor pomembno upoštevati tudi omejitve in stroške, povezane z energetsko infrastrukturo, kar lahko vpliva na dolgoročno vzdržnost rasti in dobičkonosnost podjetij v tem sektorju.",
-      "vpliv": [
-        "Povečani stroški energije za AI sektor",
-        "Potencialne omejitve rasti AI",
-        "Potreba po investicijah v energetsko infrastrukturo"
-      ],
-      "vir": "TechCrunch",
-      "vir_url": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/"
+      "vir": "PBS",
+      "vir_url": "https://www.pbs.org/newshour/show/what-a-stronger-than-expected-jobs-report-tells-us-about-the-state-of-the-economy"
     }
   ]
 }
