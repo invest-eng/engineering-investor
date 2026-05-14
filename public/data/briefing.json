@@ -1,83 +1,83 @@
 {
-  "generiranoOb": "2026-05-13T16:08:59.708Z",
+  "generiranoOb": "2026-05-14T12:19:50.936Z",
   "model": "gemini-2.5-flash",
-  "datum": "2026-05-13",
-  "povzetek": "Danes so finančne trge zaznamovale predvsem makroekonomske novice in geopolitične napetosti. Ameriška inflacija je poskočila na 3,8 %, kar je predvsem posledica rasti cen energije zaradi vojne v Iranu, kar je povzročilo zaskrbljenost glede prihodnjih potez centralnih bank in vplivalo na delnice ter obveznice. Tudi na britanskem trgu obveznic je bilo burno, saj so se donosi 30-letnih obveznic povzpeli na najvišjo raven po letu 1998, kar kaže na širše pritiske v obvezniških trgih. V sektorju umetne inteligence pa je prišlo do pomembnih premikov, od napovedi CME o vzpostavitvi terminskega trga za računalniško moč, do preoblikovanja delovne sile v podjetjih, kot je GM, in rasti delnic proizvajalcev čipov, kot sta Micron in SK Hynix. Geopolitične napetosti, zlasti vojna v Iranu, ostajajo ključen dejavnik, ki vpliva na cene nafte in globalne dobavne verige, kar potrjujejo tudi opozorila izvršnega direktorja Saudi Aramco o dolgotrajnem okrevanju naftnih trgov.",
+  "datum": "2026-05-14",
+  "povzetek": "Današnje novice kažejo na mešane signale na finančnih trgih, kjer se optimizem glede delnic prepleta z zaskrbljenostjo zaradi inflacije in geopolitičnih napetosti. Ameriški borzni indeksi so v pričakovanju novih podatkov o inflaciji kazali rast, medtem ko so poročila o naraščajočem dolgu gospodinjstev in opozorila o pomanjkanju nafte poudarjala vztrajne inflacijske pritiske. Potrditev novega člana v odboru Feda prinaša negotovost glede prihodnje denarne politike, medtem ko uspeh SoftBanka z naložbo v OpenAI potrjuje močan trend v umetni inteligenci. Geopolitična tveganja, kot so morebitne carine na kitajske avtomobile, ostajajo v ospredju in lahko vplivajo na globalno trgovino in avtomobilsko industrijo. Skupno dogajanje kaže na kompleksno okolje za vlagatelje, kjer se prepletajo priložnosti v tehnološkem sektorju z makroekonomskimi izzivi. Vpliv na delnice, obveznice in surovine bo odvisen od interpretacije teh nasprotujočih si signalov.",
   "novice": [
     {
-      "naslov": "Ameriška inflacija na 3,8 % zaradi rasti stroškov energije in vojne",
+      "naslov": "Borzni indeksi v pričakovanju poročila o inflaciji v aprilu beležijo rast",
       "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
+      "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Ključni kazalnik ameriške inflacije je dosegel 3,8 %, kar je najvišja raven od maja 2023. Glavni razlog za ta skok so višji stroški energije, ki so neposredna posledica vojne v Iranu in vplivajo na potrošnike.",
-      "analiza": "Rast inflacije v ZDA je pomembna novica, saj lahko vpliva na odločitve Federal Reserve glede obrestnih mer. V kontekstu vojne v Iranu, ki povzroča motnje v dobavi energije, se pričakuje nadaljnji pritisk na cene. Višja inflacija običajno pomeni pritisk na delnice, saj zmanjšuje kupno moč potrošnikov in povečuje stroške poslovanja za podjetja. Na obvezniških trgih lahko povzroči rast donosov, saj vlagatelji zahtevajo višje donose za kompenzacijo izgube vrednosti denarja. Za slovenskega vlagatelja to pomeni, da se lahko sooči z višjimi cenami uvoženih dobrin in morebitno nestabilnostjo na globalnih trgih.",
+      "povzetek": "Ameriški borzni indeksi so včeraj kazali optimizem in so se gibali višje, medtem ko so vlagatelji nestrpno pričakovali objavo indeksa cen proizvajalcev (PPI) za april. Ta ključni podatek o inflaciji je bil objavljen danes zjutraj in bo pomembno vplival na pričakovanja glede prihodnjih potez Federal Reserve.",
+      "analiza": "Pričakovanje inflacijskih podatkov vedno močno vpliva na trge, saj so ti ključni za odločitve centralnih bank o obrestnih merah. Višja inflacija bi lahko pomenila, da bo Fed ohranjal višje obrestne mere dlje časa, kar bi bilo negativno za delnice, še posebej za rastna podjetja, in pozitivno za donose obveznic. Nasprotno, umiritev inflacije bi lahko spodbudila upanje na znižanje obrestnih mer, kar bi podprlo delniške trge. Za dolgoročnega slovenskega vlagatelja je pomembno spremljati te makroekonomske kazalnike, saj vplivajo na globalno gospodarsko rast in s tem na donosnost naložb v različne razrede sredstev. V času negotovosti je diverzifikacija portfelja ključna.",
       "vpliv": [
-        "Rast donosov na obveznice",
-        "Pritisk na delnice podjetij",
-        "Možnost zaostrovanja monetarne politike"
+        "Povečana volatilnost delniških trgov",
+        "Spremembe v pričakovanjih glede obrestnih mer Feda",
+        "Vpliv na donosnost državnih obveznic"
       ],
-      "vir": "BBC News",
-      "vir_url": "https://www.bbc.com/news/articles/c202pgxx89lo"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/05/12/stock-market-today-live-updates.html"
     },
     {
-      "naslov": "Saudi Aramco opozarja na dolgotrajno okrevanje naftnih trgov do leta 2027",
+      "naslov": "Izvršni direktor Shevrona opozarja na začetek fizičnega pomanjkanja nafte",
       "sektor": "Energetika",
-      "smer": "negativno",
+      "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Izvršni direktor Saudi Aramco je opozoril, da se naftni trgi morda ne bodo opomogli do leta 2027. Razlog so motnje v Ožini Hormuz, ki jih povzroča vojna v Iranu, kar je globalni trg stalo približno milijardo sodčkov nafte.",
-      "analiza": "Opozorilo Saudi Aramco poudarja resnost geopolitičnih tveganj za globalno energetsko oskrbo. Ožina Hormuz je ključna pomorska pot za transport nafte, zato motnje tam neposredno vplivajo na cene. Dolgotrajno okrevanje naftnih trkov pomeni, da lahko pričakujemo višje cene nafte in s tem povečane stroške za podjetja in potrošnike v prihodnjih letih. To lahko vpliva na inflacijo in upočasni gospodarsko rast. Za slovenskega vlagatelja to pomeni, da lahko pričakuje višje cene goriv in energentov, kar vpliva na stroške življenja in poslovanja.",
+      "povzetek": "Izvršni direktor podjetja Chevron je opozoril, da se globalno gospodarstvo sooča z začetkom fizičnega pomanjkanja nafte in rafiniranih naftnih derivatov. To pomeni, da se zaloge hitro praznijo, kar bi lahko imelo resne posledice za cene energije in globalno gospodarstvo.",
+      "analiza": "Opozorila o pomanjkanju nafte so pomemben dejavnik za surovinske trge in inflacijska pričakovanja. Zmanjšana ponudba ob stabilnem ali naraščajočem povpraševanju običajno vodi v višje cene nafte, kar se neposredno odraža v stroških goriva in transporta, s tem pa posredno v cenah vseh izdelkov in storitev. Za naftne družbe, kot je Chevron, to kratkoročno pomeni višje prihodke in dobičke, kar je pozitivno za njihove delnice. Dolgoročno pa lahko visoke cene nafte spodbujajo prehod na alternativne vire energije in zmanjšajo povpraševanje. Slovenski vlagatelji naj bodo pozorni na gibanje cen surovin, saj to vpliva na inflacijo in kupno moč, pa tudi na dobičkonosnost podjetij v energetskem sektorju.",
       "vpliv": [
-        "Višje cene nafte in goriv",
-        "Povečani stroški transporta in proizvodnje",
-        "Dodaten inflacijski pritisk"
+        "Rast cen nafte in energentov",
+        "Povečani inflacijski pritiski",
+        "Pozitiven vpliv na delnice energetskih podjetij"
       ],
-      "vir": "Fox Business",
-      "vir_url": "https://www.foxbusiness.com/economy/saudi-aramco-ceo-warns-oil-markets-may-not-recover-until-2027-due-hormuz-disruptions"
+      "vir": "The Motley Fool",
+      "vir_url": "https://www.fool.com/investing/2026/05/12/chevrons-ceo-just-said-physical-oil-shortages-are/"
     },
     {
-      "naslov": "CME bo vzpostavil terminski trg za računalniško moč, ki poganja umetno inteligenco",
+      "naslov": "SoftBank beleži 46 milijard dolarjev dobička Vision Funda zaradi naložbe v OpenAI",
       "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Ameriška borza izvedenih finančnih instrumentov CME Group Inc. in ponudnik indeksov Silicon Data sodelujeta pri ustvarjanju terminskega trga za računalniško moč. Ta poteza je ključna za podporo razcvetu umetne inteligence.",
-      "analiza": "Vzpostavitev terminskega trga za računalniško moč je pomemben korak k institucionalizaciji in zrelosti sektorja umetne inteligence. Takšen trg bo omogočil podjetjem, da se zaščitijo pred nihanjem cen računalniške moči, kar bo zmanjšalo tveganje in spodbudilo naložbe v AI infrastrukturo. To lahko privabi nove vlagatelje in poveča likvidnost v sektorju, kar je pozitivno za delnice podjetij, povezanih z AI in polprevodniki. Za slovenskega vlagatelja to pomeni, da se odpirajo nove priložnosti za posredno vlaganje v rast AI sektorja, saj bo ta trg omogočal bolj transparentno določanje cen in upravljanje tveganj.",
+      "povzetek": "Japonski tehnološki konglomerat SoftBank je objavil letni dobiček v višini 46 milijard dolarjev v svojem Vision Fundu, ki je bil v veliki meri pogojen z izjemno rastjo vrednosti naložbe v podjetje OpenAI. To poudarja izjemen potencial in rast sektorja umetne inteligence.",
+      "analiza": "Ta novica potrjuje izjemen razcvet umetne inteligence in njen vpliv na kapitalske trge. Naložbe v podjetja, kot je OpenAI, prinašajo izjemne donose za zgodnje vlagatelje in rizične sklade. Uspeh Vision Funda, ki je bil v preteklosti deležen kritik zaradi nekaterih neuspešnih naložb, kaže na preusmeritev fokusa in uspešno strategijo vlaganja v ključne tehnološke trende. Za vlagatelje to pomeni, da je sektor umetne inteligence še vedno v fazi močne rasti in ponuja priložnosti, vendar je treba biti pozoren na visoke vrednotenja in tveganja. Slovenski vlagatelji, ki želijo biti izpostavljeni temu sektorju, lahko razmislijo o ETF-ih, ki sledijo tehnološkim indeksom ali podjetjem, vključenim v razvoj AI.",
       "vpliv": [
-        "Večja stabilnost cen računalniške moči",
-        "Spodbujanje naložb v AI infrastrukturo",
-        "Nove priložnosti za finančne instrumente"
+        "Potrditev močne rasti sektorja AI",
+        "Povečanje vrednosti naložb v tehnološka podjetja",
+        "Pozitiven vpliv na delnice SoftBanka"
       ],
-      "vir": "Bloomberg",
-      "vir_url": "https://www.bloomberg.com/news/articles/2026-05-12/cme-to-create-futures-market-for-computing-power-backing-ai"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/05/13/softbank-earnings-fy-2025-vision-fund-openai-stake.html"
     },
     {
-      "naslov": "GM odpušča IT delavce za zaposlitev kadrov z močnejšimi AI veščinami",
-      "sektor": "Tehnologija & AI",
+      "naslov": "Vrh Trump-Xi sproža zaskrbljenost glede kitajskih avtomobilov v ZDA in Evropi",
+      "sektor": "Geopolitika",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "General Motors je odpustil na stotine IT delavcev z namenom zaposlovanja kadrov z močnejšimi veščinami na področju umetne inteligence. Nova delovna mesta se osredotočajo na razvoj AI, podatkovno inženirstvo, inženirstvo v oblaku ter razvoj modelov in agentov.",
-      "analiza": "Ta poteza GM-a jasno kaže na transformacijski vpliv umetne inteligence na trg dela in korporativne strategije. Podjetja se hitro prilagajajo, da bi izkoristila prednosti AI, kar vodi do preoblikovanja delovnih mest. Medtem ko to ustvarja nove priložnosti za strokovnjake z veščinami AI, hkrati pomeni izzive za tiste, katerih veščine postajajo zastarele. Za delnice podjetij, ki uspešno prehajajo na AI, je to dolgoročno pozitivno, saj povečujejo učinkovitost in inovativnost. Za slovenskega vlagatelja to poudarja pomen spremljanja, kako podjetja vlagajo v AI in kako se prilagajajo na spremembe v delovni sili, saj bo to ključno za njihovo dolgoročno konkurenčnost.",
+      "povzetek": "Morebitno srečanje med Trumpom in Xijem ponovno odpira vprašanje prihodnosti kitajskih električnih vozil na ameriškem in evropskem trgu. Analitiki menijo, da je le vprašanje časa, kdaj se bodo ti trgi odprli za kitajske avtomobilske naložbe in izdelke, kar bi lahko imelo daljnosežne posledice za zahodne avtomobilske proizvajalce.",
+      "analiza": "Geopolitične napetosti in trgovinska politika med ZDA in Kitajsko ostajajo ključen dejavnik za globalne trge. Morebiten vstop kitajskih električnih vozil na zahodne trge bi pomenil povečano konkurenco za uveljavljene proizvajalce v Evropi in ZDA, kar bi lahko pritiskalo na njihove marže in tržne deleže. To bi lahko negativno vplivalo na delnice zahodnih avtomobilskih podjetij, medtem ko bi kitajski proizvajalci, ki so pogosto cenovno konkurenčnejši, lahko pridobili. Za slovenske vlagatelje, ki imajo naložbe v avtomobilskem sektorju ali podjetjih, ki so odvisna od globalnih dobavnih verig, je pomembno spremljati razvoj teh trgovinskih odnosov. Protekcionistični ukrepi lahko povzročijo negotovost in vplivajo na dobičkonosnost.",
       "vpliv": [
-        "Preoblikovanje trga dela v avtomobilski industriji",
-        "Povečana povpraševanje po AI strokovnjakih",
-        "Potencial za večjo učinkovitost podjetij"
+        "Povečana konkurenca na avtomobilskem trgu",
+        "Potencialne carine in trgovinske ovire",
+        "Vpliv na delnice zahodnih avtomobilskih proizvajalcev"
       ],
-      "vir": "TechCrunch",
-      "vir_url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
+      "vir": "Politico",
+      "vir_url": "https://www.politico.com/news/2026/05/13/trump-xi-summit-chinese-electric-vehicles-00917652"
     },
     {
-      "naslov": "Delnice Micron in SK Hynix poskočile zaradi težav pri Samsungu",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
+      "naslov": "Senat potrdil Warsha za člana odbora Feda, odprta pot do predsednikovanja",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Delnice podjetij Micron in SK Hynix so v ponedeljek zrasle, saj se pričakuje, da bo konkurenčno podjetje Samsung Electronics doživelo udarec v proizvodnji pomnilniških čipov. To poudarja občutljivost in konkurenčnost v sektorju polprevodnikov.",
-      "analiza": "Rast delnic Micron in SK Hynix kaže na dinamiko v izjemno pomembnem sektorju polprevodnikov, ki je ključen za razvoj umetne inteligence in sodobne tehnologije. Težave pri Samsungu, ki je eden največjih proizvajalcev pomnilniških čipov, lahko povzročijo pomanjkanje in dvig cen, kar koristi drugim igralcem na trgu. To je pomembno za dolgoročne trende v tehnološkem sektorju, saj poudarja pomen robustnih dobavnih verig in diverzifikacije. Za slovenskega vlagatelja, ki spremlja tehnološki sektor, to pomeni, da je pomembno razumeti konkurenčno pokrajino in morebitne motnje v dobavni verigi, saj lahko te močno vplivajo na uspešnost posameznih podjetij.",
+      "povzetek": "Ameriški senat je potrdil Kevina Warsha za člana odbora Federal Reserve, kar mu odpira pot do morebitnega prevzema položaja predsednika centralne banke. Njegova nominacija za štiriletni mandat predsednika Feda se pričakuje kmalu.",
+      "analiza": "Imenovanje novih članov v odbor Federal Reserve, še posebej tistih, ki so kandidati za predsednika, je ključnega pomena za finančne trge. Kevin Warsh je znan po svojih stališčih, ki bi lahko vplivala na prihodnjo denarno politiko ZDA, vključno z obrestnimi merami in strategijo obvladovanja inflacije. Morebitna sprememba vodstva Feda lahko povzroči negotovost na trgih, saj vlagatelji poskušajo oceniti, kako se bo spremenila smer monetarne politike. To lahko vpliva na tečaje obveznic, delnic in valute. Slovenski vlagatelji naj bodo pozorni na izjave in odločitve Feda, saj ameriška denarna politika močno vpliva na globalno likvidnost in razpoloženje na trgih.",
       "vpliv": [
-        "Rast cen pomnilniških čipov",
-        "Povečana tržna moč za Micron in SK Hynix",
-        "Potencialne motnje v dobavni verigi za tehnološka podjetja"
+        "Potencialna sprememba smeri denarne politike Feda",
+        "Negotovost na trgih obveznic in valute",
+        "Vpliv na globalno likvidnost in sentiment vlagateljev"
       ],
-      "vir": "Barron's",
-      "vir_url": "https://www.barrons.com/articles/micron-stock-price-sk-hynix-samsung-memory-44c0f575"
+      "vir": "Politico",
+      "vir_url": "https://www.politico.com/news/2026/05/12/senate-warsh-fed-board-chair-trump-00915835"
     }
   ]
 }
