@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
+import AudioReader from '../premium/AudioReader.jsx';
 
 const SECTORS = [
   'Tehnologija & AI',
@@ -159,6 +160,7 @@ export default function MarketBriefing() {
                 }}>
                   {data.povzetek}
                 </p>
+                <AudioReader text={data.povzetek} label="Poslušaj povzetek" />
               </section>
             )}
 
