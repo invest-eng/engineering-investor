@@ -107,15 +107,15 @@ export default function Dashboard({ state, onNav }) {
       {/* KPI row */}
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '0.85rem' }}>
         <KpiCard label="Neto stanje" value={fmtEur(netBalance)} sub="Vsi računi skupaj" />
-        <KpiCard label="Prihodki ta mesec" value={fmtEur(monthIncome)} color="#34d399" sub={`${monthTx.filter((t) => t.type === 'income').length} transakcij`} />
-        <KpiCard label="Odhodki ta mesec" value={fmtEur(monthExpense)} color="#f87171" sub={`${monthTx.filter((t) => t.type === 'expense').length} transakcij`} />
+        <KpiCard label="Prihodki ta mesec" value={fmtEur(monthIncome)} color="#059669" sub={`${monthTx.filter((t) => t.type === 'income').length} transakcij`} />
+        <KpiCard label="Odhodki ta mesec" value={fmtEur(monthExpense)} color="#dc2626" sub={`${monthTx.filter((t) => t.type === 'expense').length} transakcij`} />
         <KpiCard
           label="Stopnja varčevanja"
           value={`${savingsRate.toFixed(0)}%`}
-          color={savingsRate >= 20 ? '#34d399' : savingsRate >= 0 ? '#fbbf24' : '#f87171'}
+          color={savingsRate >= 20 ? '#059669' : savingsRate >= 0 ? '#d97706' : '#dc2626'}
           sub={savingsRate >= 20 ? 'Odlično' : savingsRate >= 0 ? 'Pozitivno' : 'Negativno'}
         />
-        {debt > 0 && <KpiCard label="Dolg" value={fmtEur(debt)} color="#fbbf24" sub="Krediti + kartice" />}
+        {debt > 0 && <KpiCard label="Dolg" value={fmtEur(debt)} color="#d97706" sub="Krediti + kartice" />}
       </div>
 
       {/* Trend grid */}
@@ -142,13 +142,13 @@ export default function Dashboard({ state, onNav }) {
           <FlowChart incomes={incomesForFlow} expenses={categorySpend} height={Math.max(260, Math.max(incomesForFlow.length, categorySpend.length) * 28)} />
           <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: 12, fontSize: '0.8rem', color: 'var(--color-text-muted)' }}>
             <div>
-              <strong style={{ color: '#34d399' }}>+ {fmtEur(monthIncome)}</strong> prihodkov
+              <strong style={{ color: '#059669' }}>+ {fmtEur(monthIncome)}</strong> prihodkov
             </div>
             <div>
-              <strong style={{ color: '#f87171' }}>− {fmtEur(monthExpense)}</strong> odhodkov
+              <strong style={{ color: '#dc2626' }}>− {fmtEur(monthExpense)}</strong> odhodkov
             </div>
             <div>
-              Razlika: <strong style={{ color: monthIncome - monthExpense >= 0 ? '#34d399' : '#f87171' }}>
+              Razlika: <strong style={{ color: monthIncome - monthExpense >= 0 ? '#059669' : '#dc2626' }}>
                 {fmtEur(monthIncome - monthExpense)}
               </strong>
             </div>
@@ -218,7 +218,7 @@ export default function Dashboard({ state, onNav }) {
                   </div>
                   <div style={{
                     fontWeight: 700, fontSize: '0.95rem',
-                    color: t.type === 'income' ? '#34d399' : t.type === 'expense' ? '#f87171' : 'var(--color-text)',
+                    color: t.type === 'income' ? '#059669' : t.type === 'expense' ? '#dc2626' : 'var(--color-text)',
                   }}>
                     {t.type === 'income' ? '+' : t.type === 'expense' ? '−' : ''}{fmtEur(t.amount)}
                   </div>

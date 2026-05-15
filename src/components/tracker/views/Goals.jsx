@@ -84,7 +84,7 @@ export default function Goals({ state, dispatch }) {
                   <span>{fmtEur(remaining)} ostalo</span>
                 </div>
                 {g.deadline && (
-                  <div style={{ marginTop: 8, fontSize: '0.78rem', color: daysLeft < 0 ? '#f87171' : 'var(--color-text-subtle)' }}>
+                  <div style={{ marginTop: 8, fontSize: '0.78rem', color: daysLeft < 0 ? '#dc2626' : 'var(--color-text-subtle)' }}>
                     Rok: {fmtDate(g.deadline)} {daysLeft != null && (daysLeft < 0 ? `(zamuda ${-daysLeft} dni)` : `(še ${daysLeft} dni)`)}
                     {monthlyNeeded != null && monthlyNeeded > 0 && (
                       <div style={{ marginTop: 2 }}>Mesečno potrebno: <strong style={{ color: 'var(--color-text)' }}>{fmtEur(monthlyNeeded)}</strong></div>

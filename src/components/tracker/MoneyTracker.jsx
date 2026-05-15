@@ -133,10 +133,10 @@ export default function MoneyTracker() {
           minHeight: '85vh',
         }} className="tracker-sidebar">
           <div style={{ marginBottom: '1.5rem', padding: '0 0.5rem' }}>
-            <div style={{ fontSize: '0.7rem', color: 'var(--color-text-muted)', textTransform: 'uppercase', letterSpacing: '0.08em', fontWeight: 700 }}>
+            <div style={{ fontSize: '0.68rem', color: 'var(--color-text-subtle)', textTransform: 'uppercase', letterSpacing: '0.1em', fontWeight: 600 }}>
               Sledilnik
             </div>
-            <div style={{ fontSize: '1rem', fontWeight: 700, marginTop: 2 }}>Osebne finance</div>
+            <div style={{ fontSize: '0.98rem', fontWeight: 700, marginTop: 2, letterSpacing: '-0.015em', color: 'var(--color-text)' }}>Osebne finance</div>
           </div>
           <nav style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
             {NAV.map((n) => {
@@ -145,8 +145,8 @@ export default function MoneyTracker() {
                 <button key={n.id} onClick={() => { setView(n.id); setMobileNavOpen(false); }}
                   style={{
                     display: 'flex', alignItems: 'center', gap: 10,
-                    padding: '0.6rem 0.85rem', borderRadius: 8,
-                    fontSize: '0.92rem', fontWeight: 500,
+                    padding: '0.55rem 0.8rem', borderRadius: 6,
+                    fontSize: '0.88rem', fontWeight: 500,
                     background: active ? 'var(--color-accent-bg)' : 'transparent',
                     color: active ? 'var(--color-accent)' : 'var(--color-text-muted)',
                     border: 'none', cursor: 'pointer', fontFamily: 'inherit',
@@ -164,18 +164,18 @@ export default function MoneyTracker() {
             padding: '0.85rem',
             background: 'var(--color-bg)',
             border: '1px solid var(--color-border)',
-            borderRadius: 10,
-            fontSize: '0.78rem',
+            borderRadius: 6,
+            fontSize: '0.76rem',
             color: 'var(--color-text-muted)',
-            lineHeight: 1.5,
+            lineHeight: 1.55,
           }}>
-            <div style={{ fontWeight: 700, color: 'var(--color-text)', marginBottom: 4 }}>Beta</div>
+            <div style={{ fontWeight: 600, color: 'var(--color-text)', marginBottom: 4, fontSize: '0.7rem', textTransform: 'uppercase', letterSpacing: '0.08em' }}>Beta</div>
             Vsi podatki so shranjeni lokalno. Prek <button onClick={() => setView('nastavitve')} style={{ color: 'var(--color-accent)', background: 'none', border: 'none', padding: 0, cursor: 'pointer', fontFamily: 'inherit', textDecoration: 'underline' }}>Nastavitev</button> redno izvozi varnostno kopijo.
           </div>
         </aside>
 
         {/* Main */}
-        <main style={{ padding: '2rem 1.75rem', minWidth: 0 }} className="tracker-main">
+        <main style={{ padding: '2.5rem 2rem', minWidth: 0 }} className="tracker-main">
           {renderView()}
         </main>
       </div>

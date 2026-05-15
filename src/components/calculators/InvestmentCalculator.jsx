@@ -4,7 +4,7 @@ import React, { useState, useMemo } from 'react';
 // ASSET DEFINITIONS
 // ============================================================
 
-const RISK_COLORS = { 1: '#10b981', 2: '#22c55e', 3: '#f59e0b', 4: '#f97316', 5: '#ef4444' };
+const RISK_COLORS = { 1: '#059669', 2: '#16a34a', 3: '#d97706', 4: '#ea580c', 5: '#dc2626' };
 const RISK_LABELS = { 1: 'Zelo nizko', 2: 'Nizko', 3: 'Srednje', 4: 'Visoko', 5: 'Zelo visoko' };
 const LIQ_LABELS = { 1: 'Zelo nizka', 2: 'Nizka', 3: 'Srednja', 4: 'Visoka', 5: 'Instant' };
 
@@ -23,7 +23,7 @@ const ASSETS = {
     purchaseCostNote: 'Borzni posrednik: ~0.05–0.15% provizija + SEPA nakazilo 1.20€ (Ilirika/INR) ali ~1.25€ (IBKR)',
     liquidityNote: 'Borza T+2 poravnava, visok volumen — instant prodaja med delovnikom',
     riskNote: 'Max drawdown: -56% (2008–09). Dolgoročno (20+ let) historično vedno pozitivno.',
-    color: '#3b82f6',
+    color: '#2563eb',
   },
   nasdaq: {
     id: 'nasdaq', name: 'NASDAQ-100 ETF', fullName: 'iShares NASDAQ-100 UCITS (CSNDX)',
@@ -39,7 +39,7 @@ const ASSETS = {
     purchaseCostNote: 'Standardne borzne provizije, enako kot S&P 500',
     liquidityNote: 'Borza, visok volumen, instant likvidnost',
     riskNote: 'Crash -83% (2000–2002), -35% (2022). Zahteva dolgo časovno obdobje.',
-    color: '#8b5cf6',
+    color: '#7c3aed',
   },
   euStocks: {
     id: 'euStocks', name: 'EU Delnice ETF', fullName: 'Lyxor Core EURO STOXX 600 (MEUD)',
@@ -71,7 +71,7 @@ const ASSETS = {
     purchaseCostNote: 'DPN 2% + notar ~0.5% + agencija ~2% = skupaj ~4.5% od nakupne cene',
     liquidityNote: 'Prodaja: tipično 3–12 mesecev. Izjemno nelikviden asset.',
     riskNote: 'Nizka cenovana volatilnost, a visoko tveganje likvidnosti, upravljanja in koncentracije',
-    color: '#f59e0b',
+    color: '#d97706',
   },
   gold: {
     id: 'gold', name: 'Zlato', fullName: 'Investicijsko zlato / Xetra-Gold ETC',
@@ -87,7 +87,7 @@ const ASSETS = {
     purchaseCostNote: 'ETC (Xetra-Gold): 0.15% TER, spread ~0.5–1%. Fizično zlato: premija do 5% nad spot ceno.',
     liquidityNote: 'ETC: T+2 na borzi. Fizično: dnevi do teden (kovnica, odkup).',
     riskNote: 'Crash -45% (2011–2015). Dobra zaščita v recesiji. Visoka kratkoročna nihajnost.',
-    color: '#f97316',
+    color: '#ea580c',
   },
   btc: {
     id: 'btc', name: 'Bitcoin', fullName: 'Bitcoin (BTC) — digitalno zlato',
@@ -103,7 +103,7 @@ const ASSETS = {
     purchaseCostNote: 'Kripto borza (Bitstamp, Kraken): 0.1–0.5% provizija. Self-custody priporočen za varnost.',
     liquidityNote: '24/7 na borzah. Instant. Self-custody zahteva prenos (ure do dnevi).',
     riskNote: 'Crash -83% (2018), -77% (2022). Priporočeno MAX 5–10% portfelja. Samo za visoko toleranco tveganja.',
-    color: '#ef4444',
+    color: '#dc2626',
   },
   bank: {
     id: 'bank', name: 'Varčevanje (banka)', fullName: 'Varčevalni račun / Vezana vloga',
@@ -119,7 +119,7 @@ const ASSETS = {
     purchaseCostNote: 'Brez stroškov. Vezava tipično do 12 mesecev.',
     liquidityNote: 'Navadni račun: instant. Vezana vloga: po poteku (kazen pri predčasnem dvigu).',
     riskNote: 'Praktično brez tveganja do 100.000€. Nad tem: sistemsko bančno tveganje.',
-    color: '#10b981',
+    color: '#059669',
   },
   bonds: {
     id: 'bonds', name: 'Državne obveznice', fullName: 'EU državne obveznice ETF (IEAG)',
@@ -135,7 +135,7 @@ const ASSETS = {
     purchaseCostNote: 'Borzna provizija ~0.1–0.3% + TER 0.16%/leto',
     liquidityNote: 'Borza, dobra likvidnost med delovnikom',
     riskNote: 'Nizko kreditno tveganje (EU države), a obrestno tveganje pri dolgih ročnostih',
-    color: '#64748b',
+    color: 'var(--color-text-subtle)',
   },
 };
 
@@ -264,10 +264,10 @@ function calcSuitability(asset, { age, riskTolerance, years, monthlyIncome, mont
   score = Math.max(0, Math.min(100, score));
 
   let rating, ratingColor;
-  if (score >= 80) { rating = 'Odlično'; ratingColor = '#10b981'; }
-  else if (score >= 60) { rating = 'Primerno'; ratingColor = '#3b82f6'; }
-  else if (score >= 40) { rating = 'Sprejemljivo'; ratingColor = '#f59e0b'; }
-  else { rating = 'Neprimerno'; ratingColor = '#ef4444'; }
+  if (score >= 80) { rating = 'Odlično'; ratingColor = '#059669'; }
+  else if (score >= 60) { rating = 'Primerno'; ratingColor = '#2563eb'; }
+  else if (score >= 40) { rating = 'Sprejemljivo'; ratingColor = '#d97706'; }
+  else { rating = 'Neprimerno'; ratingColor = '#dc2626'; }
 
   return { score, rating, ratingColor, factors };
 }
@@ -306,24 +306,24 @@ function LineChart({ data, years }) {
       {yTicks.map((tick, i) => (
         <g key={i}>
           <line x1={PAD.left} y1={y(tick)} x2={W - PAD.right} y2={y(tick)}
-            stroke="rgba(255,255,255,0.06)" strokeWidth="1" />
+            stroke="var(--color-border)" strokeWidth="1" />
           <text x={PAD.left - 8} y={y(tick) + 4} textAnchor="end"
-            fill="rgba(255,255,255,0.4)" fontSize="11" fontFamily="Inter, sans-serif">{fmt(tick)}</text>
+            fill="var(--color-text-muted)" fontSize="11" fontFamily="Inter, sans-serif">{fmt(tick)}</text>
         </g>
       ))}
       {xTicks.map((tick, i) => (
         <g key={i}>
           <text x={x(tick)} y={PAD.top + cH + 18} textAnchor="middle"
-            fill="rgba(255,255,255,0.35)" fontSize="11" fontFamily="Inter, sans-serif">{tick}L</text>
+            fill="var(--color-text-subtle)" fontSize="11" fontFamily="Inter, sans-serif">{tick}L</text>
         </g>
       ))}
-      <line x1={PAD.left} y1={PAD.top} x2={PAD.left} y2={PAD.top + cH} stroke="rgba(255,255,255,0.15)" />
-      <line x1={PAD.left} y1={PAD.top + cH} x2={W - PAD.right} y2={PAD.top + cH} stroke="rgba(255,255,255,0.15)" />
+      <line x1={PAD.left} y1={PAD.top} x2={PAD.left} y2={PAD.top + cH} stroke="var(--color-border)" />
+      <line x1={PAD.left} y1={PAD.top + cH} x2={W - PAD.right} y2={PAD.top + cH} stroke="var(--color-border)" />
 
       {firstResult && (
         <polyline
           points={firstResult.yearlyData.map(p => `${x(p.year)},${y(p.totalInvested)}`).join(' ')}
-          fill="none" stroke="rgba(255,255,255,0.2)" strokeWidth="1.5" strokeDasharray="5,4" />
+          fill="none" stroke="var(--color-border-strong)" strokeWidth="1.5" strokeDasharray="5,4" />
       )}
 
       {Object.entries(data).map(([id, result]) => {
@@ -335,7 +335,7 @@ function LineChart({ data, years }) {
             <polyline points={pts} fill="none" stroke={asset.color}
               strokeWidth="2.5" strokeLinejoin="round" strokeLinecap="round" />
             <circle cx={x(last.year)} cy={y(last.value)} r="5"
-              fill={asset.color} stroke="#0f172a" strokeWidth="2" />
+              fill={asset.color} stroke="var(--color-surface)" strokeWidth="2" />
           </g>
         );
       })}
@@ -349,7 +349,7 @@ function LineChart({ data, years }) {
 
 function MiniBar({ value, max, color }) {
   return (
-    <div style={{ flex: 1, height: '5px', background: 'rgba(255,255,255,0.08)', borderRadius: '3px', overflow: 'hidden' }}>
+    <div style={{ flex: 1, height: '5px', background: 'var(--color-bg)', borderRadius: '3px', overflow: 'hidden' }}>
       <div style={{ width: `${(value / max) * 100}%`, height: '100%', background: color, borderRadius: '3px' }} />
     </div>
   );
@@ -369,12 +369,12 @@ function Badge({ children, color }) {
 // ============================================================
 
 const S = {
-  bg: '#0f172a',
-  surface: 'rgba(30,41,59,0.85)',
-  border: 'rgba(255,255,255,0.08)',
-  muted: 'rgba(255,255,255,0.5)',
-  subtle: 'rgba(255,255,255,0.28)',
-  accent: '#f59e0b',
+  bg: 'var(--color-bg)',
+  surface: 'var(--color-surface)',
+  border: 'var(--color-border)',
+  muted: 'var(--color-text-muted)',
+  subtle: 'var(--color-text-subtle)',
+  accent: 'var(--color-accent)',
 };
 
 export default function InvestmentCalculator() {
@@ -422,34 +422,29 @@ export default function InvestmentCalculator() {
   return (
     <div style={{
       minHeight: '100vh',
-      background: 'linear-gradient(150deg, #0f172a 0%, #1a2744 50%, #0f172a 100%)',
-      padding: '1.5rem',
+      background: 'var(--color-bg)',
+      padding: '3.5rem 1.5rem 5rem',
       fontFamily: 'Inter, system-ui, sans-serif',
-      color: '#fff',
+      color: 'var(--color-text)',
       boxSizing: 'border-box',
     }}>
       <div style={{ maxWidth: '1400px', margin: '0 auto' }}>
 
         {/* HEADER */}
-        <div style={{ marginBottom: '2rem', display: 'flex', alignItems: 'flex-start', gap: '1rem' }}>
-          <div style={{
-            width: '52px', height: '52px', borderRadius: '16px', flexShrink: 0,
-            background: 'linear-gradient(135deg, #f59e0b, #d97706)',
-            display: 'flex', alignItems: 'center', justifyContent: 'center',
-            boxShadow: '0 0 24px rgba(245,158,11,0.35)',
-            fontSize: '1.6rem',
-          }}>📊</div>
-          <div>
-            <h1 style={{
-              fontSize: 'clamp(1.5rem, 4vw, 2.25rem)', fontWeight: 900, margin: '0 0 0.25rem',
-              background: 'linear-gradient(90deg, #f59e0b, #fbbf24)',
-              WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent',
-            }}>Kalkulator investicij</h1>
-            <p style={{ color: S.muted, fontSize: '0.875rem', margin: 0 }}>
-              Primerjaj S&P 500, nepremičnine, zlato, BTC in več — z davki SLO, stroški, grafom rasti in osebno oceno primernosti
-            </p>
-          </div>
-        </div>
+        <header style={{ marginBottom: '2.5rem', borderBottom: '1px solid var(--color-border)', paddingBottom: '1.5rem' }}>
+          <h1 style={{
+            fontSize: 'clamp(2rem, 4vw, 2.75rem)',
+            fontWeight: 700,
+            letterSpacing: '-0.025em',
+            margin: '0 0 0.5rem',
+            color: 'var(--color-text)',
+          }}>
+            Kalkulator investicij
+          </h1>
+          <p style={{ color: 'var(--color-text-muted)', fontSize: '0.95rem', lineHeight: 1.7, margin: 0, maxWidth: 680 }}>
+            Primerjaj S&P 500, nepremičnine, zlato, BTC in več — z davki SLO, stroški, grafom rasti in osebno oceno primernosti.
+          </p>
+        </header>
 
         {/* MAIN GRID */}
         <div style={{ display: 'grid', gridTemplateColumns: 'minmax(280px, 340px) 1fr', gap: '1.5rem', alignItems: 'start' }}>
@@ -458,8 +453,8 @@ export default function InvestmentCalculator() {
           <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
 
             {/* Profil */}
-            <div style={{ background: S.surface, border: `1px solid ${S.border}`, borderRadius: '16px', padding: '1.25rem' }}>
-              <div style={{ fontWeight: 700, fontSize: '0.85rem', marginBottom: '1rem', color: '#fff' }}>👤 Profil vlagatelja</div>
+            <div style={{ background: S.surface, border: `1px solid ${S.border}`, borderRadius: '8px', padding: '1.25rem' }}>
+              <div style={{ fontWeight: 700, fontSize: '0.85rem', marginBottom: '1rem', color: 'var(--color-text)' }}>👤 Profil vlagatelja</div>
 
               {[
                 { label: 'Starost', value: age + ' let', min: 18, max: 70, step: 1, val: age, set: setAge },
@@ -493,25 +488,25 @@ export default function InvestmentCalculator() {
                 <div style={{ fontSize: '0.75rem', color: S.muted, fontWeight: 600, marginBottom: '6px' }}>Investicijski cilj</div>
                 <select value={goal} onChange={e => setGoal(e.target.value)} style={{
                   width: '100%', padding: '8px 10px', borderRadius: '8px', fontSize: '0.8rem',
-                  background: 'rgba(255,255,255,0.06)', border: `1px solid ${S.border}`,
-                  color: '#fff', outline: 'none',
+                  background: 'var(--color-bg)', border: `1px solid ${S.border}`,
+                  color: 'var(--color-text)', outline: 'none',
                 }}>
                   {Object.entries(GOAL_LABELS).map(([k, v]) => (
-                    <option key={k} value={k} style={{ background: '#1e293b' }}>{v}</option>
+                    <option key={k} value={k} style={{ background: 'var(--color-surface)' }}>{v}</option>
                   ))}
                 </select>
               </div>
             </div>
 
             {/* Naložba */}
-            <div style={{ background: S.surface, border: `1px solid ${S.border}`, borderRadius: '16px', padding: '1.25rem' }}>
-              <div style={{ fontWeight: 700, fontSize: '0.85rem', marginBottom: '1rem', color: '#fff' }}>💰 Naložbeni parametri</div>
+            <div style={{ background: S.surface, border: `1px solid ${S.border}`, borderRadius: '8px', padding: '1.25rem' }}>
+              <div style={{ fontWeight: 700, fontSize: '0.85rem', marginBottom: '1rem', color: 'var(--color-text)' }}>💰 Naložbeni parametri</div>
 
               <div style={{ marginBottom: '1rem' }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '6px' }}>
                   <span style={{ fontSize: '0.75rem', color: S.muted, fontWeight: 600 }}>Obdobje</span>
                   <span style={{ fontSize: '0.75rem', color: S.accent, fontWeight: 700 }}>
-                    {years} let {years >= 15 && <span style={{ color: '#10b981', fontSize: '0.65rem' }}>✓ 0% davek</span>}
+                    {years} let {years >= 15 && <span style={{ color: '#059669', fontSize: '0.65rem' }}>✓ 0% davek</span>}
                   </span>
                 </div>
                 <input type="range" min="1" max="40" value={years} onChange={e => setYears(+e.target.value)}
@@ -526,7 +521,7 @@ export default function InvestmentCalculator() {
                   <button key={opt.id} onClick={() => setMode(opt.id)} style={{
                     padding: '8px', borderRadius: '8px', cursor: 'pointer', textAlign: 'left',
                     border: `1px solid ${mode === opt.id ? S.accent : S.border}`,
-                    background: mode === opt.id ? 'rgba(245,158,11,0.12)' : 'rgba(255,255,255,0.02)',
+                    background: mode === opt.id ? 'rgba(217,119,6,0.12)' : 'transparent',
                     color: mode === opt.id ? S.accent : S.muted,
                     fontSize: '0.72rem', fontWeight: 600, transition: 'all 0.15s',
                   }}>
@@ -547,7 +542,7 @@ export default function InvestmentCalculator() {
                   <input type="range" min="50" max="5000" step="50" value={monthlyAmt}
                     onChange={e => setMonthlyAmt(+e.target.value)}
                     style={{ width: '100%', accentColor: S.accent }} />
-                  <div style={{ marginTop: '8px', padding: '8px 10px', background: 'rgba(245,158,11,0.07)', borderRadius: '8px', fontSize: '0.7rem', color: S.muted }}>
+                  <div style={{ marginTop: '8px', padding: '8px 10px', background: 'rgba(217,119,6,0.07)', borderRadius: '8px', fontSize: '0.7rem', color: S.muted }}>
                     Skupaj v {years} let: <strong style={{ color: S.accent }}>€{(monthlyAmt * 12 * years).toLocaleString()}</strong>
                   </div>
                 </div>
@@ -565,17 +560,17 @@ export default function InvestmentCalculator() {
             </div>
 
             {/* Asset izbor */}
-            <div style={{ background: S.surface, border: `1px solid ${S.border}`, borderRadius: '16px', padding: '1.25rem' }}>
-              <div style={{ fontWeight: 700, fontSize: '0.85rem', marginBottom: '0.75rem', color: '#fff' }}>🎯 Izbor naložb</div>
+            <div style={{ background: S.surface, border: `1px solid ${S.border}`, borderRadius: '8px', padding: '1.25rem' }}>
+              <div style={{ fontWeight: 700, fontSize: '0.85rem', marginBottom: '0.75rem', color: 'var(--color-text)' }}>🎯 Izbor naložb</div>
               <div style={{ display: 'flex', flexDirection: 'column', gap: '5px' }}>
                 {Object.values(ASSETS).map(asset => {
                   const sel = selectedAssets.has(asset.id);
                   return (
                     <button key={asset.id} onClick={() => toggleAsset(asset.id)} style={{
                       display: 'flex', alignItems: 'center', gap: '10px',
-                      padding: '9px 12px', borderRadius: '10px', cursor: 'pointer',
+                      padding: '9px 12px', borderRadius: '6px', cursor: 'pointer',
                       border: `1px solid ${sel ? asset.color : S.border}`,
-                      background: sel ? asset.color + '14' : 'rgba(255,255,255,0.02)',
+                      background: sel ? asset.color + '14' : 'transparent',
                       transition: 'all 0.15s', textAlign: 'left', width: '100%',
                     }}>
                       <div style={{ width: '9px', height: '9px', borderRadius: '50%', flexShrink: 0, background: sel ? asset.color : 'rgba(255,255,255,0.18)' }} />
@@ -595,7 +590,7 @@ export default function InvestmentCalculator() {
           <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
 
             {/* TABS */}
-            <div style={{ display: 'flex', gap: '4px', background: 'rgba(255,255,255,0.04)', padding: '4px', borderRadius: '12px', flexWrap: 'wrap' }}>
+            <div style={{ display: 'flex', gap: '4px', background: 'var(--color-bg)', padding: '4px', borderRadius: '8px', flexWrap: 'wrap' }}>
               {[
                 { id: 'chart', label: '📈 Grafikon' },
                 { id: 'compare', label: '🔢 Primerjava' },
@@ -605,7 +600,7 @@ export default function InvestmentCalculator() {
               ].map(t => (
                 <button key={t.id} onClick={() => setActiveTab(t.id)} style={{
                   flex: 1, minWidth: '80px', padding: '8px 10px', borderRadius: '8px', border: 'none', cursor: 'pointer',
-                  background: activeTab === t.id ? 'rgba(255,255,255,0.1)' : 'transparent',
+                  background: activeTab === t.id ? 'var(--color-surface-hover)' : 'transparent',
                   color: activeTab === t.id ? '#fff' : S.muted,
                   fontSize: '0.75rem', fontWeight: 600, transition: 'all 0.15s', whiteSpace: 'nowrap',
                 }}>{t.label}</button>
@@ -615,12 +610,12 @@ export default function InvestmentCalculator() {
             {/* ===== CHART TAB ===== */}
             {activeTab === 'chart' && (
               <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
-                <div style={{ background: S.surface, border: `1px solid ${S.border}`, borderRadius: '16px', padding: '1.5rem' }}>
+                <div style={{ background: S.surface, border: `1px solid ${S.border}`, borderRadius: '8px', padding: '1.5rem' }}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem' }}>
                     <div>
                       <div style={{ fontWeight: 700, fontSize: '1rem' }}>Rast naložbe — {years} let</div>
                       <div style={{ fontSize: '0.72rem', color: S.muted, marginTop: '2px' }}>
-                        Vložek: <strong style={{ color: '#fff' }}>€{totalInv.toLocaleString()}</strong>
+                        Vložek: <strong style={{ color: 'var(--color-text)' }}>€{totalInv.toLocaleString()}</strong>
                         {' · '}Način: {mode === 'dca' ? `€${monthlyAmt}/mes DCA` : 'Enkratni vložek'}
                       </div>
                     </div>
@@ -651,7 +646,7 @@ export default function InvestmentCalculator() {
                     return (
                       <div key={id} style={{
                         background: a.color + '10', border: `1px solid ${a.color}35`,
-                        borderRadius: '14px', padding: '1.1rem', position: 'relative',
+                        borderRadius: '8px', padding: '1.1rem', position: 'relative',
                       }}>
                         {rank === 0 && (
                           <div style={{ position: 'absolute', top: '10px', right: '10px' }}>
@@ -664,10 +659,10 @@ export default function InvestmentCalculator() {
                           €{c?.finalValue?.toLocaleString()}
                         </div>
                         <div style={{ fontSize: '0.7rem', color: S.muted, lineHeight: 1.8 }}>
-                          <div>Dobiček: <span style={{ color: '#fff', fontWeight: 600 }}>€{(c?.finalValue - totalInv).toLocaleString()}</span></div>
-                          <div>CAGR neto: <span style={{ color: '#fff', fontWeight: 600 }}>{c?.cagr}%</span></div>
-                          <div>Davek: <span style={{ color: '#f87171' }}>-€{c?.tax?.toLocaleString()}</span></div>
-                          <div>ROI: <span style={{ color: '#fff', fontWeight: 600 }}>{c?.roi}%</span></div>
+                          <div>Dobiček: <span style={{ color: 'var(--color-text)', fontWeight: 600 }}>€{(c?.finalValue - totalInv).toLocaleString()}</span></div>
+                          <div>CAGR neto: <span style={{ color: 'var(--color-text)', fontWeight: 600 }}>{c?.cagr}%</span></div>
+                          <div>Davek: <span style={{ color: '#dc2626' }}>-€{c?.tax?.toLocaleString()}</span></div>
+                          <div>ROI: <span style={{ color: 'var(--color-text)', fontWeight: 600 }}>{c?.roi}%</span></div>
                         </div>
                       </div>
                     );
@@ -678,7 +673,7 @@ export default function InvestmentCalculator() {
 
             {/* ===== COMPARE TAB ===== */}
             {activeTab === 'compare' && (
-              <div style={{ background: S.surface, border: `1px solid ${S.border}`, borderRadius: '16px', padding: '1.5rem', overflowX: 'auto' }}>
+              <div style={{ background: S.surface, border: `1px solid ${S.border}`, borderRadius: '8px', padding: '1.5rem', overflowX: 'auto' }}>
                 <div style={{ fontWeight: 700, fontSize: '1rem', marginBottom: '1rem' }}>Primerjalna tabela</div>
                 <table style={{ width: '100%', borderCollapse: 'separate', borderSpacing: '0 5px', fontSize: '0.78rem', minWidth: '600px' }}>
                   <thead>
@@ -695,26 +690,26 @@ export default function InvestmentCalculator() {
                       const tv = c?.totalInvested || 0;
                       return (
                         <tr key={id}>
-                          <td style={{ padding: '10px', borderRadius: '10px 0 0 10px', background: rank === 0 ? a.color + '12' : 'rgba(255,255,255,0.02)', fontWeight: 700, whiteSpace: 'nowrap' }}>
+                          <td style={{ padding: '10px', borderRadius: '10px 0 0 10px', background: rank === 0 ? a.color + '12' : 'transparent', fontWeight: 700, whiteSpace: 'nowrap' }}>
                             {a.emoji} {a.name} {rank === 0 && <span style={{ color: S.accent }}>★</span>}
                           </td>
-                          <td style={{ padding: '10px', background: rank === 0 ? a.color + '12' : 'rgba(255,255,255,0.02)', fontWeight: 900, color: a.color }}>€{c?.finalValue?.toLocaleString()}</td>
-                          <td style={{ padding: '10px', background: rank === 0 ? a.color + '12' : 'rgba(255,255,255,0.02)', color: S.muted }}>€{tv.toLocaleString()}</td>
-                          <td style={{ padding: '10px', background: rank === 0 ? a.color + '12' : 'rgba(255,255,255,0.02)', color: (c?.finalValue - tv) >= 0 ? '#4ade80' : '#f87171', fontWeight: 700 }}>
+                          <td style={{ padding: '10px', background: rank === 0 ? a.color + '12' : 'transparent', fontWeight: 900, color: a.color }}>€{c?.finalValue?.toLocaleString()}</td>
+                          <td style={{ padding: '10px', background: rank === 0 ? a.color + '12' : 'transparent', color: S.muted }}>€{tv.toLocaleString()}</td>
+                          <td style={{ padding: '10px', background: rank === 0 ? a.color + '12' : 'transparent', color: (c?.finalValue - tv) >= 0 ? '#16a34a' : '#dc2626', fontWeight: 700 }}>
                             €{(c?.finalValue - tv).toLocaleString()}
                           </td>
-                          <td style={{ padding: '10px', background: rank === 0 ? a.color + '12' : 'rgba(255,255,255,0.02)', fontWeight: 700 }}>{c?.cagr}%</td>
-                          <td style={{ padding: '10px', background: rank === 0 ? a.color + '12' : 'rgba(255,255,255,0.02)', color: '#f87171' }}>-€{c?.tax?.toLocaleString()}</td>
-                          <td style={{ padding: '10px', background: rank === 0 ? a.color + '12' : 'rgba(255,255,255,0.02)' }}>
+                          <td style={{ padding: '10px', background: rank === 0 ? a.color + '12' : 'transparent', fontWeight: 700 }}>{c?.cagr}%</td>
+                          <td style={{ padding: '10px', background: rank === 0 ? a.color + '12' : 'transparent', color: '#dc2626' }}>-€{c?.tax?.toLocaleString()}</td>
+                          <td style={{ padding: '10px', background: rank === 0 ? a.color + '12' : 'transparent' }}>
                             <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
                               <MiniBar value={a.riskLevel} max={5} color={RISK_COLORS[a.riskLevel]} />
                               <span style={{ fontSize: '0.65rem', color: RISK_COLORS[a.riskLevel], whiteSpace: 'nowrap' }}>{RISK_LABELS[a.riskLevel]}</span>
                             </div>
                           </td>
-                          <td style={{ padding: '10px', borderRadius: '0 10px 10px 0', background: rank === 0 ? a.color + '12' : 'rgba(255,255,255,0.02)' }}>
+                          <td style={{ padding: '10px', borderRadius: '0 10px 10px 0', background: rank === 0 ? a.color + '12' : 'transparent' }}>
                             <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-                              <MiniBar value={a.liquidity} max={5} color="#10b981" />
-                              <span style={{ fontSize: '0.65rem', color: '#10b981', whiteSpace: 'nowrap' }}>{LIQ_LABELS[a.liquidity]}</span>
+                              <MiniBar value={a.liquidity} max={5} color="#059669" />
+                              <span style={{ fontSize: '0.65rem', color: '#059669', whiteSpace: 'nowrap' }}>{LIQ_LABELS[a.liquidity]}</span>
                             </div>
                           </td>
                         </tr>
@@ -728,7 +723,7 @@ export default function InvestmentCalculator() {
             {/* ===== COSTS TAB ===== */}
             {activeTab === 'costs' && (
               <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
-                <div style={{ background: 'rgba(245,158,11,0.07)', border: '1px solid rgba(245,158,11,0.2)', borderRadius: '12px', padding: '1rem', fontSize: '0.8rem' }}>
+                <div style={{ background: 'rgba(217,119,6,0.07)', border: '1px solid rgba(217,119,6,0.2)', borderRadius: '8px', padding: '1rem', fontSize: '0.8rem' }}>
                   <strong style={{ color: S.accent }}>Davčna politika SLO (ZDoh-2)</strong>
                   <div style={{ color: S.muted, marginTop: '6px', lineHeight: 1.6 }}>
                     Kapitalski dobički: 25% → 20% → 15% → 0% (po 15 letih za ETF/zlato/kripto).
@@ -745,7 +740,7 @@ export default function InvestmentCalculator() {
                     const entryCost = Math.round(tv * a.purchaseCostPct / 100);
                     const sellCost = Math.round((c?.grossValue || 0) * a.sellCostPct / 100);
                     return (
-                      <div key={id} style={{ background: S.surface, border: `1px solid ${a.color}28`, borderRadius: '14px', padding: '1.25rem' }}>
+                      <div key={id} style={{ background: S.surface, border: `1px solid ${a.color}28`, borderRadius: '8px', padding: '1.25rem' }}>
                         <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '1rem' }}>
                           <span style={{ fontSize: '1.2rem' }}>{a.emoji}</span>
                           <div style={{ fontWeight: 700 }}>{a.name}</div>
@@ -757,19 +752,19 @@ export default function InvestmentCalculator() {
                           { label: 'Prodajni strošek', value: a.sellCostPct + '%', amount: '−€' + sellCost.toLocaleString() },
                           { label: 'Davek na prodajo', value: (c?.taxRate * 100).toFixed(0) + '%', amount: '−€' + c?.tax?.toLocaleString() },
                         ].map((row, i) => (
-                          <div key={i} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '6px 0', borderBottom: '1px solid rgba(255,255,255,0.04)' }}>
+                          <div key={i} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '6px 0', borderBottom: '1px solid var(--color-bg)' }}>
                             <span style={{ fontSize: '0.72rem', color: S.muted }}>{row.label}</span>
                             <div style={{ textAlign: 'right' }}>
-                              <span style={{ fontSize: '0.72rem', color: '#fff', fontWeight: 600 }}>{row.value}</span>
-                              {row.amount && <span style={{ fontSize: '0.68rem', color: '#f87171', marginLeft: '8px' }}>{row.amount}</span>}
+                              <span style={{ fontSize: '0.72rem', color: 'var(--color-text)', fontWeight: 600 }}>{row.value}</span>
+                              {row.amount && <span style={{ fontSize: '0.68rem', color: '#dc2626', marginLeft: '8px' }}>{row.amount}</span>}
                             </div>
                           </div>
                         ))}
 
-                        <div style={{ marginTop: '10px', padding: '8px', background: 'rgba(255,255,255,0.03)', borderRadius: '8px', fontSize: '0.68rem', color: S.subtle, lineHeight: 1.5 }}>
+                        <div style={{ marginTop: '10px', padding: '8px', background: 'var(--color-bg)', borderRadius: '8px', fontSize: '0.68rem', color: S.subtle, lineHeight: 1.5 }}>
                           🏛️ {a.taxNote}
                         </div>
-                        <div style={{ marginTop: '6px', padding: '8px', background: 'rgba(255,255,255,0.03)', borderRadius: '8px', fontSize: '0.68rem', color: S.subtle, lineHeight: 1.5 }}>
+                        <div style={{ marginTop: '6px', padding: '8px', background: 'var(--color-bg)', borderRadius: '8px', fontSize: '0.68rem', color: S.subtle, lineHeight: 1.5 }}>
                           💰 {a.purchaseCostNote}
                         </div>
                       </div>
@@ -783,7 +778,7 @@ export default function InvestmentCalculator() {
             {activeTab === 'suitability' && (
               <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
                 {/* Profile summary */}
-                <div style={{ background: S.surface, border: `1px solid ${S.border}`, borderRadius: '14px', padding: '1.1rem' }}>
+                <div style={{ background: S.surface, border: `1px solid ${S.border}`, borderRadius: '8px', padding: '1.1rem' }}>
                   <div style={{ fontWeight: 700, fontSize: '0.85rem', marginBottom: '0.75rem' }}>Tvoj profil</div>
                   <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px' }}>
                     {[
@@ -794,7 +789,7 @@ export default function InvestmentCalculator() {
                       ['Obdobje', years + ' let'],
                       ['Vložek', mode === 'dca' ? '€' + monthlyAmt + '/mes' : '€' + lumpSum.toLocaleString()],
                     ].map(([k, v]) => (
-                      <div key={k} style={{ background: 'rgba(245,158,11,0.08)', border: '1px solid rgba(245,158,11,0.18)', borderRadius: '8px', padding: '3px 10px', fontSize: '0.72rem' }}>
+                      <div key={k} style={{ background: 'rgba(217,119,6,0.08)', border: '1px solid rgba(217,119,6,0.18)', borderRadius: '8px', padding: '3px 10px', fontSize: '0.72rem' }}>
                         <span style={{ color: S.muted }}>{k}: </span>
                         <span style={{ color: S.accent, fontWeight: 700 }}>{v}</span>
                       </div>
@@ -808,7 +803,7 @@ export default function InvestmentCalculator() {
                     const s = suits[id];
                     if (!s) return null;
                     return (
-                      <div key={id} style={{ background: S.surface, border: `1px solid ${s.ratingColor}35`, borderRadius: '16px', padding: '1.25rem' }}>
+                      <div key={id} style={{ background: S.surface, border: `1px solid ${s.ratingColor}35`, borderRadius: '8px', padding: '1.25rem' }}>
                         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '1rem' }}>
                           <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
                             <span style={{ fontSize: '1.3rem' }}>{a.emoji}</span>
@@ -821,14 +816,14 @@ export default function InvestmentCalculator() {
                         </div>
 
                         {/* Score bar */}
-                        <div style={{ height: '6px', background: 'rgba(255,255,255,0.07)', borderRadius: '3px', marginBottom: '1rem', overflow: 'hidden' }}>
+                        <div style={{ height: '6px', background: 'var(--color-bg)', borderRadius: '3px', marginBottom: '1rem', overflow: 'hidden' }}>
                           <div style={{ width: s.score + '%', height: '100%', background: `linear-gradient(90deg, ${s.ratingColor}, ${s.ratingColor}88)`, borderRadius: '3px', transition: 'width 0.5s' }} />
                         </div>
 
                         {/* Indicators */}
                         {[
                           { label: 'Tveganje', value: a.riskLevel, max: 5, color: RISK_COLORS[a.riskLevel], text: RISK_LABELS[a.riskLevel] },
-                          { label: 'Likvidnost', value: a.liquidity, max: 5, color: '#10b981', text: LIQ_LABELS[a.liquidity] },
+                          { label: 'Likvidnost', value: a.liquidity, max: 5, color: '#059669', text: LIQ_LABELS[a.liquidity] },
                         ].map(ind => (
                           <div key={ind.label} style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '5px' }}>
                             <span style={{ fontSize: '0.67rem', color: S.subtle, width: '68px', flexShrink: 0 }}>{ind.label}</span>
@@ -840,7 +835,7 @@ export default function InvestmentCalculator() {
                         {/* Factors */}
                         <div style={{ marginTop: '10px', display: 'flex', flexDirection: 'column', gap: '4px' }}>
                           {s.factors.map((f, i) => (
-                            <div key={i} style={{ fontSize: '0.7rem', color: f.ok ? '#86efac' : '#fca5a5', display: 'flex', gap: '6px' }}>
+                            <div key={i} style={{ fontSize: '0.7rem', color: f.ok ? '#059669' : '#dc2626', display: 'flex', gap: '6px' }}>
                               <span style={{ flexShrink: 0 }}>{f.ok ? '✓' : '⚠'}</span>
                               <span>{f.text}</span>
                             </div>
@@ -848,7 +843,7 @@ export default function InvestmentCalculator() {
                         </div>
 
                         {/* Donos range */}
-                        <div style={{ marginTop: '10px', padding: '8px', background: 'rgba(255,255,255,0.03)', borderRadius: '8px', fontSize: '0.68rem', color: S.muted }}>
+                        <div style={{ marginTop: '10px', padding: '8px', background: 'var(--color-bg)', borderRadius: '8px', fontSize: '0.68rem', color: S.muted }}>
                           Zgodovinski donos: {a.returnRange[0]}–{a.returnRange[1]}% letno (povp. {a.returnBase}%)
                         </div>
                       </div>
@@ -867,11 +862,11 @@ export default function InvestmentCalculator() {
                   const tv = c?.totalInvested || 0;
                   const open = expandedAsset === id;
                   return (
-                    <div key={id} style={{ background: S.surface, border: `1px solid ${a.color}28`, borderRadius: '16px', overflow: 'hidden' }}>
+                    <div key={id} style={{ background: S.surface, border: `1px solid ${a.color}28`, borderRadius: '8px', overflow: 'hidden' }}>
                       <button onClick={() => setExpandedAsset(open ? null : id)} style={{
                         width: '100%', padding: '1.1rem 1.25rem', display: 'flex', alignItems: 'center',
                         justifyContent: 'space-between', background: 'none', border: 'none',
-                        color: '#fff', cursor: 'pointer', textAlign: 'left',
+                        color: 'var(--color-text)', cursor: 'pointer', textAlign: 'left',
                       }}>
                         <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
                           <span style={{ fontSize: '1.4rem' }}>{a.emoji}</span>
@@ -896,11 +891,11 @@ export default function InvestmentCalculator() {
                           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1rem', marginBottom: '1rem' }}>
                             <div>
                               <div style={{ fontSize: '0.65rem', color: S.subtle, fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '6px' }}>Prednosti</div>
-                              {a.pros.map((p, i) => <div key={i} style={{ fontSize: '0.75rem', color: '#86efac', marginBottom: '4px' }}>✓ {p}</div>)}
+                              {a.pros.map((p, i) => <div key={i} style={{ fontSize: '0.75rem', color: '#059669', marginBottom: '4px' }}>✓ {p}</div>)}
                             </div>
                             <div>
                               <div style={{ fontSize: '0.65rem', color: S.subtle, fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '6px' }}>Slabosti</div>
-                              {a.cons.map((c2, i) => <div key={i} style={{ fontSize: '0.75rem', color: '#fca5a5', marginBottom: '4px' }}>✗ {c2}</div>)}
+                              {a.cons.map((c2, i) => <div key={i} style={{ fontSize: '0.75rem', color: '#dc2626', marginBottom: '4px' }}>✗ {c2}</div>)}
                             </div>
                           </div>
 
@@ -914,9 +909,9 @@ export default function InvestmentCalculator() {
                               { label: 'Neto vrednost', value: '€' + c?.finalValue?.toLocaleString() },
                               { label: 'CAGR neto', value: c?.cagr + '%/leto' },
                             ].map((st, i) => (
-                              <div key={i} style={{ background: 'rgba(255,255,255,0.03)', borderRadius: '10px', padding: '10px' }}>
+                              <div key={i} style={{ background: 'var(--color-bg)', borderRadius: '6px', padding: '10px' }}>
                                 <div style={{ fontSize: '0.62rem', color: S.subtle, marginBottom: '4px' }}>{st.label}</div>
-                                <div style={{ fontSize: '0.9rem', fontWeight: 800, color: '#fff' }}>{st.value}</div>
+                                <div style={{ fontSize: '0.9rem', fontWeight: 800, color: 'var(--color-text)' }}>{st.value}</div>
                                 {st.sub && <div style={{ fontSize: '0.62rem', color: S.subtle, marginTop: '3px' }}>{st.sub}</div>}
                               </div>
                             ))}
@@ -929,7 +924,7 @@ export default function InvestmentCalculator() {
                             { icon: '💧', label: 'Likvidnost', text: a.liquidityNote },
                             { icon: '⚠️', label: 'Tveganje', text: a.riskNote },
                           ].map((row, i) => (
-                            <div key={i} style={{ display: 'flex', gap: '10px', padding: '8px 10px', background: 'rgba(255,255,255,0.02)', borderRadius: '8px', marginBottom: '5px' }}>
+                            <div key={i} style={{ display: 'flex', gap: '10px', padding: '8px 10px', background: 'transparent', borderRadius: '8px', marginBottom: '5px' }}>
                               <span style={{ fontSize: '1rem', flexShrink: 0 }}>{row.icon}</span>
                               <div>
                                 <div style={{ fontSize: '0.62rem', color: S.subtle, fontWeight: 700, marginBottom: '2px' }}>{row.label}</div>
@@ -939,7 +934,7 @@ export default function InvestmentCalculator() {
                           ))}
 
                           {/* Transparency */}
-                          <div style={{ marginTop: '1rem', background: 'rgba(245,158,11,0.06)', border: '1px solid rgba(245,158,11,0.15)', borderRadius: '12px', padding: '1rem' }}>
+                          <div style={{ marginTop: '1rem', background: 'rgba(217,119,6,0.06)', border: '1px solid rgba(217,119,6,0.15)', borderRadius: '8px', padding: '1rem' }}>
                             <div style={{ fontWeight: 700, fontSize: '0.8rem', color: S.accent, marginBottom: '10px' }}>🔍 Transparentni izračun</div>
                             {[
                               { label: 'Korak 1: Vložite', value: '€' + tv.toLocaleString() + (mode === 'dca' ? ' (€' + monthlyAmt + '/mes × ' + years + ' let)' : ' enkratno') },
@@ -952,7 +947,7 @@ export default function InvestmentCalculator() {
                             ].map((step, i, arr) => (
                               <div key={i} style={{
                                 display: 'flex', justifyContent: 'space-between',
-                                padding: '6px 0', borderBottom: i < arr.length - 1 ? '1px solid rgba(255,255,255,0.05)' : 'none',
+                                padding: '6px 0', borderBottom: i < arr.length - 1 ? '1px solid var(--color-border)' : 'none',
                               }}>
                                 <span style={{ fontSize: '0.72rem', color: step.highlight ? S.accent : S.muted }}>{step.label}</span>
                                 <span style={{ fontSize: '0.72rem', color: step.highlight ? S.accent : '#fff', fontWeight: step.highlight ? 800 : 400 }}>{step.value}</span>

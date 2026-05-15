@@ -66,7 +66,7 @@ export default function Accounts({ state, dispatch }) {
           return (
             <button key={a.id} onClick={() => setEditing({ ...a, startingBalance: String(a.startingBalance) })}
               style={{
-                background: 'var(--color-surface)', border: '1px solid var(--color-border)', borderRadius: 12,
+                background: 'var(--color-surface)', border: '1px solid var(--color-border)', borderRadius: 8,
                 padding: '1.1rem 1.25rem', textAlign: 'left', cursor: 'pointer', fontFamily: 'inherit', color: 'inherit',
                 borderTop: `3px solid ${a.color}`,
                 display: 'flex', flexDirection: 'column', gap: 8,
@@ -81,7 +81,7 @@ export default function Accounts({ state, dispatch }) {
               </div>
               <div style={{
                 fontSize: '1.5rem', fontWeight: 700, letterSpacing: '-0.02em',
-                color: isDebt ? '#fbbf24' : bal >= 0 ? 'var(--color-text)' : '#f87171',
+                color: isDebt ? '#d97706' : bal >= 0 ? 'var(--color-text)' : '#dc2626',
               }}>
                 {fmtEur(isDebt ? -Math.abs(bal) : bal)}
               </div>

@@ -17,30 +17,30 @@ export const ACCOUNT_TYPES = [
 export const ACCOUNT_TYPE_LABEL = Object.fromEntries(ACCOUNT_TYPES.map((t) => [t.id, t.label]));
 
 export const PALETTE = [
-  '#3b82f6', '#10b981', '#f59e0b', '#ec4899', '#8b5cf6',
-  '#06b6d4', '#ef4444', '#84cc16', '#f97316', '#a855f7',
-  '#14b8a6', '#eab308', '#f43f5e', '#22c55e', '#6366f1',
+  '#2563eb', '#059669', '#d97706', '#db2777', '#a855f7',
+  '#0891b2', '#dc2626', '#65a30d', '#ea580c', '#7c3aed',
+  '#0d9488', '#ca8a04', '#e11d48', '#16a34a', '#4f46e5',
 ];
 
 const DEFAULT_INCOME_CATEGORIES = [
-  { name: 'Plača', color: '#10b981' },
-  { name: 'Honorar / s.p.', color: '#22c55e' },
-  { name: 'Dividende & obresti', color: '#84cc16' },
-  { name: 'Najemnina', color: '#14b8a6' },
-  { name: 'Drugi prihodki', color: '#06b6d4' },
+  { name: 'Plača', color: '#059669' },
+  { name: 'Honorar / s.p.', color: '#16a34a' },
+  { name: 'Dividende & obresti', color: '#65a30d' },
+  { name: 'Najemnina', color: '#0d9488' },
+  { name: 'Drugi prihodki', color: '#0891b2' },
 ];
 
 const DEFAULT_EXPENSE_CATEGORIES = [
-  { name: 'Stanovanje',         color: '#3b82f6' },
-  { name: 'Hrana & gospodinjstvo', color: '#f59e0b' },
-  { name: 'Promet',             color: '#ef4444' },
-  { name: 'Računi & naročnine', color: '#8b5cf6' },
-  { name: 'Zdravje',            color: '#ec4899' },
+  { name: 'Stanovanje',         color: '#2563eb' },
+  { name: 'Hrana & gospodinjstvo', color: '#d97706' },
+  { name: 'Promet',             color: '#dc2626' },
+  { name: 'Računi & naročnine', color: '#7c3aed' },
+  { name: 'Zdravje',            color: '#db2777' },
   { name: 'Prosti čas',         color: '#a855f7' },
-  { name: 'Oblačila',           color: '#f97316' },
-  { name: 'Izobraževanje',      color: '#6366f1' },
-  { name: 'Davki & prispevki',  color: '#f43f5e' },
-  { name: 'Naložbe',            color: '#10b981' },
+  { name: 'Oblačila',           color: '#ea580c' },
+  { name: 'Izobraževanje',      color: '#4f46e5' },
+  { name: 'Davki & prispevki',  color: '#e11d48' },
+  { name: 'Naložbe',            color: '#059669' },
   { name: 'Drugo',              color: '#64748b' },
 ];
 
@@ -51,9 +51,9 @@ export function uid() {
 export function freshState() {
   const today = new Date().toISOString().slice(0, 10);
   const accounts = [
-    { id: uid(), name: 'TRR',       type: 'checking', startingBalance: 0, color: '#3b82f6', archived: false, createdAt: today },
-    { id: uid(), name: 'Varčevanje', type: 'savings',  startingBalance: 0, color: '#10b981', archived: false, createdAt: today },
-    { id: uid(), name: 'Gotovina',  type: 'cash',     startingBalance: 0, color: '#f59e0b', archived: false, createdAt: today },
+    { id: uid(), name: 'TRR',       type: 'checking', startingBalance: 0, color: '#2563eb', archived: false, createdAt: today },
+    { id: uid(), name: 'Varčevanje', type: 'savings',  startingBalance: 0, color: '#059669', archived: false, createdAt: today },
+    { id: uid(), name: 'Gotovina',  type: 'cash',     startingBalance: 0, color: '#d97706', archived: false, createdAt: today },
   ];
   const categories = [
     ...DEFAULT_INCOME_CATEGORIES.map((c) => ({ id: uid(), type: 'income',  archived: false, ...c })),

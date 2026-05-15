@@ -6,30 +6,33 @@ const SECTORS = [
   'Finance',
   'Potrošniki',
   'Makro & Centralne banke',
+  'Geopolitika',
 ];
 
 const SECTOR_COLOR = {
-  'Tehnologija & AI':       { bg: 'rgba(59,130,246,0.12)',  border: 'rgba(59,130,246,0.35)',  text: '#60a5fa' },
-  'Energetika':             { bg: 'rgba(245,158,11,0.12)',  border: 'rgba(245,158,11,0.35)',  text: '#fbbf24' },
-  'Finance':                { bg: 'rgba(16,185,129,0.12)',  border: 'rgba(16,185,129,0.35)',  text: '#34d399' },
-  'Potrošniki':             { bg: 'rgba(236,72,153,0.12)',  border: 'rgba(236,72,153,0.35)',  text: '#f472b6' },
-  'Makro & Centralne banke':{ bg: 'rgba(139,92,246,0.12)',  border: 'rgba(139,92,246,0.35)',  text: '#a78bfa' },
+  'Geopolitika':            { bg: 'rgba(220,38,38,0.08)',  border: 'rgba(220,38,38,0.25)',  text: '#dc2626' },
+  'Tehnologija & AI':       { bg: 'rgba(37,99,235,0.08)',  border: 'rgba(37,99,235,0.25)',  text: '#2563eb' },
+  'Energetika':             { bg: 'rgba(217,119,6,0.08)',  border: 'rgba(217,119,6,0.25)',  text: '#d97706' },
+  'Finance':                { bg: 'rgba(5,150,105,0.08)',  border: 'rgba(5,150,105,0.25)',  text: '#059669' },
+  'Potrošniki':             { bg: 'rgba(168,85,247,0.08)', border: 'rgba(168,85,247,0.25)', text: '#a855f7' },
+  'Makro & Centralne banke':{ bg: 'rgba(71,85,105,0.08)',  border: 'rgba(71,85,105,0.25)',  text: '#475569' },
 };
 
 const DIRECTION = {
-  pozitivno: { icon: '▲', color: '#34d399', label: 'Pozitivno' },
-  negativno: { icon: '▼', color: '#f87171', label: 'Negativno' },
-  mešano:    { icon: '◆', color: '#fbbf24', label: 'Mešano' },
+  pozitivno: { icon: '▲', color: '#059669', label: 'Pozitivno' },
+  negativno: { icon: '▼', color: '#dc2626', label: 'Negativno' },
+  mešano:    { icon: '◆', color: '#d97706', label: 'Mešano' },
 };
 
-function formatDate(iso) {
+function formatDateTime(iso) {
   if (!iso) return '';
   try {
     const d = new Date(iso);
-    return d.toLocaleDateString('sl-SI', { day: 'numeric', month: 'long', year: 'numeric' });
-  } catch {
-    return iso;
-  }
+    return d.toLocaleString('sl-SI', {
+      day: 'numeric', month: 'long', year: 'numeric',
+      hour: '2-digit', minute: '2-digit',
+    });
+  } catch { return iso; }
 }
 
 function IntensityDots({ value }) {
@@ -37,15 +40,10 @@ function IntensityDots({ value }) {
   return (
     <span style={{ display: 'inline-flex', gap: 3, alignItems: 'center' }}>
       {[1, 2, 3].map((i) => (
-        <span
-          key={i}
-          style={{
-            width: 6,
-            height: 6,
-            borderRadius: '50%',
-            background: i <= v ? '#f59e0b' : 'rgba(148,163,184,0.25)',
-          }}
-        />
+        <span key={i} style={{
+          width: 5, height: 5, borderRadius: '50%',
+          background: i <= v ? 'var(--color-warning)' : 'var(--color-border-strong)',
+        }} />
       ))}
     </span>
   );
@@ -66,7 +64,7 @@ export default function MarketBriefing() {
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         return r.json();
       })
-      .then((j) => setData(j))
+      .then(setData)
       .catch((e) => setError(String(e)))
       .finally(() => setLoading(false));
   }, []);
@@ -83,36 +81,53 @@ export default function MarketBriefing() {
     return s;
   }, [novice]);
 
+  const activeSectors = useMemo(() => {
+    const set = new Set(novice.map((n) => n.sektor));
+    return SECTORS.filter((s) => set.has(s));
+  }, [novice]);
+
   return (
-    <div style={{ padding: '3rem 0 4rem', minHeight: '70vh' }}>
-      <div style={{ maxWidth: 960, margin: '0 auto', padding: '0 1.25rem' }}>
-        <header style={{ marginBottom: '2rem' }}>
-          <div style={{ fontSize: '2.5rem', marginBottom: '0.75rem' }}>📰</div>
-          <h1 style={{ fontSize: 'clamp(2rem, 4vw, 2.75rem)', fontWeight: 700, letterSpacing: '-0.03em', margin: '0 0 0.5rem' }}>
-            Dnevni pregled trgov
+    <div style={{ padding: '3.5rem 0 5rem', minHeight: '70vh' }}>
+      <div style={{ maxWidth: 900, margin: '0 auto', padding: '0 1.25rem' }}>
+
+        {/* Header */}
+        <header style={{ marginBottom: '2.5rem', borderBottom: '1px solid var(--color-border)', paddingBottom: '1.5rem' }}>
+          <h1 style={{
+            fontSize: 'clamp(2rem, 4vw, 2.75rem)',
+            fontWeight: 700,
+            letterSpacing: '-0.025em',
+            margin: '0 0 0.5rem',
+            color: 'var(--color-text)',
+          }}>
+            Dnevni pregled
           </h1>
-          <p style={{ color: 'var(--color-text-muted)', fontSize: '1.05rem', lineHeight: 1.7, margin: 0 }}>
-            Avtomatsko generiran povzetek najpomembnejših finančnih in geopolitičnih dogodkov.
-            Brez hypea, brez finančnih nasvetov.
-          </p>
           {data?.generiranoOb && (
-            <div style={{ marginTop: '0.75rem', fontSize: '0.85rem', color: 'var(--color-text-subtle)' }}>
-              Posodobljeno: {formatDate(data.generiranoOb)}
+            <div style={{ fontSize: '0.88rem', color: 'var(--color-text-muted)' }}>
+              {formatDateTime(data.generiranoOb)}
             </div>
           )}
         </header>
 
-        {loading && <div style={{ color: 'var(--color-text-muted)' }}>Nalagam pregled…</div>}
+        {loading && (
+          <div style={{ color: 'var(--color-text-muted)', padding: '2rem 0' }}>
+            Nalagam pregled…
+          </div>
+        )}
 
         {error && (
           <div style={{
-            padding: '1rem 1.25rem',
-            background: 'rgba(248,113,113,0.08)',
-            border: '1px solid rgba(248,113,113,0.3)',
-            borderRadius: 12,
-            color: '#fca5a5',
+            padding: '1.5rem',
+            background: 'var(--color-surface)',
+            border: '1px solid var(--color-border)',
+            borderLeft: '3px solid var(--color-text-subtle)',
+            borderRadius: 6,
           }}>
-            Napaka pri nalaganju pregleda: {error}
+            <div style={{ fontSize: '0.95rem', fontWeight: 600, color: 'var(--color-text)' }}>
+              Pregleda ni mogoče naložiti
+            </div>
+            <div style={{ fontSize: '0.85rem', marginTop: 6, color: 'var(--color-text-muted)' }}>
+              {error}
+            </div>
           </div>
         )}
 
@@ -120,61 +135,79 @@ export default function MarketBriefing() {
           <>
             {data.povzetek && (
               <section style={{
-                padding: '1.5rem 1.75rem',
+                padding: '1.75rem 1.85rem',
                 background: 'var(--color-surface)',
-                border: '1px solid var(--color-accent-border, var(--color-border))',
-                borderLeft: '3px solid var(--color-accent)',
-                borderRadius: 12,
-                marginBottom: '1.75rem',
+                border: '1px solid var(--color-border)',
+                borderRadius: 8,
+                marginBottom: '2rem',
               }}>
-                <div style={{ fontSize: '0.8rem', textTransform: 'uppercase', letterSpacing: '0.08em', color: 'var(--color-accent)', fontWeight: 700, marginBottom: '0.6rem' }}>
+                <div style={{
+                  fontSize: '0.72rem',
+                  textTransform: 'uppercase',
+                  letterSpacing: '0.1em',
+                  color: 'var(--color-text-subtle)',
+                  fontWeight: 600,
+                  marginBottom: '0.85rem',
+                }}>
                   Pregled dneva
                 </div>
-                <p style={{ margin: 0, lineHeight: 1.75, fontSize: '1.02rem', color: 'var(--color-text)' }}>
+                <p style={{
+                  margin: 0,
+                  lineHeight: 1.8,
+                  fontSize: '1.02rem',
+                  color: 'var(--color-text)',
+                }}>
                   {data.povzetek}
                 </p>
               </section>
             )}
 
             {novice.length > 0 && (
-              <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', marginBottom: '1.5rem' }}>
-                {Object.entries(stats).map(([key, n]) => {
-                  const meta = DIRECTION[key];
-                  return (
-                    <div key={key} style={{
-                      display: 'flex', alignItems: 'center', gap: 8,
-                      padding: '0.5rem 0.85rem',
-                      background: 'var(--color-surface)',
-                      border: '1px solid var(--color-border)',
-                      borderRadius: 999,
-                      fontSize: '0.85rem',
-                    }}>
-                      <span style={{ color: meta.color, fontWeight: 700 }}>{meta.icon}</span>
-                      <span style={{ color: 'var(--color-text-muted)' }}>{meta.label}:</span>
-                      <strong>{n}</strong>
-                    </div>
-                  );
-                })}
+              <div style={{
+                display: 'flex',
+                justifyContent: 'space-between',
+                alignItems: 'center',
+                marginBottom: '1.25rem',
+                flexWrap: 'wrap',
+                gap: '0.75rem',
+              }}>
+                <div style={{ display: 'flex', gap: '1.25rem', fontSize: '0.85rem', color: 'var(--color-text-muted)' }}>
+                  {Object.entries(stats).map(([key, n]) => {
+                    if (n === 0) return null;
+                    const meta = DIRECTION[key];
+                    return (
+                      <span key={key} style={{ display: 'inline-flex', alignItems: 'center', gap: 6 }}>
+                        <span style={{ color: meta.color, fontWeight: 700 }}>{meta.icon}</span>
+                        <span>{meta.label.toLowerCase()}</span>
+                        <strong style={{ color: 'var(--color-text)' }}>{n}</strong>
+                      </span>
+                    );
+                  })}
+                </div>
+                <div style={{ fontSize: '0.85rem', color: 'var(--color-text-subtle)' }}>
+                  {novice.length} novic
+                </div>
               </div>
             )}
 
-            {novice.length > 0 && (
-              <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', marginBottom: '1.5rem' }}>
-                {['vse', ...SECTORS].map((s) => {
+            {activeSectors.length > 0 && (
+              <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: '1.5rem' }}>
+                {['vse', ...activeSectors].map((s) => {
                   const active = filter === s;
                   return (
                     <button
                       key={s}
                       onClick={() => setFilter(s)}
                       style={{
-                        padding: '0.4rem 0.85rem',
-                        borderRadius: 999,
-                        fontSize: '0.85rem',
+                        padding: '0.35rem 0.85rem',
+                        borderRadius: 4,
+                        fontSize: '0.82rem',
                         fontWeight: 500,
                         cursor: 'pointer',
-                        border: '1px solid ' + (active ? 'var(--color-accent)' : 'var(--color-border)'),
-                        background: active ? 'var(--color-accent-bg)' : 'transparent',
-                        color: active ? 'var(--color-accent)' : 'var(--color-text-muted)',
+                        border: '1px solid ' + (active ? 'var(--color-text)' : 'var(--color-border)'),
+                        background: active ? 'var(--color-text)' : 'transparent',
+                        color: active ? 'var(--color-bg)' : 'var(--color-text-muted)',
+                        fontFamily: 'inherit',
                         transition: 'all 0.15s',
                       }}
                     >
@@ -187,76 +220,72 @@ export default function MarketBriefing() {
 
             <div style={{ display: 'flex', flexDirection: 'column', gap: '0.85rem' }}>
               {filtered.map((item, i) => {
-                const col = SECTOR_COLOR[item.sektor] || { bg: 'rgba(148,163,184,0.1)', border: 'rgba(148,163,184,0.3)', text: '#cbd5e1' };
+                const col = SECTOR_COLOR[item.sektor] || { bg: 'rgba(148,163,184,0.08)', border: 'rgba(148,163,184,0.25)', text: '#64748b' };
                 const dir = DIRECTION[item.smer] || DIRECTION.mešano;
                 const isOpen = expanded === i;
                 return (
-                  <article
-                    key={i}
-                    style={{
-                      background: 'var(--color-surface)',
-                      border: '1px solid var(--color-border)',
-                      borderRadius: 12,
-                      overflow: 'hidden',
-                    }}
-                  >
+                  <article key={i} style={{
+                    background: 'var(--color-surface)',
+                    border: '1px solid var(--color-border)',
+                    borderRadius: 8,
+                    overflow: 'hidden',
+                  }}>
                     <button
                       onClick={() => setExpanded(isOpen ? null : i)}
                       style={{
                         width: '100%',
                         textAlign: 'left',
-                        padding: '1.1rem 1.25rem',
+                        padding: '1.25rem 1.5rem',
                         background: 'transparent',
                         border: 'none',
                         color: 'inherit',
                         cursor: 'pointer',
                         display: 'flex',
                         flexDirection: 'column',
-                        gap: '0.5rem',
+                        gap: '0.6rem',
+                        fontFamily: 'inherit',
                       }}
                     >
-                      <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8, alignItems: 'center' }}>
+                      <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10, alignItems: 'center' }}>
                         <span style={{
                           fontSize: '0.7rem',
                           fontWeight: 600,
                           padding: '3px 9px',
-                          borderRadius: 999,
+                          borderRadius: 4,
                           background: col.bg,
                           border: `1px solid ${col.border}`,
                           color: col.text,
+                          letterSpacing: '0.01em',
                         }}>
                           {item.sektor}
                         </span>
-                        <span style={{ color: dir.color, fontSize: '0.9rem', fontWeight: 700 }}>{dir.icon}</span>
+                        <span style={{ color: dir.color, fontSize: '0.85rem', fontWeight: 700 }}>{dir.icon}</span>
                         <IntensityDots value={item.intenziteta} />
-                        {item.vir && !item.vir_url && (
-                          <span style={{ fontSize: '0.75rem', color: 'var(--color-text-subtle)', marginLeft: 'auto' }}>
-                            {item.vir}
-                          </span>
-                        )}
-                        {item.vir_url && (
-                          <a
-                            href={item.vir_url}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            onClick={(e) => e.stopPropagation()}
-                            style={{
-                              fontSize: '0.75rem',
-                              color: 'var(--color-accent)',
-                              marginLeft: 'auto',
-                              textDecoration: 'none',
-                              borderBottom: '1px solid currentColor',
-                            }}
-                          >
-                            {item.vir || 'Vir'} ↗
-                          </a>
-                        )}
+                        <span style={{
+                          fontSize: '0.74rem',
+                          color: 'var(--color-text-subtle)',
+                          marginLeft: 'auto',
+                        }}>
+                          {item.vir}
+                        </span>
                       </div>
-                      <h2 style={{ fontSize: '1.1rem', fontWeight: 700, margin: 0, letterSpacing: '-0.01em' }}>
+                      <h2 style={{
+                        fontSize: '1.1rem',
+                        fontWeight: 700,
+                        margin: 0,
+                        letterSpacing: '-0.015em',
+                        color: 'var(--color-text)',
+                        lineHeight: 1.35,
+                      }}>
                         {item.naslov}
                       </h2>
                       {item.povzetek && (
-                        <p style={{ margin: 0, color: 'var(--color-text-muted)', fontSize: '0.95rem', lineHeight: 1.65 }}>
+                        <p style={{
+                          margin: 0,
+                          color: 'var(--color-text-muted)',
+                          fontSize: '0.95rem',
+                          lineHeight: 1.7,
+                        }}>
                           {item.povzetek}
                         </p>
                       )}
@@ -264,27 +293,61 @@ export default function MarketBriefing() {
 
                     {isOpen && (
                       <div style={{
-                        padding: '0 1.25rem 1.25rem',
+                        padding: '0 1.5rem 1.5rem',
                         borderTop: '1px solid var(--color-border)',
-                        marginTop: '0.25rem',
-                        paddingTop: '1rem',
+                        paddingTop: '1.25rem',
                       }}>
                         {item.analiza && (
-                          <p style={{ margin: '0 0 1rem', lineHeight: 1.7, color: 'var(--color-text)' }}>
+                          <p style={{
+                            margin: '0 0 1.25rem',
+                            lineHeight: 1.75,
+                            color: 'var(--color-text)',
+                            fontSize: '0.96rem',
+                          }}>
                             {item.analiza}
                           </p>
                         )}
                         {Array.isArray(item.vpliv) && item.vpliv.length > 0 && (
-                          <>
-                            <div style={{ fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '0.08em', color: 'var(--color-accent)', fontWeight: 700, marginBottom: '0.5rem' }}>
+                          <div style={{ marginBottom: item.vir_url ? '1.25rem' : 0 }}>
+                            <div style={{
+                              fontSize: '0.7rem',
+                              textTransform: 'uppercase',
+                              letterSpacing: '0.1em',
+                              color: 'var(--color-text-subtle)',
+                              fontWeight: 600,
+                              marginBottom: '0.6rem',
+                            }}>
                               Vpliv
                             </div>
-                            <ul style={{ margin: 0, paddingLeft: '1.1rem', color: 'var(--color-text-muted)', lineHeight: 1.7 }}>
-                              {item.vpliv.map((v, k) => (
-                                <li key={k}>{v}</li>
-                              ))}
+                            <ul style={{
+                              margin: 0,
+                              paddingLeft: '1.2rem',
+                              color: 'var(--color-text-muted)',
+                              lineHeight: 1.75,
+                              fontSize: '0.92rem',
+                            }}>
+                              {item.vpliv.map((v, k) => <li key={k}>{v}</li>)}
                             </ul>
-                          </>
+                          </div>
+                        )}
+                        {item.vir_url && (
+                          <a
+                            href={item.vir_url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            style={{
+                              display: 'inline-flex',
+                              alignItems: 'center',
+                              gap: 6,
+                              fontSize: '0.85rem',
+                              color: 'var(--color-accent)',
+                              textDecoration: 'none',
+                              fontWeight: 500,
+                            }}
+                          >
+                            Preberi pri viru ({item.vir})
+                            <span style={{ fontSize: '0.9em' }}>→</span>
+                          </a>
                         )}
                       </div>
                     )}
@@ -303,7 +366,7 @@ export default function MarketBriefing() {
                   padding: '1.5rem',
                   background: 'var(--color-surface)',
                   border: '1px solid var(--color-border)',
-                  borderRadius: 12,
+                  borderRadius: 8,
                   color: 'var(--color-text-muted)',
                 }}>
                   Dnevni pregled še ni bil generiran. Prvi avtomatski pregled se bo pojavil po prvem zagonu opravila.
@@ -311,9 +374,14 @@ export default function MarketBriefing() {
               )}
             </div>
 
-            <p style={{ marginTop: '2rem', fontSize: '0.8rem', color: 'var(--color-text-subtle)', lineHeight: 1.6 }}>
-              Vsebina je generirana avtomatsko z uporabo AI in spletnega iskanja. Ni finančni nasvet.
-              Za odločitve uporabi primarne vire.
+            <p style={{
+              marginTop: '2.5rem',
+              fontSize: '0.78rem',
+              color: 'var(--color-text-subtle)',
+              lineHeight: 1.65,
+              textAlign: 'center',
+            }}>
+              Vsebina je informativne narave in ni finančni nasvet. Za odločitve uporabi primarne vire.
             </p>
           </>
         )}

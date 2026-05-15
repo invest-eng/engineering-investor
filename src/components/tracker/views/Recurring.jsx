@@ -90,7 +90,7 @@ export default function Recurring({ state, dispatch }) {
       />
 
       {due.length > 0 && (
-        <Card style={{ borderLeft: '3px solid #fbbf24' }}>
+        <Card style={{ borderLeft: '3px solid #d97706' }}>
           <strong style={{ fontSize: '0.95rem' }}>Zapadla pravila ({due.length})</strong>
           <div style={{ marginTop: 10, display: 'flex', flexDirection: 'column', gap: 6 }}>
             {due.map((r) => (
@@ -141,7 +141,7 @@ export default function Recurring({ state, dispatch }) {
                 </div>
                 <div style={{
                   fontWeight: 700, fontSize: '0.95rem',
-                  color: r.type === 'income' ? '#34d399' : '#f87171',
+                  color: r.type === 'income' ? '#059669' : '#dc2626',
                 }}>
                   {r.type === 'income' ? '+' : '−'}{fmtEur(r.amount)}
                 </div>

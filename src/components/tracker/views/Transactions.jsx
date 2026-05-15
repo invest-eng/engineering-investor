@@ -182,7 +182,7 @@ export default function Transactions({ state, dispatch }) {
                   </div>
                   <div style={{
                     fontWeight: 700, fontSize: '1rem', whiteSpace: 'nowrap',
-                    color: t.type === 'income' ? '#34d399' : t.type === 'expense' ? '#f87171' : 'var(--color-text-muted)',
+                    color: t.type === 'income' ? '#059669' : t.type === 'expense' ? '#dc2626' : 'var(--color-text-muted)',
                   }}>
                     {t.type === 'income' ? '+' : t.type === 'expense' ? '−' : '↔'} {fmtEur(t.amount, true)}
                   </div>

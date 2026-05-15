@@ -94,9 +94,9 @@ function tipsBasedOn(state, monthIncome, monthExpense, savingsRate, debt) {
 
 const SEVERITY_STYLE = {
   danger:  { bg: 'rgba(248,113,113,0.08)', border: 'rgba(248,113,113,0.3)', color: '#fca5a5' },
-  warning: { bg: 'rgba(251,191,36,0.08)', border: 'rgba(251,191,36,0.3)', color: '#fbbf24' },
-  success: { bg: 'rgba(52,211,153,0.08)', border: 'rgba(52,211,153,0.3)', color: '#34d399' },
-  info:    { bg: 'rgba(59,130,246,0.08)', border: 'rgba(59,130,246,0.3)', color: '#60a5fa' },
+  warning: { bg: 'rgba(217,119,6,0.06)', border: 'rgba(217,119,6,0.3)', color: '#d97706' },
+  success: { bg: 'rgba(5,150,105,0.06)', border: 'rgba(5,150,105,0.3)', color: '#059669' },
+  info:    { bg: 'rgba(37,99,235,0.06)', border: 'rgba(37,99,235,0.3)', color: '#2563eb' },
 };
 
 export default function Insights({ state }) {
@@ -154,7 +154,7 @@ export default function Insights({ state }) {
                 padding: '1rem 1.2rem',
                 background: s.bg, border: `1px solid ${s.border}`,
                 borderLeft: `3px solid ${s.color}`,
-                borderRadius: 12,
+                borderRadius: 8,
               }}>
                 <div style={{ fontWeight: 700, color: s.color, marginBottom: 6 }}>{t.title}</div>
                 <div style={{ fontSize: '0.88rem', lineHeight: 1.6, color: 'var(--color-text-muted)' }}>{t.body}</div>
@@ -203,7 +203,7 @@ export default function Insights({ state }) {
           </div>
           <div>
             <div style={{ fontSize: '0.78rem', color: 'var(--color-text-muted)', textTransform: 'uppercase', letterSpacing: '0.05em', fontWeight: 600 }}>Letno varčevanje</div>
-            <div style={{ fontSize: '1.4rem', fontWeight: 700, color: annualSavings >= 0 ? '#34d399' : '#f87171' }}>{fmtEur(annualSavings)}</div>
+            <div style={{ fontSize: '1.4rem', fontWeight: 700, color: annualSavings >= 0 ? '#059669' : '#dc2626' }}>{fmtEur(annualSavings)}</div>
             <div style={{ fontSize: '0.75rem', color: 'var(--color-text-subtle)' }}>(prihodek − odhodek) × 12</div>
           </div>
           <div>
@@ -228,7 +228,7 @@ export default function Insights({ state }) {
               padding: '1rem',
               background: 'var(--color-bg)',
               border: '1px solid var(--color-border)',
-              borderRadius: 10,
+              borderRadius: 6,
             }}>
               <div style={{ fontWeight: 700, marginBottom: 6, fontSize: '0.95rem' }}>{t.title}</div>
               <div style={{ fontSize: '0.85rem', lineHeight: 1.6, color: 'var(--color-text-muted)' }}>{t.body}</div>

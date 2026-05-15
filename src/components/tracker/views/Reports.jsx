@@ -95,12 +95,12 @@ export default function Reports({ state }) {
 
       {/* KPIs */}
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: '0.85rem' }}>
-        <KpiCard label="Skupni prihodki" value={fmtEur(totalIncome)} sub={`${range} mes.`} color="#34d399" />
-        <KpiCard label="Skupni odhodki" value={fmtEur(totalExpense)} sub={`${range} mes.`} color="#f87171" />
-        <KpiCard label="Neto" value={fmtEur(totalNet)} color={totalNet >= 0 ? '#34d399' : '#f87171'} />
+        <KpiCard label="Skupni prihodki" value={fmtEur(totalIncome)} sub={`${range} mes.`} color="#059669" />
+        <KpiCard label="Skupni odhodki" value={fmtEur(totalExpense)} sub={`${range} mes.`} color="#dc2626" />
+        <KpiCard label="Neto" value={fmtEur(totalNet)} color={totalNet >= 0 ? '#059669' : '#dc2626'} />
         <KpiCard label="Povp. mesečno" value={fmtEur(avgIncome - avgExpense)} sub="prihodek − odhodek" />
         <KpiCard label="Stopnja varčevanja" value={`${avgSavingsRate.toFixed(0)}%`}
-          color={avgSavingsRate >= 20 ? '#34d399' : avgSavingsRate >= 0 ? '#fbbf24' : '#f87171'}
+          color={avgSavingsRate >= 20 ? '#059669' : avgSavingsRate >= 0 ? '#d97706' : '#dc2626'}
           sub={avgSavingsRate >= 20 ? 'Odlično' : avgSavingsRate >= 0 ? 'OK' : 'Pod ničlo'} />
       </div>
 
@@ -204,7 +204,7 @@ export default function Reports({ state }) {
               <div key={m.key}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 4, fontSize: '0.85rem' }}>
                   <span>{m.key}</span>
-                  <span><span style={{ color: '#34d399' }}>+{fmtEur(m.income)}</span> · <span style={{ color: '#f87171' }}>−{fmtEur(m.expense)}</span></span>
+                  <span><span style={{ color: '#059669' }}>+{fmtEur(m.income)}</span> · <span style={{ color: '#dc2626' }}>−{fmtEur(m.expense)}</span></span>
                 </div>
                 <StackedBar segments={segs} height={12} />
               </div>

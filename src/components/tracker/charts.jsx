@@ -75,8 +75,8 @@ export function BarChart({ data, height = 220, format = (v) => String(v) }) {
             const bw = barAreaW * 0.35;
             return (
               <g key={i}>
-                <rect x={x + barAreaW * 0.1} y={5 + (90 - ih)} width={bw} height={ih} fill="#10b981" rx="0.5" />
-                <rect x={x + barAreaW * 0.1 + bw + 1} y={5 + (90 - eh)} width={bw} height={eh} fill="#ef4444" rx="0.5" />
+                <rect x={x + barAreaW * 0.1} y={5 + (90 - ih)} width={bw} height={ih} fill="#059669" rx="0.5" />
+                <rect x={x + barAreaW * 0.1 + bw + 1} y={5 + (90 - eh)} width={bw} height={eh} fill="#dc2626" rx="0.5" />
               </g>
             );
           }

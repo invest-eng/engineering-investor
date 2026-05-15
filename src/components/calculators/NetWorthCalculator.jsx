@@ -88,14 +88,14 @@ const LIABILITY_GROUPS = [
 ];
 
 const ASSET_COLORS = {
-  cash: '#34d399',
-  investments: '#60a5fa',
-  crypto: '#f59e0b',
-  retirement: '#a78bfa',
-  realestate: '#f472b6',
-  vehicles: '#fb923c',
-  precious: '#facc15',
-  other_assets: '#94a3b8',
+  cash: '#059669',
+  investments: '#2563eb',
+  crypto: '#d97706',
+  retirement: '#a855f7',
+  realestate: '#db2777',
+  vehicles: '#ea580c',
+  precious: '#ca8a04',
+  other_assets: '#64748b',
 };
 
 function emptyState() {
@@ -227,16 +227,13 @@ function Section({ title, group, rows, onChange, total, accentColor }) {
     <div style={{
       background: 'var(--color-surface)',
       border: '1px solid var(--color-border)',
-      borderRadius: 12,
-      padding: '1rem 1.25rem 1.1rem',
+      borderRadius: 8,
+      padding: '1.1rem 1.3rem 1.2rem',
       marginBottom: '0.85rem',
     }}>
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12, marginBottom: '0.85rem' }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
-          <span style={{ fontSize: '1.3rem' }}>{group.icon}</span>
-          <strong style={{ fontSize: '0.98rem' }}>{group.label}</strong>
-        </div>
-        <strong style={{ color: accentColor || 'var(--color-text)', fontSize: '0.98rem' }}>
+        <strong style={{ fontSize: '0.95rem', color: 'var(--color-text)' }}>{group.label}</strong>
+        <strong style={{ color: accentColor || 'var(--color-text)', fontSize: '0.95rem' }}>
           {fmtEur(total)}
         </strong>
       </div>
@@ -286,15 +283,15 @@ function Kpi({ label, value, color, hint }) {
       padding: '0.85rem 1rem',
       background: 'var(--color-bg)',
       border: '1px solid var(--color-border)',
-      borderRadius: 10,
+      borderRadius: 6,
     }}>
-      <div style={{ fontSize: '0.7rem', textTransform: 'uppercase', letterSpacing: '0.08em', color: 'var(--color-text-subtle)', fontWeight: 600 }}>
+      <div style={{ fontSize: '0.68rem', textTransform: 'uppercase', letterSpacing: '0.08em', color: 'var(--color-text-subtle)', fontWeight: 600 }}>
         {label}
       </div>
-      <div style={{ fontSize: '1.15rem', fontWeight: 700, color: color || 'var(--color-text)', marginTop: 4 }}>
+      <div style={{ fontSize: '1.1rem', fontWeight: 700, color: color || 'var(--color-text)', marginTop: 4, letterSpacing: '-0.015em' }}>
         {value}
       </div>
-      {hint && <div style={{ fontSize: '0.75rem', color: 'var(--color-text-subtle)', marginTop: 2 }}>{hint}</div>}
+      {hint && <div style={{ fontSize: '0.72rem', color: 'var(--color-text-subtle)', marginTop: 2 }}>{hint}</div>}
     </div>
   );
 }
@@ -336,14 +333,18 @@ export default function NetWorthCalculator() {
     <div style={{ padding: '3rem 0 4rem', minHeight: '70vh' }}>
       <div style={{ maxWidth: 1180, margin: '0 auto', padding: '0 1.25rem' }}>
 
-        <header style={{ marginBottom: '2rem', maxWidth: 720 }}>
-          <div style={{ fontSize: '2.5rem', marginBottom: '0.6rem' }}>💰</div>
-          <h1 style={{ fontSize: 'clamp(2rem, 4vw, 2.75rem)', fontWeight: 700, letterSpacing: '-0.03em', margin: '0 0 0.5rem' }}>
+        <header style={{ marginBottom: '2.5rem', borderBottom: '1px solid var(--color-border)', paddingBottom: '1.5rem' }}>
+          <h1 style={{
+            fontSize: 'clamp(2rem, 4vw, 2.75rem)',
+            fontWeight: 700,
+            letterSpacing: '-0.025em',
+            margin: '0 0 0.5rem',
+            color: 'var(--color-text)',
+          }}>
             Kalkulator neto vrednosti
           </h1>
-          <p style={{ color: 'var(--color-text-muted)', fontSize: '1.05rem', lineHeight: 1.7, margin: 0 }}>
-            Vnesi vrednosti svojih sredstev in obveznosti. Izračun je takojšen, podatki se shranijo lokalno
-            v tvojem brskalniku — nič ne pošljemo na strežnik.
+          <p style={{ color: 'var(--color-text-muted)', fontSize: '0.95rem', lineHeight: 1.7, margin: 0, maxWidth: 680 }}>
+            Vnesi vrednosti svojih sredstev in obveznosti. Izračun je takojšen, podatki ostanejo lokalno v tvojem brskalniku.
           </p>
         </header>
 
@@ -355,9 +356,7 @@ export default function NetWorthCalculator() {
         }} className="nw-grid">
 
           <div>
-            <h2 style={sectionTitleStyle}>
-              <span style={{ marginRight: 8 }}>🟢</span>Sredstva
-            </h2>
+            <h2 style={sectionTitleStyle}>Sredstva</h2>
             {ASSET_GROUPS.map((g) => (
               <Section
                 key={g.id}
@@ -369,9 +368,7 @@ export default function NetWorthCalculator() {
               />
             ))}
 
-            <h2 style={{ ...sectionTitleStyle, marginTop: '2rem' }}>
-              <span style={{ marginRight: 8 }}>🔴</span>Obveznosti
-            </h2>
+            <h2 style={{ ...sectionTitleStyle, marginTop: '2.25rem' }}>Obveznosti</h2>
             {LIABILITY_GROUPS.map((g) => (
               <Section
                 key={g.id}
@@ -379,7 +376,7 @@ export default function NetWorthCalculator() {
                 rows={state.liabilities[g.id]}
                 onChange={(rows) => updateLiabilities(g.id, rows)}
                 total={sumGroup(state.liabilities[g.id])}
-                accentColor="#f87171"
+                accentColor="#dc2626"
               />
             ))}
 
@@ -405,23 +402,23 @@ export default function NetWorthCalculator() {
             top: '1rem',
             background: 'var(--color-surface)',
             border: '1px solid var(--color-border)',
-            borderRadius: 14,
+            borderRadius: 8,
             padding: '1.5rem',
           }} className="nw-sidebar">
             <div style={{ textAlign: 'center', marginBottom: '1.25rem' }}>
-              <div style={{ fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '0.1em', color: 'var(--color-accent)', fontWeight: 700 }}>
-                Tvoja neto vrednost
+              <div style={{ fontSize: '0.7rem', textTransform: 'uppercase', letterSpacing: '0.1em', color: 'var(--color-text-subtle)', fontWeight: 600 }}>
+                Neto vrednost
               </div>
               <div style={{
                 fontSize: 'clamp(1.75rem, 3vw, 2.4rem)',
-                fontWeight: 800,
-                letterSpacing: '-0.02em',
+                fontWeight: 700,
+                letterSpacing: '-0.025em',
                 marginTop: 6,
-                color: totals.netWorth >= 0 ? 'var(--color-text)' : '#f87171',
+                color: totals.netWorth >= 0 ? 'var(--color-text)' : '#dc2626',
               }}>
                 {fmtEur(totals.netWorth)}
               </div>
-              <div style={{ fontSize: '0.8rem', color: 'var(--color-text-subtle)', marginTop: 4 }}>
+              <div style={{ fontSize: '0.78rem', color: 'var(--color-text-subtle)', marginTop: 4 }}>
                 Sredstva − obveznosti
               </div>
             </div>
@@ -451,8 +448,8 @@ export default function NetWorthCalculator() {
             </div>
 
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8 }}>
-              <Kpi label="Sredstva" value={fmtEur(totals.totalAssets)} color="#34d399" />
-              <Kpi label="Obveznosti" value={fmtEur(totals.totalLiabilities)} color="#f87171" />
+              <Kpi label="Sredstva" value={fmtEur(totals.totalAssets)} color="#059669" />
+              <Kpi label="Obveznosti" value={fmtEur(totals.totalLiabilities)} color="#dc2626" />
               <Kpi
                 label="Likvidno"
                 value={fmtEur(totals.liquid)}
@@ -466,7 +463,7 @@ export default function NetWorthCalculator() {
               <Kpi
                 label="Razmerje dolga"
                 value={`${totals.debtRatio.toFixed(0)}%`}
-                color={totals.debtRatio > 50 ? '#f87171' : totals.debtRatio > 30 ? '#fbbf24' : '#34d399'}
+                color={totals.debtRatio > 50 ? '#dc2626' : totals.debtRatio > 30 ? '#d97706' : '#059669'}
                 hint="Obveznosti / sredstva"
               />
               <Kpi
@@ -476,9 +473,8 @@ export default function NetWorthCalculator() {
               />
             </div>
 
-            <p style={{ fontSize: '0.72rem', color: 'var(--color-text-subtle)', lineHeight: 1.6, marginTop: '1.25rem', marginBottom: 0 }}>
-              Podatki se shranjujejo samo v tvojem brskalniku (localStorage). Niso poslani nikamor.
-              Kalkulator je informativne narave in ne predstavlja finančnega nasveta.
+            <p style={{ fontSize: '0.72rem', color: 'var(--color-text-subtle)', lineHeight: 1.6, marginTop: '1.25rem', marginBottom: 0, textAlign: 'center' }}>
+              Podatki ostanejo lokalno v tvojem brskalniku. Kalkulator je informativne narave in ni finančni nasvet.
             </p>
           </aside>
         </div>
@@ -495,10 +491,10 @@ export default function NetWorthCalculator() {
 }
 
 const sectionTitleStyle = {
-  fontSize: '1.15rem',
-  fontWeight: 700,
-  letterSpacing: '-0.01em',
-  margin: '0 0 1rem',
-  display: 'flex',
-  alignItems: 'center',
+  fontSize: '0.78rem',
+  fontWeight: 600,
+  letterSpacing: '0.1em',
+  textTransform: 'uppercase',
+  color: 'var(--color-text-subtle)',
+  margin: '0 0 0.85rem',
 };

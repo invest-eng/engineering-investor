@@ -63,14 +63,14 @@ export default function Budget({ state, dispatch }) {
             <strong style={{ fontSize: '1rem' }}>Skupaj</strong>
             <span style={{ fontSize: '0.95rem' }}>
               {fmtEur(totalSpent)} / <strong>{fmtEur(totalBudget)}</strong>
-              <span style={{ marginLeft: 8, color: overall > 100 ? '#f87171' : overall > 80 ? '#fbbf24' : '#34d399', fontWeight: 700 }}>
+              <span style={{ marginLeft: 8, color: overall > 100 ? '#dc2626' : overall > 80 ? '#d97706' : '#059669', fontWeight: 700 }}>
                 {overall.toFixed(0)}%
               </span>
             </span>
           </div>
-          <ProgressBar value={Math.min(totalSpent, totalBudget)} max={totalBudget} color={overall > 100 ? '#f87171' : overall > 80 ? '#fbbf24' : '#34d399'} height={10} />
+          <ProgressBar value={Math.min(totalSpent, totalBudget)} max={totalBudget} color={overall > 100 ? '#dc2626' : overall > 80 ? '#d97706' : '#059669'} height={10} />
           {overall > 100 && (
-            <div style={{ marginTop: 8, fontSize: '0.8rem', color: '#f87171' }}>
+            <div style={{ marginTop: 8, fontSize: '0.8rem', color: '#dc2626' }}>
               Prekoračitev: {fmtEur(totalSpent - totalBudget)}
             </div>
           )}
@@ -83,7 +83,7 @@ export default function Budget({ state, dispatch }) {
         <Card padding="0">
           {rows.map((r, i) => {
             const c = r.category;
-            const color = r.pct > 100 ? '#f87171' : r.pct > 80 ? '#fbbf24' : c.color;
+            const color = r.pct > 100 ? '#dc2626' : r.pct > 80 ? '#d97706' : c.color;
             return (
               <div key={c.id} style={{
                 padding: '1rem 1.25rem',
@@ -109,7 +109,7 @@ export default function Budget({ state, dispatch }) {
                     <div style={{ fontSize: '0.78rem', color: 'var(--color-text-subtle)' }}>Brez limita</div>
                   )}
                   {r.limit > 0 && r.pct > 100 && (
-                    <div style={{ fontSize: '0.75rem', color: '#f87171', marginTop: 4 }}>Prekoračeno za {fmtEur(r.spent - r.limit)}</div>
+                    <div style={{ fontSize: '0.75rem', color: '#dc2626', marginTop: 4 }}>Prekoračeno za {fmtEur(r.spent - r.limit)}</div>
                   )}
                 </div>
                 <Button variant="secondary" size="sm" onClick={() => setEditing({ categoryId: c.id, limit: String(r.limit || '') })}>
