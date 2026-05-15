@@ -9,21 +9,21 @@
    CSS CUSTOM PROPERTIES — Light Mode (default)
    ============================================================ */
 :root {
-  /* Colors */
-  --color-bg: #FAFAF9;
-  --color-surface: #FFFFFF;
-  --color-surface-hover: #F5F5F4;
-  --color-border: #E5E5E3;
-  --color-border-strong: #D0D0CE;
+  /* Colors — warm paper palette (light mode) */
+  --color-bg: #F4F2EC;
+  --color-surface: #FCFAF5;
+  --color-surface-hover: #EBE9E1;
+  --color-border: #D8D3C5;
+  --color-border-strong: #BDB7A8;
   --color-text: #1A1A1A;
   --color-text-muted: #6B6B6B;
   --color-text-subtle: #9B9B9B;
   --color-accent: #2563EB;
   --color-accent-hover: #1D4ED8;
-  --color-accent-bg: #EFF6FF;
-  --color-accent-border: #BFDBFE;
-  --color-highlight-bg: #FFFBEB;
-  --color-highlight-border: #FDE68A;
+  --color-accent-bg: #E4EEFC;
+  --color-accent-border: #B0CEF5;
+  --color-highlight-bg: #FAF1D2;
+  --color-highlight-border: #E5CC7A;
   --color-success: #059669;
   --color-warning: #D97706;
 
