@@ -1,4 +1,4 @@
-import { useEffect, useReducer, useState } from 'react';
+import { useEffect, useReducer, useRef, useState } from 'react';
 import { loadState, saveState, freshState } from './store.js';
 import Dashboard from './views/Dashboard.jsx';
 import Transactions from './views/Transactions.jsx';
@@ -9,6 +9,9 @@ import Reports from './views/Reports.jsx';
 import Recurring from './views/Recurring.jsx';
 import Insights from './views/Insights.jsx';
 import Settings from './views/Settings.jsx';
+import AccessGate from '../auth/AccessGate.jsx';
+import { useAuth } from '../auth/useAuth.js';
+import { loadTrackerData, saveTrackerData } from '../../lib/supabase.js';
 
 const NAV = [
   { id: 'pregled',     label: 'Pregled',     icon: 'dashboard' },
@@ -95,11 +98,76 @@ function NavIcon({ name }) {
 }
 
 export default function MoneyTracker() {
+  return (
+    <AccessGate requirePremium title="Sledilnik osebnih financ">
+      <MoneyTrackerInner />
+    </AccessGate>
+  );
+}
+
+function MoneyTrackerInner() {
+  const { user } = useAuth();
   const [state, dispatch] = useReducer(reducer, null, () => loadState());
   const [view, setView] = useState('pregled');
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
+  const [syncStatus, setSyncStatus] = useState('idle'); // idle | loading | saving | error
 
+  const cloudLoadedRef = useRef(false);
+  const lastSavedJsonRef = useRef('');
+  const saveTimerRef = useRef(null);
+
+  // Save to localStorage on every change (offline-friendly).
   useEffect(() => { saveState(state); }, [state]);
+
+  // Load from cloud once when authenticated user appears.
+  useEffect(() => {
+    if (!user) {
+      cloudLoadedRef.current = false;
+      return;
+    }
+    if (cloudLoadedRef.current) return;
+
+    let active = true;
+    setSyncStatus('loading');
+    loadTrackerData(user.id).then((cloud) => {
+      if (!active) return;
+      cloudLoadedRef.current = true;
+      if (cloud && cloud.data && Object.keys(cloud.data).length > 0) {
+        // Cloud has data → replace local
+        dispatch({ type: 'state/replace', state: { ...freshState(), ...cloud.data } });
+        lastSavedJsonRef.current = JSON.stringify(cloud.data);
+      } else {
+        // No cloud data → push current local state up as first sync
+        lastSavedJsonRef.current = JSON.stringify(state);
+        saveTrackerData(user.id, state);
+      }
+      setSyncStatus('idle');
+    }).catch(() => {
+      if (active) setSyncStatus('error');
+    });
+
+    return () => { active = false; };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [user]);
+
+  // Debounced cloud save after state changes.
+  useEffect(() => {
+    if (!user || !cloudLoadedRef.current) return;
+    const json = JSON.stringify(state);
+    if (json === lastSavedJsonRef.current) return;
+
+    if (saveTimerRef.current) clearTimeout(saveTimerRef.current);
+    saveTimerRef.current = setTimeout(async () => {
+      setSyncStatus('saving');
+      const result = await saveTrackerData(user.id, state);
+      lastSavedJsonRef.current = json;
+      setSyncStatus(result.error ? 'error' : 'idle');
+    }, 1200);
+
+    return () => {
+      if (saveTimerRef.current) clearTimeout(saveTimerRef.current);
+    };
+  }, [state, user]);
 
   function renderView() {
     switch (view) {
@@ -169,8 +237,24 @@ export default function MoneyTracker() {
             color: 'var(--color-text-muted)',
             lineHeight: 1.55,
           }}>
-            <div style={{ fontWeight: 600, color: 'var(--color-text)', marginBottom: 4, fontSize: '0.7rem', textTransform: 'uppercase', letterSpacing: '0.08em' }}>Beta</div>
-            Vsi podatki so shranjeni lokalno. Prek <button onClick={() => setView('nastavitve')} style={{ color: 'var(--color-accent)', background: 'none', border: 'none', padding: 0, cursor: 'pointer', fontFamily: 'inherit', textDecoration: 'underline' }}>Nastavitev</button> redno izvozi varnostno kopijo.
+            <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 4 }}>
+              <span style={{
+                width: 7, height: 7, borderRadius: '50%',
+                background: syncStatus === 'error' ? '#dc2626'
+                          : syncStatus === 'saving' ? '#d97706'
+                          : syncStatus === 'loading' ? '#d97706'
+                          : '#059669',
+              }} />
+              <span style={{ fontWeight: 600, color: 'var(--color-text)', fontSize: '0.7rem', textTransform: 'uppercase', letterSpacing: '0.08em' }}>
+                {syncStatus === 'error' ? 'Sinhronizacija neuspešna'
+                 : syncStatus === 'saving' ? 'Shranjujem v oblak …'
+                 : syncStatus === 'loading' ? 'Nalagam …'
+                 : user ? 'Sinhronizirano' : 'Lokalno'}
+              </span>
+            </div>
+            {user
+              ? <span>Podatki so dosegljivi z vseh tvojih naprav.</span>
+              : <span>Prijava omogoča sinhronizacijo med napravami. Prek <button onClick={() => setView('nastavitve')} style={{ color: 'var(--color-accent)', background: 'none', border: 'none', padding: 0, cursor: 'pointer', fontFamily: 'inherit', textDecoration: 'underline' }}>Nastavitev</button> izvozi varnostno kopijo.</span>}
           </div>
         </aside>
 

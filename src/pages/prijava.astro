@@ -1,0 +1,45 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import LoginForm from '../components/auth/LoginForm.jsx';
+---
+
+<BaseLayout
+  title="Prijava"
+  description="Prijavi se v svoj račun za sinhronizacijo sledilnika osebnih financ med napravami."
+>
+  <div class="login-page">
+    <div class="container">
+      <div class="login-card">
+        <LoginForm client:load />
+      </div>
+      <p class="login-note">
+        Tvoji podatki ostanejo zasebni in se hranijo varno. Brezplačno, brez kreditne kartice.
+      </p>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .login-page {
+    padding: 4rem 0 6rem;
+    min-height: 70vh;
+  }
+
+  .login-card {
+    max-width: 420px;
+    margin: 0 auto;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+    padding: 2rem;
+  }
+
+  .login-note {
+    max-width: 420px;
+    margin: 1.25rem auto 0;
+    text-align: center;
+    font-size: 0.82rem;
+    color: var(--color-text-subtle);
+    line-height: 1.6;
+  }
+</style>

@@ -1,9 +1,11 @@
 ---
 import { SITE, NAV_LINKS } from '../../config';
 import ThemeToggle from '../ui/ThemeToggle.astro';
+import AuthButton from '../auth/AuthButton.jsx';
 import { url } from '../../utils/url';
 
 const currentPath = Astro.url.pathname;
+const baseUrl = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
 ---
 
 <header class="navbar" id="navbar">
@@ -47,9 +49,7 @@ const currentPath = Astro.url.pathname;
 
       <ThemeToggle />
 
-      <a href="#" class="navbar__login-btn" aria-label="Prijava">
-        Prijava
-      </a>
+      <AuthButton client:load baseUrl={baseUrl} />
     </div>
 
     <!-- Mobile menu toggle -->
@@ -80,7 +80,7 @@ const currentPath = Astro.url.pathname;
           </a>
         </li>
         <li>
-          <a href="#" class="navbar__mobile-link">Prijava</a>
+          <a href={url('/prijava')} class="navbar__mobile-link">Prijava / Račun</a>
         </li>
       </ul>
     </nav>
