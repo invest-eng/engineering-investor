@@ -42,14 +42,6 @@ const steps = [
           </div>
           <h3 class="step__title">{step.title}</h3>
           <p class="step__description">{step.description}</p>
-          {i < steps.length - 1 && (
-            <div class="step__arrow" aria-hidden="true">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-                <line x1="5" y1="12" x2="19" y2="12"/>
-                <polyline points="12 5 19 12 12 19"/>
-              </svg>
-            </div>
-          )}
         </div>
       ))}
     </div>
@@ -81,9 +73,9 @@ const steps = [
 
   .how-it-works__steps {
     display: grid;
-    grid-template-columns: 1fr auto 1fr auto 1fr;
-    gap: 0;
-    align-items: start;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-lg);
+    align-items: stretch;
   }
 
   .step {
@@ -92,6 +84,8 @@ const steps = [
     border-radius: var(--radius-lg);
     padding: var(--space-xl);
     position: relative;
+    display: flex;
+    flex-direction: column;
   }
 
   .step__header {
@@ -132,22 +126,9 @@ const steps = [
     line-height: 1.7;
   }
 
-  .step__arrow {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 0 var(--space-md);
-    color: var(--color-border-strong);
-    padding-top: 60px;
-  }
-
   @media (max-width: 768px) {
     .how-it-works__steps {
       grid-template-columns: 1fr;
-    }
-
-    .step__arrow {
-      display: none;
     }
   }
 </style>
