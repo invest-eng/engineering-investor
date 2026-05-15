@@ -1,0 +1,125 @@
+name: Premium Briefing (3x daily)
+
+# ============================================================================
+#  PREMIUM WORKFLOW — currently INACTIVE.
+#
+#  To activate (when you have purchased ANTHROPIC_API_KEY, OPENAI_API_KEY,
+#  GOOGLE_TTS_API_KEY):
+#    1. Add the 3 keys to GitHub Secrets (Settings → Secrets → Actions).
+#    2. Uncomment the `schedule:` block below.
+#    3. Commit + push.
+#
+#  Until then the workflow can still be triggered manually
+#  (Actions → Premium Briefing → Run workflow) for testing.
+# ============================================================================
+
+on:
+  # --- UNCOMMENT TO ACTIVATE 3x DAILY CRON ---
+  # schedule:
+  #   # 05:30 UTC = 07:30 SLO (CEST) — morning
+  #   - cron: '30 5 * * *'
+  #   # 11:00 UTC = 13:00 SLO (CEST) — noon
+  #   - cron: '0 11 * * *'
+  #   # 17:30 UTC = 19:30 SLO (CEST) — evening
+  #   - cron: '30 17 * * *'
+  workflow_dispatch:
+    inputs:
+      edition:
+        description: 'Edition (morning / noon / evening)'
+        required: true
+        default: 'morning'
+        type: choice
+        options:
+          - morning
+          - noon
+          - evening
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: premium-briefing
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Determine edition from schedule
+        id: edition
+        run: |
+          # If triggered manually, use input. If by schedule, derive from hour.
+          if [ -n "${{ github.event.inputs.edition }}" ]; then
+            echo "value=${{ github.event.inputs.edition }}" >> $GITHUB_OUTPUT
+          else
+            HOUR=$(date -u +%H)
+            if [ "$HOUR" = "05" ]; then
+              echo "value=morning" >> $GITHUB_OUTPUT
+            elif [ "$HOUR" = "11" ]; then
+              echo "value=noon" >> $GITHUB_OUTPUT
+            elif [ "$HOUR" = "17" ]; then
+              echo "value=evening" >> $GITHUB_OUTPUT
+            else
+              echo "value=morning" >> $GITHUB_OUTPUT
+            fi
+          fi
+
+      - name: Generate premium briefing
+        env:
+          # Free-tier provider (always present):
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          NEWSAPI_KEY: ${{ secrets.newsapi_org }}
+          # Premium providers (added when activated):
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GOOGLE_TTS_API_KEY: ${{ secrets.GOOGLE_TTS_API_KEY }}
+          # Optional model overrides:
+          # CLAUDE_MODEL: claude-sonnet-4-5-20250929
+          # OPENAI_MODEL: gpt-4o-mini
+          # GEMINI_MODELS: gemini-2.5-flash,gemini-2.0-flash
+        run: node scripts/premium/generate-premium-briefing.mjs ${{ steps.edition.outputs.value }}
+
+      - name: Commit updated briefing
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/premium/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(premium): update ${{ steps.edition.outputs.value }} briefing"
+            git push
+          fi
+
+      - name: Build site
+        run: npm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

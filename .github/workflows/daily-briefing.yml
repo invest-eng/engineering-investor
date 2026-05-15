@@ -2,8 +2,9 @@ name: Daily Market Briefing
 
 on:
   schedule:
-    # 06:30 UTC each day (~07:30/08:30 CE(S)T) — before EU open
-    - cron: '30 6 * * *'
+    # 05:30 UTC each day = 07:30 CEST (summer) / 06:30 CET (winter)
+    # Free tier: 1x daily. Premium runs 3x via premium-briefing.yml.
+    - cron: '30 5 * * *'
   workflow_dispatch:
 
 permissions:
@@ -35,6 +36,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           NEWSAPI_KEY: ${{ secrets.newsapi_org }}
+          BRIEFING_EDITION: morning
         run: node scripts/generate-briefing.mjs
 
       - name: Commit updated briefing
