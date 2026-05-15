@@ -5,7 +5,6 @@ import { url } from '../utils/url';
 const kalkulatorji = [
   {
     href: '/kalkulator-nalozb',
-    emoji: '📊',
     title: 'Kalkulator naložb',
     subtitle: 'S&P 500 · Nepremičnine · Zlato · BTC · Banka',
     description:
@@ -16,7 +15,6 @@ const kalkulatorji = [
   },
   {
     href: '/kalkulator',
-    emoji: '🏦',
     title: 'INR vs IBKR Kalkulator',
     subtitle: 'Ilirika INR · Interactive Brokers',
     description:
@@ -27,7 +25,6 @@ const kalkulatorji = [
   },
   {
     href: '/kalkulator-neto-vrednosti',
-    emoji: '💰',
     title: 'Kalkulator neto vrednosti',
     subtitle: 'Sredstva − Obveznosti · Likvidnost',
     description:
@@ -47,7 +44,6 @@ const kalkulatorji = [
     <div class="container">
 
       <header class="kalkulatorji-header fade-in">
-        <div class="kalkulatorji-icon" aria-hidden="true">🧮</div>
         <h1 class="kalkulatorji-title">Kalkulatorji</h1>
         <p class="kalkulatorji-subtitle">
           Orodja za slovenskega vlagatelja — z davki, stroški in realnimi podatki.
@@ -57,14 +53,11 @@ const kalkulatorji = [
       <div class="kalkulatorji-grid fade-in">
         {kalkulatorji.map((k) => (
           <a href={url(k.href)} class="kalkulator-card">
-            <div class="kalkulator-card__top">
-              <div class="kalkulator-card__emoji" aria-hidden="true">{k.emoji}</div>
-              {k.badge && (
-                <span class={`kalkulator-card__badge kalkulator-card__badge--${k.badgeColor}`}>
-                  {k.badge}
-                </span>
-              )}
-            </div>
+            {k.badge && (
+              <span class={`kalkulator-card__badge kalkulator-card__badge--${k.badgeColor}`}>
+                {k.badge}
+              </span>
+            )}
             <h2 class="kalkulator-card__title">{k.title}</h2>
             <p class="kalkulator-card__subtitle">{k.subtitle}</p>
             <p class="kalkulator-card__desc">{k.description}</p>
@@ -92,24 +85,19 @@ const kalkulatorji = [
 
   .kalkulatorji-header {
     text-align: center;
-    max-width: 560px;
+    max-width: 600px;
     margin: 0 auto var(--space-2xl);
-  }
-
-  .kalkulatorji-icon {
-    font-size: 2.75rem;
-    margin-bottom: var(--space-lg);
   }
 
   .kalkulatorji-title {
     font-size: clamp(2rem, 4vw, 2.75rem);
     font-weight: 700;
-    letter-spacing: -0.03em;
+    letter-spacing: -0.025em;
     margin-bottom: var(--space-md);
   }
 
   .kalkulatorji-subtitle {
-    font-size: var(--text-lg);
+    font-size: var(--text-base);
     color: var(--color-text-muted);
     line-height: 1.7;
     margin: 0;
@@ -133,6 +121,7 @@ const kalkulatorji = [
     border-radius: var(--radius-lg);
     text-decoration: none;
     color: inherit;
+    position: relative;
     transition: border-color var(--transition-base), box-shadow var(--transition-base), transform var(--transition-base);
   }
 
@@ -142,25 +131,16 @@ const kalkulatorji = [
     transform: translateY(-2px);
   }
 
-  .kalkulator-card__top {
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    margin-bottom: var(--space-xs);
-  }
-
-  .kalkulator-card__emoji {
-    font-size: 2.25rem;
-    line-height: 1;
-  }
-
   .kalkulator-card__badge {
+    position: absolute;
+    top: var(--space-lg);
+    right: var(--space-lg);
     font-size: var(--text-xs);
-    font-weight: 700;
+    font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.08em;
     padding: 3px 10px;
-    border-radius: var(--radius-full);
+    border-radius: 4px;
   }
 
   .kalkulator-card__badge--accent {
