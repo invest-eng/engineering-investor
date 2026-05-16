@@ -81,6 +81,8 @@ export default function AuthButton({ baseUrl = '' }) {
           fontSize: '0.85rem',
           fontWeight: 700,
           flexShrink: 0,
+          border: isPremium ? '2px solid #D97706' : 'none',
+          boxShadow: isPremium ? '0 0 0 1px #FFF7ED' : 'none',
         }}>{initial}</span>
         {isPremium && (
           <span className="auth-btn__premium" style={{
