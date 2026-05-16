@@ -20,7 +20,7 @@
  * See scripts/premium/README.md for full instructions.
  */
 
-import { writeFile, mkdir } from 'node:fs/promises';
+import { writeFile, readFile, mkdir } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -36,6 +36,26 @@ const OUT_PATH = join(__dirname, '..', 'public', 'data', 'briefing.json');
 // --- PREMIUM: this would be selected per cron schedule (morning/noon/evening) ---
 const EDITION = process.env.BRIEFING_EDITION || 'morning';
 
+// Force regeneration via env (override skip) — used by workflow_dispatch.
+const FORCE = process.env.FORCE_BRIEFING === '1' || process.env.FORCE_BRIEFING === 'true';
+
+/**
+ * Returns true if briefing for today already exists at OUT_PATH.
+ * Used by multi-cron workflow: first successful run wins, subsequent runs
+ * (later in the day) detect today's briefing and skip API calls.
+ */
+async function alreadyGeneratedToday() {
+  if (FORCE) return false;
+  try {
+    const raw = await readFile(OUT_PATH, 'utf8');
+    const data = JSON.parse(raw);
+    const today = new Date().toISOString().slice(0, 10);
+    return data?.datum === today;
+  } catch {
+    return false;
+  }
+}
+
 function validateAndCleanup(data, allowedUrls) {
   const allowed = new Set(allowedUrls);
   const novice = (data.novice || []).filter((n) => {
@@ -49,6 +69,13 @@ function validateAndCleanup(data, allowedUrls) {
 }
 
 async function main() {
+  // Step 0: dedupe — multi-cron workflow may trigger us several times per day.
+  // First successful run wins; later runs skip cleanly.
+  if (await alreadyGeneratedToday()) {
+    console.log(`[briefing] today's briefing already exists — skipping (set FORCE_BRIEFING=1 to override)`);
+    return;
+  }
+
   // Step 1: fetch news.
   const articles = await fetchAll({ newsApiKey: process.env.NEWSAPI_KEY });
   if (articles.length === 0) throw new Error('No articles fetched');

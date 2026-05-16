@@ -2,10 +2,23 @@ name: Daily Market Briefing
 
 on:
   schedule:
-    # 05:30 UTC each day = 07:30 CEST (summer) / 06:30 CET (winter)
-    # Free tier: 1x daily. Premium runs 3x via premium-briefing.yml.
-    - cron: '30 5 * * *'
+    # GitHub Actions cron is best-effort — schedules during high-load times
+    # (06–10 UTC) often delay 30 min to several hours. We run multiple cron
+    # times in the morning; the script skips generation if today's briefing
+    # already exists, so only the first successful run actually does work.
+    - cron: '15 4 * * *'   # 04:15 UTC = ~06:15 SLO (less congested)
+    - cron: '45 5 * * *'   # 05:45 UTC backup
+    - cron: '30 8 * * *'   # 08:30 UTC safety net (always finishes by ~10 SLO)
   workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force regenerate even if today already exists'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
 
 permissions:
   contents: write
@@ -37,6 +50,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           NEWSAPI_KEY: ${{ secrets.newsapi_org }}
           BRIEFING_EDITION: morning
+          FORCE_BRIEFING: ${{ github.event.inputs.force }}
         run: node scripts/generate-briefing.mjs
 
       - name: Commit updated briefing
