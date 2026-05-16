@@ -27,6 +27,11 @@ export default function LoginForm({ onSuccess, compact = false }) {
 
     setLoading(true);
     try {
+      // Build redirect URL that points back to the current origin + base path.
+      // Works both for localhost dev and the production GitHub Pages deploy.
+      const base = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
+      const redirectTo = window.location.origin + base + '/prijava';
+
       if (mode === MODE.LOGIN) {
         const { error } = await supabase.auth.signInWithPassword({ email, password });
         if (error) throw error;
@@ -35,7 +40,11 @@ export default function LoginForm({ onSuccess, compact = false }) {
         if (password.length < 8) {
           throw new Error('Geslo mora imeti vsaj 8 znakov.');
         }
-        const { data, error } = await supabase.auth.signUp({ email, password });
+        const { data, error } = await supabase.auth.signUp({
+          email,
+          password,
+          options: { emailRedirectTo: redirectTo },
+        });
         if (error) throw error;
         if (data.user && !data.session) {
           setInfo('Račun ustvarjen. Preveri email za potrditveno povezavo.');
@@ -43,7 +52,7 @@ export default function LoginForm({ onSuccess, compact = false }) {
           onSuccess();
         }
       } else if (mode === MODE.RESET) {
-        const { error } = await supabase.auth.resetPasswordForEmail(email);
+        const { error } = await supabase.auth.resetPasswordForEmail(email, { redirectTo });
         if (error) throw error;
         setInfo('Če račun obstaja, smo poslali povezavo za ponastavitev gesla.');
       }
