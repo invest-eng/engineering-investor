@@ -1,100 +1,100 @@
 {
-  "generiranoOb": "2026-05-16T07:31:48.421Z",
+  "generiranoOb": "2026-05-16T19:51:42.770Z",
   "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-05-16",
-  "povzetek": "Jutranji pregled finančnih trgov razkriva mešano sliko, zaznamovano z geopolitičnimi napetostmi in makroekonomskimi pričakovanji. Globalne zaloge nafte strmo padajo zaradi vojne v Iranu, kar napoveduje morebiten dvig cen energentov in inflacijske pritiske. Hkrati trgovci izražajo zaskrbljenost glede stagflacije do konca leta 2026, kar bi predstavljalo velik izziv za gospodarstvo. Pozitiven signal prihaja z dogovorom med ZDA in Kitajsko o nakupu 200 Boeingovih letal, kar bi lahko izboljšalo trgovinske odnose. Na tehnološkem področju je IPO podjetja Cerebras poudarilo močno zanimanje za AI, medtem ko je Bitcoin dosegel 82.000 dolarjev ob napredku regulative. V ZDA je maloprodaja sicer rasla zaradi davčnih vračil, a se že kažejo vplivi naraščajoče inflacije.",
+  "povzetek": "Nočni dogodki so prinesli zaskrbljenost na finančne trge. V ZDA so delniški indeksi Dow, S&P 500 in Nasdaq včeraj zabeležili padce, saj so vlagatelje prestrašile inflacijske skrbi, ki jih poganjajo naraščajoče cene nafte nad 100 dolarjev za sod in dvig donosov na državne obveznice. Ta makroekonomska gibanja so se odrazila tudi v Aziji, kjer so se v jutranjem trgovanju čutili pritiski. Dodatno so k negativnemu sentimentu prispevali tudi neuspešni pogovori med ZDA in Kitajsko glede tehnoloških poslov, kar je povzročilo padec delnic v sektorju čipov. V Evropi danes lahko pričakujemo previden začetek trgovanja, saj bodo vlagatelji pozorno spremljali nadaljnje signale o inflaciji in morebitne odzive centralnih bank.",
   "novice": [
     {
-      "naslov": "Globalne zaloge nafte strmo padajo zaradi vojne v Iranu in motenj dobave",
-      "sektor": "Energetika",
+      "naslov": "Ameriški delniški trgi padajo zaradi inflacijskih skrbi in rasti cen nafte",
+      "sektor": "Makro & Energetika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Globalni trgi nafte se soočajo z zgodovinskim šokom v dobavi, saj vojna v Iranu omejuje promet tankerjev skozi Hormuško ožino. Posledično se zaloge nafte praznijo z rekordno hitrostjo, kar povzroča zaskrbljenost glede prihodnje stabilnosti cen in dobav.",
-      "analiza": "Konflikt v Iranu ima neposreden in dramatičen vpliv na svetovne energetske trge. Hormuška ožina je ključna pomorska pot za prevoz nafte, in vsaka motnja v tej regiji hitro vpliva na globalno ponudbo. Zmanjšanje zalog nafte lahko vodi do znatnega dviga cen, kar bi imelo široke posledice za svetovno gospodarstvo, vključno z višjimi stroški prevoza in proizvodnje. To poudarja ranljivost globalne energetske oskrbe v luči geopolitičnih napetosti.",
+      "povzetek": "Ameriški delniški trgi so včeraj zabeležili širši umik, saj so indeksi Dow, S&P 500 in Nasdaq padli. Glavni razlogi so bili naraščajoči donosi na državne obveznice in cene nafte, ki so presegale 100 dolarjev za sod, kar je okrepilo strah pred inflacijo. Tehnološki sektor S&P 500 je bil pod posebnim pritiskom.",
+      "analiza": "Padec ameriških delniških trgov odraža naraščajočo zaskrbljenost vlagateljev glede inflacijskih pritiskov. Rast cen nafte, ki je presegla psihološko mejo 100 dolarjev, in dvig donosov na državne obveznice, vključno s 30-letno obveznico, ki je presegla 5,1 %, signalizirata pričakovanja višje inflacije in morebitno zaostrovanje monetarne politike. To ustvarja negotovost in zmanjšuje apetit po tveganju, še posebej v visoko vrednotenih sektorjih, kot je tehnologija. Vpliv na globalne trge je pomemben, saj se pričakuje, da se bo ta previdnost prenesla tudi na evropska in azijska tržišča.",
       "vpliv": [
-        "Dvig cen nafte",
-        "Povečanje inflacijskih pritiskov",
-        "Negativen vpliv na globalno gospodarsko rast"
+        "Padec delniških indeksov",
+        "Rast cen energentov",
+        "Višji stroški zadolževanja"
       ],
-      "vir": "OilPrice.com",
-      "vir_url": "https://oilprice.com/Energy/Energy-General/Global-Oil-Stockpiles-Plunge-as-Iran-War-Chokes-Supply.html"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-to-pull-back-as-treasury-yields-climb"
     },
     {
-      "naslov": "Trgovci ocenjujejo skoraj 40-odstotno verjetnost stagflacije do konca leta 2026",
-      "sektor": "Makro & Centralne banke",
+      "naslov": "Delnice proizvajalcev čipov padajo po vrhu ZDA-Kitajska brez tehnoloških dogovorov",
+      "sektor": "Geopolitika & Tehnologija & AI",
       "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Finančni trgovci izražajo zaskrbljenost glede gospodarskih razmer do konca leta 2026 in ocenjujejo skoraj 40-odstotno verjetnost stagflacije. To pomeni kombinacijo visoke inflacije in visoke brezposelnosti, kar je izjemno zahteven scenarij za centralne banke in vlade.",
-      "analiza": "Stagflacija predstavlja velik izziv, saj tradicionalni monetarni in fiskalni ukrepi, ki so učinkoviti proti inflaciji (dvig obrestnih mer) ali brezposelnosti (spodbujanje rasti), pogosto poslabšajo drugo težavo. Visoka inflacija zmanjšuje kupno moč potrošnikov, medtem ko visoka brezposelnost omejuje gospodarsko aktivnost. Takšna pričakovanja trgovcev lahko vplivajo na naložbene odločitve in povečajo previdnost na trgih, saj se vlagatelji poskušajo zaščititi pred morebitnim upočasnjevanjem rasti in vztrajno inflacijo.",
+      "intenziteta": 2,
+      "povzetek": "Delnice proizvajalcev čipov so se znižale po tem, ko se je vrh med ZDA in Kitajsko zaključil brez večjih dogovorov na področju tehnologije. To kaže na nadaljevanje napetosti in pomanjkanje napredka pri reševanju ključnih vprašanj med državama.",
+      "analiza": "Neuspeh vrha ZDA-Kitajska pri doseganju pomembnih tehnoloških dogovorov poudarja nadaljnje trenje med dvema največjima gospodarstvoma. Sektor čipov je še posebej občutljiv na geopolitične napetosti, saj je globalna dobavna veriga močno prepletena. Padec delnic v tem sektorju odraža strahove pred morebitnimi novimi omejitvami, carinami ali pomanjkanjem sodelovanja, kar bi lahko vplivalo na proizvodnjo, inovacije in dobičkonosnost podjetij. Dolgoročno lahko to vodi v nadaljnjo fragmentacijo globalnega tehnološkega trga.",
       "vpliv": [
-        "Povečana negotovost na trgih",
-        "Možnost zmanjšanja potrošnje",
-        "Izzivi za monetarno politiko"
+        "Padec delnic v tehnološkem sektorju",
+        "Nadaljevanje geopolitičnih napetosti",
+        "Negotovost v dobavnih verigah"
+      ],
+      "vir": "The Wall Street Journal",
+      "vir_url": "https://www.wsj.com/tech/chip-stocks-slide-after-u-s-china-summit-ends-without-major-tech-deals-c7c757b8"
+    },
+    {
+      "naslov": "Odhod Stephena Mirana iz Feda in vpliv na prihodnost monetarne politike",
+      "sektor": "Finance & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Stephen Miran zapušča Federal Reserve, kar odpira pot novemu predsedniku Kevinu Warshu. Ta sprememba v vodstvu centralne banke je pomembna, saj se bo novi predsednik soočal z izzivi inflacije in določanjem poti obrestnih mer.",
+      "analiza": "Odhod pomembnega člana Feda, kot je Stephen Miran, in prihod novega predsednika Kevina Warsha, je ključen dogodek za finančne trge. Novi predsednik bo moral krmariti med inflacijskimi pritiski in ohranjanjem gospodarske stabilnosti. Trgi bodo pozorno spremljali njegove prve poteze in retoriko, saj lahko vsaka sprememba v pristopu k monetarni politiki močno vpliva na obrestne mere, donose obveznic in splošno gospodarsko aktivnost. Vlagatelji so že zaskrbljeni zaradi inflacije in dviga donosov, zato bo Warshova strategija pod drobnogledom.",
+      "vpliv": [
+        "Spremembe v monetarni politiki",
+        "Vpliv na obrestne mere",
+        "Negotovost glede prihodnjih odločitev Feda"
       ],
       "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/05/14/nearly-40percent-chances-of-stagflation-by-end-of-2026-traders-say-.html"
+      "vir_url": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html"
     },
     {
-      "naslov": "Boeing prejel naročilo za 200 letal iz Kitajske, potrdil predsednik Trump",
-      "sektor": "Geopolitika",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Kitajska se je dogovorila za nakup 200 letal od podjetja Boeing, kar je potrdil predsednik Donald Trump. Ta večmilijardni posel predstavlja prvo kitajsko naročilo komercialnih letal ameriške izdelave v skoraj desetletju.",
-      "analiza": "Ta posel je pomemben tako z gospodarskega kot geopolitičnega vidika. Za Boeing pomeni znatno okrepitev naročil in prihodkov, kar je pozitivno za delničarje in ameriško letalsko industrijo. Geopolitično pa signalizira morebitno izboljšanje trgovinskih odnosov med ZDA in Kitajsko, saj je bil to sektor, ki je bil v preteklosti pogosto prizadet zaradi napetosti. Naročilo bi lahko odprlo vrata za nadaljnje trgovinske dogovore in zmanjšalo negotovost na globalnih trgih.",
-      "vpliv": [
-        "Izboljšanje trgovinskih odnosov ZDA-Kitajska",
-        "Povečanje prihodkov za Boeing",
-        "Pozitiven signal za globalno trgovino"
-      ],
-      "vir": "Bloomberg.com",
-      "vir_url": "https://www.bloomberg.com/news/articles/2026-05-14/boeing-wins-200-jet-plane-order-from-china-trump-says"
-    },
-    {
-      "naslov": "Cerebras izvedel največjo IPO leta 2026, zgodovina opozarja na prihodnje dogodke",
+      "naslov": "Trg dela v tehnološkem sektorju se sooča z obsežnimi odpuščanji",
       "sektor": "Tehnologija & AI",
-      "smer": "mešano",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Cerebras, proizvajalec čipov za umetno inteligenco, je izvedel največjo javno ponudbo delnic (IPO) leta 2026 do sedaj, pri čemer je povpraševanje preseglo ponudbo za več kot 20-krat. Kljub temu zgodovina IPO-jev ponuja nekaj opozoril glede prihodnjega gibanja delnic.",
-      "analiza": "Uspešna IPO podjetja Cerebras poudarja izjemno povpraševanje po tehnologiji umetne inteligence in čipih, ki jo poganjajo. To kaže na močno zaupanje vlagateljev v rast sektorja AI. Vendar pa opozorilo Motley Fool, da zgodovina IPO-jev pogosto vključuje obdobja volatilnosti po začetni evforiji, nakazuje na potrebo po previdnosti. Vlagatelji bi morali biti pozorni na dolgoročno uspešnost podjetja in morebitne korekcije po začetnem navdušenju.",
+      "povzetek": "Trg dela v tehnološkem sektorju se sooča z valom odpuščanj, ki bi se lahko še poslabšal. Ta val odpuščanj v letu 2026 se približuje obsegu prvega vala iz leta 2023, ko je bilo odpuščenih več kot 160.000 ljudi.",
+      "analiza": "Obsežna odpuščanja v tehnološkem sektorju so zaskrbljujoč znak za celotno gospodarstvo. Kljub nekaterim svetlim točkam, kot so naložbe v umetno inteligenco, se zdi, da se podjetja osredotočajo na zmanjšanje stroškov in optimizacijo poslovanja. To lahko kaže na upočasnitev rasti v nekaterih delih sektorja ali pa na preusmeritev virov. Povečana brezposelnost v tehnološkem sektorju lahko vpliva na potrošnjo in splošno gospodarsko zaupanje, hkrati pa signalizira morebitno preoblikovanje delovne sile v smeri novih tehnologij.",
       "vpliv": [
-        "Povečano zanimanje za AI sektor",
-        "Potencialna volatilnost delnic po IPO",
-        "Indikator tržnega sentimenta do novih tehnologij"
+        "Povečana brezposelnost v tehnološkem sektorju",
+        "Zmanjšana potrošnja",
+        "Prestrukturiranje tehnoloških podjetij"
       ],
-      "vir": "The Motley Fool",
-      "vir_url": "https://www.fool.com/investing/2026/05/14/cerebras-just-pulled-off-the-biggest-ipo-of-2026-h/"
+      "vir": "SFGATE",
+      "vir_url": "https://www.sfgate.com/bayarea/article/tech-layoffs-2026-22259249.php"
     },
     {
-      "naslov": "Bitcoin dosegel 82.000 dolarjev, delnice Coinbase rastejo ob napredku zakona Clarity",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Cena Bitcoina je dosegla 82.000 dolarjev, medtem ko so delnice podjetij, povezanih s kriptovalutami, kot je Coinbase, zabeležile rast. Ta pozitivni trend je delno pripisan napredovanju zakona Clarity, ki prinaša večjo regulativno jasnost v sektor.",
-      "analiza": "Rast Bitcoina in delnic kripto podjetij kaže na povečano zaupanje vlagateljev v digitalna sredstva. Napredek pri regulativni jasnosti, kot je zakon Clarity, je ključnega pomena za institucionalno sprejemanje kriptovalut, saj zmanjšuje negotovost in tveganja. To lahko privabi večje vlagatelje in spodbuja nadaljnjo rast trga. Kljub temu ostaja trg kriptovalut znan po svoji volatilnosti, zato je potrebna previdnost.",
-      "vpliv": [
-        "Povečano zanimanje za kriptovalute",
-        "Potencialna institucionalna vlaganja",
-        "Vpliv regulative na trg digitalnih sredstev"
-      ],
-      "vir": "CoinDesk",
-      "vir_url": "https://www.coindesk.com/markets/2026/05/14/bitcoin-hits-usd82-000-coinbase-leads-crypto-stock-gains-as-clarity-act-advances"
-    },
-    {
-      "naslov": "Davčna vračila spodbujajo maloprodajo v ZDA, a grozi vpliv naraščajoče inflacije",
+      "naslov": "Starbucks odpušča 300 zaposlenih in zapira regionalne pisarne za dobičkonosnost",
       "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Starbucks je napovedal odpuščanje 300 zaposlenih v ZDA in zaprtje nekaterih regionalnih podpornih pisarn. Podjetje navaja, da so ti ukrepi potrebni za vrnitev k dobičkonosni rasti.",
+      "analiza": "Odločitev Starbucksa za odpuščanje in zapiranje pisarn je znak, da se celo uveljavljena potrošniška podjetja soočajo s pritiski na dobičkonosnost. To lahko kaže na upočasnitev potrošniške porabe ali povečane operativne stroške, ki jih podjetja poskušajo obvladati. Čeprav so ti ukrepi namenjeni izboljšanju finančnega položaja podjetja, lahko kratkoročno vplivajo na moralo zaposlenih in javno percepcijo. Za širši trg je to opozorilo, da podjetja v sektorju potrošniških storitev morda pričakujejo težje čase ali pa se agresivno prilagajajo na spremenjene tržne razmere.",
+      "vpliv": [
+        "Zmanjšanje stroškov podjetja",
+        "Negativen vpliv na zaposlovanje",
+        "Signal o pritisku na dobičkonosnost v sektorju"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/05/15/starbucks-to-lay-off-300-us-employees-close-some-regional-offices.html"
+    },
+    {
+      "naslov": "Honda predstavlja nove hibride po 9 milijardah dolarjev izgube na področju EV",
+      "sektor": "Avtomobilska industrija",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Maloprodaja v ZDA je aprila že tretji mesec zapored solidno narasla, deloma zaradi davčnih vračil. Kljub temu pa se nad to rastjo že kaže senca naraščajoče inflacije, ki bi lahko v prihodnosti zavirala potrošnjo.",
-      "analiza": "Povečanje maloprodaje je pozitiven znak za gospodarsko aktivnost in kaže na robustno potrošnjo, ki je ključni del ameriškega gospodarstva. Davčna vračila so zagotovila dodaten denar za potrošnike, kar je spodbudilo porabo. Vendar pa opozorilo o naraščajoči inflaciji pomeni, da bi se realna kupna moč potrošnikov lahko zmanjšala, kar bi dolgoročno lahko privedlo do upočasnitve rasti maloprodaje. Centralna banka bo pozorno spremljala te podatke pri odločanju o monetarni politiki.",
+      "povzetek": "Honda je predstavila nove hibridne modele za ameriški trg, medtem ko se sooča z absorbiranjem 9 milijard dolarjev izgube na področju električnih vozil. To je prva letna izguba podjetja v več kot 70 letih.",
+      "analiza": "Izguba 9 milijard dolarjev na področju električnih vozil in prva letna izguba Honde v sedmih desetletjih poudarjajo izzive, s katerimi se sooča avtomobilska industrija pri prehodu na električna vozila. Visoki stroški razvoja, proizvodnje in trženja EV-jev, skupaj z morebitno počasnejšo stopnjo sprejemanja s strani potrošnikov, kot je bilo pričakovano, lahko obremenijo bilance podjetij. Hondina strategija preusmeritve na hibride kaže na prilagoditev tržnim razmeram in poskus uravnoteženja med inovacijami in dobičkonosnostjo. To lahko služi kot opozorilo tudi drugim proizvajalcem avtomobilov, da prehod na EV ni enostaven in zahteva skrbno strategijo.",
       "vpliv": [
-        "Kratkoročna rast potrošnje",
-        "Dolgoročni inflacijski pritiski na potrošnjo",
-        "Vpliv na odločitve centralne banke"
+        "Preusmeritev avtomobilske industrije",
+        "Finančni pritiski na proizvajalce EV",
+        "Povečana ponudba hibridnih vozil"
       ],
-      "vir": "Yahoo Entertainment",
-      "vir_url": "https://finance.yahoo.com/economy/articles/us-retail-sales-increase-again-124034101.html"
+      "vir": "Ars Technica",
+      "vir_url": "https://arstechnica.com/cars/2026/05/honda-shows-off-new-hybrids-for-america-as-it-absorbs-9-billion-ev-loss/"
     }
   ]
 }
