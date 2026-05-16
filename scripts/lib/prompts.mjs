@@ -64,7 +64,13 @@ URL: ${article.url}
 Objavljeno: ${article.publishedAt}
 Opis: ${article.description}
 
-NALOGA: Napiši slovenski povzetek in analizo te novice. Bodi natančen, brez izmišljevanja podatkov. URL in vir ohrani točno tako, kot sta.
+NALOGA: Napiši TEMELJIT slovenski povzetek in poglobljeno analizo te novice. URL in vir ohrani točno tako, kot sta.
+
+KAKOVOSTNI STANDARD:
+- Vključi vse KONKRETNE PODATKE iz opisa: številke, odstotke, datume, imena, podjetja, valute, indekse.
+- Ne piši splošnih izjav. Vedno specifično (npr. "Brent +3,4 % na 87,20 USD", ne "nafta raste").
+- Razloži OZADJE, MEHANIZEM vpliva in POSLEDICE za vse relevantne razrede sredstev.
+- NE izmišljaj podatkov, ki jih ni v opisu — bolje strožji opis kot izmišljeni številke.
 
 Vrni IZKLJUČNO veljaven JSON v obliki:
 {
@@ -72,10 +78,10 @@ Vrni IZKLJUČNO veljaven JSON v obliki:
   "sektor": "eden od: Tehnologija & AI | Energetika | Finance | Potrošniki | Makro & Centralne banke | Geopolitika",
   "smer": "eden od: pozitivno | negativno | mešano",
   "intenziteta": 2,
-  "povzetek": "2–3 stavki o tem, kaj se je zgodilo.",
-  "analiza": "5–7 stavkov: kontekst, zakaj zdaj, kako se vpenja v trende, posledice za razrede sredstev, kaj to pomeni za slovenskega vlagatelja. Brez nasvetov.",
-  "vpliv": ["konkretna posledica 1", "konkretna posledica 2", "konkretna posledica 3"],
-  "kljucna_dejstva": ["dejstvo 1 (število, datum, ime)", "dejstvo 2", "dejstvo 3"],
+  "povzetek": "5–7 stavkov: kdo, kdaj, kaj, koliko, kje, zakaj. Vsa konkretna dejstva iz vira.",
+  "analiza": "10–14 stavkov: (1) ozadje in kontekst, (2) zakaj zdaj — povezava s trendi, (3) mehanizem vpliva na trge, (4) konkretne posledice za delnice/obveznice/valute/surovine/krypto, (5) zgodovinski primerjalni primer, (6) kaj opazovati naprej, (7) sklep za slovenskega dolgoročnega vlagatelja. Brez finančnih nasvetov.",
+  "vpliv": ["konkretna posledica 1 (s številko ali smerjo)", "konkretna posledica 2", "konkretna posledica 3", "konkretna posledica 4"],
+  "kljucna_dejstva": ["dejstvo 1 (število, datum, ime)", "dejstvo 2", "dejstvo 3", "dejstvo 4"],
   "vir": "${article.source}",
   "vir_url": "${article.url}"
 }
@@ -108,23 +114,32 @@ ${list}
 NALOGA:
 - Izberi ${count} najpomembnejših novic z vidika finančnih trgov.
 - Razmišljaj tematsko (geopolitika, energenti, makro, tehnologija, finance) in pokrij vsa glavna področja s čim manj prekrivanjem.
-- Za vsako napiši slovenski povzetek in analizo. URL, vir in datum objave VEDNO ohrani točno tako kot je v seznamu.
-- Pred novicami napiši 4–6 stavčni "Pregled dneva", ki povzame izbrane novice in skupni vpliv na trge.
+- Za vsako napiši TEMELJIT slovenski povzetek in poglobljeno analizo. URL, vir in datum objave VEDNO ohrani točno tako kot je v seznamu.
+- Pred novicami napiši 6–9 stavčni "Pregled dneva", ki temeljito povzame izbrane novice in skupni vpliv na trge.
+
+KAKOVOSTNI STANDARD ZA POVZETKE IN ANALIZE:
+- Vključi vse relevantne KONKRETNE PODATKE: številke, odstotke, datume, imena oseb, podjetij, držav, valutnih parov, cen surovin, indeksov.
+- Ne piši splošnih izjav tipa "trgi so reagirali" — vedno specifično: "Brent je v ponedeljek zrastel za 3,4 % na 87,20 dolarja".
+- Razloži OZADJE in KONTEKST: kaj je predhodilo, zakaj je to pomembno zdaj, kako se vpenja v dolgoročne trende.
+- Razloži MEHANIZEM vpliva: zakaj geopolitični dogodek vpliva na surovine, zakaj makro objava premika valute, ipd.
+- Vključi POSLEDICE za vse relevantne razrede sredstev (delnice, obveznice, valute, surovine, krypto) — ne le enega.
+- Konec analize: kaj to specifično pomeni za slovenskega dolgoročnega vlagatelja. Brez finančnih nasvetov, le pojasnilo.
+- NE izmišljaj podatkov. Če nekaj ni v originalnem opisu, ne dodajaj številk iz spomina. Bolje strožji opis kot izmišljeni podatki.
 
 Vrni IZKLJUČNO veljaven JSON, brez markdown ograj:
 {
   "datum": "${today}",
   "izdaja": "${edition}",
-  "povzetek": "4–6 stavkov kontekstnega povzetka dneva v slovenščini.",
+  "povzetek": "6–9 stavkov temeljitega kontekstnega povzetka dneva v slovenščini, ki vključuje konkretne podatke (številke, imena, datume) iz izbranih novic.",
   "novice": [
     {
       "naslov": "slovenski naslov, 8–14 besed",
       "sektor": "eden od: Tehnologija & AI | Energetika | Finance | Potrošniki | Makro & Centralne banke | Geopolitika",
       "smer": "eden od: pozitivno | negativno | mešano",
       "intenziteta": 2,
-      "povzetek": "2–3 stavki.",
-      "analiza": "5–7 stavkov.",
-      "vpliv": ["posledica 1", "posledica 2", "posledica 3"],
+      "povzetek": "5–7 stavkov: kdo, kdaj, kaj, koliko, kje, zakaj. Vključi vsa konkretna dejstva iz vira (številke, datumi, imena). Ne le 'kaj se je zgodilo', ampak vse pomembne podrobnosti.",
+      "analiza": "10–14 stavkov: (1) ozadje in kontekst dogodka, (2) zakaj je relevantno zdaj — povezava z aktualnimi trendi, (3) mehanizem vpliva na finančne trge, (4) konkretne posledice za delnice / obveznice / valute / surovine / krypto, (5) zgodovinski primerjalni primer, če smiselno, (6) kaj velja opazovati naprej, (7) sklepna misel za slovenskega dolgoročnega vlagatelja brez finančnih nasvetov.",
+      "vpliv": ["konkretna posledica 1 (s številko ali smerjo)", "konkretna posledica 2", "konkretna posledica 3", "konkretna posledica 4"],
       "vir": "ime vira iz seznama — NESPREMENJENO",
       "vir_url": "polni URL iz seznama — NESPREMENJEN"
     }
@@ -183,11 +198,13 @@ Spodaj so finalni povzetki izbranih novic dneva:
 
 ${list}
 
-NALOGA: Napiši MASTER POVZETEK dneva — povezan, naraven slovenski tekst dolg 5–8 stavkov, ki:
+NALOGA: Napiši MASTER POVZETEK dneva — povezan, naraven slovenski tekst dolg 8–12 stavkov, ki:
 - Začne s strnjenim pregledom glavnega tržnega vzorca dneva (npr. "Trgi so danes ...").
 - Poveže novice v tematskem zaporedju (geopolitika → makro → trgi → tehnologija → krypto).
-- Razloži skupni narativ in vplive med področji.
-- Konča z nevtralnim, mirnim sklepom (kaj spremljati naprej).
+- Vključi vsaj 3-5 konkretnih podatkov (cene, odstotke, indekse, imena) iz povzetkov.
+- Razloži skupni narativ in mehanizme vplivov med področji (kako ena tema vpliva na drugo).
+- Vključi en spodbuden ali zaskrbljujoč signal, ki ga je dan prinesel.
+- Konča z nevtralnim, mirnim sklepom (kaj spremljati naprej, kaj je glavna negotovost).
 
 Tekst bo prebran z naravnim glasom (TTS), zato:
 - Ne uporabljaj markdowna, alinej, številk seznamov.
