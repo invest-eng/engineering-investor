@@ -296,6 +296,18 @@ const baseUrl = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
       padding-top: 0;
       padding-bottom: 0;
       min-height: var(--nav-height);
+      gap: var(--space-sm);
+    }
+
+    /* Save space: hide brand name, X icon — only logo + auth + theme + hamburger */
+    .navbar__brand-name {
+      display: none;
+    }
+    .navbar__icon-link {
+      display: none;
+    }
+    .navbar__actions {
+      gap: 6px;
     }
   }
 </style>

@@ -50,10 +50,11 @@ export default function AuthButton({ baseUrl = '' }) {
   const isPremium = !!profile?.is_premium;
 
   return (
-    <div ref={menuRef} style={{ position: 'relative' }}>
+    <div ref={menuRef} className="auth-btn" style={{ position: 'relative' }}>
       <button
         onClick={() => setMenuOpen((v) => !v)}
         aria-label="Tvoj račun"
+        className="auth-btn__trigger"
         style={{
           display: 'flex',
           alignItems: 'center',
@@ -79,9 +80,10 @@ export default function AuthButton({ baseUrl = '' }) {
           justifyContent: 'center',
           fontSize: '0.85rem',
           fontWeight: 700,
+          flexShrink: 0,
         }}>{initial}</span>
         {isPremium && (
-          <span style={{
+          <span className="auth-btn__premium" style={{
             fontSize: '0.62rem',
             fontWeight: 700,
             color: '#D97706',
@@ -89,7 +91,7 @@ export default function AuthButton({ baseUrl = '' }) {
             letterSpacing: '0.08em',
           }}>★ Premium</span>
         )}
-        <span style={{ fontSize: '0.7rem', color: 'var(--color-text-subtle)' }}>▾</span>
+        <span className="auth-btn__chev" style={{ fontSize: '0.7rem', color: 'var(--color-text-subtle)' }}>▾</span>
       </button>
 
       {menuOpen && (

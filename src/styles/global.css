@@ -111,6 +111,20 @@ html {
   font-size: 16px;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
+  /* Safety net: prevent any rogue inner element from pushing horizontal scroll. */
+  overflow-x: hidden;
+}
+
+/* AuthButton compact on mobile: hide premium chip + chevron, keep only avatar. */
+@media (max-width: 768px) {
+  .auth-btn__premium,
+  .auth-btn__chev {
+    display: none !important;
+  }
+  .auth-btn__trigger {
+    padding: 3px !important;
+    border-color: transparent !important;
+  }
 }
 
 body {
@@ -122,6 +136,8 @@ body {
   transition: background-color var(--transition-slow), color var(--transition-slow);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  max-width: 100vw;
 }
 
 img, video {
