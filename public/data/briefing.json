@@ -1,83 +1,100 @@
 {
-  "generiranoOb": "2026-05-15T12:27:29.223Z",
+  "generiranoOb": "2026-05-16T07:31:48.421Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
-  "datum": "2026-05-15",
-  "povzetek": "Finančni trgi so danes v ospredje postavili pomembne makroekonomske in geopolitične dogodke. Ameriški senat je potrdil Kevina Warsha za novega predsednika Feda, kar signalizira morebitno spremembo v denarni politiki. Hkrati so podatki o veleprodajnih cenah pokazali štiriletni vrh, kar krepi inflacijske pritiske in zmanjšuje pričakovanja o znižanju obrestnih mer. Kljub temu so delniški indeksi, kot je Dow Jones, dosegali nove mejnike, predvsem zaradi optimizma v tehnološkem sektorju in pričakovanj glede trgovinskih dogovorov med ZDA in Kitajsko. Cene nafte so ostale stabilne pred pogovori med Trumpom in Xijem, medtem ko se napetosti v Iranu nadaljujejo, kar ohranja negotovost na energetskih trgih.",
+  "tier": "free",
+  "datum": "2026-05-16",
+  "povzetek": "Jutranji pregled finančnih trgov razkriva mešano sliko, zaznamovano z geopolitičnimi napetostmi in makroekonomskimi pričakovanji. Globalne zaloge nafte strmo padajo zaradi vojne v Iranu, kar napoveduje morebiten dvig cen energentov in inflacijske pritiske. Hkrati trgovci izražajo zaskrbljenost glede stagflacije do konca leta 2026, kar bi predstavljalo velik izziv za gospodarstvo. Pozitiven signal prihaja z dogovorom med ZDA in Kitajsko o nakupu 200 Boeingovih letal, kar bi lahko izboljšalo trgovinske odnose. Na tehnološkem področju je IPO podjetja Cerebras poudarilo močno zanimanje za AI, medtem ko je Bitcoin dosegel 82.000 dolarjev ob napredku regulative. V ZDA je maloprodaja sicer rasla zaradi davčnih vračil, a se že kažejo vplivi naraščajoče inflacije.",
   "novice": [
     {
-      "naslov": "Veleprodajne cene dosegle štiriletni vrh, kar napoveduje nadaljnje inflacijske pritiske",
+      "naslov": "Globalne zaloge nafte strmo padajo zaradi vojne v Iranu in motenj dobave",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Globalni trgi nafte se soočajo z zgodovinskim šokom v dobavi, saj vojna v Iranu omejuje promet tankerjev skozi Hormuško ožino. Posledično se zaloge nafte praznijo z rekordno hitrostjo, kar povzroča zaskrbljenost glede prihodnje stabilnosti cen in dobav.",
+      "analiza": "Konflikt v Iranu ima neposreden in dramatičen vpliv na svetovne energetske trge. Hormuška ožina je ključna pomorska pot za prevoz nafte, in vsaka motnja v tej regiji hitro vpliva na globalno ponudbo. Zmanjšanje zalog nafte lahko vodi do znatnega dviga cen, kar bi imelo široke posledice za svetovno gospodarstvo, vključno z višjimi stroški prevoza in proizvodnje. To poudarja ranljivost globalne energetske oskrbe v luči geopolitičnih napetosti.",
+      "vpliv": [
+        "Dvig cen nafte",
+        "Povečanje inflacijskih pritiskov",
+        "Negativen vpliv na globalno gospodarsko rast"
+      ],
+      "vir": "OilPrice.com",
+      "vir_url": "https://oilprice.com/Energy/Energy-General/Global-Oil-Stockpiles-Plunge-as-Iran-War-Chokes-Supply.html"
+    },
+    {
+      "naslov": "Trgovci ocenjujejo skoraj 40-odstotno verjetnost stagflacije do konca leta 2026",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Veleprodajne cene v ZDA so se povzpele na štiriletni vrh, kar kaže na krepitev inflacijskih pritiskov. Ta rast nakazuje, da bi se lahko inflacija v poletnih mesecih še povečala, kar bi lahko vplivalo na odločitve Federalnih rezerv glede obrestnih mer.",
-      "analiza": "Rast veleprodajnih cen je pomemben indikator prihodnje inflacije potrošniških cen. Če se stroški za podjetja povečujejo, je verjetno, da bodo te stroške prenesla na potrošnike, kar bo povzročilo višje cene. To zmanjšuje verjetnost, da bo Fed kmalu znižal obrestne mere, saj bi takšna poteza lahko še pospešila inflacijo. Višje obrestne mere so običajno negativne za delniške trge, saj povečujejo stroške zadolževanja in zmanjšujejo privlačnost tveganih naložb. Za obveznice bi to lahko pomenilo nadaljnji pritisk na višje donose, medtem ko bi dolar lahko pridobil na vrednosti zaradi pričakovanj o višjih obrestnih merah.",
+      "povzetek": "Finančni trgovci izražajo zaskrbljenost glede gospodarskih razmer do konca leta 2026 in ocenjujejo skoraj 40-odstotno verjetnost stagflacije. To pomeni kombinacijo visoke inflacije in visoke brezposelnosti, kar je izjemno zahteven scenarij za centralne banke in vlade.",
+      "analiza": "Stagflacija predstavlja velik izziv, saj tradicionalni monetarni in fiskalni ukrepi, ki so učinkoviti proti inflaciji (dvig obrestnih mer) ali brezposelnosti (spodbujanje rasti), pogosto poslabšajo drugo težavo. Visoka inflacija zmanjšuje kupno moč potrošnikov, medtem ko visoka brezposelnost omejuje gospodarsko aktivnost. Takšna pričakovanja trgovcev lahko vplivajo na naložbene odločitve in povečajo previdnost na trgih, saj se vlagatelji poskušajo zaščititi pred morebitnim upočasnjevanjem rasti in vztrajno inflacijo.",
       "vpliv": [
-        "Zmanjšana verjetnost znižanja obrestnih mer Feda",
-        "Pritisk na delniške trge zaradi višjih stroškov",
-        "Rast donosov na obveznice in morebitna krepitev dolarja"
+        "Povečana negotovost na trgih",
+        "Možnost zmanjšanja potrošnje",
+        "Izzivi za monetarno politiko"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/wholesale-prices-jump-to-4-year-high-and-point-to-even-more-inflation-in-the-next-few-months-00666242"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/05/14/nearly-40percent-chances-of-stagflation-by-end-of-2026-traders-say-.html"
     },
     {
-      "naslov": "Vrh Trump-Xi: Pogovori o Nvidii, Boeingu in morebitnem dogovoru za 500 letal",
+      "naslov": "Boeing prejel naročilo za 200 letal iz Kitajske, potrdil predsednik Trump",
       "sektor": "Geopolitika",
-      "smer": "mešano",
+      "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "Prihajajoči vrh med ameriškim predsednikom Trumpom in kitajskim voditeljem Xijem bo vplival na ključne sektorje, kot so tehnologija (Nvidia) in letalstvo (Boeing). Pogovori bi lahko vključevali potencialni dogovor o prodaji 500 letal in odpravi omejitev za določene čipe.",
-      "analiza": "Geopolitična srečanja na visoki ravni med ZDA in Kitajsko imajo vedno velik vpliv na globalne trge. Morebitni dogovori o trgovini in tehnologiji bi lahko pomembno vplivali na delnice podjetij, kot sta Nvidia in Boeing. Pozitiven izid bi lahko pomenil odpravo nekaterih trgovinskih ovir, kar bi koristilo izvozno usmerjenim podjetjem in izboljšalo splošno razpoloženje na trgu. Negativni izid pa bi lahko sprožil nove trgovinske napetosti in povečal negotovost. Za surovine, kot je nafta, bi lahko stabilizacija odnosov zmanjšala premijo za tveganje, medtem ko bi valute lahko nihale glede na napredek v pogajanjih.",
+      "povzetek": "Kitajska se je dogovorila za nakup 200 letal od podjetja Boeing, kar je potrdil predsednik Donald Trump. Ta večmilijardni posel predstavlja prvo kitajsko naročilo komercialnih letal ameriške izdelave v skoraj desetletju.",
+      "analiza": "Ta posel je pomemben tako z gospodarskega kot geopolitičnega vidika. Za Boeing pomeni znatno okrepitev naročil in prihodkov, kar je pozitivno za delničarje in ameriško letalsko industrijo. Geopolitično pa signalizira morebitno izboljšanje trgovinskih odnosov med ZDA in Kitajsko, saj je bil to sektor, ki je bil v preteklosti pogosto prizadet zaradi napetosti. Naročilo bi lahko odprlo vrata za nadaljnje trgovinske dogovore in zmanjšalo negotovost na globalnih trgih.",
       "vpliv": [
-        "Potencialni vpliv na delnice Nvidie in Boeinga",
-        "Spremembe v trgovinskih odnosih med ZDA in Kitajsko",
-        "Vpliv na cene surovin in valutno stabilnost"
+        "Izboljšanje trgovinskih odnosov ZDA-Kitajska",
+        "Povečanje prihodkov za Boeing",
+        "Pozitiven signal za globalno trgovino"
       ],
-      "vir": "Yahoo Entertainment",
-      "vir_url": "https://finance.yahoo.com/markets/stocks/articles/trump-xi-summit-puts-nvidia-040122496.html"
+      "vir": "Bloomberg.com",
+      "vir_url": "https://www.bloomberg.com/news/articles/2026-05-14/boeing-wins-200-jet-plane-order-from-china-trump-says"
     },
     {
-      "naslov": "Dow Jones blizu 50.000 točk, delnice Cisca in Boeinga poganjajo rast",
+      "naslov": "Cerebras izvedel največjo IPO leta 2026, zgodovina opozarja na prihodnje dogodke",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Cerebras, proizvajalec čipov za umetno inteligenco, je izvedel največjo javno ponudbo delnic (IPO) leta 2026 do sedaj, pri čemer je povpraševanje preseglo ponudbo za več kot 20-krat. Kljub temu zgodovina IPO-jev ponuja nekaj opozoril glede prihodnjega gibanja delnic.",
+      "analiza": "Uspešna IPO podjetja Cerebras poudarja izjemno povpraševanje po tehnologiji umetne inteligence in čipih, ki jo poganjajo. To kaže na močno zaupanje vlagateljev v rast sektorja AI. Vendar pa opozorilo Motley Fool, da zgodovina IPO-jev pogosto vključuje obdobja volatilnosti po začetni evforiji, nakazuje na potrebo po previdnosti. Vlagatelji bi morali biti pozorni na dolgoročno uspešnost podjetja in morebitne korekcije po začetnem navdušenju.",
+      "vpliv": [
+        "Povečano zanimanje za AI sektor",
+        "Potencialna volatilnost delnic po IPO",
+        "Indikator tržnega sentimenta do novih tehnologij"
+      ],
+      "vir": "The Motley Fool",
+      "vir_url": "https://www.fool.com/investing/2026/05/14/cerebras-just-pulled-off-the-biggest-ipo-of-2026-h/"
+    },
+    {
+      "naslov": "Bitcoin dosegel 82.000 dolarjev, delnice Coinbase rastejo ob napredku zakona Clarity",
       "sektor": "Finance",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Indeks Dow Jones se približuje ponovnemu doseganju meje 50.000 točk, kar kaže na močno tržno razpoloženje. Rast je bila podprta z znatnimi skoki delnic podjetij, kot sta Cisco in Boeing, kar odraža optimizem v tehnološkem in industrijskem sektorju.",
-      "analiza": "Doseganje ali približevanje pomembnih mejnikov indeksov, kot je 50.000 točk za Dow Jones, pogosto služi kot psihološki dejavnik za vlagatelje. Trenutna rast, ki jo poganjajo podjetja kot Cisco (kljub napovedanim odpuščanjem, kar kaže na preusmeritev v AI) in Boeing (ob pričakovanjih dogovorov s Kitajsko), nakazuje na selektiven optimizem. To kaže, da vlagatelji še vedno iščejo priložnosti v določenih sektorjih, kljub makroekonomskim negotovostim. Za dolgoročnega vlagatelja to poudarja pomen diverzifikacije in razumevanja, kateri sektorji so gonilna sila rasti v trenutnem okolju.",
+      "povzetek": "Cena Bitcoina je dosegla 82.000 dolarjev, medtem ko so delnice podjetij, povezanih s kriptovalutami, kot je Coinbase, zabeležile rast. Ta pozitivni trend je delno pripisan napredovanju zakona Clarity, ki prinaša večjo regulativno jasnost v sektor.",
+      "analiza": "Rast Bitcoina in delnic kripto podjetij kaže na povečano zaupanje vlagateljev v digitalna sredstva. Napredek pri regulativni jasnosti, kot je zakon Clarity, je ključnega pomena za institucionalno sprejemanje kriptovalut, saj zmanjšuje negotovost in tveganja. To lahko privabi večje vlagatelje in spodbuja nadaljnjo rast trga. Kljub temu ostaja trg kriptovalut znan po svoji volatilnosti, zato je potrebna previdnost.",
       "vpliv": [
-        "Krepitev splošnega optimizma na delniških trgih",
-        "Rast delnic v tehnološkem in industrijskem sektorju",
-        "Psihološki vpliv na vlagatelje in tržno razpoloženje"
+        "Povečano zanimanje za kriptovalute",
+        "Potencialna institucionalna vlaganja",
+        "Vpliv regulative na trg digitalnih sredstev"
       ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/05/13/stock-market-today-live-updates.html"
+      "vir": "CoinDesk",
+      "vir_url": "https://www.coindesk.com/markets/2026/05/14/bitcoin-hits-usd82-000-coinbase-leads-crypto-stock-gains-as-clarity-act-advances"
     },
     {
-      "naslov": "ZDA odobrile prodajo čipov H200 desetim kitajskim podjetjem, Nvidia išče preboj",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Združene države Amerike so odobrile prodajo Nvidiinih čipov H200, ki so drugi najmočnejši čipi za umetno inteligenco, desetim kitajskim podjetjem. Ta poteza bi lahko pomenila preboj v tehnoloških odnosih med državama in odprla nove priložnosti za Nvidio na kitajskem trgu.",
-      "analiza": "Odobritev prodaje naprednih AI čipov kitajskim podjetjem je pomemben razvoj v kontekstu trgovinske in tehnološke vojne med ZDA in Kitajsko. Za Nvidio to pomeni potencialno povečanje prihodkov in utrditev položaja na ključnem trgu, čeprav še ni prišlo do dobav. To lahko pozitivno vpliva na delnice podjetij v sektorju polprevodnikov, saj nakazuje na morebitno omilitev omejitev. Vendar pa ostaja tveganje, da se politika lahko hitro spremeni, zato je dolgoročna stabilnost takšnih dogovorov negotova. Vlagatelji bi morali biti pozorni na nadaljnje politične odločitve, ki lahko vplivajo na ta sektor.",
-      "vpliv": [
-        "Potencialno povečanje prihodkov za Nvidio",
-        "Omilitev napetosti v tehnološki trgovini med ZDA in Kitajsko",
-        "Pozitiven vpliv na delnice podjetij s polprevodniki"
-      ],
-      "vir": "Yahoo Entertainment",
-      "vir_url": "https://finance.yahoo.com/sectors/technology/articles/exclusive-us-clears-h200-chip-054811034.html"
-    },
-    {
-      "naslov": "Cene nafte stabilne pred pogovori Trump-Xi, medtem ko napetosti v Iranu ostajajo",
-      "sektor": "Energetika",
+      "naslov": "Davčna vračila spodbujajo maloprodajo v ZDA, a grozi vpliv naraščajoče inflacije",
+      "sektor": "Potrošniki",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Cene nafte so ostale stabilne pred začetkom pogovorov med ameriškim predsednikom Trumpom in kitajskim voditeljem Xijem. To se dogaja v ozadju nenehnih napetosti, povezanih z vojno v Iranu, ki še naprej vplivajo na globalne dobavne verige in cene energentov.",
-      "analiza": "Stabilizacija cen nafte pred pomembnimi geopolitičnimi pogovori kaže na previdnost trgov. Medtem ko vrh Trump-Xi prinaša upanje na zmanjšanje globalne negotovosti, napetosti v Iranu, zlasti v zvezi z ožino Hormuz, še vedno predstavljajo tveganje za dobavo nafte. Kakršen koli razvoj dogodkov v zvezi z Iranom ali trgovinskimi pogovori bi lahko hitro spremenil cene nafte. Za vlagatelje to pomeni, da so cene energentov še vedno zelo občutljive na geopolitične dogodke. Visoke cene nafte lahko vplivajo na inflacijo in stroške poslovanja podjetij, kar posredno vpliva na delniške trge in potrošniško moč.",
+      "povzetek": "Maloprodaja v ZDA je aprila že tretji mesec zapored solidno narasla, deloma zaradi davčnih vračil. Kljub temu pa se nad to rastjo že kaže senca naraščajoče inflacije, ki bi lahko v prihodnosti zavirala potrošnjo.",
+      "analiza": "Povečanje maloprodaje je pozitiven znak za gospodarsko aktivnost in kaže na robustno potrošnjo, ki je ključni del ameriškega gospodarstva. Davčna vračila so zagotovila dodaten denar za potrošnike, kar je spodbudilo porabo. Vendar pa opozorilo o naraščajoči inflaciji pomeni, da bi se realna kupna moč potrošnikov lahko zmanjšala, kar bi dolgoročno lahko privedlo do upočasnitve rasti maloprodaje. Centralna banka bo pozorno spremljala te podatke pri odločanju o monetarni politiki.",
       "vpliv": [
-        "Občutljivost cen nafte na geopolitične dogodke",
-        "Potencialni vpliv na inflacijo in stroške podjetij",
-        "Nadaljnja negotovost glede globalne dobave energentov"
+        "Kratkoročna rast potrošnje",
+        "Dolgoročni inflacijski pritiski na potrošnjo",
+        "Vpliv na odločitve centralne banke"
       ],
       "vir": "Yahoo Entertainment",
-      "vir_url": "https://finance.yahoo.com/news/oil-steadies-ahead-of-trump-xi-talks-as-iran-war-tensions-simmer-011040155.html"
+      "vir_url": "https://finance.yahoo.com/economy/articles/us-retail-sales-increase-again-124034101.html"
     }
   ]
 }
