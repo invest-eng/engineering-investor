@@ -56,15 +56,22 @@ async function alreadyGeneratedToday() {
   }
 }
 
-function validateAndCleanup(data, allowedUrls) {
-  const allowed = new Set(allowedUrls);
-  const novice = (data.novice || []).filter((n) => {
-    if (!n.vir_url || !allowed.has(n.vir_url)) {
-      console.warn(`[briefing] dropping item with invalid vir_url: ${n.vir_url}`);
-      return false;
-    }
-    return true;
-  });
+function validateAndCleanup(data, articles) {
+  const byUrl = new Map(articles.map((a) => [a.url, a]));
+  const novice = (data.novice || [])
+    .filter((n) => {
+      if (!n.vir_url || !byUrl.has(n.vir_url)) {
+        console.warn(`[briefing] dropping item with invalid vir_url: ${n.vir_url}`);
+        return false;
+      }
+      return true;
+    })
+    .map((n) => ({
+      ...n,
+      // Enrich with the original article's publishedAt timestamp so the UI
+      // can show the date on each card (helps spot stale news).
+      objavljeno: byUrl.get(n.vir_url).publishedAt,
+    }));
   return { ...data, novice };
 }
 
@@ -93,8 +100,9 @@ async function main() {
   console.log(`[briefing] success with model ${model}`);
 
   // Step 3: parse and validate URLs match what we sent (avoid hallucinated URLs).
+  // Also enriches each news item with the original publishedAt timestamp.
   const raw = extractJson(text);
-  const data = validateAndCleanup(raw, articles.map((a) => a.url));
+  const data = validateAndCleanup(raw, articles);
 
   // --- PREMIUM: master summary would also be sent to TTS here:
   //     const mp3 = await synthesizeSlovenian(data.master_povzetek);

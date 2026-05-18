@@ -36,6 +36,27 @@ function formatDateTime(iso) {
   } catch { return iso; }
 }
 
+function formatRelative(iso) {
+  if (!iso) return '';
+  const t = Date.parse(iso);
+  if (!Number.isFinite(t)) return '';
+  const diffMin = (Date.now() - t) / 60000;
+  if (diffMin < 60) return `pred ${Math.max(1, Math.round(diffMin))} min`;
+  const diffH = diffMin / 60;
+  if (diffH < 24) return `pred ${Math.round(diffH)} h`;
+  const diffD = Math.round(diffH / 24);
+  if (diffD === 1) return 'včeraj';
+  if (diffD < 7) return `pred ${diffD} dnevi`;
+  return new Date(t).toLocaleDateString('sl-SI', { day: 'numeric', month: 'short', year: 'numeric' });
+}
+
+function isStale(iso, maxHours = 24) {
+  if (!iso) return false;
+  const t = Date.parse(iso);
+  if (!Number.isFinite(t)) return false;
+  return (Date.now() - t) / 3600000 > maxHours;
+}
+
 function IntensityDots({ value }) {
   const v = Math.max(1, Math.min(3, Number(value) || 1));
   return (
@@ -267,8 +288,22 @@ export default function MarketBriefing() {
                           fontSize: '0.74rem',
                           color: 'var(--color-text-subtle)',
                           marginLeft: 'auto',
+                          display: 'flex',
+                          alignItems: 'center',
+                          gap: 8,
                         }}>
-                          {item.vir}
+                          {item.objavljeno && (
+                            <span
+                              title={formatDateTime(item.objavljeno)}
+                              style={{
+                                color: isStale(item.objavljeno) ? '#dc2626' : 'var(--color-text-subtle)',
+                                fontWeight: isStale(item.objavljeno) ? 600 : 400,
+                              }}
+                            >
+                              {formatRelative(item.objavljeno)}
+                            </span>
+                          )}
+                          <span>{item.vir}</span>
                         </span>
                       </div>
                       <h2 style={{

@@ -51,8 +51,14 @@ export async function fetchBloomberg() {
 /**
  * Unified fetcher. Currently returns only NewsAPI results.
  * Premium version will merge multiple sources and deduplicate.
+ *
+ * @param {object} opts
+ * @param {string} opts.newsApiKey   NewsAPI key
+ * @param {number} opts.maxAgeHours  Drop articles older than this. Default 24h.
+ *                                   Free NewsAPI tier sometimes returns stale
+ *                                   headlines; this guarantees freshness.
  */
-export async function fetchAll({ newsApiKey } = {}) {
+export async function fetchAll({ newsApiKey, maxAgeHours = 24 } = {}) {
   const all = [];
   if (newsApiKey) {
     const items = await fetchNewsApi({ apiKey: newsApiKey });
@@ -70,5 +76,19 @@ export async function fetchAll({ newsApiKey } = {}) {
     seen.add(a.url);
     return true;
   });
+
+  // Age filter — drop anything older than maxAgeHours.
+  if (maxAgeHours && maxAgeHours > 0) {
+    const cutoff = Date.now() - maxAgeHours * 3600 * 1000;
+    const fresh = unique.filter((a) => {
+      const t = Date.parse(a.publishedAt);
+      return Number.isFinite(t) && t >= cutoff;
+    });
+    const dropped = unique.length - fresh.length;
+    if (dropped > 0) {
+      console.log(`[news] dropped ${dropped} stale (>${maxAgeHours}h), ${fresh.length} fresh`);
+    }
+    return fresh;
+  }
   return unique;
 }

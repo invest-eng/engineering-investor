@@ -108,6 +108,8 @@ async function main() {
       const result = await summarizeByConsensus({ article, providers, edition });
       summaries.push({
         ...result.final,
+        // Enrich with the source article's publishedAt for UI freshness display.
+        objavljeno: article.publishedAt,
         _meta: {
           contributors: result.contributors,
           judge: result.judge || null,
