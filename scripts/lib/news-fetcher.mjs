@@ -78,6 +78,9 @@ export async function fetchAll({ newsApiKey, maxAgeHours = 24 } = {}) {
   });
 
   // Age filter — drop anything older than maxAgeHours.
+  // Free NewsAPI tier delivers a delayed feed, so we may end up with 0 fresh
+  // articles. In that case fall back to the newest available (UI then shows a
+  // red "pred X dnevi" tag so it's visible they're stale).
   if (maxAgeHours && maxAgeHours > 0) {
     const cutoff = Date.now() - maxAgeHours * 3600 * 1000;
     const fresh = unique.filter((a) => {
@@ -85,10 +88,18 @@ export async function fetchAll({ newsApiKey, maxAgeHours = 24 } = {}) {
       return Number.isFinite(t) && t >= cutoff;
     });
     const dropped = unique.length - fresh.length;
-    if (dropped > 0) {
-      console.log(`[news] dropped ${dropped} stale (>${maxAgeHours}h), ${fresh.length} fresh`);
+    if (fresh.length > 0) {
+      if (dropped > 0) console.log(`[news] dropped ${dropped} stale (>${maxAgeHours}h), ${fresh.length} fresh`);
+      return fresh;
     }
-    return fresh;
+    // Fallback: 0 fresh — take the 10 newest available so the briefing
+    // still runs; UI will badge them as stale.
+    console.warn(`[news] 0 fresh within ${maxAgeHours}h — falling back to newest available`);
+    return unique
+      .map((a) => ({ a, t: Date.parse(a.publishedAt) || 0 }))
+      .sort((x, y) => y.t - x.t)
+      .slice(0, 10)
+      .map((x) => x.a);
   }
   return unique;
 }
