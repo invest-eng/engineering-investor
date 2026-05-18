@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import AudioReader from '../premium/AudioReader.jsx';
+import { useAuth } from '../auth/useAuth.js';
 
 const SECTORS = [
   'Tehnologija & AI',
@@ -72,24 +73,47 @@ function IntensityDots({ value }) {
 }
 
 export default function MarketBriefing() {
+  const { isPremium, loading: authLoading } = useAuth();
   const [data, setData] = useState(null);
   const [error, setError] = useState(null);
   const [loading, setLoading] = useState(true);
   const [filter, setFilter] = useState('vse');
   const [expanded, setExpanded] = useState(null);
+  const [tierUsed, setTierUsed] = useState('free'); // 'premium' | 'free'
 
   useEffect(() => {
+    if (authLoading) return; // wait until we know premium status
     const base = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
-    const url = `${base}/data/briefing.json`;
-    fetch(url, { cache: 'no-store' })
-      .then((r) => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return r.json();
-      })
-      .then(setData)
-      .catch((e) => setError(String(e)))
-      .finally(() => setLoading(false));
-  }, []);
+    const primaryUrl = isPremium
+      ? `${base}/data/briefing.json`
+      : `${base}/data/briefing-yesterday.json`;
+    const fallbackUrl = `${base}/data/briefing.json`;
+
+    setLoading(true);
+    setError(null);
+
+    async function load() {
+      try {
+        let res = await fetch(primaryUrl, { cache: 'no-store' });
+        let used = isPremium ? 'premium' : 'free';
+        // Fallback for free users when no yesterday file exists yet (first day):
+        // gracefully serve today's briefing instead of an error.
+        if (!res.ok && !isPremium) {
+          res = await fetch(fallbackUrl, { cache: 'no-store' });
+          used = 'free-fallback';
+        }
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const json = await res.json();
+        setData(json);
+        setTierUsed(used);
+      } catch (e) {
+        setError(String(e));
+      } finally {
+        setLoading(false);
+      }
+    }
+    load();
+  }, [authLoading, isPremium]);
 
   const novice = data?.novice ?? [];
   const filtered = useMemo(
@@ -129,6 +153,58 @@ export default function MarketBriefing() {
             </div>
           )}
         </header>
+
+        {/* Tier indicator */}
+        {!loading && !error && data && (
+          tierUsed === 'premium' ? (
+            <div style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: 8,
+              padding: '0.4rem 0.85rem',
+              background: 'var(--color-highlight-bg)',
+              border: '1px solid var(--color-highlight-border)',
+              borderRadius: 6,
+              fontSize: '0.78rem',
+              color: 'var(--color-warning)',
+              fontWeight: 600,
+              marginBottom: '1.5rem',
+            }}>
+              <span>★</span>
+              <span>Premium pregled — najsvežejše novice</span>
+            </div>
+          ) : (
+            <div style={{
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'space-between',
+              gap: 12,
+              padding: '0.7rem 1rem',
+              background: 'var(--color-surface)',
+              border: '1px solid var(--color-border)',
+              borderRadius: 6,
+              fontSize: '0.8rem',
+              color: 'var(--color-text-muted)',
+              marginBottom: '1.5rem',
+              flexWrap: 'wrap',
+            }}>
+              <span>
+                Brezplačni pregled — z enodnevno zamudo.
+              </span>
+              <a
+                href={(import.meta.env.BASE_URL || '/').replace(/\/$/, '') + '/premium'}
+                style={{
+                  color: 'var(--color-accent)',
+                  fontWeight: 600,
+                  textDecoration: 'none',
+                  whiteSpace: 'nowrap',
+                }}
+              >
+                Spoznaj Premium →
+              </a>
+            </div>
+          )
+        )}
 
         {loading && (
           <div style={{ color: 'var(--color-text-muted)', padding: '2rem 0' }}>

@@ -31,6 +31,7 @@ import { extractJson } from './lib/extract-json.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT_PATH = join(__dirname, '..', 'public', 'data', 'briefing.json');
+const YESTERDAY_PATH = join(__dirname, '..', 'public', 'data', 'briefing-yesterday.json');
 
 // Edition: free version runs 1x/day at 07:30 SLO → use 'morning' framing.
 // --- PREMIUM: this would be selected per cron schedule (morning/noon/evening) ---
@@ -75,6 +76,29 @@ function validateAndCleanup(data, articles) {
   return { ...data, novice };
 }
 
+/**
+ * Rotate yesterday's premium briefing into the free-tier slot before generating
+ * a new one. Result: free users see "previous day's premium" content, premium
+ * users see the just-generated newest briefing.
+ *
+ * Only rotates when the existing briefing.json is from a different (earlier)
+ * date — prevents repeated cron runs on the same day from overwriting the
+ * yesterday file with today's content.
+ */
+async function rotateYesterday() {
+  try {
+    const raw = await readFile(OUT_PATH, 'utf8');
+    const data = JSON.parse(raw);
+    const today = new Date().toISOString().slice(0, 10);
+    if (data?.datum && data.datum !== today) {
+      await writeFile(YESTERDAY_PATH, JSON.stringify(data, null, 2), 'utf8');
+      console.log(`[briefing] rotated previous briefing (${data.datum}) -> briefing-yesterday.json`);
+    }
+  } catch {
+    // No existing briefing or unreadable — first run, no rotation needed.
+  }
+}
+
 async function main() {
   // Step 0: dedupe — multi-cron workflow may trigger us several times per day.
   // First successful run wins; later runs skip cleanly.
@@ -82,6 +106,9 @@ async function main() {
     console.log(`[briefing] today's briefing already exists — skipping (set FORCE_BRIEFING=1 to override)`);
     return;
   }
+
+  // Step 0.5: rotate yesterday's briefing into the free-tier slot.
+  await rotateYesterday();
 
   // Step 1: fetch news.
   const articles = await fetchAll({ newsApiKey: process.env.NEWSAPI_KEY });
