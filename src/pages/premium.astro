@@ -17,7 +17,7 @@ const features = [
   {
     icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>`,
     title: 'Glasovno branje v slovenščini',
-    desc: 'Vse analize in dnevni povzetki na voljo z naravnim slovenskim glasom (Google Cloud TTS). Poslušaj med vožnjo, kuhanjem, treningom.',
+    desc: 'Vse analize in dnevni povzetki na voljo z naravnim slovenskim glasom. Poslušaj med vožnjo, kuhanjem, treningom.',
   },
   {
     icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>`,
@@ -26,8 +26,8 @@ const features = [
   },
   {
     icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>`,
-    title: 'Konsenz treh AI modelov',
-    desc: 'Premium pregled uporablja Gemini, Claude in OpenAI hkrati. V objavo gredo samo novice in dejstva, ki jih potrjujeta vsaj dva modela. Manj napak, več zaupanja.',
+    title: 'Konsenz več neodvisnih virov',
+    desc: 'Premium pregled hkrati preverja več neodvisnih analitičnih virov. V objavo gredo samo novice in dejstva, ki jih potrjujeta vsaj dva vira. Manj napak, več zaupanja.',
   },
   {
     icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>`,
@@ -41,8 +41,8 @@ const comparison = [
   { feature: 'Kalkulatorji (S&P 500, INR vs IBKR, neto vrednost)', free: true, premium: true },
   { feature: 'Dnevni pregled', free: 'včerajšnji', premium: 'aktualni' },
   { feature: 'Pregledi na dan', free: '1×', premium: '3×' },
-  { feature: 'Konsenz treh AI modelov', free: false, premium: true },
-  { feature: 'Glasovno branje (TTS)', free: 'samo demo', premium: 'polno, Google Cloud TTS' },
+  { feature: 'Konsenz več neodvisnih virov', free: false, premium: true },
+  { feature: 'Glasovno branje', free: 'samo demo', premium: 'naravni slovenski glas' },
   { feature: 'Sledilnik osebnih financ', free: false, premium: true },
   { feature: 'Cloud sinhronizacija (telefon + računalnik)', free: false, premium: true },
   { feature: 'Premium poglobljene analize', free: false, premium: true },
@@ -145,7 +145,7 @@ const comparison = [
             <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Aktualni dnevni pregled (3× dnevno)</li>
             <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Sledilnik s sinhronizacijo med napravami</li>
             <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Glasovno branje v slovenščini</li>
-            <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Konsenz treh AI modelov (Gemini + Claude + GPT)</li>
+            <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Konsenz več neodvisnih analitičnih virov</li>
             <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Poglobljene premium analize</li>
             <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Zgodnji dostop (48 h prej)</li>
             <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Brez oglasov, podpora projektu</li>
@@ -155,7 +155,7 @@ const comparison = [
             Kmalu na voljo
           </button>
           <p class="pricing-card__note">
-            Plačilni sistem (Stripe) je v pripravi. Pusti email na <a href={url('/#email-signup')}>domači strani</a>, da te obvestimo ob lansiranju.
+            Plačilni sistem je v pripravi. Pusti email na <a href={url('/#email-signup')}>domači strani</a>, da te obvestimo ob lansiranju.
           </p>
         </div>
       </section>
@@ -179,13 +179,13 @@ const comparison = [
           <details class="faq-item">
             <summary>Kako deluje glasovno branje?</summary>
             <div class="faq-item__body">
-              Vse premium analize in dnevni pregledi imajo gumb "Poslušaj". Klikni in poslušaj naraven slovenski glas (Google Cloud TTS), idealno za vožnjo, treniranje ali kuhanje. Pri brezplačnih analizah lahko poskusiš funkcijo z brskalniškim TTS (osnovna kakovost).
+              Vse premium analize in dnevni pregledi imajo gumb "Poslušaj". Klikni in poslušaj naraven slovenski glas, idealno za vožnjo, treniranje ali kuhanje. Pri brezplačnih analizah lahko poskusiš funkcijo v osnovni kakovosti.
             </div>
           </details>
           <details class="faq-item">
-            <summary>Kaj pomeni "konsenz treh AI modelov"?</summary>
+            <summary>Kaj pomeni "konsenz več neodvisnih virov"?</summary>
             <div class="faq-item__body">
-              Premium dnevni pregled neodvisno generirajo trije AI modeli, Gemini, Claude in OpenAI. V končni pregled gredo samo novice, ki jih izberejo vsaj dva modela, in dejstva, ki jih potrjujeta vsaj dva. Posledica: manj halucinacij, manj enostranskih interpretacij.
+              Premium dnevni pregled neodvisno generira več analitičnih virov hkrati. V končni pregled gredo samo novice, ki jih izberejo vsaj dva vira, in dejstva, ki jih potrjujeta vsaj dva. Posledica: manj napak, manj enostranskih interpretacij, večja zanesljivost.
             </div>
           </details>
           <details class="faq-item">
@@ -197,7 +197,7 @@ const comparison = [
           <details class="faq-item">
             <summary>Kdaj bo premium na voljo?</summary>
             <div class="faq-item__body">
-              Tehnično je sistem pripravljen. Čakam na vključitev plačilnega sistema (Stripe) in pravno registracijo (s.p.). Predvidena aktivacija: nekaj tednov. Pusti email na domači strani, da te obvestimo prvi dan.
+              Tehnično je sistem pripravljen. Čakam na vključitev plačilnega sistema in pravno registracijo. Predvidena aktivacija: nekaj tednov. Pusti email na domači strani, da te obvestimo prvi dan.
             </div>
           </details>
           <details class="faq-item">

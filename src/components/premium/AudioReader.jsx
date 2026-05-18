@@ -128,7 +128,7 @@ export default function AudioReader({
 
   const minutes = Math.max(1, Math.round(resolvedText.length / 900));
   const computedSublabel = sublabel || (src
-    ? 'Slovenski avdio · Google Cloud TTS'
+    ? 'Naravni slovenski glas'
     : `Slovenski avdio · približno ${minutes} min`);
 
   const skipBtnStyle = (disabled) => ({
