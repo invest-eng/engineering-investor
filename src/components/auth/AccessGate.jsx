@@ -3,7 +3,7 @@ import { useAuth } from './useAuth.js';
 import AuthModal from './AuthModal.jsx';
 
 /**
- * AccessGate — wraps children behind auth + premium checks.
+ * AccessGate, wraps children behind auth + premium checks.
  *
  * Props:
  *  - requirePremium: boolean (default false)

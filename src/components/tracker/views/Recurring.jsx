@@ -111,7 +111,7 @@ export default function Recurring({ state, dispatch }) {
       {state.recurring.length === 0 ? (
         <Empty
           title="Še ni ponavljajočih"
-          description="Naročnine, plača, najemnina, krediti — vse, kar se ponavlja na rednih intervalih."
+          description="Naročnine, plača, najemnina, krediti, vse, kar se ponavlja na rednih intervalih."
           action={<Button onClick={() => setEditing(emptyRule())}>+ Novo pravilo</Button>}
         />
       ) : (
@@ -184,14 +184,14 @@ export default function Recurring({ state, dispatch }) {
             <Field label="Račun">
               <Select required value={editing.accountId}
                 onChange={(e) => setEditing({ ...editing, accountId: e.target.value })}>
-                <option value="">— izberi —</option>
+                <option value="">Izberi</option>
                 {accounts.map((a) => <option key={a.id} value={a.id}>{a.name}</option>)}
               </Select>
             </Field>
             <Field label="Kategorija">
               <Select value={editing.categoryId}
                 onChange={(e) => setEditing({ ...editing, categoryId: e.target.value })}>
-                <option value="">— brez —</option>
+                <option value="">Brez</option>
                 {cats.filter((c) => c.type === editing.type).map((c) => <option key={c.id} value={c.id}>{c.name}</option>)}
               </Select>
             </Field>

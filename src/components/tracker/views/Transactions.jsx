@@ -175,7 +175,7 @@ export default function Transactions({ state, dispatch }) {
                       {t.type === 'transfer' && <Tag>Prenos</Tag>}
                     </div>
                     <div style={{ fontSize: '0.78rem', color: 'var(--color-text-subtle)' }}>
-                      {acc?.name || '—'}
+                      {acc?.name || '-'}
                       {t.type === 'transfer' && dst && ` → ${dst.name}`}
                       {t.notes && ` · ${t.notes}`}
                     </div>
@@ -225,7 +225,7 @@ export default function Transactions({ state, dispatch }) {
             <Field label={editing.type === 'transfer' ? 'Iz računa' : 'Račun'}>
               <Select required value={editing.accountId}
                 onChange={(e) => setEditing({ ...editing, accountId: e.target.value })}>
-                <option value="">— izberi račun —</option>
+                <option value="">Izberi račun</option>
                 {accountsAlive.map((a) => <option key={a.id} value={a.id}>{a.name}</option>)}
               </Select>
             </Field>
@@ -234,7 +234,7 @@ export default function Transactions({ state, dispatch }) {
               <Field label="Na račun">
                 <Select required value={editing.transferToAccountId}
                   onChange={(e) => setEditing({ ...editing, transferToAccountId: e.target.value })}>
-                  <option value="">— izberi račun —</option>
+                  <option value="">Izberi račun</option>
                   {accountsAlive.filter((a) => a.id !== editing.accountId).map((a) => <option key={a.id} value={a.id}>{a.name}</option>)}
                 </Select>
               </Field>
@@ -244,7 +244,7 @@ export default function Transactions({ state, dispatch }) {
               <Field label="Kategorija">
                 <Select value={editing.categoryId}
                   onChange={(e) => setEditing({ ...editing, categoryId: e.target.value })}>
-                  <option value="">— brez —</option>
+                  <option value="">Brez</option>
                   {cats.filter((c) => c.type === editing.type).map((c) => <option key={c.id} value={c.id}>{c.name}</option>)}
                 </Select>
               </Field>

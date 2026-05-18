@@ -285,7 +285,7 @@ export default function InrIbkrCalculator() {
             INR vs IBKR
           </h1>
           <p style={{ color: 'var(--color-text-muted)', fontSize: '0.95rem', lineHeight: 1.7, margin: 0, maxWidth: 680 }}>
-            Primerjava stroškov in davkov med Ilirikinim INR računom in Interactive Brokers — z uradnim cenikom Ilirike, FIFO obračunom in validacijo INR limitov.
+            Primerjava stroškov in davkov med Ilirikinim INR računom in Interactive Brokers, z uradnim cenikom Ilirike, FIFO obračunom in validacijo INR limitov.
           </p>
         </header>
 

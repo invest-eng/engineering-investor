@@ -18,7 +18,7 @@ const TIPS = [
   },
   {
     title: 'Avtomatizacija',
-    body: 'Postavi avtomatske prenose na varčevalni in naložbeni račun ob plači. "Pay yourself first" — varčevanje se zgodi pred porabo, ne s tem, kar ostane.',
+    body: 'Postavi avtomatske prenose na varčevalni in naložbeni račun ob plači. "Pay yourself first", varčevanje se zgodi pred porabo, ne s tem, kar ostane.',
   },
   {
     title: 'Naložbe = čas + stroški',
@@ -189,7 +189,7 @@ export default function Insights({ state }) {
       </Card>
 
       <Card>
-        <SectionHeader title="FIRE projekcija" subtitle="Financial Independence — predpostavka 7% letni donos, 4% pravilo" />
+        <SectionHeader title="FIRE projekcija" subtitle="Financial Independence, predpostavka 7% letni donos, 4% pravilo" />
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: '1rem', marginTop: 10 }}>
           <div>
             <div style={{ fontSize: '0.78rem', color: 'var(--color-text-muted)', textTransform: 'uppercase', letterSpacing: '0.05em', fontWeight: 600 }}>FIRE številka</div>
@@ -209,7 +209,7 @@ export default function Insights({ state }) {
           <div>
             <div style={{ fontSize: '0.78rem', color: 'var(--color-text-muted)', textTransform: 'uppercase', letterSpacing: '0.05em', fontWeight: 600 }}>Čas do FIRE</div>
             <div style={{ fontSize: '1.4rem', fontWeight: 700 }}>
-              {yearsToFire == null ? '—' : balance >= fireNumber ? 'Doseženo' : `${yearsToFire.toFixed(0)} let`}
+              {yearsToFire == null ? '-' : balance >= fireNumber ? 'Doseženo' : `${yearsToFire.toFixed(0)} let`}
             </div>
             <div style={{ fontSize: '0.75rem', color: 'var(--color-text-subtle)' }}>predpostavka 7% donos</div>
           </div>

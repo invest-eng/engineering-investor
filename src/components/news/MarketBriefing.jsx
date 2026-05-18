@@ -171,7 +171,7 @@ export default function MarketBriefing() {
               marginBottom: '1.5rem',
             }}>
               <span>★</span>
-              <span>Premium pregled — najsvežejše novice</span>
+              <span>Premium pregled, najsvežejše novice</span>
             </div>
           ) : (
             <div style={{
@@ -190,7 +190,7 @@ export default function MarketBriefing() {
               lineHeight: 1.55,
             }}>
               <span style={{ flex: '1 1 280px' }}>
-                Brezplačni pregled prikazuje včerajšnje novice — z enodnevno zamudo.
+                Brezplačni pregled prikazuje včerajšnje novice z enodnevno zamudo.
                 <strong style={{ color: 'var(--color-text)', fontWeight: 600 }}> Premium prejema novice v realnem času</strong>, takoj ko jih objavijo viri.
               </span>
               <a

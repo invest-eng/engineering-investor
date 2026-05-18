@@ -32,7 +32,7 @@ const features = [
   {
     icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>`,
     title: 'Brez oglasov + zgodnji dostop',
-    desc: 'Premium uporabniki imajo brez oglasov izkušnjo in zgodnji dostop do novih analiz, kalkulatorjev in funkcij — 48 ur pred javno objavo.',
+    desc: 'Premium uporabniki imajo brez oglasov izkušnjo in zgodnji dostop do novih analiz, kalkulatorjev in funkcij, 48 ur pred javno objavo.',
   },
 ];
 
@@ -109,12 +109,12 @@ const comparison = [
                   <td>{row.feature}</td>
                   <td>{
                     row.free === true ? <span class="check">✓</span> :
-                    row.free === false ? <span class="cross">—</span> :
+                    row.free === false ? <span class="cross">-</span> :
                     <span class="value">{row.free}</span>
                   }</td>
                   <td class="compare-table__premium-col">{
                     row.premium === true ? <span class="check premium">✓</span> :
-                    row.premium === false ? <span class="cross">—</span> :
+                    row.premium === false ? <span class="cross">-</span> :
                     <span class="value premium">{row.premium}</span>
                   }</td>
                 </tr>
@@ -173,19 +173,19 @@ const comparison = [
           <details class="faq-item">
             <summary>Kaj točno je sledilnik osebnih financ?</summary>
             <div class="faq-item__body">
-              Profesionalen sledilnik prihodkov, odhodkov, proračuna, ciljev in dolga — z grafi, poročili in FIRE projekcijo. Tvoji podatki ostanejo varno shranjeni v oblaku in se sinhronizirajo med vsemi tvojimi napravami (računalnik, telefon, tablica). Vsak uporabnik vidi samo svoje podatke.
+              Profesionalen sledilnik prihodkov, odhodkov, proračuna, ciljev in dolga, z grafi, poročili in FIRE projekcijo. Tvoji podatki ostanejo varno shranjeni v oblaku in se sinhronizirajo med vsemi tvojimi napravami (računalnik, telefon, tablica). Vsak uporabnik vidi samo svoje podatke.
             </div>
           </details>
           <details class="faq-item">
             <summary>Kako deluje glasovno branje?</summary>
             <div class="faq-item__body">
-              Vse premium analize in dnevni pregledi imajo gumb "Poslušaj". Klikni in poslušaj naraven slovenski glas (Google Cloud TTS) — idealno za vožnjo, treniranje ali kuhanje. Pri brezplačnih analizah lahko poskusiš funkcijo z brskalniškim TTS (osnovna kakovost).
+              Vse premium analize in dnevni pregledi imajo gumb "Poslušaj". Klikni in poslušaj naraven slovenski glas (Google Cloud TTS), idealno za vožnjo, treniranje ali kuhanje. Pri brezplačnih analizah lahko poskusiš funkcijo z brskalniškim TTS (osnovna kakovost).
             </div>
           </details>
           <details class="faq-item">
             <summary>Kaj pomeni "konsenz treh AI modelov"?</summary>
             <div class="faq-item__body">
-              Premium dnevni pregled neodvisno generirajo trije AI modeli — Gemini, Claude in OpenAI. V končni pregled gredo samo novice, ki jih izberejo vsaj dva modela, in dejstva, ki jih potrjujeta vsaj dva. Posledica: manj halucinacij, manj enostranskih interpretacij.
+              Premium dnevni pregled neodvisno generirajo trije AI modeli, Gemini, Claude in OpenAI. V končni pregled gredo samo novice, ki jih izberejo vsaj dva modela, in dejstva, ki jih potrjujeta vsaj dva. Posledica: manj halucinacij, manj enostranskih interpretacij.
             </div>
           </details>
           <details class="faq-item">

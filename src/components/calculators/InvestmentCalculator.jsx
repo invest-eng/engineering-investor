@@ -21,7 +21,7 @@ const ASSETS = {
     cons: ['Valutno tveganje USD/EUR', 'Izpostavljenost samo US trgu', 'Kratkoročna volatilnost'],
     taxNote: 'Kapitalski dobiček: 25% (0–5 let) → 20% (5–10) → 15% (10–15) → 0% (15+ let) po ZDoh-2',
     purchaseCostNote: 'Borzni posrednik: ~0.05–0.15% provizija + SEPA nakazilo 1.20€ (Ilirika/INR) ali ~1.25€ (IBKR)',
-    liquidityNote: 'Borza T+2 poravnava, visok volumen — instant prodaja med delovnikom',
+    liquidityNote: 'Borza T+2 poravnava, visok volumen, instant prodaja med delovnikom',
     riskNote: 'Max drawdown: -56% (2008–09). Dolgoročno (20+ let) historično vedno pozitivno.',
     color: '#2563eb',
   },
@@ -48,7 +48,7 @@ const ASSETS = {
     riskLevel: 3, liquidity: 5,
     purchaseCostPct: 0.10, annualCostPct: 0.07, sellCostPct: 0.10,
     taxType: 'cg_si', hasDividend: false,
-    description: '600 največjih EU podjetij. CAGR ~7.5%. EUR denominacija — brez valutnega tveganja za slovenskega vlagatelja.',
+    description: '600 največjih EU podjetij. CAGR ~7.5%. EUR denominacija, brez valutnega tveganja za slovenskega vlagatelja.',
     pros: ['EUR denominacija (ni valutnega tveganja)', 'Nizki stroški 0.07% TER', 'Široka EU diverzifikacija'],
     cons: ['Nižji donosi kot S&P 500 (historično)', 'Starejša industrija, manj tech', 'Regulatorna bremena EU'],
     taxNote: 'Kapitalski dobiček: 25% → 0% po 15 letih (ZDoh-2)',
@@ -90,13 +90,13 @@ const ASSETS = {
     color: '#ea580c',
   },
   btc: {
-    id: 'btc', name: 'Bitcoin', fullName: 'Bitcoin (BTC) — digitalno zlato',
+    id: 'btc', name: 'Bitcoin', fullName: 'Bitcoin (BTC), digitalno zlato',
     emoji: '₿', category: 'Kripto',
     returnBase: 35.0, returnRange: [-80, 150],
     riskLevel: 5, liquidity: 5,
     purchaseCostPct: 0.5, annualCostPct: 0.0, sellCostPct: 0.5,
     taxType: 'cg_si', hasDividend: false,
-    description: 'Bitcoin — omejena ponudba 21M enot. Zgodovinski CAGR ~60%+ od 2010, konzervativno ~35% naprej. Ekstremna volatilnost.',
+    description: 'Bitcoin, omejena ponudba 21M enot. Zgodovinski CAGR ~60%+ od 2010, konzervativno ~35% naprej. Ekstremna volatilnost.',
     pros: ['Ekstremen potencial donosa', 'Decentraliziran, brez counterparty tveganja', 'Likvidnost 24/7/365', 'Hedge proti monetarni inflaciji'],
     cons: ['Crash -85% možen in se je že zgodil', 'Regulatorno tveganje', 'Brez temeljne vrednosti (brez cash flow)', 'Psihološko izjemno zahtevno'],
     taxNote: 'Kapitalski dobiček: 25% → 0% po 15 letih. FURS: vsaka prodaja je davčni dogodek. Vodite evidenco!',
@@ -242,7 +242,7 @@ function calcSuitability(asset, { age, riskTolerance, years, monthlyIncome, mont
     score -= 15;
     factors.push({ ok: false, text: 'Visok delež dohodka + nizka likvidnost = tveganje' });
   } else if (asset.liquidity >= 4) {
-    factors.push({ ok: true, text: 'Visoka likvidnost — enostaven izhod' });
+    factors.push({ ok: true, text: 'Visoka likvidnost, enostaven izhod' });
   }
 
   const yearsToRetirement = Math.max(0, 65 - age);
@@ -250,7 +250,7 @@ function calcSuitability(asset, { age, riskTolerance, years, monthlyIncome, mont
     score -= 20;
     factors.push({ ok: false, text: 'Preveč tvegano za bližino upokojitve' });
   } else if (age < 35 && asset.riskLevel >= 3) {
-    factors.push({ ok: true, text: 'Mlad vlagatelj — tveganje je primerno' });
+    factors.push({ ok: true, text: 'Mlad vlagatelj, tveganje je primerno' });
   }
 
   if (goal === 'emergency' && asset.liquidity < 4) {
@@ -442,7 +442,7 @@ export default function InvestmentCalculator() {
             Kalkulator investicij
           </h1>
           <p style={{ color: 'var(--color-text-muted)', fontSize: '0.95rem', lineHeight: 1.7, margin: 0, maxWidth: 680 }}>
-            Primerjaj S&P 500, nepremičnine, zlato, BTC in več — z davki SLO, stroški, grafom rasti in osebno oceno primernosti.
+            Primerjaj S&P 500, nepremičnine, zlato, BTC in več, z davki SLO, stroški, grafom rasti in osebno oceno primernosti.
           </p>
         </header>
 
@@ -613,7 +613,7 @@ export default function InvestmentCalculator() {
                 <div style={{ background: S.surface, border: `1px solid ${S.border}`, borderRadius: '8px', padding: '1.5rem' }}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem' }}>
                     <div>
-                      <div style={{ fontWeight: 700, fontSize: '1rem' }}>Rast naložbe — {years} let</div>
+                      <div style={{ fontWeight: 700, fontSize: '1rem' }}>Rast naložbe, {years} let</div>
                       <div style={{ fontSize: '0.72rem', color: S.muted, marginTop: '2px' }}>
                         Vložek: <strong style={{ color: 'var(--color-text)' }}>€{totalInv.toLocaleString()}</strong>
                         {' · '}Način: {mode === 'dca' ? `€${monthlyAmt}/mes DCA` : 'Enkratni vložek'}

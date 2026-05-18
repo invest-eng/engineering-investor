@@ -217,7 +217,7 @@ export default function PremiumBriefing() {
           )}
         </header>
 
-        {/* Edition tabs — minimal */}
+        {/* Edition tabs, minimal */}
         <div style={{
           display: 'flex',
           gap: 0,

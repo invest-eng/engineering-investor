@@ -18,7 +18,7 @@ const {
   article = false,
 } = Astro.props;
 
-const fullTitle = title ? `${title} — ${SITE.name}` : `${SITE.name} | ${SITE.tagline}`;
+const fullTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} | ${SITE.tagline}`;
 const canonicalURL = new URL(Astro.url.pathname, SITE.url);
 ---
 

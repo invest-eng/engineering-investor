@@ -57,7 +57,7 @@ Brez trajnega sporazuma med ZDA in Iranom ostaja geopolitična premija strukturn
 
 ### Energetski sektor
 
-Kljub padcu cen nafte energetski sektor dan prej ni izgubil, temveč je vodil trg z rastjo **+1.47%**. To odraža dejstvo, da energetske delnice niso enačaj z nafto — podjetja so profitirala od visokih cen v zadnjih tednih, njihove zaloge pa ostajajo visoke.
+Kljub padcu cen nafte energetski sektor dan prej ni izgubil, temveč je vodil trg z rastjo **+1.47%**. To odraža dejstvo, da energetske delnice niso enačaj z nafto, podjetja so profitirala od visokih cen v zadnjih tednih, njihove zaloge pa ostajajo visoke.
 
 Zdravstvo in industrija sta bila pod pritiskom, kar odraža rotacijo kapitala.
 

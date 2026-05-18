@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 
 /**
- * AudioReader — Slovenian voice reader with 5s skip controls.
+ * AudioReader, Slovenian voice reader with 5s skip controls.
  *
  * Reads either:
  *  - explicit `text` prop, or

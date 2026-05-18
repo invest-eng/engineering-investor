@@ -90,7 +90,7 @@ export default function Dashboard({ state, onNav }) {
       <div style={{ display: 'flex', flexDirection: 'column', gap: '1.25rem' }}>
         <Empty
           title="Začni s prvo transakcijo"
-          description="Vnesi svoje prihodke in odhodke. Vse podatke hranimo lokalno v tvojem brskalniku — ničesar ne pošiljamo na strežnik."
+          description="Vnesi svoje prihodke in odhodke. Vse podatke hranimo lokalno v tvojem brskalniku, ničesar ne pošiljamo na strežnik."
           action={<Button onClick={() => onNav('transakcije')}>+ Vnesi prvo transakcijo</Button>}
         />
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: '1rem' }}>
@@ -138,7 +138,7 @@ export default function Dashboard({ state, onNav }) {
       {/* Cash flow */}
       {(incomesForFlow.length > 0 || categorySpend.length > 0) && (
         <Card>
-          <SectionHeader title="Denarni tok" subtitle="Ta mesec — od prihodkov do kategorij odhodkov" />
+          <SectionHeader title="Denarni tok" subtitle="Ta mesec, od prihodkov do kategorij odhodkov" />
           <FlowChart incomes={incomesForFlow} expenses={categorySpend} height={Math.max(260, Math.max(incomesForFlow.length, categorySpend.length) * 28)} />
           <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: 12, fontSize: '0.8rem', color: 'var(--color-text-muted)' }}>
             <div>
@@ -213,7 +213,7 @@ export default function Dashboard({ state, onNav }) {
                       <strong style={{ fontSize: '0.9rem' }}>{t.payee || cat?.name || 'Transakcija'}</strong>
                     </div>
                     <div style={{ fontSize: '0.75rem', color: 'var(--color-text-subtle)' }}>
-                      {fmtDate(t.date)} · {acc?.name || '—'} {cat ? `· ${cat.name}` : ''}
+                      {fmtDate(t.date)} · {acc?.name || '-'} {cat ? `· ${cat.name}` : ''}
                     </div>
                   </div>
                   <div style={{

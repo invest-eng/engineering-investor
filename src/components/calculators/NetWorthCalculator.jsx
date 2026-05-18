@@ -453,12 +453,12 @@ export default function NetWorthCalculator() {
               <Kpi
                 label="Likvidno"
                 value={fmtEur(totals.liquid)}
-                hint={totals.totalAssets > 0 ? `${((totals.liquid / totals.totalAssets) * 100).toFixed(0)}% sredstev` : '—'}
+                hint={totals.totalAssets > 0 ? `${((totals.liquid / totals.totalAssets) * 100).toFixed(0)}% sredstev` : '-'}
               />
               <Kpi
                 label="Nelikvidno"
                 value={fmtEur(totals.illiquid)}
-                hint={totals.totalAssets > 0 ? `${((totals.illiquid / totals.totalAssets) * 100).toFixed(0)}% sredstev` : '—'}
+                hint={totals.totalAssets > 0 ? `${((totals.illiquid / totals.totalAssets) * 100).toFixed(0)}% sredstev` : '-'}
               />
               <Kpi
                 label="Razmerje dolga"
