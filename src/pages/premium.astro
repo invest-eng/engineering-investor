@@ -6,7 +6,7 @@ import { url } from '../utils/url';
 const features = [
   {
     icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>`,
-    title: 'Realnočasni dnevni pregled',
+    title: 'Aktualni dnevni pregled',
     desc: 'Premium prejema najsvežejše novice istega dne, ne ena dan kasneje. Trije ažurirani pregledi (jutro, opoldne, večer) pokrijejo cel trgovinski dan.',
   },
   {
@@ -39,7 +39,7 @@ const features = [
 const comparison = [
   { feature: 'Brezplačne analize', free: true, premium: true },
   { feature: 'Kalkulatorji (S&P 500, INR vs IBKR, neto vrednost)', free: true, premium: true },
-  { feature: 'Dnevni pregled', free: 'včerajšnji', premium: 'realnočasni' },
+  { feature: 'Dnevni pregled', free: 'včerajšnji', premium: 'aktualni' },
   { feature: 'Pregledi na dan', free: '1×', premium: '3×' },
   { feature: 'Konsenz treh AI modelov', free: false, premium: true },
   { feature: 'Glasovno branje (TTS)', free: 'samo demo', premium: 'polno, Google Cloud TTS' },
@@ -53,7 +53,7 @@ const comparison = [
 
 <BaseLayout
   title="Premium"
-  description="Realnočasni dnevni pregled, sledilnik osebnih financ s sinhronizacijo, glasovno branje v slovenščini in poglobljene analize. Za resne slovenske vlagatelje."
+  description="Aktualni dnevni pregled, sledilnik osebnih financ s sinhronizacijo, glasovno branje v slovenščini in poglobljene analize. Za resne slovenske vlagatelje."
 >
   <div class="premium-page">
     <div class="container">
@@ -68,7 +68,7 @@ const comparison = [
         </div>
         <h1 class="premium-hero__title">Sveže novice. Globje analize.<br/>Tvoj denar pod nadzorom.</h1>
         <p class="premium-hero__subtitle">
-          Premium ti prinese dnevni pregled v realnem času, sledilnik osebnih financ s
+          Premium ti prinese aktualni dnevni pregled, sledilnik osebnih financ s
           sinhronizacijo med napravami in poglobljene analize z naravnim slovenskim glasom.
           Vse, kar potrebuje aktivni vlagatelj.
         </p>
@@ -142,7 +142,7 @@ const comparison = [
           </p>
 
           <ul class="pricing-card__features">
-            <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Realnočasni dnevni pregled (3× dnevno)</li>
+            <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Aktualni dnevni pregled (3× dnevno)</li>
             <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Sledilnik s sinhronizacijo med napravami</li>
             <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Glasovno branje v slovenščini</li>
             <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Konsenz treh AI modelov (Gemini + Claude + GPT)</li>

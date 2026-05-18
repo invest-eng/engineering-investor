@@ -191,7 +191,7 @@ export default function MarketBriefing() {
             }}>
               <span style={{ flex: '1 1 280px' }}>
                 Brezplačni pregled prikazuje včerajšnje novice z enodnevno zamudo.
-                <strong style={{ color: 'var(--color-text)', fontWeight: 600 }}> Premium prejema novice v realnem času</strong>, takoj ko jih objavijo viri.
+                <strong style={{ color: 'var(--color-text)', fontWeight: 600 }}> Premium prejema aktualne novice</strong>, takoj ko jih objavijo viri.
               </span>
               <a
                 href={(import.meta.env.BASE_URL || '/').replace(/\/$/, '') + '/premium'}
