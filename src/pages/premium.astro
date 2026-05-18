@@ -1,84 +1,85 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Disclaimer from '../components/ui/Disclaimer.astro';
-import Badge from '../components/ui/Badge.astro';
+import { url } from '../utils/url';
 
 const features = [
   {
-    icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>`,
-    title: 'Poglobljene analize',
-    desc: 'Daljši, bolj detajlni breakdown članki z več konteksta, podatkov in primerjav.',
-  },
-  {
-    icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>`,
-    title: 'Tedenski povzetki',
-    desc: 'Vsak teden strukturiran pregled najpomembnejših makro in tržnih dogajanj.',
+    icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>`,
+    title: 'Realnočasni dnevni pregled',
+    desc: 'Premium prejema najsvežejše novice istega dne, ne ena dan kasneje. Trije ažurirani pregledi (jutro, opoldne, večer) pokrijejo cel trgovinski dan.',
   },
   {
     icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>`,
-    title: 'Tržni razredi v kontekstu',
-    desc: 'Vsak makro razvoj razložen skozi prizmo delnic, obveznic, valut, zlata in Bitcoina.',
+    title: 'Sledilnik osebnih financ',
+    desc: 'Profesionalen sledilnik prihodkov, odhodkov, proračuna in ciljev. Tvoji podatki se sinhronizirajo med računalnikom in telefonom prek varnega oblaka.',
   },
   {
-    icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="16"/><line x1="8" y1="12" x2="16" y2="12"/></svg>`,
-    title: 'Zgodnji dostop',
-    desc: 'Nekateri premium članki dostopni 48h pred brezplačno objavo.',
+    icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>`,
+    title: 'Glasovno branje v slovenščini',
+    desc: 'Vse analize in dnevni povzetki na voljo z naravnim slovenskim glasom (Google Cloud TTS). Poslušaj med vožnjo, kuhanjem, treningom.',
+  },
+  {
+    icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>`,
+    title: 'Poglobljene premium analize',
+    desc: 'Daljši, bolj detajlni breakdown članki s konkretnimi podatki, zgodovinsko primerjavo in razlago vpliva na delnice, obveznice, valute, surovine.',
+  },
+  {
+    icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>`,
+    title: 'Konsenz treh AI modelov',
+    desc: 'Premium pregled uporablja Gemini, Claude in OpenAI hkrati. V objavo gredo samo novice in dejstva, ki jih potrjujeta vsaj dva modela. Manj napak, več zaupanja.',
+  },
+  {
+    icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>`,
+    title: 'Brez oglasov + zgodnji dostop',
+    desc: 'Premium uporabniki imajo brez oglasov izkušnjo in zgodnji dostop do novih analiz, kalkulatorjev in funkcij — 48 ur pred javno objavo.',
   },
 ];
 
-const lockedPreviews = [
-  {
-    category: 'Makro',
-    title: 'Fed vs. ECB: divergenca monetarne politike in kaj to pomeni za EUR/USD',
-    desc: 'Celovita primerjalna analiza pristopa ameriške in evropske centralne banke ter implikacije za evropske vlagatelje.',
-    readingTime: 12,
-  },
-  {
-    category: 'Geopolitika',
-    title: 'Bližnjevzhodni konflikt in nafta: zakaj cena ostaja pod 90 USD',
-    desc: 'Razlaga, zakaj geopolitična napetost tokrat ni "prevajala" v cene nafte in kaj to pove o ponudbi in povpraševanju.',
-    readingTime: 10,
-  },
-  {
-    category: 'Delnice',
-    title: 'Vrednostne vs. rastne delnice: katera strategija zmaga pri visokih obrestih',
-    desc: 'Analiza historičnih podatkov in razlaga, zakaj so obrestne mere tako ključni dejavnik pri vrednotenju.',
-    readingTime: 11,
-  },
+const comparison = [
+  { feature: 'Brezplačne analize', free: true, premium: true },
+  { feature: 'Kalkulatorji (S&P 500, INR vs IBKR, neto vrednost)', free: true, premium: true },
+  { feature: 'Dnevni pregled', free: 'včerajšnji', premium: 'realnočasni' },
+  { feature: 'Pregledi na dan', free: '1×', premium: '3×' },
+  { feature: 'Konsenz treh AI modelov', free: false, premium: true },
+  { feature: 'Glasovno branje (TTS)', free: 'samo demo', premium: 'polno, Google Cloud TTS' },
+  { feature: 'Sledilnik osebnih financ', free: false, premium: true },
+  { feature: 'Cloud sinhronizacija (telefon + računalnik)', free: false, premium: true },
+  { feature: 'Premium poglobljene analize', free: false, premium: true },
+  { feature: 'Zgodnji dostop do nove vsebine', free: false, premium: '48 h prej' },
+  { feature: 'Oglasi', free: 'brez (zdaj)', premium: 'brez' },
 ];
 ---
 
 <BaseLayout
   title="Premium"
-  description="Poglobljene analize, tedenski povzetki in ekskluzivna vsebina za resne finančne navdušence."
+  description="Realnočasni dnevni pregled, sledilnik osebnih financ s sinhronizacijo, glasovno branje v slovenščini in poglobljene analize. Za resne slovenske vlagatelje."
 >
   <div class="premium-page">
     <div class="container">
 
       <!-- Hero -->
-      <header class="premium-hero fade-in">
-        <div class="premium-hero__label">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+      <header class="premium-hero">
+        <div class="premium-hero__badge">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
             <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
           </svg>
           Engineering Investor Premium
         </div>
-        <h1 class="premium-hero__title">
-          Več konteksta.<br />Bolj poglobljeno.
-        </h1>
+        <h1 class="premium-hero__title">Sveže novice. Globje analize.<br/>Tvoj denar pod nadzorom.</h1>
         <p class="premium-hero__subtitle">
-          Za tiste, ki želijo iti globlje od povprečne novice.
-          Premium vsebina prinaša strukturirane analize, tedenski pregled dogajanja
-          in ekskluzivne breakdown članke, vse v slovenščini.
+          Premium ti prinese dnevni pregled v realnem času, sledilnik osebnih financ s
+          sinhronizacijo med napravami in poglobljene analize z naravnim slovenskim glasom.
+          Vse, kar potrebuje aktivni vlagatelj.
         </p>
         <p class="premium-hero__disclaimer">
-          Vse vsebine so izključno izobraževalne narave. Nič ni finančni nasvet.
+          Vsebine so izključno izobraževalne. Nič ni finančni nasvet.
         </p>
       </header>
 
       <!-- Features -->
-      <section class="premium-features fade-in">
-        <h2 class="premium-features__title">Kaj dobiš</h2>
+      <section class="premium-features">
+        <h2 class="premium-section__title">Kaj dobiš</h2>
         <div class="premium-features__grid">
           {features.map((f) => (
             <div class="feature-card">
@@ -90,78 +91,121 @@ const lockedPreviews = [
         </div>
       </section>
 
-      <!-- Locked previews -->
-      <section class="premium-previews fade-in">
-        <h2 class="premium-previews__title">Primeri premium vsebin</h2>
-        <p class="premium-previews__subtitle">Pokukaj v to, kar te čaka.</p>
-        <div class="premium-previews__grid">
-          {lockedPreviews.map((item) => (
-            <div class="locked-card">
-              <div class="locked-card__meta">
-                <Badge category={item.category} size="sm" />
-                <span class="locked-card__time">{item.readingTime} min</span>
-              </div>
-              <h3 class="locked-card__title">{item.title}</h3>
-              <p class="locked-card__desc">{item.desc}</p>
-              <div class="locked-card__lock" aria-label="Zaklenjeno. Na voljo s premium naročnino.">
-                <div class="locked-card__lock-overlay">
-                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                    <rect x="3" y="11" width="18" height="11" rx="2" ry="2"/>
-                    <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
-                  </svg>
-                  <span>Premium vsebina</span>
-                </div>
-              </div>
-            </div>
-          ))}
+      <!-- Comparison table -->
+      <section class="premium-compare">
+        <h2 class="premium-section__title">Brezplačno vs Premium</h2>
+        <div class="compare-table-wrap">
+          <table class="compare-table">
+            <thead>
+              <tr>
+                <th>Funkcija</th>
+                <th>Brezplačno</th>
+                <th class="compare-table__premium-col">Premium</th>
+              </tr>
+            </thead>
+            <tbody>
+              {comparison.map((row) => (
+                <tr>
+                  <td>{row.feature}</td>
+                  <td>{
+                    row.free === true ? <span class="check">✓</span> :
+                    row.free === false ? <span class="cross">—</span> :
+                    <span class="value">{row.free}</span>
+                  }</td>
+                  <td class="compare-table__premium-col">{
+                    row.premium === true ? <span class="check premium">✓</span> :
+                    row.premium === false ? <span class="cross">—</span> :
+                    <span class="value premium">{row.premium}</span>
+                  }</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
         </div>
       </section>
 
       <!-- Pricing -->
-      <section class="premium-pricing fade-in">
+      <section class="premium-pricing">
         <div class="pricing-card">
-          <div class="pricing-card__header">
-            <div class="pricing-card__badge">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-                <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-              </svg>
-              Premium
-            </div>
-            <div class="pricing-card__price">
-              <span class="pricing-card__amount">€9</span>
-              <span class="pricing-card__period">/ mesec</span>
-            </div>
-            <p class="pricing-card__desc">
-              Dostop do vseh premium vsebin, tedenskih povzetkov in globokih analiz.
-            </p>
+          <div class="pricing-card__badge">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+            </svg>
+            Premium naročnina
           </div>
+          <div class="pricing-card__price">
+            <span class="pricing-card__amount">€9</span>
+            <span class="pricing-card__period">/ mesec</span>
+          </div>
+          <p class="pricing-card__desc">
+            Brez vezave. Odpoveš lahko kadarkoli, v enem kliku.
+          </p>
 
           <ul class="pricing-card__features">
-            {[
-              'Vse brezplačne analize',
-              'Poglobljene premium analize',
-              'Tedenski tržni povzetek',
-              'Zgodnji dostop do novih vsebin',
-              'Brez oglasov',
-              'Podpora razvoju projekta',
-            ].map((feat) => (
-              <li class="pricing-card__feature">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                  <polyline points="20 6 9 17 4 12"/>
-                </svg>
-                {feat}
-              </li>
-            ))}
+            <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Realnočasni dnevni pregled (3× dnevno)</li>
+            <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Sledilnik s sinhronizacijo med napravami</li>
+            <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Glasovno branje v slovenščini</li>
+            <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Konsenz treh AI modelov (Gemini + Claude + GPT)</li>
+            <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Poglobljene premium analize</li>
+            <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Zgodnji dostop (48 h prej)</li>
+            <li><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Brez oglasov, podpora projektu</li>
           </ul>
 
-          <div class="pricing-card__cta">
-            <button class="pricing-card__btn" type="button" disabled>
-              Kmalu na voljo
-            </button>
-            <p class="pricing-card__note">
-              Plačilni sistem je v pripravi. Pustite email na domači strani in vas obvestimo.
-            </p>
-          </div>
+          <button class="pricing-card__btn" type="button" disabled>
+            Kmalu na voljo
+          </button>
+          <p class="pricing-card__note">
+            Plačilni sistem (Stripe) je v pripravi. Pusti email na <a href={url('/#email-signup')}>domači strani</a>, da te obvestimo ob lansiranju.
+          </p>
+        </div>
+      </section>
+
+      <!-- FAQ -->
+      <section class="premium-faq">
+        <h2 class="premium-section__title">Pogosta vprašanja</h2>
+        <div class="faq-list">
+          <details class="faq-item">
+            <summary>Kako sveže so novice v premium pregledu?</summary>
+            <div class="faq-item__body">
+              Premium prejme novice <strong>v realnem času</strong>, ko jih objavijo viri (Reuters, Bloomberg, FT, AP). Brezplačni pregled prikaže iste novice <strong>en dan kasneje</strong>. Premium ima tudi <strong>tri izdaje na dan</strong>: jutranjo, opoldansko in večerno.
+            </div>
+          </details>
+          <details class="faq-item">
+            <summary>Kaj točno je sledilnik osebnih financ?</summary>
+            <div class="faq-item__body">
+              Profesionalen sledilnik prihodkov, odhodkov, proračuna, ciljev in dolga — z grafi, poročili in FIRE projekcijo. Tvoji podatki ostanejo varno shranjeni v oblaku in se sinhronizirajo med vsemi tvojimi napravami (računalnik, telefon, tablica). Vsak uporabnik vidi samo svoje podatke.
+            </div>
+          </details>
+          <details class="faq-item">
+            <summary>Kako deluje glasovno branje?</summary>
+            <div class="faq-item__body">
+              Vse premium analize in dnevni pregledi imajo gumb "Poslušaj". Klikni in poslušaj naraven slovenski glas (Google Cloud TTS) — idealno za vožnjo, treniranje ali kuhanje. Pri brezplačnih analizah lahko poskusiš funkcijo z brskalniškim TTS (osnovna kakovost).
+            </div>
+          </details>
+          <details class="faq-item">
+            <summary>Kaj pomeni "konsenz treh AI modelov"?</summary>
+            <div class="faq-item__body">
+              Premium dnevni pregled neodvisno generirajo trije AI modeli — Gemini, Claude in OpenAI. V končni pregled gredo samo novice, ki jih izberejo vsaj dva modela, in dejstva, ki jih potrjujeta vsaj dva. Posledica: manj halucinacij, manj enostranskih interpretacij.
+            </div>
+          </details>
+          <details class="faq-item">
+            <summary>Kakšna je razlika med premium in brezplačnimi analizami?</summary>
+            <div class="faq-item__body">
+              Brezplačne analize: 5–8 minut branja, fokus na enem dogodku. Premium analize: 10–15 minut, večplastna razlaga z zgodovinsko primerjavo, vpliv na vse razrede sredstev (delnice, obveznice, valute, surovine, krypto) in konkretne posledice za slovenskega dolgoročnega vlagatelja.
+            </div>
+          </details>
+          <details class="faq-item">
+            <summary>Kdaj bo premium na voljo?</summary>
+            <div class="faq-item__body">
+              Tehnično je sistem pripravljen. Čakam na vključitev plačilnega sistema (Stripe) in pravno registracijo (s.p.). Predvidena aktivacija: nekaj tednov. Pusti email na domači strani, da te obvestimo prvi dan.
+            </div>
+          </details>
+          <details class="faq-item">
+            <summary>Lahko odpovem naročnino?</summary>
+            <div class="faq-item__body">
+              Da, kadarkoli. Brez vezave, brez vprašanj. Odpoved v enem kliku iz tvojega računa. Ohraniš dostop do konca obračunskega obdobja.
+            </div>
+          </details>
         </div>
       </section>
 
@@ -178,51 +222,58 @@ const lockedPreviews = [
     padding: var(--space-2xl) 0 var(--space-3xl);
   }
 
-  /* Hero */
-  .premium-hero {
-    max-width: 640px;
-    margin-bottom: var(--space-3xl);
-  }
-
-  .premium-hero__label {
-    display: inline-flex;
-    align-items: center;
-    gap: var(--space-sm);
-    font-size: var(--text-sm);
-    font-weight: 600;
-    color: #D97706;
-    background: #FFF7ED;
-    border: 1px solid #FDE68A;
-    border-radius: var(--radius-full);
-    padding: 4px 14px;
+  /* Section title (shared) */
+  .premium-section__title {
+    font-size: var(--text-2xl);
+    font-weight: 700;
+    letter-spacing: -0.02em;
     margin-bottom: var(--space-xl);
   }
 
-  [data-theme="dark"] .premium-hero__label {
-    background: #2A1800;
-    color: #FDBA74;
-    border-color: #92400E;
+  /* Hero */
+  .premium-hero {
+    max-width: 680px;
+    margin-bottom: var(--space-3xl);
+    padding-bottom: var(--space-xl);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .premium-hero__badge {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-sm);
+    font-size: var(--text-xs);
+    font-weight: 600;
+    color: var(--color-warning);
+    background: var(--color-highlight-bg);
+    border: 1px solid var(--color-highlight-border);
+    border-radius: var(--radius-full);
+    padding: 4px 12px;
+    margin-bottom: var(--space-lg);
+    letter-spacing: 0.02em;
   }
 
   .premium-hero__title {
-    font-size: clamp(2rem, 4vw, 3rem);
+    font-size: clamp(2rem, 4vw, 2.75rem);
     font-weight: 700;
     line-height: 1.15;
-    letter-spacing: -0.03em;
-    margin-bottom: var(--space-lg);
+    letter-spacing: -0.025em;
+    margin-bottom: var(--space-md);
+    color: var(--color-text);
   }
 
   .premium-hero__subtitle {
-    font-size: var(--text-lg);
+    font-size: var(--text-base);
     color: var(--color-text-muted);
-    line-height: 1.7;
+    line-height: 1.75;
     margin-bottom: var(--space-md);
   }
 
   .premium-hero__disclaimer {
-    font-size: var(--text-sm);
+    font-size: var(--text-xs);
     color: var(--color-text-subtle);
     font-style: italic;
+    margin: 0;
   }
 
   /* Features */
@@ -230,23 +281,16 @@ const lockedPreviews = [
     margin-bottom: var(--space-3xl);
   }
 
-  .premium-features__title {
-    font-size: var(--text-2xl);
-    font-weight: 700;
-    letter-spacing: -0.02em;
-    margin-bottom: var(--space-xl);
-  }
-
   .premium-features__grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: var(--space-lg);
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-md);
   }
 
   .feature-card {
     background: var(--color-surface);
     border: 1px solid var(--color-border);
-    border-radius: var(--radius-lg);
+    border-radius: 8px;
     padding: var(--space-xl);
   }
 
@@ -254,11 +298,11 @@ const lockedPreviews = [
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 44px;
-    height: 44px;
+    width: 40px;
+    height: 40px;
     background: var(--color-accent-bg);
     border: 1px solid var(--color-accent-border);
-    border-radius: var(--radius-md);
+    border-radius: 6px;
     color: var(--color-accent);
     margin-bottom: var(--space-md);
   }
@@ -267,128 +311,93 @@ const lockedPreviews = [
     font-size: var(--text-base);
     font-weight: 600;
     margin-bottom: var(--space-sm);
+    letter-spacing: -0.01em;
   }
 
   .feature-card__desc {
     font-size: var(--text-sm);
     color: var(--color-text-muted);
     line-height: 1.7;
+    margin: 0;
   }
 
-  /* Previews */
-  .premium-previews {
+  /* Comparison table */
+  .premium-compare {
     margin-bottom: var(--space-3xl);
   }
 
-  .premium-previews__title {
-    font-size: var(--text-2xl);
-    font-weight: 700;
-    letter-spacing: -0.02em;
-    margin-bottom: var(--space-sm);
-  }
-
-  .premium-previews__subtitle {
-    font-size: var(--text-base);
-    color: var(--color-text-muted);
-    margin-bottom: var(--space-xl);
-  }
-
-  .premium-previews__grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: var(--space-lg);
-  }
-
-  /* Locked card */
-  .locked-card {
-    background: var(--color-surface);
+  .compare-table-wrap {
+    overflow-x: auto;
     border: 1px solid var(--color-border);
-    border-radius: var(--radius-lg);
-    padding: var(--space-xl);
-    position: relative;
-    overflow: hidden;
+    border-radius: 8px;
   }
 
-  .locked-card__meta {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: var(--space-md);
-  }
-
-  .locked-card__time {
-    font-size: var(--text-xs);
-    color: var(--color-text-subtle);
-  }
-
-  .locked-card__title {
-    font-size: var(--text-base);
-    font-weight: 700;
-    line-height: 1.3;
-    margin-bottom: var(--space-sm);
-    filter: blur(3px);
-    user-select: none;
-  }
-
-  .locked-card__desc {
+  .compare-table {
+    width: 100%;
+    border-collapse: collapse;
     font-size: var(--text-sm);
-    color: var(--color-text-muted);
-    line-height: 1.7;
-    filter: blur(4px);
-    user-select: none;
-  }
-
-  .locked-card__lock {
-    position: absolute;
-    inset: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: linear-gradient(to bottom, transparent 0%, var(--color-surface) 50%);
-  }
-
-  .locked-card__lock-overlay {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: var(--space-sm);
     background: var(--color-surface);
-    border: 1px solid var(--color-border);
-    border-radius: var(--radius-md);
-    padding: var(--space-md) var(--space-lg);
-    box-shadow: var(--shadow-md);
   }
 
-  .locked-card__lock-overlay span {
+  .compare-table th,
+  .compare-table td {
+    text-align: left;
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--color-border);
+    vertical-align: middle;
+  }
+
+  .compare-table th {
     font-size: var(--text-xs);
     font-weight: 600;
-    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-text-subtle);
+    background: var(--color-bg);
   }
 
-  .locked-card__lock-overlay svg {
+  .compare-table tr:last-child td {
+    border-bottom: none;
+  }
+
+  .compare-table__premium-col {
+    background: var(--color-highlight-bg);
+    border-left: 1px solid var(--color-highlight-border);
+  }
+
+  .compare-table .check {
+    color: var(--color-success);
+    font-weight: 700;
+  }
+  .compare-table .check.premium {
+    color: var(--color-warning);
+  }
+  .compare-table .cross {
+    color: var(--color-text-subtle);
+  }
+  .compare-table .value {
+    font-size: 0.82rem;
     color: var(--color-text-muted);
+  }
+  .compare-table .value.premium {
+    color: var(--color-warning);
+    font-weight: 500;
   }
 
   /* Pricing */
   .premium-pricing {
     display: flex;
     justify-content: center;
-    margin-bottom: var(--space-2xl);
+    margin-bottom: var(--space-3xl);
   }
 
   .pricing-card {
     background: var(--color-surface);
-    border: 1px solid var(--color-border);
-    border-radius: var(--radius-lg);
+    border: 2px solid var(--color-highlight-border);
+    border-radius: 10px;
     padding: var(--space-2xl);
-    max-width: 420px;
+    max-width: 460px;
     width: 100%;
-  }
-
-  .pricing-card__header {
-    margin-bottom: var(--space-xl);
-    padding-bottom: var(--space-xl);
-    border-bottom: 1px solid var(--color-border);
   }
 
   .pricing-card__badge {
@@ -396,35 +405,32 @@ const lockedPreviews = [
     align-items: center;
     gap: 6px;
     font-size: var(--text-xs);
-    font-weight: 600;
-    color: #D97706;
-    background: #FFF7ED;
+    font-weight: 700;
+    color: var(--color-warning);
+    background: var(--color-highlight-bg);
     border-radius: var(--radius-full);
-    padding: 3px 10px;
+    padding: 4px 12px;
     margin-bottom: var(--space-lg);
-  }
-
-  [data-theme="dark"] .pricing-card__badge {
-    background: #2A1800;
-    color: #FDBA74;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
   }
 
   .pricing-card__price {
     display: flex;
     align-items: baseline;
     gap: var(--space-sm);
-    margin-bottom: var(--space-sm);
+    margin-bottom: var(--space-xs);
   }
 
   .pricing-card__amount {
-    font-size: 3rem;
+    font-size: 2.75rem;
     font-weight: 700;
     letter-spacing: -0.04em;
     color: var(--color-text);
   }
 
   .pricing-card__period {
-    font-size: var(--text-lg);
+    font-size: var(--text-base);
     color: var(--color-text-muted);
   }
 
@@ -432,49 +438,44 @@ const lockedPreviews = [
     font-size: var(--text-sm);
     color: var(--color-text-muted);
     line-height: 1.6;
-    margin: 0;
+    margin-bottom: var(--space-xl);
   }
 
   .pricing-card__features {
     list-style: none;
     display: flex;
     flex-direction: column;
-    gap: var(--space-md);
+    gap: var(--space-sm);
     margin-bottom: var(--space-xl);
+    padding: 0;
   }
 
-  .pricing-card__feature {
+  .pricing-card__features li {
     display: flex;
     align-items: center;
-    gap: var(--space-md);
+    gap: var(--space-sm);
     font-size: var(--text-sm);
     color: var(--color-text);
   }
 
-  .pricing-card__feature svg {
+  .pricing-card__features svg {
     color: var(--color-success);
     flex-shrink: 0;
-  }
-
-  .pricing-card__cta {
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-sm);
   }
 
   .pricing-card__btn {
     width: 100%;
     font-family: var(--font-sans);
     font-size: var(--text-base);
-    font-weight: 500;
+    font-weight: 600;
     color: white;
     background: var(--color-accent);
     border: none;
-    border-radius: var(--radius-sm);
-    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    padding: 0.85rem 1.5rem;
     cursor: not-allowed;
-    opacity: 0.6;
-    transition: background-color var(--transition-fast);
+    opacity: 0.55;
+    margin-bottom: var(--space-sm);
   }
 
   .pricing-card__note {
@@ -485,21 +486,84 @@ const lockedPreviews = [
     margin: 0;
   }
 
+  .pricing-card__note a {
+    color: var(--color-accent);
+    text-decoration: underline;
+  }
+
+  /* FAQ */
+  .premium-faq {
+    max-width: 760px;
+    margin-bottom: var(--space-2xl);
+  }
+
+  .faq-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+  }
+
+  .faq-item {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: 0;
+  }
+
+  .faq-item summary {
+    padding: 1rem 1.25rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: var(--color-text);
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .faq-item summary::after {
+    content: '+';
+    font-size: 1.4rem;
+    line-height: 1;
+    color: var(--color-text-subtle);
+    transition: transform 0.15s;
+  }
+
+  .faq-item[open] summary::after {
+    transform: rotate(45deg);
+  }
+
+  .faq-item__body {
+    padding: 0 1.25rem 1.25rem;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+    line-height: 1.75;
+  }
+
+  .faq-item__body strong {
+    color: var(--color-text);
+    font-weight: 600;
+  }
+
   /* Responsive */
   @media (max-width: 1024px) {
     .premium-features__grid {
       grid-template-columns: repeat(2, 1fr);
     }
-
-    .premium-previews__grid {
-      grid-template-columns: repeat(2, 1fr);
-    }
   }
 
   @media (max-width: 640px) {
-    .premium-features__grid,
-    .premium-previews__grid {
+    .premium-features__grid {
       grid-template-columns: 1fr;
+    }
+    .compare-table th,
+    .compare-table td {
+      padding: 0.6rem 0.7rem;
+      font-size: 0.78rem;
+    }
+    .pricing-card {
+      padding: var(--space-xl);
     }
   }
 </style>

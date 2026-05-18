@@ -179,17 +179,19 @@ export default function MarketBriefing() {
               alignItems: 'center',
               justifyContent: 'space-between',
               gap: 12,
-              padding: '0.7rem 1rem',
+              padding: '0.85rem 1rem',
               background: 'var(--color-surface)',
               border: '1px solid var(--color-border)',
               borderRadius: 6,
-              fontSize: '0.8rem',
+              fontSize: '0.82rem',
               color: 'var(--color-text-muted)',
               marginBottom: '1.5rem',
               flexWrap: 'wrap',
+              lineHeight: 1.55,
             }}>
-              <span>
-                Brezplačni pregled — z enodnevno zamudo.
+              <span style={{ flex: '1 1 280px' }}>
+                Brezplačni pregled prikazuje včerajšnje novice — z enodnevno zamudo.
+                <strong style={{ color: 'var(--color-text)', fontWeight: 600 }}> Premium prejema novice v realnem času</strong>, takoj ko jih objavijo viri.
               </span>
               <a
                 href={(import.meta.env.BASE_URL || '/').replace(/\/$/, '') + '/premium'}
