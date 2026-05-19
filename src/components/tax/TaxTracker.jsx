@@ -113,6 +113,14 @@ export default function TaxTracker() {
               >
                 {showDevTip ? 'Skrij' : 'Kako preveriti?'}
               </button>
+              <a
+                href="/engineering-investor/vodnik-zasebnost.html"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ fontSize: '0.75rem', color: '#059669', opacity: 0.7, textDecoration: 'underline', textUnderlineOffset: 2 }}
+              >
+                Vodnik za zasebnost
+              </a>
             </div>
             {showDevTip && (
               <div style={{ padding: '0.65rem 0.9rem', background: 'var(--color-surface)', border: '1px solid var(--color-border)', borderRadius: 6, fontSize: '0.8rem', color: 'var(--color-text-muted)', lineHeight: 1.7, maxWidth: 480 }}>
