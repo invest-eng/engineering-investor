@@ -49,8 +49,14 @@ export default function TaxTracker() {
   const [state, dispatch] = useReducer(reducer, null, loadState);
   const [tab, setTab] = useState('trades');
   const [selectedYear, setSelectedYear] = useState(new Date().getFullYear());
+  const [storageKb, setStorageKb] = useState('0');
+  const [showDevTip, setShowDevTip] = useState(false);
 
   useEffect(() => { saveState(state); }, [state]);
+  useEffect(() => {
+    const raw = localStorage.getItem('ei-tax-v1') || '';
+    setStorageKb((new Blob([raw]).size / 1024).toFixed(1));
+  }, [state]);
 
   const fifo = useMemo(() => calcFifo(state.trades), [state.trades]);
   const yearMap = useMemo(() => byYear(fifo.realizedGains), [fifo.realizedGains]);
@@ -84,13 +90,38 @@ export default function TaxTracker() {
       <div style={{ maxWidth: 1050, margin: '0 auto', padding: '0 1.25rem' }}>
 
         {/* Header */}
-        <header style={{ marginBottom: '2rem' }}>
+        <header style={{ marginBottom: '1.5rem' }}>
           <h1 style={{ fontSize: 'clamp(1.8rem,4vw,2.5rem)', fontWeight: 700, letterSpacing: '-0.025em', margin: '0 0 0.4rem', color: 'var(--color-text)' }}>
             Davčni tracker
           </h1>
-          <p style={{ color: 'var(--color-text-muted)', fontSize: '0.9rem', margin: 0 }}>
+          <p style={{ color: 'var(--color-text-muted)', fontSize: '0.9rem', margin: '0 0 1rem' }}>
             FIFO sledenje nakupov in prodaj za Doh-KDVP napoved (ZDoh-2)
           </p>
+          {/* Trust indicator */}
+          <div style={{ display: 'inline-flex', flexDirection: 'column', gap: '0.5rem' }}>
+            <div style={{ display: 'inline-flex', alignItems: 'center', gap: '0.6rem', padding: '0.4rem 0.85rem', background: 'rgba(5,150,105,0.07)', border: '1px solid rgba(5,150,105,0.2)', borderRadius: 6 }}>
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#059669" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+              <span style={{ fontSize: '0.8rem', color: '#059669', fontWeight: 500 }}>
+                Vsi podatki so shranjeni samo v tvojem brskalniku
+              </span>
+              <span style={{ fontSize: '0.78rem', color: 'rgba(5,150,105,0.6)', borderLeft: '1px solid rgba(5,150,105,0.2)', paddingLeft: '0.6rem' }}>
+                {storageKb} KB
+              </span>
+              <button
+                onClick={() => setShowDevTip((v) => !v)}
+                style={{ background: 'none', border: 'none', cursor: 'pointer', fontSize: '0.75rem', color: '#059669', opacity: 0.7, fontFamily: 'inherit', padding: 0, textDecoration: 'underline', textUnderlineOffset: 2 }}
+              >
+                {showDevTip ? 'Skrij' : 'Kako preveriti?'}
+              </button>
+            </div>
+            {showDevTip && (
+              <div style={{ padding: '0.65rem 0.9rem', background: 'var(--color-surface)', border: '1px solid var(--color-border)', borderRadius: 6, fontSize: '0.8rem', color: 'var(--color-text-muted)', lineHeight: 1.7, maxWidth: 480 }}>
+                <strong style={{ color: 'var(--color-text)', display: 'block', marginBottom: 2 }}>Preveri sam v brskalniku:</strong>
+                Pritisni <kbd style={{ background: 'var(--color-bg)', border: '1px solid var(--color-border)', borderRadius: 3, padding: '1px 5px', fontFamily: 'monospace', fontSize: '0.78rem' }}>F12</kbd> → zavihek <strong>Application</strong> → <strong>Local Storage</strong> → tvoja domena → ključ <code style={{ background: 'var(--color-bg)', padding: '1px 4px', borderRadius: 3, fontSize: '0.78rem' }}>ei-tax-v1</code>
+                <br />Tam vidite vse shranjene podatke. Nobena zahteva ne gre na noben strežnik.
+              </div>
+            )}
+          </div>
         </header>
 
         {/* Tabs */}
@@ -218,7 +249,7 @@ function TradesView({ state, dispatch, fifo }) {
         <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.83rem' }}>
           <thead>
             <tr style={{ borderBottom: '1px solid var(--color-border)' }}>
-              {['Datum','Tip','Vrsta','Ticker / Ime','Količina','Cena','Tečaj EUR','Prov.',''].map((h) => (
+              {['Datum','Tip','Broker','Ticker / Ime','Količina','Cena','Tečaj EUR','Prov.',''].map((h) => (
                 <Th key={h}>{h}</Th>
               ))}
             </tr>
@@ -228,7 +259,7 @@ function TradesView({ state, dispatch, fifo }) {
               <tr key={t.id} style={{ borderBottom: '1px solid var(--color-border)' }}>
                 <Td nowrap>{t.date}</Td>
                 <Td nowrap><span style={{ fontWeight: 600, color: t.type === 'buy' ? '#059669' : '#dc2626' }}>{t.type === 'buy' ? 'Nakup' : 'Prodaja'}</span></Td>
-                <Td nowrap>{assetLabel(t.assetType)}</Td>
+                <Td nowrap style={{ color: 'var(--color-text-muted)', fontSize: '0.8rem' }}>{t.broker || '—'}</Td>
                 <Td>
                   <strong>{t.ticker}</strong>
                   {t.name && <span style={{ display: 'block', fontSize: '0.75rem', color: 'var(--color-text-muted)', maxWidth: 160, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{t.name}</span>}
