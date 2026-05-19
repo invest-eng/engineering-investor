@@ -4,145 +4,264 @@ import Disclaimer from '../components/ui/Disclaimer.astro';
 import Button from '../components/ui/Button.astro';
 import { SITE } from '../config';
 import { url } from '../utils/url';
+
+const platformSections = [
+  {
+    icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>`,
+    title: 'Poglobljene analize',
+    desc: 'Aktualni dogodki razloženi s kontekstom in vplivom na trge.',
+    href: '/analize',
+    label: 'Preberi analize',
+  },
+  {
+    icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>`,
+    title: 'Dnevni pregled trgov',
+    desc: 'Kaj se je zgodilo danes in zakaj je to pomembno. Kratek, jasen pregled.',
+    href: '/dnevni-pregled',
+    label: 'Današnji pregled',
+  },
+  {
+    icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>`,
+    title: 'Finančni kalkulatorji',
+    desc: 'Primerjava naložb, INR vs IBKR in neto vrednost. Z upoštevanjem ZDoh-2 in stroškov.',
+    href: '/kalkulatorji',
+    label: 'Odpri kalkulatorje',
+  },
+  {
+    icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>`,
+    title: 'Sledilnik osebnih financ',
+    desc: 'Prihodki, odhodki, proračun, cilji in dolg. Sinhronizacija med napravami. Za premium uporabnike.',
+    href: '/sledilnik',
+    label: 'Spoznaj sledilnik',
+  },
+];
+
+const principles = [
+  {
+    icon: `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>`,
+    label: 'Jasnost',
+    desc: 'Vsak žargon razložim. Pišem za vsakogar, ne za akademike.',
+  },
+  {
+    icon: `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>`,
+    label: 'Poštenost',
+    desc: 'Ne vem vsega. Ko so stvari negotove, to povem. Napoved ni analiza.',
+  },
+  {
+    icon: `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg>`,
+    label: 'Kontekst',
+    desc: 'Novica brez konteksta je šum. Vedno razložim, zakaj je nekaj pomembno, ne samo da je.',
+  },
+  {
+    icon: `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>`,
+    label: 'Brez hype-a',
+    desc: 'Ni get-rich-quick. Ni kripto guru. Analiza in razlaga za dolgi rok.',
+  },
+  {
+    icon: `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>`,
+    label: 'Slovenščina',
+    desc: 'ZDoh-2, domači posredniki, pokojninski stebri. Vsebine so prilagojene slovenskim razmeram.',
+  },
+  {
+    icon: `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>`,
+    label: 'Brez nasvetov',
+    desc: 'Nikoli ne bom rekel "kupi to" ali "prodaj ono". Vsaka odločitev je tvoja.',
+  },
+];
 ---
 
 <BaseLayout
   title="O meni"
-  description="Spoznaj Engineering Investor, projekt za finančno izobraževanje slovenskega občinstva skozi razlago aktualnih dogodkov."
+  description="Spoznaj Engineering Investor: slovenska platforma za poglobljeno finančno izobraževanje. Analize, dnevni pregled, kalkulatorji in sledilnik za slovenskega vlagatelja."
 >
   <div class="about-page">
     <div class="container">
 
+      <!-- ─── HERO ─────────────────────────────────────────────── -->
+      <section class="about-hero">
+        <div class="about-hero__text">
+          <div class="about-hero__eyebrow">
+            <span class="about-hero__dot" aria-hidden="true"></span>
+            Engineering Investor
+          </div>
+          <h1 class="about-hero__title">
+            Razumi trge in<br />
+            <em class="about-hero__accent">investiraj v prihodnost</em>
+          </h1>
+          <p class="about-hero__sub">
+            Finančno izobraževanje v slovenščini. Analize trgov, geopolitike in makra.
+          </p>
+          <div class="about-hero__actions">
+            <Button href={url('/analize')} size="md">Preberi analize</Button>
+            <Button href={SITE.twitterUrl} variant="ghost" size="md" external={true}>
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.737-8.835L1.254 2.25H8.08l4.253 5.622 5.911-5.622Zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+              </svg>
+              Sledi na X
+            </Button>
+          </div>
+        </div>
+
+        <div class="about-hero__visual" aria-hidden="true">
+          <div class="profile-card">
+            <div class="profile-card__header">
+              <div class="profile-card__avatar">EI</div>
+              <div>
+                <div class="profile-card__name">Engineering Investor</div>
+              </div>
+            </div>
+            <div class="profile-card__sep"></div>
+            <div class="profile-card__stats">
+              <div class="profile-card__stat">
+                <span class="profile-card__num">5+</span>
+                <span class="profile-card__lbl">analiz / mesec</span>
+              </div>
+              <div class="profile-card__stat">
+                <span class="profile-card__num">4</span>
+                <span class="profile-card__lbl">orodja</span>
+              </div>
+              <div class="profile-card__stat">
+                <span class="profile-card__num">SI</span>
+                <span class="profile-card__lbl">slovenščina</span>
+              </div>
+            </div>
+            <div class="profile-card__tags">
+              <span class="profile-card__tag">Makro</span>
+              <span class="profile-card__tag">Geopolitika</span>
+              <span class="profile-card__tag">Trgi</span>
+              <span class="profile-card__tag">Bitcoin</span>
+              <span class="profile-card__tag">ZDoh-2</span>
+            </div>
+            <div class="profile-card__chart" aria-hidden="true">
+              <svg viewBox="0 0 160 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <polyline
+                  points="0,40 20,34 40,36 60,28 80,30 100,18 120,22 140,10 160,14"
+                  stroke="var(--color-accent)"
+                  stroke-width="1.5"
+                  stroke-linejoin="round"
+                  fill="none"
+                  opacity="0.7"
+                />
+                <polyline
+                  points="0,40 20,34 40,36 60,28 80,30 100,18 120,22 140,10 160,14 160,48 0,48"
+                  fill="var(--color-accent)"
+                  opacity="0.06"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ─── MAIN LAYOUT ──────────────────────────────────────── -->
       <div class="about-layout">
-        <div class="about-main">
+        <main class="about-main">
 
-          <!-- Header -->
-          <header class="about-header fade-in">
-            <div class="about-header__avatar" aria-hidden="true">EI</div>
-            <h1 class="about-header__name">{SITE.name}</h1>
-            <p class="about-header__tagline">Finančno izobraževanje skozi aktualne dogodke</p>
-          </header>
-
-          <!-- Mission -->
-          <section class="about-section fade-in">
-            <h2 class="about-section__title">Zakaj Engineering Investor?</h2>
-            <div class="about-section__content">
+          <!-- ZGODBA -->
+          <section class="about-section">
+            <h2 class="about-section__title">Zakaj Engineering Investor</h2>
+            <div class="prose">
               <p>
-                Vsakič ko sem poskušal slediti globalnemu finančnemu dogajanju, sem naletel na isto oviro:
-                <strong>preveč informacij, premalo konteksta.</strong>
+                Slediti globalnemu dogajanju je težko. Ne zato ker ni informacij, ampak ker jih je preveč in večina nima konteksta.
               </p>
               <p>
-                Angleški viri so odlični, ampak jih moraš znati filtrirati. Vedeti moraš, kateri so
-                resnično relevantni, kateri so clickbait in, kar je najpomembneje, <em>kako so medsebojno
-                povezani.</em> Kaj to novica o Fed-u pomeni za bitcoin? Zakaj kitajska deflacija vpliva
-                na DAX? Zakaj raste zlato, ko bi pričakoval nasprotno?
+                Kaj pomeni dvig obrestnih mer za bitcoin? Zakaj raste zlato, ko bi pričakoval nasprotno?
+                Teh odgovorov v slovenskih medijih pogosto ni.
               </p>
+              <blockquote class="pull-quote">
+                Cilj ni predvideti prihodnost. Cilj je razumeti, kaj se dogaja zdaj.
+              </blockquote>
               <p>
-                Engineering Investor je moj odgovor na to. <strong>Filter, kontekst in razlaga</strong>
-                v slovenščini, za vsakogar, ki želi razumeti, kaj se dogaja in zakaj.
+                Poleg tega ima slovenski vlagatelj specifične potrebe: ZDoh-2, INR, pokojninski stebri.
+                Vse to zahteva domač kontekst, ne prevode iz angleških virov.
               </p>
             </div>
           </section>
 
-          <!-- Approach -->
-          <section class="about-section fade-in">
-            <h2 class="about-section__title">Moj pristop</h2>
-            <div class="about-section__content">
-              <p>Vsaka analiza sledi jasni strukturi:</p>
-              <ol class="about-list about-list--ordered">
-                <li><strong>Kaj se je zgodilo:</strong> brez fluffа, samo dejstva</li>
-                <li><strong>Zakaj je to pomembno:</strong> geopolitični, ekonomski ali tržni kontekst</li>
-                <li><strong>Vpliv na trge:</strong> delnice, obveznice, valute, surovine, Bitcoin</li>
-                <li><strong>Kaj se naučimo:</strong> prenosljivo znanje za prihodnje razumevanje</li>
-              </ol>
-              <p>
-                Cilj ni predvideti prihodnost, nihče tega ne zmore zanesljivo. Cilj je
-                <strong>razumeti sedanjost</strong> in zgraditi mentalne modele, ki nam pomagajo
-                bolje interpretirati prihodnje dogodke.
-              </p>
+          <!-- PLATFORMA -->
+          <section class="about-section">
+            <h2 class="about-section__title">Kaj boš našel tukaj</h2>
+            <p class="about-section__lead">
+              Stran je pregled globalnega dogajanja, orodja za vlagatelje in vodenje osebnih financ na enem mestu.
+            </p>
+            <div class="platform-grid">
+              {platformSections.map((s) => (
+                <a href={url(s.href)} class="platform-card">
+                  <div class="platform-card__icon" set:html={s.icon} />
+                  <h3 class="platform-card__title">{s.title}</h3>
+                  <p class="platform-card__desc">{s.desc}</p>
+                  <span class="platform-card__link">{s.label} →</span>
+                </a>
+              ))}
             </div>
           </section>
 
-          <!-- Values -->
-          <section class="about-section fade-in">
-            <h2 class="about-section__title">Vrednote projekta</h2>
-            <div class="about-values">
-              {[
-                { label: 'Jasnost', desc: 'Brez žargona brez razlage. Kompleksnost razgradim do razumljive ravni.' },
-                { label: 'Poštenost', desc: 'Ne vem vsega. Ko so stvari negotove, to povem. Brez pretiranega zaupanja v lastne napovedi.' },
-                { label: 'Kontekst', desc: 'Novica brez konteksta je šum. Vedno razložim, zakaj je nekaj važno, ne samo da je.' },
-                { label: 'Brez hype-a', desc: 'Ni get-rich-quick. Ni kripto guru. Ni "ta delnica bo eksplodirala". Samo analiza in razlaga.' },
-              ].map((v) => (
-                <div class="about-value">
-                  <span class="about-value__label">{v.label}</span>
-                  <span class="about-value__desc">{v.desc}</span>
+
+          <!-- NAČELA -->
+          <section class="about-section">
+            <h2 class="about-section__title">Načela projekta</h2>
+            <div class="principles-list">
+              {principles.map((p) => (
+                <div class="principle">
+                  <div class="principle__icon" set:html={p.icon} />
+                  <div class="principle__label">{p.label}</div>
                 </div>
               ))}
             </div>
           </section>
 
-          <!-- What I'm not -->
-          <section class="about-section fade-in">
-            <h2 class="about-section__title">Kar nisem</h2>
-            <div class="about-section__content">
+          <!-- KAJ NISEM -->
+          <section class="about-section about-section--last">
+            <h2 class="about-section__title">Kaj nisem</h2>
+            <div class="prose">
               <p>
-                Nisem licenciran finančni svetovalec, borzni posrednik ali upravljavec premoženja.
-                <strong>Nič na tej strani ni finančni nasvet.</strong> Nikoli ne bom rekel "kupi to"
-                ali "prodaj ono". To ni namen tega projekta in presega mojo vlogo.
+                Nisem licenciran finančni svetovalec. <strong>Nič na tej strani ni finančni nasvet.</strong>
               </p>
               <p>
-                Sem nekdo, ki ga finance resnično zanimajo, ki se jih aktivno uči in ki želi to
-                znanje deliti z drugimi, na razumljiv in pošten način.
+                Sem nekdo, ki ga finance zanimajo in želi to znanje deliti na razumljiv način.
+                Vsaka odločitev o tvojih financah ostane tvoja.
               </p>
             </div>
           </section>
 
           <!-- CTA -->
-          <div class="about-cta fade-in">
-            <p class="about-cta__text">Sledi za redne analize in kratke komentarje:</p>
-            <Button href={SITE.twitterUrl} variant="secondary" size="md" external={true}>
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-                <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.737-8.835L1.254 2.25H8.08l4.253 5.622 5.911-5.622Zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
-              </svg>
-              Sledi na X
-            </Button>
+          <div class="about-cta">
+            <div class="about-cta__inner">
+              <div class="about-cta__icon" aria-hidden="true">
+                <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.737-8.835L1.254 2.25H8.08l4.253 5.622 5.911-5.622Zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+                </svg>
+              </div>
+              <div class="about-cta__text">
+                <h3 class="about-cta__title">Sledi za sproti</h3>
+                <p class="about-cta__desc">
+                  Kratki komentarji dogajanja, najave novih analiz in dnevni pregled na X.
+                </p>
+              </div>
+              <Button href={SITE.twitterUrl} variant="primary" size="md" external={true}>
+                Sledi na X
+              </Button>
+            </div>
           </div>
 
           <div style="margin-top: var(--space-xl);">
             <Disclaimer />
           </div>
 
-        </div>
+        </main>
 
-        <!-- Sidebar -->
-        <aside class="about-sidebar fade-in">
-          <div class="about-sidebar__card">
-            <h3 class="about-sidebar__card-title">Hitro o projektu</h3>
-            <ul class="about-sidebar__facts">
-              {[
-                { label: 'Jezik', value: 'Slovenščina' },
-                { label: 'Format', value: 'Poglobljene analize' },
-                { label: 'Frekvenca', value: '4–8x mesečno' },
-                { label: 'Kategorije', value: 'Makro, Geo, Trgi, Bitcoin, Delnice' },
-                { label: 'Finančni nasveti', value: 'Nikoli' },
-              ].map((f) => (
-                <li class="about-sidebar__fact">
-                  <span class="about-sidebar__fact-label">{f.label}</span>
-                  <span class="about-sidebar__fact-value">{f.value}</span>
-                </li>
-              ))}
-            </ul>
+        <!-- ─── SIDEBAR ───────────────────────────────────────── -->
+        <aside class="about-sidebar">
+
+          <div class="sidebar-card sidebar-card--accent">
+            <h3 class="sidebar-card__title">Začni tukaj</h3>
+            <div class="sidebar-card__buttons">
+              <Button href={url('/analize')} size="sm">Analize</Button>
+              <Button href={url('/dnevni-pregled')} size="sm" variant="secondary">Dnevni pregled</Button>
+            </div>
           </div>
 
-          <div class="about-sidebar__card about-sidebar__card--accent">
-            <h3 class="about-sidebar__card-title">Začni brati</h3>
-            <p class="about-sidebar__card-desc">
-              Oglej si zadnje analize in preizkusi, ali ti pristop ustreza.
-            </p>
-            <Button href={url('/analize')} size="sm">
-              Preberi analize →
-            </Button>
-          </div>
+
         </aside>
       </div>
 
@@ -155,59 +274,199 @@ import { url } from '../utils/url';
     padding: var(--space-2xl) 0 var(--space-3xl);
   }
 
+  /* ─── HERO ─────────────────────────────────────────────────── */
+  .about-hero {
+    display: grid;
+    grid-template-columns: 1fr 340px;
+    gap: var(--space-2xl);
+    align-items: center;
+    padding-bottom: var(--space-2xl);
+    margin-bottom: var(--space-2xl);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .about-hero__eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-sm);
+    font-size: var(--text-xs);
+    font-weight: 600;
+    color: var(--color-text-subtle);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: var(--space-lg);
+  }
+
+  .about-hero__dot {
+    display: inline-block;
+    width: 7px;
+    height: 7px;
+    background: var(--color-success);
+    border-radius: 50%;
+    animation: pulse 2.5s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.35; }
+  }
+
+  .about-hero__title {
+    font-size: clamp(2rem, 4.5vw, 3.2rem);
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: -0.03em;
+    color: var(--color-text);
+    margin-bottom: var(--space-lg);
+  }
+
+  .about-hero__accent {
+    color: var(--color-accent);
+    font-style: normal;
+  }
+
+  .about-hero__sub {
+    font-size: var(--text-base);
+    color: var(--color-text-muted);
+    line-height: 1.75;
+    max-width: 520px;
+    margin-bottom: var(--space-xl);
+  }
+
+  .about-hero__actions {
+    display: flex;
+    gap: var(--space-md);
+    flex-wrap: wrap;
+  }
+
+  /* ─── PROFILE CARD ──────────────────────────────────────────── */
+  .profile-card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    padding: var(--space-lg);
+    box-shadow: var(--shadow-lg);
+    overflow: hidden;
+    position: relative;
+  }
+
+  .profile-card__header {
+    display: flex;
+    align-items: center;
+    gap: var(--space-md);
+    margin-bottom: var(--space-lg);
+  }
+
+  .profile-card__avatar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    background: var(--color-accent);
+    color: #fff;
+    border-radius: var(--radius-md);
+    font-size: var(--text-sm);
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    flex-shrink: 0;
+  }
+
+  .profile-card__name {
+    font-size: var(--text-sm);
+    font-weight: 600;
+    color: var(--color-text);
+    margin-bottom: 2px;
+  }
+
+  .profile-card__handle {
+    font-size: var(--text-xs);
+    color: var(--color-text-subtle);
+    font-family: var(--font-mono);
+  }
+
+  .profile-card__sep {
+    height: 1px;
+    background: var(--color-border);
+    margin-bottom: var(--space-lg);
+  }
+
+  .profile-card__stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-md);
+    margin-bottom: var(--space-lg);
+  }
+
+  .profile-card__stat {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .profile-card__num {
+    font-size: var(--text-xl);
+    font-weight: 700;
+    color: var(--color-text);
+    letter-spacing: -0.02em;
+  }
+
+  .profile-card__lbl {
+    font-size: 10px;
+    font-weight: 500;
+    color: var(--color-text-subtle);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .profile-card__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-sm);
+    margin-bottom: var(--space-md);
+  }
+
+  .profile-card__tag {
+    font-size: var(--text-xs);
+    font-weight: 500;
+    color: var(--color-accent);
+    background: var(--color-accent-bg);
+    border: 1px solid var(--color-accent-border);
+    border-radius: var(--radius-full);
+    padding: 2px 10px;
+  }
+
+  .profile-card__chart {
+    margin: 0 calc(-1 * var(--space-lg));
+    margin-bottom: calc(-1 * var(--space-lg));
+    height: 52px;
+    overflow: hidden;
+  }
+
+  .profile-card__chart svg {
+    width: 100%;
+    height: 100%;
+  }
+
+  /* ─── LAYOUT ────────────────────────────────────────────────── */
   .about-layout {
     display: grid;
-    grid-template-columns: 1fr 280px;
+    grid-template-columns: 1fr 268px;
     gap: var(--space-2xl);
     align-items: start;
   }
 
-  /* Header */
-  .about-header {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: var(--space-sm);
-    margin-bottom: var(--space-2xl);
-    padding-bottom: var(--space-2xl);
-    border-bottom: 1px solid var(--color-border);
-  }
-
-  .about-header__avatar {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 64px;
-    height: 64px;
-    background: var(--color-accent);
-    color: white;
-    border-radius: var(--radius-md);
-    font-size: var(--text-lg);
-    font-weight: 700;
-    letter-spacing: 0.05em;
-    margin-bottom: var(--space-md);
-  }
-
-  .about-header__name {
-    font-size: var(--text-3xl);
-    font-weight: 700;
-    letter-spacing: -0.03em;
-  }
-
-  .about-header__tagline {
-    font-size: var(--text-lg);
-    color: var(--color-text-muted);
-  }
-
-  /* Sections */
+  /* ─── SECTIONS ──────────────────────────────────────────────── */
   .about-section {
     margin-bottom: var(--space-2xl);
     padding-bottom: var(--space-2xl);
     border-bottom: 1px solid var(--color-border);
   }
 
-  .about-section:last-of-type {
+  .about-section--last {
     border-bottom: none;
+    margin-bottom: var(--space-lg);
+    padding-bottom: 0;
   }
 
   .about-section__title {
@@ -217,149 +476,345 @@ import { url } from '../utils/url';
     margin-bottom: var(--space-lg);
   }
 
-  .about-section__content p {
+  .about-section__lead {
+    font-size: var(--text-base);
+    color: var(--color-text-muted);
+    line-height: 1.75;
+    margin-bottom: var(--space-xl);
+    max-width: 600px;
+  }
+
+  /* ─── PROSE ─────────────────────────────────────────────────── */
+  .prose p {
     font-size: var(--text-base);
     color: var(--color-text);
     line-height: 1.8;
     margin-bottom: var(--space-md);
   }
 
-  .about-section__content p:last-child {
+  .prose p:last-child {
     margin-bottom: 0;
   }
 
-  .about-list--ordered {
-    list-style: decimal;
-    padding-left: var(--space-xl);
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-sm);
-    margin: var(--space-md) 0;
-  }
-
-  .about-list--ordered li {
+  .pull-quote {
+    border-left: 3px solid var(--color-accent);
+    margin: var(--space-xl) 0;
+    padding: var(--space-md) var(--space-lg);
+    background: var(--color-accent-bg);
+    border-radius: 0 var(--radius-md) var(--radius-md) 0;
     font-size: var(--text-base);
+    font-style: italic;
     color: var(--color-text);
-    line-height: 1.6;
+    line-height: 1.7;
   }
 
-  /* Values */
-  .about-values {
-    display: flex;
-    flex-direction: column;
+  /* ─── PLATFORM GRID ─────────────────────────────────────────── */
+  .platform-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
     gap: var(--space-md);
   }
 
-  .about-value {
+  .platform-card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+    padding: var(--space-lg);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    color: inherit;
+    transition: border-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
+  }
+
+  .platform-card:hover {
+    border-color: var(--color-accent);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+  }
+
+  .platform-card__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background: var(--color-accent-bg);
+    border: 1px solid var(--color-accent-border);
+    border-radius: var(--radius-sm);
+    color: var(--color-accent);
+    margin-bottom: 4px;
+    flex-shrink: 0;
+  }
+
+  .platform-card__title {
+    font-size: var(--text-base);
+    font-weight: 600;
+    margin: 0;
+    letter-spacing: -0.01em;
+  }
+
+  .platform-card__desc {
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+    line-height: 1.65;
+    margin: 0;
+    flex: 1;
+  }
+
+  .platform-card__link {
+    font-size: var(--text-sm);
+    font-weight: 600;
+    color: var(--color-accent);
+    margin-top: 4px;
+  }
+
+  /* ─── APPROACH LIST ─────────────────────────────────────────── */
+  .approach-list {
+    list-style: none;
+    counter-reset: approach-counter;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+    margin: var(--space-lg) 0 0;
+    padding: 0;
+  }
+
+  .approach-list li {
+    counter-increment: approach-counter;
     display: grid;
-    grid-template-columns: 120px 1fr;
-    gap: var(--space-lg);
+    grid-template-columns: 40px 1fr;
+    gap: var(--space-md);
     align-items: start;
-    padding: var(--space-md) 0;
+    padding: var(--space-md) var(--space-lg) var(--space-md) 0;
     border-bottom: 1px solid var(--color-border);
   }
 
-  .about-value:last-child {
+  .approach-list li:last-child {
     border-bottom: none;
   }
 
-  .about-value__label {
+  .approach-list li::before {
+    content: counter(approach-counter);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    background: var(--color-accent-bg);
+    color: var(--color-accent);
+    border: 1px solid var(--color-accent-border);
+    border-radius: 50%;
+    font-weight: 700;
     font-size: var(--text-sm);
-    font-weight: 600;
-    color: var(--color-text);
+    flex-shrink: 0;
+    margin-top: 1px;
   }
 
-  .about-value__desc {
+  .approach-list li strong {
+    display: block;
+    font-size: var(--text-base);
+    font-weight: 600;
+    color: var(--color-text);
+    margin-bottom: 3px;
+  }
+
+  .approach-list li span {
+    grid-column: 2;
     font-size: var(--text-sm);
     color: var(--color-text-muted);
     line-height: 1.7;
   }
 
-  /* CTA */
-  .about-cta {
+  /* ─── PRINCIPLES LIST ───────────────────────────────────────── */
+  .principles-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-sm);
+  }
+
+  .principle {
     display: flex;
     align-items: center;
-    gap: var(--space-lg);
-    flex-wrap: wrap;
+    gap: var(--space-md);
+    padding: var(--space-md) var(--space-lg);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+  }
+
+  .principle__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+    color: var(--color-accent);
+    background: var(--color-accent-bg);
+    border: 1px solid var(--color-accent-border);
+    border-radius: var(--radius-sm);
+  }
+
+  .principle__label {
+    font-size: var(--text-base);
+    font-weight: 600;
+    color: var(--color-text);
+  }
+
+  /* ─── CTA ───────────────────────────────────────────────────── */
+  .about-cta {
     margin-bottom: var(--space-xl);
   }
 
-  .about-cta__text {
-    font-size: var(--text-base);
-    color: var(--color-text-muted);
-    margin: 0;
+  .about-cta__inner {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xl);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    padding: var(--space-lg) var(--space-xl);
   }
 
-  /* Sidebar */
+  .about-cta__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 52px;
+    height: 52px;
+    background: var(--color-accent);
+    color: #fff;
+    border-radius: var(--radius-md);
+    flex-shrink: 0;
+  }
+
+  .about-cta__text {
+    flex: 1;
+  }
+
+  .about-cta__title {
+    font-size: var(--text-base);
+    font-weight: 600;
+    color: var(--color-text);
+    margin: 0 0 3px;
+  }
+
+  .about-cta__desc {
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+    margin: 0;
+    line-height: 1.6;
+  }
+
+  /* ─── SIDEBAR ───────────────────────────────────────────────── */
   .about-sidebar {
     position: sticky;
     top: calc(var(--nav-height) + var(--space-xl));
     display: flex;
     flex-direction: column;
-    gap: var(--space-lg);
+    gap: var(--space-md);
   }
 
-  .about-sidebar__card {
+  .sidebar-card {
     background: var(--color-surface);
     border: 1px solid var(--color-border);
-    border-radius: var(--radius-lg);
+    border-radius: var(--radius-md);
     padding: var(--space-lg);
   }
 
-  .about-sidebar__card--accent {
+  .sidebar-card--accent {
     background: var(--color-accent-bg);
     border-color: var(--color-accent-border);
   }
 
-  .about-sidebar__card-title {
-    font-size: var(--text-sm);
+  .sidebar-card__title {
+    font-size: var(--text-xs);
     font-weight: 600;
-    color: var(--color-text-muted);
+    color: var(--color-text-subtle);
     text-transform: uppercase;
-    letter-spacing: 0.07em;
+    letter-spacing: 0.09em;
     margin-bottom: var(--space-md);
   }
 
-  .about-sidebar__card-desc {
+  .sidebar-card__desc {
     font-size: var(--text-sm);
     color: var(--color-text-muted);
-    line-height: 1.6;
+    line-height: 1.65;
     margin-bottom: var(--space-md);
   }
 
-  .about-sidebar__facts {
-    list-style: none;
+  .sidebar-card__buttons {
     display: flex;
-    flex-direction: column;
-    gap: 0;
-  }
-
-  .about-sidebar__fact {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: var(--space-sm) 0;
-    border-bottom: 1px solid var(--color-border);
+    flex-wrap: wrap;
     gap: var(--space-sm);
   }
 
-  .about-sidebar__fact:last-child {
+  .sidebar-facts {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .sidebar-facts li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: var(--space-sm);
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--color-border);
+    font-size: var(--text-xs);
+  }
+
+  .sidebar-facts li:last-child {
     border-bottom: none;
   }
 
-  .about-sidebar__fact-label {
-    font-size: var(--text-xs);
+  .sidebar-facts span {
     color: var(--color-text-subtle);
+    flex-shrink: 0;
   }
 
-  .about-sidebar__fact-value {
-    font-size: var(--text-xs);
-    font-weight: 500;
+  .sidebar-facts strong {
+    font-weight: 600;
     color: var(--color-text);
     text-align: right;
   }
 
-  @media (max-width: 1024px) {
+  .sidebar-contact-link {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-sm);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    color: var(--color-accent);
+    text-decoration: none;
+    font-family: var(--font-mono);
+    transition: opacity var(--transition-fast);
+  }
+
+  .sidebar-contact-link:hover {
+    opacity: 0.75;
+  }
+
+  /* ─── RESPONSIVE ────────────────────────────────────────────── */
+  @media (max-width: 1100px) {
+    .about-hero {
+      grid-template-columns: 1fr 300px;
+    }
+  }
+
+  @media (max-width: 900px) {
+    .about-hero {
+      grid-template-columns: 1fr;
+    }
+
+    .about-hero__visual {
+      display: none;
+    }
+
     .about-layout {
       grid-template-columns: 1fr;
     }
@@ -367,6 +822,22 @@ import { url } from '../utils/url';
     .about-sidebar {
       position: static;
       order: -1;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .platform-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .about-cta__inner {
+      flex-direction: column;
+      text-align: center;
+      gap: var(--space-lg);
+    }
+
+    .about-cta__icon {
+      display: none;
     }
   }
 </style>
