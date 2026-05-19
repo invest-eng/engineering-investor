@@ -1,87 +1,98 @@
 /**
- * News fetcher.
+ * News fetcher — RSS edition.
  *
- * Currently uses NewsAPI.org top-business-headlines (English).
+ * Fetches from multiple free, no-key RSS feeds instead of NewsAPI.
+ * Articles are available immediately (no 24h delay).
+ *
+ * RSS sources (all free, no API key required):
+ *   - BBC Business
+ *   - MarketWatch Top Stories
+ *   - CNBC Finance
+ *   - Reuters Business
+ *   - Financial Times (free feed)
+ *   - Al Jazeera Business
+ *
+ * The premium/ orchestrator calls fetchAll() identically — no changes needed there.
  *
  * --- PREMIUM EXPANSION (future) ---
- * For wider coverage and better diversity:
- *   - Reuters API           (requires REUTERS_API_KEY)
- *   - Bloomberg API         (paid, requires BLOOMBERG_API_KEY)
- *   - AP News API           (requires AP_API_KEY)
- *   - Financial Times API   (requires FT_API_KEY)
- *   - GDELT (free, but messy)
- *
- * The orchestrator (premium/) will call fetchAll() to get a unified list.
- * Today only NewsAPI is wired up; other sources are stubbed with TODO.
+ *   - Reuters Connect API   (paid, richer content)
+ *   - Bloomberg API         (paid)
+ *   - AP News API           (paid)
  */
+
+import Parser from 'rss-parser';
 
 const USER_AGENT = 'engineering-investor-briefing/1.0';
 
-export async function fetchNewsApi({ apiKey, pageSize = 50 } = {}) {
-  if (!apiKey) throw new Error('NewsAPI key missing');
-  const url = `https://newsapi.org/v2/top-headlines?category=business&language=en&pageSize=${pageSize}&apiKey=${apiKey}`;
-  const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
-  if (!res.ok) throw new Error(`NewsAPI ${res.status}: ${await res.text()}`);
-  const data = await res.json();
-  if (data.status !== 'ok') throw new Error(`NewsAPI status: ${JSON.stringify(data)}`);
+const RSS_FEEDS = [
+  { url: 'https://feeds.bbci.co.uk/news/business/rss.xml',                                      source: 'BBC Business' },
+  { url: 'https://feeds.marketwatch.com/marketwatch/topstories',                                 source: 'MarketWatch' },
+  { url: 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147', source: 'CNBC' },
+  { url: 'https://www.theguardian.com/business/rss',                                             source: 'The Guardian' },
+  { url: 'https://www.ft.com/rss/home/uk',                                                       source: 'Financial Times' },
+  { url: 'https://www.aljazeera.com/xml/rss/all.xml',                                            source: 'Al Jazeera' },
+];
 
-  return (data.articles || [])
-    .filter((a) => a.url && a.title && a.title !== '[Removed]')
-    .map((a) => ({
-      title: a.title,
-      description: a.description || '',
-      url: a.url,
-      publishedAt: a.publishedAt,
-      source: a.source?.name || 'Unknown',
-    }));
+const parser = new Parser({
+  headers: { 'User-Agent': USER_AGENT },
+  timeout: 10000,
+  customFields: { item: [['media:content', 'media']] },
+});
+
+export async function fetchRssFeeds(feeds = RSS_FEEDS) {
+  const results = await Promise.allSettled(
+    feeds.map(async ({ url, source }) => {
+      const feed = await parser.parseURL(url);
+      return (feed.items || []).map((item) => ({
+        title: item.title || '',
+        description: item.contentSnippet || item.summary || item.description || '',
+        url: item.link || item.guid || '',
+        publishedAt: item.isoDate || item.pubDate || new Date().toISOString(),
+        source,
+      }));
+    }),
+  );
+
+  const articles = [];
+  for (let i = 0; i < results.length; i++) {
+    const r = results[i];
+    if (r.status === 'fulfilled') {
+      console.log(`[news] ${RSS_FEEDS[i].source}: ${r.value.length} articles`);
+      articles.push(...r.value);
+    } else {
+      console.warn(`[news] ${RSS_FEEDS[i].source}: failed — ${r.reason?.message}`);
+    }
+  }
+  return articles;
 }
 
-// --- PREMIUM: Reuters stub (not active, needs REUTERS_API_KEY) ---
-export async function fetchReuters() {
-  // TODO: implement when REUTERS_API_KEY is purchased.
-  return [];
-}
-
-// --- PREMIUM: Bloomberg stub ---
-export async function fetchBloomberg() {
-  // TODO: implement when BLOOMBERG_API_KEY is purchased.
-  return [];
+// Kept for backwards-compatibility — premium scripts reference this name.
+// newsApiKey is ignored (no longer needed).
+export async function fetchNewsApi({ apiKey } = {}) {
+  if (apiKey) console.warn('[news] NewsAPI key present but ignored — using RSS feeds now');
+  return fetchRssFeeds();
 }
 
 /**
- * Unified fetcher. Currently returns only NewsAPI results.
- * Premium version will merge multiple sources and deduplicate.
+ * Unified fetcher. Returns deduplicated, optionally age-filtered articles.
  *
  * @param {object} opts
- * @param {string} opts.newsApiKey   NewsAPI key
- * @param {number} opts.maxAgeHours  Drop articles older than this. Default 24h.
- *                                   Free NewsAPI tier sometimes returns stale
- *                                   headlines; this guarantees freshness.
+ * @param {string} [opts.newsApiKey]    Ignored (kept for API compatibility)
+ * @param {number} [opts.maxAgeHours]   Drop articles older than this. Default 24h.
  */
 export async function fetchAll({ newsApiKey, maxAgeHours = 24 } = {}) {
-  const all = [];
-  if (newsApiKey) {
-    const items = await fetchNewsApi({ apiKey: newsApiKey });
-    console.log(`[news] NewsAPI: ${items.length} articles`);
-    all.push(...items);
-  }
-  // --- PREMIUM: add other sources here ---
-  // if (process.env.REUTERS_API_KEY) all.push(...await fetchReuters());
-  // if (process.env.BLOOMBERG_API_KEY) all.push(...await fetchBloomberg());
+  const all = await fetchRssFeeds();
 
   // Deduplicate by URL.
   const seen = new Set();
   const unique = all.filter((a) => {
-    if (seen.has(a.url)) return false;
+    if (!a.url || seen.has(a.url)) return false;
     seen.add(a.url);
     return true;
   });
 
-  // Age filter — drop anything older than maxAgeHours.
-  // Free NewsAPI tier delivers a delayed feed, so we may end up with 0 fresh
-  // articles. In that case fall back to the newest available (UI then shows a
-  // red "pred X dnevi" tag so it's visible they're stale).
-  if (maxAgeHours && maxAgeHours > 0) {
+  // Age filter.
+  if (maxAgeHours > 0) {
     const cutoff = Date.now() - maxAgeHours * 3600 * 1000;
     const fresh = unique.filter((a) => {
       const t = Date.parse(a.publishedAt);
@@ -92,8 +103,6 @@ export async function fetchAll({ newsApiKey, maxAgeHours = 24 } = {}) {
       if (dropped > 0) console.log(`[news] dropped ${dropped} stale (>${maxAgeHours}h), ${fresh.length} fresh`);
       return fresh;
     }
-    // Fallback: 0 fresh — take the 10 newest available so the briefing
-    // still runs; UI will badge them as stale.
     console.warn(`[news] 0 fresh within ${maxAgeHours}h — falling back to newest available`);
     return unique
       .map((a) => ({ a, t: Date.parse(a.publishedAt) || 0 }))

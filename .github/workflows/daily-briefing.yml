@@ -48,7 +48,6 @@ jobs:
       - name: Generate briefing
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          NEWSAPI_KEY: ${{ secrets.newsapi_org }}
           BRIEFING_EDITION: morning
           FORCE_BRIEFING: ${{ github.event.inputs.force }}
         run: node scripts/generate-briefing.mjs
@@ -57,7 +56,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/briefing.json
+          git add public/data/briefing.json public/data/briefing-yesterday.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
