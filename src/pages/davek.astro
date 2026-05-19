@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import TaxTracker from '../components/tax/TaxTracker.jsx';
+---
+
+<BaseLayout
+  title="Davčni tracker"
+  description="Sledilnik nakupov in prodaj vrednostnih papirjev in kriptovalut. FIFO izračun kapitalskih dobičkov, ZDoh-2 davek, izvoz za eDavki (Doh-KDVP). Vsi podatki lokalno v tvojem brskalniku."
+>
+  <TaxTracker client:only="react" />
+</BaseLayout>
