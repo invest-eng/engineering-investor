@@ -488,7 +488,9 @@ function FifoView({ summary, currentGains, unrealized, errors, years, selectedYe
 
 function ExportView({ state, dispatch, fifo, selectedYear, years, setSelectedYear, onExportJson, onImportJson, onExportExcel, onExportXml }) {
   const [profile, setProfile] = useState(state.profile);
+  const [profileOpen, setProfileOpen] = useState(false);
   const profileChanged = JSON.stringify(profile) !== JSON.stringify(state.profile);
+  const profileFilled = !!(state.profile.taxNumber && state.profile.name);
 
   function saveProfile() {
     dispatch({ type: 'profile/update', profile });
@@ -517,17 +519,32 @@ function ExportView({ state, dispatch, fifo, selectedYear, years, setSelectedYea
       {/* Export buttons */}
       <Card>
         <h3 style={{ margin: '0 0 1rem', fontSize: '0.95rem', fontWeight: 600 }}>Izvoz podatkov</h3>
-        <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap' }}>
-          <Btn onClick={onExportExcel}>
-            📊 Prenesi Excel (.xlsx)
-          </Btn>
-          <Btn onClick={onExportXml} variant="secondary">
-            📄 Prenesi Doh-KDVP XML (eDavki)
-          </Btn>
+        <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap', alignItems: 'flex-start' }}>
+
+          {/* Excel — no profile needed */}
+          <div>
+            <Btn onClick={onExportExcel}>📊 Prenesi Excel (.xlsx)</Btn>
+            <div style={{ fontSize: '0.73rem', color: 'var(--color-text-subtle)', marginTop: 4, paddingLeft: 2 }}>
+              Brez osebnih podatkov
+            </div>
+          </div>
+
+          {/* XML — profile needed */}
+          <div>
+            <Btn onClick={onExportXml} variant="secondary">📄 Prenesi Doh-KDVP XML (eDavki)</Btn>
+            <div style={{ fontSize: '0.73rem', marginTop: 4, paddingLeft: 2 }}>
+              {profileFilled
+                ? <span style={{ color: '#059669' }}>Profil nastavljen</span>
+                : <button onClick={() => setProfileOpen(true)} style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', color: '#d97706', fontSize: '0.73rem', fontFamily: 'inherit', textDecoration: 'underline', textUnderlineOffset: 2 }}>
+                    Zahteva osebne podatke za XML glavo
+                  </button>
+              }
+            </div>
+          </div>
+
         </div>
-        <p style={{ marginTop: '0.85rem', fontSize: '0.8rem', color: 'var(--color-text-muted)', lineHeight: 1.6 }}>
-          XML datoteko naloži na <a href="https://edavki.durs.si" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-accent)' }}>eDavki.durs.si</a> pod Dohodnina → Doh-KDVP.
-          Pred oddajo preveri vsebino — shema se lahko razlikuje od trenutne FURS verzije.
+        <p style={{ marginTop: '1rem', fontSize: '0.78rem', color: 'var(--color-text-muted)', lineHeight: 1.6, margin: '1rem 0 0' }}>
+          XML naloži na <a href="https://edavki.durs.si" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-accent)' }}>eDavki.durs.si</a> pod Dohodnina &rarr; Doh-KDVP. Pred oddajo preveri z računovodjem.
         </p>
       </Card>
 
@@ -543,32 +560,49 @@ function ExportView({ state, dispatch, fifo, selectedYear, years, setSelectedYea
         </div>
       </Card>
 
-      {/* Profile za eDavki */}
+      {/* Profile za eDavki XML — skrit za toggle */}
       <Card>
-        <h3 style={{ margin: '0 0 0.25rem', fontSize: '0.95rem', fontWeight: 600 }}>Profil za eDavki XML</h3>
-        <p style={{ margin: '0 0 1rem', fontSize: '0.82rem', color: 'var(--color-text-muted)' }}>
-          Podatki se vključijo v XML glavo. Shranjeni so samo lokalno.
-        </p>
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '0.75rem' }}>
-          {[
-            { key: 'taxNumber', label: 'Davčna številka', placeholder: '12345678' },
-            { key: 'name', label: 'Ime in priimek', placeholder: 'Ime Priimek' },
-            { key: 'address', label: 'Naslov', placeholder: 'Ulica 1' },
-            { key: 'city', label: 'Kraj', placeholder: 'Ljubljana' },
-            { key: 'postCode', label: 'Poštna številka', placeholder: '1000' },
-            { key: 'birthDate', label: 'Datum rojstva', placeholder: '1990-01-01', type: 'date' },
-            { key: 'email', label: 'E-pošta', placeholder: 'ime@email.com' },
-            { key: 'phone', label: 'Telefon', placeholder: '040123456' },
-          ].map(({ key, label, placeholder, type }) => (
-            <Field key={key} label={label}>
-              <input type={type || 'text'} placeholder={placeholder} value={profile[key] || ''}
-                onChange={(e) => setProfile({ ...profile, [key]: e.target.value })} style={inputStyle} />
-            </Field>
-          ))}
-        </div>
-        <div style={{ marginTop: '1rem' }}>
-          <Btn onClick={saveProfile} disabled={!profileChanged}>Shrani profil</Btn>
-        </div>
+        <button
+          onClick={() => setProfileOpen((v) => !v)}
+          style={{ width: '100%', background: 'none', border: 'none', cursor: 'pointer', display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: 0, fontFamily: 'inherit' }}
+        >
+          <span style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+            <span style={{ fontSize: '0.95rem', fontWeight: 600, color: 'var(--color-text)' }}>Osebni podatki za eDavki XML</span>
+            {profileFilled
+              ? <span style={{ fontSize: '0.72rem', background: 'rgba(5,150,105,0.1)', color: '#059669', padding: '2px 7px', borderRadius: 10, fontWeight: 600 }}>Nastavljeno</span>
+              : <span style={{ fontSize: '0.72rem', background: 'rgba(217,119,6,0.1)', color: '#d97706', padding: '2px 7px', borderRadius: 10 }}>Ni obvezno za Excel</span>
+            }
+          </span>
+          <span style={{ fontSize: '0.8rem', color: 'var(--color-text-muted)', transform: profileOpen ? 'rotate(180deg)' : 'none', transition: 'transform 0.2s' }}>▾</span>
+        </button>
+
+        {profileOpen && (
+          <>
+            <p style={{ margin: '0.75rem 0 1rem', fontSize: '0.82rem', color: 'var(--color-text-muted)', lineHeight: 1.6 }}>
+              Ti podatki se vključijo v XML glavo (zahteva FURS shema). Za Excel izvoz niso potrebni. Shranjeni so samo lokalno v tvojem brskalniku.
+            </p>
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '0.75rem' }}>
+              {[
+                { key: 'taxNumber', label: 'Davčna številka', placeholder: '12345678' },
+                { key: 'name', label: 'Ime in priimek', placeholder: 'Ime Priimek' },
+                { key: 'address', label: 'Naslov', placeholder: 'Ulica 1' },
+                { key: 'city', label: 'Kraj', placeholder: 'Ljubljana' },
+                { key: 'postCode', label: 'Poštna številka', placeholder: '1000' },
+                { key: 'birthDate', label: 'Datum rojstva', placeholder: '1990-01-01', type: 'date' },
+                { key: 'email', label: 'E-pošta', placeholder: 'ime@email.com' },
+                { key: 'phone', label: 'Telefon', placeholder: '040123456' },
+              ].map(({ key, label, placeholder, type }) => (
+                <Field key={key} label={label}>
+                  <input type={type || 'text'} placeholder={placeholder} value={profile[key] || ''}
+                    onChange={(e) => setProfile({ ...profile, [key]: e.target.value })} style={inputStyle} />
+                </Field>
+              ))}
+            </div>
+            <div style={{ marginTop: '1rem' }}>
+              <Btn onClick={saveProfile} disabled={!profileChanged}>Shrani profil</Btn>
+            </div>
+          </>
+        )}
       </Card>
     </div>
   );
