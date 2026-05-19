@@ -29,8 +29,10 @@ export function parseIbkrCsv(csvText) {
     const row = {};
     cols.slice(2).forEach((v, j) => { row[headers[j]] = v?.trim() ?? ''; });
 
-    // Preskoči subtotale in vmesne seštevke
-    if (row['DataDiscriminator'] === 'SubTotal' || row['DataDiscriminator'] === 'Total') continue;
+    // Preskoči subtotale, posamezne izpolnitve (Trade) in lot dodelitve (ClosedLot) —
+    // obdržimo samo Order vrstice, ki predstavljajo celotno transakcijo.
+    const disc = row['DataDiscriminator'] || '';
+    if (['SubTotal', 'Total', 'Trade', 'ClosedLot'].includes(disc)) continue;
     // Preskoči Forex in opcije za zdaj
     const cat = row['Asset Category'] || '';
     if (cat === 'Forex' || cat.includes('Option') || cat.includes('Future')) {

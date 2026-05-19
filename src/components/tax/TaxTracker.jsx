@@ -215,46 +215,46 @@ function TradesView({ state, dispatch, fifo }) {
       {trades.length === 0 ? (
         <Empty text="Ni transakcij. Dodaj prvo ali uvozi iz IBKR." />
       ) : (
-        <div style={{ overflowX: 'auto' }}>
-          <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.85rem' }}>
-            <thead>
-              <tr style={{ borderBottom: '1px solid var(--color-border)' }}>
-                {['Datum','Tip','Vrsta','Ticker','Ime','Količina','Cena','Valuta','Tečaj EUR','Prov.','Vrednost EUR','Broker',''].map((h) => (
-                  <Th key={h}>{h}</Th>
-                ))}
+        <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.83rem' }}>
+          <thead>
+            <tr style={{ borderBottom: '1px solid var(--color-border)' }}>
+              {['Datum','Tip','Vrsta','Ticker / Ime','Količina','Cena','Tečaj EUR','Prov.',''].map((h) => (
+                <Th key={h}>{h}</Th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {trades.map((t) => (
+              <tr key={t.id} style={{ borderBottom: '1px solid var(--color-border)' }}>
+                <Td nowrap>{t.date}</Td>
+                <Td nowrap><span style={{ fontWeight: 600, color: t.type === 'buy' ? '#059669' : '#dc2626' }}>{t.type === 'buy' ? 'Nakup' : 'Prodaja'}</span></Td>
+                <Td nowrap>{assetLabel(t.assetType)}</Td>
+                <Td>
+                  <strong>{t.ticker}</strong>
+                  {t.name && <span style={{ display: 'block', fontSize: '0.75rem', color: 'var(--color-text-muted)', maxWidth: 160, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{t.name}</span>}
+                </Td>
+                <Td nowrap>{fmtNum(t.quantity)}</Td>
+                <Td nowrap style={{ fontFamily: 'var(--font-mono)' }}>
+                  {Number(t.pricePerUnit).toFixed(4)}
+                  <span style={{ color: 'var(--color-text-muted)', marginLeft: 4, fontSize: '0.75rem' }}>{t.currency}</span>
+                </Td>
+                <Td nowrap>
+                  {t.exchangeRateEur
+                    ? <span style={{ fontFamily: 'var(--font-mono)' }}>{Number(t.exchangeRateEur).toFixed(4)}</span>
+                    : <button onClick={() => setEditing({ ...t })} style={{ background: 'none', border: 'none', cursor: 'pointer', color: '#dc2626', fontSize: '0.8rem', fontFamily: 'inherit', padding: 0, display: 'flex', alignItems: 'center', gap: 3 }}>⚠ nastavi</button>
+                  }
+                </Td>
+                <Td nowrap>{Number(t.fees).toFixed(2)}</Td>
+                <Td nowrap>
+                  <span style={{ display: 'flex', gap: 5 }}>
+                    <BtnSm onClick={() => setEditing({ ...t })}>Uredi</BtnSm>
+                    <BtnSm danger onClick={() => { if (confirm('Izbriši transakcijo?')) dispatch({ type: 'trade/delete', id: t.id }); }}>✕</BtnSm>
+                  </span>
+                </Td>
               </tr>
-            </thead>
-            <tbody>
-              {trades.map((t) => {
-                const valueEur = t.quantity * t.pricePerUnit * (t.exchangeRateEur || 1);
-                return (
-                  <tr key={t.id} style={{ borderBottom: '1px solid var(--color-border)' }}>
-                    <Td>{t.date}</Td>
-                    <Td><span style={{ fontWeight: 600, color: t.type === 'buy' ? '#059669' : '#dc2626' }}>{t.type === 'buy' ? 'Nakup' : 'Prodaja'}</span></Td>
-                    <Td>{assetLabel(t.assetType)}</Td>
-                    <Td><strong>{t.ticker}</strong></Td>
-                    <Td style={{ color: 'var(--color-text-muted)' }}>{t.name || '—'}</Td>
-                    <Td>{fmtNum(t.quantity)}</Td>
-                    <Td>{Number(t.pricePerUnit).toFixed(4)}</Td>
-                    <Td>{t.currency}</Td>
-                    <Td style={{ color: t.exchangeRateEur ? 'var(--color-text)' : '#dc2626' }}>
-                      {t.exchangeRateEur ? Number(t.exchangeRateEur).toFixed(4) : '⚠ nastavi'}
-                    </Td>
-                    <Td>{Number(t.fees).toFixed(2)}</Td>
-                    <Td style={{ fontFamily: 'var(--font-mono)', fontSize: '0.82rem' }}>{t.exchangeRateEur ? fmtEur(valueEur) : '—'}</Td>
-                    <Td style={{ color: 'var(--color-text-muted)' }}>{t.broker || '—'}</Td>
-                    <Td>
-                      <span style={{ display: 'flex', gap: 6 }}>
-                        <BtnSm onClick={() => setEditing({ ...t })}>Uredi</BtnSm>
-                        <BtnSm danger onClick={() => { if (confirm('Izbriši transakcijo?')) dispatch({ type: 'trade/delete', id: t.id }); }}>✕</BtnSm>
-                      </span>
-                    </Td>
-                  </tr>
-                );
-              })}
-            </tbody>
-          </table>
-        </div>
+            ))}
+          </tbody>
+        </table>
       )}
 
       {/* Modal */}
@@ -586,11 +586,11 @@ function Field({ label, children, full }) {
 }
 
 function Th({ children }) {
-  return <th style={{ textAlign: 'left', padding: '0.5rem 0.75rem', fontSize: '0.75rem', fontWeight: 600, color: 'var(--color-text-subtle)', textTransform: 'uppercase', letterSpacing: '0.06em', whiteSpace: 'nowrap' }}>{children}</th>;
+  return <th style={{ textAlign: 'left', padding: '0.45rem 0.6rem', fontSize: '0.72rem', fontWeight: 600, color: 'var(--color-text-subtle)', textTransform: 'uppercase', letterSpacing: '0.06em', whiteSpace: 'nowrap' }}>{children}</th>;
 }
 
-function Td({ children, style }) {
-  return <td style={{ padding: '0.6rem 0.75rem', verticalAlign: 'middle', whiteSpace: 'nowrap', ...style }}>{children}</td>;
+function Td({ children, style, nowrap }) {
+  return <td style={{ padding: '0.5rem 0.6rem', verticalAlign: 'middle', whiteSpace: nowrap ? 'nowrap' : undefined, ...style }}>{children}</td>;
 }
 
 function Btn({ children, onClick, variant = 'primary', disabled }) {
