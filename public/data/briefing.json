@@ -1,111 +1,112 @@
 {
-  "generiranoOb": "2026-05-18T15:55:23.154Z",
+  "generiranoOb": "2026-05-19T07:57:55.731Z",
   "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-05-18",
-  "povzetek": "Jutranja izdaja, 18. maj 2026. Po zaprtju ameriških trgov, kjer so se vlagatelji osredotočali na tehnološki sektor, še posebej na Nvidio in njeno prihajajočo objavo rezultatov, so azijski trgi danes beležili mešano trgovanje. Glavne teme, ki so zaznamovale nočno dogajanje in bodo vplivale na evropske trge, vključujejo nadaljnjo evalvacijo vpliva umetne inteligence na gospodarstvo in trg dela. Poročila kažejo na premike v zaposlovanju, kjer AI vpliva na mlajše delavce, medtem ko se podjetja, kot je Amazon, soočajo z vprašanji odpuščanj in vračanja v pisarne. Fannie Mae je objavila napovedi glede hipotekarnih obrestnih mer in stanovanjskega trga, kar bo ključno za makroekonomsko sliko. Dolgoročno pa se pojavljajo opozorila o tveganjih, povezanih s kvantnim računalništvom in potencialno kibernetsko krizo. V Evropi se pričakuje, da bodo vlagatelji pozorno spremljali objave gospodarskih podatkov in odzive na globalne tehnološke trende, pri čemer bo fokus na sektorjih, ki so najbolj izpostavljeni AI in spremembam na trgu dela.",
+  "datum": "2026-05-19",
+  "povzetek": "Nočni dogodki so prinesli nadaljnjo zaskrbljenost glede geopolitičnih napetosti in njihovega vpliva na energetske trge, medtem ko se Wall Street pripravlja na ključne objave zaslužkov. Cene nafte so se ponovno povzpele, saj se vojna v Iranu nadaljuje brez znakov umiritve, kar je poglobilo razprodajo globalnih obveznic in povzročilo padec delnic z rekordnih višin. Analitiki opozarjajo na grozeč scenarij pomanjkanja nafte, saj se strateške rezerve izčrpavajo hitreje od pričakovanj, kar bi lahko preraslo v globalno krizo goriva in rafiniranja, če se Hormuška ožina ne odpre kmalu. Na azijskih trgih so južnokorejske delnice nadaljevale padec, saj višji donosi obveznic ogrožajo optimizem glede umetne inteligence, kljub delnemu okrevanju zaradi napredka v pogajanjih o delu pri Samsung Electronics Co. V ZDA so terminske pogodbe na delnice padle po rekordnem tednu, saj vlagatelji pričakujejo objave zaslužkov podjetij Nvidia, Target in Walmart v prihodnjih dneh. Avstralska milijarderka Gina Rinehart je medtem vložila skoraj 100 milijonov dolarjev v ameriške proizvajalce orožja, kar kaže na povečano zanimanje za obrambni sektor v luči globalnih napetosti. V Evropi se danes pričakuje odprtje trgov v senci teh globalnih gibanj, z morebitnim pritiskom na delniške indekse in nadaljnjo volatilnostjo na trgu energentov.",
   "novice": [
     {
-      "naslov": "Nvidia: Analiza vrednotenja kaže na podcenjenost delnice kljub izjemni rasti prihodkov.",
-      "sektor": "Tehnologija & AI",
+      "naslov": "Cene nafte se dvigujejo, medtem ko iranska vojna poglablja padce globalnih delnic in obveznic",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Cene nafte so se ponovno povzpele, saj se vojna v Iranu nadaljuje brez znakov umiritve, kar je povzročilo poglobljeno razprodajo globalnih obveznic. Delniški trgi so nadaljevali s padcem z rekordnih višin, saj so naraščajoče cene nafte prispevale k splošni negotovosti. Ta razvoj dogodkov odraža zaskrbljenost vlagateljev glede dolgotrajnega konflikta in njegovega vpliva na svetovno gospodarstvo. Povečana volatilnost na trgih obveznic in delnic kaže na preusmeritev kapitala v varnejša zatočišča ali na zadržanost pred nadaljnjimi naložbami.",
+      "analiza": "Geopolitične napetosti, še posebej podaljšana vojna v Iranu, so zgodovinsko vedno imele pomemben vpliv na cene nafte zaradi strahu pred motnjami v dobavi iz ključne regije Bližnjega vzhoda. Trenutni konflikt, ki ne kaže znakov umiritve, neposredno vpliva na globalne trge, saj so vlagatelji zaskrbljeni zaradi morebitnega pomanjkanja in inflacijskih pritiskov. Mehanizem vpliva je preprost: negotovost glede dobave nafte dviguje njeno ceno, kar povečuje stroške proizvodnje in transporta po vsem svetu. To posledično zmanjšuje dobičkonosnost podjetij, kar se odraža v padcu delniških tečajev. Hkrati se povečuje povpraševanje po varnih naložbah, vendar pa strah pred inflacijo, ki jo poganjajo višje cene nafte, lahko povzroči padec cen obveznic (in s tem rast donosov), kar se je zgodilo z \"razprodajo globalnih obveznic\". Valute držav, ki so neto uvoznice nafte, so pod pritiskom, medtem ko valute izvoznic nafte lahko pridobijo. Za slovenskega dolgoročnega vlagatelja to pomeni, da so portfelji, ki so izpostavljeni energetskemu sektorju, lahko bolj volatilni, medtem ko višje cene nafte vplivajo na inflacijo in s tem na realno vrednost prihrankov in donosov. Pomembno je spremljati razvoj dogodkov v regiji in odzive centralnih bank.",
+      "vpliv": [
+        "Rast cen nafte",
+        "Padec globalnih delniških trgov",
+        "Poglobljena razprodaja globalnih obveznic",
+        "Povečana inflacijska tveganja"
+      ],
+      "vir": "Bloomberg.com",
+      "vir_url": "https://www.bloomberg.com/news/articles/2026-05-17/oil-climbs-as-iran-war-shows-no-sign-of-ending-markets-wrap",
+      "objavljeno": "2026-05-17T22:18:10Z"
+    },
+    {
+      "naslov": "Scenarij pomanjkanja nafte se zdi verjeten, saj se strateške rezerve izčrpavajo",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Analitiki in vodilni v industriji opozarjajo, da se strateške rezerve nafte izčrpavajo hitreje od pričakovanj. To pomeni, da bi se kriza lahko razvila iz pomanjkanja surove nafte v popolno globalno krizo goriva in rafiniranja. Glavni dejavnik tveganja ostaja Hormuška ožina, ki mora biti kmalu ponovno odprta, da se prepreči nadaljnje zaostrovanje razmer. Brez hitre rešitve bi lahko prišlo do resnih motenj v dobavi in posledično do še višjih cen energentov.",
+      "analiza": "Opozorila o izčrpavanju strateških rezerv nafte in morebitni globalni krizi goriva so neposredna posledica dolgotrajnih geopolitičnih napetosti, zlasti konflikta v Iranu, ki ogroža ključne pomorske poti, kot je Hormuška ožina. Ta ožina je vitalna za globalno dobavo nafte, saj skozi njo poteka velik del svetovnega pomorskega prometa z nafto. Zaprtje ali omejevanje pretoka skozi to ožino bi imelo katastrofalne posledice za svetovno gospodarstvo. Mehanizem vpliva je jasen: zmanjšana dobava in negotovost glede prihodnjih dobav povzročata skokovito rast cen nafte in naftnih derivatov. To vpliva na vse sektorje gospodarstva, od transporta in proizvodnje do maloprodaje, kar vodi v splošno inflacijo in zmanjšanje kupne moči. Posledice za finančne trge so večplastne: delniški trgi so pod pritiskom zaradi višjih stroškov podjetij in zmanjšane potrošnje, obveznice se soočajo z inflacijskimi pritiski, valute držav, ki so močno odvisne od uvoza nafte, pa lahko oslabelijo. Cene surovin, razen nafte, so lahko tudi posredno prizadete zaradi višjih transportnih stroškov. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja ključna, saj so sektorji, ki so močno odvisni od energentov, bolj izpostavljeni tveganjem. Spremljanje geopolitičnih dogodkov in odzivov glavnih proizvajalk nafte je bistveno.",
+      "vpliv": [
+        "Grozeča globalna kriza goriva",
+        "Povečana tveganja za inflacijo",
+        "Potencialne motnje v dobavi nafte",
+        "Pritisk na delniške trge"
+      ],
+      "vir": "OilPrice.com",
+      "vir_url": "https://oilprice.com/Energy/Crude-Oil/Oil-Shortage-Scenario-Looms-Large.html",
+      "objavljeno": "2026-05-17T23:00:00Z"
+    },
+    {
+      "naslov": "Terminske pogodbe na delnice padajo po rekordnem tednu Wall Streeta, v pričakovanju ključnih objav zaslužkov",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Terminske pogodbe na delnice so padle po rekordnem tednu na Wall Streetu, saj vlagatelji nestrpno pričakujejo objave zaslužkov ključnih podjetij. Nvidia naj bi poročala o zaslužkih v sredo, medtem ko bo Target objavil rezultate prav tako v sredo. Walmart bo svoje rezultate objavil v četrtek. Te objave bodo pomembno vplivale na splošno razpoloženje na trgu in morebitno nadaljevanje ali prekinitev nedavnega bikovskega trenda.",
+      "analiza": "Po obdobju izjemne rasti in doseganja rekordnih višin na Wall Streetu, kar je bilo v veliki meri pogojeno z optimizmom glede umetne inteligence in močnimi rezultati tehnoloških velikanov, se trgi zdaj soočajo z obdobji previdnosti. Padec terminskih pogodb na delnice kaže na pričakovano volatilnost in morebitno korekcijo, saj vlagatelji tehtajo prihodnje obete podjetij. Mehanizem vpliva objav zaslužkov je neposreden: močni rezultati lahko spodbudijo nadaljnjo rast, medtem ko slabši rezultati ali pesimistične napovedi lahko povzročijo razprodaje. Podjetja kot so Nvidia, Target in Walmart so ključna za različne sektorje – Nvidia za tehnologijo in AI, Target in Walmart pa za maloprodajo in potrošnjo. Njihovi rezultati ponujajo vpogled v zdravje gospodarstva in potrošniško moč. Posledice se kažejo predvsem na delniških trgih, kjer lahko pride do sektorskih premikov. Obveznice in valute so posredno prizadete, saj objave zaslužkov vplivajo na splošno gospodarsko sliko in pričakovanja glede inflacije ter obrestnih mer. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so kratkoročna nihanja trga pogosta, še posebej okoli ključnih objav. Osredotočenost na dolgoročne trende in diverzifikacija ostajata ključna.",
+      "vpliv": [
+        "Padec terminskih pogodb na delnice",
+        "Pričakovana volatilnost na trgu delnic",
+        "Vpliv na sektor tehnologije (Nvidia)",
+        "Vpliv na sektor maloprodaje (Target, Walmart)"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/05/17/stock-market-today-live-updates.html",
+      "objavljeno": "2026-05-18T03:34:00Z"
+    },
+    {
+      "naslov": "Milijarderka Gina Rinehart vložila 100 milijonov dolarjev v delnice ameriških obrambnih podjetij",
+      "sektor": "Finance",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Članek iz 24/7 Wall St. z dne 17. maja 2026 trdi, da je delnica Nvidie (NASDAQ:NVDA) podcenjena, tudi če bi se njena vrednost podvojila. Avtor poudarja, da delnica trguje pri 26-kratniku pričakovanih zaslužkov, medtem ko je osnovno poslovanje v zadnjem fiskalnem letu zabeležilo 65,47-odstotno rast prihodkov. Ta nesorazmerna kombinacija nizkega P/E razmerja glede na visoko rast prihodkov naj bi kazala na privlačno priložnost za nakup. Logika je opisana kot 'sramotno preprosta', kar nakazuje na močno prepričanje v nadaljnjo rast podjetja.",
-      "analiza": "Ozadje in kontekst: Nvidia je postala ključni igralec v industriji umetne inteligence, saj njeni grafični procesorji poganjajo večino AI modelov. Njena delnica je v zadnjih letih doživela izjemno rast, kar je sprožilo debate o njeni vrednotenosti. Relevantnost zdaj: Kljub pretekli rasti, analitiki še vedno vidijo potencial, kar je ključno za ohranjanje optimizma v tehnološkem sektorju. Poročilo prihaja pred objavo Nvidijinih zaslužkov, kar dodaja kontekst pričakovanj. Mehanizem vpliva: Pozitivna analiza vrednotenja velikega tehnološkega podjetja, kot je Nvidia, lahko dvigne splošno razpoloženje v tehnološkem sektorju. Investitorji iščejo podjetja z močno rastjo in razumnim vrednotenjem, kar lahko privede do povečanega povpraševanja po delnicah. Posledice: Za delnice to pomeni potencialni pritisk navzgor, še posebej za NVDA in sorodna podjetja v AI ekosistemu. Obveznice in valute so manj neposredno prizadete, razen če se optimizem razširi na širše makroekonomske napovedi. Surovine in kriptovalute prav tako nimajo neposredne povezave. Zgodovinski primer: Podobne situacije smo videli pri rastočih tehnoloških podjetjih v zgodnjih fazah interneta ali pametnih telefonov, kjer so nekateri analitiki kljub visoki rasti še vedno videli prostor za rast. Kaj opazovati naprej: Ključno bo spremljati dejanske objave zaslužkov Nvidie in morebitne spremembe v napovedih rasti. Tudi konkurenca in regulacija AI sektorja bosta pomembni. Sklepna misel za slovenskega dolgoročnega vlagatelja: To poudarja, da tudi pri podjetjih, ki so že močno zrasla, lahko obstajajo argumenti za nadaljnjo rast, če so temeljni kazalniki, kot je razmerje med rastjo prihodkov in vrednotenjem, še vedno ugodni. Pomembno je razumeti dinamiko rastočih sektorjev.",
+      "povzetek": "Gina Rinehart, najbogatejša oseba v Avstraliji, je v prvem četrtletju letošnjega leta vložila skoraj 100 milijonov dolarjev v ameriške proizvajalce orožja. Poleg tega je podprla tudi dve rudarski družbi. Ta pomembna naložba kaže na njeno zaupanje v obrambni sektor in surovine, verjetno v luči naraščajočih geopolitičnih napetosti in globalnega povpraševanja.",
+      "analiza": "Naložbe pomembnih vlagateljev, kot je Gina Rinehart, pogosto služijo kot indikator širših tržnih trendov in sentimenta. Njena odločitev, da vloži skoraj 100 milijonov dolarjev v ameriške obrambne delnice, je jasen znak pričakovanja nadaljnje rasti v tem sektorju. To je verjetno povezano z globalnimi geopolitičnimi napetostmi, ki spodbujajo države k povečanju obrambnih proračunov in nakupu vojaške opreme. Mehanizem vpliva je, da povečano povpraševanje po obrambnih izdelkih in storitvah neposredno koristi podjetjem v tem sektorju, kar se odraža v rasti njihovih delniških tečajev. Poleg obrambnega sektorja je Rinehart podprla tudi rudarska podjetja, kar kaže na zaupanje v surovine, ki so pogosto varne naložbe v času inflacije in negotovosti. Posledice so predvsem pozitivne za delnice obrambnih podjetij in podjetij v sektorju surovin. Drugi razredi sredstev, kot so obveznice, valute in kriptovalute, so posredno prizadeti, saj se kapital preusmerja v te sektorje. Za slovenskega dolgoročnega vlagatelja to pomeni, da je obrambni sektor lahko privlačen del portfelja v obdobjih geopolitičnih trenj, vendar je pomembno upoštevati etične vidike in diverzifikacijo.",
       "vpliv": [
-        "Rast delnic Nvidie (NVDA)",
-        "Pozitiven sentiment v AI sektorju",
-        "Povečano povpraševanje po tehnoloških delnicah"
+        "Povečano zanimanje za obrambne delnice",
+        "Rast delnic ameriških proizvajalcev orožja",
+        "Zaupanje v sektor surovin",
+        "Preusmeritev kapitala v varnejše sektorje"
       ],
-      "vir": "24/7 Wall St.",
-      "vir_url": "https://247wallst.com/investing/2026/05/17/nvidia-is-so-cheap-that-itll-be-a-bargain-even-if-it-doubles/",
-      "objavljeno": "2026-05-17T12:09:11Z"
+      "vir": "Bloomberg",
+      "vir_url": "https://www.bloomberg.com/news/articles/2026-05-18/billionaire-gina-rinehart-bets-100-million-on-us-defense-stocks",
+      "objavljeno": "2026-05-18T06:12:00Z"
     },
     {
-      "naslov": "Fannie Mae napoveduje spremembe hipotekarnih obrestnih mer in stanovanjskega trga.",
+      "naslov": "Južnokorejske delnice nadaljujejo padec, saj višji donosi obveznic ogrožajo rast umetne inteligence",
       "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Južnokorejske delnice so izničile velik del jutranjih izgub, vendar so kljub temu nadaljevale padec. Optimizem glede napredka v pogajanjih o delu pri Samsung Electronics Co. je delno ublažil pritisk naraščajočih donosov obveznic. Višji donosi obveznic predstavljajo grožnjo za nedavni vzpon delnic, povezan z umetno inteligenco, saj povečujejo stroške zadolževanja in zmanjšujejo privlačnost tveganih naložb.",
+      "analiza": "Padec južnokorejskih delnic, kljub delnemu okrevanju, odraža širši globalni trend, kjer naraščajoči donosi obveznic predstavljajo izziv za delniške trge. Višji donosi obveznic pomenijo, da so obveznice, ki veljajo za varnejše naložbe, privlačnejše v primerjavi z delnicami, še posebej tistimi z visokimi vrednotenji v sektorju umetne inteligence. Mehanizem vpliva je, da višji donosi obveznic povečujejo diskontno stopnjo, ki se uporablja za vrednotenje prihodnjih denarnih tokov podjetij, kar zmanjšuje njihovo trenutno vrednost. To še posebej prizadene rastna podjetja, kot so tista v AI sektorju, ki imajo velik del pričakovanih dobičkov v daljni prihodnosti. Kljub temu je napredek v pogajanjih pri Samsung Electronics Co. pomemben, saj Samsung predstavlja velik del južnokorejskega gospodarstva in njegove delnice imajo pomembno težo v indeksih. Posledice so predvsem na delniških trgih v Aziji, kjer se lahko nadaljujejo korekcije, in na trgu obveznic, kjer se donosi še naprej dvigujejo. Valute so lahko pod pritiskom, če se kapital preusmerja iz regije. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati gibanje obrestnih mer in donosov obveznic, saj imajo neposreden vpliv na vrednotenje delnic, še posebej v tehnološkem sektorju.",
+      "vpliv": [
+        "Padec južnokorejskih delnic",
+        "Naraščajoči donosi obveznic",
+        "Ogroženost rasti AI delnic",
+        "Vpliv na vrednotenje rastnih podjetij"
+      ],
+      "vir": "Bloomberg.com",
+      "vir_url": "https://www.bloomberg.com/news/articles/2026-05-18/korean-stocks-extend-slump-as-higher-yields-threaten-ai-rally",
+      "objavljeno": "2026-05-18T01:10:00Z"
+    },
+    {
+      "naslov": "Robotaksi prihajajo v London, vendar se taksisti ne nameravajo predati brez boja",
+      "sektor": "Tehnologija & AI",
       "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "TheStreet.com je 17. maja 2026 poročal o majski napovedi stanovanjskega trga, ki jo je objavil Fannie Mae, vladno sponzorirano podjetje (GSE). Napoved vključuje pričakovane spremembe hipotekarnih obrestnih mer in splošne razmere na stanovanjskem trgu v ZDA. Čeprav podrobnosti o konkretnih številkah niso navedene v opisu, so takšne napovedi ključne za razumevanje prihodnje dinamike nepremičninskega sektorja in širšega gospodarstva.",
-      "analiza": "Ozadje in kontekst: Fannie Mae je eden ključnih akterjev na ameriškem hipotekarnem trgu, ki zagotavlja likvidnost in stabilnost. Njegove napovedi so pomembne za banke, nepremičninske posrednike in potrošnike, saj vplivajo na odločitve o posojilih in nakupih nepremičnin. Relevantnost zdaj: Stanovanjski trg je občutljiv na spremembe obrestnih mer. V obdobju morebitnih inflacijskih pritiskov ali zaostrovanja monetarne politike, napovedi o hipotekarnih obrestih postanejo še bolj kritične za gospodarsko rast. Mehanizem vpliva: Višje hipotekarne obrestne mere običajno zmanjšajo povpraševanje po nepremičninah in dostopnost stanovanj, kar lahko upočasni stanovanjski trg. To vpliva na gradbeništvo, potrošniško porabo (manj denarja za druge stvari zaradi višjih obrokov) in splošno gospodarsko aktivnost. Posledice: Za delnice to pomeni morebiten pritisk na delnice gradbenih podjetij, bank (ki imajo hipotekarne portfelje) in podjetij s področja opremljanja domov. Obveznice so posredno prizadete, saj napovedi o obrestnih merah vplivajo na pričakovanja glede monetarne politike. Valute so lahko prizadete, če napoved vpliva na splošno zaupanje v gospodarsko stabilnost države. Surovine in kriptovalute so manj neposredno prizadete. Zgodovinski primer: V letih pred finančno krizo 2008 so spremembe v hipotekarnih obrestnih merah in standardih posojanja močno vplivale na stabilnost finančnega sistema. Kaj opazovati naprej: Pomembno bo spremljati dejanske spremembe v obrestnih merah, odzive centralnih bank in uradne podatke o prodaji nepremičnin in cenah. Sklepna misel za slovenskega dolgoročnega vlagatelja: Razumevanje dinamike stanovanjskega trga v ZDA je pomembno, saj lahko vpliva na globalno gospodarsko rast in s tem na splošno razpoloženje na trgih, kar posredno vpliva tudi na slovenske naložbe.",
+      "intenziteta": 1,
+      "povzetek": "Robotaksi so na poti v London, kar predstavlja nov izziv za londonske taksiste, ki morajo za pridobitev licence poznati na tisoče ulic. Več podjetij si prizadeva uvesti samovozeče taksije v mesto. To tehnološko napredovanje odpira vprašanja o prihodnosti tradicionalnih prevozniških storitev in vplivu avtomatizacije na trg dela.",
+      "analiza": "Prihod robotaksijev v London ni le lokalna novica, temveč simbolizira širši globalni trend avtomatizacije in razvoja umetne inteligence, ki spreminja različne industrije. London, s svojimi ikoničnimi črnimi taksiji in zahtevnim izpitom \"The Knowledge\", je zanimiv primer soočenja tradicije z inovacijami. Mehanizem vpliva na finančne trge je dolgoročen in se kaže v potencialni rasti podjetij, ki razvijajo in upravljajo samovozeča vozila, ter v morebitnem zmanjšanju vrednosti tradicionalnih prevozniških podjetij. Hkrati se odpirajo nove naložbene priložnosti v sektorjih, kot so senzorji, programska oprema za AI in infrastruktura za pametna mesta. Posledice za delniške trge so lahko pozitivne za tehnološka podjetja, ki so v ospredju razvoja avtonomne vožnje, medtem ko lahko tradicionalni prevozniki občutijo pritisk. Vpliv na obveznice, valute in surovine je posreden, vendar dolgoročno lahko avtomatizacija vpliva na produktivnost in gospodarsko rast. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno prepoznati in razumeti dolgoročne tehnološke trende, kot je avtonomna vožnja, saj lahko ti bistveno preoblikujejo industrije in ustvarijo nove naložbene priložnosti.",
       "vpliv": [
-        "Spremembe hipotekarnih obrestnih mer",
-        "Vpliv na stanovanjski trg ZDA",
-        "Odziv delnic gradbenih podjetij in bank",
-        "Vpliv na potrošniško porabo"
+        "Rast podjetij za avtonomno vožnjo",
+        "Izzivi za tradicionalne taksi storitve",
+        "Dolgoročni vpliv AI na trg dela",
+        "Nove naložbene priložnosti v tehnologiji"
       ],
-      "vir": "TheStreet",
-      "vir_url": "https://www.thestreet.com/real-estate/fannie-mae-forecasts-change-in-mortgage-rates-housing-market",
-      "objavljeno": "2026-05-17T11:37:00Z"
-    },
-    {
-      "naslov": "Nvidijini zaslužki bi lahko sprožili pok opcijskega balona, opozarja Seeking Alpha.",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Seeking Alpha je 17. maja 2026 objavila analizo, ki opozarja na evforično aktivnost opcij na delnice Nvidie (NASDAQ:NVDA) pred objavo zaslužkov. Članek nakazuje, da bi ta pretirana aktivnost lahko povzročila 'epski stisk' (squeeze), kar bi lahko vodilo do poka opcijskega balona. To pomeni, da so vlagatelji na opcijskem trgu izjemno optimistični glede prihodnjih gibanj cene delnice, kar ustvarja pogoje za visoko volatilnost ob objavi rezultatov.",
-      "analiza": "Ozadje in kontekst: Nvidia je v zadnjem času doživela izjemno rast, poganjano z navdušenjem nad umetno inteligenco. To je pritegnilo veliko špekulativnega kapitala, vključno z opcijskim trgom, kjer se vlagatelji pogosto poslužujejo vzvoda za doseganje visokih donosov. Relevantnost zdaj: Visoka aktivnost opcij, še posebej pred ključnimi dogodki, kot so objave zaslužkov, lahko poveča tveganje za nenadne in močne premike cen. Če rezultati ne izpolnijo visokih pričakovanj, lahko pride do hitre razprodaje. Mehanizem vpliva: 'Opcijski balon' pomeni, da so cene opcij napihnjene zaradi velikega povpraševanja in optimizma. Ob objavi zaslužkov, če so ti slabši od pričakovanj, se lahko vlagatelji hitro znebijo opcij in delnic, kar povzroči strm padec. Tudi če so rezultati dobri, a ne 'izjemni', lahko pride do 'sell-the-news' dogodka. Posledice: Za delnice Nvidie (NVDA) to pomeni visoko tveganje za volatilnost in potencialno korekcijo. Širši tehnološki indeks (npr. Nasdaq) bi lahko bil prizadet zaradi vpliva Nvidie. Obveznice, valute, surovine in kriptovalute so manj neposredno prizadete, razen če padec Nvidie sproži širši preplah na trgu. Zgodovinski primer: Podobne situacije so se dogajale v preteklosti pri podjetjih, kot so Tesla ali GameStop, kjer je visoka opcijska aktivnost pred objavami ali dogodki povzročila ekstremne cenovne premike. Kaj opazovati naprej: Ključno bo spremljati dejanske objave zaslužkov Nvidie, smernice za prihodnost in odziv trga. Pomembno bo tudi opazovati, ali se bo morebitna korekcija razširila na celoten AI sektor. Sklepna misel za slovenskega dolgoročnega vlagatelja: To opozorilo poudarja pomen razumevanja tveganj, povezanih s špekulativno aktivnostjo na trgu. Dolgoročni vlagatelji bi morali biti pozorni na vrednotenje in temelje podjetja, ne le na kratkoročno navdušenje.",
-      "vpliv": [
-        "Visoka volatilnost delnic Nvidie (NVDA)",
-        "Potencialna korekcija v AI sektorju",
-        "Povečano tveganje na opcijskem trgu",
-        "Vpliv na širši tehnološki indeks"
-      ],
-      "vir": "Seeking Alpha",
-      "vir_url": "https://seekingalpha.com/article/4905785-nvidia-earnings-could-pop-options-bubble",
-      "objavljeno": "2026-05-17T11:00:00Z"
-    },
-    {
-      "naslov": "Umetna inteligenca preoblikuje trg dela: Mladi so prizadeti, podjetja iščejo starejše.",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Gizmodo.com je 17. maja 2026 poročal, da umetna inteligenca (AI) močno vpliva na trg dela, pri čemer so mladi delavci še posebej prizadeti. Nova raziskava kaže, da izvršni direktorji v naslednjih dveh letih načrtujejo zmanjšanje števila začetnih delovnih mest in se namesto tega osredotočajo na zaposlovanje delavcev na srednji ravni. To nakazuje na strukturno spremembo v povpraševanju po delovni sili, kjer AI avtomatizira nekatere naloge, ki so jih prej opravljali mlajši, manj izkušeni zaposleni.",
-      "analiza": "Ozadje in kontekst: Vzpon umetne inteligence prinaša obsežne spremembe v vseh sektorjih gospodarstva. Medtem ko AI povečuje produktivnost, se pojavljajo tudi pomisleki glede njenega vpliva na zaposlovanje in neenakost. Relevantnost zdaj: Ta trend je pomemben za razumevanje prihodnosti trga dela in izobraževanja. Lahko vpliva na potrošniško porabo, socialno stabilnost in vladne politike. Mehanizem vpliva: Če se zmanjša število začetnih delovnih mest, se lahko poveča brezposelnost med mladimi, kar zmanjša njihovo kupno moč in dolgoročno vpliva na gospodarsko rast. Podjetja, ki se osredotočajo na starejše, bolj izkušene delavce, lahko dosežejo večjo učinkovitost, vendar to ustvarja izzive za vstop na trg dela. Posledice: Za delnice to pomeni, da bi lahko imela podjetja, ki uspešno implementirajo AI za optimizacijo delovne sile, koristi, medtem ko bi se podjetja, ki so močno odvisna od mlajše delovne sile, lahko soočala z izzivi. Na makro ravni lahko to vpliva na potrošniško porabo in s tem na sektorje, kot so maloprodaja in storitve. Obveznice in valute so posredno prizadete prek širših gospodarskih trendov. Zgodovinski primer: Podobne strukturne spremembe na trgu dela so se dogajale med industrijskimi revolucijami, ko so nove tehnologije nadomestile določene vrste dela in ustvarile nove. Kaj opazovati naprej: Pomembno bo spremljati vladne politike za prekvalifikacijo delavcev, stopnje brezposelnosti med različnimi starostnimi skupinami in inovacije v izobraževanju. Sklepna misel za slovenskega dolgoročnega vlagatelja: Razumevanje, kako AI preoblikuje trg dela, je ključno za ocenjevanje dolgoročne stabilnosti gospodarstva in potencialnega vpliva na različne sektorje, v katere vlagamo.",
-      "vpliv": [
-        "Povečana brezposelnost med mladimi",
-        "Spremembe v strategijah zaposlovanja podjetij",
-        "Vpliv na potrošniško porabo",
-        "Potreba po prekvalifikaciji delovne sile"
-      ],
-      "vir": "Gizmodo.com",
-      "vir_url": "https://gizmodo.com/the-young-are-being-battered-by-ai-as-hiring-shifts-to-older-workers-2000759608",
-      "objavljeno": "2026-05-17T09:30:39Z"
-    },
-    {
-      "naslov": "Bliža se 'Q-Day': Kvantno računalništvo grozi s kibernetsko krizo, hujšo od Y2K.",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "CNN je 17. maja 2026 poročal, da se bliža 'Q-Day', dan, ko bo kvantni računalnik sposoben razbiti splošno uporabljene oblike šifriranja. Strokovnjaki opozarjajo, da svet na to ni pripravljen, kar bi lahko sprožilo kibernetsko krizo, ki bi bila precej hujša od tiste, ki jo je povzročil problem Y2K. To tveganje izhaja iz izjemne računske moči kvantnih računalnikov, ki bi lahko ogrozili varnost vseh digitalnih komunikacij in podatkov.",
-      "analiza": "Ozadje in kontekst: Kvantno računalništvo je hitro razvijajoče se področje, ki obljublja revolucionarne rešitve za kompleksne probleme. Vendar pa njegova moč prinaša tudi tveganja, predvsem na področju kriptografije, saj lahko razbije algoritme, ki so temelj današnje digitalne varnosti. Relevantnost zdaj: Čeprav je 'Q-Day' morda še nekaj let oddaljen, je priprava na to tveganje ključna že danes. Podjetja in vlade morajo začeti razvijati in implementirati kvantno odporne kriptografske rešitve. Mehanizem vpliva: Kibernetska kriza bi lahko povzročila nepredstavljive gospodarske izgube, ohromila kritično infrastrukturo, ogrozila finančne sisteme in zasebnost posameznikov. To bi imelo daljnosežne posledice za globalno gospodarstvo in družbo. Posledice: Za delnice bi to pomenilo padec vrednosti podjetij, ki so močno odvisna od digitalne varnosti (finance, tehnologija, e-trgovina), in potencialno rast delnic podjetij, ki razvijajo kvantno odporne rešitve. Obveznice bi lahko doživele padec zaradi splošne negotovosti. Valute bi bile prizadete zaradi izgube zaupanja v finančne sisteme. Surovine bi bile manj neposredno prizadete, razen če bi kriza ohromila dobavne verige. Kriptovalute, ki so odvisne od kriptografije, bi se soočile z eksistencialno krizo. Zgodovinski primer: Problem Y2K je bil primer, ko so se podjetja in vlade pripravljale na morebitno krizo, povezano s tehnologijo, čeprav so bile dejanske posledice manjše od pričakovanih zaradi obsežnih priprav. Kaj opazovati naprej: Spremljati je treba napredek v kvantnem računalništvu, razvoj kvantno odporne kriptografije in vladne iniciative za kibernetsko varnost. Sklepna misel za slovenskega dolgoročnega vlagatelja: To opozorilo poudarja pomen razumevanja dolgoročnih tehnoloških tveganj. Vlagatelji bi morali razmisliti o diverzifikaciji in vlaganju v podjetja, ki so odporna na takšna tveganja ali pa razvijajo rešitve zanje.",
-      "vpliv": [
-        "Potencialna globalna kibernetska kriza",
-        "Ogromne gospodarske izgube",
-        "Vpliv na finančne sisteme in zasebnost",
-        "Rast povpraševanja po kvantno odpornih rešitvah"
-      ],
-      "vir": "CNN",
-      "vir_url": "https://www.cnn.com/2026/05/17/science/quantum-computing-cybersecurity-q-day",
-      "objavljeno": "2026-05-17T09:00:52Z"
-    },
-    {
-      "naslov": "Zaposleni Amazona razkrivajo izkušnje po odpuščanjih, strogem vračanju v pisarne in nadzoru AI.",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Business Insider je 17. maja 2026 objavil pričevanja 12 sedanjih in nekdanjih zaposlenih Amazona, ki opisujejo, kako so odpuščanja, umetna inteligenca (AI) in stroga pravila vračanja v pisarne (RTO) preoblikovala njihova delovna mesta v zadnjih letih. Poročilo osvetljuje vpliv teh korporativnih politik na delovno okolje, moralo zaposlenih in produktivnost v enem izmed največjih tehnoloških podjetij na svetu.",
-      "analiza": "Ozadje in kontekst: Velika tehnološka podjetja, vključno z Amazonom, so v zadnjih letih izvajala obsežna odpuščanja, se borila z vprašanji vračanja zaposlenih v pisarne po pandemiji in vse bolj integrirala AI v svoje poslovanje in nadzor. Relevantnost zdaj: Te prakse Amazona so odraz širših trendov v tehnološki industriji in korporativnem svetu. Vplivajo na delovno silo, produktivnost in ugled podjetij, kar ima lahko dolgoročne posledice za njihovo uspešnost. Mehanizem vpliva: Negativno razpoloženje med zaposlenimi, ki ga povzročajo odpuščanja, strog RTO in nadzor AI, lahko zmanjša inovativnost, poveča fluktuacijo in poslabša ugled podjetja. To lahko dolgoročno vpliva na privabljanje talentov in s tem na konkurenčnost. Posledice: Za delnice to pomeni potencialno tveganje za Amazon (AMZN) in druga podjetja, ki izvajajo podobne politike. Slabša morala zaposlenih in težave pri privabljanju talentov lahko zmanjšajo dolgoročno rast in dobičkonosnost. Na širšem trgu lahko to vpliva na sektorje, ki so odvisni od visoko kvalificirane delovne sile. Obveznice, valute, surovine in kriptovalute so manj neposredno prizadete, razen če se trend razširi in vpliva na splošno gospodarsko produktivnost. Zgodovinski primer: Podobne situacije so se pojavljale v preteklosti, ko so podjetja uvajala drastične spremembe v delovni kulturi ali strukturi, kar je vplivalo na moralo in dolgoročno uspešnost. Kaj opazovati naprej: Spremljati je treba, kako bodo velika tehnološka podjetja uravnotežila učinkovitost, ki jo prinaša AI, z dobrobitjo zaposlenih. Pomembni bodo tudi podatki o fluktuaciji in inovativnosti v teh podjetjih. Sklepna misel za slovenskega dolgoročnega vlagatelja: Razumevanje vpliva korporativnih politik na zaposlene in delovno kulturo je pomembno pri ocenjevanju dolgoročne vzdržnosti in potenciala rasti podjetij, še posebej v hitro spreminjajočem se tehnološkem sektorju.",
-      "vpliv": [
-        "Potencialen padec morale zaposlenih v tehnoloških podjetjih",
-        "Vpliv na privabljanje in zadrževanje talentov",
-        "Tveganje za ugled podjetij",
-        "Vpliv na dolgoročno produktivnost"
-      ],
-      "vir": "Business Insider",
-      "vir_url": "https://www.businessinsider.com/amazon-employees-layoffs-ai-return-to-office-rto-tracking-2026-5",
-      "objavljeno": "2026-05-17T09:15:00Z"
+      "vir": "CBS News",
+      "vir_url": "https://www.cbsnews.com/news/london-cabbies-memorize-25000-streets-will-robotaxis-overtake-them-60-minutes-transcript/",
+      "objavljeno": "2026-05-17T23:17:51Z"
     }
   ]
 }
