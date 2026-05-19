@@ -548,6 +548,40 @@ function ExportView({ state, dispatch, fifo, selectedYear, years, setSelectedYea
         </p>
       </Card>
 
+      {/* Lokalno Python orodje */}
+      <Card>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: '0.75rem' }}>
+          <div>
+            <h3 style={{ margin: '0 0 0.25rem', fontSize: '0.95rem', fontWeight: 600 }}>Lokalno Python orodje</h3>
+            <p style={{ margin: '0 0 0.85rem', fontSize: '0.82rem', color: 'var(--color-text-muted)', lineHeight: 1.6, maxWidth: 520 }}>
+              Za popolno zasebnost brez brskalnika: Python skripta ki tece 100 % lokalno na tvojem racunalniku.
+              Prebere CSV transakcij ali IBKR izvoz, izracuna FIFO in izvozi Excel ter eDavki XML.
+            </p>
+            <div style={{ display: 'flex', gap: '0.6rem', flexWrap: 'wrap' }}>
+              <a href="/engineering-investor/lokalno/davek.py" download style={{ ...btnStyle('primary'), textDecoration: 'none' }}>
+                Prenesi davek.py
+              </a>
+              <a href="/engineering-investor/lokalno/transakcije-vzorec.csv" download style={{ ...btnStyle('secondary'), textDecoration: 'none' }}>
+                Vzorec CSV
+              </a>
+              <a href="/engineering-investor/lokalno/profil-vzorec.json" download style={{ ...btnStyle('secondary'), textDecoration: 'none' }}>
+                Vzorec profil.json
+              </a>
+              <a href="/engineering-investor/lokalno/zazeni-windows.bat" download style={{ ...btnStyle('secondary'), textDecoration: 'none' }}>
+                zazeni-windows.bat
+              </a>
+            </div>
+          </div>
+          <div style={{ background: 'var(--color-bg)', border: '1px solid var(--color-border)', borderRadius: 6, padding: '0.75rem 1rem', fontSize: '0.78rem', fontFamily: 'var(--font-mono)', color: 'var(--color-text-muted)', lineHeight: 1.8, flexShrink: 0 }}>
+            <div style={{ color: 'var(--color-text-subtle)', marginBottom: 4, fontFamily: 'inherit', fontSize: '0.7rem', letterSpacing: '0.07em', textTransform: 'uppercase' }}>Hitra zacetek</div>
+            <div><span style={{ color: '#059669' }}>pip install</span> openpyxl</div>
+            <div><span style={{ color: '#059669' }}>python</span> davek.py</div>
+            <div><span style={{ color: '#059669' }}>python</span> davek.py --ibkr ibkr.csv</div>
+            <div><span style={{ color: '#059669' }}>python</span> davek.py --xml --profil profil.json</div>
+          </div>
+        </div>
+      </Card>
+
       {/* Backup */}
       <Card>
         <h3 style={{ margin: '0 0 1rem', fontSize: '0.95rem', fontWeight: 600 }}>Varnostna kopija</h3>
