@@ -111,9 +111,14 @@ async function main() {
   await rotateYesterday();
 
   // Step 1: fetch news.
-  const articles = await fetchAll({ newsApiKey: process.env.NEWSAPI_KEY });
-  if (articles.length === 0) throw new Error('No articles fetched');
-  console.log(`[briefing] ${articles.length} articles in pool, edition=${EDITION}`);
+  const allArticles = await fetchAll({ newsApiKey: process.env.NEWSAPI_KEY });
+  if (allArticles.length === 0) throw new Error('No articles fetched');
+  // Cap at 35 to stay within Gemini output token limits.
+  // Sort by recency first so we always pick the freshest articles.
+  const articles = allArticles
+    .sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt))
+    .slice(0, 35);
+  console.log(`[briefing] ${articles.length}/${allArticles.length} articles in pool, edition=${EDITION}`);
 
   // Step 2: ask Gemini to do everything in one shot (free flow).
   // --- PREMIUM: this would be a 3-step pipeline:
