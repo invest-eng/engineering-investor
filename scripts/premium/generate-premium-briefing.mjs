@@ -81,9 +81,13 @@ async function main() {
   }
 
   // ---- Step 1: fetch ----
-  const articles = await fetchAll({ newsApiKey: process.env.NEWSAPI_KEY });
-  if (articles.length === 0) throw new Error('No articles fetched');
-  console.log(`[premium] ${articles.length} articles in pool`);
+  const allArticles = await fetchAll({});
+  if (allArticles.length === 0) throw new Error('No articles fetched');
+  // Cap at 35 freshest to stay within selector prompt token limits.
+  const articles = allArticles
+    .sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt))
+    .slice(0, 35);
+  console.log(`[premium] ${articles.length}/${allArticles.length} articles in pool`);
 
   // ---- Step 2: selection by majority ----
   console.log('[premium] running selection (majority vote)...');
