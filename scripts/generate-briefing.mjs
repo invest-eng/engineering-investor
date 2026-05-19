@@ -157,7 +157,9 @@ async function main() {
   console.log(`[briefing] wrote ${out.novice?.length ?? 0} items to ${OUT_PATH}`);
 }
 
-main().catch((err) => {
-  console.error('[briefing] failed:', err);
-  process.exit(1);
-});
+main()
+  .then(() => process.exit(0))
+  .catch((err) => {
+    console.error('[briefing] failed:', err);
+    process.exit(1);
+  });
