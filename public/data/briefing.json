@@ -1,112 +1,122 @@
 {
-  "generiranoOb": "2026-05-28T08:12:44.439Z",
+  "generiranoOb": "2026-05-19T16:40:45.116Z",
   "izdaja": "morning",
-  "model": "gemini-2.5-flash",
+  "model": "rss-test-no-ai",
   "tier": "free",
-  "datum": "2026-05-28",
-  "povzetek": "Jutranji pregled finančnih trgov 28. maja 2026 zaznamujejo predvsem geopolitične napetosti in njihove posledice na energetske trge. Cene nafte so poskočile po novih napadih ZDA na Iran, kar kaže na občutljivost globalne oskrbe z energenti. Medtem tehnološki sektor ostaja v ospredju, saj delnice proizvajalcev čipov beležijo največje dobičke po dotcom eri, podjetja kot je Snowflake pa poročajo o skoraj 40-odstotni rasti delnic zaradi povpraševanja po umetni inteligenci. Na drugi strani Atlantika se ameriški potrošniki soočajo s pritiski, saj vse več gospodinjstev posega po prihrankih za kritje stroškov goriva, kar nakazuje na širše makroekonomske izzive. Ruski rubelj je medtem dosegel triletni vrh, kar paradoksalno ustvarja pritisk na rusko vojno gospodarstvo. V Združenem kraljestvu pa poročilo opozarja na tveganje, da bo eden od šestih mladih v petih letih ostal brez dela ali usposabljanja, kar poudarja dolgoročne strukturne probleme na trgu dela. Skupno trgi kažejo mešane signale, kjer optimizem glede tehnološkega napredka stoji nasproti geopolitičnim tveganjem in pritiskom na potrošnike.",
+  "datum": "2026-05-19",
+  "povzetek": "RSS testni nacin: 72 clankov pobrano iz BBC, MarketWatch, CNBC, FT, Al Jazeera. Brez Gemini AI analize.",
   "novice": [
     {
-      "naslov": "Cene nafte poskočile po novih napadih ZDA na Iran kljub premirju",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Cene nafte so poskočile po tem, ko so Združene države Amerike izvedle nove napade na Iran, kljub obstoječemu premirju med Teheranom in Washingtonom ter mirovnim pogovorom. Uradni viri navajajo, da so ameriške sile sestrelile iranske drone, kar je sprožilo povračilne ukrepe Teherana. Iranska revolucionarna garda (IRGC) je sporočila, da je ciljala bazo, ki jo uporabljajo ameriške sile, po ameriških napadih na lokacijo blizu Bandar Abasa. Poročila Al Jazeere navajajo, da so ZDA izvedle napade blizu Bandar Abasa, medtem ko Iran ni poročal o žrtvah ali škodi. Ta eskalacija napetosti v Hormuški ožini neposredno vpliva na globalno oskrbo z nafto.",
-      "analiza": "Ozadje dogajanja vključuje dolgotrajne napetosti med ZDA in Iranom, ki so se kljub pogovorom o premirju ponovno zaostrile. Hormuška ožina je ključna pomorska pot za transport nafte, skozi katero poteka približno petina svetovne oskrbe, zato vsaka nestabilnost v regiji takoj vpliva na cene energentov. Poročila o napadih in povračilnih ukrepih, kot je sestrelitev iranskih dronov s strani ameriških sil, ustvarjajo negotovost glede stabilnosti oskrbe. Mehanizem vpliva na finančne trge je neposreden: povečana geopolitična tveganja v regiji, ki je vitalna za naftne tokove, povzročijo rast cen nafte, saj se trgovci bojijo motenj v dobavi. Posledično se zvišajo stroški goriva za potrošnike in podjetja, kar lahko vpliva na inflacijo in gospodarsko rast. Za delnice to pomeni pritisk na sektorje, ki so odvisni od nizkih cen energentov, medtem ko delnice energetskih podjetij lahko pridobijo. Obveznice so lahko pod pritiskom zaradi inflacijskih pričakovanj, medtem ko valute držav, ki so veliki uvozniki nafte, lahko oslabelijo. Slovenski dolgoročni vlagatelj mora biti pozoren na morebitne inflacijske pritiske, ki lahko vplivajo na kupno moč in donosnost naložb, ter na volatilnost delnic podjetij, povezanih z energetiko.",
+      "naslov": "Supermarkets urged to limit food prices by government",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Any price caps would be voluntary apply to key groceries such as eggs, bread, and milk, the BBC understands.",
+      "analiza": "(RSS testni nacin -- brez Gemini analize)",
       "vpliv": [
-        "Cene nafte poskočile",
-        "Povečana geopolitična tveganja v Hormuški ožini",
-        "Pritisk na inflacijo in stroške podjetij",
-        "Volatilnost delnic energetskega sektorja"
+        "Preizkus RSS vira"
       ],
       "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-05-28T05:32:06.000Z"
+      "vir_url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-05-19T16:24:11.000Z"
     },
     {
-      "naslov": "Delnice proizvajalcev čipov doživljajo največje dobičke po dotcom eri zaradi AI",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Delnice proizvajalcev čipov doživljajo največje dobičke po dotcom eri, saj indeks Philadelphia Semiconductor (SOX) beleži 75-odstotno rast v letu 2026. To rast poganja predvsem naraščajoče povpraševanje po umetni inteligenci (AI) in obsežna poraba tehnoloških velikanov za podatkovne centre. Podjetja v sektorju čipov so ključna za razvoj in implementacijo AI tehnologij, saj zagotavljajo osnovno strojno opremo. Povečane naložbe v AI in infrastrukturo podatkovnih centrov s strani velikih tehnoloških podjetij so glavni katalizatorji za to izjemno rast. To kaže na močno zaupanje v dolgoročni potencial umetne inteligence in njeno transformativno moč v industriji.",
-      "analiza": "Ozadje te rasti je eksponentna rast umetne inteligence, ki zahteva izjemno procesorsko moč. Proizvajalci čipov, kot so Nvidia, AMD in drugi, so v središču te revolucije, saj razvijajo specializirane čipe (GPU-je in AI-akceleratorje), ki so bistveni za usposabljanje in delovanje AI modelov. Povečana poraba tehnoloških velikanov za podatkovne centre, ki so hrbtenica AI, neposredno poganja povpraševanje po teh komponentah. Mehanizem vpliva na finančne trge je jasen: visoko povpraševanje in pričakovana dolgoročna rast prihodkov vodita do rasti delnic v sektorju. To se odraža v indeksu Philadelphia Semiconductor, ki je v letu 2026 zrasel za 75 %. Posledice so pozitivne za delnice podjetij v sektorju polprevodnikov, kar lahko pritegne dodatne naložbe. Vpliv na širši trg je mešan, saj visoka koncentracija rasti v enem sektorju lahko povzroči neravnovesje. Slovenski dolgoročni vlagatelj, ki išče rast, lahko razmisli o diverzifikaciji v tehnološki sektor, vendar mora biti pozoren na morebitno precenjenost in cikličnost industrije čipov, ki je v preteklosti že doživela obdobja hitre rasti in korekcij.",
-      "vpliv": [
-        "Indeks Philadelphia Semiconductor +75% v 2026",
-        "Povečano povpraševanje po AI čipih",
-        "Rast delnic proizvajalcev polprevodnikov",
-        "Velike naložbe v podatkovne centre"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/48cdf575-5509-4b50-a54d-1b767e41be47",
-      "objavljeno": "2026-05-28T04:00:27.000Z"
-    },
-    {
-      "naslov": "Delnice podjetja Snowflake poskočile za skoraj 40 % zaradi rasti prihodkov AI",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Delnice podjetja Snowflake so poskočile za skoraj 40 % po objavi izjemnih rezultatov poslovanja, ki so presegli pričakovanja, in povišanih napovedih. Rast je predvsem posledica pospeševanja povpraševanja po umetni inteligenci (AI), ki poganja rekordno rast prihodkov od produktov. Podjetje je prav tako objavilo 6 milijard dolarjev vredno zavezo za razširitev sodelovanja z Amazonovim AWS. Ta strateška poteza in močni finančni rezultati kažejo na uspešno pozicioniranje podjetja Snowflake v hitro rastočem ekosistemu AI in oblačnih storitev. Vlagatelji so pozitivno sprejeli novico o močni rasti in strateških partnerstvih, kar je povzročilo znatno rast vrednosti delnic.",
-      "analiza": "Snowflake je podjetje, ki ponuja platformo za skladiščenje in analizo podatkov v oblaku, kar je ključno za razvoj in implementacijo rešitev umetne inteligence. Njegova rast prihodkov od produktov, ki je bila rekordna, kaže na močno povpraševanje po njegovih storitvah, saj podjetja zbirajo in analizirajo vedno več podatkov za svoje AI iniciative. Zaveza v višini 6 milijard dolarjev za razširitev sodelovanja z Amazonovim AWS poudarja strateško pomembnost partnerstev v oblačnem okolju in zagotavlja dolgoročno rast. Mehanizem vpliva na finančne trge je pozitiven: močna rast prihodkov, optimistične napovedi in strateška partnerstva povečujejo zaupanje vlagateljev in povzročajo rast delnic. Posledice so neposredna rast delnic podjetja Snowflake in potencialno pozitivni vpliv na celoten sektor oblačnih storitev in AI. Za širši trg to kaže na nadaljnjo moč tehnološkega sektorja, zlasti podjetij, ki so dobro pozicionirana za izkoriščanje trendov AI. Slovenski dolgoročni vlagatelj, ki je izpostavljen tehnološkemu sektorju, lahko pričakuje nadaljnjo rast, vendar mora biti pozoren na visoke vrednotenja in hitre spremembe v tehnološki krajini, ki lahko prinesejo tako priložnosti kot tveganja.",
-      "vpliv": [
-        "Delnice Snowflake +40%",
-        "Rekordna rast prihodkov od produktov",
-        "6 milijard $ zaveze za AWS sodelovanje",
-        "Povečano zaupanje vlagateljev v AI sektor"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/snowflakes-stock-is-on-fire-as-ai-acceleration-drives-record-product-revenue-growth-fdc80a57?mod=mw_rss_topstories",
-      "objavljeno": "2026-05-28T00:30:00.000Z"
-    },
-    {
-      "naslov": "Več Američanov posega po prihrankih za gorivo, kar kaže na pritisk na potrošnike",
-      "sektor": "Potrošniki",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Vse več Američanov posega po svojih nujnih prihrankih, da bi pokrili stroške goriva, kar kaže na naraščajoče finančne pritiske na gospodinjstva. Medtem ko večina ljudi nujne primere povezuje z izgubo službe ali bolniškimi računi, so za mnoge danes to naraščajoči stroški energije. Ta trend poudarja, kako visoke cene goriva ne vplivajo le na proračune, ampak tudi na dolgoročno finančno varnost posameznikov. Zmanjševanje prihrankov za osnovne potrebe, kot je gorivo, lahko dolgoročno oslabi finančno odpornost gospodinjstev in zmanjša njihovo sposobnost za soočanje z drugimi nepričakovanimi stroški. To je zaskrbljujoč znak za zdravje ameriškega potrošnika in širše gospodarstvo.",
-      "analiza": "Ozadje tega dogajanja so visoke in nestabilne cene energentov, ki so posledica geopolitičnih napetosti (kot je konflikt med ZDA in Iranom) ter globalnih motenj v dobavnih verigah. Povečani stroški goriva, ki so nujni za prevoz na delo in vsakodnevne aktivnosti, zmanjšujejo razpoložljivi dohodek gospodinjstev in jih silijo v zmanjšanje drugih izdatkov ali poseganje po prihrankih. Mehanizem vpliva na finančne trge je večplasten: zmanjšanje prihrankov pomeni manjšo potrošnjo za diskrecijske dobrine in storitve, kar lahko upočasni gospodarsko rast. Povečani stroški goriva prispevajo k inflaciji, kar lahko prisili centralne banke k bolj restriktivni monetarni politiki. Posledice so lahko upočasnitev rasti BDP, pritisk na delnice podjetij v sektorju potrošniških dobrin, ki niso nujne, in morebitno zmanjšanje zaupanja potrošnikov. Za obveznice to pomeni, da bi lahko inflacijski pritiski povzročili rast donosov. Slovenski dolgoročni vlagatelj mora biti pozoren na makroekonomske kazalnike, kot so inflacija in potrošniška poraba v ZDA, saj ti vplivajo na globalno gospodarsko rast in s tem na donosnost naložb v različne razrede sredstev.",
-      "vpliv": [
-        "Zmanjšanje nujnih prihrankov Američanov",
-        "Naraščajoči stroški energije kot 'nujni primer'",
-        "Potencialno zmanjšanje potrošniške porabe",
-        "Pritisk na inflacijo in gospodarsko rast"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/more-americans-are-raiding-their-emergency-savings-just-to-fill-up-their-gas-tanks-44a74e22?mod=mw_rss_topstories",
-      "objavljeno": "2026-05-28T01:47:00.000Z"
-    },
-    {
-      "naslov": "Moč rublja ustvarja pritisk na rusko vojno gospodarstvo kljub izvozu energije",
-      "sektor": "Makro & Centralne banke",
+      "naslov": "Petrol hits highest price since start of Iran war",
+      "sektor": "Energetika",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Moč ruskega rublja, ki je dosegel triletni vrh, paradoksalno ustvarja pritisk na rusko vojno gospodarstvo. Kljub sankcijam in vojni v Ukrajini so naraščajoči izvozni prihodki od energije pomagali potisniti valuto na najvišjo raven v zadnjih treh letih. Vendar močan rubelj dela druge ruske izvozne izdelke manj konkurenčne na mednarodnih trgih. To otežuje diverzifikacijo gospodarstva in zmanjšuje prihodke od neenergetskega izvoza, kar je ključno za dolgoročno stabilnost. Močna valuta prav tako pomeni, da so uvoženi izdelki cenejši, kar lahko vpliva na domačo proizvodnjo in inflacijo, čeprav je v vojnem gospodarstvu to lahko tudi koristno za nabavo ključnih komponent.",
-      "analiza": "Ozadje te situacije je kompleksna interakcija med sankcijami, cenami energentov in monetarno politiko Rusije. Kljub obsežnim sankcijam je Rusija uspela ohraniti visok izvoz nafte in plina, predvsem v države, ki niso uvedle sankcij, in izkoristila visoke globalne cene energentov. To je povzročilo velik priliv deviz in podprlo rubelj. Vendar mehanizem vpliva močne valute na gospodarstvo ni vedno pozitiven. Močan rubelj zmanjšuje konkurenčnost ruskega neenergetskega izvoza, saj so izdelki dražji za tuje kupce, kar ovira prizadevanja za diverzifikacijo gospodarstva. To je še posebej problematično za vojno gospodarstvo, ki potrebuje tuje valute za financiranje uvoza ključnih komponent in tehnologij. Posledice so lahko zmanjšanje prihodkov od neenergetskega izvoza, pritisk na domače proizvajalce in morebitna potreba po intervenciji centralne banke za oslabitev valute. Za finančne trge to pomeni, da je ruski trg še naprej pod vplivom edinstvenih dejavnikov, ki se razlikujejo od globalnih trendov. Slovenski dolgoročni vlagatelj, ki je izpostavljen globalnim trgom, mora razumeti, da so geopolitični dejavniki lahko močnejši od tradicionalnih ekonomskih modelov in da lahko povzročijo nepričakovane rezultate, kot je močan rubelj v času vojne, kar zahteva previdnost pri ocenjevanju tveganj in priložnosti.",
+      "povzetek": "The average price of unleaded has risen to 158.52p a litre, according to the RAC, who warn that it could rise further in the coming weeks.",
+      "analiza": "(RSS testni nacin -- brez Gemini analize)",
       "vpliv": [
-        "Rubelj dosegel triletni vrh",
-        "Naraščajoči izvozni prihodki od energije",
-        "Zmanjšana konkurenčnost neenergetskega izvoza",
-        "Pritisk na diverzifikacijo ruskega gospodarstva"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/e04025b9-f53e-4afa-9944-f787bb58125d",
-      "objavljeno": "2026-05-28T04:00:27.000Z"
-    },
-    {
-      "naslov": "Poročilo opozarja: eden od šestih mladih v UK brez dela ali usposabljanja",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Poročilo opozarja, da je Združeno kraljestvo 'v nevarnosti izgubljene generacije', saj naj bi se število mladih med 16. in 24. letom, ki niso zaposleni, v izobraževanju ali usposabljanju, do leta 2031 povzpelo na 1,25 milijona. Brez ustreznih ukrepov bo eden od šestih mladih v petih letih ostal brez dela ali usposabljanja. To predstavlja resen izziv za prihodnost britanskega gospodarstva in družbe, saj lahko dolgotrajna brezposelnost mladih vodi v zmanjšanje produktivnosti, povečanje socialnih stroškov in poglobitev neenakosti. Poročilo poudarja nujnost takojšnjega ukrepanja za preprečitev te napovedane krize na trgu dela.",
-      "analiza": "Ozadje te problematike vključuje strukturne spremembe na trgu dela, pomanjkanje ustreznih veščin pri mladih, neustrezne izobraževalne sisteme in splošno gospodarsko negotovost. Napoved, da bo do leta 2031 1,25 milijona mladih v Združenem kraljestvu brez zaposlitve, izobraževanja ali usposabljanja, je alarmantna in kaže na dolgoročne posledice, če se ne sprejmejo učinkoviti ukrepi. Mehanizem vpliva na finančne trge je posreden, a pomemben: visoka stopnja brezposelnosti mladih zmanjšuje potencialno delovno silo, kar dolgoročno vpliva na gospodarsko rast in produktivnost. To lahko vodi do manjših davčnih prihodkov, večjih socialnih izdatkov in s tem do pritiska na javne finance. Posledice so lahko zmanjšanje zaupanja vlagateljev v dolgoročno gospodarsko stabilnost Združenega kraljestva, kar lahko vpliva na vrednost britanske funte in privlačnost naložb v britanske delnice in obveznice. Zgodovinski primeri kažejo, da 'izgubljene generacije' lahko povzročijo dolgotrajne socialne in ekonomske težave. Slovenski dolgoročni vlagatelj mora biti pozoren na demografske trende in politike trga dela v razvitih gospodarstvih, saj ti vplivajo na dolgoročno rast in stabilnost, kar posredno vpliva na globalne naložbene priložnosti. Diverzifikacija naložb in razumevanje makroekonomskih tveganj sta ključna.",
-      "vpliv": [
-        "1,25 milijona mladih v UK brez dela do 2031",
-        "Povečanje socialnih stroškov",
-        "Zmanjšana produktivnost in gospodarska rast",
-        "Pritisk na javne finance Združenega kraljestva"
+        "Preizkus RSS vira"
       ],
       "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-05-28T07:30:24.000Z"
+      "vir_url": "https://www.bbc.com/news/articles/cdep64555wzo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-05-19T15:12:31.000Z"
+    },
+    {
+      "naslov": "Swatch boss says crowds are 'good news' after watch launch sparks chaos",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Nick Hayek Jr says the pocket watch launch saw \"overcrowding like hell\" at a small number of its UK stores.",
+      "analiza": "(RSS testni nacin -- brez Gemini analize)",
+      "vpliv": [
+        "Preizkus RSS vira"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.com/news/articles/cq6p0vzyvrmo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-05-19T14:12:18.000Z"
+    },
+    {
+      "naslov": "HS2 costs could top £100bn and trains will be slower than first planned",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "The new cost range and train speed are being announced as a \"reset\" of the delayed, over-budget and vastly scaled-back project is carried out.",
+      "analiza": "(RSS testni nacin -- brez Gemini analize)",
+      "vpliv": [
+        "Preizkus RSS vira"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.com/news/articles/c794xw7p2dqo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-05-19T14:34:17.000Z"
+    },
+    {
+      "naslov": "Robo-top: The machines that could make your next t-shirt",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Most clothes are made in Asia, but new machines could bring some of that work back to the West.",
+      "analiza": "(RSS testni nacin -- brez Gemini analize)",
+      "vpliv": [
+        "Preizkus RSS vira"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-05-18T23:04:14.000Z"
+    },
+    {
+      "naslov": "UK unemployment rate unexpectedly rises",
+      "sektor": "Makro & Centralne banke",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "The number of UK job vacancies also fell to its lowest level in five years as the initial impact of the Iran war on businesses starts to be seen.",
+      "analiza": "(RSS testni nacin -- brez Gemini analize)",
+      "vpliv": [
+        "Preizkus RSS vira"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.com/news/articles/czx2plkvg45o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-05-19T08:17:52.000Z"
+    },
+    {
+      "naslov": "Son of Mango boss arrested over father's fatal fall from cliff",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Isak, 71, died in December 2024 after falling from a ravine while walking in the Montserrat mountains near Barcelona.",
+      "analiza": "(RSS testni nacin -- brez Gemini analize)",
+      "vpliv": [
+        "Preizkus RSS vira"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.com/news/articles/c0m2pg1z4x8o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-05-19T15:30:57.000Z"
+    },
+    {
+      "naslov": "What's happening to UK petrol and diesel prices?",
+      "sektor": "Energetika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Motoring group RAC warns pump prices could keep rising if there is no resolution to the Iran war.",
+      "analiza": "(RSS testni nacin -- brez Gemini analize)",
+      "vpliv": [
+        "Preizkus RSS vira"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-05-19T15:09:04.000Z"
     }
   ]
 }

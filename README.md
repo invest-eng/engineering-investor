@@ -5,6 +5,8 @@ Razlaga trgov skozi aktualne dogodke — brez hypea, brez finančnih nasvetov.
 
 Zgrajena z [Astro](https://astro.build).
 
+**Ziva stran:** https://invest-eng.github.io/engineering-investor
+
 ---
 
 ## Kako zagnati lokalno
