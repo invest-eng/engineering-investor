@@ -1,122 +1,112 @@
 {
-  "generiranoOb": "2026-05-19T16:40:45.116Z",
-  "izdaja": "morning",
-  "model": "rss-test-no-ai",
+  "generiranoOb": "2026-05-28T18:25:28.757Z",
+  "izdaja": "afternoon",
+  "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-05-19",
-  "povzetek": "RSS testni nacin: 72 clankov pobrano iz BBC, MarketWatch, CNBC, FT, Al Jazeera. Brez Gemini AI analize.",
+  "datum": "2026-05-28",
+  "povzetek": "Popoldanski pregled finančnih trgov 28. maja 2026 kaže na mešano sliko, kjer se geopolitične napetosti prepletajo z makroekonomskimi podatki in specifičnimi novicami podjetij. Evropski trgi so dan zaključili v pričakovanju razvoja dogodkov glede iranskega premirja, ki je vplivalo na cene nafte. V ZDA, kjer so trgi odprti dve uri, se je pozornost usmerila na porast inflacije na triletni vrh, predvsem zaradi cen goriva, medtem ko so delnice nekaterih trgovcev, kot je Kohl's, močno poskočile. Hkrati so se zvišale hipotekarne obrestne mere na 6,53 %, kar prinaša izzive za nepremičninski trg. Pomembna je tudi novica o tožbi CNN proti Perplexity zaradi kršitve avtorskih pravic in predlog EU za pridobitev kriznih pooblastil za nadzor nad dobavo čipov, kar nakazuje na naraščajoče regulativne in geopolitične izzive v tehnološkem sektorju.",
   "novice": [
     {
-      "naslov": "Supermarkets urged to limit food prices by government",
-      "sektor": "Finance",
+      "naslov": "Washington blizu dogovora o podaljšanju premirja v Iranu",
+      "sektor": "Geopolitika",
       "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Any price caps would be voluntary apply to key groceries such as eggs, bread, and milk, the BBC understands.",
-      "analiza": "(RSS testni nacin -- brez Gemini analize)",
+      "intenziteta": 3,
+      "povzetek": "Ameriški uradniki so sporočili, da se Washington približuje dogovoru o podaljšanju premirja z Iranom. Uprava predsednika Trumpa upa na skorajšnji dogovor, kar prihaja po obdobju izmenjave ognja med obema stranema. Ta razvoj dogodkov je bil objavljen 28. maja 2026 ob 17:49:31 UTC. Novica nakazuje na zmanjšanje napetosti v regiji, kar ima lahko širše posledice za globalno stabilnost in energetske trge.",
+      "analiza": "Ozadje te novice je dolgotrajno obdobje napetosti med ZDA in Iranom, ki je v preteklosti že povzročilo nestabilnost na Bližnjem vzhodu in vplivalo na cene nafte. Morebiten dogovor o podaljšanju premirja je relevanten, saj nakazuje na deeskalacijo konflikta, kar bi lahko umirilo geopolitična tveganja. Mehanizem vpliva na finančne trge je predvsem prek cen surovin; zmanjšanje geopolitičnih tveganj v regiji, ki je ključna za svetovne dobave nafte, običajno vodi do padca cen nafte. Posledice za delnice bi bile lahko pozitivne za podjetja, ki so odvisna od nizkih cen energije, medtem ko bi energetske delnice lahko doživele pritisk. Obveznice bi lahko reagirale z manjšim povpraševanjem po varnih zatočiščih, valute pa bi lahko pokazale krepitev tistih, ki so občutljive na globalno tveganje. Zgodovinsko gledano, vsako zmanjšanje napetosti na Bližnjem vzhodu, kot je bil dogovor o iranskem jedrskem programu leta 2015, je imelo podoben vpliv na cene nafte. Vlagatelji bodo pozorno spremljali podrobnosti morebitnega dogovora in njegovo implementacijo. Za slovenskega dolgoročnega vlagatelja to pomeni potencialno stabilizacijo cen energije, kar lahko pozitivno vpliva na stroške poslovanja podjetij in inflacijo, čeprav je vpliv na posamezne naložbe odvisen od njihove izpostavljenosti energetskemu sektorju in globalnim tveganjem.",
       "vpliv": [
-        "Preizkus RSS vira"
+        "Znižanje cen nafte",
+        "Zmanjšanje geopolitičnih tveganj",
+        "Potencialno zmanjšanje inflacijskih pritiskov",
+        "Povečana stabilnost globalnih trgov"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-05-19T16:24:11.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/89c43161-27c3-4e4d-a5f6-49d895cde3da",
+      "objavljeno": "2026-05-28T17:49:31.000Z"
     },
     {
-      "naslov": "Petrol hits highest price since start of Iran war",
-      "sektor": "Energetika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "The average price of unleaded has risen to 158.52p a litre, according to the RAC, who warn that it could rise further in the coming weeks.",
-      "analiza": "(RSS testni nacin -- brez Gemini analize)",
-      "vpliv": [
-        "Preizkus RSS vira"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/cdep64555wzo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-05-19T15:12:31.000Z"
-    },
-    {
-      "naslov": "Swatch boss says crowds are 'good news' after watch launch sparks chaos",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Nick Hayek Jr says the pocket watch launch saw \"overcrowding like hell\" at a small number of its UK stores.",
-      "analiza": "(RSS testni nacin -- brez Gemini analize)",
-      "vpliv": [
-        "Preizkus RSS vira"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/cq6p0vzyvrmo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-05-19T14:12:18.000Z"
-    },
-    {
-      "naslov": "HS2 costs could top £100bn and trains will be slower than first planned",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "The new cost range and train speed are being announced as a \"reset\" of the delayed, over-budget and vastly scaled-back project is carried out.",
-      "analiza": "(RSS testni nacin -- brez Gemini analize)",
-      "vpliv": [
-        "Preizkus RSS vira"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/c794xw7p2dqo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-05-19T14:34:17.000Z"
-    },
-    {
-      "naslov": "Robo-top: The machines that could make your next t-shirt",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Most clothes are made in Asia, but new machines could bring some of that work back to the West.",
-      "analiza": "(RSS testni nacin -- brez Gemini analize)",
-      "vpliv": [
-        "Preizkus RSS vira"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-05-18T23:04:14.000Z"
-    },
-    {
-      "naslov": "UK unemployment rate unexpectedly rises",
+      "naslov": "Ameriška inflacija dosega triletni vrh med napetostmi z Iranom",
       "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "The number of UK job vacancies also fell to its lowest level in five years as the initial impact of the Iran war on businesses starts to be seen.",
-      "analiza": "(RSS testni nacin -- brez Gemini analize)",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Inflacija v ZDA je poskočila na triletni vrh, kar je delno pripisano napetostim z Iranom. Glavni dejavnik inflacijskih pritiskov so bile povišane cene bencina, ki so v aprilu poskočile za 5,5 odstotka. Novica je bila objavljena 28. maja 2026 ob 16:54:57 UTC. Ta podatek kaže na nadaljevanje inflacijskih skrbi v ameriškem gospodarstvu, kar lahko vpliva na monetarno politiko Federal Reserve.",
+      "analiza": "Ozadje te novice je globalna gospodarska dinamika, kjer geopolitični dogodki, kot so napetosti z Iranom, neposredno vplivajo na cene surovin, zlasti nafte. Povišane cene nafte se nato prelijejo v cene goriva in transporta, kar dviguje splošno raven cen in s tem inflacijo. Dejstvo, da je inflacija v ZDA dosegla triletni vrh, je relevantno, saj to lahko vpliva na odločitve Federal Reserve glede obrestnih mer. Mehanizem vpliva je jasen: višja inflacija zmanjšuje kupno moč potrošnikov in lahko prisili centralno banko k zaostrovanju monetarne politike, kar pomeni višje obrestne mere. Posledice za delnice so lahko negativne, saj višje obrestne mere povečujejo stroške zadolževanja podjetij in zmanjšujejo privlačnost delnic v primerjavi z obveznicami. Obveznice bi lahko doživele padec cen, saj bi vlagatelji zahtevali višje donose za kompenzacijo inflacije. Dolar bi se lahko okrepil zaradi pričakovanj o višjih obrestnih merah. Cene surovin, zlasti nafte, so že pokazale rast. Zgodovinsko gledano, obdobja visoke inflacije, kot so bila v 70. letih prejšnjega stoletja, so bila povezana z gospodarsko stagnacijo in padcem vrednosti delnic. Vlagatelji bodo spremljali nadaljnje inflacijske podatke in odziv Federal Reserve. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti pozoren na globalne inflacijske trende, saj ti vplivajo na vrednost naložb in kupno moč. Naložbe v podjetja z močno cenovno močjo ali v surovine lahko nudijo določeno zaščito pred inflacijo.",
       "vpliv": [
-        "Preizkus RSS vira"
+        "Zvišanje obrestnih mer Federal Reserve (pričakovanja)",
+        "Padec cen obveznic",
+        "Potencialni pritisk na delniške trge",
+        "Krepitev ameriškega dolarja"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/czx2plkvg45o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-05-19T08:17:52.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/5/28/us-inflation-surges-to-three-year-high-amid-tensions-with-iran?traffic_source=rss",
+      "objavljeno": "2026-05-28T16:54:57.000Z"
     },
     {
-      "naslov": "Son of Mango boss arrested over father's fatal fall from cliff",
+      "naslov": "Delnice Kohl's poskočile za 20 % po izboljšanju prodajnih trendov",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Delnice trgovca Kohl's (KSS) so poskočile za 20 % po objavi, da se prodajni trendi izboljšujejo. Podjetje je v četrtek poročalo o najboljši rasti primerljive prodaje v zadnjih štirih letih, čeprav so prihodki še vedno upadli. Novica je bila objavljena 28. maja 2026 ob 16:37:37 UTC. To kaže na morebitno okrevanje v sektorju maloprodaje in optimizem vlagateljev glede prihodnjih rezultatov podjetja.",
+      "analiza": "Ozadje te novice je težavno obdobje za tradicionalne trgovce na drobno, ki se soočajo z močno konkurenco spletnih trgovcev in spreminjajočimi se navadami potrošnikov. Izboljšanje prodajnih trendov pri Kohl's je relevantno, saj lahko nakazuje na širše okrevanje v sektorju ali uspešnost strategij podjetja za privabljanje kupcev. Mehanizem vpliva na finančne trge je neposreden: pozitivni poslovni rezultati in izboljšani obeti podjetja poganjajo rast delnic. Posledice za delnice Kohl's so bile izrazito pozitivne, saj je cena delnice poskočila za 20 %. To lahko vpliva tudi na druge delnice v maloprodajnem sektorju, ki bi lahko doživele rast zaradi optimizma. Obveznice in valute niso neposredno prizadete s to novico, razen če bi šlo za širši trend, ki bi vplival na makroekonomske kazalnike. Zgodovinsko gledano, močni rezultati posameznih podjetij v težavnih sektorjih lahko sprožijo val optimizma in ponovno oceno vrednosti drugih podjetij v istem sektorju. Vlagatelji bodo zdaj pozorno spremljali, ali bo Kohl's lahko vzdrževal ta zagon in ali se bodo podobni trendi pokazali tudi pri drugih trgovcih. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub splošnim izzivom v maloprodaji mogoče najti priložnosti v podjetjih, ki uspešno prilagajajo svoje poslovanje in izboljšujejo rezultate. Pomembno je analizirati posamezna podjetja in ne le celoten sektor.",
+      "vpliv": [
+        "Rast delnic Kohl's (KSS)",
+        "Potencialni optimizem v maloprodajnem sektorju",
+        "Izboljšanje zaupanja potrošnikov (posredno)",
+        "Povečana volatilnost v sektorju"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/05/28/kohls-kss-earnings-q1-2026.html",
+      "objavljeno": "2026-05-28T16:37:37.000Z"
+    },
+    {
+      "naslov": "CNN toži Perplexity zaradi nepooblaščene distribucije avtorsko zaščitene vsebine",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Isak, 71, died in December 2024 after falling from a ravine while walking in the Montserrat mountains near Barcelona.",
-      "analiza": "(RSS testni nacin -- brez Gemini analize)",
+      "povzetek": "CNN je vložil tožbo proti podjetju Perplexity, ki ga obtožuje nezakonitega kopiranja na tisoče zgodb, videoposnetkov in slik za poganjanje svojih izdelkov. Tožba trdi, da je Perplexity nepooblaščeno uporabljal avtorsko zaščiteno vsebino CNN. Novica je bila objavljena 28. maja 2026 ob 17:45:08 UTC. Ta primer poudarja naraščajoče pravne izzive na področju umetne inteligence in avtorskih pravic.",
+      "analiza": "Ozadje te novice je hiter razvoj umetne inteligence, zlasti generativnih AI modelov, ki za svoje delovanje pogosto uporabljajo ogromne količine podatkov, vključno z avtorsko zaščitenimi vsebinami. Tožba CNN proti Perplexity je relevantna, saj predstavlja enega izmed prvih večjih pravnih spopadov med tradicionalnimi medijskimi hišami in podjetji, ki razvijajo AI. Mehanizem vpliva na finančne trge je predvsem prek tehnološkega sektorja, še posebej podjetij, ki se ukvarjajo z umetno inteligenco. Negativne posledice se lahko kažejo v povečanih pravnih stroških za AI podjetja, morebitnih odškodninah in potrebi po spremembi poslovnih modelov, da bi se izognili kršitvam avtorskih pravic. To lahko vpliva na vrednotenje delnic AI podjetij, saj se povečujejo regulativna in pravna tveganja. Za delnice medijskih podjetij, kot je CNN, bi to lahko pomenilo potencialne prihodke od odškodnin in zaščito njihove intelektualne lastnine. Obveznice, valute in surovine niso neposredno prizadete. Zgodovinsko gledano, so se podobni pravni spopadi pojavljali ob vsaki veliki tehnološki revoluciji (npr. glasbena industrija proti spletnemu piratstvu), kar je dolgoročno privedlo do novih poslovnih modelov in regulativnih okvirov. Vlagatelji bodo pozorno spremljali izid te in podobnih tožb, saj bodo določale prihodnost uporabe avtorsko zaščitenih vsebin v AI. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba pri naložbah v tehnološka podjetja, zlasti tista na področju AI, upoštevati tudi pravna in regulativna tveganja, ki lahko vplivajo na njihovo dolgoročno donosnost.",
       "vpliv": [
-        "Preizkus RSS vira"
+        "Povečana pravna tveganja za AI podjetja",
+        "Potencialne odškodnine za medijske hiše",
+        "Vpliv na poslovne modele AI podjetij",
+        "Povečana regulativna negotovost v tehnološkem sektorju"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/c0m2pg1z4x8o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-05-19T15:30:57.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/5/28/cnn-sues-perplexity-alleging-unlawful-distribution-of-copyrighted-content?traffic_source=rss",
+      "objavljeno": "2026-05-28T17:45:08.000Z"
     },
     {
-      "naslov": "What's happening to UK petrol and diesel prices?",
-      "sektor": "Energetika",
+      "naslov": "Hipotekarne obrestne mere v ZDA poskočile na 6,53 %",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Hipotekarne obrestne mere v ZDA so se zvišale na 6,53 %, kar predstavlja dodaten udarec za kupce nepremičnin v pomladanskem obdobju. Čeprav so se obrestne mere v četrtek zvišale, so še vedno nižje kot pred letom dni. Novica je bila objavljena 28. maja 2026 ob 16:17:00 UTC. Ta podatek kaže na nadaljevanje pritiska na nepremičninski trg in zmanjšanje dostopnosti stanovanj za mnoge kupce.",
+      "analiza": "Ozadje te novice je splošna monetarna politika Federal Reserve, ki je v preteklih obdobjih zviševala obrestne mere za boj proti inflaciji. Hipotekarne obrestne mere so neposredno povezane z referenčnimi obrestnimi merami in tržnimi pričakovanji. Zvišanje na 6,53 % je relevantno, saj neposredno vpliva na stroške zadolževanja za nakup nepremičnin, kar zmanjšuje povpraševanje in dostopnost. Mehanizem vpliva na finančne trge je predvsem prek nepremičninskega sektorja in potrošniške porabe. Višje hipotekarne obrestne mere pomenijo dražja posojila, kar lahko upočasni prodajo nepremičnin, zniža cene nepremičnin in zmanjša gradbeno aktivnost. Posledice za delnice so lahko negativne za podjetja v gradbeništvu, nepremičninskem sektorju in banke, ki so močno izpostavljene hipotekarnim posojilom. Obveznice bi lahko doživele pritisk, če bi se pričakovalo nadaljnje zviševanje obrestnih mer. Valute niso neposredno prizadete. Zgodovinsko gledano, so obdobja visokih obrestnih mer pogosto vodila do ohlajanja nepremičninskih trgov in v nekaterih primerih do recesije, kot je bilo to v začetku 80. let prejšnjega stoletja. Vlagatelji bodo spremljali odziv nepremičjskega trga in morebitne spremembe v politiki Federal Reserve. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti pozoren na trende obrestnih mer, saj te vplivajo na stroške zadolževanja in vrednotenje naložb, zlasti tistih, povezanih z nepremičninami ali podjetji, ki so občutljiva na obrestne mere.",
+      "vpliv": [
+        "Zmanjšano povpraševanje po nepremičninah v ZDA",
+        "Pritisk na cene nepremičnin",
+        "Negativen vpliv na delnice gradbenih in nepremičninskih podjetij",
+        "Povečani stroški zadolževanja za potrošnike"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/mortgage-rates-inch-up-to-6-53-the-latest-blow-for-sidelined-spring-buyers-cccc71a9?mod=mw_rss_topstories",
+      "objavljeno": "2026-05-28T16:17:00.000Z"
+    },
+    {
+      "naslov": "EU želi krizna pooblastila za nadzor nad dobavo čipov",
+      "sektor": "Tehnologija & AI",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Motoring group RAC warns pump prices could keep rising if there is no resolution to the Iran war.",
-      "analiza": "(RSS testni nacin -- brez Gemini analize)",
+      "povzetek": "Evropska unija si prizadeva za pridobitev kriznih pooblastil, ki bi ji omogočila prevzem nadzora nad dobavo čipov. Osnutek zakona predvideva, da bi proizvajalci čipov lahko bili prisiljeni razveljaviti obstoječe pogodbe v primeru krize. Novica je bila objavljena 28. maja 2026 ob 16:23:28 UTC. Ta poteza je del širših prizadevanj EU za povečanje odpornosti dobavnih verig in zmanjšanje odvisnosti od tujih dobaviteljev v strateško pomembnem sektorju.",
+      "analiza": "Ozadje te novice je globalno pomanjkanje čipov v preteklih letih, ki je razkrilo ranljivost svetovnih dobavnih verig in močno prizadelo številne industrije, od avtomobilske do potrošniške elektronike. Prizadevanja EU za pridobitev kriznih pooblastil so relevantna, saj kažejo na odločenost bloka, da si zagotovi strateško avtonomijo v ključnem tehnološkem sektorju. Mehanizem vpliva na finančne trge je kompleksen: na eni strani lahko takšna pooblastila povečajo varnost dobave za evropska podjetja, kar je pozitivno. Na drugi strani pa lahko prisilno razveljavljanje pogodb ustvari negotovost in pravna tveganja za proizvajalce čipov, ki poslujejo v EU, kar je negativno. Posledice za delnice bi bile lahko mešane: evropska podjetja, ki so odvisna od čipov, bi lahko imela bolj stabilno dobavo, medtem ko bi globalni proizvajalci čipov lahko doživeli povečana regulativna tveganja. Obveznice in valute niso neposredno prizadete, razen če bi to vplivalo na širšo gospodarsko stabilnost EU. Zgodovinsko gledano, so države in bloki pogosto poskušali zaščititi strateške industrije (npr. obrambo, energijo) z regulativnimi ukrepi, kar je imelo mešane rezultate na trgih. Vlagatelji bodo pozorno spremljali podrobnosti osnutka zakona in njegov vpliv na globalne dobavne verige. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba pri naložbah v tehnološka podjetja in podjetja, ki so odvisna od čipov, upoštevati regulativne spremembe v EU in drugod, saj lahko te vplivajo na konkurenčnost in dobičkonosnost podjetij.",
       "vpliv": [
-        "Preizkus RSS vira"
+        "Povečana regulativna negotovost za proizvajalce čipov",
+        "Potencialno stabilnejša dobava čipov za evropska podjetja",
+        "Vpliv na globalne dobavne verige",
+        "Povečana strateška avtonomija EU v tehnološkem sektorju"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-05-19T15:09:04.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/9d7d6204-4fc7-4f1d-af05-473c3649efcd",
+      "objavljeno": "2026-05-28T16:23:28.000Z"
     }
   ]
 }
