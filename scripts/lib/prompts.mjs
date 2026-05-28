@@ -8,7 +8,9 @@ export const SYSTEM_PROMPT = `Si finančni analitik za slovensko občinstvo. Pi�
 
 const EDITION_FRAMING = {
   morning:
-    'Jutranja izdaja: poudari pregled nočnih dogodkov (ZDA zaprtje, Azija) in kaj pričakovati v Evropi danes.',
+    'Jutranja izdaja (07:30 SLO): pregled nočnih dogodkov — zaprtje ZDA, azijski trgi, kaj pričakovati od Evrope danes.',
+  afternoon:
+    'Popoldanska izdaja (17:30 SLO): evropski trgi so ravno zaprli, ameriški so odprti 2 uri. Povzemi bilanco evropskega dne in začetno smer ZDA.',
   noon:
     'Opoldanska izdaja: evropski trgi v polnem teku, pričakovanja za odprtje ZDA, novi makro objavki.',
   evening:
