@@ -1,112 +1,112 @@
 {
-  "generiranoOb": "2026-05-27T08:13:48.176Z",
+  "generiranoOb": "2026-05-28T08:12:44.439Z",
   "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-05-27",
-  "povzetek": "Jutranja izdaja, 27. maj 2026, prinaša mešane signale z globalnih trgov, zaznamovane z geopolitičnimi napetostmi in tehnološkim optimizmom. V Združenem kraljestvu se pričakuje, da se bodo računi za energijo od julija zvišali za 13 % na dvoletni vrh, kar bo letne stroške gospodinjstev povišalo na 1.862 funtov, predvsem zaradi vpliva iranske vojne na veleprodajne cene. Ta konflikt prav tako povzroča pomanjkanje gnojil v Evropi, kar sproža resne pomisleke glede prehranske varnosti in lahko dvigne cene hrane. Medtem ko geopolitika prinaša izzive, umetna inteligenca še naprej poganja rast: tajvansko gospodarstvo cveti zaradi izvoza AI čipov, podjetji SK Hynix in Micron pa sta se zaradi močnega povpraševanja po AI čipih pridružili klubu bilijonskih podjetij. Na korporativni ravni je odstavitev predsednika uprave BP zaradi obtožb o »nadlegovanju« sprožila vprašanja o vodenju v velikih energetskih podjetjih. Končno, kitajski izvoz električnih vozil je aprila poskočil za 40 %, kar poudarja naraščajočo konkurenčnost in globalno ekspanzijo kitajske avtomobilske industrije. Evropski trgi danes pričakujejo nadaljnje spremljanje inflacijskih podatkov in morebitnih novic glede energetske varnosti.",
+  "datum": "2026-05-28",
+  "povzetek": "Jutranji pregled finančnih trgov 28. maja 2026 zaznamujejo predvsem geopolitične napetosti in njihove posledice na energetske trge. Cene nafte so poskočile po novih napadih ZDA na Iran, kar kaže na občutljivost globalne oskrbe z energenti. Medtem tehnološki sektor ostaja v ospredju, saj delnice proizvajalcev čipov beležijo največje dobičke po dotcom eri, podjetja kot je Snowflake pa poročajo o skoraj 40-odstotni rasti delnic zaradi povpraševanja po umetni inteligenci. Na drugi strani Atlantika se ameriški potrošniki soočajo s pritiski, saj vse več gospodinjstev posega po prihrankih za kritje stroškov goriva, kar nakazuje na širše makroekonomske izzive. Ruski rubelj je medtem dosegel triletni vrh, kar paradoksalno ustvarja pritisk na rusko vojno gospodarstvo. V Združenem kraljestvu pa poročilo opozarja na tveganje, da bo eden od šestih mladih v petih letih ostal brez dela ali usposabljanja, kar poudarja dolgoročne strukturne probleme na trgu dela. Skupno trgi kažejo mešane signale, kjer optimizem glede tehnološkega napredka stoji nasproti geopolitičnim tveganjem in pritiskom na potrošnike.",
   "novice": [
     {
-      "naslov": "Britanski računi za energijo se bodo julija zvišali za 13 % na dvoletni vrh",
+      "naslov": "Cene nafte poskočile po novih napadih ZDA na Iran kljub premirju",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Cene nafte so poskočile po tem, ko so Združene države Amerike izvedle nove napade na Iran, kljub obstoječemu premirju med Teheranom in Washingtonom ter mirovnim pogovorom. Uradni viri navajajo, da so ameriške sile sestrelile iranske drone, kar je sprožilo povračilne ukrepe Teherana. Iranska revolucionarna garda (IRGC) je sporočila, da je ciljala bazo, ki jo uporabljajo ameriške sile, po ameriških napadih na lokacijo blizu Bandar Abasa. Poročila Al Jazeere navajajo, da so ZDA izvedle napade blizu Bandar Abasa, medtem ko Iran ni poročal o žrtvah ali škodi. Ta eskalacija napetosti v Hormuški ožini neposredno vpliva na globalno oskrbo z nafto.",
+      "analiza": "Ozadje dogajanja vključuje dolgotrajne napetosti med ZDA in Iranom, ki so se kljub pogovorom o premirju ponovno zaostrile. Hormuška ožina je ključna pomorska pot za transport nafte, skozi katero poteka približno petina svetovne oskrbe, zato vsaka nestabilnost v regiji takoj vpliva na cene energentov. Poročila o napadih in povračilnih ukrepih, kot je sestrelitev iranskih dronov s strani ameriških sil, ustvarjajo negotovost glede stabilnosti oskrbe. Mehanizem vpliva na finančne trge je neposreden: povečana geopolitična tveganja v regiji, ki je vitalna za naftne tokove, povzročijo rast cen nafte, saj se trgovci bojijo motenj v dobavi. Posledično se zvišajo stroški goriva za potrošnike in podjetja, kar lahko vpliva na inflacijo in gospodarsko rast. Za delnice to pomeni pritisk na sektorje, ki so odvisni od nizkih cen energentov, medtem ko delnice energetskih podjetij lahko pridobijo. Obveznice so lahko pod pritiskom zaradi inflacijskih pričakovanj, medtem ko valute držav, ki so veliki uvozniki nafte, lahko oslabelijo. Slovenski dolgoročni vlagatelj mora biti pozoren na morebitne inflacijske pritiske, ki lahko vplivajo na kupno moč in donosnost naložb, ter na volatilnost delnic podjetij, povezanih z energetiko.",
+      "vpliv": [
+        "Cene nafte poskočile",
+        "Povečana geopolitična tveganja v Hormuški ožini",
+        "Pritisk na inflacijo in stroške podjetij",
+        "Volatilnost delnic energetskega sektorja"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-05-28T05:32:06.000Z"
+    },
+    {
+      "naslov": "Delnice proizvajalcev čipov doživljajo največje dobičke po dotcom eri zaradi AI",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Delnice proizvajalcev čipov doživljajo največje dobičke po dotcom eri, saj indeks Philadelphia Semiconductor (SOX) beleži 75-odstotno rast v letu 2026. To rast poganja predvsem naraščajoče povpraševanje po umetni inteligenci (AI) in obsežna poraba tehnoloških velikanov za podatkovne centre. Podjetja v sektorju čipov so ključna za razvoj in implementacijo AI tehnologij, saj zagotavljajo osnovno strojno opremo. Povečane naložbe v AI in infrastrukturo podatkovnih centrov s strani velikih tehnoloških podjetij so glavni katalizatorji za to izjemno rast. To kaže na močno zaupanje v dolgoročni potencial umetne inteligence in njeno transformativno moč v industriji.",
+      "analiza": "Ozadje te rasti je eksponentna rast umetne inteligence, ki zahteva izjemno procesorsko moč. Proizvajalci čipov, kot so Nvidia, AMD in drugi, so v središču te revolucije, saj razvijajo specializirane čipe (GPU-je in AI-akceleratorje), ki so bistveni za usposabljanje in delovanje AI modelov. Povečana poraba tehnoloških velikanov za podatkovne centre, ki so hrbtenica AI, neposredno poganja povpraševanje po teh komponentah. Mehanizem vpliva na finančne trge je jasen: visoko povpraševanje in pričakovana dolgoročna rast prihodkov vodita do rasti delnic v sektorju. To se odraža v indeksu Philadelphia Semiconductor, ki je v letu 2026 zrasel za 75 %. Posledice so pozitivne za delnice podjetij v sektorju polprevodnikov, kar lahko pritegne dodatne naložbe. Vpliv na širši trg je mešan, saj visoka koncentracija rasti v enem sektorju lahko povzroči neravnovesje. Slovenski dolgoročni vlagatelj, ki išče rast, lahko razmisli o diverzifikaciji v tehnološki sektor, vendar mora biti pozoren na morebitno precenjenost in cikličnost industrije čipov, ki je v preteklosti že doživela obdobja hitre rasti in korekcij.",
+      "vpliv": [
+        "Indeks Philadelphia Semiconductor +75% v 2026",
+        "Povečano povpraševanje po AI čipih",
+        "Rast delnic proizvajalcev polprevodnikov",
+        "Velike naložbe v podatkovne centre"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/48cdf575-5509-4b50-a54d-1b767e41be47",
+      "objavljeno": "2026-05-28T04:00:27.000Z"
+    },
+    {
+      "naslov": "Delnice podjetja Snowflake poskočile za skoraj 40 % zaradi rasti prihodkov AI",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Delnice podjetja Snowflake so poskočile za skoraj 40 % po objavi izjemnih rezultatov poslovanja, ki so presegli pričakovanja, in povišanih napovedih. Rast je predvsem posledica pospeševanja povpraševanja po umetni inteligenci (AI), ki poganja rekordno rast prihodkov od produktov. Podjetje je prav tako objavilo 6 milijard dolarjev vredno zavezo za razširitev sodelovanja z Amazonovim AWS. Ta strateška poteza in močni finančni rezultati kažejo na uspešno pozicioniranje podjetja Snowflake v hitro rastočem ekosistemu AI in oblačnih storitev. Vlagatelji so pozitivno sprejeli novico o močni rasti in strateških partnerstvih, kar je povzročilo znatno rast vrednosti delnic.",
+      "analiza": "Snowflake je podjetje, ki ponuja platformo za skladiščenje in analizo podatkov v oblaku, kar je ključno za razvoj in implementacijo rešitev umetne inteligence. Njegova rast prihodkov od produktov, ki je bila rekordna, kaže na močno povpraševanje po njegovih storitvah, saj podjetja zbirajo in analizirajo vedno več podatkov za svoje AI iniciative. Zaveza v višini 6 milijard dolarjev za razširitev sodelovanja z Amazonovim AWS poudarja strateško pomembnost partnerstev v oblačnem okolju in zagotavlja dolgoročno rast. Mehanizem vpliva na finančne trge je pozitiven: močna rast prihodkov, optimistične napovedi in strateška partnerstva povečujejo zaupanje vlagateljev in povzročajo rast delnic. Posledice so neposredna rast delnic podjetja Snowflake in potencialno pozitivni vpliv na celoten sektor oblačnih storitev in AI. Za širši trg to kaže na nadaljnjo moč tehnološkega sektorja, zlasti podjetij, ki so dobro pozicionirana za izkoriščanje trendov AI. Slovenski dolgoročni vlagatelj, ki je izpostavljen tehnološkemu sektorju, lahko pričakuje nadaljnjo rast, vendar mora biti pozoren na visoke vrednotenja in hitre spremembe v tehnološki krajini, ki lahko prinesejo tako priložnosti kot tveganja.",
+      "vpliv": [
+        "Delnice Snowflake +40%",
+        "Rekordna rast prihodkov od produktov",
+        "6 milijard $ zaveze za AWS sodelovanje",
+        "Povečano zaupanje vlagateljev v AI sektor"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/snowflakes-stock-is-on-fire-as-ai-acceleration-drives-record-product-revenue-growth-fdc80a57?mod=mw_rss_topstories",
+      "objavljeno": "2026-05-28T00:30:00.000Z"
+    },
+    {
+      "naslov": "Več Američanov posega po prihrankih za gorivo, kar kaže na pritisk na potrošnike",
       "sektor": "Potrošniki",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Regulator Ofgem je napovedal zvišanje zgornje meje cen energije v Združenem kraljestvu, kar bo od julija povzročilo 13-odstotno rast računov za gospodinjstva. Letni stroški tipičnega gospodinjstva se bodo tako povečali na 1.862 funtov, kar predstavlja najvišjo raven v zadnjih dveh letih. To zvišanje je neposredna posledica naraščajočih veleprodajnih cen energije, ki so se povišale zaradi vpliva vojne v Iranu. Analitiki pričakujejo, da bo inflacija v zadnjem četrtletju leta dosegla 3,6 %, kar bo še dodatno obremenilo potrošnike. Povečanje bo dodatno zmanjšalo razpoložljiv dohodek in prispevalo k splošnim inflacijskim pritiskom v gospodarstvu.",
-      "analiza": "To zvišanje cen energije v Združenem kraljestvu je ključnega pomena za razumevanje makroekonomskih gibanj v Evropi. Ozadje dogodka je vpliv iranske vojne na globalne energetske trge, ki povzroča rast cen nafte in zemeljskega plina. Čeprav se Združeno kraljestvo ne zanaša neposredno na iransko nafto, globalni trgi reagirajo na motnje v dobavnih verigah, še posebej v Hormuški ožini, kar dviguje veleprodajne cene za vse. To je relevantno zdaj, saj se inflacijski pritiski v Evropi in širše še niso umirili, centralne banke pa se borijo z odločitvami o obrestnih merah. Mehanizem vpliva je direkten: višje cene energije zmanjšujejo razpoložljiv dohodek gospodinjstev, kar lahko zmanjša potrošnjo in upočasni gospodarsko rast. Za finančne trge to pomeni pritisk na delnice podjetij, ki so odvisna od potrošniške porabe (maloprodaja, storitve), medtem ko bi energetska podjetja lahko imela koristi od višjih cen. Povečana inflacija lahko tudi vpliva na pričakovanja glede obrestnih mer, kar bi lahko dvignilo donose obveznic in okrepilo valute, ki so povezane z višjimi obrestnimi merami. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti pozoren na podjetja, ki so izpostavljena visokim energetskim stroškom ali so odvisna od potrošniške porabe, in razmisliti o diverzifikaciji portfelja.",
+      "povzetek": "Vse več Američanov posega po svojih nujnih prihrankih, da bi pokrili stroške goriva, kar kaže na naraščajoče finančne pritiske na gospodinjstva. Medtem ko večina ljudi nujne primere povezuje z izgubo službe ali bolniškimi računi, so za mnoge danes to naraščajoči stroški energije. Ta trend poudarja, kako visoke cene goriva ne vplivajo le na proračune, ampak tudi na dolgoročno finančno varnost posameznikov. Zmanjševanje prihrankov za osnovne potrebe, kot je gorivo, lahko dolgoročno oslabi finančno odpornost gospodinjstev in zmanjša njihovo sposobnost za soočanje z drugimi nepričakovanimi stroški. To je zaskrbljujoč znak za zdravje ameriškega potrošnika in širše gospodarstvo.",
+      "analiza": "Ozadje tega dogajanja so visoke in nestabilne cene energentov, ki so posledica geopolitičnih napetosti (kot je konflikt med ZDA in Iranom) ter globalnih motenj v dobavnih verigah. Povečani stroški goriva, ki so nujni za prevoz na delo in vsakodnevne aktivnosti, zmanjšujejo razpoložljivi dohodek gospodinjstev in jih silijo v zmanjšanje drugih izdatkov ali poseganje po prihrankih. Mehanizem vpliva na finančne trge je večplasten: zmanjšanje prihrankov pomeni manjšo potrošnjo za diskrecijske dobrine in storitve, kar lahko upočasni gospodarsko rast. Povečani stroški goriva prispevajo k inflaciji, kar lahko prisili centralne banke k bolj restriktivni monetarni politiki. Posledice so lahko upočasnitev rasti BDP, pritisk na delnice podjetij v sektorju potrošniških dobrin, ki niso nujne, in morebitno zmanjšanje zaupanja potrošnikov. Za obveznice to pomeni, da bi lahko inflacijski pritiski povzročili rast donosov. Slovenski dolgoročni vlagatelj mora biti pozoren na makroekonomske kazalnike, kot so inflacija in potrošniška poraba v ZDA, saj ti vplivajo na globalno gospodarsko rast in s tem na donosnost naložb v različne razrede sredstev.",
       "vpliv": [
-        "Zvišanje letnih stroškov za 1.862 funtov",
-        "13-odstotno zvišanje računov od julija",
-        "Pritisk na potrošniško porabo",
-        "Inflacijski pritiski"
+        "Zmanjšanje nujnih prihrankov Američanov",
+        "Naraščajoči stroški energije kot 'nujni primer'",
+        "Potencialno zmanjšanje potrošniške porabe",
+        "Pritisk na inflacijo in gospodarsko rast"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/080db498-9e03-456f-a6e2-dae19f73552c",
-      "objavljeno": "2026-05-27T07:33:03.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/more-americans-are-raiding-their-emergency-savings-just-to-fill-up-their-gas-tanks-44a74e22?mod=mw_rss_topstories",
+      "objavljeno": "2026-05-28T01:47:00.000Z"
     },
     {
-      "naslov": "Evropa se sooča s pomanjkanjem gnojil zaradi iranske vojne in motenj dobave",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Iran-ska vojna povzroča motnje v dobavnih verigah, še posebej v Hormuški ožini, kar močno vpliva na globalno dobavo gnojil. Evropska unija je že sprožila poseben načrt za gnojila, saj se pojavljajo resni pomisleki glede prehranske varnosti. Motnje v dobavi goriva in surovin za proizvodnjo gnojil so povzročile pomanjkanje in rast cen. To pomanjkanje gnojil neposredno vpliva na kmetijsko proizvodnjo in lahko povzroči višje cene hrane po vsej Evropi. Situacija poudarja ranljivost globalnih dobavnih verig in odvisnost od ključnih regij za vitalne surovine.",
-      "analiza": "Pomanjkanje gnojil zaradi iranske vojne predstavlja resno grožnjo za evropsko kmetijstvo in prehransko varnost. Ozadje je eskalacija konflikta v Iranu, ki ovira pomorske poti, zlasti Hormuško ožino, ključno za transport nafte, plina in drugih surovin, vključno s komponentami za gnojila. To je relevantno zdaj, saj se Evropa že sooča z inflacijskimi pritiski in visokimi cenami energentov, kar dodatno obremenjuje potrošnike in podjetja. Mehanizem vpliva je večplasten: manjša dobava gnojil pomeni višje stroške za kmete, kar se bo preneslo v višje cene hrane za končne potrošnike. To bo pospešilo inflacijo in zmanjšalo kupno moč. Za finančne trge to pomeni pritisk na delnice podjetij v živilski industriji in maloprodaji, medtem ko bi lahko podjetja, ki proizvajajo gnojila iz alternativnih virov, pridobila. Povečana negotovost glede prehranske varnosti lahko vpliva tudi na cene kmetijskih surovin (žito, koruza) in s tem na inflacijska pričakovanja, kar bi lahko vplivalo na obvezniške trge in valute. Zgodovinsko gledano, geopolitični konflikti, ki vplivajo na ključne surovine, vedno povzročijo nihanja na trgih in povečajo nestanovitnost. Za slovenskega dolgoročnega vlagatelja je pomembno, da razume, kako globalni dogodki vplivajo na lokalne cene in podjetja, ter da razmisli o diverzifikaciji v sektorje, ki so manj izpostavljeni takšnim šokom.",
-      "vpliv": [
-        "Povišanje cen hrane",
-        "Pritisk na kmetijsko proizvodnjo",
-        "Sprožitev načrta EU za gnojila",
-        "Povečana inflacija"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/5/27/how-badly-is-europe-affected-by-fertiliser-shortages-due-to-the-iran-war?traffic_source=rss",
-      "objavljeno": "2026-05-27T06:52:44.000Z"
-    },
-    {
-      "naslov": "Tajvansko gospodarstvo cveti zaradi umetne inteligence, vendar ne za vse",
-      "sektor": "Tehnologija & AI",
+      "naslov": "Moč rublja ustvarja pritisk na rusko vojno gospodarstvo kljub izvozu energije",
+      "sektor": "Makro & Centralne banke",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Tajvan doživlja eksplozivno rast BDP, ki je v veliki meri posledica izvoza čipov, povezanih z umetno inteligenco. Kljub temu gospodarskemu razcvetu vsi Tajvanci ne čutijo koristi enako, kar povzroča določene socialne razlike. Rast je osredotočena predvsem na visoko tehnološki sektor, medtem ko se drugi deli gospodarstva morda ne razvijajo enako hitro. Ta situacija poudarja izzive enakomerne porazdelitve bogastva, ki ga ustvarja hiter tehnološki napredek. Nekateri Tajvanci se počutijo izključene iz tega gospodarskega razcveta, kar lahko vodi do družbenih napetosti.",
-      "analiza": "Tajvanski gospodarski razcvet, ki ga poganja umetna inteligenca, je odličen primer, kako tehnološke inovacije preoblikujejo globalno ekonomijo. Ozadje je izjemno povpraševanje po naprednih polprevodnikih, ki so ključni za razvoj in delovanje sistemov umetne inteligence. Tajvan, s podjetji kot je TSMC, je vodilni proizvajalec teh čipov. To je relevantno zdaj, saj AI postaja gonilna sila globalne rasti, kar vpliva na celotno tehnološko industrijo in širše. Mehanizem vpliva je direkten: povečan izvoz čipov prinaša visoke prihodke in rast BDP, vendar se koristi morda ne porazdelijo enakomerno med vsemi sloji prebivalstva, kar lahko povzroči socialne napetosti. Za finančne trge to pomeni nadaljnjo rast delnic podjetij v sektorju polprevodnikov in umetne inteligence. To lahko privede do povečanih naložb v Tajvan, kar bi lahko okrepilo tajvansko valuto in privabilo tuje investicije. Hkrati pa lahko neenakomerna porazdelitev bogastva povzroči politična tveganja. Zgodovinsko gledano, hitra gospodarska rast, ki jo poganja en sektor, pogosto ustvarja razlike v družbi. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor umetne inteligence privlačen za naložbe, vendar je pomembno razumeti tudi širše družbene in politične posledice hitre tehnološke rasti.",
+      "povzetek": "Moč ruskega rublja, ki je dosegel triletni vrh, paradoksalno ustvarja pritisk na rusko vojno gospodarstvo. Kljub sankcijam in vojni v Ukrajini so naraščajoči izvozni prihodki od energije pomagali potisniti valuto na najvišjo raven v zadnjih treh letih. Vendar močan rubelj dela druge ruske izvozne izdelke manj konkurenčne na mednarodnih trgih. To otežuje diverzifikacijo gospodarstva in zmanjšuje prihodke od neenergetskega izvoza, kar je ključno za dolgoročno stabilnost. Močna valuta prav tako pomeni, da so uvoženi izdelki cenejši, kar lahko vpliva na domačo proizvodnjo in inflacijo, čeprav je v vojnem gospodarstvu to lahko tudi koristno za nabavo ključnih komponent.",
+      "analiza": "Ozadje te situacije je kompleksna interakcija med sankcijami, cenami energentov in monetarno politiko Rusije. Kljub obsežnim sankcijam je Rusija uspela ohraniti visok izvoz nafte in plina, predvsem v države, ki niso uvedle sankcij, in izkoristila visoke globalne cene energentov. To je povzročilo velik priliv deviz in podprlo rubelj. Vendar mehanizem vpliva močne valute na gospodarstvo ni vedno pozitiven. Močan rubelj zmanjšuje konkurenčnost ruskega neenergetskega izvoza, saj so izdelki dražji za tuje kupce, kar ovira prizadevanja za diverzifikacijo gospodarstva. To je še posebej problematično za vojno gospodarstvo, ki potrebuje tuje valute za financiranje uvoza ključnih komponent in tehnologij. Posledice so lahko zmanjšanje prihodkov od neenergetskega izvoza, pritisk na domače proizvajalce in morebitna potreba po intervenciji centralne banke za oslabitev valute. Za finančne trge to pomeni, da je ruski trg še naprej pod vplivom edinstvenih dejavnikov, ki se razlikujejo od globalnih trendov. Slovenski dolgoročni vlagatelj, ki je izpostavljen globalnim trgom, mora razumeti, da so geopolitični dejavniki lahko močnejši od tradicionalnih ekonomskih modelov in da lahko povzročijo nepričakovane rezultate, kot je močan rubelj v času vojne, kar zahteva previdnost pri ocenjevanju tveganj in priložnosti.",
       "vpliv": [
-        "Eksplozivna rast BDP Tajvana",
-        "Povečan izvoz čipov za AI",
-        "Neenakomerna porazdelitev koristi",
-        "Rast delnic v sektorju polprevodnikov"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/5/27/taiwans-economy-is-booming-thanks-to-ai-not-everyone-sees-the-benefits?traffic_source=rss",
-      "objavljeno": "2026-05-27T07:12:35.000Z"
-    },
-    {
-      "naslov": "Naraščajoče povpraševanje po AI čipih ustvarja dva nova bilijonska podjetja",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Podjetji SK Hynix in Micron sta se pridružili elitnemu klubu podjetij z bilijonsko vrednostjo, kar je neposredna posledica izjemnega povpraševanja po čipih za umetno inteligenco. Ta proizvajalca pomnilniških čipov sta najnovejša tehnološka podjetja, ki sta dosegla mega-vrednotenja, kar poudarja močan vpliv AI na tržne kapitalizacije. Njihova rast odraža širši trend v tehnološkem sektorju, kjer podjetja, ki so ključna za infrastrukturo AI, doživljajo izjemno rast. Ta razvoj kaže na preusmeritev naložb v podjetja, ki so v ospredju inovacij na področju umetne inteligence.",
-      "analiza": "Vstop SK Hynix in Microna v klub podjetij z bilijonsko vrednostjo jasno kaže na izjemen vpliv umetne inteligence na globalne finančne trge. Ozadje je eksponentna rast povpraševanja po visoko zmogljivih pomnilniških čipih, ki so nujni za obdelavo ogromnih količin podatkov, potrebnih za razvoj in delovanje AI modelov. To je relevantno zdaj, saj se naložbe v AI infrastrukturo nadaljujejo z izjemno hitrostjo, kar poganja rast podjetij v celotni dobavni verigi polprevodnikov. Mehanizem vpliva je direkten: povečano povpraševanje in prodaja vodita do višjih prihodkov in dobičkov, kar se odraža v rasti cen delnic in tržne kapitalizacije. Za finančne trge to pomeni nadaljnjo močno rast v tehnološkem sektorju, še posebej med proizvajalci čipov in sorodnimi podjetji. To lahko privede do preusmeritve kapitala iz drugih sektorjev v tehnologijo, kar lahko vpliva na relativno uspešnost različnih delniških indeksov. Zgodovinsko gledano, so se podobni \"boom\" cikli dogajali z internetom in mobilno telefonijo, kjer so ključni infrastrukturni ponudniki doživeli izjemno rast. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor umetne inteligence in polprevodnikov še vedno vir priložnosti, vendar je pomembno razumeti tveganja, povezana s hitro rastjo in morebitno pregrevanjem trga.",
-      "vpliv": [
-        "SK Hynix in Micron dosegla bilijonsko vrednost",
-        "Rast povpraševanja po AI čipih",
-        "Povečana tržna kapitalizacija",
-        "Preusmeritev kapitala v tehnološki sektor"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/cnvp9dq0p3go?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-05-27T02:15:10.000Z"
-    },
-    {
-      "naslov": "Odstranitev predsednika uprave BP zaradi \"nadlegovanja\" sproža vprašanja o vodenju",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Albert Manifold, predsednik uprave BP, je bil odstavljen zaradi obtožb o \"nadlegovanju\" in neprimerne uporabe osebnih naprav. Ta nenadna odstranitev je sprožila nov krog negotovosti in pritiska na izvršno direktorico Meg O’Neill. Dogodek poudarja izzive korporativnega upravljanja v velikih energetskih podjetjih in lahko vpliva na zaupanje v vodstvo BP. Podjetje BP ni želelo komentirati podrobnosti o razlogih za takojšnjo odpoved, kar dodatno prispeva k špekulacijam. To ustvarja negotovost glede prihodnje smeri in stabilnosti podjetja.",
-      "analiza": "Odstranitev predsednika uprave BP, Alberta Manifolda, zaradi obtožb o neprimernem vedenju, je pomemben dogodek na področju korporativnega upravljanja. Ozadje je naraščajoč poudarek na etičnem vodenju in transparentnosti v velikih podjetjih, še posebej po preteklih škandalih. To je relevantno zdaj, saj BP, kot eno največjih energetskih podjetij na svetu, igra ključno vlogo na globalnih trgih, in vsaka nestabilnost v vodstvu lahko vpliva na njegovo poslovanje in ugled. Mehanizem vpliva je predvsem na zaupanje vlagateljev: negotovost glede vodenja lahko povzroči padec cene delnice podjetja, saj vlagatelji cenijo stabilnost in jasno strategijo. Za finančne trge to pomeni morebiten padec delnic BP, kar bi lahko vplivalo na energetske indekse. Prav tako lahko takšni dogodki sprožijo širše preglede korporativnega upravljanja v drugih podjetjih. Zgodovinsko gledano, so spremembe v vodstvu, še posebej tiste, ki so posledica etičnih vprašanj, pogosto povzročile kratkoročno nestanovitnost cen delnic. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati ne le finančne rezultate podjetij, temveč tudi kakovost njihovega korporativnega upravljanja, saj lahko slabo vodenje povzroči znatne izgube.",
-      "vpliv": [
-        "Odstavitev predsednika uprave BP",
-        "Pritisk na izvršno direktorico Meg O’Neill",
-        "Negotovost v vodstvu BP",
-        "Možen padec delnic BP"
+        "Rubelj dosegel triletni vrh",
+        "Naraščajoči izvozni prihodki od energije",
+        "Zmanjšana konkurenčnost neenergetskega izvoza",
+        "Pritisk na diverzifikacijo ruskega gospodarstva"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/88702665-c3ed-4c29-82ba-0d7ce1eba8cd",
-      "objavljeno": "2026-05-27T06:12:53.000Z"
+      "vir_url": "https://www.ft.com/content/e04025b9-f53e-4afa-9944-f787bb58125d",
+      "objavljeno": "2026-05-28T04:00:27.000Z"
     },
     {
-      "naslov": "Kitajski izvoz električnih vozil aprila poskočil za 40 odstotkov",
-      "sektor": "Globalna trgovina",
-      "smer": "pozitivno",
+      "naslov": "Poročilo opozarja: eden od šestih mladih v UK brez dela ali usposabljanja",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Kitajski izvoz električnih vozil (EV) je aprila zabeležil impresivno 40-odstotno rast, kar kaže na nadaljnjo globalno ekspanzijo kitajske avtomobilske industrije. Podatki, ki jih je zbral Bloomberg, kažejo, da je Azija kupila največ kitajskih električnih vozil, sledita pa ji Evropa in Latinska Amerika. Ta močna rast poudarja konkurenčnost kitajskih proizvajalcev in njihov naraščajoč delež na svetovnem trgu EV. Povečan izvoz lahko sproži tudi trgovinske napetosti, saj se drugi proizvajalci avtomobilov soočajo z močno konkurenco. To kaže na hitro spreminjajočo se dinamiko globalne avtomobilske industrije.",
-      "analiza": "40-odstotni porast kitajskega izvoza električnih vozil v aprilu je pomemben pokazatelj globalnih trgovinskih trendov in hitre preobrazbe avtomobilske industrije. Ozadje je agresivna strategija Kitajske za razvoj in subvencioniranje industrije EV, kar jim omogoča proizvodnjo cenovno konkurenčnih vozil. To je relevantno zdaj, saj se svetovna gospodarstva pospešeno preusmerjajo k zeleni energiji in elektrifikaciji transporta, kar ustvarja ogromno povpraševanje po EV. Mehanizem vpliva je večplasten: povečan izvoz kitajskih EV-jev povečuje konkurenco za tradicionalne avtomobilske proizvajalce v Evropi in drugod, kar lahko povzroči pritisk na njihove marže in tržne deleže. Za finančne trge to pomeni nadaljnjo rast delnic kitajskih proizvajalcev EV in pritisk na delnice evropskih in ameriških avtomobilskih podjetij, ki se borijo s konkurenco. Povečan izvoz lahko tudi vpliva na trgovinske bilance in valutne tečaje. Zgodovinsko gledano, so podobni valovi izvoza iz Kitajske preoblikovali druge industrije, kot so tekstilna in elektronska. Za slovenskega dolgoročnega vlagatelja to pomeni, da je avtomobilska industrija v fazi preoblikovanja, in je pomembno biti pozoren na podjetja, ki so inovativna in konkurenčna na področju EV, ne glede na njihovo geografsko lokacijo.",
+      "povzetek": "Poročilo opozarja, da je Združeno kraljestvo 'v nevarnosti izgubljene generacije', saj naj bi se število mladih med 16. in 24. letom, ki niso zaposleni, v izobraževanju ali usposabljanju, do leta 2031 povzpelo na 1,25 milijona. Brez ustreznih ukrepov bo eden od šestih mladih v petih letih ostal brez dela ali usposabljanja. To predstavlja resen izziv za prihodnost britanskega gospodarstva in družbe, saj lahko dolgotrajna brezposelnost mladih vodi v zmanjšanje produktivnosti, povečanje socialnih stroškov in poglobitev neenakosti. Poročilo poudarja nujnost takojšnjega ukrepanja za preprečitev te napovedane krize na trgu dela.",
+      "analiza": "Ozadje te problematike vključuje strukturne spremembe na trgu dela, pomanjkanje ustreznih veščin pri mladih, neustrezne izobraževalne sisteme in splošno gospodarsko negotovost. Napoved, da bo do leta 2031 1,25 milijona mladih v Združenem kraljestvu brez zaposlitve, izobraževanja ali usposabljanja, je alarmantna in kaže na dolgoročne posledice, če se ne sprejmejo učinkoviti ukrepi. Mehanizem vpliva na finančne trge je posreden, a pomemben: visoka stopnja brezposelnosti mladih zmanjšuje potencialno delovno silo, kar dolgoročno vpliva na gospodarsko rast in produktivnost. To lahko vodi do manjših davčnih prihodkov, večjih socialnih izdatkov in s tem do pritiska na javne finance. Posledice so lahko zmanjšanje zaupanja vlagateljev v dolgoročno gospodarsko stabilnost Združenega kraljestva, kar lahko vpliva na vrednost britanske funte in privlačnost naložb v britanske delnice in obveznice. Zgodovinski primeri kažejo, da 'izgubljene generacije' lahko povzročijo dolgotrajne socialne in ekonomske težave. Slovenski dolgoročni vlagatelj mora biti pozoren na demografske trende in politike trga dela v razvitih gospodarstvih, saj ti vplivajo na dolgoročno rast in stabilnost, kar posredno vpliva na globalne naložbene priložnosti. Diverzifikacija naložb in razumevanje makroekonomskih tveganj sta ključna.",
       "vpliv": [
-        "40-odstotni porast izvoza kitajskih EV",
-        "Povečana konkurenca za globalne avtomobilske proizvajalce",
-        "Rast delnic kitajskih proizvajalcev EV",
-        "Vpliv na trgovinske bilance"
+        "1,25 milijona mladih v UK brez dela do 2031",
+        "Povečanje socialnih stroškov",
+        "Zmanjšana produktivnost in gospodarska rast",
+        "Pritisk na javne finance Združenega kraljestva"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/5/27/chinas-ev-exports-surge-40-percent-in-april?traffic_source=rss",
-      "objavljeno": "2026-05-27T05:32:48.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-05-28T07:30:24.000Z"
     }
   ]
 }

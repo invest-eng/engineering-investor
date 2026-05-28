@@ -1,112 +1,112 @@
 {
-  "generiranoOb": "2026-05-26T08:01:19.484Z",
+  "generiranoOb": "2026-05-27T08:13:48.176Z",
   "izdaja": "morning",
-  "model": "gemini-2.5-flash-lite",
+  "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-05-26",
-  "povzetek": "Današnje jutro prinaša pomembne premike na mednarodnem prizorišču, zlasti v povezavi z napetostmi v Perzijskem zalivu. ZDA so izvedle nove napade na cilje v južnem Iranu, medtem ko potekajo mirovna pogajanja v Katarju, kar je povzročilo padce cen nafte. Hkrati se pojavljajo poročila o potencialnem dogovoru za končanje vojne z Iranom, kar bi lahko ponovno odprlo Hormuško ožino. Na področju tehnologije je Ferrari predstavil svoj prvi popolnoma električni avtomobil, medtem ko Apple čaka na novo strategijo za inovacije. V ZDA se nadaljujejo politične napetosti, povezane z afero Epstein, medtem ko se v Evropi pojavljajo skrbi glede padca števila začetnih delovnih mest in vpliva družbenih omrežij na mlade.",
+  "datum": "2026-05-27",
+  "povzetek": "Jutranja izdaja, 27. maj 2026, prinaša mešane signale z globalnih trgov, zaznamovane z geopolitičnimi napetostmi in tehnološkim optimizmom. V Združenem kraljestvu se pričakuje, da se bodo računi za energijo od julija zvišali za 13 % na dvoletni vrh, kar bo letne stroške gospodinjstev povišalo na 1.862 funtov, predvsem zaradi vpliva iranske vojne na veleprodajne cene. Ta konflikt prav tako povzroča pomanjkanje gnojil v Evropi, kar sproža resne pomisleke glede prehranske varnosti in lahko dvigne cene hrane. Medtem ko geopolitika prinaša izzive, umetna inteligenca še naprej poganja rast: tajvansko gospodarstvo cveti zaradi izvoza AI čipov, podjetji SK Hynix in Micron pa sta se zaradi močnega povpraševanja po AI čipih pridružili klubu bilijonskih podjetij. Na korporativni ravni je odstavitev predsednika uprave BP zaradi obtožb o »nadlegovanju« sprožila vprašanja o vodenju v velikih energetskih podjetjih. Končno, kitajski izvoz električnih vozil je aprila poskočil za 40 %, kar poudarja naraščajočo konkurenčnost in globalno ekspanzijo kitajske avtomobilske industrije. Evropski trgi danes pričakujejo nadaljnje spremljanje inflacijskih podatkov in morebitnih novic glede energetske varnosti.",
   "novice": [
     {
-      "naslov": "ZDA napadle Iran med mirovnimi pogajanji, nafta pada",
+      "naslov": "Britanski računi za energijo se bodo julija zvišali za 13 % na dvoletni vrh",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Regulator Ofgem je napovedal zvišanje zgornje meje cen energije v Združenem kraljestvu, kar bo od julija povzročilo 13-odstotno rast računov za gospodinjstva. Letni stroški tipičnega gospodinjstva se bodo tako povečali na 1.862 funtov, kar predstavlja najvišjo raven v zadnjih dveh letih. To zvišanje je neposredna posledica naraščajočih veleprodajnih cen energije, ki so se povišale zaradi vpliva vojne v Iranu. Analitiki pričakujejo, da bo inflacija v zadnjem četrtletju leta dosegla 3,6 %, kar bo še dodatno obremenilo potrošnike. Povečanje bo dodatno zmanjšalo razpoložljiv dohodek in prispevalo k splošnim inflacijskim pritiskom v gospodarstvu.",
+      "analiza": "To zvišanje cen energije v Združenem kraljestvu je ključnega pomena za razumevanje makroekonomskih gibanj v Evropi. Ozadje dogodka je vpliv iranske vojne na globalne energetske trge, ki povzroča rast cen nafte in zemeljskega plina. Čeprav se Združeno kraljestvo ne zanaša neposredno na iransko nafto, globalni trgi reagirajo na motnje v dobavnih verigah, še posebej v Hormuški ožini, kar dviguje veleprodajne cene za vse. To je relevantno zdaj, saj se inflacijski pritiski v Evropi in širše še niso umirili, centralne banke pa se borijo z odločitvami o obrestnih merah. Mehanizem vpliva je direkten: višje cene energije zmanjšujejo razpoložljiv dohodek gospodinjstev, kar lahko zmanjša potrošnjo in upočasni gospodarsko rast. Za finančne trge to pomeni pritisk na delnice podjetij, ki so odvisna od potrošniške porabe (maloprodaja, storitve), medtem ko bi energetska podjetja lahko imela koristi od višjih cen. Povečana inflacija lahko tudi vpliva na pričakovanja glede obrestnih mer, kar bi lahko dvignilo donose obveznic in okrepilo valute, ki so povezane z višjimi obrestnimi merami. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti pozoren na podjetja, ki so izpostavljena visokim energetskim stroškom ali so odvisna od potrošniške porabe, in razmisliti o diverzifikaciji portfelja.",
+      "vpliv": [
+        "Zvišanje letnih stroškov za 1.862 funtov",
+        "13-odstotno zvišanje računov od julija",
+        "Pritisk na potrošniško porabo",
+        "Inflacijski pritiski"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/080db498-9e03-456f-a6e2-dae19f73552c",
+      "objavljeno": "2026-05-27T07:33:03.000Z"
+    },
+    {
+      "naslov": "Evropa se sooča s pomanjkanjem gnojil zaradi iranske vojne in motenj dobave",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Ameriške sile so izvedle nove napade na iranske raketne sile in čolne v južnem Iranu v okviru samoobrambe, medtem ko se iranska delegacija v Katarju pogaja o podaljšanju premirja. Poročila nakazujejo, da bi lahko dogovor o končanju vojne z Iranom in ponovnem odprtju Hormuške ožine bil blizu, kar je povzročilo oster padec cen nafte. Senator Rubio je izjavil, da bo Hormuška ožina odprta \"tako ali drugače\".",
-      "analiza": "Napadi ZDA na Iran in hkratna mirovna pogajanja v Katarju ustvarjajo kompleksno geopolitično sliko. ZDA trdijo, da gre za samoobrambne ukrepe proti iranskim raketnim mestom in čolnom, kar je deloma posledica nedavnega sestreljenja ameriškega drona nad iranskim ozemljem. Ta dejanja vplivajo na ceno surove nafte; napovedi o bližnjem dogovoru za končanje iranske vojne in ponovno odprtje strateško pomembne Hormuške ožine so povzročile znatne padce cen nafte Brent in WTI. Brent je v ponedeljek zjutraj padel za več kot 3 %, medtem ko so terminske pogodbe na ameriške delnice zrasle. Vpliv na finančne trge je mešan: pozitivno za potrošnike zaradi nižjih cen goriv, negativno za energetske družbe in države izvoznice nafte. Obvezniški trgi bi lahko videli rast zaradi pričakovanj nižje inflacije, medtem ko bi delniški trgi lahko zabeležili rast, zlasti v sektorjih, ki so občutljivi na stroške energije. Za slovenskega dolgoročnega vlagatelja to pomeni potencialno nižje stroške energije, kar lahko pozitivno vpliva na domača podjetja, hkrati pa je treba spremljati širše geopolitične tveganje, ki lahko povzročijo nenadne premike na trgih.",
+      "povzetek": "Iran-ska vojna povzroča motnje v dobavnih verigah, še posebej v Hormuški ožini, kar močno vpliva na globalno dobavo gnojil. Evropska unija je že sprožila poseben načrt za gnojila, saj se pojavljajo resni pomisleki glede prehranske varnosti. Motnje v dobavi goriva in surovin za proizvodnjo gnojil so povzročile pomanjkanje in rast cen. To pomanjkanje gnojil neposredno vpliva na kmetijsko proizvodnjo in lahko povzroči višje cene hrane po vsej Evropi. Situacija poudarja ranljivost globalnih dobavnih verig in odvisnost od ključnih regij za vitalne surovine.",
+      "analiza": "Pomanjkanje gnojil zaradi iranske vojne predstavlja resno grožnjo za evropsko kmetijstvo in prehransko varnost. Ozadje je eskalacija konflikta v Iranu, ki ovira pomorske poti, zlasti Hormuško ožino, ključno za transport nafte, plina in drugih surovin, vključno s komponentami za gnojila. To je relevantno zdaj, saj se Evropa že sooča z inflacijskimi pritiski in visokimi cenami energentov, kar dodatno obremenjuje potrošnike in podjetja. Mehanizem vpliva je večplasten: manjša dobava gnojil pomeni višje stroške za kmete, kar se bo preneslo v višje cene hrane za končne potrošnike. To bo pospešilo inflacijo in zmanjšalo kupno moč. Za finančne trge to pomeni pritisk na delnice podjetij v živilski industriji in maloprodaji, medtem ko bi lahko podjetja, ki proizvajajo gnojila iz alternativnih virov, pridobila. Povečana negotovost glede prehranske varnosti lahko vpliva tudi na cene kmetijskih surovin (žito, koruza) in s tem na inflacijska pričakovanja, kar bi lahko vplivalo na obvezniške trge in valute. Zgodovinsko gledano, geopolitični konflikti, ki vplivajo na ključne surovine, vedno povzročijo nihanja na trgih in povečajo nestanovitnost. Za slovenskega dolgoročnega vlagatelja je pomembno, da razume, kako globalni dogodki vplivajo na lokalne cene in podjetja, ter da razmisli o diverzifikaciji v sektorje, ki so manj izpostavljeni takšnim šokom.",
       "vpliv": [
-        "Padci cen nafte Brent in WTI",
-        "Rast terminskih pogodb na ameriške delnice",
-        "Potencialno znižanje inflacijskih pričakovanj",
-        "Povečana negotovost na energetskih trgih"
+        "Povišanje cen hrane",
+        "Pritisk na kmetijsko proizvodnjo",
+        "Sprožitev načrta EU za gnojila",
+        "Povečana inflacija"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/5/26/iran-war-day-88-us-attacks-near-strait-of-hormuz-talks-under-way-in-qatar?traffic_source=rss",
-      "objavljeno": "2026-05-26T06:16:34.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/5/27/how-badly-is-europe-affected-by-fertiliser-shortages-due-to-the-iran-war?traffic_source=rss",
+      "objavljeno": "2026-05-27T06:52:44.000Z"
     },
     {
-      "naslov": "Ferrari predstavlja prvi električni avtomobil z drznim dizajnom",
-      "sektor": "Potrošniki",
+      "naslov": "Tajvansko gospodarstvo cveti zaradi umetne inteligence, vendar ne za vse",
+      "sektor": "Tehnologija & AI",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Italijanski proizvajalec luksuznih avtomobilov Ferrari je predstavil svoj prvi popolnoma električni model, poimenovan Luce, s ceno 550.000 evrov. Dizajn, ki ga je zasnoval nekdanji Applov oblikovalec Jony Ive, je opisan kot \"polaren\" in cilja na mlajšo demografsko skupino. Predstavitev prihaja v času intenzivnega pritiska kitajskih proizvajalcev električnih vozil.",
-      "analiza": "Vstop Ferrarija na trg električnih vozil z modelom Luce predstavlja pomemben premik za znamko, ki je tradicionalno znana po motorjih z notranjim zgorevanjem. Cena 550.000 evrov postavlja Luce v sam vrh luksuznega segmenta, medtem ko je dizajn, ki ga je soustvaril Jony Ive, deležen mešanih odzivov. Ta poteza je strateška odločitev za prilagajanje na globalni trend elektrifikacije in potencialno privabljanje mlajših kupcev, ki so bolj naklonjeni trajnostnim tehnologijam. Vpliv na delniške trge je lahko mešan: delnice Ferrarija bi lahko doživele začetni optimizem zaradi inovativnosti, vendar tudi negotovost glede sprejemanja novega dizajna in višje proizvodne stroške. Konkurenca s strani uveljavljenih proizvajalcev električnih vozil in novih kitajskih igralcev je močna. Za slovenske vlagatelje to pomeni nadaljnje spremljanje razvoja luksuznega segmenta električnih vozil, ki lahko vpliva na vrednost podjetij v avtomobilski industriji in dobaviteljskih verigah.",
+      "povzetek": "Tajvan doživlja eksplozivno rast BDP, ki je v veliki meri posledica izvoza čipov, povezanih z umetno inteligenco. Kljub temu gospodarskemu razcvetu vsi Tajvanci ne čutijo koristi enako, kar povzroča določene socialne razlike. Rast je osredotočena predvsem na visoko tehnološki sektor, medtem ko se drugi deli gospodarstva morda ne razvijajo enako hitro. Ta situacija poudarja izzive enakomerne porazdelitve bogastva, ki ga ustvarja hiter tehnološki napredek. Nekateri Tajvanci se počutijo izključene iz tega gospodarskega razcveta, kar lahko vodi do družbenih napetosti.",
+      "analiza": "Tajvanski gospodarski razcvet, ki ga poganja umetna inteligenca, je odličen primer, kako tehnološke inovacije preoblikujejo globalno ekonomijo. Ozadje je izjemno povpraševanje po naprednih polprevodnikih, ki so ključni za razvoj in delovanje sistemov umetne inteligence. Tajvan, s podjetji kot je TSMC, je vodilni proizvajalec teh čipov. To je relevantno zdaj, saj AI postaja gonilna sila globalne rasti, kar vpliva na celotno tehnološko industrijo in širše. Mehanizem vpliva je direkten: povečan izvoz čipov prinaša visoke prihodke in rast BDP, vendar se koristi morda ne porazdelijo enakomerno med vsemi sloji prebivalstva, kar lahko povzroči socialne napetosti. Za finančne trge to pomeni nadaljnjo rast delnic podjetij v sektorju polprevodnikov in umetne inteligence. To lahko privede do povečanih naložb v Tajvan, kar bi lahko okrepilo tajvansko valuto in privabilo tuje investicije. Hkrati pa lahko neenakomerna porazdelitev bogastva povzroči politična tveganja. Zgodovinsko gledano, hitra gospodarska rast, ki jo poganja en sektor, pogosto ustvarja razlike v družbi. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor umetne inteligence privlačen za naložbe, vendar je pomembno razumeti tudi širše družbene in politične posledice hitre tehnološke rasti.",
       "vpliv": [
-        "Potencialna rast delnic Ferrarija",
-        "Povečana konkurenca v segmentu luksuznih EV",
-        "Sprememba pričakovanj glede inovacij v avtomobilski industriji",
-        "Vpliv na dobavitelje komponent za EV"
+        "Eksplozivna rast BDP Tajvana",
+        "Povečan izvoz čipov za AI",
+        "Neenakomerna porazdelitev koristi",
+        "Rast delnic v sektorju polprevodnikov"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/8cbd876b-6a91-433e-a903-23a5c5250511",
-      "objavljeno": "2026-05-26T07:12:05.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/5/27/taiwans-economy-is-booming-thanks-to-ai-not-everyone-sees-the-benefits?traffic_source=rss",
+      "objavljeno": "2026-05-27T07:12:35.000Z"
     },
     {
-      "naslov": "Število začetnih delovnih mest v Združenem kraljestvu drastično upada",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Prvi mož verige trgovin Next, Lord Wolfson, opozarja na \"dramatičen\" upad razpoložljivih začetnih delovnih mest v Združenem kraljestvu. Podjetje trenutno prejema dvakrat več prijav na posamezno delovno mesto kot pred dvema letoma, kar kaže na zaostrovanje razmer na trgu dela za mlade iskalce zaposlitve.",
-      "analiza": "Opozorilo Lorda Wolfsona iz podjetja Next poudarja potencialno strukturno težavo na trgu dela v Združenem kraljestvu, kjer se zmanjšuje število začetnih pozicij. Ta trend, ki ga potrjuje podvojitev števila prijav na delovno mesto v primerjavi z letom 2024, nakazuje na naraščajočo konkurenco in morda zmanjšanje ponudbe delovnih mest za mlade, ki vstopajo na trg dela. To lahko vodi do daljše brezposelnosti mladih, povečane potrebe po socialni podpori in potencialnega odhoda talentov. Vpliv na makroekonomski ravni bi lahko vključeval zmanjšanje potrošnje mladih, povečanje pritiska na socialne sisteme in potencialno zmanjšanje produktivnosti v prihodnosti. Za slovenske vlagatelje to pomeni opozorilo na globalne trende na trgu dela, ki lahko vplivajo tudi na evropske države, vključno s Slovenijo, ter poudarja pomen naložb v izobraževanje in programe za zaposlovanje mladih.",
+      "naslov": "Naraščajoče povpraševanje po AI čipih ustvarja dva nova bilijonska podjetja",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Podjetji SK Hynix in Micron sta se pridružili elitnemu klubu podjetij z bilijonsko vrednostjo, kar je neposredna posledica izjemnega povpraševanja po čipih za umetno inteligenco. Ta proizvajalca pomnilniških čipov sta najnovejša tehnološka podjetja, ki sta dosegla mega-vrednotenja, kar poudarja močan vpliv AI na tržne kapitalizacije. Njihova rast odraža širši trend v tehnološkem sektorju, kjer podjetja, ki so ključna za infrastrukturo AI, doživljajo izjemno rast. Ta razvoj kaže na preusmeritev naložb v podjetja, ki so v ospredju inovacij na področju umetne inteligence.",
+      "analiza": "Vstop SK Hynix in Microna v klub podjetij z bilijonsko vrednostjo jasno kaže na izjemen vpliv umetne inteligence na globalne finančne trge. Ozadje je eksponentna rast povpraševanja po visoko zmogljivih pomnilniških čipih, ki so nujni za obdelavo ogromnih količin podatkov, potrebnih za razvoj in delovanje AI modelov. To je relevantno zdaj, saj se naložbe v AI infrastrukturo nadaljujejo z izjemno hitrostjo, kar poganja rast podjetij v celotni dobavni verigi polprevodnikov. Mehanizem vpliva je direkten: povečano povpraševanje in prodaja vodita do višjih prihodkov in dobičkov, kar se odraža v rasti cen delnic in tržne kapitalizacije. Za finančne trge to pomeni nadaljnjo močno rast v tehnološkem sektorju, še posebej med proizvajalci čipov in sorodnimi podjetji. To lahko privede do preusmeritve kapitala iz drugih sektorjev v tehnologijo, kar lahko vpliva na relativno uspešnost različnih delniških indeksov. Zgodovinsko gledano, so se podobni \"boom\" cikli dogajali z internetom in mobilno telefonijo, kjer so ključni infrastrukturni ponudniki doživeli izjemno rast. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor umetne inteligence in polprevodnikov še vedno vir priložnosti, vendar je pomembno razumeti tveganja, povezana s hitro rastjo in morebitno pregrevanjem trga.",
       "vpliv": [
-        "Povečana brezposelnost mladih",
-        "Zmanjšanje potrošnje mlajše generacije",
-        "Povečan pritisk na socialne sisteme",
-        "Potencialno zmanjšanje gospodarske rasti v prihodnosti"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/c2024r6lzyro?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-05-26T06:57:09.000Z"
-    },
-    {
-      "naslov": "Družbena omrežja enako škodljiva kot kajenje za mlade",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Akademija zdravniških kraljevih kolegijev v Združenem kraljestvu je objavila poročilo, ki primerja škodljivost družbenih omrežij za mlade z učinki kajenja. Zdravniki naj bi rutinsko preverjali čas, ki ga mladi preživijo na spletu in na družbenih omrežjih, kot del rednih zdravniških pregledov.",
-      "analiza": "Primerjava družbenih omrežij s kajenjem glede škodljivosti za mlade je močan signal o naraščajoči zaskrbljenosti zdravstvene stroke glede vpliva digitalnih tehnologij na duševno in fizično zdravje mladostnikov. Poročilo Akademije zdravniških kraljevih kolegijev poudarja, da bi morali zdravniki aktivno spremljati in svetovati glede uporabe teh platform. To bi lahko vodilo do novih regulacij, davkov na digitalne storitve ali obveznih izobraževalnih programov o varni rabi interneta. Vpliv na podjetja v tehnološkem sektorju, zlasti na družbena omrežja, bi lahko bil negativen, če bi se regulacije zaostrile. Na makro ravni bi to lahko vplivalo na produktivnost in zdravstvene stroške. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba spremljati globalne trende v regulaciji tehnoloških podjetij in njihov vpliv na poslovne modele, ki temeljijo na uporabniških podatkih in pozornosti.",
-      "vpliv": [
-        "Potencialne nove regulacije za družbena omrežja",
-        "Povečana ozaveščenost o vplivu digitalnih medijev na zdravje",
-        "Možen negativen vpliv na prihodke podjetij v tehnološkem sektorju",
-        "Povečani stroški za zdravstveno oskrbo mladih"
+        "SK Hynix in Micron dosegla bilijonsko vrednost",
+        "Rast povpraševanja po AI čipih",
+        "Povečana tržna kapitalizacija",
+        "Preusmeritev kapitala v tehnološki sektor"
       ],
       "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-05-26T06:54:50.000Z"
+      "vir_url": "https://www.bbc.com/news/articles/cnvp9dq0p3go?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-05-27T02:15:10.000Z"
     },
     {
-      "naslov": "Realni dohodki v razvitih državah začenjajo krčiti",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Kriza v Hormuški ožini je povzročila rast cen, ki prehiteva rast plač v ZDA, Združenem kraljestvu in drugih razvitih državah, kar pomeni, da realni dohodki začenjajo krčiti. To je posledica inflacijskih pritiskov, ki jih povzroča negotovost glede dobave energentov.",
-      "analiza": "Podatek o krčenju realnih dohodkov v razvitih državah, kot so ZDA in Združeno kraljestvo, je neposredna posledica inflacijskih pritiskov, ki jih je pospešila kriza v Hormuški ožini. Ko rast cen prehiti rast plač, kupna moč prebivalstva upada, kar lahko vodi do zmanjšanja potrošnje, počasnejše gospodarske rasti in povečane socialne napetosti. Ta trend lahko vpliva na obvezniške trge, saj centralne banke morda ostanejo pod pritiskom za ohranjanje višjih obrestnih mer, da bi zajezile inflacijo. Delniški trgi bi lahko bili pod pritiskom zaradi pričakovanj nižje potrošnje in slabših poslovnih rezultatov podjetij. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti pozoren na globalne inflacijske trende in njihov vpliv na kupno moč ter potencialno prilagoditi naložbeno strategijo v smeri naložb, ki so odporne na inflacijo, kot so nepremičnine ali določene surovine, ob upoštevanju splošne gospodarske situacije.",
-      "vpliv": [
-        "Zmanjšanje kupne moči prebivalstva",
-        "Potencialno zmanjšanje potrošnje",
-        "Pritisk na centralne banke za višje obrestne mere",
-        "Negativni vpliv na delniške trge"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/e126f744-3db9-4305-8871-31f83ebc4ed7",
-      "objavljeno": "2026-05-26T04:00:15.000Z"
-    },
-    {
-      "naslov": "Regulacijsko popuščanje odpira 1,3 bilijona dolarjev za banke v ZDA in ZK",
+      "naslov": "Odstranitev predsednika uprave BP zaradi \"nadlegovanja\" sproža vprašanja o vodenju",
       "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Albert Manifold, predsednik uprave BP, je bil odstavljen zaradi obtožb o \"nadlegovanju\" in neprimerne uporabe osebnih naprav. Ta nenadna odstranitev je sprožila nov krog negotovosti in pritiska na izvršno direktorico Meg O’Neill. Dogodek poudarja izzive korporativnega upravljanja v velikih energetskih podjetjih in lahko vpliva na zaupanje v vodstvo BP. Podjetje BP ni želelo komentirati podrobnosti o razlogih za takojšnjo odpoved, kar dodatno prispeva k špekulacijam. To ustvarja negotovost glede prihodnje smeri in stabilnosti podjetja.",
+      "analiza": "Odstranitev predsednika uprave BP, Alberta Manifolda, zaradi obtožb o neprimernem vedenju, je pomemben dogodek na področju korporativnega upravljanja. Ozadje je naraščajoč poudarek na etičnem vodenju in transparentnosti v velikih podjetjih, še posebej po preteklih škandalih. To je relevantno zdaj, saj BP, kot eno največjih energetskih podjetij na svetu, igra ključno vlogo na globalnih trgih, in vsaka nestabilnost v vodstvu lahko vpliva na njegovo poslovanje in ugled. Mehanizem vpliva je predvsem na zaupanje vlagateljev: negotovost glede vodenja lahko povzroči padec cene delnice podjetja, saj vlagatelji cenijo stabilnost in jasno strategijo. Za finančne trge to pomeni morebiten padec delnic BP, kar bi lahko vplivalo na energetske indekse. Prav tako lahko takšni dogodki sprožijo širše preglede korporativnega upravljanja v drugih podjetjih. Zgodovinsko gledano, so spremembe v vodstvu, še posebej tiste, ki so posledica etičnih vprašanj, pogosto povzročile kratkoročno nestanovitnost cen delnic. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati ne le finančne rezultate podjetij, temveč tudi kakovost njihovega korporativnega upravljanja, saj lahko slabo vodenje povzroči znatne izgube.",
+      "vpliv": [
+        "Odstavitev predsednika uprave BP",
+        "Pritisk na izvršno direktorico Meg O’Neill",
+        "Negotovost v vodstvu BP",
+        "Možen padec delnic BP"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/88702665-c3ed-4c29-82ba-0d7ce1eba8cd",
+      "objavljeno": "2026-05-27T06:12:53.000Z"
+    },
+    {
+      "naslov": "Kitajski izvoz električnih vozil aprila poskočil za 40 odstotkov",
+      "sektor": "Globalna trgovina",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Sproščanje regulativnih ukrepov v ZDA in Združenem kraljestvu omogoča bankam v teh državah, da povečajo svoje bilance za 1,3 bilijona dolarjev, medtem ko so evropske in švicarske banke zaradi strožjih predpisov omejene. To daje ameriškim in britanskim finančnim institucijam konkurenčno prednost.",
-      "analiza": "Odločitev ZDA in Združenega kraljestva za sproščanje bančnih regulacij, ki omogoča bankam povečanje bilanc za 1,3 bilijona dolarjev, predstavlja pomemben premik v globalnem finančnem okolju. To daje ameriškim in britanskim bankam konkurenčno prednost pred evropskimi in švicarskimi institucijami, ki so podvržene strožjim predpisom. Ta poteza bi lahko spodbudila bančno posojanje in naložbe v teh državah, kar bi lahko pozitivno vplivalo na gospodarsko rast. Vendar pa obstaja tudi tveganje povečane finančne nestabilnosti, če se bo tveganost bank znatno povečala. Vpliv na finančne trge bi bil lahko pozitiven za delnice ameriških in britanskih bank, medtem ko bi lahko evropske banke doživele pritisk. Obvezniški trgi bi lahko videli povečano ponudbo novih izdaj s strani bank. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba spremljati razvoj finančnih regulacij v ključnih gospodarstvih in njihov vpliv na konkurenčnost evropskih bank, vključno s slovenskimi, ter potencialno iskati priložnosti v sektorjih, ki bi lahko imeli koristi od povečanega financiranja.",
+      "povzetek": "Kitajski izvoz električnih vozil (EV) je aprila zabeležil impresivno 40-odstotno rast, kar kaže na nadaljnjo globalno ekspanzijo kitajske avtomobilske industrije. Podatki, ki jih je zbral Bloomberg, kažejo, da je Azija kupila največ kitajskih električnih vozil, sledita pa ji Evropa in Latinska Amerika. Ta močna rast poudarja konkurenčnost kitajskih proizvajalcev in njihov naraščajoč delež na svetovnem trgu EV. Povečan izvoz lahko sproži tudi trgovinske napetosti, saj se drugi proizvajalci avtomobilov soočajo z močno konkurenco. To kaže na hitro spreminjajočo se dinamiko globalne avtomobilske industrije.",
+      "analiza": "40-odstotni porast kitajskega izvoza električnih vozil v aprilu je pomemben pokazatelj globalnih trgovinskih trendov in hitre preobrazbe avtomobilske industrije. Ozadje je agresivna strategija Kitajske za razvoj in subvencioniranje industrije EV, kar jim omogoča proizvodnjo cenovno konkurenčnih vozil. To je relevantno zdaj, saj se svetovna gospodarstva pospešeno preusmerjajo k zeleni energiji in elektrifikaciji transporta, kar ustvarja ogromno povpraševanje po EV. Mehanizem vpliva je večplasten: povečan izvoz kitajskih EV-jev povečuje konkurenco za tradicionalne avtomobilske proizvajalce v Evropi in drugod, kar lahko povzroči pritisk na njihove marže in tržne deleže. Za finančne trge to pomeni nadaljnjo rast delnic kitajskih proizvajalcev EV in pritisk na delnice evropskih in ameriških avtomobilskih podjetij, ki se borijo s konkurenco. Povečan izvoz lahko tudi vpliva na trgovinske bilance in valutne tečaje. Zgodovinsko gledano, so podobni valovi izvoza iz Kitajske preoblikovali druge industrije, kot so tekstilna in elektronska. Za slovenskega dolgoročnega vlagatelja to pomeni, da je avtomobilska industrija v fazi preoblikovanja, in je pomembno biti pozoren na podjetja, ki so inovativna in konkurenčna na področju EV, ne glede na njihovo geografsko lokacijo.",
       "vpliv": [
-        "Povečanje bilanc ameriških in britanskih bank za 1,3 bilijona USD",
-        "Konkurenčna prednost za banke v ZDA in ZK",
-        "Potencialno povečanje posojilne aktivnosti",
-        "Možna nestabilnost finančnega sistema"
+        "40-odstotni porast izvoza kitajskih EV",
+        "Povečana konkurenca za globalne avtomobilske proizvajalce",
+        "Rast delnic kitajskih proizvajalcev EV",
+        "Vpliv na trgovinske bilance"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/9db7a522-17a2-40c9-a0e5-ee250992be06",
-      "objavljeno": "2026-05-26T04:00:15.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/5/27/chinas-ev-exports-surge-40-percent-in-april?traffic_source=rss",
+      "objavljeno": "2026-05-27T05:32:48.000Z"
     }
   ]
 }
