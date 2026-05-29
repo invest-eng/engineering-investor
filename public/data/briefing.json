@@ -1,112 +1,95 @@
 {
-  "generiranoOb": "2026-05-29T08:10:00.013Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-05-29T18:20:35.684Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-05-29",
-  "povzetek": "Jutranji pregled finančnih trgov razkriva mešane, a predvsem tehnološko usmerjene trende, prepletene z geopolitičnimi tveganji. Rusija je presegla vojaške izdatke za 28 milijard dolarjev, kar poudarja finančni pritisk konflikta v Ukrajini in ohranja geopolitično negotovost. Na področju tehnologije in umetne inteligence (AI) je podjetje Anthropic doseglo izjemno valuacijo 965 milijard dolarjev, s čimer je prehitelo OpenAI in zbralo 65 milijard dolarjev pred pričakovano IPO, kar kaže na izjemen apetit vlagateljev po AI. Tudi Dell Technologies je zabeležil močno rast delnic po objavi izjemnih rezultatov, kjer so prihodki od AI-strežnikov v prvem četrtletju poskočili za 757 %, kar potrjuje konkreten vpliv AI na poslovanje. V vesoljski industriji je Blue Origin doživel pomemben neuspeh, saj je med testiranjem eksplodirala raketa, kar opozarja na visoka tveganja v sektorju. Kljub temu vlagatelji še naprej kažejo veliko zanimanje za SpaceX, saj so v sklade, ki imajo deleže v podjetju, pred IPO priteklih 14 milijard dolarjev. Nazadnje, razprava o vplivu dela na daljavo na zaposlovanje mladih, ki naj bi bilo bolj krivo za šibko zaposlovanje kot AI, prinaša nov pogled na strukturne spremembe na trgu dela.",
+  "povzetek": "Današnji trgovalni dan, 29. maj 2026, je prinesel pomembne premike na globalnih finančnih trgih, zaznamovane z optimizmom v tehnološkem sektorju in padcem cen nafte. Delnice ameriškega proizvajalca računalnikov Dell so poskočile za 35 % po objavi izjemnih rezultatov, kar je poudarilo nadaljnjo evforijo okoli umetne inteligence in povzročilo rast tudi pri drugih proizvajalcih strežnikov. Na drugi strani so cene nafte zabeležile največji mesečni padec od leta 2020, z znižanjem za več kot 20 % v maju, kar je posledica upanja na mirovni dogovor med ZDA in Iranom, ki ga je predsednik Trump napovedal kot \"končno odločitev\". Ta geopolitični razvoj je povzročil padec cene Brent nafte na približno 92 dolarjev za sod. V Evropi je Evropska unija napovedala sprostitev milijard evrov zamrznjenih sredstev za Madžarsko, kar je bil pomemben korak k stabilizaciji odnosov in finančni injekciji za državo. Kljub temu je guverner Banke Anglije opozoril, da bi prekinitev ognja na Bližnjem vzhodnem območju \"še vedno ustvarila negotovost\", kar kaže na previdnost centralnih bank glede prihodnjih obrestnih mer. Medtem so delnice vesoljskega sektorja padle po eksploziji rakete Blue Origin in preverjanju vrednotenja SpaceX-a, kar je ohladilo del vročega tehnološkega segmenta.",
   "novice": [
     {
-      "naslov": "Rusija presegla vojaške izdatke za 28 milijard dolarjev zaradi vojne v Ukrajini",
-      "sektor": "Geopolitika",
+      "naslov": "Cene nafte padle za 20 % v maju, največji mesečni padec od leta 2020",
+      "sektor": "Energetika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Rusija je presegla svoje vojaške izdatke za vojno v Ukrajini za 28 milijard dolarjev, poroča Financial Times. Ministrstvo za finance je februarja kabinet zaprosilo za zamrznitev izdatkov na drugih področjih, saj se stroški konflikta povečujejo. Ta podatek poudarja naraščajoče finančno breme, ki ga konflikt predstavlja za rusko gospodarstvo. Povečani izdatki kažejo na dolgotrajnost in intenzivnost vojaških operacij, ki močno obremenjujejo državni proračun. Zahteva po zamrznitvi drugih izdatkov nakazuje na prioritizacijo vojaških potreb pred drugimi sektorji gospodarstva. To lahko vpliva na socialne programe in investicije v civilno infrastrukturo.",
-      "analiza": "Dolgotrajni konflikt v Ukrajini še naprej močno vpliva na rusko gospodarstvo, kar se odraža v znatnem preseganju vojaških izdatkov. Ta podatek, da je Rusija presegla vojaške izdatke za 28 milijard dolarjev, potrjuje, da so finančni pritiski na državo kljub prizadevanjem za stabilizacijo še vedno močni. Povečani vojaški izdatki lahko dolgoročno vodijo do povišane inflacije, oslabitve domače valute (rublja), zmanjšanja sredstev za socialne programe in povečanja državnega dolga. Na finančnih trgih to pomeni nadaljnji pritisk na ruske obveznice in delnice, ki ostajajo pod sankcijami in so za večino tujih vlagateljev nedostopne. Posredno lahko to vpliva tudi na globalne cene surovin, še posebej energentov, saj bi Rusija lahko poskušala povečati prihodke z izvozom. Geopolitična nestabilnost, ki jo povzroča ta konflikt, ohranja splošno tveganje na trgih. Za slovenskega dolgoročnega vlagatelja to poudarja pomen razumevanja, kako geopolitični konflikti vplivajo na globalno stabilnost, cene energentov in inflacijo, kar lahko posredno vpliva na donose naložb v širšem portfelju.",
+      "povzetek": "Globalne cene nafte so v maju 2026 padle za več kot 20 %, kar predstavlja največji mesečni padec od leta 2020. Ta drastičen padec je bil posledica upanja na mirovni dogovor med ZDA in Iranom. Cena severnomorske nafte Brent je padla za 1,3 % na približno 92 dolarjev za sod in je od konca aprila nižja za 19 %. Znižanje cen nafte je pomemben dejavnik za svetovno gospodarstvo, saj vpliva na stroške transporta in proizvodnje. Trgi so optimistični glede morebitnega dogovora, ki bi lahko povečal dobavo nafte na svetovnih trgih.",
+      "analiza": "Ozadje padca cen nafte je geopolitična dinamika na Bližnjem vzhodu in pogovori med ZDA in Iranom. Dolgotrajne napetosti in sankcije so omejevale iransko dobavo nafte na svetovne trge, kar je prispevalo k višjim cenam. Novice o napredku pri mirovnem dogovoru so relevantne zdaj, saj bi morebitna sprostitev iranske nafte na trg bistveno povečala globalno ponudbo. Mehanizem vpliva je direkten: pričakovanja o povečani ponudbi ob nespremenjenem ali zmanjšanem povpraševanju povzročijo padec cen. Posledice so vidne v strmem padcu cen nafte, kar vpliva na energetske delnice, ki so običajno negativno korelirane s padcem cen nafte, in pozitivno na delnice podjetij, ki so veliki porabniki energije (npr. letalske družbe, transportna podjetja). Padec cen nafte lahko tudi zmanjša inflacijske pritiske, kar bi lahko vplivalo na politiko centralnih bank. Zgodovinsko gledano so podobni dogovori ali sprostitev sankcij proti velikim proizvajalcem nafte vedno povzročili kratkoročne padce cen. V prihodnje bo ključno spremljati dejanski napredek in podrobnosti iranskega dogovora. Za slovenskega dolgoročnega vlagatelja padec cen nafte pomeni nižje stroške energije za potrošnike in podjetja, kar lahko pozitivno vpliva na gospodarstvo, vendar je treba biti pozoren na volatilnost, ki jo prinašajo geopolitični dogodki.",
       "vpliv": [
-        "Pritisk na ruske javne finance",
-        "Potencialna inflacija v Rusiji",
-        "Oslabitev rublja",
-        "Povečana geopolitična tveganja"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/93674b5c-06ea-4e49-a005-dc08e1091574",
-      "objavljeno": "2026-05-29T07:53:33.000Z"
-    },
-    {
-      "naslov": "Anthropic dosegel 965 milijard dolarjev vrednosti, prehitel OpenAI z novim kapitalom",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Podjetje Anthropic, razvijalec modela Claude, je doseglo izjemno valuacijo 965 milijard dolarjev, s čimer je prehitelo konkurenčno podjetje OpenAI. To se je zgodilo po tem, ko je Anthropic zbral 65 milijard dolarjev od vlagateljev pred pričakovano prvo javno ponudbo (IPO). Ta izjemna rast vrednosti poudarja izjemen apetit vlagateljev po podjetjih, ki razvijajo generativno umetno inteligenco. Visoka valuacija kaže na močno zaupanje v potencial Anthropicove tehnologije in njegovo sposobnost, da se uveljavi kot ključni igralec na trgu AI. Zbrani kapital bo podjetju omogočil nadaljnje investicije v raziskave in razvoj.",
-      "analiza": "Eksplozivna rast sektorja umetne inteligence (AI) se nadaljuje z izjemno valuacijo podjetja Anthropic, ki je doseglo 965 milijard dolarjev in prehitelo OpenAI. Ta dogodek je izjemno relevanten, saj kaže na izjemno močno investicijsko zanimanje za podjetja, ki razvijajo generativno AI, in na visoka pričakovanja glede prihodnjih zaslužkov. Zbrani kapital v višini 65 milijard dolarjev pred pričakovano IPO potrjuje, da vlagatelji vidijo ogromen potencial v tej tehnologiji. Visoke valuacije v zasebnem sektorju pogosto prelivajo optimizem v javne trge, še posebej za podjetja, ki so posredno ali neposredno povezana z AI. To lahko sproži nadaljnje investicije v AI startup-e in poveča tveganje 'mehurčka' v sektorju. Posledice so predvsem pozitivne za delnice podjetij v AI ekosistemu, vključno s proizvajalci čipov, programske opreme in ponudniki podatkovnih centrov. Lahko tudi poveča volatilnost na trgu tveganega kapitala. Za slovenskega dolgoročnega vlagatelja to poudarja pomen razumevanja dolgoročnih trendov, kot je AI, in previdnost pri ekstremnih valuacijah, ki lahko prinašajo tako priložnosti kot tveganja. Ključno je spremljati, kako se bodo ta podjetja prebila na javne trge in ali bodo upravičila visoka pričakovanja.",
-      "vpliv": [
-        "Povečano zanimanje za AI sektor",
-        "Rast valuacij AI podjetij",
-        "Potencialni vpliv na delnice tehnoloških podjetij",
-        "Povečana volatilnost tveganega kapitala"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/5/29/anthropic-soars-to-965bn-valuation-leapfrogging-openai?traffic_source=rss",
-      "objavljeno": "2026-05-29T03:16:25.000Z"
-    },
-    {
-      "naslov": "Delnice Della poskočile po močnih rezultatih, ki jih poganja AI razcvet",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Delnice Della so poskočile proti novemu rekordnemu nivoju, saj je razcvet umetne inteligence (AI) poganjal močne poslovne rezultate, ki so presegli pričakovanja. Prihodki podjetja od AI-strežnikov so se v prvem četrtletju povečali za izjemnih 757 %. Dobiček je presegel pričakovanja za najširšo maržo v vsaj zadnjih petih letih, kar kaže na izjemno uspešnost. To potrjuje, da AI ni le koncept, ampak že prinaša otipljive finančne rezultate za podjetja v dobavni verigi strojne opreme. Močna rast prihodkov od AI-strežnikov poudarja ključno vlogo Della pri zagotavljanju infrastrukture za razvoj in delovanje AI.",
-      "analiza": "Rast delnic Dell Technologies po objavi izjemnih rezultatov, ki jih poganja razcvet umetne inteligence, je pomemben pokazatelj trenutnega stanja na tehnoloških trgih. Podjetje je v prvem četrtletju zabeležilo 757-odstotno rast prihodkov od AI-strežnikov, kar potrjuje, da AI ni le koncept, ampak že prinaša otipljive finančne rezultate za podjetja v dobavni verigi strojne opreme. Dobiček je presegel pričakovanja za najširšo maržo v vsaj zadnjih petih letih, kar krepijo optimizem na celotnem trgu, še posebej v tehnološkem sektorju. To lahko spodbudi nadaljnje investicije v delnice podjetij, ki so izpostavljena AI, vključno s proizvajalci čipov (npr. Nvidia, AMD) in drugimi ponudniki strojne opreme. Posledično lahko pričakujemo pozitiven vpliv na tehnološke indekse. Ta trend kaže, da podjetja, ki so ključna za infrastrukturo AI, doživljajo močno rast povpraševanja. Za slovenskega dolgoročnega vlagatelja to kaže na konkretne priložnosti, ki jih prinaša AI revolucija, in pomen diverzifikacije v sektorje, ki so ključni za to rast, ob upoštevanju potencialne volatilnosti v sektorju.",
-      "vpliv": [
-        "Rast delnic Dell Technologies",
-        "Povečano povpraševanje po AI strojni opremi",
-        "Pozitiven vpliv na tehnološke indekse",
-        "Rast delnic proizvajalcev čipov"
+        "Cene nafte padle za več kot 20 % v maju",
+        "Brent nafta padla na približno 92 dolarjev za sod",
+        "Znižanje inflacijskih pritiskov",
+        "Negativen vpliv na energetske delnice, pozitiven na transportne"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/dell-stock-soars-toward-another-record-high-as-the-ai-boom-drives-a-big-earnings-beat-b7c0c203?mod=mw_rss_topstories",
-      "objavljeno": "2026-05-29T00:47:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/oil-prices-tumble-most-since-2020-in-may-without-hitting-200-a-barrel-heres-whats-next-f83b4fed?mod=mw_rss_topstories",
+      "objavljeno": "2026-05-29T18:02:00.000Z"
     },
     {
-      "naslov": "Raketa Blue Origin eksplodirala na izstrelitveni ploščadi med testiranjem",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Raketa podjetja Blue Origin, ki je v lasti Jeffa Bezosa, je eksplodirala med testiranjem na izstrelitveni ploščadi na Floridi. Incident se je zgodil v četrtek zvečer in predstavlja najnovejši neuspeh za Bezosovo vesoljsko podjetje. Ta dogodek je velik udarec za Blue Origin, ki si prizadeva zmanjšati zaostanek za SpaceX-om Elona Muska. Eksplozija rakete New Glenn, ki je bila omenjena v drugih virih, poudarja visoka tveganja in kompleksnost razvoja vesoljske tehnologije. Incident se je zgodil le nekaj dni pred načrtovano izstrelitvijo internetnih satelitov za Amazon, kar lahko povzroči zamude pri projektu.",
-      "analiza": "Eksplozija rakete podjetja Blue Origin med testiranjem na izstrelitveni ploščadi na Floridi poudarja izzive in tveganja, povezana z razvojem vesoljske tehnologije. Ta dogodek je pomemben za zasebno vesoljsko industrijo, ki jo poganjajo milijarderji, saj kaže, da so operativna tveganja še vedno visoka. Neuspeh lahko vpliva na časovnico prihodnjih izstrelitev, poveča stroške raziskav in razvoja ter vpliva na konkurenčnost podjetja Blue Origin v primerjavi s tekmeci, kot je SpaceX. Posredno lahko to vpliva tudi na delnice podjetij, ki so odvisna od vesoljskih izstrelitev, kot so satelitska podjetja ali tista, ki načrtujejo uporabo vesoljske infrastrukture (npr. Amazonov Project Kuiper). Čeprav je Blue Origin zasebno podjetje, lahko takšni dogodki vplivajo na širše zaupanje v vesoljski sektor in povzročijo previdnost pri investicijah. Za slovenskega dolgoročnega vlagatelja to opozarja na visoka tveganja in volatilnost v inovativnih, a še nezrelih sektorjih, kot je komercialna vesoljska industrija, kjer so neuspehi del razvojnega procesa.",
-      "vpliv": [
-        "Zastoji pri projektih Blue Origin",
-        "Potencialne zamude za Amazonov Project Kuiper",
-        "Povečana previdnost v vesoljskem sektorju",
-        "Vpliv na konkurenčnost v vesoljski industriji"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/blue-origin-rocket-explodes-on-launch-pad-during-test?traffic_source=rss",
-      "objavljeno": "2026-05-29T07:15:30.000Z"
-    },
-    {
-      "naslov": "Vlagatelji se potegujejo za deleže v SpaceX pred pričakovano IPO",
-      "sektor": "Finance",
+      "naslov": "Trump obljublja 'končno odločitev' o iranskem dogovoru za prekinitev ognja",
+      "sektor": "Geopolitika",
       "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Vlagatelji se aktivno potegujejo za pridobitev deležev v podjetju SpaceX pred njegovo pričakovano prvo javno ponudbo (IPO). V sklade, ki imajo deleže v tem raketnem podjetju, se je nateklo neto 14 milijard dolarjev. Hkrati ponudniki ETF-jev pripravljajo val novih produktov, ki bi omogočili dostop do delnic SpaceX. To kaže na izjemno močno povpraševanje po delnicah visokotehnoloških podjetij, še preden so javno dostopne. SpaceX, ki je vodilno podjetje v zasebni vesoljski industriji, je znan po inovacijah, kot sta Starlink in Starship, kar privablja veliko zanimanje vlagateljev. Pričakovanja glede prihodnje rasti in dobičkonosnosti so zelo visoka.",
-      "analiza": "Zanimanje vlagateljev za SpaceX pred njegovo IPO poudarja močan trend iskanja rasti v inovativnih sektorjih in vpliv zasebnih podjetij na javne trge. Neto 14 milijard dolarjev, ki so se natekli v sklade z deleži v SpaceX, in priprave ponudnikov ETF-jev na nove produkte, kažejo na izjemno močno povpraševanje po delnicah visokotehnoloških podjetij, še preden so javno dostopne. To odraža optimizem glede prihodnosti vesoljske industrije in tehnologije, ki jo poganjajo podjetja, kot je SpaceX. Povečano zanimanje za pred-IPO investicije lahko dvigne valuacije podjetij v zasebnem sektorju in ustvari pritisk na javne trge, da se prilagodijo tem pričakovanjem. Posledice so rast valuacije SpaceX v zasebnem sektorju in potencialno pozitiven vpliv na delnice podjetij, ki so že javno kotirana in delujejo v podobnih sektorjih, kot so satelitske komunikacije ali obramba. Za slovenskega dolgoročnega vlagatelja to poudarja pomen razumevanja, kako se investicije v zasebna podjetja prelivajo v javne trge in kako lahko zgodnje prepoznavanje trendov v inovativnih sektorjih vpliva na dolgoročne donose portfelja. Vendar je potrebna previdnost, saj so pred-IPO investicije pogosto povezane z višjimi tveganji.",
+      "intenziteta": 3,
+      "povzetek": "Ameriški predsednik Trump je napovedal, da bo sprejeta 'končna odločitev' glede iranskega dogovora, katerega cilj je podaljšanje prekinitve ognja. Predsednik si prizadeva za dogovor o 'neomejenem prometu' v Hormuški ožini, kar bi imelo pomembne posledice za globalno dobavo nafte. Podpredsednik ZDA JD Vance je pred tem izjavil, da sta Washington in Teheran dosegla 'velik napredek' pri dogovoru o prekinitvi ognja. Ta razvoj dogodkov je neposredno povezan z nedavnim padcem cen nafte, saj trgi pričakujejo morebitno sprostitev iranske nafte na svetovne trge.",
+      "analiza": "Ta novica je neposredno povezana s padcem cen nafte in predstavlja ključni geopolitični dejavnik. Ozadje je dolgotrajen konflikt in napetosti med ZDA in Iranom, ki so imele velik vpliv na stabilnost Bližnjega vzhoda in globalne energetske trge. Relevantnost zdaj izvira iz možnosti, da bi mirovni dogovor omogočil Iranu izvoz nafte brez omejitev, kar bi povečalo svetovno ponudbo. Mehanizem vpliva je pričakovanje: vlagatelji reagirajo na potencialne spremembe v ponudbi in povpraševanju na trgu nafte. Posledice so bile že vidne v padcu cen nafte, kar vpliva na valute držav izvoznic nafte (npr. kanadski dolar, norveška krona), ki lahko oslabijo, in na valute držav uvoznic, ki lahko okrepijo. Na obvezniških trgih lahko zmanjšanje geopolitičnih tveganj in inflacijskih pritiskov povzroči padec donosov. Zgodovinsko gledano so politični dogovori, ki so vplivali na dobavo ključnih surovin, vedno sprožili hitre odzive trgov. V prihodnje bo pomembno spremljati dejansko implementacijo dogovora in morebitne politične ovire. Za slovenskega dolgoročnega vlagatelja to pomeni zmanjšanje geopolitičnega tveganja, ki je pogosto vir nestabilnosti na trgih, in morebitno stabilizacijo cen energije, kar je pozitivno za splošno gospodarsko rast.",
       "vpliv": [
-        "Povečana valuacija SpaceX v zasebnem sektorju",
-        "Rast zanimanja za vesoljski sektor",
-        "Razvoj novih investicijskih produktov",
-        "Potencialen vpliv na delnice sorodnih podjetij"
+        "Pričakovanja o povečani dobavi nafte",
+        "Zmanjšanje geopolitičnih tveganj na Bližnjem vzhodu",
+        "Potencialno zmanjšanje inflacijskih pritiskov",
+        "Vpliv na valute držav izvoznic/uvoznic nafte"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/7a05e500-de0a-468f-bd82-0a454d99e165",
-      "objavljeno": "2026-05-29T04:00:19.000Z"
+      "vir_url": "https://www.ft.com/content/84c15446-c6d6-47ad-93ee-80963ab3e4d4",
+      "objavljeno": "2026-05-29T17:49:07.000Z"
     },
     {
-      "naslov": "Ali je delo na daljavo, ne AI, krivo za šibko zaposlovanje mladih?",
+      "naslov": "EU sprostila milijarde zamrznjenih sredstev Madžarski ob reformah Petra Magyarja",
+      "sektor": "Geopolitika",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Evropska unija bo sprostila milijarde evrov zamrznjenih sredstev za Madžarsko. Ta odločitev je bila sprejeta sredi reform, ki jih je uvedel premier Peter Magyar. Sredstva so bila zamrznjena pod prejšnjim vodstvom Viktorja Orbana zaradi pomislekov glede vladavine prava. Premier Magyar je dogovor o odklepanju sredstev označil za 'zgodovinski' preboj. Ta poteza kaže na izboljšanje odnosov med Brusljem in Budimpešto ter na pripravljenost Madžarske, da izvede potrebne reforme.",
+      "analiza": "Ozadje te novice je dolgotrajen spor med Evropsko komisijo in Madžarsko glede spoštovanja vladavine prava in demokratičnih standardov, kar je privedlo do zamrznitve znatnih EU sredstev. Relevantnost zdaj izvira iz spremembe političnega vodstva in napovedanih reform, ki so očitno prepričale EU, da sprosti sredstva. To je pomemben signal za stabilnost in kohezijo znotoč EU. Mehanizem vpliva je finančen in političen: sprostitev sredstev bo Madžarski zagotovila prepotrebno finančno injekcijo, kar lahko pozitivno vpliva na njeno gospodarstvo in bonitetno oceno. Hkrati pa to kaže na delovanje mehanizmov EU za uveljavljanje vladavine prava. Posledice se lahko odrazijo v krepitvi madžarske valute (forinta), morebitnem znižanju donosov na madžarske državne obveznice in povečanem zaupanju tujih vlagateljev v madžarski trg. Zgodovinsko so podobni dogovori med EU in posameznimi članicami, ki so bili v sporu glede vladavine prava, vedno prinesli olajšanje na finančnih trgih. V prihodnje bo pomembno spremljati dejansko izvajanje reform in dolgoročno stabilnost odnosov med Madžarsko in EU. Za slovenskega dolgoročnega vlagatelja to pomeni stabilizacijo v regiji in zmanjšanje tveganja, povezanega z notranjimi spori v EU, kar je na splošno pozitivno za evropske trge.",
+      "vpliv": [
+        "Sprostitev milijard EU sredstev za Madžarsko",
+        "Izboljšanje odnosov med EU in Madžarsko",
+        "Potencialna krepitev madžarske forinte",
+        "Znižanje donosov na madžarske obveznice"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/5/29/eu-to-release-billions-in-frozen-funds-for-hungary-amid-magyar-reforms?traffic_source=rss",
+      "objavljeno": "2026-05-29T17:34:13.000Z"
+    },
+    {
+      "naslov": "Guverner Banke Anglije svari: prekinitev ognja na Bližnjem vzhodu prinaša negotovost",
       "sektor": "Makro & Centralne banke",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Novi dokazi kažejo, da je delo na daljavo, in ne umetna inteligenca (AI), morda krivo za šibko zaposlovanje mladih. Ugotovitve nakazujejo, da je delo od doma naredilo začetne zaposlitve manj privlačne za podjetja. To odpira razpravo o dejanskih vzrokih za težave pri zaposlovanju mladih in preusmerja fokus z AI na strukturne spremembe v načinu dela. Delo na daljavo lahko omejuje priložnosti za mentorstvo in učenje na delovnem mestu, kar zmanjšuje privlačnost mladih kadrov za delodajalce. To lahko pomeni dolgoročne posledice za razvoj karier in produktivnost gospodarstva.",
-      "analiza": "Razprava o vplivu dela na daljavo na trg dela, še posebej na zaposlovanje mladih, je pomembna za razumevanje širših makroekonomskih trendov. Nova dognanja, ki kažejo, da je delo na daljavo, in ne AI, morda krivo za šibko zaposlovanje mladih, ponujajo drugačen pogled na dinamiko trga dela. To je relevantno, saj vpliva na dolgoročno rast gospodarstva, produktivnost in inovacije. Če je delo na daljavo res dejavnik, to pomeni strukturne spremembe na trgu dela, ki niso nujno povezane z avtomatizacijo. Mehanizem vpliva je lahko v tem, da delodajalcem manj privlačno zaposlovati mlade, če jih ne morejo učinkovito mentorirati in integrirati v delovno okolje na daljavo. Posledice so lahko višja stopnja brezposelnosti med mladimi, pritisk na izobraževalne sisteme, da se prilagodijo novim zahtevam trga, in potencialen vpliv na nepremičninski trg v mestih (manj povpraševanja po pisarniških prostorih). Za slovenskega dolgoročnega vlagatelja je pomembno razumeti te širše družbene in ekonomske trende, saj vplivajo na dolgoročno rast podjetij in sektorjev. Spremljanje razvoja trga dela in prilagoditev podjetij na te spremembe bo ključno za ocenjevanje prihodnjih investicijskih priložnosti.",
+      "povzetek": "Guverner Banke Anglije (BoE), Andrew Bailey, je opozoril, da bi prekinitev ognja na Bližnjem vzhodu 'še vedno ustvarila negotovost'. Njegova izjava poudarja, da lahko znižanje obrestnih mer pride v poštev šele, ko bodo oblikovalci politik 'veliko bolj prepričani' v stabilnost. To kaže na previdnost centralnih bankirjev, kljub morebitnemu zmanjšanju geopolitičnih tveganj in padcu cen nafte. Opozorilo prihaja v času, ko trgi pozorno spremljajo morebitne spremembe v monetarni politiki po svetu.",
+      "analiza": "Ozadje te izjave je splošna previdnost centralnih bank glede inflacije in gospodarske stabilnosti, še posebej v luči geopolitičnih dogodkov. Čeprav se pričakuje mirovni dogovor na Bližnjem vzhodu, guverner Bailey poudarja, da to ne pomeni nujno takojšnje stabilizacije. Relevantnost zdaj je v tem, da kljub pozitivnim novicam o nafti in geopolitiki, centralne banke ostajajo previdne glede zniževanja obrestnih mer. Mehanizem vpliva je na pričakovanja trgov glede monetarne politike: če centralne banke ostajajo previdne, to zmanjšuje pričakovanja o hitrem znižanju obrestnih mer. Posledice so lahko višji donosi na državne obveznice, saj vlagatelji pričakujejo, da bodo obrestne mere ostale višje dlje časa. To lahko vpliva tudi na delniške trge, saj višje obrestne mere povečujejo stroške zadolževanja za podjetja in zmanjšujejo privlačnost delnic v primerjavi z obveznicami. Zgodovinsko gledano so centralne banke pogosto izražale previdnost tudi po rešitvi večjih kriz, da bi preprečile prezgodnje sproščanje monetarne politike. V prihodnje bo ključno spremljati inflacijske podatke in izjave centralnih bankirjev. Za slovenskega dolgoročnega vlagatelja to pomeni, da je obdobje visokih obrestnih mer morda daljše, kot so nekateri pričakovali, kar lahko vpliva na vrednotenje naložb, še posebej tistih, ki so občutljive na obrestne mere.",
       "vpliv": [
-        "Šibkejše zaposlovanje mladih",
-        "Strukturne spremembe na trgu dela",
-        "Vpliv na produktivnost podjetij",
-        "Potencialne spremembe v nepremičninskem sektorju"
+        "Povečana negotovost kljub mirovnim pogovorom",
+        "Previdnost Banke Anglije glede zniževanja obrestnih mer",
+        "Potencialno višji donosi na obveznice",
+        "Vpliv na vrednotenje delnic, občutljivih na obrestne mere"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
-      "objavljeno": "2026-05-29T04:00:17.000Z"
+      "vir_url": "https://www.ft.com/content/495ee364-b774-4647-b1f6-5993ebfbf3b5",
+      "objavljeno": "2026-05-29T17:26:01.000Z"
+    },
+    {
+      "naslov": "Vesoljske delnice padle po eksploziji rakete Blue Origin in preverjanju vrednotenja SpaceX-a",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Delnice vesoljskega sektorja so danes, 29. maja 2026, padle po eksploziji rakete podjetja Blue Origin in po preverjanju vrednotenja podjetja SpaceX. Vroči vesoljski sektor je občutil nekaj pritiska, kar je ohladilo nekatere spektakularne rasti, zabeležene v maju. Incident Blue Origin in preverjanje vrednotenja SpaceX-a, ki je v lasti Elona Muska, sta sprožila vprašanja o tveganjih in realističnosti visokih vrednotenj v tem hitro rastočem, a tveganem sektorju. To kaže na povečano previdnost vlagateljev do podjetij v vesoljski industriji.",
+      "analiza": "Ozadje te novice je izjemna rast in optimizem v vesoljskem sektorju v zadnjih letih, ki ga poganjajo inovacije, vladne naložbe in vizija zasebnih podjetij. Vendar pa je vesoljska industrija po naravi visoko tvegana, z visokimi stroški razvoja in operativnimi izzivi. Relevantnost zdaj izvira iz dveh ključnih dogodkov: fizičnega incidenta (eksplozija rakete Blue Origin) in preverjanja vrednotenja ključnega igralca (SpaceX). Mehanizem vpliva je neposreden: negativni dogodki in dvomi o vrednotenju zmanjšajo zaupanje vlagateljev in povzročijo prodajo delnic v sektorju. Posledice so padec cen delnic podjetij v vesoljskem sektorju, kar lahko vpliva na širše tehnološke indekse, čeprav je vpliv bolj specifičen za ta podsektor. To lahko tudi povzroči preusmeritev kapitala v druge, manj tvegane tehnološke segmente. Zgodovinsko gledano so incidenti v visokotehnoloških in raziskovalnih sektorjih pogosto povzročili kratkoročne padce cen delnic, dokler se zaupanje ni ponovno vzpostavilo. V prihodnje bo pomembno spremljati varnostne protokole in finančne rezultate podjetij v vesoljskem sektorju. Za slovenskega dolgoročnega vlagatelja to pomeni opozorilo, da visoko rastoči in inovativni sektorji prinašajo tudi visoka tveganja in da je diverzifikacija ključna, saj se lahko posamezni dogodki močno odrazijo na vrednosti specifičnih naložb.",
+      "vpliv": [
+        "Padec delnic vesoljskega sektorja",
+        "Eksplozija rakete Blue Origin",
+        "Preverjanje vrednotenja SpaceX-a",
+        "Povečana previdnost vlagateljev v vesoljski industriji"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/space-stocks-are-falling-after-a-blue-origin-rocket-explodes-and-spacexs-valuation-gets-a-reality-check-230ae49f?mod=mw_rss_topstories",
+      "objavljeno": "2026-05-29T17:44:00.000Z"
     }
   ]
 }
