@@ -1,112 +1,112 @@
 {
-  "generiranoOb": "2026-05-30T16:49:38.342Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-05-31T07:53:06.820Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-05-30",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v senci geopolitičnih napetosti in makroekonomskih signalov, medtem ko so ameriški trgi v začetnih urah trgovanja kazali mešano sliko. Ključna novica dneva je bil napad ukrajinskih dronov na rusko naftno infrastrukturo, kar je takoj povečalo zaskrbljenost glede cen energentov in stabilnosti dobave. Dodatno negotovost je prineslo napredovanje izraelskih sil v Libanon, ki nakazuje na stopnjevanje konflikta na Bližnjem vzhodu. Pozitiven signal je prišel iz ZDA, kjer je ameriški obrambni minister Hegseth ocenil odnose s Kitajsko kot »boljše kot v zadnjih letih«, kar bi lahko pomirilo globalne trgovinske napetosti. Na makroekonomski fronti je padec števila 401(k) milijonarjev v ZDA, kljub rekordnim stopnjam varčevanja, ponudil mešano sliko o finančnem zdravju ameriških gospodinjstev. V tehnološkem sektorju je zanimanje za pred-IPO naložbe v podjetja, kot je SpaceX, poudarilo apetit po tveganju, medtem ko so v zabavni industriji vlagatelji prepoznali rast južnoazijskega glasbenega posla v ZDA.",
+  "datum": "2026-05-31",
+  "povzetek": "Jutranja izdaja 31. maja 2026 prinaša mešanico geopolitičnih napetosti in ključnih tehnoloških premikov, ki bodo vplivali na globalne finančne trge. Na Bližnjem vzhodu Iran ponovno uveljavlja nadzor nad strateško Hormuško ožino, kar ob nedosegljivosti dogovora z ZDA ohranja visoke cene nafte in plina ter povečuje inflacijske pritiske. Hkrati Evropska unija izraža zaskrbljenost zaradi kitajskih naložb v Maroku, ki s potencialnim preplavljanjem evropskega trga s subvencioniranim blagom ogrožajo konkurenčnost domačih proizvajalcev in delovna mesta. V farmacevtskem sektorju Sandoz opozarja na ranljivost evropske oskrbe z antibiotiki zaradi poceni kitajskega uvoza, kar poudarja potrebo po zaščiti kritičnih dobavnih verig. Na svetovnem tehnološkem odru pa je SoftBank napovedala ogromno 75 milijard evrov vredno naložbo v največji evropski AI center v Franciji, kar bo spodbudilo razvoj umetne inteligence in ustvarilo nove priložnosti. Rast umetne inteligence prinaša tudi izzive, saj naraščajoče povpraševanje po energiji za podatkovne centre ustvarja nove dobičkonosne priložnosti za komunalna podjetja, a hkrati obremenjuje energetska omrežja. Kitajska se medtem pripravlja na nov val izvoza s financiranjem razvoja humanoidnih robotov, ki naj bi drastično znižali proizvodne stroške in preoblikovali globalno industrijo, kar napoveduje strukturne spremembe v svetovni trgovini in delovni sili. Ti dogodki skupaj kažejo na kompleksno prepletanje geopolitičnih tveganj, tehnoloških inovacij in strukturnih sprememb v svetovnem gospodarstvu, ki bodo imeli dolgoročne posledice za finančne trge in naložbene strategije.",
   "novice": [
     {
-      "naslov": "Ukrajinski droni napadli rusko naftno infrastrukturo, kar povečuje geopolitična tveganja",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Droni iz Ukrajine so napadli rusko naftno infrastrukturo, kar je del širše izmenjave napadov med Kijevom in Moskvo. Ti napadi so povzročili izpad električne energije za 13.000 prebivalcev v Zaporožju. Dogodek poudarja nadaljevanje konflikta in njegov vpliv na kritično infrastrukturo. Tovrstni napadi so postali pogosta taktika v konfliktu. Incident se je zgodil 30. maja 2026, kar kaže na neprekinjeno stopnjevanje napetosti. Vpliv na oskrbo z energenti je bil takojšen in lokaliziran.",
-      "analiza": "Ozadje teh napadov je nadaljevanje vojne v Ukrajini, kjer obe strani ciljata na ključno infrastrukturo nasprotnika, vključno z energetskimi objekti. Napadi na ruske naftne objekte so postali pomembna taktika Ukrajine za motenje ruskih prihodkov in logistike. To je relevantno zdaj, saj neposredno vpliva na globalne cene nafte in plina, saj Rusija ostaja pomemben dobavitelj energentov na svetovnem trgu. Mehanizem vpliva je preprost: zmanjšanje proizvodnih zmogljivosti ali motnje v dobavnih verigah zaradi napadov lahko zmanjšajo ponudbo na trgu, kar običajno dvigne cene. Posledice za surovine so takojšnje, z morebitnim zvišanjem cen nafte (npr. Brent in WTI) in s tem povezanih derivatov. Za delnice to pomeni pritisk na podjetja z visokimi stroški energije, medtem ko lahko delnice energetskih podjetij kratkoročno pridobijo. Obveznice in valute so lahko pod vplivom povečane inflacije in negotovosti. Zgodovinsko gledano, so konflikti v regijah, ki so pomembne za oskrbo z nafto, vedno povzročili skoke cen. Slovenski dolgoročni vlagatelj mora biti pozoren na morebitno rast stroškov goriva in ogrevanja, kar lahko vpliva na potrošniško moč in dobičkonosnost podjetij, ki so odvisna od energentov. Nadaljnje stopnjevanje napadov bi lahko imelo širše ekonomske posledice.",
-      "vpliv": [
-        "Rast cen nafte (npr. Brent, WTI)",
-        "Povečana volatilnost na trgih energentov",
-        "Potencialni inflacijski pritiski",
-        "Povečano geopolitično tveganje"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/5/30/ukraine-drones-strike-russian-oil-facility-as-kyiv-and-moscow-trade-blows?traffic_source=rss",
-      "objavljeno": "2026-05-30T08:54:31.000Z"
-    },
-    {
-      "naslov": "Izraelski vojaki dosegli Nabatiyeh, kar pomeni stopnjevanje konflikta v Libanonu",
+      "naslov": "Iran ponovno uveljavlja nadzor nad Hormuško ožino, dogovor z ZDA negotov",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Izraelski vojaki so dosegli Nabatiyeh, eno največjih mest v južnem Libanonu, kar predstavlja prvič, da je izraelska vojska napredovala preko libanonske reke Litani po letu 2006. Ta premik, objavljen 30. maja 2026, kaže na stopnjevanje konflikta v regiji. Napredovanje je del širših vojaških operacij. Dogodek je sprožil zaskrbljenost glede regionalne stabilnosti. Izraelska vojska je s tem presegla prejšnje operativne meje.",
-      "analiza": "Ozadje dogodka je dolgotrajni konflikt med Izraelom in libanonskim Hezbolahom, ki se je v zadnjem času intenziviral ob širših napetostih na Bližnjem vzhodu. Napredovanje izraelskih sil preko reke Litani je pomembna eskalacija, saj presega prejšnje meje delovanja in nakazuje na širšo operacijo, ki bi lahko destabilizirala celotno regijo. To je relevantno zdaj, ker povečuje tveganje za regionalno vojno, ki bi lahko zajela širši Bližnji vzhod, kar ima globalne posledice. Mehanizem vpliva na finančne trge je predvsem preko povečane geopolitične negotovosti, ki običajno povzroči beg kapitala v varnejša zatočišča. Posledice za surovine so lahko dvig cen nafte, saj je regija ključna za globalno oskrbo. Delnice se lahko soočijo s prodajnimi pritiski, še posebej v sektorjih, občutljivih na geopolitična tveganja. Obveznice držav, ki veljajo za varna zatočišča (npr. ameriške državne obveznice), lahko doživijo rast povpraševanja, kar zniža njihove donose. Zlato in druge plemenite kovine bi lahko pridobile na vrednosti. Slovenski dolgoročni vlagatelj naj bo pozoren na morebitno povečanje volatilnosti trgov in vpliv na globalne dobavne verige, saj eskalacija konflikta vedno prinaša negotovost.",
+      "povzetek": "Iranski premier je ponovno poudaril nadzor Irana nad Hormuško ožino, ključno pomorsko potjo za globalno dobavo nafte. Ta poteza prihaja v času, ko dogovor med ZDA in Teheranom ostaja nedosegljiv, kar ohranja napetosti v regiji. Pentagonov šef Pete Hegseth je opozoril, da so ZDA 'več kot sposobne' ponovno začeti vojno, če ne bo dosežen zadovoljiv dogovor, kar dodatno zaostruje situacijo. To dogajanje neposredno vpliva na stabilnost dobavnih poti energentov in s tem na svetovne trge. Geopolitična nestabilnost v regiji ostaja visoka.",
+      "analiza": "Hormuška ožina je strateško ozko grlo, skozi katerega poteka približno petina svetovne nafte in tretjina utekočinjenega zemeljskega plina. Iransko ponovno uveljavljanje nadzora in grožnje z zaporo ožine so neposredna posledica nedosegljivosti dogovora z ZDA, kar poganja geopolitično nestabilnost v regiji. To je relevantno zdaj, saj se globalno povpraševanje po energiji povečuje, vsaka motnja v dobavi pa lahko povzroči skok cen. Mehanizem vpliva je neposreden: strah pred motnjami v dobavi nafte in plina dviguje cene teh surovin. Posledice so vidne na trgih surovin, kjer lahko cena nafte Brent in WTI znatno zraste. To vpliva na inflacijo, kar lahko prisili centralne banke k bolj restriktivni monetarni politiki, kar posledično vpliva na obveznice in delnice. Zgodovinsko so podobne napetosti v regiji, kot so bile v 80. letih med iransko-iraško vojno, povzročile nestanovitnost cen nafte. Za slovenskega dolgoročnega vlagatelja to pomeni morebitno višjo inflacijo in s tem povezano zmanjšanje kupne moči, hkrati pa lahko vpliva na dobičkonosnost podjetij, odvisnih od energentov. Spremljati je treba razvoj diplomatskih pogajanj in vojaško prisotnost v regiji.",
       "vpliv": [
-        "Padec delniških indeksov zaradi negotovosti",
-        "Rast cen nafte in zlata",
-        "Povečano povpraševanje po varnih zatočiščih (npr. ameriške obveznice)",
-        "Regionalna nestabilnost"
+        "Rast cen nafte (Brent, WTI)",
+        "Povečana inflacija",
+        "Pritisk na centralne banke za višje obrestne mere",
+        "Negativni vpliv na delnice podjetij, odvisnih od energentov"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss",
-      "objavljeno": "2026-05-30T13:50:57.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
+      "objavljeno": "2026-05-30T19:48:13.000Z"
     },
     {
-      "naslov": "Hegseth ocenjuje odnose med ZDA in Kitajsko kot boljše v zadnjih letih",
-      "sektor": "Geopolitika",
-      "smer": "pozitivno",
+      "naslov": "EU zaskrbljena zaradi kitajske industrijske baze v Maroku",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Ameriški obrambni minister Hegseth je izjavil, da so odnosi med ZDA in Kitajsko »boljši kot v zadnjih letih«. Kljub temu je Pentagon še naprej pozival zaveznike k povečanju obrambnih izdatkov za boj proti »vojaškemu kopičenju« Pekinga. Izjava je bila objavljena 30. maja 2026. Hegseth je to izrekel v kontekstu dialoga Shangri-La, kjer je orisal ameriške geopolitične cilje. To nakazuje na diplomatski napredek, kljub obstoječim varnostnim pomislekom.",
-      "analiza": "Ozadje te izjave so dolgotrajne napetosti med ZDA in Kitajsko, ki so v preteklih letih vplivale na globalno trgovino, tehnološko sodelovanje in geopolitično stabilnost. Izjava Hegsetha, čeprav z opozorilom o vojaškem kopičenju, nakazuje na morebitno izboljšanje diplomatskih kanalov in zmanjšanje retoričnega konflikta. To je relevantno zdaj, saj so stabilni odnosi med največjima gospodarstvoma ključni za globalno gospodarsko rast in zaupanje vlagateljev. Mehanizem vpliva je predvsem preko zmanjšanja negotovosti, kar lahko spodbudi mednarodno trgovino in naložbe. Posledice za delnice so lahko pozitivne, še posebej za podjetja, ki so močno odvisna od kitajskega trga ali globalnih dobavnih verig. Obveznice bi lahko odražale zmanjšanje tveganja, saj se zmanjša verjetnost večjih gospodarskih šokov. Valute, kot sta ameriški dolar in kitajski juan, bi lahko kazale stabilizacijo. Surovine, ki so odvisne od globalnega povpraševanja, bi lahko imele koristi od izboljšanega gospodarskega obzorja. Slovenski dolgoročni vlagatelj naj bo pozoren na nadaljnje znake izboljšanja ali poslabšanja teh odnosov, saj imajo lahko velik vpliv na globalne trge in s tem tudi na slovensko gospodarstvo, še posebej na izvozne panoge.",
+      "povzetek": "Evropska unija izraža zaskrbljenost zaradi milijard dolarjev kitajskih naložb v industrijsko bazo v Maroku. Obstaja bojazen, da bi lahko Maroko postal izvozna platforma za subvencionirano kitajsko blago, ki bi preplavilo evropske trge in ogrozilo konkurenčnost evropskih proizvajalcev. Ta razvoj dogodkov postavlja pod vprašaj trgovinsko politiko EU in njeno sposobnost zaščite domače industrije pred nelojalno konkurenco. Povečana kitajska prisotnost v severni Afriki spreminja regionalno ekonomsko dinamiko.",
+      "analiza": "Kitajska strategija 'Pas in pot' se širi tudi v Afriko, Maroko pa s svojo geografsko bližino Evropi predstavlja idealno lokacijo za kitajske naložbe, ki omogočajo lažji dostop do evropskega trga. To je relevantno zdaj, ko se EU že sooča z izzivi, kot so visoke cene energije in strogi okoljski predpisi, ki zvišujejo proizvodne stroške. Mehanizem vpliva je dvojni: po eni strani lahko poceni kitajsko blago, proizvedeno v Maroku, zniža cene za evropske potrošnike, po drugi strani pa ogroža delovna mesta in dobičkonosnost evropskih podjetij, kar vodi v deflacijske pritiske v določenih sektorjih. Posledice se lahko kažejo v zmanjšanju industrijske proizvodnje v EU, pritisku na marže evropskih podjetij in morebitnem povečanju brezposelnosti v prizadetih sektorjih. To lahko vpliva na delnice evropskih industrijskih podjetij in na vrednost evra. Zgodovinsko so podobni primeri preplavitve trgov s poceni uvozom že povzročili protekcionistične ukrepe. Za slovenskega dolgoročnega vlagatelja to pomeni potrebo po skrbnem spremljanju evropske industrijske politike in diverzifikaciji naložb, saj so lahko nekateri sektorji bolj izpostavljeni tej konkurenci.",
       "vpliv": [
-        "Potencialno zmanjšanje trgovinskih napetosti",
-        "Pozitiven vpliv na delnice globalnih podjetij",
-        "Stabilizacija valutnih tečajev (USD, CNY)",
-        "Spodbuda za mednarodne naložbe"
+        "Pritisk na marže evropskih proizvajalcev",
+        "Potencialna izguba delovnih mest v EU",
+        "Povečana konkurenca na evropskem trgu",
+        "Vpliv na vrednost evra"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/0a601b2b-aeba-439d-8915-359f44cecf09",
-      "objavljeno": "2026-05-30T12:09:53.000Z"
+      "vir_url": "https://www.ft.com/content/706c1db4-effa-4e53-9bdd-f66496407626",
+      "objavljeno": "2026-05-31T04:00:08.000Z"
     },
     {
-      "naslov": "Število 401(k) milijonarjev padlo, a varčevalne stopnje delavcev rekordne",
-      "sektor": "Finance",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Število milijonarjev v ameriških 401(k) varčevalnih načrtih je padlo, vendar so delavci dosegli rekordne stopnje varčevanja. Podatki Fidelityja za prvo četrtletje kažejo upad stanj na 401(k) računih, a hkrati tudi pozitivne novice glede varčevalnih navad. Članek, objavljen 30. maja 2026, poudarja, da kljub padcu salda ni vse slabo. To kaže na kompleksno dinamiko osebnih financ v ZDA. Varčevalci so očitno previdni.",
-      "analiza": "Ozadje te novice je verjetno povezano z volatilnostjo finančnih trgov v preteklem obdobju, ki je vplivala na vrednost naložb v 401(k) načrtih. Hkrati pa rekordne stopnje varčevanja kažejo na previdnost potrošnikov in morda na odziv na inflacijske pritiske ali negotovo gospodarsko obzorje. To je relevantno zdaj, saj nam daje vpogled v finančno zdravje ameriških gospodinjstev in njihovo pripravljenost za potrošnjo. Mehanizem vpliva je kompleksen: padajoči računi lahko pomenijo zmanjšano zaupanje in potrošnjo, medtem ko visoke stopnje varčevanja lahko zagotavljajo stabilnost v prihodnosti, a kratkoročno zmanjšajo gospodarsko aktivnost. Posledice za delnice so lahko mešane: podjetja, ki so odvisna od potrošnje, bi lahko občutila pritisk, medtem ko bi podjetja v sektorju finančnih storitev, ki se osredotočajo na varčevanje in naložbe, lahko imela koristi. Obveznice bi lahko bile privlačnejše zaradi povečane previdnosti. Za valute, kot je ameriški dolar, bi to lahko pomenilo stabilizacijo zaradi močnega varčevanja. Slovenski dolgoročni vlagatelj naj bo pozoren na te trende v ZDA, saj vplivajo na globalno gospodarsko rast in s tem tudi na izvozne trge slovenskih podjetij, kar posredno vpliva na domače gospodarstvo.",
-      "vpliv": [
-        "Mešan signal za potrošniško porabo v ZDA",
-        "Pritisk na delnice podjetij, odvisnih od potrošnje",
-        "Povečana previdnost vlagateljev",
-        "Možna stabilizacija dolarja zaradi varčevanja"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-fell-but-workers-hit-record-savings-rates-whats-going-on-8fab657b?mod=mw_rss_topstories",
-      "objavljeno": "2026-05-30T15:00:00.000Z"
-    },
-    {
-      "naslov": "Vzajemni sklad omogoča nakup delnic SpaceX-a pred IPO, a s tveganji",
+      "naslov": "SoftBank obljublja 75 milijard evrov za največji AI center v Franciji",
       "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Obstaja vzajemni sklad, ki omogoča nakup delnic SpaceX-a pred njegovo prvo javno ponudbo (IPO). Članek, objavljen 30. maja 2026, opozarja na »hype« okoli SpaceX-a in obseg njegovih ambicij, ki bosta zagotovo poganjala kratkoročno povpraševanje po delnicah ob IPO. Vendar pa se postavlja vprašanje, kaj vlagatelji dejansko dobijo. To kaže na naraščajoče zanimanje za zasebne trge. Sklad ponuja zgodnji dostop, a tudi kompleksnost.",
-      "analiza": "Ozadje te novice je naraščajoče zanimanje za zasebna tehnološka podjetja z visokim potencialom, kot je SpaceX, ki še niso javno kotirana. Vzajemni skladi, ki omogočajo vlaganje v takšna podjetja, so postali priljubljeni, saj ponujajo dostop do ekskluzivnih naložb pred IPO. To je relevantno zdaj, ker poudarja trend vlaganja v zasebne trge in vprašanja glede valuacij in likvidnosti pred IPO. Mehanizem vpliva je predvsem na sektor tehnologije in zasebnega kapitala, kjer se vlagatelji trudijo ujeti naslednjega »velikega igralca«. Posledice za delnice so lahko posredne: uspeh takšnih skladov lahko poveča apetit po tveganju v tehnološkem sektorju, medtem ko morebitne težave lahko opozorijo na tveganja zasebnih naložb, kot so pomanjkanje transparentnosti in likvidnosti. Za obveznice in valute je vpliv manj direkten, razen če gre za zelo velik pretok kapitala. Kripto trgi niso neposredno povezani, vendar lahko splošen apetit po tveganju vpliva na njihovo dinamiko. Slovenski dolgoročni vlagatelj naj bo pozoren na valuacije tehnoloških podjetij in tveganja, povezana z naložbami v zasebne trge, ki so manj regulirani in likvidni, ter se zaveda, da je »hype« lahko dvorezen meč.",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Japonski tehnološki velikan SoftBank je napovedal ogromno naložbo v višini 75 milijard evrov za izgradnjo največjega centra za umetno inteligenco (AI) v Evropi, ki bo lociran v Franciji. Masayoshi Son, izvršni direktor SoftBanka, s to potezo postavlja Francijo v središče svojih globalnih ambicij na področju AI. Ta investicija predstavlja pomemben korak k razvoju evropske AI infrastrukture in krepitvi konkurenčnosti regije na globalnem tehnološkem zemljevidu. Naložba naj bi ustvarila številna visokotehnološka delovna mesta.",
+      "analiza": "Ta ogromna naložba SoftBanka v Francijo je del širšega trenda globalne tekme v razvoju in implementaciji umetne inteligence. Francija, ki si prizadeva postati vodilna na področju AI v Evropi, s to naložbo pridobiva pomemben zagon. Relevantnost je v tem, da takšne investicije pospešujejo tehnološki napredek, ustvarjajo visokotehnološka delovna mesta in privabljajo nadaljnje naložbe v ekosistem AI. Mehanizem vpliva je pozitiven za delnice tehnoloških podjetij, še posebej tistih, ki so vključena v razvoj AI ali so dobavitelji za takšne centre (npr. proizvajalci čipov, ponudniki programske opreme). Prav tako lahko to spodbudi rast francoskega gospodarstva in okrepi evro. Zgodovinsko so velike naložbe v ključne tehnologije, kot je internet v 90. letih, povzročile izjemno rast v določenih sektorjih. Za slovenskega dolgoročnega vlagatelja to pomeni priložnosti v sektorju tehnologije in umetne inteligence, še posebej v podjetjih, ki so del dobavne verige ali neposredni uporabniki naprednih AI rešitev.",
       "vpliv": [
-        "Povečan apetit po tveganju v tehnološkem sektorju",
-        "Zanimanje za zasebne trge in pred-IPO naložbe",
-        "Potencialna visoka valuacija tehnoloških podjetij",
-        "Tveganja likvidnosti in regulacije zasebnih naložb"
+        "Rast delnic tehnoloških podjetij (AI, čipi)",
+        "Spodbuda za francosko in evropsko gospodarstvo",
+        "Ustvarjanje visokotehnoloških delovnih mest",
+        "Potencialna krepitev evra"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/this-mutual-fund-lets-you-buy-spacex-stock-before-the-ipo-but-what-are-you-actually-getting-907b96d1?mod=mw_rss_topstories",
-      "objavljeno": "2026-05-30T14:50:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463",
+      "objavljeno": "2026-05-30T18:39:31.000Z"
     },
     {
-      "naslov": "Vlagatelji in založbe vlagajo v rastoči južnoazijski glasbeni posel v ZDA",
+      "naslov": "Sandoz opozarja na grožnjo poceni kitajskih antibiotikov Evropi",
       "sektor": "Potrošniki",
-      "smer": "pozitivno",
-      "intenziteta": 1,
-      "povzetek": "Vlagatelji in glasbene založbe se vse bolj usmerjajo v rastoči južnoazijski glasbeni posel v ZDA. Warner Music Group, tretja največja glasbena založba po tržnem deležu, se s svojim najnovejšim podvigom, 5 Junction, vključuje v južnoazijsko glasbeno gibanje. Novica je bila objavljena 30. maja 2026. To kaže na prepoznavanje novih tržnih niš. Povečane naložbe potrjujejo potencial tega segmenta. Založbe iščejo nove vire rasti.",
-      "analiza": "Ozadje te novice je demografska rast in povečana kupna moč južnoazijske diaspore v ZDA, kar ustvarja nov, donosen tržni segment za glasbeno industrijo. Vlagatelji in velike založbe, kot je Warner Music Group, prepoznavajo ta trend in aktivno vlagajo v razvoj in promocijo južnoazijskih izvajalcev in glasbe. To je relevantno zdaj, saj kaže na širše trende diverzifikacije potrošniškega trga in iskanje novih virov rasti v zabavni industriji, ki se prilagaja spreminjajočim se demografskim in kulturnim preferencam. Mehanizem vpliva je predvsem na sektor potrošniških storitev in medijev: rast specifičnih kulturnih segmentov lahko ustvari nove priložnosti za podjetja, ki so sposobna prilagoditi svoje izdelke in storitve. Posledice za delnice so lahko pozitivne za podjetja v zabavni industriji, ki uspešno izkoriščajo te trende in se širijo na nove trge. Za obveznice, valute in surovine je vpliv minimalen, saj gre za specifičen segment potrošniškega trga. Slovenski dolgoročni vlagatelj naj bo pozoren na to, kako se demografske spremembe in kulturni trendi odražajo v potrošniških navadah in ustvarjajo nove tržne niše, kar lahko vpliva na dolgoročno rast določenih sektorjev in podjetij, tudi izven ZDA.",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Izvršni direktor Sandoza, enega največjih proizvajalcev generičnih zdravil, je opozoril, da poceni kitajski uvoz ogroža evropsko oskrbo z antibiotiki. Grozi izguba kritičnih proizvodnih zmogljivosti na celini, če ne bodo uvedene močnejše zaščitne mere. To poudarja ranljivost evropskih dobavnih verig za ključna zdravila in potencialno odvisnost od zunanjih dobaviteljev, kar ima lahko resne posledice za javno zdravje. Opozorilo je bilo objavljeno 31. maja 2026.",
+      "analiza": "Opozorilo Sandoza ni novo, a poudarja dolgotrajen problem globaliziranih dobavnih verig, kjer se proizvodnja ključnih izdelkov seli v države z nižjimi stroški. To je relevantno zdaj, saj so pandemije in geopolitične napetosti razkrile ranljivost evropske odvisnosti od zunanjih dobaviteljev za kritične izdelke, kot so zdravila. Mehanizem vpliva je, da nelojalna konkurenca znižuje dobičkonosnost evropskih proizvajalcev, kar jih sili v zmanjšanje proizvodnje ali celo zaprtje obratov, kar dolgoročno ogroža oskrbovalno varnost. Posledice se lahko kažejo v zmanjšanju odpornosti evropskega zdravstvenega sistema, morebitnih pomanjkanjih zdravil v kriznih situacijah in pritisku na delnice evropskih farmacevtskih podjetij, ki se osredotočajo na generična zdravila. Vlada in EU bi lahko odgovorili s subvencijami ali protekcionističnimi ukrepi za zaščito domače proizvodnje. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba upoštevati tveganja, povezana z globalnimi dobavnimi verigami in regulativnimi spremembami v farmacevtskem sektorju.",
       "vpliv": [
-        "Rast v segmentu zabavne industrije",
-        "Nove naložbene priložnosti v medijih",
-        "Diverzifikacija potrošniškega trga",
-        "Povečane naložbe v kulturne niše"
+        "Potencialno pomanjkanje antibiotikov v Evropi",
+        "Pritisk na dobičkonosnost evropskih farmacevtskih podjetij",
+        "Ranljivost evropskih dobavnih verig",
+        "Možni protekcionistični ukrepi EU"
       ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/05/30/south-asian-music-warner-records-5-junction.html",
-      "objavljeno": "2026-05-30T13:24:28.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/6b74ddb9-319b-4293-a9d7-0effb17a4485",
+      "objavljeno": "2026-05-31T04:00:18.000Z"
+    },
+    {
+      "naslov": "Naraščajoče povpraševanje po energiji za podatkovne centre prinaša dobiček komunalnim podjetjem",
+      "sektor": "Energetika",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Naraščajoče povpraševanje po energiji s strani velikih tehnoloških podjetij za njihove podatkovne centre, ki poganjajo umetno inteligenco, ustvarja ogromen nov vir dobička za komunalna podjetja. Trg še ni v celoti ovrednotil naslednjega logičnega koraka v razvoju AI infrastrukture: neposrednega prevzema reguliranih komunalnih podjetij s strani velikih tehnoloških podjetij. To kaže na preoblikovanje energetskega sektorja, ki se prilagaja potrebam digitalne dobe in tehnološkega napredka. Novica je bila objavljena 30. maja 2026.",
+      "analiza": "Eksponentna rast umetne inteligence zahteva ogromne računske zmogljivosti, kar pomeni tudi izjemno povečanje porabe električne energije za hlajenje in delovanje podatkovnih centrov. To je relevantno zdaj, saj se AI tehnologija hitro razvija in širi, kar ustvarja neizmerno povpraševanje po zanesljivi in cenovno ugodni energiji. Mehanizem vpliva je, da komunalna podjetja, ki lahko zagotovijo to energijo, postanejo izjemno privlačna za naložbe in potencialne prevzeme. Posledice so lahko rast delnic komunalnih podjetij, ki so vključena v oskrbo podatkovnih centrov, in morebitne konsolidacije v energetskem sektorju. Hkrati pa to povzroča pritisk na obstoječa energetska omrežja in odpira vprašanja o trajnosti in virih energije. Za slovenskega dolgoročnega vlagatelja to pomeni priložnosti v sektorju energetike in infrastrukture, še posebej v podjetjih, ki so sposobna zagotoviti stabilno in zeleno energijo za rastoče potrebe tehnološkega sektorja.",
+      "vpliv": [
+        "Rast delnic komunalnih podjetij",
+        "Povečano povpraševanje po električni energiji",
+        "Potencialni prevzemi komunalnih podjetij s strani tehnoloških velikanov",
+        "Pritisk na energetska omrežja"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories",
+      "objavljeno": "2026-05-30T18:56:00.000Z"
+    },
+    {
+      "naslov": "Kitajska pripravlja nov izvozni šok z humanoidnimi roboti",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Kitajska aktivno financira razvoj humanoidnih robotov, katerih cilj je drastično znižati proizvodne stroške v kitajskih tovarnah in si zagotoviti konkurenčno prednost. Ti roboti naj bi stali manj kot rabljen avtomobil, kar napoveduje prihajajoči 'izvozni šok'. Ta razvoj dogodkov bi lahko preoblikoval svetovno industrijo in globalne dobavne verige, saj bi avtomatizacija znižala stroške dela in povečala učinkovitost proizvodnje. Novica je bila objavljena 30. maja 2026.",
+      "analiza": "Kitajska že dolgo velja za 'svetovno tovarno', zdaj pa si prizadeva to vlogo okrepiti z napredno avtomatizacijo in robotiko. To je relevantno zdaj, saj se globalne dobavne verige preoblikujejo, države pa iščejo načine za zmanjšanje odvisnosti in povečanje konkurenčnosti. Mehanizem vpliva je, da bi masovna uvedba poceni humanoidnih robotov v proizvodnjo drastično znižala stroške dela, kar bi Kitajski omogočilo ponudbo izdelkov po še nižjih cenah. To bi povzročilo močan pritisk na proizvajalce v drugih državah, ki se zanašajo na človeško delovno silo. Posledice se lahko kažejo v povečani konkurenci za industrijska podjetja po svetu, morebitni izgubi delovnih mest v proizvodnem sektorju in potrebi po hitri prilagoditvi in avtomatizaciji v drugih gospodarstvih. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti pozoren na podjetja, ki so izpostavljena poceni kitajski proizvodnji, in razmisliti o naložbah v podjetja, ki razvijajo ali implementirajo avtomatizacijo in robotiko.",
+      "vpliv": [
+        "Povečana konkurenca za globalne proizvajalce",
+        "Potencialna izguba delovnih mest v proizvodnji",
+        "Pritisk na cene industrijskih izdelkov",
+        "Spodbuda za avtomatizacijo v drugih državah"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/chinas-next-export-shock-walks-on-two-legs-and-costs-less-than-a-used-car-f0becf3f?mod=mw_rss_topstories",
+      "objavljeno": "2026-05-30T18:50:00.000Z"
     }
   ]
 }
