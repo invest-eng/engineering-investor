@@ -1,95 +1,106 @@
 {
-  "generiranoOb": "2026-06-02T08:47:07.555Z",
-  "izdaja": "morning",
-  "model": "gemini-2.5-flash",
+  "generiranoOb": "2026-06-02T19:02:08.843Z",
+  "izdaja": "afternoon",
+  "model": "gemini-2.5-flash-lite",
   "tier": "free",
   "datum": "2026-06-02",
-  "povzetek": "Jutranji pregled finančnih trgov 2. junija 2026 kaže na mešane signale, ki jih zaznamujejo tako tehnološke investicije kot geopolitične napetosti. Zlato je po podatkih ECB doseglo zgodovinski mejnik, saj je njegov delež v svetovnih rezervah narasel na 27 %, s čimer je prehitelo ameriške državne obveznice kot glavno rezervno sredstvo, kar kaže na diverzifikacijo centralnih bank stran od dolarja. V tehnološkem sektorju Alphabet načrtuje 80 milijard dolarjev vredno dokapitalizacijo za financiranje širitve na področju umetne inteligence, pri čemer naj bi Berkshire Hathaway kupil za 10 milijard dolarjev delnic s popustom. Medtem ko podjetja kot je Hewlett Packard Enterprise beležijo rast delnic zaradi povečanega povpraševanja po omrežni in strežniški opremi, povezani z umetno inteligenco, analitiki Deutsche Bank izražajo zaskrbljenost glede 'manije' okoli umetne inteligence, kar je vodilo do znižanja bonitetne ocene za SoftBank. Geopolitična tveganja ostajajo visoka, saj se nadaljujejo ruski napadi na Ukrajino, Izrael bombardira Libanon kljub diplomatskim prizadevanjem ZDA za premirje, ZDA pa razmišljajo o širitvi jedrskega orožja v Evropi, kar povečuje globalno negotovost. Ti dogodki skupaj ustvarjajo kompleksno okolje za vlagatelje, kjer se optimizem glede tehnološkega napredka prepleta z naraščajočimi geopolitičnimi tveganji.",
+  "povzetek": "Evropski trgi so danes zaprli ob mešanih občutkih, medtem ko so se ameriški trgi odprli z negotovostjo. Predsednik Trump je podpisal izvršni ukaz o umetni inteligenci, ki pa ga kritiki označujejo kot skoraj nepomembnega, kar bi lahko vplivalo na tehnološki sektor. Naftni velikan BP naj bi raziskoval prodajo severnomorskih sredstev v vrednosti 2 milijardi funtov, kar bi lahko vplivalo na energetske trge. Medtem se nadaljujejo geopolitične napetosti, vključno z novimi ameriškimi carinami na brazilske uvoze in poročili o povečani aktivnosti iranskega vrhovnega voditelja, kar lahko vpliva na surovine in globalno stabilnost. Goldman Sachs CEO David Solomon opozarja na \"več pohlepa kot strahu\" na Wall Streetu, kar nakazuje na potencialno previdnost vlagateljev kljub rekordnim indeksom. Vlagatelji bodo pozorno spremljali odzive na te novice v ZDA.",
   "novice": [
     {
-      "naslov": "Znižanje bonitetne ocene SoftBanka zaradi skrbi glede 'AI manije'",
+      "naslov": "Trumpov izvršni ukaz o umetni inteligenci deležen kritike zaradi nepomembnosti",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Deutsche Bank je znižala bonitetno oceno japonskemu podjetju SoftBank na 'drži' (hold). Ta poteza analitikov je posledica zaskrbljenosti glede 'manije' okoli umetne inteligence, ki naj bi pretirano napihnila vrednotenja v sektorju. SoftBank, ki je bil nedavno okronan za najvišje uvrščeno podjetje na Japonskem, se sooča z vprašanji glede vzdržnosti svoje rasti in vrednotenja v luči hitrega razvoja in investicij v umetno inteligenco. Znižanje bonitetne ocene kaže na previdnost med nekaterimi analitiki glede dolgoročnih obetov podjetij, ki so močno izpostavljena sektorju umetne inteligence.",
-      "analiza": "Znižanje bonitetne ocene za SoftBank s strani Deutsche Bank poudarja naraščajočo zaskrbljenost med finančnimi analitiki glede morebitnega pregrevanja trga umetne inteligence. V zadnjih letih so investicije v AI tehnologije dosegle izjemne ravni, kar je pognalo vrednotenja mnogih podjetij v nebo. SoftBank, znan po svojih obsežnih naložbah v tehnološka podjetja preko Vision Funda, je postal simbol tega optimizma. Vendar pa previdnost analitikov nakazuje na možnost, da so trenutna vrednotenja že vključila velik del prihodnje rasti, kar pušča malo prostora za nadaljnje pozitivne presenečenja in povečuje tveganje za korekcijo. Za finančne trge to pomeni povečano preverjanje vrednotenj v tehnološkem sektorju, še posebej pri podjetjih, ki so močno odvisna od pričakovanj glede AI. Delnice podjetij, ki so močno izpostavljene AI, bi lahko bile pod pritiskom, medtem ko bi se vlagatelji lahko obrnili k bolj konzervativnim naložbam. V preteklosti so bili podobni vzorci vidni med dot-com balonom, ko so podjetja z visokimi pričakovanji, a brez trdnih dobičkov, doživela strm padec. Slovenski dolgoročni vlagatelj bi moral biti pozoren na diverzifikacijo portfelja in kritično ocenjevanje vrednotenj, namesto da bi se zanašal zgolj na 'hype' okoli določenega sektorja.",
+      "intenziteta": 3,
+      "povzetek": "Ameriški predsednik Donald Trump je 2. junija 2026 podpisal izvršni ukaz o umetni inteligenci, ki naj bi vzpostavil okvir za prostovoljno obveščanje zvezne vlade s strani podjetij o novih modelih 30 dni pred njihovo izdajo. Kljub temu kritiki menijo, da je ukaz po obsegu zmanjšan in skoraj nepomemben. Novica je bila objavljena 2. junija 2026 ob 18:37 UTC. Drugi vir omenja, da je ukaz podpisan po notranjih bojih v administraciji.",
+      "analiza": "Podpisani izvršni ukaz o umetni inteligenci s strani predsednika Trumpa, ki naj bi vzpostavil prostovoljni okvir za obveščanje o novih modelih, je naletel na kritike zaradi svoje domnevne nepomembnosti. To se zgodi v času, ko se tehnološki sektor, zlasti podjetja, ki razvijajo napredne AI modele, kot sta Anthropic in Microsoft, soočajo z velikim zanimanjem in investicijami. Pomanjkanje močnejše regulacije ali jasnih smernic bi lahko povzročilo negotovost med vlagatelji glede prihodnjega razvoja in uporabe AI. Vpliv na delnice tehnoloških podjetij je lahko negativen, saj lahko vlagatelji pričakujejo počasnejši napredek ali večjo regulacijo v prihodnosti. Obveznice bi lahko ostale relativno neokrnjene, medtem ko bi lahko kriptovalute, ki se pogosto povezujejo z inovacijami, doživele mešane odzive. Surovine niso neposredno prizadete. Vlagatelji bodo pozorno spremljali, ali bodo podjetja, kot je Anthropic, nadaljevala z ekspanzijo dostopa do svojih modelov, kot je napovedano za več kot 15 držav. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor umetne inteligence še vedno v fazi hitrega razvoja, a z morebitnimi regulativnimi izzivi, ki bi lahko vplivali na vrednotenje podjetij.",
       "vpliv": [
-        "Zaskrbljenost glede pretiranih vrednotenj v AI sektorju",
-        "Potencialni pritisk na delnice podjetij, močno izpostavljenih AI",
-        "Povečana previdnost analitikov",
-        "Možnost korekcije vrednotenj"
+        "Negotovost glede regulacije AI",
+        "Potencialni pritisk na vrednotenje tehnoloških delnic",
+        "Povečano zanimanje za prostovoljne kodekse ravnanja v industriji"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/japans-newly-crowned-top-company-gets-a-downgrade-on-ai-mania-concerns-c32cf789?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-02T08:35:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/trump-signs-an-executive-order-on-ai-after-its-scaled-back-critics-says-its-almost-meaningless-ec1c25b9?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-02T18:37:00.000Z"
     },
     {
-      "naslov": "Zlato prehitelo ameriške obveznice kot glavno svetovno rezervno sredstvo",
-      "sektor": "Makro & Centralne banke",
+      "naslov": "BP naj bi raziskoval prodajo severnomorskih sredstev v vrednosti 2 milijardi funtov",
+      "sektor": "Energetika",
       "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Evropska centralna banka (ECB) poroča, da je zlato postalo glavno rezervno sredstvo na svetu, saj je njegov delež v svetovnih rezervah dosegel 27 %. Ta zgodovinski premik pomeni, da je zlato prehitelo ameriške državne obveznice. Povečanje deleža zlata je posledica zgodovinskega rasti cen plemenite kovine. Centralne banke po svetu aktivno diverzificirajo svoje rezerve, kar vključuje zmanjšanje odvisnosti od ameriškega dolarja. Ta trend odraža širšo strategijo zmanjšanja tveganj in povečanja stabilnosti rezerv v negotornem globalnem gospodarskem okolju.",
-      "analiza": "Poročilo ECB o zlatu kot vodilnem rezervnem sredstvu pomeni pomemben premik v globalni finančni arhitekturi. V preteklosti so ameriške državne obveznice veljale za najvarnejše in najbolj likvidno sredstvo, vendar se je v zadnjih letih zaradi geopolitičnih napetosti, inflacijskih pritiskov in naraščajočega ameriškega dolga povečalo nezaupanje v dolar. Centralne banke, še posebej tiste iz držav v razvoju, so pospešile nakup zlata, da bi zmanjšale izpostavljenost tveganjem, povezanim z dolarjem in ameriškimi obveznicami. Ta diverzifikacija ima večplastne posledice: za zlato to pomeni nadaljnjo podporo cenam, saj povpraševanje s strani centralnih bank ostaja močno. Za ameriški dolar in obveznice pa to pomeni potencialni dolgoročni pritisk, saj se zmanjšuje njihova vloga kot 'varno zatočišče'. To lahko vpliva na stroške zadolževanja ZDA in na moč dolarja v primerjavi z drugimi valutami. V preteklosti so se podobni premiki v rezervnih valutah dogajali skozi zgodovino, na primer prehod iz britanskega funta na ameriški dolar po drugi svetovni vojni. Slovenski dolgoročni vlagatelj bi moral opazovati ta trend kot znak širše globalne dedolarizacije in morebitne spremembe v moči svetovnih valut, kar lahko vpliva na naložbe v mednarodna sredstva.",
+      "intenziteta": 2,
+      "povzetek": "Naftni velikan BP naj bi vodil pogovore o prodaji svojih sredstev v britanskem Severnem morju, ocenjenih na 2 milijardi funtov, podjetju Ithaca Energy. Pogovori naj bi kljub neuspešnim preteklim razpravam še potekali, saj predsednica uprave Meg O’Neill nadaljuje s prestrukturiranjem podjetja. Novica je bila objavljena 2. junija 2026 ob 17:37 UTC.",
+      "analiza": "Poročilo o morebitni prodaji sredstev BP v Severnem morju podjetju Ithaca Energy je pomembno za energetski sektor. BP se že dlje časa nahaja v procesu prestrukturiranja, s ciljem zmanjšanja odvisnosti od fosilnih goriv in povečanja naložb v obnovljive vire energije. Prodaja teh sredstev bi BP-ju omogočila pridobitev dodatnih sredstev za te naložbe in zmanjšanje obsega poslovanja s fosilnimi gorivi. Za Ithaca Energy bi to pomenilo znatno rast proizvodnih zmogljivosti in utrditev položaja na trgu Severnega morja. Vpliv na cene nafte Brent bi bil lahko ob tej novici majhen, saj gre za prodajo obstoječih sredstev znotraj industrije, ne za spremembo skupne ponudbe. Delnice BP bi lahko doživele neznaten dvig, če vlagatelji pozitivno sprejmejo prestrukturiranje, medtem ko bi delnice Ithaca Energy lahko narasle ob napovedi širitve. Obveznice obeh podjetij bi bile odvisne od finančne stabilnosti in dolžniške strukture po morebitnem prevzemu. Za slovenskega dolgoročnega vlagatelja to pomeni, da energetska podjetja nadaljujejo s strateškimi premiki, ki lahko vplivajo na njihovo dolgoročno donosnost in tveganje v času prehoda na čistejšo energijo.",
       "vpliv": [
-        "Zlato postane glavno rezervno sredstvo (27% delež)",
-        "Diverzifikacija centralnih bank stran od USD",
-        "Dolgoročni pritisk na ameriški dolar in obveznice",
-        "Nadaljnja podpora cenam zlata"
+        "Potencialna rast delnic Ithaca Energy",
+        "Zmanjšanje obsega poslovanja BP z fosilnimi gorivi",
+        "Manjši vpliv na cene surove nafte"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/87ef8f25-eb81-4eed-919c-fe5b49a1ac2c",
-      "objavljeno": "2026-06-02T08:00:03.000Z"
+      "vir_url": "https://www.ft.com/content/4ecf7da6-c643-47c7-abc7-d4283c8e333c",
+      "objavljeno": "2026-06-02T17:37:21.000Z"
     },
     {
-      "naslov": "Alphabet od delničarjev zahteva 80 milijard dolarjev za širitev AI",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Alphabet, matično podjetje Googla, je napovedalo, da bo od delničarjev zahtevalo 80 milijard dolarjev za financiranje obsežne širitve na področju umetne inteligence. Del te dokapitalizacije vključuje dogovor o prodaji za 10 milijard dolarjev delnic podjetju Berkshire Hathaway, ki jih bo kupilo s popustom. Ta poteza poudarja izjemne finančne zahteve, ki jih prinaša razvoj in implementacija naprednih AI tehnologij. Sredstva bodo namenjena za raziskave, razvoj infrastrukture in širitev zmogljivosti na področju umetne inteligence.",
-      "analiza": "Odločitev Alphabeta, da zbere 80 milijard dolarjev od delničarjev za AI širitev, poudarja tako ogromen potencial kot tudi izjemne stroške, povezane z razvojem umetne inteligence. To je jasen signal, da vodilna tehnološka podjetja vidijo AI kot ključno področje za prihodnjo rast in so pripravljena vložiti ogromne vsote. Za delnice Alphabeta bi lahko dokapitalizacija kratkoročno povzročila pritisk zaradi razredčenja, vendar dolgoročno, če bodo investicije uspešne, lahko prinesejo znatno rast. Prisotnost Berkshire Hathaway kot kupca delnic s popustom kaže na zaupanje velikih institucionalnih vlagateljev v dolgoročni potencial Alphabeta in AI sektorja. To lahko služi kot signal tudi drugim vlagateljem. Na širšem trgu to pomeni, da se bo konkurenca v AI sektorju še zaostrila, saj podjetja tekmujejo za prevlado. Posledice za obveznice so posredne, saj se lahko poveča povpraševanje po financiranju v tehnološkem sektorju. Slovenski dolgoročni vlagatelj bi moral razumeti, da so takšne obsežne investicije značilne za faze hitre tehnološke rasti, vendar prinašajo tudi tveganja, povezana z izvedbo in konkurenco.",
-      "vpliv": [
-        "Alphabet načrtuje 80 milijard dolarjev dokapitalizacije",
-        "Berkshire Hathaway kupuje za 10 milijard dolarjev delnic",
-        "Povečana konkurenca v AI sektorju",
-        "Potencialno razredčenje delnic kratkoročno"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/alphabet-asks-shareholders-to-foot-an-80-billion-bill-for-ai-expansion-de8492fa?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-02T07:55:00.000Z"
-    },
-    {
-      "naslov": "ZDA razmišljajo o širitvi namestitev jedrskega orožja v Evropi",
+      "naslov": "ZDA uvajajo nove carine na brazilske uvoze zaradi trgovinskih praks",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Washington je signaliziral odprtost za to, da bi dodatne države v Evropi gostile bombnike, sposobne prenašanja jedrskega orožja. To kaže na pogovore o širitvi namestitev jedrskega orožja ZDA na evropskih tleh. Poteza je verjetno odgovor na naraščajoče geopolitične napetosti, zlasti v luči konflikta v Ukrajini in zaostrovanja odnosov z Rusijo. Takšna širitev bi lahko imela pomembne varnostne in politične posledice za celotno celino.",
-      "analiza": "Pogovori ZDA o širitvi namestitev jedrskega orožja v Evropi predstavljajo pomemben razvoj v globalni geopolitični krajini, ki odraža naraščajoče napetosti med zahodnimi silami in Rusijo. Ta poteza, čeprav je namenjena odvračanju, lahko hkrati poveča tveganje za eskalacijo konflikta in sproži novo oboroževalno tekmo. Za finančne trge to pomeni povečano negotovost in tveganje. Vlagatelji se lahko odzovejo z umikom iz bolj tveganih sredstev in iskanjem varnih zatočišč, kot so zlato in državne obveznice stabilnih držav. Obrambni sektor bi lahko zabeležil rast, saj se povečujejo izdatki za vojaško opremo. Valute držav, ki bi bile neposredno vpletene v takšne namestitve, bi lahko bile pod pritiskom. V zgodovini so obdobja povečanih jedrskih napetosti, kot je bila hladna vojna, povzročila nihanja na trgih in vplivala na dolgoročne naložbene strategije. Slovenski dolgoročni vlagatelj bi moral biti pozoren na tovrstne geopolitične premike, saj lahko vplivajo na globalno stabilnost, cene surovin in splošno gospodarsko klimo, kar posredno vpliva na donosnost naložb.",
+      "povzetek": "Združene države Amerike načrtujejo uvedbo novih 25-odstotnih carin na brazilske uvoze, pri čemer navajajo kot razloge težave, kot sta krčenje gozdov in prakse digitalne trgovine. Novica je bila objavljena 2. junija 2026 ob 17:00 UTC. Kanada medtem išče 16-letno podaljšanje sporazuma USMCA in razprave o sektorskih carinah.",
+      "analiza": "Uvedba novih ameriških carin na brazilske uvoze predstavlja pomemben geopolitični in trgovinski premik, ki lahko vpliva na globalne dobavne verige in cene surovin. ZDA s tem ukrepom ciljajo na Brazilijo zaradi okoljskih in trgovinskih praks, kar lahko povzroči trgovinski spor med državama. Posledice bi lahko čutili tudi drugi, saj lahko Brazilija odgovori z lastnimi protiukrepi ali pa se obrne na druge trgovinske partnerje, kot je Kitajska, ki je odprla svoje trge za afriške izvoznike. Vpliv na delnice podjetij, ki so odvisna od trgovine med ZDA in Brazilijo, bo verjetno negativen. Cene nekaterih surovin, ki jih Brazilija izvaža (npr. kava, sladkor, olja), bi lahko narasle zaradi omejene ponudbe na ameriškem trgu ali pa padle zaradi zmanjšanega povpraševanja. Valutni pari, kot je USD/BRL, bi lahko doživeli večjo volatilnost. Za slovenskega dolgoročnega vlagatelja to pomeni, da se povečujejo trgovinske napetosti med velikimi gospodarstvi, kar lahko vodi do večje negotovosti na globalnih trgih in vpliva na podjetja, ki so izpostavljena mednarodni trgovini.",
       "vpliv": [
-        "Pogovori o širitvi jedrskega orožja v Evropi",
-        "Povečana geopolitična negotovost",
-        "Potencialni umik vlagateljev v varna zatočišča",
-        "Rast v obrambnem sektorju"
+        "Povečanje stroškov za uvoznike v ZDA",
+        "Potencialna retaliacija s strani Brazilije",
+        "Negotovost na trgih surovin"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/1a32ad0f-c8b3-4b91-a931-5dc053c6c214",
-      "objavljeno": "2026-06-02T04:00:15.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/6/2/us-targets-brazil-with-new-tariffs-over-trade-practices?traffic_source=rss",
+      "objavljeno": "2026-06-02T17:00:15.000Z"
     },
     {
-      "naslov": "Delnice HPE poskočile zaradi 'omrežne bonanze' in povpraševanja po AI infrastrukturi",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
+      "naslov": "Goldman Sachs CEO: Trgi so v \"pohlepnem\" načinu, AI podjetja iščejo milijarde",
+      "sektor": "Finance",
+      "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Delnice podjetja Hewlett Packard Enterprise (HPE) so močno poskočile in se približujejo rekordnim dobičkom. To se je zgodilo po objavi rezultatov poslovanja, ki kažejo na izjemen uspeh na področju omrežnih rešitev. Povečano povpraševanje po omrežni in strežniški opremi, ki ga poganja razvoj umetne inteligence, je ključni dejavnik za to rast. HPE uspešno izkorišča ta trend, saj podjetja po vsem svetu investirajo v infrastrukturo za podporo AI aplikacijam.",
-      "analiza": "Rast delnic HPE po objavi rezultatov, ki kažejo na 'omrežno bonanzo', je neposredna posledica globalnega trenda vlaganja v infrastrukturo za umetno inteligenco. Podjetja, ki razvijajo in implementirajo AI rešitve, potrebujejo zmogljivejše strežnike, napredne omrežne sisteme in shranjevalne kapacitete. HPE je eden ključnih igralcev na tem področju in uspešno kapitalizira na tem povpraševanju. Za delniške trge to pomeni nadaljnjo potrditev močne rasti v sektorju umetne inteligence, vendar s poudarkom na podjetjih, ki zagotavljajo osnovno infrastrukturo. To lahko spodbudi vlagatelje, da preusmerijo pozornost s podjetij, ki razvijajo zgolj AI aplikacije, na tista, ki gradijo temelje za AI. Posledice za obveznice so omejene, razen če se povečano povpraševanje po financiranju v sektorju odrazi na obrestnih merah. V preteklosti so podobne faze tehnološkega razvoja (npr. internetna infrastruktura v 90. letih) prav tako poganjale rast podjetij, ki so zagotavljala osnovno strojno opremo. Slovenski dolgoročni vlagatelj bi moral razmisliti o diverzifikaciji znotraj tehnološkega sektorja, vključno s podjetji, ki zagotavljajo ključno infrastrukturo za AI, saj ta predstavljajo pomemben del ekosistema.",
+      "povzetek": "Izvršni direktor Goldman Sachs, David Solomon, je izjavil, da so trgi v načinu \"več pohlepa kot strahu\", kar poudarja bikovski pogled, ki je pomagal potisniti S&P 500 do rekordov na polovici vseh trgovalnih dni prejšnji mesec. Njegovi komentarji prihajajo, ko se vlagatelji pripravljajo na eno najbolj zasedenih obdobij za izdajo delnic v zadnjih letih, zlasti v sektorju umetne inteligence. Novica je bila objavljena 2. junija 2026 ob 17:39 UTC. Drugi vir omenja, da Solomon vidi \"več pohlepa kot strahu\" na Wall Streetu.",
+      "analiza": "Komentarji Davida Solomona o \"pohlepu\" na trgih nakazujejo na visoko stopnjo optimizma med vlagatelji, kar je pogosto povezano z rastjo cen delnic. To se sklada z nedavnimi rekordnimi vrednostmi indeksa S&P 500. Vendar pa lahko takšno \"pohlepno\" razpoloženje včasih nakazuje na potencialno pregrevanje trga in povečano tveganje za korekcijo. Priprava na \"najbolj zasedeno obdobje za izdajo delnic\" kaže na veliko povpraševanje po kapitalu, zlasti s strani tehnoloških podjetij, ki razvijajo umetno inteligenco. To lahko povzroči povečano ponudbo delnic, kar bi lahko imelo pritisk na cene. Vpliv na delnice je lahko mešan: nekatera podjetja, ki uspešno pridobijo sredstva, bi lahko rasla, medtem ko bi lahko splošno povečanje ponudbe delnic povzročilo pritisk na indekse. Obveznice bi lahko postale bolj privlačne kot varnejše naložbe v primeru povečane negotovosti. Valute bi lahko doživele spremembe glede na globalno gospodarsko sliko. Kriptovalute bi lahko še naprej sledile trendom v tehnološkem sektorju. Za slovenskega dolgoročnega vlagatelja to pomeni, da je trg trenutno v fazi visoke rasti, vendar je pomembno ohraniti previdnost in se zavedati potencialnih tveganj, ki jih prinaša \"pohlepno\" razpoloženje vlagateljev.",
       "vpliv": [
-        "Delnice HPE močno poskočile",
-        "Izjemen uspeh na področju omrežnih rešitev",
-        "Povečano povpraševanje po AI infrastrukturi",
-        "Potrditev rasti v AI sektorju (infrastruktura)"
+        "Potencialno povečano tveganje za korekcijo trga",
+        "Povečana ponudba delnic zaradi novih izdaj",
+        "Povečano zanimanje za varnejše naložbe, kot so obveznice"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
+      "objavljeno": "2026-06-02T17:39:32.000Z"
+    },
+    {
+      "naslov": "Američani uporabljajo \"kupuj zdaj, plačaj kasneje\" za bencin in živila",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Američani vse pogosteje uporabljajo storitve \"kupuj zdaj, plačaj kasneje\" (BNPL) za osnovne potrebe, kot so bencin in živila, kar odraža naraščajoče stroške vsakdanjega življenja. Cene bencina so se zvišale za več kot 1 dolar na galono v primerjavi z lanskim povprečjem. Novica je bila objavljena 2. junija 2026 ob 17:35 UTC. Drugi vir omenja, da je za izredni varčevalni sklad potrebnih 20.000 dolarjev.",
+      "analiza": "Naraščajoča uporaba \"kupuj zdaj, plačaj kasneje\" (BNPL) za osnovne potrebe, kot sta bencin in živila, kaže na finančni pritisk na ameriška gospodinjstva. To je posledica inflacije in naraščajočih cen, ki presegajo zmožnosti mnogih potrošnikov. Zvišanje cen bencina za več kot 1 dolar na galono in potreba po 20.000 dolarjih v izrednih varčevalnih skladih poudarjata gospodarsko negotovost. Vpliv na podjetja, ki ponujajo BNPL storitve, je lahko pozitiven zaradi povečanega obsega poslovanja, vendar pa se povečuje tudi tveganje neplačil. Podjetja, ki prodajajo osnovne dobrine, bi lahko doživela povečano prodajo na kratki rok, vendar bi se lahko soočala z dolgoročnimi težavami, če potrošniki ne bodo mogli odplačevati svojih dolgov. Delnice podjetij, ki se ukvarjajo s kreditiranjem, bi lahko bile pod pritiskom zaradi povečanega tveganja neplačil. Obveznice bi lahko ostale relativno stabilne, če se gospodarstvo ne bo bistveno poslabšalo. Za slovenskega dolgoročnega vlagatelja to pomeni, da so potrošniške navade in finančna sposobnost potrošnikov ključni dejavnik za oceno uspešnosti podjetij v potrošniškem sektorju, ter da lahko naraščajoči stroški življenja vplivajo na splošno gospodarsko aktivnost.",
+      "vpliv": [
+        "Povečana uporaba BNPL storitev",
+        "Finančni pritisk na gospodinjstva",
+        "Potencialno povečano tveganje neplačil za BNPL ponudnike"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/hpes-stock-soars-toward-record-gain-as-earnings-show-a-networking-bonanza-2bde2d3a?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-02T00:21:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/americans-are-using-buy-now-pay-later-for-gas-and-groceries-showing-just-how-expensive-daily-necessities-are-now-25a041b3?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-02T17:35:00.000Z"
+    },
+    {
+      "naslov": "Iranova vojna zvišuje cene gnojil, kmetje sprejemajo težke odločitve",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Vojna v Iranu povzroča dvig cen gnojil, kar kmetom nalaga težke odločitve, saj \"če ugibam narobe, izgubim kmetijo\". Eden največjih izzivov za kmete, kot je Preston Arrington na svoji 2.100-akrski kmetiji koruze in soje, je skokovit porast cen gnojil. Novica je bila objavljena 2. junija 2026 ob 16:50 UTC.",
+      "analiza": "Vpliv vojne v Iranu na cene gnojil je neposreden in pomemben za kmetijski sektor po vsem svetu. Gnojila, ki temeljijo na dušiku, so pogosto odvisna od zemeljskega plina, katerega cene so lahko nestabilne v času geopolitičnih napetosti. Povečani stroški gnojil neposredno vplivajo na donosnost kmetijskih gospodarstev in lahko vodijo do zmanjšanja pridelka ali uporabe manj gnojil, kar posledično vpliva na cene hrane. Kmetje, kot je Preston Arrington, se soočajo z dilemo med višjimi stroški in tveganjem za nižji pridelek. Vpliv na delnice kmetijskih podjetij bi bil lahko negativen, če se bodo stroški nadaljevali. Cene surovin, kot so koruza in soja, bi lahko narasle zaradi pričakovanega zmanjšanja ponudbe. Obveznice bi lahko ostale stabilne, če ne bo širših gospodarskih posledic. Za slovenskega dolgoročnega vlagatelja to pomeni, da geopolitični dogodki, tudi če se zdijo oddaljeni, lahko neposredno vplivajo na cene osnovnih dobrin, kot je hrana, kar je pomembno za oceno inflacijskih pritiskov in stabilnosti v prehranski verigi.",
+      "vpliv": [
+        "Povečanje stroškov za kmetijsko proizvodnjo",
+        "Potencialno zvišanje cen hrane",
+        "Pritisk na donosnost kmetijskih gospodarstev"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-iran-war-is-jacking-up-fertilizer-prices-and-forcing-farmers-to-make-tough-calls-if-i-guess-wrong-i-lose-the-farm-dc30c979?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-02T16:50:00.000Z"
     }
   ]
 }
