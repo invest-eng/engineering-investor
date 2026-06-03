@@ -1,112 +1,112 @@
 {
-  "generiranoOb": "2026-06-03T09:05:17.146Z",
-  "izdaja": "morning",
-  "model": "gemini-2.5-flash-lite",
+  "generiranoOb": "2026-06-03T19:10:13.518Z",
+  "izdaja": "afternoon",
+  "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-06-03",
-  "povzetek": "Geopolitične napetosti na Bližnjem vzhodu se zaostrujejo, saj so ZDA napadle iransko otok Qeshm, na kar se je Iran odzval z napadom na Kuvajt in Bahrajn, kar je povzročilo nesrečo na avtocesti v Kuvajtu. Hkrati se nadaljujejo ruski napadi na Ukrajino, kjer je ukrajinski dron ubil sedem ljudi na območju pod ruskim nadzorom. V ZDA se pripravljajo na nove carine, povezane s prisilnim delom, medtem ko japonski borzni indeks Nikkei dosega nove rekorde zaradi AI-buma. V ZDA je prišlo do odpuščanja novinarja Scotta Pelleyja pri CBS, medtem ko se v Združenem kraljestvu soočajo s finančnimi težavami univerz in vprašanji glede vpliva AI na založništvo. V New Delhiju je v požaru umrlo 21 ljudi, med njimi tuji državljani.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v senci geopolitičnih napetosti in skrbi glede energetske varnosti, medtem ko so ameriški trgi odprli z mešano smerjo. Ključna novica dneva je bila poročilo Financial Timesa o padcu ameriških zalog nafte na najnižjo raven od leta 2004, kar je posledica 'Trumpove vojne v Iranu' in je povzročilo rast cen nafte. Dodatno so regionalne napetosti na Bližnjem vzhodu, z izraelskimi napadi v Libanonu, še povečale negotovost. Ameriška finančna ministrica Bessent je poskušala pomiriti trge z izjavo, da bo skok inflacije le 'kratkoročen pojav', kar je imelo vpliv na obvezniške trge in pričakovanja glede obrestnih mer. Tehnološki sektor se sooča z obsežnimi pretresi, saj umetna inteligenca (AI) 'uničuje' startup podjetja, ustanovljena pred ChatGPT-jem, kar kaže na hitre spremembe v industriji. Hkrati se ameriški nepremičninski trg ohlaja, saj prodajalci umikajo domove s trga z najhitrejšim tempom po letu 2020, kar odraža zmanjšano povpraševanje. Na področju financ pa sprememba pravila s strani SEC olajšuje dnevno trgovanje, kljub visokemu tveganju za vlagatelje.",
   "novice": [
     {
-      "naslov": "ZDA napadle iransko otok Qeshm, Iran odgovoril s napadi na Kuvajt in Bahrajn",
+      "naslov": "Zaloge nafte v ZDA najnižje po letu 2004 zaradi konflikta z Iranom",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Financial Times poroča, da so ameriške zaloge nafte padle na najnižjo raven po letu 2004. To je neposredna posledica 'Trumpove vojne v Iranu', ki je povzročila izčrpavanje strateških rezerv. Industrija opozarja, da bi cene nafte lahko kmalu poskočile, saj so zaloge dosegle 'kritično nizek' prag. Poročilo EIA je potrdilo šesti zaporedni tedenski padec komercialnih zalog surove nafte v ZDA in velik umik iz nacionalne rezerve. Cene nafte so se danes povzpele na najvišje ravni v več kot tednu dni, saj se rezervoarji praznijo, dokler ostaja Hormuška ožina zaprta. To kaže na resne motnje v globalni oskrbi z nafto.",
+      "analiza": "Ozadje te novice je dolgotrajen konflikt med ZDA in Iranom, ki je v zadnjem času eskaliral in vplival na globalno oskrbo z nafto. Padec ameriških zalog nafte na raven, ki ni bila zabeležena od leta 2004, je izjemno pomemben signal za trge. To se dogaja v času, ko so globalne dobavne verige že napete, in vsaka motnja v proizvodnji ali transportu nafte lahko ima daljnosežne posledice. Mehanizem vpliva je direkten: zmanjšana ponudba ob stabilnem ali naraščajočem povpraševanju vodi v rast cen. Posledice so vidne na terminskih pogodbah za nafto, kot je Brent in WTI, ki so že zabeležile rast, kar vpliva na višje stroške goriva za potrošnike in podjetja. To lahko sproži inflacijske pritiske in vpliva na dobičkonosnost podjetij v transportnem in proizvodnem sektorju. Za obveznice to pomeni pritisk navzdol zaradi inflacijskih pričakovanj, medtem ko valute držav, ki so neto uvoznice nafte, lahko oslabijo. Slovenski dolgoročni vlagatelj mora biti pozoren na tovrstne geopolitične dejavnike, saj lahko vplivajo na cene surovin in s tem na inflacijo ter dobičkonosnost podjetij, v katere vlaga, še posebej tistih, ki so odvisna od energentov.",
+      "vpliv": [
+        "Cene nafte (Brent, WTI) so se povzpele na najvišje ravni v več kot tednu dni.",
+        "Povečani inflacijski pritiski zaradi višjih stroškov energentov.",
+        "Potencialno zmanjšanje dobičkonosnosti podjetij, odvisnih od nafte.",
+        "Oslabitev valut držav, ki so neto uvoznice nafte."
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/d0be73c8-b8d8-4ffd-874e-e97a6ecffef7",
+      "objavljeno": "2026-06-03T18:08:06.000Z"
+    },
+    {
+      "naslov": "Izraelski napadi v Libanonu preizkušajo dogovor in dosežejo obrobje Bejruta",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Ameriška Centralna poveljstva je objavilo posnetek napada na tanker, ki naj bi bil namenjen na iranski otok Kharg. Hkrati je Iran napadel cilje v Kuvajtu in Bahrajnu, kar je povzročilo nesrečo na avtocesti v Kuvajtu. ZDA trdijo, da so izvedle napade na iranski otok Qeshm v samoobrambi, medtem ko Iran obtožujejo, da je izstrelil več balističnih raket na Kuvajt in Bahrajn. Napetosti se povečujejo, saj mirovna pogajanja med ZDA in Iranom zastajajo.",
-      "analiza": "Geopolitični konflikt med ZDA in Iranom se zaostruje z neposrednimi vojaškimi akcijami. Napad ZDA na iranski otok Qeshm in iranski povračilni napadi na Kuvajt in Bahrajn povečujejo tveganje za širšo regionalno eskalacijo. To neposredno vpliva na cene nafte, saj je regija ključna za globalno oskrbo. Brent nafta bi lahko zaradi teh dogodkov zabeležila rast, saj se povečujejo skrbi glede dobavne varnosti. Delnice energetskih podjetij, zlasti tistih z izpostavljenostjo na Bližnjem vzhodu, bi lahko doživele rast, medtem ko bi lahko indeksi v državah, ki so neposredno prizadete (npr. Kuvajt), padli. Valute v regiji bi lahko oslabile zaradi povečane negotovosti. Za slovenskega vlagatelja to pomeni povečano tveganje inflacije zaradi višjih cen energentov in potencialno večjo nestanovitnost na globalnih finančnih trgih, kar zahteva previdnost pri naložbenih odločitvah.",
+      "povzetek": "Izraelski napadi so v Libanonu ubili devet ljudi in dosegli obrobje Bejruta. Ti napadi preizkušajo dogovor, ki so ga posredovale ZDA, namenjen omejevanju napadov med Izraelom in Hezbolahom. Nova pogajanja med Izraelom in Libanonom v Washingtonu so prav tako pod vprašajem. Incidenti se dogajajo v času, ko se regija že sooča z visoko stopnjo nestabilnosti. Poročilo Al Jazeere poudarja, da se stopnjujejo napetosti, kar ima lahko širše regionalne posledice.",
+      "analiza": "Stopnjevanje konflikta na Bližnjem vzhodu, z izraelskimi napadi, ki so dosegli obrobje Bejruta in povzročili žrtve, predstavlja pomembno geopolitično tveganje. To dogajanje neposredno preizkuša ameriško posredovanje za umiritev razmer med Izraelom in Hezbolahom, kar kaže na krhkost regionalne stabilnosti. Širši kontekst vključuje že obstoječe napetosti in konflikte v regiji, ki imajo potencial za hitro eskalacijo. Mehanizem vpliva na finančne trge je predvsem preko povečanja geopolitičnega tveganja, kar običajno vodi v beg kapitala v varnejša zatočišča. Posledice se kažejo v rasti cen zlata in drugih plemenitih kovin, morebitni rasti cen nafte zaradi strahu pred motnjami v dobavi iz regije, ter morebitnem padcu delniških indeksov, še posebej tistih, ki so izpostavljeni regiji. Valute, kot je ameriški dolar, lahko okrepijo kot varno zatočišče. Slovenski dolgoročni vlagatelj mora biti pozoren na tovrstne dogodke, saj lahko povečajo volatilnost trgov in vplivajo na globalno gospodarsko rast, kar se posredno odraža tudi na donosnosti naložb.",
       "vpliv": [
-        "Rast cen nafte",
-        "Povečana nestanovitnost delniških trgov",
-        "Oslabitev valut v regiji",
-        "Potencialna inflacija zaradi energentov"
+        "Povečanje geopolitičnega tveganja na globalnih trgih.",
+        "Rast cen zlata in drugih varnih zatočišč.",
+        "Potencialna nadaljnja rast cen nafte zaradi strahu pred motnjami v dobavi.",
+        "Morebiten padec delniških indeksov, še posebej v Evropi in ZDA."
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss",
-      "objavljeno": "2026-06-03T01:26:30.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss",
+      "objavljeno": "2026-06-03T17:54:42.000Z"
     },
     {
-      "naslov": "Japonski borzni indeks Nikkei dosegel nov rekord zaradi AI-buma",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Japonski borzni indeks Nikkei 225 je presegel mejo 68.000 točk, kar je nov zgodovinski rekord. Vzrok za ta uspeh je močan zagon v sektorju umetne inteligence (AI), ki spodbuja nakupovalno mrzlico na trgu. Trendi v AI se ne kažejo znakov upočasnitve.",
-      "analiza": "Rast indeksa Nikkei 225 odraža globalni trend optimizma glede umetne inteligence. Podjetja, ki razvijajo ali uporabljajo AI tehnologije, doživljajo povečano povpraševanje po svojih delnicah. Ta fenomen ni omejen le na Japonsko, ampak se kaže tudi na drugih globalnih trgih, kjer tehnološki sektor poganja rast. Za slovenske vlagatelje to pomeni, da lahko podjetja, ki so izpostavljena AI trendu, predstavljajo priložnost za rast, vendar je pomembno prepoznati, katera podjetja imajo dejanski potencial in niso le del kratkoročnega navdušenja. Povečanje vrednosti indeksa Nikkei lahko pozitivno vpliva na globalna finančna tržišča, saj povečuje zaupanje vlagateljev.",
+      "naslov": "Ameriška finančna ministrica Bessent: Skok inflacije bo le kratkoročen pojav",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Ameriška finančna ministrica Bessent je izjavila, da bo nedavni skok inflacije le 'kratkoročen pojav'. S tem je branila ekonomsko politiko predsednika Donalda Trumpa, ki se sooča z naraščajočimi frustracijami zaradi vojne v Iranu. Njena izjava je poskus pomiritve trgov in javnosti glede inflacijskih pritiskov. To je pomembno sporočilo za pričakovanja glede prihodnjih odločitev centralnih bank in monetarne politike, saj vpliva na oceno tveganja in obrestnih mer.",
+      "analiza": "Izjava finančne ministrice Bessent o 'kratkoročnem pojavu' inflacije je ključna za razumevanje makroekonomskih pričakovanj v ZDA. Ozadje je naraščajoča zaskrbljenost glede inflacije, ki je deloma posledica motenj v dobavnih verigah in rasti cen energentov, kar je še poslabšala 'Trumpova vojna v Iranu'. Ministrica s tem poskuša stabilizirati pričakovanja in preprečiti, da bi se inflacijski pritiski trajno zasidrali v gospodarstvo. Mehanizem vpliva na trge je preko vpliva na pričakovanja glede obrestnih mer. Če trgi verjamejo, da je inflacija prehodna, se zmanjša pritisk na centralno banko za agresivno zviševanje obrestnih mer. To bi lahko pozitivno vplivalo na obvezniške trge (višje cene, nižji donosi) in delniške trge, saj bi podjetja imela nižje stroške zadolževanja. Nasprotno, če trgi ne verjamejo izjavi, se lahko inflacijska pričakovanja povečajo, kar bi vodilo v rast donosov obveznic in morebiten padec delnic. Za valute, kot je ameriški dolar, bi to lahko pomenilo manjšo podporo, če se zmanjšajo pričakovanja o hitrem zviševanju obrestnih mer. Slovenski dolgoročni vlagatelj mora spremljati te izjave in dejanske inflacijske podatke, saj vplivajo na globalne obrestne mere in s tem na privlačnost različnih naložbenih razredov, vključno z obveznicami in delnicami podjetij, ki so občutljiva na stroške financiranja.",
       "vpliv": [
-        "Rast vrednosti japonskih delnic",
-        "Povečano zanimanje za tehnološke delnice",
-        "Pozitiven vpliv na globalna finančna tržišča",
-        "Potencialna rast vlaganj v AI podjetja"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/6/3/japans-stock-market-hits-new-record-as-ai-boom-gathers-steam?traffic_source=rss",
-      "objavljeno": "2026-06-03T05:56:30.000Z"
-    },
-    {
-      "naslov": "ZDA uvajajo nove carine na prisilno delo, obstoječe potečejo",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Trumpova administracija je predlagala nove carine, ki bi začele veljati ravno ko poteče obstoječa uvozna dajatev. Te nove carine bodo ciljale na izdelke, proizvedene s prisilnim delom. Bela hiša je s tem naredila prvi pomemben korak k ponovni uvedbi obsežnih carin po porazu na Vrhovnem sodišču ZDA.",
-      "analiza": "Uvedba novih carin s strani ZDA, ki ciljajo na prisilno delo, lahko povzroči motnje v globalnih dobavnih verigah in poveča stroške za podjetja, ki uvažajo izdelke iz držav, kjer je prisilno delo razširjeno. To lahko vpliva na cene končnih izdelkov in povzroči inflacijske pritiske. Za podjetja to pomeni potrebo po reviziji dobavnih verig in iskanju alternativnih dobaviteljev. Delnice podjetij, ki so močno odvisna od uvoza iz prizadetih regij, bi lahko padle. Valute držav, ki so tarča carin, bi lahko oslabile. Za slovenskega vlagatelja to pomeni povečano tveganje vlaganj v podjetja z globalnimi dobavnimi verigami, ki so izpostavljena trgovinskim politikam ZDA, ter potencialno višje cene nekaterih izdelkov.",
-      "vpliv": [
-        "Povečanje stroškov uvoza",
-        "Motnje v dobavnih verigah",
-        "Potencialni inflacijski pritiski",
-        "Oslabitev valut prizadetih držav"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/new-trump-administration-tariffs-this-time-on-forced-labor-could-come-into-force-as-existing-ones-roll-off-f930dfca?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-03T08:29:00.000Z"
-    },
-    {
-      "naslov": "OECD opozarja na 'temen scenarij' ob nadaljevanju energetske krize v Perzijskem zalivu",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Organizacija za ekonomsko sodelovanje in razvoj (OECD) opozarja na možnost 'temnega scenarija', če se energetska kriza v Perzijskem zalivu nadaljuje. Stopnje rasti bi lahko padle na ravni, ki jih redko vidimo zunaj velikih globalnih dogodkov, kot je pandemija COVID-19.",
-      "analiza": "Opozorilo OECD poudarja resnost potencialnih posledic energetske krize v Perzijskem zalivu. Nadaljevanje te krize bi lahko povzročilo znatno zmanjšanje globalne gospodarske rasti, podobno tistemu, kar smo videli med pandemijo. To bi neposredno vplivalo na cene energentov, ki bi lahko ostale visoke ali celo še narasle, kar bi dodatno obremenilo gospodarstva. Delniški trgi bi verjetno doživeli padec zaradi splošnega poslabšanja gospodarskih obetov. Obveznice bi lahko postale bolj privlačne kot varno zatočišče, čeprav bi rast obrestnih mer lahko omejila njihovo donosnost. Valute držav, ki so močno odvisne od uvoza energentov, bi lahko oslabile. Za slovenskega vlagatelja to pomeni povečano tveganje recesije in potrebo po diverzifikaciji naložb izven sektorjev, ki so najbolj izpostavljeni energetski krizi.",
-      "vpliv": [
-        "Zmanjšanje globalne gospodarske rasti",
-        "Visoke cene energentov",
-        "Padec delniških trgov",
-        "Potencialno povečanje povpraševanja po obveznicah"
+        "Vpliv na pričakovanja glede prihodnjih odločitev Feda o obrestnih merah.",
+        "Potencialno stabiliziranje obvezniških trgov in donosov.",
+        "Zmanjšanje pritiska na delniške trge, če se inflacija umiri.",
+        "Vpliv na vrednost ameriškega dolarja glede na pričakovanja o monetarni politiki."
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/c79f9b4a-4793-4fe9-b031-81c56511893c",
-      "objavljeno": "2026-06-03T07:00:03.000Z"
+      "vir_url": "https://www.ft.com/content/b8d9c334-f7c5-4806-b2db-75dda9ae6613",
+      "objavljeno": "2026-06-03T16:14:39.000Z"
     },
     {
-      "naslov": "Odpuščanje novinarja Scotta Pelleyja pri CBS zaradi spora z vodstvom",
+      "naslov": "Umetna inteligenca uničuje startup podjetja, ustanovljena pred ChatGPT-jem",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Razcvet umetne inteligence, ki je v OpenAI in Anthropic prelil več kot 250 milijard dolarjev, je na stotine startup podjetij, ustanovljenih pred prihodom ChatGPT-ja leta 2022, pustil 'motene ali mrtve'. CNBC poroča, da se ta podjetja soočajo z izjemnimi izzivi in so v veliki meri ostala brez sredstev in tržne relevantnosti. To kaže na hitrost in obseg disruptivnih sprememb, ki jih prinaša napredek na področju AI, kar preoblikuje celotno tehnološko industrijo.",
+      "analiza": "Novica o tem, kako umetna inteligenca, še posebej po prihodu ChatGPT-ja, 'uničuje' starejše startup podjetja, poudarja izjemno hitrost tehnološke disrupcije. Ozadje je eksponentna rast vlaganj v nova AI podjetja, kot sta OpenAI in Anthropic, ki so prejela več kot 250 milijard dolarjev. To ustvarja izrazito konkurenčno okolje, kjer podjetja, ki se niso hitro prilagodila ali so bila ustanovljena pred to novo paradigmo, težko preživijo. Mehanizem vpliva na trge je dvojen: po eni strani to pomeni izjemne priložnosti za inovativna AI podjetja in s tem rast v določenih segmentih tehnološkega sektorja. Po drugi strani pa to vodi v propad ali zmanjšanje vrednosti številnih obstoječih podjetij, kar lahko povzroči izgube za vlagatelje v te 'starejše' tehnološke startupe. Posledice so vidne v preusmeritvi kapitala znotraj tehnološkega sektorja, povečani volatilnosti delnic tehnoloških podjetij in morebitnih konsolidacijah. Za obveznice in valute je vpliv posreden, preko splošnega sentimenta na trgu in gospodarske rasti. Slovenski dolgoročni vlagatelj mora biti pozoren na te trende, saj kažejo na nujnost naložb v podjetja, ki so odporna na disrupcijo ali so sama nosilci inovacij, še posebej na področju umetne inteligence. Razpršitev naložb je ključna za zmanjšanje tveganja, povezanega s hitrimi tehnološkimi spremembami.",
+      "vpliv": [
+        "Padec vrednosti in propad startup podjetij, ki niso prilagojena AI.",
+        "Preusmeritev investicijskega kapitala v nova AI podjetja.",
+        "Povečana volatilnost v tehnološkem sektorju.",
+        "Konsolidacija v industriji zaradi prevzemov ali propadov."
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
+      "objavljeno": "2026-06-03T17:10:58.000Z"
+    },
+    {
+      "naslov": "SEC olajšuje dnevno trgovanje kljub visokemu tveganju za vlagatelje",
       "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 1,
-      "povzetek": "Ameriški medij CBS je odpustil dolgoletnega novinarja Scotta Pelleyja, voditelja oddaje '60 Minutes', po sporu z vodstvom. Pelley naj bi vodstvo obtožil 'umora' vplivne novinarske oddaje.",
-      "analiza": "Odpuščanje uglednega novinarja, kot je Scott Pelley, lahko negativno vpliva na ugled medijske hiše CBS in zaupanje javnosti v njeno poročanje. Takšni spori lahko povzročijo nestabilnost v uredništvu in vplivajo na kakovost novinarskega dela. Finančno, to lahko vodi do padca gledanosti ali bralstva, kar posledično vpliva na prihodke od oglaševanja. Za vlagatelje v medijske delnice, kot so delnice CBS, to predstavlja dodatno tveganje. Vpliv na širše trge je verjetno omejen, razen če se podobni dogodki množijo v medijskem sektorju, kar bi lahko signaliziralo širše strukturne težave. Za slovenskega vlagatelja to pomeni, da je treba pri naložbah v medijske družbe upoštevati tudi tveganja, povezana z notranjimi konflikti in upravljanjem.",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Ameriška komisija za vrednostne papirje in borzo (SEC) s 4. junijem odpravlja pravilo 'pattern day-trading', kar bo olajšalo dnevno trgovanje večjemu številu ljudi. To se dogaja kljub dejstvu, da le približno 5 % dnevnih trgovcev dejansko zasluži denar, medtem ko jih 95 % izgubi. MarketWatch opozarja, da bi morali mali vlagatelji razumeti tveganja, povezana s tovrstnim trgovanjem. Sprememba pravila bo verjetno povečala aktivnost malih vlagateljev na trgu, vendar tudi izpostavljenost tveganju.",
+      "analiza": "Sprememba pravila 'pattern day-trading' s strani SEC predstavlja pomembno regulativno spremembo, ki bo vplivala na strukturo in aktivnost na finančnih trgih. Ozadje je želja po večji dostopnosti trgovanja za male vlagatelje, vendar ob hkratnem ignoriranju statistike, ki kaže, da velika večina (95 %) dnevnih trgovcev izgubi denar. To ustvarja dilemo med dostopnostjo in zaščito vlagateljev. Mehanizem vpliva na trge je predvsem preko povečanja obsega trgovanja in morebitne povečane volatilnosti, saj se bo na trg vključilo več neizkušenih trgovcev. Posledice za delniške trge so lahko povečana likvidnost, vendar tudi večja nihanja cen, še posebej pri manjših in bolj špekulativnih delnicah. Za obveznice, valute in surovine je vpliv posreden, predvsem preko splošnega sentimenta in likvidnosti. To lahko pomeni tudi večjo izpostavljenost malih vlagateljev tveganju in potencialno večje izgube. Slovenski dolgoročni vlagatelj mora razumeti, da se ta sprememba nanaša predvsem na kratkoročno špekulativno trgovanje, ki je izjemno tvegano. Za dolgoročne naložbe so ključni drugi dejavniki, kot so temelji podjetij, makroekonomski trendi in razpršitev portfelja, ne pa dnevno trgovanje, ki je statistično neuspešno za večino.",
       "vpliv": [
-        "Padec ugleda CBS",
-        "Potencialni upad gledanosti/bralstva",
-        "Negativni vpliv na ceno delnic CBS",
-        "Povečano tveganje v medijskem sektorju"
+        "Povečanje aktivnosti in obsega trgovanja malih vlagateljev.",
+        "Potencialno povečana volatilnost na delniških trgih, še posebej pri špekulativnih delnicah.",
+        "Večja izpostavljenost malih vlagateljev tveganju in morebitnim izgubam.",
+        "Spremenjena dinamika likvidnosti na trgu."
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/6/3/us-broadcaster-cbs-fires-60-minutess-scott-pelley-after-clash-with-bosses?traffic_source=rss",
-      "objavljeno": "2026-06-03T07:22:06.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/about-95-of-day-traders-lose-money-but-a-new-rule-will-make-it-easier-to-do-so-anyway-b576498b?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-03T18:48:00.000Z"
     },
     {
-      "naslov": "Požar v New Delhiju, umrlo 21 ljudi, med njimi tuji državljani",
-      "sektor": "Potrošniki",
+      "naslov": "Prodajalci umikajo domove s trga z najhitrejšim tempom po letu 2020",
+      "sektor": "Makro & Potrošniki",
       "smer": "negativno",
-      "intenziteta": 1,
-      "povzetek": "V New Delhiju je v požaru v stavbi umrlo 21 ljudi, med njimi so bili tudi tuji državljani. Gasilci so rešili več kot 40 ljudi, ki so bili ujeti v goreči stavbi, medtem ko se je gost dim širil po objektu.",
-      "analiza": "Tragični dogodki, kot je ta požar, imajo predvsem humanitarno dimenzijo, vendar lahko vplivajo tudi na lokalno gospodarstvo in turizem. Povečana varnostna zakonodaja in strožji gradbeni predpisi bi lahko sledili, kar bi lahko povzročilo dodatne stroške za nepremičninske vlagatelje in gradbena podjetja v regiji. Vpliv na globalne finančne trge je verjetno minimalen, razen če bi šlo za večje število žrtev ali bi dogodek vplival na ključno gospodarsko infrastrukturo. Za slovenske vlagatelje, ki morda imajo naložbe v Indiji ali v podjetja, ki poslujejo v tej regiji, to predstavlja opomnik na operativna tveganja in pomen varnostnih standardov.",
+      "intenziteta": 2,
+      "povzetek": "Frustrirani prodajalci umikajo svoje domove s trga z vse hitrejšim tempom, najhitrejšim po letu 2020. To se dogaja, ko povpraševanje slabi in se zmanjšuje število dražb. CNBC poroča, da ta trend kaže na ohlajanje nepremičninskega trga in zmanjšanje optimizma med prodajalci. Zmanjšano povpraševanje in manjše število ponudb kažejo na spremembo dinamike na trgu nepremičnin, kar lahko vpliva na širšo gospodarsko aktivnost in potrošniško zaupanje.",
+      "analiza": "Trend umikanja domov s trga z najhitrejšim tempom po letu 2020 je pomemben indikator ohlajanja nepremičninskega trga v ZDA. Ozadje je kombinacija dejavnikov, vključno z morebitnimi višjimi obrestnimi merami, ki zmanjšujejo kupno moč, in splošnim zmanjšanjem povpraševanja. Prodajalci se soočajo z manjšim številom ponudb in daljšim časom prodaje, kar jih sili v umik nepremičnin s trga. Mehanizem vpliva na širše finančne trge je preko vpliva na potrošniško zaupanje in gospodarsko aktivnost. Ohlajanje nepremičninskega trga lahko zmanjša premoženje gospodinjstev, kar vpliva na njihovo porabo in s tem na rast BDP. Posledice so lahko vidne v upočasnjevanju gospodarske rasti, morebitnem padcu delnic podjetij, povezanih z gradbeništvom in nepremičninami, ter vplivu na banke, ki so izpostavljene hipotekarnim posojilom. Za obveznice to lahko pomeni, da se zmanjšajo inflacijski pritiski, kar bi lahko stabiliziralo donose. Slovenski dolgoročni vlagatelj mora spremljati stanje na nepremičninskih trgih, saj so ti pogosto dober pokazatelj splošnega zdravja gospodarstva. Ohlajanje lahko pomeni priložnosti za nekatere sektorje, za druge pa izzive, zato je pomembna diverzifikacija portfelja.",
       "vpliv": [
-        "Povečani stroški za varnostne ukrepe",
-        "Potencialni vpliv na turizem v regiji",
-        "Opozorilo na operativna tveganja v Indiji",
-        "Minimalen vpliv na globalne trge"
+        "Ohlajanje nepremičninskega trga in zmanjšanje cenovnih pritiskov.",
+        "Zmanjšanje potrošniškega zaupanja in porabe.",
+        "Potencialno upočasnjevanje gospodarske rasti.",
+        "Vpliv na delnice podjetij v gradbenem in nepremičninskem sektorju."
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/gallery/2026/6/3/foreign-nationals-among-21-dead-in-new-delhi-building-fire?traffic_source=rss",
-      "objavljeno": "2026-06-03T08:50:19.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/06/03/sellers-delisting-homes-redfin.html",
+      "objavljeno": "2026-06-03T16:31:57.000Z"
     }
   ]
 }
