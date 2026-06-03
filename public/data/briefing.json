@@ -1,112 +1,112 @@
 {
-  "generiranoOb": "2026-06-03T19:10:13.518Z",
+  "generiranoOb": "2026-06-03T19:39:52.581Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-06-03",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v senci geopolitičnih napetosti in skrbi glede energetske varnosti, medtem ko so ameriški trgi odprli z mešano smerjo. Ključna novica dneva je bila poročilo Financial Timesa o padcu ameriških zalog nafte na najnižjo raven od leta 2004, kar je posledica 'Trumpove vojne v Iranu' in je povzročilo rast cen nafte. Dodatno so regionalne napetosti na Bližnjem vzhodu, z izraelskimi napadi v Libanonu, še povečale negotovost. Ameriška finančna ministrica Bessent je poskušala pomiriti trge z izjavo, da bo skok inflacije le 'kratkoročen pojav', kar je imelo vpliv na obvezniške trge in pričakovanja glede obrestnih mer. Tehnološki sektor se sooča z obsežnimi pretresi, saj umetna inteligenca (AI) 'uničuje' startup podjetja, ustanovljena pred ChatGPT-jem, kar kaže na hitre spremembe v industriji. Hkrati se ameriški nepremičninski trg ohlaja, saj prodajalci umikajo domove s trga z najhitrejšim tempom po letu 2020, kar odraža zmanjšano povpraševanje. Na področju financ pa sprememba pravila s strani SEC olajšuje dnevno trgovanje, kljub visokemu tveganju za vlagatelje.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v senci naraščajočih geopolitičnih napetosti in skrbi glede energentov, medtem ko so ameriški trgi v začetnih urah trgovanja kazali mešano sliko. Cene nafte so se povzpele na najvišje ravni v več kot tednu dni, saj je vojna v Iranu povzročila padec ameriških zalog nafte na najnižjo raven po letu 2004, kar je sprožilo opozorila o kritično nizkih zalogah. V ZDA je finančna ministrica Bessent sicer poskušala pomiriti glede inflacije, označujoč nedavni skok za 'kratkoročno motnjo', vendar so se hkrati pojavili predlogi za nove carine zaradi domnevnega prisilnega dela, kar bi lahko vplivalo na globalno trgovino. Tehnološki sektor je bil pod drobnogledom zaradi vpliva umetne inteligence, saj je AI povzročila propad številnih startupov, ustanovljenih pred ChatGPT, medtem ko Morgan Stanley načrtuje integracijo AI agentov v svoje upravljanje premoženja. Geopolitične napetosti so se stopnjevale tudi na Bližnjem vzhodu, kjer so izraelski napadi v Libanonu zahtevali devet življenj in dosegli obrobje Bejruta, kar dodatno prispeva k negotovosti na svetovnih trgih. Vse to kaže na kompleksno okolje, kjer se prepletajo makroekonomski izzivi, tehnološke transformacije in geopolitična tveganja.",
   "novice": [
     {
-      "naslov": "Zaloge nafte v ZDA najnižje po letu 2004 zaradi konflikta z Iranom",
+      "naslov": "Cene nafte rastejo, zaloge v ZDA na najnižji ravni po letu 2004",
       "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Financial Times poroča, da so ameriške zaloge nafte padle na najnižjo raven po letu 2004. To je neposredna posledica 'Trumpove vojne v Iranu', ki je povzročila izčrpavanje strateških rezerv. Industrija opozarja, da bi cene nafte lahko kmalu poskočile, saj so zaloge dosegle 'kritično nizek' prag. Poročilo EIA je potrdilo šesti zaporedni tedenski padec komercialnih zalog surove nafte v ZDA in velik umik iz nacionalne rezerve. Cene nafte so se danes povzpele na najvišje ravni v več kot tednu dni, saj se rezervoarji praznijo, dokler ostaja Hormuška ožina zaprta. To kaže na resne motnje v globalni oskrbi z nafto.",
-      "analiza": "Ozadje te novice je dolgotrajen konflikt med ZDA in Iranom, ki je v zadnjem času eskaliral in vplival na globalno oskrbo z nafto. Padec ameriških zalog nafte na raven, ki ni bila zabeležena od leta 2004, je izjemno pomemben signal za trge. To se dogaja v času, ko so globalne dobavne verige že napete, in vsaka motnja v proizvodnji ali transportu nafte lahko ima daljnosežne posledice. Mehanizem vpliva je direkten: zmanjšana ponudba ob stabilnem ali naraščajočem povpraševanju vodi v rast cen. Posledice so vidne na terminskih pogodbah za nafto, kot je Brent in WTI, ki so že zabeležile rast, kar vpliva na višje stroške goriva za potrošnike in podjetja. To lahko sproži inflacijske pritiske in vpliva na dobičkonosnost podjetij v transportnem in proizvodnem sektorju. Za obveznice to pomeni pritisk navzdol zaradi inflacijskih pričakovanj, medtem ko valute držav, ki so neto uvoznice nafte, lahko oslabijo. Slovenski dolgoročni vlagatelj mora biti pozoren na tovrstne geopolitične dejavnike, saj lahko vplivajo na cene surovin in s tem na inflacijo ter dobičkonosnost podjetij, v katere vlaga, še posebej tistih, ki so odvisna od energentov.",
-      "vpliv": [
-        "Cene nafte (Brent, WTI) so se povzpele na najvišje ravni v več kot tednu dni.",
-        "Povečani inflacijski pritiski zaradi višjih stroškov energentov.",
-        "Potencialno zmanjšanje dobičkonosnosti podjetij, odvisnih od nafte.",
-        "Oslabitev valut držav, ki so neto uvoznice nafte."
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/d0be73c8-b8d8-4ffd-874e-e97a6ecffef7",
-      "objavljeno": "2026-06-03T18:08:06.000Z"
-    },
-    {
-      "naslov": "Izraelski napadi v Libanonu preizkušajo dogovor in dosežejo obrobje Bejruta",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Izraelski napadi so v Libanonu ubili devet ljudi in dosegli obrobje Bejruta. Ti napadi preizkušajo dogovor, ki so ga posredovale ZDA, namenjen omejevanju napadov med Izraelom in Hezbolahom. Nova pogajanja med Izraelom in Libanonom v Washingtonu so prav tako pod vprašajem. Incidenti se dogajajo v času, ko se regija že sooča z visoko stopnjo nestabilnosti. Poročilo Al Jazeere poudarja, da se stopnjujejo napetosti, kar ima lahko širše regionalne posledice.",
-      "analiza": "Stopnjevanje konflikta na Bližnjem vzhodu, z izraelskimi napadi, ki so dosegli obrobje Bejruta in povzročili žrtve, predstavlja pomembno geopolitično tveganje. To dogajanje neposredno preizkuša ameriško posredovanje za umiritev razmer med Izraelom in Hezbolahom, kar kaže na krhkost regionalne stabilnosti. Širši kontekst vključuje že obstoječe napetosti in konflikte v regiji, ki imajo potencial za hitro eskalacijo. Mehanizem vpliva na finančne trge je predvsem preko povečanja geopolitičnega tveganja, kar običajno vodi v beg kapitala v varnejša zatočišča. Posledice se kažejo v rasti cen zlata in drugih plemenitih kovin, morebitni rasti cen nafte zaradi strahu pred motnjami v dobavi iz regije, ter morebitnem padcu delniških indeksov, še posebej tistih, ki so izpostavljeni regiji. Valute, kot je ameriški dolar, lahko okrepijo kot varno zatočišče. Slovenski dolgoročni vlagatelj mora biti pozoren na tovrstne dogodke, saj lahko povečajo volatilnost trgov in vplivajo na globalno gospodarsko rast, kar se posredno odraža tudi na donosnosti naložb.",
-      "vpliv": [
-        "Povečanje geopolitičnega tveganja na globalnih trgih.",
-        "Rast cen zlata in drugih varnih zatočišč.",
-        "Potencialna nadaljnja rast cen nafte zaradi strahu pred motnjami v dobavi.",
-        "Morebiten padec delniških indeksov, še posebej v Evropi in ZDA."
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss",
-      "objavljeno": "2026-06-03T17:54:42.000Z"
-    },
-    {
-      "naslov": "Ameriška finančna ministrica Bessent: Skok inflacije bo le kratkoročen pojav",
-      "sektor": "Makro & Centralne banke",
       "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Ameriška finančna ministrica Bessent je izjavila, da bo nedavni skok inflacije le 'kratkoročen pojav'. S tem je branila ekonomsko politiko predsednika Donalda Trumpa, ki se sooča z naraščajočimi frustracijami zaradi vojne v Iranu. Njena izjava je poskus pomiritve trgov in javnosti glede inflacijskih pritiskov. To je pomembno sporočilo za pričakovanja glede prihodnjih odločitev centralnih bank in monetarne politike, saj vpliva na oceno tveganja in obrestnih mer.",
-      "analiza": "Izjava finančne ministrice Bessent o 'kratkoročnem pojavu' inflacije je ključna za razumevanje makroekonomskih pričakovanj v ZDA. Ozadje je naraščajoča zaskrbljenost glede inflacije, ki je deloma posledica motenj v dobavnih verigah in rasti cen energentov, kar je še poslabšala 'Trumpova vojna v Iranu'. Ministrica s tem poskuša stabilizirati pričakovanja in preprečiti, da bi se inflacijski pritiski trajno zasidrali v gospodarstvo. Mehanizem vpliva na trge je preko vpliva na pričakovanja glede obrestnih mer. Če trgi verjamejo, da je inflacija prehodna, se zmanjša pritisk na centralno banko za agresivno zviševanje obrestnih mer. To bi lahko pozitivno vplivalo na obvezniške trge (višje cene, nižji donosi) in delniške trge, saj bi podjetja imela nižje stroške zadolževanja. Nasprotno, če trgi ne verjamejo izjavi, se lahko inflacijska pričakovanja povečajo, kar bi vodilo v rast donosov obveznic in morebiten padec delnic. Za valute, kot je ameriški dolar, bi to lahko pomenilo manjšo podporo, če se zmanjšajo pričakovanja o hitrem zviševanju obrestnih mer. Slovenski dolgoročni vlagatelj mora spremljati te izjave in dejanske inflacijske podatke, saj vplivajo na globalne obrestne mere in s tem na privlačnost različnih naložbenih razredov, vključno z obveznicami in delnicami podjetij, ki so občutljiva na stroške financiranja.",
+      "povzetek": "Cene nafte so danes zabeležile rast in se gibljejo na najvišjih ravneh v več kot tednu dni, kar je posledica poročil o šestem zaporednem tedenskem padcu komercialnih zalog surove nafte v ZDA in velikem črpanju iz državnih rezerv. Industrijski analitiki opozarjajo, da bi se cene lahko kmalu močno zvišale, saj so zaloge dosegle 'kritično nizko' raven. Glavni razlog za ta trend je vojna v Iranu, ki je izčrpala ameriške zaloge nafte na najnižjo raven po letu 2004. Opozorila se nanašajo tudi na morebitno zaprtje Hormuške ožine, kar bi še dodatno zaostrilo razmere na trgu. Trgovci s terminskimi pogodbami na nafto so optimistični glede nadaljnje rasti cen, saj se tanki za nafto praznijo hitreje, kot se polnijo.",
+      "analiza": "Ozadje trenutnega dogajanja na naftnem trgu je neposredno povezano z zaostrovanjem geopolitičnih razmer na Bližnjem vzhodu, predvsem z vojno v Iranu, ki jo Financial Times pripisuje administraciji Trumpa. Ta konflikt neposredno vpliva na globalno dobavo nafte in povzroča izčrpavanje strateških rezerv, kar je ključnega pomena za stabilnost cen. Poročilo EIA o šestem zaporednem tedenskem padcu komercialnih zalog surove nafte v ZDA in črpanje iz nacionalne rezerve, ki so na najnižji ravni po letu 2004, kaže na resno neravnovesje med ponudbo in povpraševanjem. Mehanizem vpliva je jasen: zmanjšana ponudba ob stabilnem ali naraščajočem povpraševanju vodi v višje cene. Posledice so vidne na trgih surovin, kjer se cene nafte, kot je Brent in WTI, zvišujejo, kar posledično vpliva na stroške transporta in proizvodnje. To lahko povzroči inflacijske pritiske, ki vplivajo na obveznice (višji donosi) in delnice (višji stroški za podjetja, razen za naftna). Valute so lahko pod pritiskom, če države uvoznice nafte trpijo zaradi višjih stroškov. Za slovenskega dolgoročnega vlagatelja to pomeni morebitno višjo inflacijo, ki zmanjšuje kupno moč denarja, in morebitno prelivanje kapitala v energetske delnice, čeprav je treba upoštevati tudi tveganja, povezana z nestabilnostjo regije. Pomembno je spremljati razvoj dogodkov v Hormuški ožini in odzive velikih naftnih proizvajalcev.",
       "vpliv": [
-        "Vpliv na pričakovanja glede prihodnjih odločitev Feda o obrestnih merah.",
-        "Potencialno stabiliziranje obvezniških trgov in donosov.",
-        "Zmanjšanje pritiska na delniške trge, če se inflacija umiri.",
-        "Vpliv na vrednost ameriškega dolarja glede na pričakovanja o monetarni politiki."
+        "Cene nafte na najvišjih ravneh v več kot tednu dni",
+        "Zaloge nafte v ZDA najnižje po letu 2004",
+        "Povečani inflacijski pritiski",
+        "Potencialni pritisk na rast gospodarstva"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/oil-prices-rally-for-a-third-straight-day-as-peace-deal-hopes-teeter-6a0b1635?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-03T17:18:00.000Z"
+    },
+    {
+      "naslov": "Ameriška finančna ministrica Bessent: Skok inflacije bo le kratkoročen",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Ameriška finančna ministrica Bessent je izjavila, da bo nedavni skok inflacije v ZDA le 'kratkoročna motnja'. Njena izjava prihaja v času naraščajočih frustracij zaradi vojne v Iranu in njenih ekonomskih posledic. Bessentova je branila gospodarske dosežke administracije Donalda Trumpa, kljub povečanim stroškom in nestabilnosti, ki jih prinaša konflikt. Njen komentar nakazuje, da vlada ne pričakuje dolgotrajnih inflacijskih pritiskov in verjame v sposobnost gospodarstva, da se prilagodi trenutnim izzivom. Ta izjava je pomembna za trge, saj vpliva na pričakovanja glede monetarne politike in obrestnih mer.",
+      "analiza": "Izjava finančne ministrice Bessent, da bo skok inflacije 'kratkoročna motnja', je ključna za razumevanje makroekonomskih pričakovanj v ZDA. Ozadje te izjave je dvojno: po eni strani naraščajoči inflacijski pritiski, ki so delno posledica višjih cen energentov zaradi vojne v Iranu, po drugi pa obramba gospodarske politike pretekle administracije. Njena izjava je poskus pomiritve trgov in javnosti, da se ne bo ponovil scenarij visoke in dolgotrajne inflacije. Mehanizem vpliva na trge je predvsem v oblikovanju pričakovanj: če trgi verjamejo, da je inflacija prehodna, se zmanjšajo pritiski na centralno banko za agresivno zviševanje obrestnih mer. To bi lahko imelo pozitivne posledice za delnice, saj nižje obrestne mere podpirajo rast podjetij in povečujejo privlačnost delniških naložb. Za obveznice bi to pomenilo stabilnejše donose, saj ni pričakovati močnega padca cen zaradi inflacijskih strahov. Valute, kot je ameriški dolar, bi lahko ostale stabilne ali celo pridobile, če se ZDA uspešno spopadejo z inflacijo. Za slovenskega dolgoročnega vlagatelja je pomembno, da spremlja dejanske inflacijske podatke in odločitve Feda, saj izjave politikov niso vedno v celoti usklajene z realnostjo. Kljub optimizmu ministrice je treba biti previden in diverzificirati naložbe, da se zmanjša tveganje v primeru, da se inflacija izkaže za bolj vztrajno.",
+      "vpliv": [
+        "Pomiritev glede dolgotrajne inflacije",
+        "Manjši pritisk na Fed za dvig obrestnih mer",
+        "Potencialno pozitivno za delniške trge",
+        "Stabilnejši donosi obveznic"
       ],
       "vir": "Financial Times",
       "vir_url": "https://www.ft.com/content/b8d9c334-f7c5-4806-b2db-75dda9ae6613",
       "objavljeno": "2026-06-03T16:14:39.000Z"
     },
     {
-      "naslov": "Umetna inteligenca uničuje startup podjetja, ustanovljena pred ChatGPT-jem",
-      "sektor": "Tehnologija & AI",
+      "naslov": "ZDA predlagajo nove carine zaradi pomislekov glede prisilnega dela",
+      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Razcvet umetne inteligence, ki je v OpenAI in Anthropic prelil več kot 250 milijard dolarjev, je na stotine startup podjetij, ustanovljenih pred prihodom ChatGPT-ja leta 2022, pustil 'motene ali mrtve'. CNBC poroča, da se ta podjetja soočajo z izjemnimi izzivi in so v veliki meri ostala brez sredstev in tržne relevantnosti. To kaže na hitrost in obseg disruptivnih sprememb, ki jih prinaša napredek na področju AI, kar preoblikuje celotno tehnološko industrijo.",
-      "analiza": "Novica o tem, kako umetna inteligenca, še posebej po prihodu ChatGPT-ja, 'uničuje' starejše startup podjetja, poudarja izjemno hitrost tehnološke disrupcije. Ozadje je eksponentna rast vlaganj v nova AI podjetja, kot sta OpenAI in Anthropic, ki so prejela več kot 250 milijard dolarjev. To ustvarja izrazito konkurenčno okolje, kjer podjetja, ki se niso hitro prilagodila ali so bila ustanovljena pred to novo paradigmo, težko preživijo. Mehanizem vpliva na trge je dvojen: po eni strani to pomeni izjemne priložnosti za inovativna AI podjetja in s tem rast v določenih segmentih tehnološkega sektorja. Po drugi strani pa to vodi v propad ali zmanjšanje vrednosti številnih obstoječih podjetij, kar lahko povzroči izgube za vlagatelje v te 'starejše' tehnološke startupe. Posledice so vidne v preusmeritvi kapitala znotraj tehnološkega sektorja, povečani volatilnosti delnic tehnoloških podjetij in morebitnih konsolidacijah. Za obveznice in valute je vpliv posreden, preko splošnega sentimenta na trgu in gospodarske rasti. Slovenski dolgoročni vlagatelj mora biti pozoren na te trende, saj kažejo na nujnost naložb v podjetja, ki so odporna na disrupcijo ali so sama nosilci inovacij, še posebej na področju umetne inteligence. Razpršitev naložb je ključna za zmanjšanje tveganja, povezanega s hitrimi tehnološkimi spremembami.",
+      "povzetek": "ZDA so predlagale nove carine, pri čemer se sklicujejo na pomisleke glede prisilnega dela kot utemeljitev. Ta predlog Urada trgovinskega predstavnika ZDA (USTR) izhaja iz preiskave po oddelku 301 zakona o trgovini, ki obravnava nepoštene trgovinske prakse. Cilj je pomagati pri ponovni vzpostavitvi carin, ki jih je uvedla Trumpova administracija. Predlog je bil presenečenje za nekatere države, vključno z Brazilijo, katere predsednik Lula je izrazil, da Brazilija ne more 'sprejeti takšnega ravnanja', še posebej ob znakih izboljšanja odnosov. To kaže na nadaljnje zaostrovanje globalnih trgovinskih odnosov in morebitne motnje v dobavnih verigah.",
+      "analiza": "Predlog ZDA za uvedbo novih carin, utemeljen s pomisleki glede prisilnega dela, predstavlja pomemben razvoj v globalni trgovinski politiki. Ozadje je preiskava po oddelku 301, ki je bil v preteklosti uporabljen za uvedbo carin proti Kitajski. Ta poteza kaže na nadaljevanje protekcionističnih trendov in poskus ponovne vzpostavitve trgovinskih ovir, ki so bile značilne za prejšnjo administracijo. Mehanizem vpliva je večplasten: carine zvišujejo stroške uvoženega blaga, kar lahko povzroči višje cene za potrošnike in podjetja ter motnje v globalnih dobavnih verigah. To lahko negativno vpliva na delnice podjetij, ki so močno odvisna od uvoza ali izvoza v prizadete države. Za obveznice bi to lahko pomenilo povečano negotovost in morebitne inflacijske pritiske. Valute držav, ki so tarča carin, bi lahko oslabele. Odziv Brazilije, ki je izrazila 'neprijetno presenečenje', poudarja potencial za širše trgovinske spore. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da takšne politike povečujejo tveganje za globalno gospodarsko rast in lahko vplivajo na dobičkonosnost mednarodno usmerjenih podjetij. Priporočljivo je spremljati razvoj trgovinskih pogajanj in diverzificirati naložbe, da se zmanjša izpostavljenost morebitnim trgovinskim vojnam.",
       "vpliv": [
-        "Padec vrednosti in propad startup podjetij, ki niso prilagojena AI.",
-        "Preusmeritev investicijskega kapitala v nova AI podjetja.",
-        "Povečana volatilnost v tehnološkem sektorju.",
-        "Konsolidacija v industriji zaradi prevzemov ali propadov."
+        "Povečanje trgovinskih napetosti",
+        "Višji stroški uvoza",
+        "Motnje v globalnih dobavnih verigah",
+        "Potencialno negativno za delnice izvozno usmerjenih podjetij"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs?traffic_source=rss",
+      "objavljeno": "2026-06-03T17:10:40.000Z"
+    },
+    {
+      "naslov": "Umetna inteligenca uničuje startupe, nastale pred ChatGPT",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Umetna inteligenca (AI) povzroča 'motnje ali propad' generacije startupov, ki so bili ustanovljeni pred prihodom ChatGPT leta 2022. Razcvet umetne inteligence, ki je v OpenAI in Anthropic preusmeril več kot 250 milijard dolarjev, je na stotine startupov, ki niso uspeli slediti hitremu razvoju, pustil na cedilu. Mnogi od teh podjetij se soočajo z zmanjšanjem vrednosti, težavami pri pridobivanju novih investicij ali celo propadom. To kaže na izjemno hitro in disruptivno naravo napredka na področju AI, ki preoblikuje celotno tehnološko industrijo in poslovne modele.",
+      "analiza": "Novica o tem, kako umetna inteligenca uničuje startupe, ustanovljene pred ChatGPT, poudarja izjemno hitro in disruptivno naravo tehnološkega napredka. Ozadje je eksponentna rast in komercializacija generativne AI po letu 2022, ki je v podjetja kot sta OpenAI in Anthropic pritegnila več kot 250 milijard dolarjev investicij. To je ustvarilo nov standard in pričakovanja na trgu, zaradi česar so starejši poslovni modeli in tehnologije hitro zastareli. Mehanizem vpliva je v tem, da AI omogoča bistveno učinkovitejše, hitrejše in cenejše rešitve, kar podjetja, ki niso vključila AI v svoje jedro, postavlja v nekonkurenčen položaj. Posledice so vidne v padcu vrednosti teh startupov, težavah pri pridobivanju financiranja in celo propadih. To vpliva na delniške trge, saj se investitorji preusmerjajo v podjetja, ki so vodilna na področju AI, medtem ko so delnice 'starih' tehnoloških podjetij pod pritiskom. Za obveznice to pomeni povečano tveganje v tehnološkem sektorju. Za slovenskega dolgoročnega vlagatelja je ključno razumeti, da je tehnološka krajina v nenehnem spreminjanju. Naložbe v tehnološka podjetja zahtevajo skrbno analizo njihove sposobnosti prilagajanja in inoviranja. Diverzifikacija in postopno vlaganje sta pomembna, da se zmanjša tveganje, povezano s hitrimi spremembami in potencialnim propadom določenih segmentov trga.",
+      "vpliv": [
+        "Propad ali motnje za startupe pred ChatGPT",
+        "Preusmeritev investicij v podjetja, osredotočena na AI",
+        "Padec vrednosti 'starih' tehnoloških podjetij",
+        "Povečana konkurenca in inovacije v AI sektorju"
       ],
       "vir": "CNBC",
       "vir_url": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
       "objavljeno": "2026-06-03T17:10:58.000Z"
     },
     {
-      "naslov": "SEC olajšuje dnevno trgovanje kljub visokemu tveganju za vlagatelje",
+      "naslov": "Morgan Stanley bo odprl upravljanje premoženja AI agentom",
       "sektor": "Finance",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Ameriška komisija za vrednostne papirje in borzo (SEC) s 4. junijem odpravlja pravilo 'pattern day-trading', kar bo olajšalo dnevno trgovanje večjemu številu ljudi. To se dogaja kljub dejstvu, da le približno 5 % dnevnih trgovcev dejansko zasluži denar, medtem ko jih 95 % izgubi. MarketWatch opozarja, da bi morali mali vlagatelji razumeti tveganja, povezana s tovrstnim trgovanjem. Sprememba pravila bo verjetno povečala aktivnost malih vlagateljev na trgu, vendar tudi izpostavljenost tveganju.",
-      "analiza": "Sprememba pravila 'pattern day-trading' s strani SEC predstavlja pomembno regulativno spremembo, ki bo vplivala na strukturo in aktivnost na finančnih trgih. Ozadje je želja po večji dostopnosti trgovanja za male vlagatelje, vendar ob hkratnem ignoriranju statistike, ki kaže, da velika večina (95 %) dnevnih trgovcev izgubi denar. To ustvarja dilemo med dostopnostjo in zaščito vlagateljev. Mehanizem vpliva na trge je predvsem preko povečanja obsega trgovanja in morebitne povečane volatilnosti, saj se bo na trg vključilo več neizkušenih trgovcev. Posledice za delniške trge so lahko povečana likvidnost, vendar tudi večja nihanja cen, še posebej pri manjših in bolj špekulativnih delnicah. Za obveznice, valute in surovine je vpliv posreden, predvsem preko splošnega sentimenta in likvidnosti. To lahko pomeni tudi večjo izpostavljenost malih vlagateljev tveganju in potencialno večje izgube. Slovenski dolgoročni vlagatelj mora razumeti, da se ta sprememba nanaša predvsem na kratkoročno špekulativno trgovanje, ki je izjemno tvegano. Za dolgoročne naložbe so ključni drugi dejavniki, kot so temelji podjetij, makroekonomski trendi in razpršitev portfelja, ne pa dnevno trgovanje, ki je statistično neuspešno za večino.",
+      "povzetek": "Morgan Stanley bo kmalu odprl svoj bilijon dolarjev vreden 'lijak' za upravljanje premoženja AI agentom. Ta poteza predstavlja enega najzgodnejših primerov, ko velika banka z Wall Streeta odpira svoje platforme zunanjim orodjem umetne inteligence. Integracija AI agentov naj bi izboljšala učinkovitost, avtomatizirala procese in ponudila bolj prilagojene storitve strankam. To kaže na naraščajoč trend v finančni industriji, kjer se AI uporablja za optimizacijo operacij in izboljšanje konkurenčnosti. Vendar pa takšna integracija prinaša tudi vprašanja o varnosti podatkov, regulaciji in vplivu na delovna mesta v sektorju.",
+      "analiza": "Odločitev Morgan Stanleyja, da odpre svoje upravljanje premoženja AI agentom, je pomemben mejnik v finančni industriji. Ozadje je naraščajoč pritisk po večji učinkovitosti, zmanjšanju stroškov in ponujanju naprednejših, personaliziranih storitev strankam. Morgan Stanley, s svojim bilijon dolarjev vrednim 'lijakom' za upravljanje premoženja, je eden prvih velikih akterjev na Wall Streetu, ki se odloča za tako obsežno integracijo zunanjih AI orodij. Mehanizem vpliva je v avtomatizaciji rutinskih nalog, izboljšanju analize podatkov in optimizaciji investicijskih strategij, kar lahko vodi do večjih dobičkov in boljših rezultatov za stranke. Posledice za delnice finančnih institucij, ki uspešno implementirajo AI, so lahko pozitivne, saj se poveča njihova konkurenčnost in operativna učinkovitost. Vendar pa obstajajo tudi tveganja, kot so kibernetska varnost, etična vprašanja in regulativni izzivi, ki bi lahko vplivali na stabilnost sektorja. Vpliv na delovna mesta v finančnem sektorju je prav tako pomemben, saj bi avtomatizacija lahko zmanjšala potrebo po določenih vlogah. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati, kako se finančne institucije prilagajajo tehnološkim spremembam. Naložbe v banke in finančne storitve, ki so inovativne in učinkovito vključujejo AI, imajo lahko dolgoročno prednost, vendar je treba biti pozoren tudi na morebitna tveganja, povezana z novimi tehnologijami.",
       "vpliv": [
-        "Povečanje aktivnosti in obsega trgovanja malih vlagateljev.",
-        "Potencialno povečana volatilnost na delniških trgih, še posebej pri špekulativnih delnicah.",
-        "Večja izpostavljenost malih vlagateljev tveganju in morebitnim izgubam.",
-        "Spremenjena dinamika likvidnosti na trgu."
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/about-95-of-day-traders-lose-money-but-a-new-rule-will-make-it-easier-to-do-so-anyway-b576498b?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-03T18:48:00.000Z"
-    },
-    {
-      "naslov": "Prodajalci umikajo domove s trga z najhitrejšim tempom po letu 2020",
-      "sektor": "Makro & Potrošniki",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Frustrirani prodajalci umikajo svoje domove s trga z vse hitrejšim tempom, najhitrejšim po letu 2020. To se dogaja, ko povpraševanje slabi in se zmanjšuje število dražb. CNBC poroča, da ta trend kaže na ohlajanje nepremičninskega trga in zmanjšanje optimizma med prodajalci. Zmanjšano povpraševanje in manjše število ponudb kažejo na spremembo dinamike na trgu nepremičnin, kar lahko vpliva na širšo gospodarsko aktivnost in potrošniško zaupanje.",
-      "analiza": "Trend umikanja domov s trga z najhitrejšim tempom po letu 2020 je pomemben indikator ohlajanja nepremičninskega trga v ZDA. Ozadje je kombinacija dejavnikov, vključno z morebitnimi višjimi obrestnimi merami, ki zmanjšujejo kupno moč, in splošnim zmanjšanjem povpraševanja. Prodajalci se soočajo z manjšim številom ponudb in daljšim časom prodaje, kar jih sili v umik nepremičnin s trga. Mehanizem vpliva na širše finančne trge je preko vpliva na potrošniško zaupanje in gospodarsko aktivnost. Ohlajanje nepremičninskega trga lahko zmanjša premoženje gospodinjstev, kar vpliva na njihovo porabo in s tem na rast BDP. Posledice so lahko vidne v upočasnjevanju gospodarske rasti, morebitnem padcu delnic podjetij, povezanih z gradbeništvom in nepremičninami, ter vplivu na banke, ki so izpostavljene hipotekarnim posojilom. Za obveznice to lahko pomeni, da se zmanjšajo inflacijski pritiski, kar bi lahko stabiliziralo donose. Slovenski dolgoročni vlagatelj mora spremljati stanje na nepremičninskih trgih, saj so ti pogosto dober pokazatelj splošnega zdravja gospodarstva. Ohlajanje lahko pomeni priložnosti za nekatere sektorje, za druge pa izzive, zato je pomembna diverzifikacija portfelja.",
-      "vpliv": [
-        "Ohlajanje nepremičninskega trga in zmanjšanje cenovnih pritiskov.",
-        "Zmanjšanje potrošniškega zaupanja in porabe.",
-        "Potencialno upočasnjevanje gospodarske rasti.",
-        "Vpliv na delnice podjetij v gradbenem in nepremičninskem sektorju."
+        "Povečana učinkovitost in avtomatizacija v financah",
+        "Potencialno boljše storitve za stranke",
+        "Vprašanja o varnosti podatkov in regulaciji",
+        "Vpliv na delovna mesta v finančnem sektorju"
       ],
       "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/06/03/sellers-delisting-homes-redfin.html",
-      "objavljeno": "2026-06-03T16:31:57.000Z"
+      "vir_url": "https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html",
+      "objavljeno": "2026-06-03T15:32:54.000Z"
+    },
+    {
+      "naslov": "Izraelski napadi v Libanonu zahtevali devet življenj, dosegli Bejrut",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Izraelski napadi so v Libanonu zahtevali devet življenj in dosegli obrobje Bejruta. Ti napadi preizkušajo dogovor o prekinitvi napadov med Izraelom in Hezbolahom, ki je bil posredovan s strani ZDA. Hkrati se v Washingtonu odvijajo novi pogovori med Izraelom in Libanonom, kar kaže na kompleksnost in občutljivost razmer v regiji. Stopnjevanje nasilja in širjenje konflikta na obrobje libanonske prestolnice povečuje zaskrbljenost glede regionalne stabilnosti in morebitnega širšega konflikta. To ima lahko daljnosežne posledice za politično in gospodarsko stabilnost Bližnjega vzhoda.",
+      "analiza": "Izraelski napadi v Libanonu, ki so zahtevali devet življenj in dosegli obrobje Bejruta, predstavljajo resno zaostrovanje konflikta na Bližnjem vzhodu. Ozadje je dolgotrajna napetost med Izraelom in Hezbolahom, ki jo poskuša omiliti dogovor, posredovan s strani ZDA. Dejstvo, da napadi preizkušajo ta dogovor in sovpadajo z novimi pogovori v Washingtonu, kaže na krhkost diplomatskih prizadevanj. Mehanizem vpliva na finančne trge je predvsem skozi povečano geopolitično tveganje. Konflikti v regiji, ki je ključna za globalno dobavo nafte, lahko povzročijo skok cen energentov, kar smo že videli danes. To vpliva na delnice, saj se poveča negotovost, kar lahko povzroči umik kapitala iz tveganih naložb. Obveznice so lahko privlačnejše kot varno zatočišče, kar znižuje njihove donose. Valute držav, ki so blizu konfliktnim območjem, lahko oslabijo, medtem ko valute varnih zatočišč, kot sta ameriški dolar ali švicarski frank, pridobivajo. Za slovenskega dolgoročnega vlagatelja je ključno, da razume, kako hitro se lahko geopolitična tveganja prelijejo na globalne trge. Čeprav Slovenija ni neposredno vpletena, lahko višje cene energentov in globalna negotovost vplivajo na domače gospodarstvo in donosnost naložb. Priporočljiva je diverzifikacija portfelja in spremljanje razvoja dogodkov v regiji, saj lahko vsaka eskalacija povzroči valovanje na trgih.",
+      "vpliv": [
+        "Povečanje geopolitičnega tveganja",
+        "Potencialni skok cen energentov",
+        "Povečana negotovost na delniških trgih",
+        "Povečano povpraševanje po varnih zatočiščih"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss",
+      "objavljeno": "2026-06-03T17:54:42.000Z"
     }
   ]
 }
