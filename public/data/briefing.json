@@ -1,95 +1,112 @@
 {
-  "generiranoOb": "2026-06-04T08:35:27.859Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-06-04T17:59:53.088Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-06-04",
-  "povzetek": "Jutranji pregled finančnih trgov 4. junija 2026 razkriva mešano sliko globalnega gospodarstva in geopolitike. Glavni poudarek je na padcu indonezijske rupije na rekordno nizko raven proti ameriškemu dolarju, kar je posledica energetskega šoka, povezanega z iransko vojno. Medtem se na finančnih trgih pojavlja nova zaskrbljenost zaradi vala odkupov v 2 bilijonov dolarjev vrednem trgu zasebnih posojil, potem ko sta dva sklada omejila odkupne zahteve v drugem četrtletju. Tehnološki sektor je v ospredju z novico, da SpaceX cilja na vrednost 1,75 bilijona dolarjev pred morebitnim vstopom na borzo, kar bi bil eden največjih IPO-jev. Na drugi strani pa je delnica Broadcoma padla kljub pospešeni rasti prihodkov od AI čipov, kar kaže na prefinjeno ocenjevanje vlagateljev. Ameriška komisija za vrednostne papirje (SEC) pa odpravlja pravilo o vzorčnem dnevnem trgovanju, kar bo olajšalo dnevno trgovanje malim vlagateljem, kljub statistiki, da jih le 5 % ustvari dobiček. V ZDA se medtem pojavljajo signali šibkosti v sektorju pakiranega potrošniškega blaga, kar nakazuje na morebitne težave pri ameriških potrošnikih.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v senci zaskrbljenosti glede tehnološkega sektorja in likvidnosti v zasebnih naložbenih skladih, medtem ko so ameriški trgi začeli dan v negativnem tonu. Glavni udarec je prišel iz poročila o dobičku podjetja Broadcom, ki je povzročilo padec delnic v čipovnem sektorju, pri čemer je Broadcom sam utrpel približno 300 milijard dolarjev izgube tržne kapitalizacije. Dodatno negotovost je vnesla novica o omejitvah dvigov iz sklada zasebnih posojil podjetja Blackstone, kar je sprožilo vprašanja o likvidnosti v tem segmentu. Geopolitične napetosti na Bližnjem vzhodu so se nadaljevale z zavrnitvijo prekinitve ognja s strani Hezbolaha, kar ohranja premijo tveganja na energetskih trgih. Na makroekonomski fronti se krepijo argumenti za zvišanje obrestnih mer v Združenem kraljestvu, kar vpliva na obvezniške trge in valute. Kljub tem izzivom pa poročilo Capgeminija kaže na rast globalnega bogastva, saj je leta 2025 zaradi rastočih delniških trgov nastalo 2 milijona novih milijonarjev, kar kaže na dolgoročno odpornost in privlačnost kapitalskih trgov. Požar v jeklarni Tata Steel v Port Talbotu pa opozarja na tveganja v industrijskem sektorju in morebitne motnje v dobavnih verigah.",
   "novice": [
     {
-      "naslov": "Nov val odkupov vznemirja 2 bilijona dolarjev vreden trg zasebnih posojil",
+      "naslov": "Broadcom utrpel padec delnic, kar je zasenčilo celoten čipovni sektor",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Podjetje Broadcom je po objavi razočarajočih napovedi prihodkov utrpelo zmanjšanje tržne kapitalizacije za približno 300 milijard dolarjev. Delnice podjetja so v popoldanskem trgovanju v četrtek padle za približno 15 %. Ta dogodek je povzročil zaskrbljenost v celotnem polprevodniškem sektorju, saj je Micron Technology prav tako zabeležil padec in se približal rekordnemu izbrisu tržne kapitalizacije. Trg je pričakoval močnejše rezultate in optimističnejše napovedi, zlasti glede povpraševanja po čipih, ki so ključni za umetno inteligenco in druge rastoče tehnologije. Negativni sentiment se je razširil na širši trg čipov, kar kaže na preobrat v trgovanju s polprevodniki.",
+      "analiza": "Ozadje te novice je v pričakovanjih, da bo sektor polprevodnikov še naprej gonilna sila rasti zaradi povpraševanja po čipih za umetno inteligenco. Broadcom, kot pomemben igralec v industriji, je s svojimi rezultati in napovedmi razočaral, kar je sprožilo vprašanja o vzdržnosti trenutnih visokih vrednotenj. To je relevantno zdaj, ker se vlagatelji sprašujejo, ali je 'boom' v čipovnem sektorju dosegel vrhunec, ali pa gre le za začasno upočasnitev. Mehanizem vpliva na finančne trge je neposreden: slabše napovedi vodijo v prodajo delnic Broadcoma in drugih podjetij v sektorju, saj vlagatelji preusmerjajo kapital. Posledice so vidne v padcu delnic tehnoloških podjetij, zlasti tistih, ki so močno odvisna od povpraševanja po čipih. To lahko vpliva tudi na širše indekse, kot je Nasdaq, ki so močno obremenjeni s tehnološkimi delnicami. Obveznice in valute so lahko posredno prizadete, če se sentiment na delniških trgih poslabša in vlagatelji iščejo varnejša zatočišča. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja ključna, saj so posamezni sektorji, kot je tehnologija, lahko izjemno volatilni. Pomembno je spremljati dolgoročne trende in ne reagirati panično na kratkoročna nihanja, temveč oceniti, ali gre za strukturne spremembe ali le začasne korekcije.",
+      "vpliv": [
+        "Broadcom: padec delnic za približno 15 %",
+        "Izbris tržne kapitalizacije Broadcoma za 300 milijard dolarjev",
+        "Padec delnic Micron Technology",
+        "Negativen sentiment v celotnem polprevodniškem sektorju"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/c8d506d3-7e81-49be-bb72-24ae289b9240",
+      "objavljeno": "2026-06-04T16:16:59.000Z"
+    },
+    {
+      "naslov": "Blackstone omejuje dvige iz sklada zasebnih posojil, kar sproža zaskrbljenost",
       "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Trg zasebnih posojil, ocenjen na 2 bilijona dolarjev, se sooča z novim valom odkupnih zahtev, ki povzročajo zaskrbljenost med vlagatelji. Ta val je bil sprožen po tem, ko sta dva vodilna sklada omejila odkupne zahteve v drugem četrtletju 2026. Omejitve odkupov so opozorilo na morebitne likvidnostne pritiske in tveganja v tem hitro rastočem segmentu finančnih trgov. Vlagatelji so pozorni na morebitne širše posledice za stabilnost finančnega sistema. Povečana previdnost je prisotna zaradi narave zasebnih posojil, ki so pogosto manj transparentna in likvidna.",
-      "analiza": "Trg zasebnih posojil je v zadnjih letih izjemno narasel, saj so se podjetja, ki niso mogla dobiti financiranja pri tradicionalnih bankah, obrnila na alternativne vire. To je ustvarilo 2 bilijona dolarjev vreden segment, ki je manj reguliran in pogosto ponuja višje donose, a tudi večja tveganja. Trenutni val odkupnih zahtev, ki je sledil omejitvam dveh skladov v drugem četrtletju 2026, kaže na naraščajočo zaskrbljenost glede kakovosti posojil in likvidnosti. Vpliv na finančne trge je lahko večplasten: delnice podjetij, ki so močno odvisna od zasebnih posojil, bi lahko bile pod pritiskom, obvezniški trgi pa bi lahko zaznali povečano povpraševanje po varnejših sredstvih. Valute bi lahko bile prizadete, če bi se vlagatelji umikali iz bolj tveganih naložb. Zgodovinsko gledano so težave v manj reguliranih finančnih segmentih lahko imele prelive na širše trge. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati širšo stabilnost finančnega sistema in morebitne prelive iz manj transparentnih segmentov na bolj uveljavljene trge, saj lahko to vpliva na splošno tržno razpoloženje.",
+      "povzetek": "Blackstone, eno največjih podjetij za upravljanje alternativnih naložb, je omejilo dvige iz svojega vodilnega sklada zasebnih posojil. Zahteve za odkup so v drugem četrtletju poskočile na 4,5 milijarde dolarjev, kar je preseglo določene omejitve. Ta poteza kaže na morebitne likvidnostne pritiske v sektorju zasebnih posojil, ki je v zadnjih letih močno rasel. Omejitve so namenjene preprečevanju nenadnih in velikih odlivov kapitala, ki bi lahko destabilizirali sklad. Vlagatelji so zaskrbljeni zaradi dostopa do svojega kapitala in morebitnih širših posledic za trg zasebnih naložb.",
+      "analiza": "Ozadje te novice je v hitri rasti trga zasebnih posojil, ki je v zadnjih letih privabil veliko kapitala zaradi višjih donosov v primerjavi s tradicionalnimi obveznicami. Vendar pa ta trg pogosto ponuja manjšo likvidnost. Relevantnost novice je v tem, da omejitve dvigov pri tako velikem igralcu, kot je Blackstone, sprožajo vprašanja o splošni likvidnosti in stabilnosti v celotnem sektorju zasebnih naložb. Mehanizem vpliva je, da to lahko povzroči širše nezaupanje vlagateljev v zasebne trge, kar bi lahko vodilo do zmanjšanja novih naložb in morebitnih odlivov iz drugih podobnih skladov. Posledice so lahko vidne v morebitnem zmanjšanju vrednotenja zasebnih naložb, pritiskih na podjetja, ki so odvisna od zasebnega financiranja, in morebitnem povečanju povpraševanja po bolj likvidnih javnih sredstvih. To lahko vpliva na delnice finančnih institucij, ki so izpostavljene zasebnim trgom, in na obveznice, saj se lahko poveča povpraševanje po varnih državnih obveznicah. Za slovenskega dolgoročnega vlagatelja to poudarja pomen razumevanja tveganj likvidnosti pri naložbah v alternativne sklade in zasebne trge. Čeprav lahko ponujajo višje donose, je pomembno upoštevati potencialne omejitve dostopa do kapitala in spremljati širše trende v finančni industriji, ki bi lahko vplivali na te naložbe.",
       "vpliv": [
-        "Povečan likvidnostni pritisk na sklade zasebnih posojil",
-        "Potencialni padec vrednosti delnic podjetij, odvisnih od zasebnega financiranja",
-        "Povečano povpraševanje po varnejših obveznicah",
-        "Možna splošna averzija do tveganja na kapitalskih trgih"
+        "Zahteve za odkup v Blackstoneovem skladu zasebnih posojil so poskočile na 4,5 milijarde dolarjev",
+        "Omejitve dvigov iz sklada",
+        "Zaskrbljenost glede likvidnosti v zasebnem kreditnem sektorju",
+        "Potencialno širše nezaupanje v zasebne naložbe"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/another-redemption-wave-is-spooking-the-2-trillion-private-credit-market-34a64347?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-04T08:14:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/4eca0255-27e7-47cc-8ebf-c9cc00c62e29",
+      "objavljeno": "2026-06-04T16:07:09.000Z"
     },
     {
-      "naslov": "SpaceX cilja na 1,75 bilijona dolarjev vrednosti pred največjim borznim prvencem",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Podjetje SpaceX Elona Muska je objavilo, da cilja na vrednost 1,75 bilijona dolarjev, kar bi ga uvrstilo med najvrednejša podjetja na svetu. Ta ocena je del priprav na morebiten vstop na borzo, ki bi bil eden največjih v zgodovini. Podjetje je določilo ciljno ceno delnice za kupce prej, kot je bilo pričakovano, kar kaže na ambiciozne načrte. Vlagatelji pozorno spremljajo razvoj dogodkov, saj bi takšen IPO lahko imel pomemben vpliv na tehnološki sektor in širše trge. To poudarja izjemno rast vesoljske industrije.",
-      "analiza": "SpaceX je v zadnjih letih postal ključni igralec v vesoljski industriji, s svojimi inovacijami na področju raketne tehnologije, satelitskega interneta Starlink in ambicioznih načrtov za medplanetarna potovanja. Ciljna vrednost 1,75 bilijona dolarjev pred morebitnim IPO-jem poudarja izjemen potencial in zaupanje vlagateljev v prihodnost vesoljske ekonomije. Takšen IPO bi lahko pritegnil ogromno kapitala, kar bi lahko povzročilo preusmeritev sredstev iz drugih delnic, zlasti v tehnološkem sektorju. Pozitivno bi vplival na delnice podjetij v vesoljski in obrambni industriji, medtem ko bi lahko povzročil nihanja na širših borznih indeksih zaradi preusmeritve fokusa. Za obveznice in valute ne pričakujemo neposrednega vpliva, razen splošnega optimizma, ki bi lahko podprl tvegane naložbe. Zgodovinski primeri velikih IPO-jev, kot je Alibaba, kažejo na sposobnost, da pritegnejo globalno pozornost. Za slovenskega dolgoročnega vlagatelja je to opomnik na pomen inovacij in disrupcije v določenih sektorjih, ki lahko ustvarjajo izjemne priložnosti, vendar tudi nosijo visoka tveganja, povezana z visokimi valuacijami in pričakovanji.",
-      "vpliv": [
-        "Povečan optimizem v tehnološkem in vesoljskem sektorju",
-        "Potencialna preusmeritev kapitala iz drugih delnic v SpaceX",
-        "Možna rast delnic povezanih podjetij",
-        "Zvišanje splošne tržne kapitalizacije"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/cvgz237n40jo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-06-04T07:10:10.000Z"
-    },
-    {
-      "naslov": "Indonezijska rupija pade na rekordno nizko raven proti ameriškemu dolarju",
+      "naslov": "Hezbolah zavrača prekinitev ognja, Izrael nadaljuje ofenzivo na Bližnjem vzhodu",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Indonezijska rupija je padla na rekordno nizko raven proti ameriškemu dolarju, kar je zaskrbljujoč znak za gospodarstvo jugovzhodne Azije. Ta padec valute je pripisan energetskemu šoku, ki ga povzroča iranska vojna, kar vpliva na cene nafte in plina ter globalne dobavne verige. Oslabitev rupije povečuje stroške uvoza in inflacijske pritiske v Indoneziji. Ob tem so se pojavile tudi novice o dogovoru o pogojnem premirju med Izraelom in Libanonom, kar bi lahko dolgoročno omililo napetosti, a kratkoročno trgi ostajajo pod vplivov konflikta. Padec valute kaže na ranljivost nastajajočih trgov.",
-      "analiza": "Padec indonezijske rupije na rekordno nizko raven proti ameriškemu dolarju je neposredna posledica širših geopolitičnih napetosti, zlasti iranske vojne. Konflikt vpliva na globalne cene energentov, kar povzroča energetski šok, ki se prenaša na gospodarstva, odvisna od uvoza energije. Za Indonezijo to pomeni višje stroške uvoza, kar pospešuje inflacijo in zmanjšuje kupno moč. Centralna banka Indonezije bi lahko bila prisiljena k dvigu obrestnih mer za stabilizacijo valute, kar bi lahko upočasnilo gospodarsko rast. Na globalnih trgih se to kaže v povečani nestanovitnosti valut, morebitnem umiku kapitala iz nastajajočih trgov in potencialnem dvigu cen surovin, zlasti nafte. Čeprav so se pojavile novice o dogovoru o premirju med Izraelom in Libanonom, kar bi lahko dolgoročno umirilo razmere, kratkoročno trgi ostajajo občutljivi na vsako eskalacijo. Zgodovinsko so geopolitični konflikti pogosto povzročili nestabilnost na trgih surovin in valut. Za slovenskega dolgoročnega vlagatelja je to opozorilo na prepletenost globalnih dogodkov in pomen diverzifikacije portfelja, saj geopolitična tveganja lahko hitro vplivajo na vrednost naložb v različnih regijah in razredih sredstev.",
+      "povzetek": "Hezbolah je zavrnil prekinitev ognja, ki so jo posredovale ZDA, medtem ko Izrael nadaljuje svojo ofenzivo. Sveži napadi so se zgodili po tem, ko so ZDA napovedale dogovor o implementaciji premirja v Libanonu. Ta zavrnitev kaže na nadaljnjo eskalacijo konflikta na Bližnjem vzhodu, kar povečuje negotovost v regiji. Odločitev Hezbolaha ohranja napetosti visoke in zmanjšuje upanje na hitro stabilizacijo razmer, kar ima lahko širše regionalne in globalne posledice. Konflikt se tako nadaljuje kljub diplomatskim prizadevanjem.",
+      "analiza": "Ozadje te novice je v dolgotrajnem konfliktu na Bližnjem vzhodu in ponavljajočih se poskusih mednarodne skupnosti, da bi dosegla prekinitev sovražnosti. Zavrnitev prekinitve ognja s strani Hezbolaha je pomembna, saj kaže na pomanjkanje pripravljenosti vseh strani za deeskalacijo in nadaljevanje vojaških operacij. To je relevantno zdaj, ker vsaka eskalacija v regiji neposredno vpliva na globalne energetske trge in geopolitično stabilnost. Mehanizem vpliva na finančne trge je predvsem preko cen nafte in zlata. Povečana negotovost in tveganje za motnje v dobavi nafte iz regije lahko povzročita rast cen nafte (npr. Brent in WTI). Zlato, kot tradicionalno varno zatočišče, lahko prav tako pridobi na vrednosti. Delniški trgi so običajno občutljivi na geopolitična tveganja in lahko reagirajo z padcem, saj vlagatelji iščejo varnejše naložbe. Valute držav, ki so močno odvisne od uvoza nafte, se lahko oslabijo, medtem ko valute držav, ki veljajo za varna zatočišča (npr. švicarski frank, japonski jen), lahko okrepijo. Za slovenskega dolgoročnega vlagatelja to pomeni, da je geopolitično tveganje stalen dejavnik, ki ga je treba upoštevati pri naložbenih odločitvah. Naložbe v diverzificiran portfelj, ki vključuje tudi varne naložbe, so lahko koristne za ublažitev morebitnih šokov, ki izhajajo iz takšnih dogodkov. Spremljanje cen energentov in geopolitičnih dogodkov je ključno za razumevanje širšega tržnega okolja.",
       "vpliv": [
-        "Padec vrednosti indonezijske rupije",
-        "Potencialni dvig obrestnih mer v Indoneziji",
-        "Povečana nestanovitnost na trgih valut nastajajočih držav",
-        "Rast cen nafte in drugih energentov"
+        "Zavrnitev prekinitve ognja s strani Hezbolaha",
+        "Nadaljevanje izraelske ofenzive",
+        "Povečana geopolitična negotovost na Bližnjem vzhodu",
+        "Potencialna rast cen nafte in zlata"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar?traffic_source=rss",
-      "objavljeno": "2026-06-04T04:40:06.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/043db4e6-d1e4-414b-8b4f-317c85ec2e5c",
+      "objavljeno": "2026-06-04T16:52:42.000Z"
     },
     {
-      "naslov": "SEC odpravlja pravilo o dnevnem trgovanju, kljub nizki uspešnosti vlagateljev",
-      "sektor": "Finance",
+      "naslov": "Rastoči argumenti za zvišanje obrestnih mer v Združenem kraljestvu",
+      "sektor": "Makro & Centralne banke",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Ameriška komisija za vrednostne papirje (SEC) 4. junija 2026 odpravlja pravilo o vzorčnem dnevnem trgovanju, kar bo malim vlagateljem olajšalo pogosto trgovanje z delnicami. Ta sprememba prihaja kljub statistiki, ki kaže, da le približno 5 % dnevnih trgovcev dejansko ustvari dobiček. Odprava pravila bi lahko privabila več malih vlagateljev k dnevnemu trgovanju, kar prinaša tako priložnosti kot tudi znatna tveganja. Nova regulacija bo pomembno spremenila dinamiko trgovanja za retail vlagatelje.",
-      "analiza": "Pravilo o vzorčnem dnevnem trgovanju (Pattern Day Trading Rule) je bilo zasnovano za zaščito malih vlagateljev pred pretiranim tveganjem, saj je zahtevalo minimalno stanje na računu 25.000 dolarjev za tiste, ki so izvedli več kot tri dnevne posle v petih delovnih dneh. Odprava tega pravila s 4. junijem 2026 s strani SEC bo znižala vstopne ovire za dnevno trgovanje, kar bi lahko privabilo več neizkušenih vlagateljev na trg. Čeprav to lahko poveča likvidnost in obseg trgovanja, hkrati izpostavlja več posameznikov visokemu tveganju izgube kapitala, saj statistika kaže, da kar 95 % dnevnih trgovcev izgubi denar. Vpliv na delnice bi lahko bil povečan obseg trgovanja in morda večja nestanovitnost pri določenih delnicah, ki so priljubljene med malimi vlagatelji. Za obveznice in valute ne pričakujemo neposrednega vpliva, razen posrednega vpliva na splošno razpoloženje. Zgodovinsko so regulativne spremembe pogosto imele pomemben vpliv na obnašanje vlagateljev. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da je pomembno razumeti tveganja, povezana z aktivnim trgovanjem, in se držati preverjenih strategij, ki so usmerjene v dolgoročno rast, namesto v špekulativne kratkoročne posle, ki so statistično zelo tvegani.",
+      "povzetek": "V Združenem kraljestvu se krepijo argumenti za zvišanje obrestnih mer. Banka Anglije bi morala proaktivno ukrepati proti sekundarnim učinkom energetskega šoka, ki bi lahko vodili do vztrajnejše inflacije. Čeprav so se cene energentov morda stabilizirale, se njihovi učinki še vedno prenašajo skozi gospodarstvo. Analitiki menijo, da je potrebno zvišanje obrestnih mer za zajezitev inflacijskih pritiskov in ohranjanje cenovne stabilnosti. To bi pomenilo nadaljevanje restriktivne monetarne politike, kar bi lahko vplivalo na rast gospodarstva in potrošniško porabo.",
+      "analiza": "Ozadje te novice je v vztrajno visoki inflaciji v Združenem kraljestvu, ki je delno posledica globalnega energetskega šoka in motenj v dobavnih verigah. Centralne banke po svetu so se odzvale z zviševanjem obrestnih mer, da bi zajezile inflacijo. Relevantnost te novice je v tem, da se kljub morebitni stabilizaciji cen energentov, inflacijski pritiski še vedno čutijo v celotnem gospodarstvu, kar zahteva nadaljnje ukrepanje centralne banke. Mehanizem vpliva na finančne trge je večplasten: zvišanje obrestnih mer običajno vodi do rasti donosov na državne obveznice, kar poveča stroške zadolževanja za podjetja in potrošnike. To lahko negativno vpliva na delniške trge, zlasti na podjetja z visoko zadolženostjo ali tista, ki so občutljiva na potrošniško porabo. Britanski funt (GBP) se lahko okrepi v pričakovanju višjih obrestnih mer, saj postanejo naložbe v funt privlačnejše. Posledice za surovine so lahko posredne, saj višje obrestne mere lahko upočasnijo gospodarsko rast in s tem zmanjšajo povpraševanje. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati odločitve centralnih bank, saj te močno vplivajo na globalno likvidnost in stroške kapitala. Višje obrestne mere lahko pomenijo višje stroške financiranja za podjetja, kar lahko vpliva na njihove dobičke in s tem na vrednost delnic. Hkrati pa lahko ponudijo privlačnejše donose na obvezniške naložbe. Razumevanje teh dinamik je ključno za prilagajanje naložbene strategije.",
       "vpliv": [
-        "Znižanje ovir za dnevno trgovanje malim vlagateljem",
-        "Potencialno povečan obseg trgovanja na borzah",
-        "Možna povečana nestanovitnost pri določenih delnicah",
-        "Povečano tveganje izgube kapitala za neizkušene vlagatelje"
+        "Krepijo se argumenti za zvišanje obrestnih mer v Združenem kraljestvu",
+        "Banka Anglije naj bi proaktivno ukrepala proti inflaciji",
+        "Potencialna rast donosov na britanske obveznice",
+        "Možna krepitev britanskega funta (GBP)"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/about-95-of-day-traders-lose-money-but-a-new-rule-will-make-it-easier-to-do-so-anyway-b576498b?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-04T02:22:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/821b704c-57f9-4431-a364-37c7eef47e9f",
+      "objavljeno": "2026-06-04T14:52:49.000Z"
     },
     {
-      "naslov": "Delnica Broadcoma pade kljub pospešeni rasti prihodkov od AI čipov",
-      "sektor": "Tehnologija & AI",
+      "naslov": "Požar v jeklarni Tata Steel povzročil znatno škodo proizvodni liniji",
+      "sektor": "Energetika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Delnica podjetja Broadcom je padla, čeprav je podjetje poročalo o pospešeni rasti prihodkov od čipov, namenjenih umetni inteligenci (AI). Vlagatelji so očitno pričakovali še boljše rezultate, saj najnovejše številke prihodkov niso prinesle pomembnega presenečenja navzgor po nedavnem močnem rallyju delnice. To kaže na visoka pričakovanja vlagateljev v sektorju AI in njihovo občutljivost na vsako odstopanje. Padec delnice se je zgodil kljub sicer pozitivnim trendom v segmentu AI čipov.",
-      "analiza": "Broadcom je pomemben igralec v polprevodniški industriji, zlasti na področju čipov za umetno inteligenco, ki so v zadnjem času doživeli izjemno rast. Kljub poročanju o pospešeni rasti prihodkov v tem segmentu, je delnica podjetja padla. To je klasičen primer, ko 'dobre novice niso dovolj dobre' za trg, ki je že vnaprej vračunal visoka pričakovanja. Po močnem rallyju delnice so vlagatelji očitno pričakovali še večji 'upside', kar se ni zgodilo. To kaže na pregreta pričakovanja v AI sektorju in na to, da vlagatelji postajajo bolj selektivni in zahtevni. Padec delnice Broadcoma lahko vpliva na splošno razpoloženje v tehnološkem sektorju, še posebej med podjetji, ki so močno izpostavljena AI. Lahko sproži preusmeritev kapitala iz delnic z visokimi valuacijami v bolj defenzivne sektorje ali obveznice. Zgodovinsko so se podobni scenariji dogajali v preteklih tehnoloških 'balonih', kjer so visoka pričakovanja vodila do hitrih korekcij. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da je kljub privlačnosti rastočih sektorjev, kot je AI, pomembno biti realističen glede valuacij in pričakovanj. Previdnost in diverzifikacija sta ključni, saj tudi vodilna podjetja niso imuna na korekcije, če ne izpolnijo pretiranih pričakovanj trga.",
+      "povzetek": "V jeklarni Tata Steel v Port Talbotu v Združenem kraljestvu je izbruhnil 'apokaliptičen' požar, ki je povzročil 'znatno' škodo na proizvodni liniji. Prebivalcem so svetovali, naj zaprejo okna in vrata, medtem ko se posadke borijo s požarom. Ta incident bo verjetno povzročil motnje v proizvodnji jekla, kar lahko vpliva na dobavne verige in cene jekla. Škoda je opisana kot velika, kar kaže na dolgotrajnejše posledice za delovanje obrata in lokalno gospodarstvo. Vzrok požara še ni znan, preiskava pa bo verjetno sledila.",
+      "analiza": "Ozadje te novice je v pomembnosti jeklarske industrije za globalno gospodarstvo in dobavne verige. Tata Steel je eden večjih proizvajalcev jekla, zato ima vsaka motnja v njegovi proizvodnji širše posledice. Relevantnost je v tem, da požar v tako veliki jeklarni neposredno vpliva na ponudbo jekla na trgu. Mehanizem vpliva na finančne trge je predvsem preko cen surovin. Zmanjšana proizvodnja jekla lahko povzroči rast cen jekla na globalnih trgih, kar vpliva na industrije, ki so odvisne od jekla, kot so avtomobilska, gradbena in strojna industrija. Delnice podjetja Tata Steel bodo verjetno utrpele padec zaradi pričakovanih izgub v proizvodnji in stroškov popravil. Posredno lahko vpliva tudi na delnice podjetij, ki so odvisna od dobave jekla, saj se lahko soočijo z višjimi stroški ali zamudami. Obveznice in valute so manj neposredno prizadete, razen če bi šlo za dolgotrajnejšo in širšo motnjo v industriji. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati tveganja, povezana z industrijskimi nesrečami in motnjami v dobavnih verigah, zlasti pri naložbah v podjetja v težki industriji. Diverzifikacija med različnimi sektorji in geografskimi območji lahko pomaga zmanjšati izpostavljenost takšnim specifičnim tveganjem. Spremljanje cen ključnih surovin je prav tako pomembno za razumevanje širših gospodarskih trendov.",
       "vpliv": [
-        "Padec delnice Broadcoma",
-        "Povečana previdnost vlagateljev v AI sektorju",
-        "Možna korekcija valuacij v tehnološkem sektorju",
-        "Preusmeritev kapitala v bolj defenzivne naložbe"
+        "Znatna škoda na proizvodni liniji Tata Steel v Port Talbotu",
+        "Motnje v proizvodnji jekla",
+        "Potencialna rast cen jekla na globalnih trgih",
+        "Negativen vpliv na delnice Tata Steel"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-accelerating-ai-chip-growth-7731ee89?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-04T00:13:00.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.com/news/articles/cy826zjxdgvo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-06-04T17:25:16.000Z"
+    },
+    {
+      "naslov": "Rastoči delniški trgi ustvarili 2 milijona novih milijonarjev v letu 2025",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Poročilo Capgemini World Wealth Report razkriva, da so rastoči delniški trgi v letu 2025 ustvarili 2 milijona novih milijonarjev po vsem svetu. Globalna populacija milijonarjev se je povečala za 7,9 % na 25,3 milijona. Ta rast kaže na močno uspešnost kapitalskih trgov v preteklem letu, kar je omogočilo znatno povečanje premoženja. Poročilo poudarja, da so delniške naložbe igrale ključno vlogo pri akumulaciji bogastva, kar odraža splošno pozitivno gospodarsko okolje in zaupanje vlagateljev.",
+      "analiza": "Ozadje te novice je v globalnem gospodarskem okrevanju in močni uspešnosti delniških trgov v letu 2025, ki so bili podprti z relativno nizkimi obrestnimi merami (v določenih obdobjih) in optimizmom glede tehnološkega napredka. Relevantnost je v tem, da poročilo potrjuje, da so delniški trgi še vedno glavni motor za ustvarjanje in rast premoženja. Mehanizem vpliva na finančne trge je posreden, saj gre za retrospektivno poročilo, vendar odraža splošno pozitivno razpoloženje in zaupanje vlagateljev. Povečanje števila milijonarjev lahko spodbudi nadaljnje naložbe v kapitalske trge, saj se poveča število posameznikov z razpoložljivim kapitalom. To lahko vodi do nadaljnjega povpraševanja po delnicah in drugih finančnih instrumentih. Posledice so lahko vidne v nadaljnji rasti delniških indeksov, saj se povečuje baza vlagateljev. To lahko tudi vpliva na trge luksuznih dobrin in storitev, saj se povečuje kupna moč premožnih posameznikov. Obveznice in surovine so manj neposredno prizadete, razen če se povečano bogastvo pretvori v večje povpraševanje po določenih naložbah. Za slovenskega dolgoročnega vlagatelja ta novica poudarja pomen dolgoročnega vlaganja v kapitalske trge. Kljub kratkoročnim nihanjem, kot so današnji padci v tehnološkem sektorju, dolgoročna zgodovina kaže, da so delniške naložbe učinkovit način za ustvarjanje in ohranjanje premoženja. Ključna je diverzifikacija in potrpežljivost, saj se bogastvo akumulira skozi čas.",
+      "vpliv": [
+        "Globalna populacija milijonarjev se je povečala za 7,9 %",
+        "2 milijona novih milijonarjev v letu 2025",
+        "Skupna populacija milijonarjev dosegla 25,3 milijona",
+        "Rastoči delniški trgi kot ključni dejavnik rasti premoženja"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/06/04/stocks-new-millionaires.html",
+      "objavljeno": "2026-06-04T16:48:06.000Z"
     }
   ]
 }
