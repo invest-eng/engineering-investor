@@ -1,95 +1,112 @@
 {
-  "generiranoOb": "2026-06-04T18:06:39.060Z",
+  "generiranoOb": "2026-06-05T17:44:54.446Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-06-04",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v mešanem tonu, medtem ko so ameriški trgi, dve uri po odprtju, kazali znake volatilnosti, predvsem zaradi novic iz tehnološkega sektorja in geopolitičnih napetosti. Sektor polprevodnikov je bil pod pritiskom, saj je Broadcom utrpel padec delnic za približno 15 % in izgubo 300 milijard dolarjev tržne kapitalizacije po razočarajočih napovedih prihodkov, kar je zasenčilo tudi Micron Technology. Kljub temu je optimizem prinesel uspešen IPO podjetja Quantinuum, katerega delnice so poskočile za 13 % nad ceno IPO, kar kaže na zanimanje za kvantno tehnologijo. Na finančnem področju je Blackstone omejil dvige iz svojega sklada za zasebne kredite, saj so zahteve po odkupih v drugem četrtletju dosegle 4,5 milijarde dolarjev, kar sproža vprašanja o likvidnosti. Geopolitične napetosti so se okrepile, ko je Hizbolah zavrnil prekinitev ognja, ki so jo posredovale ZDA, kar bi lahko vplivalo na cene energentov. V Združenem kraljestvu se krepijo argumenti za zvišanje obrestnih mer s strani Banke Anglije, da bi zajezili inflacijo, medtem ko je požar v tovarni Tata Steel povzročil znatno škodo na proizvodni liniji, kar bo vplivalo na dobavo jekla in stroške v industriji.",
+  "datum": "2026-06-05",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v senci zaskrbljenosti glede makroekonomskih gibanj, medtem ko so ameriški trgi, odprti že dve uri, pokazali izrazito negativno smer. Nasdaq je padel za 3 %, kar je posledica rastočih pričakovanj o dvigu obrestnih mer s strani Federal Reserve po objavi robustnega poročila o delovnih mestih v ZDA, ki je pokazalo dodanih 172.000 delovnih mest v maju. To je povzročilo oster dvig donosov na ameriške obveznice in pritisk na delnice tehnoloških podjetij. V Evropi je irsko gospodarstvo zabeležilo 'osupljiv' padec, kar je evroobmočje potisnilo v recesijo, čeprav je irski BDP znan po svoji volatilnosti zaradi multinacionalk. Geopolitične napetosti, zlasti opozorila Svetovnega programa za hrano (WFP) o vplivu morebitne vojne z Iranom na lakoto, so dodale negotovost. Med posameznimi podjetji je Boeing napovedal začetek proizvodnje 737 Max na novi liniji 6. julija, kar nakazuje povečanje proizvodnje na 52 letal mesečno, medtem ko je J.P. Morgan končal svoje medvedje priporočilo za Teslo, ki je napovedovalo 65-odstotni padec delnic, kar je prineslo nekaj olajšanja v sektor električnih vozil.",
   "novice": [
     {
-      "naslov": "Delnice Quantinuuma poskočile po IPO, Wall Street verjame v kvantni razcvet",
+      "naslov": "Nasdaq strmoglavil za 3 % ob padcu delnic polprevodniških podjetij",
       "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Delnice podjetja Quantinuum so po začetni javni ponudbi (IPO) poskočile, saj Wall Street kaže zanimanje za kvantni razcvet. Podjetje je bilo ocenjeno na več kot 17 milijard dolarjev, njegove delnice pa so se povzpele za 13 % nad ceno IPO. To kaže na močno zaupanje vlagateljev v potencial kvantnega računalništva in inovativnih tehnologij, kljub širšim tržnim nihanjem.",
-      "analiza": "Kvantno računalništvo velja za eno najperspektivnejših prihodnjih tehnologij z možnostjo revolucionarnih sprememb v različnih panogah. IPO podjetij v tem sektorju so redka, zato pritegnejo veliko pozornosti. Uspešen IPO Quantinuuma in 13-odstotni skok delnic nad ceno IPO, ki je podjetje ovrednotil na več kot 17 milijard dolarjev, signalizira močan apetit vlagateljev po visokotehnoloških, inovativnih podjetjih kljub morebitnim širšim tržnim nihanjem. Pozitiven odziv na IPO lahko spodbudi optimizem v celotnem tehnološkem sektorju, še posebej med podjetji, ki se ukvarjajo z raziskavami in razvojem. To lahko pritegne nov kapital v inovativne segmente trga. Posledično se poveča zanimanje za delnice podjetij v kvantnem računalništvu in sorodnih visokotehnoloških področjih. Lahko služi kot kontrast negativnim novicam iz bolj zrelega dela polprevodniškega sektorja. Manj neposrednega vpliva na obveznice, valute ali surovine. Podobno navdušenje je bilo opaziti ob IPO-jih podjetij med internetnim boomom ali v zgodnjih fazah razvoja umetne inteligence. V prihodnje velja opazovati dolgoročno uspešnost delnic Quantinuuma in razvoj kvantne tehnologije. Za slovenskega dolgoročnega vlagatelja to poudarja potencial rasti v disruptivnih tehnologijah, vendar tudi opozarja na visoka vrednotenja in inherentna tveganja zgodnjih faz razvoja.",
-      "vpliv": [
-        "Delnice Quantinuuma poskočile za 13 % nad ceno IPO",
-        "Vrednotenje podjetja nad 17 milijard dolarjev",
-        "Povečan optimizem v sektorju kvantnega računalništva",
-        "Spodbuja zanimanje za inovativne tehnologije"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/quantinuums-stock-set-to-pop-after-ipo-as-wall-street-buys-into-the-quantum-boom-8f2e83b9?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-04T17:42:00.000Z"
-    },
-    {
-      "naslov": "Blackstone omejil dvige iz sklada za zasebne kredite po porastu zahtev",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Blackstone, eden največjih upravljavcev premoženja, je omejil dvige iz svojega vodilnega sklada za zasebne kredite. Zahteve za odkup so v drugem četrtletju poskočile na 4,5 milijarde dolarjev. Ta poteza kaže na morebitne likvidnostne pritiske v sektorju zasebnih kreditov in povečano previdnost vlagateljev.",
-      "analiza": "Zasebni krediti so v zadnjih letih postali pomemben del finančnega trga, saj banke zmanjšujejo posojanje določenim segmentom. Skladi zasebnih kreditov ponujajo višje donose, vendar pogosto z manjšo likvidnostjo. Omejevanje dvigov iz sklada Blackstone, ki je zabeležil 4,5 milijarde dolarjev zahtev za odkup v drugem četrtletju, je zaskrbljujoč signal za stabilnost sektorja zasebnih kreditov in širšega finančnega sistema. Povečane zahteve za dvige lahko prisilijo sklade k prodaji nelikvidnih sredstev po znižanih cenah, kar povzroči izgube in morebitno verižno reakcijo. To lahko sproži zaskrbljenost glede zdravja finančnih institucij, ki so izpostavljene temu sektorju. Posledično se poveča nadzor nad sektorjem zasebnih kreditov in se lahko pojavi morebiten padec vrednosti nelikvidnih naložb. Lahko vpliva na zaupanje vlagateljev v alternativne naložbe. Posredno lahko vpliva na delnice finančnih institucij in obveznice podjetij, ki so odvisna od zasebnega financiranja. Podobne likvidnostne krize so se pojavile med finančno krizo leta 2008, ko so se vlagatelji umikali iz nelikvidnih skladov. V prihodnje velja opazovati nadaljnje objave o dvigih iz skladov zasebnih kreditov in morebitne ukrepe regulatorjev. Za slovenskega dolgoročnega vlagatelja to poudarja tveganja nelikvidnih naložb in pomen skrbne presoje tveganja in donosa, še posebej v obdobjih negotovosti.",
-      "vpliv": [
-        "Omejitev dvigov iz sklada zasebnih kreditov",
-        "Zahteve za odkup 4,5 milijarde dolarjev v Q2",
-        "Povečana zaskrbljenost glede likvidnosti v zasebnih kreditih",
-        "Potencialni pritisk na finančne institucije"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/4eca0255-27e7-47cc-8ebf-c9cc00c62e29",
-      "objavljeno": "2026-06-04T16:07:09.000Z"
-    },
-    {
-      "naslov": "Hizbolah zavrnil premirje, ki so ga posredovale ZDA, Izrael nadaljuje ofenzivo",
-      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Hizbolah je zavrnil prekinitev ognja, ki so jo posredovale ZDA, medtem ko Izrael nadaljuje ofenzivo. Sveži napadi so se zgodili po tem, ko so ZDA napovedale dogovor o uveljavitvi premirja v Libanonu. To kaže na nadaljevanje konflikta in nestabilnosti v regiji. To poudarja kompleksnost regionalnih konfliktov in izzive pri doseganju trajnega miru, kar ohranja visoko stopnjo negotovosti.",
-      "analiza": "Bližnji vzhod je že dolgo vir geopolitičnih napetosti, ki imajo globalne ekonomske posledice, predvsem zaradi vpliva na cene nafte. Poskusi premirja so pogosti, vendar pogosto kratkotrajni. Zavrnitev prekinitve ognja s strani Hizbolaha in nadaljevanje izraelske ofenzive, kljub posredovanju ZDA, signalizira stopnjevanje konflikta in povečano nestabilnost v regiji. To je ključna novica dneva zaradi potencialnega vpliva na globalne trge. Konflikti na Bližnjem vzhodu pogosto povzročijo rast cen nafte zaradi strahu pred motnjami v dobavi iz regije, ki je ključna za svetovno proizvodnjo nafte. Povečana geopolitična negotovost lahko sproži tudi averzijo do tveganja na širših finančnih trgih. Posledično lahko pričakujemo rast cen nafte (npr. Brent in WTI) in padec delniških indeksov zaradi splošne negotovosti. Poveča se tudi povpraševanje po varnih zatočiščih, kot so zlato, ameriške državne obveznice in nekatere valute (npr. švicarski frank, japonski jen). Naftni šoki v 70. letih ali med invazijo na Irak so pokazali neposredno povezavo med geopolitičnimi konflikti in cenami nafte. V prihodnje velja opazovati nadaljnji razvoj konflikta, morebitno širjenje na druge države in odziv mednarodne skupnosti. Za slovenskega dolgoročnega vlagatelja geopolitična tveganja so sestavni del globalnih trgov. Diverzifikacija in naložbe v podjetja z robustnimi bilancami stanja lahko pomagajo ublažiti vpliv takšnih dogodkov.",
+      "povzetek": "Ameriški tehnološki indeks Nasdaq je danes padel za 3 %, kar je predvsem posledica močnega padca delnic proizvajalcev čipov in pomnilniških skupin. Ta padec je bil sprožen z naraščajočimi pričakovanji o dvigu obrestnih mer s strani Federal Reserve, kar je povzročilo oster dvig donosov na ameriške obveznice. Vlagatelji so se preusmerili iz visoko vrednotenih tehnoloških delnic, ki so občutljive na višje obrestne mere, v bolj varne naložbe. Poročilo Financial Timesa je poudarilo, da so se donosi ameriških obveznic močno zvišali, kar je neposredno vplivalo na razpoloženje na trgu. To kaže na precejšnjo spremembo v pričakovanjih glede monetarne politike ZDA.",
+      "analiza": "Padec indeksa Nasdaq za 3 % in s tem povezan padec delnic v sektorju polprevodnikov je neposredna posledica spremenjenih pričakovanj glede monetarne politike Federal Reserve. Močno poročilo o delovnih mestih je povečalo verjetnost, da bo Fed agresivneje dvignil obrestne mere, kar je dvignilo donose na obveznice. Višji donosi na obveznice zmanjšujejo privlačnost delnic, še posebej tistih rastnih podjetij v tehnološkem sektorju, katerih vrednotenje je močno odvisno od prihodnjih denarnih tokov. Ko se diskontna stopnja zviša, se sedanja vrednost teh prihodnjih tokov zmanjša. Za delnice to pomeni pritisk navzdol, še posebej za podjetja z visokimi razmerji med ceno in dobičkom. Vpliv na obveznice je bil negativen, saj so se njihove cene znižale, donosi pa zvišali. Dolar bi lahko pridobil na vrednosti zaradi pričakovanih višjih obrestnih mer. Slovenski dolgoročni vlagatelj, ki ima izpostavljenost do globalnih tehnoloških skladov ali posameznih delnic, bi moral biti pozoren na to dinamiko. Čeprav kratkoročni padci niso nenavadni, je pomembno razumeti, da spremembe v monetarni politiki vplivajo na vrednotenja in lahko povzročijo daljša obdobja volatilnosti, kar zahteva preudarno dolgoročno strategijo.",
       "vpliv": [
-        "Zavrnitev prekinitve ognja s strani Hizbolaha",
-        "Nadaljevanje izraelske ofenzive",
-        "Povečana geopolitična nestabilnost v regiji",
-        "Potencialna rast cen nafte"
+        "Nasdaq padec za 3 %",
+        "Padec delnic čipov in pomnilniških skupin",
+        "Dvig donosov na ameriške obveznice",
+        "Pritisk na rastne delnice"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/043db4e6-d1e4-414b-8b4f-317c85ec2e5c",
-      "objavljeno": "2026-06-04T16:52:42.000Z"
+      "vir_url": "https://www.ft.com/content/2929bbd3-1f71-4424-a577-f016c3c65603",
+      "objavljeno": "2026-06-05T17:07:19.000Z"
     },
     {
-      "naslov": "V Združenem kraljestvu rastejo argumenti za zvišanje obrestnih mer",
+      "naslov": "Vlagatelji povečujejo stave na dvig obrestnih mer Feda po močnem poročilu o delovnih mestih",
       "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "V Združenem kraljestvu se krepi argument za zvišanje obrestnih mer. Banka Anglije bi morala proaktivno ukrepati proti sekundarnim učinkom energetskega šoka. To nakazuje na nadaljnje zaostrovanje monetarne politike za obvladovanje inflacije. To odraža prizadevanja centralne banke za stabilizacijo cen, a hkrati prinaša tveganja za gospodarsko rast.",
-      "analiza": "Centralne banke po svetu se soočajo z izzivom visoke inflacije, ki jo delno poganjajo energetski šoki in motnje v dobavnih verigah. Zviševanje obrestnih mer je klasično orodje za boj proti inflaciji. Krepitev argumentov za zvišanje obrestnih mer v Združenem kraljestvu s strani Banke Anglije poudarja nadaljnje inflacijske pritiske in pričakovanja zaostrovanja monetarne politike. To je pomembno za globalne vlagatelje, saj UK predstavlja veliko gospodarstvo. Zvišanje obrestnih mer običajno krepi nacionalno valuto (GBP), saj postanejo naložbe v funt privlačnejše. Hkrati pa lahko zvišanje obrestnih mer negativno vpliva na delniške trge, saj se povečajo stroški zadolževanja za podjetja in zmanjša potrošniška poraba. Vpliva tudi na obveznice, saj višje obrestne mere znižujejo njihove cene. Posledično lahko pričakujemo krepitev britanskega funta (GBP) v primerjavi z drugimi valutami, morebiten pritisk na delniške trge v Združenem kraljestvu in padec cen britanskih državnih obveznic (gilts). V preteklosti so centralne banke pogosto zviševale obrestne mere v boju proti inflaciji, kar je vodilo do kratkoročnih nihanj na trgih, a dolgoročno k stabilizaciji cen. V prihodnje velja opazovati prihodnje odločitve Banke Anglije o obrestnih merah in inflacijske podatke iz Združenega kraljestva. Za slovenskega dolgoročnega vlagatelja to kaže na nadaljevanje globalnega trenda zaostrovanja monetarne politike, kar lahko vpliva na donose obveznic in rast podjetij. Pomembno je spremljati makroekonomske kazalnike in odločitve centralnih bank.",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Vlagatelji so po objavi močnega poročila o delovnih mestih v ZDA povečali svoja pričakovanja glede dviga obrestnih mer s strani Federal Reserve. Ameriško gospodarstvo je v maju dodalo 172.000 delovnih mest, kar je preseglo pričakovanja in nakazuje, da se trg dela 'obrača na bolje'. To močno poročilo je okrepilo prepričanje, da bo Fed nadaljeval z zaostrovanjem monetarne politike, da bi zajezil inflacijo. Posledično so se zvišali donosi na ameriške državne obveznice, kar je povzročilo pritisk na delniške trge, še posebej na sektorje, ki so občutljivi na obrestne mere. To je ključni dejavnik, ki vpliva na globalno finančno stabilnost in vrednotenja sredstev.",
+      "analiza": "Močno poročilo o delovnih mestih v ZDA, ki je pokazalo dodanih 172.000 delovnih mest v maju, je ključni makroekonomski podatek, ki neposredno vpliva na pričakovanja glede monetarne politike Federal Reserve. Močan trg dela običajno pomeni večjo kupno moč potrošnikov in potencial za inflacijske pritiske. V takšnem okolju centralne banke pogosto dvignejo obrestne mere, da preprečijo pregrevanje gospodarstva. Mehanizem vpliva je jasen: višje obrestne mere pomenijo dražje zadolževanje za podjetja in potrošnike, kar lahko upočasni gospodarsko rast. Za obveznice to pomeni padec cen in rast donosov, saj vlagatelji zahtevajo višje donose za tveganje. Za delnice, še posebej rastne, je to negativno, saj se zmanjša sedanja vrednost prihodnjih dobičkov. Dolar se običajno okrepi, saj višje obrestne mere privabljajo tuje vlagatelje. Slovenski dolgoročni vlagatelj mora razumeti, da so odločitve Feda ključne za globalne trge. Čeprav to ni neposreden nasvet, je pomembno spremljati gibanje obrestnih mer in njihov vpliv na različne razrede sredstev, saj lahko to vpliva na donosnost portfelja v daljšem časovnem obdobju.",
       "vpliv": [
-        "Krepitev argumentov za zvišanje obrestnih mer Banke Anglije",
-        "Potencialna krepitev britanskega funta (GBP)",
-        "Pritisk na delniške trge v Združenem kraljestvu",
-        "Padec cen britanskih državnih obveznic"
+        "ZDA dodale 172.000 delovnih mest v maju",
+        "Povečana pričakovanja za dvig obrestnih mer Feda",
+        "Dvig donosov na ameriške obveznice",
+        "Pritisk na delniške trge"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/821b704c-57f9-4431-a364-37c7eef47e9f",
-      "objavljeno": "2026-06-04T14:52:49.000Z"
+      "vir_url": "https://www.ft.com/content/ab37709f-9b5e-493c-902c-a87cba23b493",
+      "objavljeno": "2026-06-05T16:19:21.000Z"
     },
     {
-      "naslov": "Apokaliptičen požar v Tata Steel povzročil znatno škodo na proizvodni liniji",
-      "sektor": "Energetika",
+      "naslov": "Osupljiv irski padec potisnil gospodarstvo evroobmočja v obratno smer",
+      "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Požar v tovarni Tata Steel v Port Talbotu v Združenem kraljestvu je povzročil 'znatno' škodo na proizvodni liniji. Požar je bil opisan kot 'apokaliptičen', prebivalcem pa so svetovali, naj imajo okna in vrata zaprta. Ta incident bo verjetno vplival na proizvodnjo jekla in dobavne verige. Incident poudarja ranljivost industrijskih dobavnih verig in potencialni vpliv na globalne cene surovin.",
-      "analiza": "Jeklarska industrija je ključna za globalno gospodarstvo, saj jeklo predstavlja osnovni material za gradbeništvo, avtomobilsko industrijo in infrastrukturo. Tata Steel je velik globalni proizvajalec. 'Apokaliptičen' požar v tovarni Tata Steel v Port Talbotu, ki je povzročil znatno škodo na proizvodni liniji, predstavlja pomemben šok v dobavni verigi za jeklo. To lahko vpliva na cene jekla in s tem na stroške v številnih industrijah. Zmanjšana proizvodnja jekla zaradi požara bo verjetno povzročila pomanjkanje in dvig cen jekla na svetovnem trgu. Jeklarska industrija je tudi izjemno energetsko intenzivna, zato ima vsaka motnja v proizvodnji posredne vplive na povpraševanje po energiji in širše industrijske stroške. Posledično lahko pričakujemo rast cen jekla in drugih sorodnih kovin ter povečane stroške za podjetja v gradbeništvu, avtomobilski industriji in proizvodnji. Morebiten pritisk na delnice podjetij, ki so odvisna od jekla, in potencialno pozitivno za konkurenčne proizvajalce jekla. Posredno lahko vpliva na inflacijo. Podobni dogodki, kot so naravne katastrofe ali industrijske nesreče, so v preteklosti že povzročili motnje v dobavnih verigah in dvig cen surovin. V prihodnje velja opazovati trajanje popravil in obseg izpada proizvodnje v Tata Steel ter odziv globalnih cen jekla. Za slovenskega dolgoročnega vlagatelja to poudarja tveganja specifičnih dogodkov v dobavnih verigah in pomen diverzifikacije naložb v podjetja, ki niso preveč odvisna od ene same surovine ali dobavitelja.",
+      "povzetek": "Irska je zabeležila 'osupljiv' padec gospodarske aktivnosti, kar je prispevalo k temu, da se je celotno gospodarstvo evroobmočja obrnilo v negativno smer. Ekonomisti opozarjajo, da je irski BDP 'nemogoče' napovedati zaradi velikih čezmejnih tokov, ki jih ustvarjajo multinacionalna podjetja. Kljub temu ta podatek poudarja ranljivost in kompleksnost merjenja gospodarske uspešnosti v regijah z visoko stopnjo globalizacije. Padec irskega gospodarstva, ne glede na njegove strukturne značilnosti, je negativen signal za širše evroobmočje in lahko vpliva na zaupanje vlagateljev v regionalno gospodarstvo.",
+      "analiza": "Padec irskega gospodarstva, čeprav je njegov BDP znan po visoki volatilnosti zaradi prisotnosti velikih multinacionalnih podjetij, ki lahko umetno napihnejo ali zmanjšajo številke zaradi davčnih razlogov, je vseeno pomemben signal za evroobmočje. Ta 'osupljiv' padec prispeva k splošni percepciji šibkosti v regiji in lahko vpliva na odločitve Evropske centralne banke (ECB) glede monetarne politike. Če se šibkost razširi, bi ECB lahko bila pod pritiskom, da ohrani nižje obrestne mere ali celo razmisli o spodbujevalnih ukrepih. To bi lahko imelo posledice za vrednost evra, ki bi lahko oslabel v primerjavi z drugimi glavnimi valutami. Evropske delnice bi lahko občutile pritisk, še posebej tiste, ki so močno odvisne od domačega povpraševanja. Donosi na evropske obveznice bi lahko ostali nizki ali celo padli. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati splošno zdravje evroobmočja, saj je Slovenija njegov sestavni del. Šibkost v večjih gospodarstvih ali ključnih članicah lahko vpliva na izvozne možnosti in splošno gospodarsko rast v regiji, kar posredno vpliva tudi na domače naložbe.",
       "vpliv": [
-        "Znatna škoda na proizvodni liniji Tata Steel",
-        "Potencialno zmanjšana proizvodnja jekla",
-        "Možna rast cen jekla",
-        "Povečani stroški za industrije, ki uporabljajo jeklo"
+        "Irska zabeležila 'osupljiv' padec",
+        "Evroobmočje potisnjeno v obratno smer",
+        "Pritisk na vrednost evra",
+        "Vpliv na evropske delnice"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/cy826zjxdgvo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-06-04T17:25:16.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/be3ab4de-0a3f-4942-bd94-6180289142f8",
+      "objavljeno": "2026-06-05T14:36:49.000Z"
+    },
+    {
+      "naslov": "Boeing bo 6. julija začel proizvodnjo 737 Max na novi montažni liniji",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Izvršni direktor Boeinga je napovedal, da bo podjetje 6. julija začelo proizvodnjo letal 737 Max na novi montažni liniji v Everettu v Washingtonu. Ta nova linija bo služila kot katalizator za povečanje proizvodnje letal Max na 52 letal na mesec. Novica je pomembna za letalsko industrijo in Boeing, saj nakazuje na okrevanje in širitev proizvodnih zmogljivosti po preteklih izzivih. Povečanje proizvodnje bo vplivalo na celotno dobavno verigo in lahko pomeni pozitivne gospodarske učinke v sektorju letalstva.",
+      "analiza": "Napoved Boeinga o začetku proizvodnje letal 737 Max na novi montažni liniji 6. julija in načrtovano povečanje proizvodnje na 52 letal na mesec je pomembna pozitivna novica za podjetje in širši letalski sektor. Po preteklih težavah z letali 737 Max in pandemiji COVID-19, ki je močno prizadela letalski promet, ta poteza signalizira okrevanje in zaupanje v prihodnje povpraševanje. Povečana proizvodnja pomeni več prihodkov za Boeing, kar je pozitivno za delnice podjetja. Prav tako bo to spodbudilo celotno dobavno verigo, vključno z dobavitelji delov in komponent, kar bo imelo širši pozitiven vpliv na industrijski sektor. Posledice za delnice Boeinga so pozitivne, saj to kaže na operativno izboljšanje in rast. Za obveznice podjetja to pomeni večjo stabilnost. Vpliv na valute in surovine je posreden, vendar lahko povečano industrijsko povpraševanje vpliva na cene nekaterih materialov. Slovenski dolgoročni vlagatelj, ki ima izpostavljenost do globalnih industrijskih ali letalskih podjetij, bi moral to novico razumeti kot znak okrevanja in rasti v sektorju, kar lahko prispeva k stabilnosti in donosnosti naložb v tem segmentu.",
+      "vpliv": [
+        "Boeing začne proizvodnjo 737 Max 6. julija",
+        "Povečanje proizvodnje na 52 letal mesečno",
+        "Pozitiven vpliv na delnice Boeinga",
+        "Spodbuda za letalsko dobavno verigo"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/06/05/boeing-ceo-737-max-production-assembly-line.html",
+      "objavljeno": "2026-06-05T16:56:31.000Z"
+    },
+    {
+      "naslov": "J.P. Morgan opustil medvedje priporočilo za Teslo, ki je napovedovalo 65 % padec",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "J.P. Morgan je končal svoje prejšnje medvedje priporočilo za delnice Tesle, ki je napovedovalo 65-odstotni padec vrednosti. Novi analitik je prevzel pokritost Tesle in ima manj pesimističen pogled na podjetje Elona Muska, ki proizvaja električna vozila. Ta sprememba v analitskem mnenju je pomembna, saj lahko vpliva na sentiment vlagateljev in gibanje delnic Tesle, ki je ključni igralec v sektorju električnih vozil. Prekinitev tako močnega medvedjega priporočila lahko prinese olajšanje in potencialno stabilizacijo za delnice podjetja.",
+      "analiza": "Odločitev J.P. Morgana, da opusti svoje prejšnje medvedje priporočilo za Teslo, ki je napovedovalo drastičen 65-odstotni padec delnic, je pomembna novica za finančne trge in sektor električnih vozil. Analitska priporočila velikih investicijskih bank imajo pogosto pomemben vpliv na sentiment vlagateljev in kratkoročno gibanje cen delnic. Prehod na manj pesimističen pogled s strani novega analitika lahko signalizira, da so se nekateri dejavniki tveganja, ki so prej upravičevali medvedje priporočilo, zmanjšali, ali pa da trg že vključuje te dejavnike v ceno. Za delnice Tesle je to pozitivno, saj odpravlja velik pritisk navzdol in lahko spodbudi nakupovalno razpoloženje. Vpliv na širši sektor električnih vozil je lahko mešan; medtem ko je Tesla vodilna, spremembe v njenem vrednotenju lahko vplivajo na celotno industrijo. Valute in surovine niso neposredno prizadete, razen če sprememba priporočila odraža širše makroekonomske spremembe. Slovenski dolgoročni vlagatelj bi moral to novico razumeti kot spremembo v percepciji tveganja za specifično podjetje. Čeprav analitska priporočila niso finančni nasveti, nudijo vpogled v mnenja strokovnjakov in lahko pomagajo pri razumevanju tržnih pričakovanj, kar je koristno pri ocenjevanju dolgoročnega potenciala naložb v tehnološka podjetja.",
+      "vpliv": [
+        "J.P. Morgan opustil medvedje priporočilo za Teslo",
+        "Prejšnje priporočilo napovedovalo 65 % padec",
+        "Manj pesimističen pogled na Teslo",
+        "Potencialna stabilizacija delnic Tesle"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/j-p-morgan-ends-bearish-tesla-call-that-was-predicting-a-65-stock-drop-95728e66?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-05T13:50:00.000Z"
+    },
+    {
+      "naslov": "Lululemon potrebuje vrnitev k osnovam, analitiki opozarjajo na 'brezkompromisno' smer",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 1,
+      "povzetek": "Analitiki opozarjajo, da podjetje Lululemon, ki je 'brezkompromisno', potrebuje vrnitev k osnovam in opustitev logotipov. Eden od analitikov je izjavil: 'Naj bo barvna paleta spet normalna.' Delnice Lululemona tonejo proti najnižji zaključni vrednosti od maja 2018. To kaže na zaskrbljenost glede strategije podjetja in njegovega položaja na trgu oblačil za prosti čas. Opozorila analitikov poudarjajo, da bi moralo podjetje preusmeriti fokus na svoje temeljne izdelke in blagovno znamko, da bi si povrnilo zaupanje vlagateljev in potrošnikov.",
+      "analiza": "Opozorila analitikov glede strategije Lululemona in pozivi k 'vrnitvi k osnovam' so pomembni za sektor potrošniških dobrin, še posebej za podjetja v segmentu oblačil za prosti čas. Padec delnic Lululemona proti najnižji vrednosti od maja 2018 kaže na naraščajočo zaskrbljenost vlagateljev glede konkurenčnosti podjetja in njegove sposobnosti, da ohrani privlačnost blagovne znamke. V sektorju potrošniških dobrin so trendi in preference potrošnikov ključni. Če analitiki menijo, da se podjetje oddaljuje od svojih korenin ali ne uspeva ujeti pulza trga, to lahko pomeni zmanjšano prodajo in dobičkonosnost. Za delnice Lululemona je to negativno, saj odraža slabše poslovne obete. Vpliv na širši trg je omejen, vendar lahko služi kot opozorilo za druga podjetja v sektorju, da morajo ostati osredotočena na svoje temeljne vrednote in ciljno skupino. Valute, obveznice in surovine niso neposredno prizadete. Slovenski dolgoročni vlagatelj, ki ima naložbe v podjetja v sektorju potrošniških dobrin, bi moral razumeti, da je uspeh v tem segmentu močno odvisen od inovacij, blagovne znamke in sposobnosti prilagajanja spreminjajočim se okusom potrošnikov. Slabo upravljanje blagovne znamke lahko hitro privede do padca vrednosti delnic, zato je pomembno spremljati vodstvo in strategijo podjetij v portfelju.",
+      "vpliv": [
+        "Delnice Lululemona tonejo proti najnižji vrednosti od maja 2018",
+        "Analitiki pozivajo k 'vrnitvi k osnovam'",
+        "Zaskrbljenost glede strategije podjetja",
+        "Potencialno zmanjšanje prodaje in dobičkonosnosti"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/a-rudderless-lululemon-needs-to-ditch-logos-and-get-back-to-basics-analysts-say-0e120022?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-05T17:18:00.000Z"
     }
   ]
 }
