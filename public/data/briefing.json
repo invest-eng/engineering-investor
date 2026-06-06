@@ -1,112 +1,112 @@
 {
-  "generiranoOb": "2026-06-06T16:42:48.779Z",
+  "generiranoOb": "2026-06-06T16:55:42.601Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash-lite",
   "tier": "free",
   "datum": "2026-06-06",
-  "povzetek": "Evropski trgi so se danes zaprli ob mešanih občutkih, medtem ko se ameriški trgi odpirajo v ozadju novic o zaostrovanju geopolitičnih napetosti med ZDA in Iranom, ki vplivajo na cene nafte, in močnih podatkov o zaposlovanju v ZDA, ki bi lahko vplivali na obrestne mere. Tehnološki sektor je doživel padec, zlasti proizvajalci čipov, zaradi umirjanja vlagateljev v delnice z visoko rastjo in posledic o močnih podatkih o zaposlovanju. Vlagatelji se soočajo z negotovostjo glede prihodnjih IPO-jev velikih tehnoloških podjetij, kot je SpaceX, in z vprašanji o trajnosti vlaganj v umetno inteligenco, medtem ko se v Evropi nadaljujejo diplomatski napori za obvladovanje regionalnih konfliktov.",
+  "povzetek": "Popoldansko trgovanje na ameriških trgih poteka v senci novic o zaostrovanju geopolitičnih napetosti med ZDA in Iranom, ki so povzročile poskoke cen nafte in vplivajo na energetske trge. Hkrati močna ameriška poročila o zaposlovanju, ki nakazujejo na robustno gospodarstvo, hkrati pa povečujejo inflacijske skrbi, povzročajo negotovost na delniških trgih, zlasti v tehnološkem sektorju, kjer padajo cene čipov. V Evropi je dan zaznamovala novica o odstopu vodstva West Hama zaradi obtožb, medtem ko se nadaljujejo razprave o vplivu umetne inteligence na zaposlovanje in naložbene strategije. Športne novice, kot je zmaga ruske najstnice na Roland Garrosu in priprave na Svetovno prvenstvo 2026, sicer pritegnejo pozornost, a imajo manjši neposreden vpliv na finančne trge.",
   "novice": [
     {
-      "naslov": "ZDA in Iran zamenjata udarce, novi pritisk na krhek premirje",
+      "naslov": "ZDA in Iran izmenjata udarce, novi varnostni pomisleki za naftne trge",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "ZDA in Iran sta si izmenjali udarce, kar povečuje tveganje za krhko premirje. Kuvajt in Bahrajn sta bila tarča napadov, medtem ko so ameriške sile prestregle brezpilotne letalnike, izstreljene nad Hormuško ožino. Dogodek se je zgodil 6. junija 2026.",
-      "analiza": "Geopolitični incidenti med ZDA in Iranom, zlasti v regiji Hormuške ožine, imajo neposredne posledice za globalne energetske trge. Hormuška ožina je ključna pot za transport nafte, zato vsako zaostrovanje napetosti povzroči skokovit porast cen surove nafte, kot je bilo videti v preteklosti. Naftni tankerji, ki so nedavno beležili rekordne dobičke zaradi vojne v Iranu, se zdaj bojijo padca cen, če se bo ožina ponovno odprla. Ta dogodek lahko vpliva na delnice energetskih podjetij, obveznice pa bi lahko doživele povečano povpraševanje kot varno zatočišče. Valute držav v regiji so lahko nestabilne. Za slovenskega dolgoročnega vlagatelja to pomeni povečano negotovost na energetskih trgih in potencialno višje stroške energije, kar lahko vpliva na inflacijo in splošno gospodarsko rast.",
+      "povzetek": "ZDA in Iran sta izmenjala udarce, kar je povzročilo napetosti v regiji Hormuške ožine. Kuvajt je poročal o prestrezanju sedmih balističnih raket, Iran pa je bil vpleten v napade, ki so prizadeli tudi Bahrajn. To zaostrovanje je povzročilo zaskrbljenost glede stabilnosti dobave nafte. Vir: Financial Times, objavljeno 2026-06-06T14:16:53.000Z.",
+      "analiza": "Napetosti med ZDA in Iranom, ki so se stopnjevale z izmenjavo raketnih napadov, neposredno vplivajo na cene surove nafte. Hormuška ožina je ključna pomorska pot za transport nafte, zato kakršno koli zaostrovanje v regiji povzroči negotovost glede dobavne verige, kar se odraža v višjih cenah. Zgodovinsko gledano so geopolitični konflikti na Bližnjem vzhodu pogosto vodili do začasnih dvigov cen nafte. Kuvajtsko poročilo o prestrezanju raket in vpletenost Irana v napade na Bahrajn kažejo na širjenje konflikta. Posledično lahko vidimo rast cen nafte Brent in WTI, morebitno poslabšanje obvezniških trgov zaradi povečane inflacijske nevarnosti in potencialno nestanovitnost na delniških trgih, zlasti v sektorjih, ki so odvisni od nižjih cen energije. Za slovenskega dolgoročnega vlagatelja to pomeni povečano tveganje inflacije, ki lahko zmanjša kupno moč prihrankov, ter potencialno negotovost na globalnih delniških trgih.",
       "vpliv": [
-        "Cena nafte Brent zrasla za 3,4 % na 87,20 dolarja",
-        "Povečana nestabilnost valut v regiji",
-        "Potencialno povečanje stroškov energije za potrošnike",
-        "Negativni vpliv na delnice podjetij, ki so odvisna od stabilnih cen energije"
+        "Rast cen surove nafte",
+        "Povečana inflacijska pričakovanja",
+        "Negotovost na energetskih trgih",
+        "Potencialni dvig cen goriv"
       ],
       "vir": "Financial Times",
       "vir_url": "https://www.ft.com/content/ea62e338-1730-4fdd-996c-efcfe36561bf",
       "objavljeno": "2026-06-06T14:16:53.000Z"
     },
     {
-      "naslov": "Marvell, Micron delnice strmoglavijo, čipovni sektor doživel najslabši dan v 6 letih",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Delnice podjetij Marvell in Micron so močno padle, kar je povzročilo najslabši dan za čipovni sektor v zadnjih šestih letih. Vlagatelji se umikajo od delnic z visoko rastjo v luči močnih podatkov o zaposlovanju v ZDA. Novica je bila objavljena 6. junija 2026 ob 15:41 UTC.",
-      "analiza": "Padec delnic družb Marvell in Micron, ki sta ključna proizvajalca polprevodnikov, nakazuje širše umirjanje v tehnološkem sektorju, zlasti v segmentu čipov. Ta premik je posledica spremembe vlagateljskih preferenc, saj se vlagatelji odmikajo od delnic z visoko rastjo (momentum stocks) in se obračajo k bolj varnim naložbam, zlasti po objavi močnih podatkov o zaposlovanju v ZDA. Ti podatki bi lahko namreč spodbudili centralno banko k višjim obrestnim meram, kar negativno vpliva na vrednotenje rastočih podjetij. Dogodek je pomemben, ker čipovni sektor velja za temelj sodobne tehnologije, vključno z umetno inteligenco. Padec v tem sektorju lahko vpliva na celotno verigo dobave in na pričakovanja glede prihodnjih naložb v AI. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti previden pri naložbah v tehnološke delnice, zlasti tiste, ki so bile v zadnjem času močno napihnjene, in razmisliti o diverzifikaciji portfelja v bolj stabilne sektorje.",
-      "vpliv": [
-        "Indeks Philadelphia Semiconductor znižan za 5,2 %",
-        "Delnice Marvell padle za 7,8 %",
-        "Delnice Micron padle za 6,5 %",
-        "Povečana negotovost za vlagatelje v tehnološke ETF-e"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/marvell-micron-shares-tumble-as-the-chip-sector-suffers-its-worst-day-in-6-years-a7c1701a?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-06T15:41:00.000Z"
-    },
-    {
-      "naslov": "Busted AI proračuni pri Uberju, Microsoftu in Nvidii spodbujajo zaposlovanje",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetk": "Podjetja, kot so Uber, Microsoft in Nvidia, so porabila svoje proračune za umetno inteligenco (AI) pred rokom, kar pa paradoksalno vodi k povečanemu zaposlovanju. Uber je svoj celoten proračun za AI za leto 2026 porabil že aprila, saj se je izkazalo, da je zamenjava delavcev z boti dražja. Novica je bila objavljena 6. junija 2026 ob 15:55 UTC.",
-      "analiza": "Novica o porabljenih proračunih za AI pri vodilnih tehnoloških podjetjih, kot so Uber, Microsoft in Nvidia, ter posledičnem povečanju zaposlovanja, ponuja zanimiv vpogled v trenutne izzive na področju uvajanja umetne inteligence. Izkazalo se je, da avtomatizacija in zamenjava človeških delavcev z boti v nekaterih primerih ni tako stroškovno učinkovita, kot se je sprva zdelo. To lahko pomeni, da so človeški delavci še vedno cenovno ugodnejši ali pa da so potrebne drugačne strategije za integracijo AI. Vpliv na trge je lahko mešan: negativno za podjetja, ki so stavila na popolno avtomatizacijo, in pozitivno za tista, ki ponujajo storitve ali strokovnjake za podporo AI. Za slovenske vlagatelje to pomeni, da je treba pozorno spremljati, katera podjetja uspešno integrirajo AI in katera se soočajo s težavami, saj to lahko vpliva na njihovo dolgoročno konkurenčnost in donosnost.",
-      "vpliv": [
-        "Povečano povpraševanje po strokovnjakih za AI",
-        "Potencialno zmanjšanje naložb v nekatere avtomatizacijske rešitve",
-        "Večja pozornost na stroškovno učinkovitost AI implementacij",
-        "Mešani signali za delnice podjetij, ki so močno odvisne od avtomatizacije"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-job-market-is-actually-getting-a-boost-from-ai-turns-out-human-workers-are-cheaper-35b03640?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-06T15:55:00.000Z"
-    },
-    {
-      "naslov": "Ameriški trg dela je močan, a to ni dobra novica za delnice",
+      "naslov": "Močno poročilo o zaposlovanju v ZDA skrbi vlagatelje, čeprav je dobro za gospodarstvo",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Močni podatki o zaposlovanju v ZDA, objavljeni 6. junija 2026, so slaba novica za delniški trg, čeprav naj ne bi prisilili Federal Reserve k dvigu obrestnih mer. Rast plač ostaja zmerna, kar bi lahko pomagalo pri obvladovanju inflacije.",
-      "analiza": "Objavljeni podatki o zaposlovanju v ZDA kažejo na robustno okrevanje trga dela, kar je sicer pozitivno za gospodarstvo, vendar lahko predstavlja izziv za delniške trge. Močan trg dela pogosto pomeni večjo potrošnjo, kar pa lahko vodi do inflacijskih pritiskov. Vendar pa članek poudarja, da rast plač ostaja zmerna, kar bi lahko omogočilo Federal Reserve, da ne dvigne obrestnih mer, saj bi višje obrestne mere lahko zavrle ključne naložbe, potrebne za znižanje cen. Ta dvojnost ustvarja negotovost na trgih. Delnice bi lahko doživele pritisk zaradi strahu pred višjimi obrestnimi merami ali pa bi se lahko stabilizirale, če vlagatelji verjamejo, da Fed ne bo ukrepal. Obveznice bi lahko bile bolj privlačne v okolju stabilnih ali padajočih obrestnih mer. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba spremljati odločitve centralnih bank in njihov vpliv na obrestne mere, saj to neposredno vpliva na vrednotenje naložb in stroške zadolževanja.",
+      "povzetek": "Ameriško poročilo o zaposlovanju je pokazalo presenetljivo močno rast novih delovnih mest, kar je sicer znak zdravega gospodarstva, a hkrati povečuje skrbi glede inflacije in morebitnega obotavljanja Federal Reserve pri zniževanju obrestnih mer. To je negativno vplivalo na delniške trge, zlasti na tehnološki sektor. Vir: MarketWatch, objavljeno 2026-06-06T13:40:00.000Z.",
+      "analiza": "Močno poročilo o ameriškem trgu dela, ki je pogosto eden ključnih makroekonomskih kazalnikov, ima dvojni učinek. Na eni strani potrjuje robustnost ameriškega gospodarstva, kar je dolgoročno pozitivno. Na drugi strani pa močna rast zaposlovanja in potencialno višje plače lahko podžigajo inflacijske pritiske. To je slaba novica za obvezniške trge, saj zmanjšuje verjetnost hitrega znižanja obrestnih mer s strani Federal Reserve, kar bi lahko povzročilo rast donosnosti obveznic. Za delniške trge, še posebej za sektorje, ki so občutljivi na obrestne mere (kot je tehnologija), to pomeni potencialno negativni pritisk, saj višje obrestne mere zmanjšujejo sedanjo vrednost prihodnjih zaslužkov. Novica o \"blowout jobs report\" je v nasprotju z nekaterimi analizami, ki trdijo, da Fed ne bi smel spremeniti svoje politike zaradi tega poročila, saj bi dvig obrestnih mer zdaj lahko zavrl ključne naložbe za zniževanje cen. Za slovenskega dolgoročnega vlagatelja to pomeni nadaljnjo negotovost glede obrestnih mer in potencialno bolj nestanovitne delniške trge, kar zahteva previdnost pri alokaciji sredstev.",
       "vpliv": [
-        "Indeks S&P 500 zabeležil padec za 0,8 % po objavi podatkov",
-        "Donosnost 10-letnih ameriških obveznic narasla za 5 baznih točk",
-        "Ameriški dolar okrepil proti evru za 0,3 %",
-        "Povečana negotovost vlagateljev glede prihodnjih obrestnih mer"
+        "Negativni pritisk na delniške trge",
+        "Povečana negotovost glede obrestnih mer",
+        "Potencialna rast donosnosti obveznic",
+        "Okrepitev ameriškega dolarja"
       ],
       "vir": "MarketWatch",
       "vir_url": "https://www.marketwatch.com/story/the-blowout-jobs-report-is-bad-news-for-stocks-but-it-shouldnt-force-the-feds-hand-on-interest-rates-66eaa2b9?mod=mw_rss_topstories",
       "objavljeno": "2026-06-06T13:40:00.000Z"
     },
     {
-      "naslov": "SpaceX, Anthropic in drugi mega IPO-ji lahko pustijo vaš indeksni sklad brez sreče",
-      "sektor": "Finance",
-      "smer": "mešano",
+      "naslov": "Tehnološki sektor čipov doživlja najslabši dan v šestih letih",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Prihajajoči veliki javni vstopi (IPO) podjetij, kot sta SpaceX in Anthropic, bi lahko predstavljali izziv za vlagatelje v indeksne sklade. Pravila in časovnice vključevanja v indekse lahko povzročijo, da bodo nekateri vlagatelji zamudili priložnost za sodelovanje v teh potencialno donosnih naložbah. Novica je bila objavljena 6. junija 2026 ob 15:15 UTC.",
-      "analiza": "Napovedani veliki javni vstopi (IPO) tehnoloških velikanov, kot sta SpaceX in Anthropic, vzbujajo veliko zanimanja, vendar pa lahko pravila vključevanja v indekse povzročijo, da bodo vlagatelji v tradicionalnih indeksnih skladih zamudili te priložnosti. Indeksni skladi sledijo določenim indeksom (npr. S&P 500), v katere so podjetja vključena šele po izpolnitvi določenih kriterijev, vključno s časovnim zamikom po IPO-ju. To pomeni, da lahko vlagatelji v indeksnih skladih zamudijo začetno rast vrednosti teh podjetij. Hkrati pa članek omenja, da lahko SpaceX doseže izjemno visoko vrednotenje, kar postavlja pod vprašaj, ali lahko podjetje upraviči pričakovanja Wall Streeta. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti pozoren na sestavo svojih naložb in razmisliti o alternativnih načinih izpostavljenosti do potencialno uspešnih IPO-jev, če so ti v skladu z njegovo strategijo in toleranco do tveganja, ter se zavedati, da indeksni skladi morda ne bodo v celoti sledili vsem novim priložnostim.",
+      "povzetek": "Delnice podjetij Marvell in Micron so močno padle, kar je povzročilo najslabši dan za sektor čipov v zadnjih šestih letih. Vlagatelji se umikajo od delnic z visokim momentumom, deloma zaradi vpliva močnega poročila o zaposlovanju v ZDA. Vir: MarketWatch, objavljeno 2026-06-06T15:41:00.000Z.",
+      "analiza": "Padec delnic v sektorju polprevodnikov, kot sta Marvell in Micron, predstavlja pomemben premik na trgu. Ta sektor je bil v zadnjih letih gonilna sila rasti, zlasti zaradi povpraševanja po čipih za umetno inteligenco in druge napredne tehnologije. Najslabši dan v šestih letih nakazuje na splošno ohlajanje zanimanja vlagateljev za ta segment. Eden od razlogov je lahko sprememba naložbene strategije, kjer vlagatelji opuščajo delnice z visokim tveganjem in se obračajo k bolj \"varnim\" naložbam, kar je pogosto povezano z višjimi obrestnimi merami ali splošno negotovostjo na trgu. Povezava z močnim poročilom o zaposlovanju v ZDA nakazuje, da vlagatelji skrbijo za inflacijske posledice in morebitno obotavljanje centralnih bank pri zniževanju obrestnih mer. Posledično lahko vidimo nadaljnji pritisk na delnice tehnoloških podjetij, zlasti tistih, ki so močno odvisne od povpraševanja po novih čipih. Za slovenskega dolgoročnega vlagatelja to pomeni, da je lahko naložba v tehnološki sektor trenutno bolj tvegana, in da je smiselno razmisliti o diverzifikaciji portfelja v manj ciklične sektorje.",
       "vpliv": [
-        "Potencialno zmanjšanje donosnosti nekaterih indeksnih skladov",
-        "Povečano zanimanje za alternativne naložbene sklade ali neposredne nakupe delnic",
-        "Vprašanja o realnosti vrednotenja SpaceX-a pred IPO-jem",
-        "Potencialni premiki vlagateljskega kapitala stran od tradicionalnih skladov"
+        "Padanje cen delnic tehnoloških podjetij",
+        "Zmanjšanje investicij v sektor polprevodnikov",
+        "Potencialno zmanjšanje povpraševanja po čipih",
+        "Povečana volatilnost v tehnološkem sektorju"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/buying-into-spacex-anthropic-and-other-mega-ipos-could-be-a-problem-for-your-index-fund-3e7e968e?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-06T15:15:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/marvell-micron-shares-tumble-as-the-chip-sector-suffers-its-worst-day-in-6-years-a7c1701a?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-06T15:41:00.000Z"
     },
     {
-      "naslov": "Aktivisti motijo nemško vojaško razstavo zaradi prodaje orožja Izraelu",
-      "sektor": "Geopolitika",
+      "naslov": "Novi pristopi k iskanju delnic, ki izkoriščajo val umetne inteligence",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Članek opisuje naložbeno strategijo, ki se osredotoča na manj znana podjetja, vpletena v širitev infrastrukture za generativno umetno inteligenco, namesto na uveljavljene proizvajalce čipov. Poudarja, da obstajajo številni načini za vlaganje v ta rastoči sektor. Vir: MarketWatch, objavljeno 2026-06-06T16:21:00.000Z.",
+      "analiza": "V času, ko je umetna inteligenca (AI) v ospredju, se pojavljajo nove naložbene priložnosti. Ta članek izpostavlja strategijo iskanja \"skritih\" delnic, ki sodelujejo v ekosistemu AI, kar je pomembno za vlagatelje, ki želijo izkoristiti ta trend, a se izogibajo prenatrpanim in morda precenjenim delnicam velikih tehnoloških podjetij. Poudarek na infrastrukturi AI, ki vključuje ne le proizvajalce čipov, ampak tudi ponudnike storitev, programske opreme in druge povezane komponente, ponuja širši pogled na naložbene možnosti. V ozadju je rast povpraševanja po AI rešitvah, ki zahteva obsežno računalniško moč in podatkovno infrastrukturo. Mehanizem vpliva je v identifikaciji podjetij, ki bodo imela koristi od te rasti, ne glede na njihovo velikost. Posledice za delnice so potencialno višje donose pri izbranih, manj znanih podjetjih, medtem ko lahko tradicionalni velikani AI doživijo počasnejšo rast zaradi povečane konkurence ali zasičenosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je lahko raziskovanje alternativnih naložb v AI sektorju, ki presegajo uveljavljene igralce, koristno za diverzifikacijo in potencialno višje donose, vendar zahteva temeljito analizo in razumevanje posameznih podjetij.",
+      "vpliv": [
+        "Potencialno višji donosi pri manjših tehnoloških podjetjih",
+        "Diverzifikacija naložb v AI sektor",
+        "Povečano zanimanje za dobavitelje AI infrastrukture",
+        "Možnost izogibanja precenjenim delnicam"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/this-investing-strategy-digs-deeper-to-find-hidden-stocks-riding-the-ai-wave-2cfcccd9?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-06T16:21:00.000Z"
+    },
+    {
+      "naslov": "Uber, Microsoft in Nvidia zaradi proračunov za AI zaposlujejo ljudi",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Podjetja kot so Uber, Microsoft in Nvidia so porabila celotne proračune za umetno inteligenco že do aprila, kar je presenetljivo vodilo v povečano zaposlovanje, saj so človeški delavci cenejši od avtomatizacije. To kaže na nepričakovane izzive pri implementaciji AI rešitev. Vir: MarketWatch, objavljeno 2026-06-06T15:55:00.000Z.",
+      "analiza": "Novica o tem, da podjetja, kot so Uber, Microsoft in Nvidia, kljub velikim vlaganjem v umetno inteligenco (AI) povečujejo zaposlovanje, je zanimiva in kaže na kompleksnost prehoda na avtomatizacijo. Poročilo nakazuje, da so bili nekateri poskusi nadomestitve človeških delavcev z roboti ali AI rešitvami manj uspešni ali dražji, kot je bilo sprva predvideno. To lahko pomeni, da je razvoj in implementacija naprednih AI sistemov še vedno zahtevna in draga, ter da človeška delovna sila ostaja ključna za nekatere procese. Dejstvo, da so podjetja porabila svoje AI proračune že tako zgodaj v letu, lahko nakazuje na ambiciozne cilje ali podcenjevanje stroškov. Vpliv na delnice teh podjetij je lahko mešan: na eni strani kaže na težave pri optimizaciji stroškov z AI, na drugi strani pa na sposobnost prilagajanja in iskanja učinkovitih rešitev. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba na napredek AI gledati z realnimi pričakovanji; avtomatizacija ne bo nujno takoj vodila do zmanjšanja stroškov delovne sile, temveč lahko prinese nove izzive in priložnosti za tista podjetja, ki se znajo prilagoditi.",
+      "vpliv": [
+        "Povečana zaposlenost v tehnoloških podjetjih",
+        "Potencialno višji stroški razvoja AI",
+        "Previdnost pri pričakovanjih glede avtomatizacije",
+        "Dolgoročna rast povpraševanja po IT strokovnjakih"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-job-market-is-actually-getting-a-boost-from-ai-turns-out-human-workers-are-cheaper-35b03640?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-06T15:55:00.000Z"
+    },
+    {
+      "naslov": "Odstop vodstva West Hama zaradi obtožb pred objavo resnih zgodovinskih navedb",
+      "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 1,
-      "povzetek": "Aktivisti so prekinili nemško vojaško razstavo zaradi prodaje orožja Izraelu. Dogodek se je zgodil 6. junija 2026.",
-      "analiza": "Protest aktivistov na nemški vojaški razstavi zaradi prodaje orožja Izraelu odraža širše geopolitične napetosti in etične dileme glede mednarodne trgovine z orožjem. Takšni dogodki lahko vplivajo na diplomatske odnose med državami in na ugled podjetij, ki se ukvarjajo z obrambno industrijo. Čeprav neposrednega finančnega vpliva na globalne trge morda ni, lahko takšne novice prispevajo k splošni negotovosti in vplivajo na odločitve vlagateljev, ki se izogibajo podjetjem z vprašljivim poslovnim etičnim profilom. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno slediti širšim geopolitičnim trendom in njihovim posledicam na mednarodne odnose ter na podjetja, ki delujejo v občutljivih sektorjih.",
+      "povzetek": "David Sullivan, soustanovitelj nogometnega kluba West Ham, je odstopil, tik pred objavo resnih zgodovinskih obtožb. Njegov odstop prihaja le dva tedna po izpadu kluba iz Premier lige. Vir: Financial Times, objavljeno 2026-06-06T16:27:40.000Z.",
+      "analiza": "Odstop vodstva nogometnega kluba West Ham zaradi navedb o domnevnih zgodovinskih nepravilnostih je dogodek, ki ima predvsem vpliv na ugled kluba in morebitne pravne posledice. Finančni vpliv na širše trge je verjetno omejen, razen če obtožbe ne razkrijejo širših finančnih nepravilnosti v nogometni industriji ali če ne vplivajo na vrednost kluba na dolgi rok. Izpad iz Premier lige sam po sebi predstavlja pomemben finančni udarec za klub zaradi nižjih prihodkov od televizijskih pravic in sponzorstev. Obtožbe pa lahko dodatno zmanjšajo vrednost kluba in otežijo privabljanje novih vlagateljev ali sponzorjev. V kontekstu financ, to lahko pomeni, da so vlaganja v športne klube lahko izpostavljena tudi netržnim tveganjem, kot so pravne težave in škandal. Za slovenskega dolgoročnega vlagatelja, ki morda spremlja tudi mednarodne športne naložbe, je to opomnik na pomen skrbnega pregleda (due diligence) in razumevanja vseh tveganj, povezanih z vlaganji v podjetja, ki so izpostavljena javnemu mnenju in morebitnim pravnim sporom.",
       "vpliv": [
-        "Potencialni diplomatski zapleti med Nemčijo in Izraelom",
-        "Povečana pozornost javnosti na trgovino z orožjem",
-        "Možen pritisk na podjetja v obrambni industriji",
-        "Vpliv na javno mnenje glede vojaške porabe"
+        "Negativni vpliv na ugled kluba West Ham",
+        "Potencialno zmanjšanje vrednosti kluba",
+        "Povečana previdnost vlagateljev v športne klube",
+        "Možni pravni stroški za klub"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/activists-disrupt-german-military-exhibit-over-arms-sales-to-israel?traffic_source=rss",
-      "objavljeno": "2026-06-06T15:34:47.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/f99cb19b-cea8-4908-9b3d-afb2e0d83632",
+      "objavljeno": "2026-06-06T16:27:40.000Z"
     }
   ]
 }
