@@ -1,112 +1,112 @@
 {
-  "generiranoOb": "2026-06-05T17:44:54.446Z",
+  "generiranoOb": "2026-06-06T16:55:42.601Z",
   "izdaja": "afternoon",
-  "model": "gemini-2.5-flash",
+  "model": "gemini-2.5-flash-lite",
   "tier": "free",
-  "datum": "2026-06-05",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v senci zaskrbljenosti glede makroekonomskih gibanj, medtem ko so ameriški trgi, odprti že dve uri, pokazali izrazito negativno smer. Nasdaq je padel za 3 %, kar je posledica rastočih pričakovanj o dvigu obrestnih mer s strani Federal Reserve po objavi robustnega poročila o delovnih mestih v ZDA, ki je pokazalo dodanih 172.000 delovnih mest v maju. To je povzročilo oster dvig donosov na ameriške obveznice in pritisk na delnice tehnoloških podjetij. V Evropi je irsko gospodarstvo zabeležilo 'osupljiv' padec, kar je evroobmočje potisnilo v recesijo, čeprav je irski BDP znan po svoji volatilnosti zaradi multinacionalk. Geopolitične napetosti, zlasti opozorila Svetovnega programa za hrano (WFP) o vplivu morebitne vojne z Iranom na lakoto, so dodale negotovost. Med posameznimi podjetji je Boeing napovedal začetek proizvodnje 737 Max na novi liniji 6. julija, kar nakazuje povečanje proizvodnje na 52 letal mesečno, medtem ko je J.P. Morgan končal svoje medvedje priporočilo za Teslo, ki je napovedovalo 65-odstotni padec delnic, kar je prineslo nekaj olajšanja v sektor električnih vozil.",
+  "datum": "2026-06-06",
+  "povzetek": "Popoldansko trgovanje na ameriških trgih poteka v senci novic o zaostrovanju geopolitičnih napetosti med ZDA in Iranom, ki so povzročile poskoke cen nafte in vplivajo na energetske trge. Hkrati močna ameriška poročila o zaposlovanju, ki nakazujejo na robustno gospodarstvo, hkrati pa povečujejo inflacijske skrbi, povzročajo negotovost na delniških trgih, zlasti v tehnološkem sektorju, kjer padajo cene čipov. V Evropi je dan zaznamovala novica o odstopu vodstva West Hama zaradi obtožb, medtem ko se nadaljujejo razprave o vplivu umetne inteligence na zaposlovanje in naložbene strategije. Športne novice, kot je zmaga ruske najstnice na Roland Garrosu in priprave na Svetovno prvenstvo 2026, sicer pritegnejo pozornost, a imajo manjši neposreden vpliv na finančne trge.",
   "novice": [
     {
-      "naslov": "Nasdaq strmoglavil za 3 % ob padcu delnic polprevodniških podjetij",
+      "naslov": "ZDA in Iran izmenjata udarce, novi varnostni pomisleki za naftne trge",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "ZDA in Iran sta izmenjala udarce, kar je povzročilo napetosti v regiji Hormuške ožine. Kuvajt je poročal o prestrezanju sedmih balističnih raket, Iran pa je bil vpleten v napade, ki so prizadeli tudi Bahrajn. To zaostrovanje je povzročilo zaskrbljenost glede stabilnosti dobave nafte. Vir: Financial Times, objavljeno 2026-06-06T14:16:53.000Z.",
+      "analiza": "Napetosti med ZDA in Iranom, ki so se stopnjevale z izmenjavo raketnih napadov, neposredno vplivajo na cene surove nafte. Hormuška ožina je ključna pomorska pot za transport nafte, zato kakršno koli zaostrovanje v regiji povzroči negotovost glede dobavne verige, kar se odraža v višjih cenah. Zgodovinsko gledano so geopolitični konflikti na Bližnjem vzhodu pogosto vodili do začasnih dvigov cen nafte. Kuvajtsko poročilo o prestrezanju raket in vpletenost Irana v napade na Bahrajn kažejo na širjenje konflikta. Posledično lahko vidimo rast cen nafte Brent in WTI, morebitno poslabšanje obvezniških trgov zaradi povečane inflacijske nevarnosti in potencialno nestanovitnost na delniških trgih, zlasti v sektorjih, ki so odvisni od nižjih cen energije. Za slovenskega dolgoročnega vlagatelja to pomeni povečano tveganje inflacije, ki lahko zmanjša kupno moč prihrankov, ter potencialno negotovost na globalnih delniških trgih.",
+      "vpliv": [
+        "Rast cen surove nafte",
+        "Povečana inflacijska pričakovanja",
+        "Negotovost na energetskih trgih",
+        "Potencialni dvig cen goriv"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/ea62e338-1730-4fdd-996c-efcfe36561bf",
+      "objavljeno": "2026-06-06T14:16:53.000Z"
+    },
+    {
+      "naslov": "Močno poročilo o zaposlovanju v ZDA skrbi vlagatelje, čeprav je dobro za gospodarstvo",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Ameriško poročilo o zaposlovanju je pokazalo presenetljivo močno rast novih delovnih mest, kar je sicer znak zdravega gospodarstva, a hkrati povečuje skrbi glede inflacije in morebitnega obotavljanja Federal Reserve pri zniževanju obrestnih mer. To je negativno vplivalo na delniške trge, zlasti na tehnološki sektor. Vir: MarketWatch, objavljeno 2026-06-06T13:40:00.000Z.",
+      "analiza": "Močno poročilo o ameriškem trgu dela, ki je pogosto eden ključnih makroekonomskih kazalnikov, ima dvojni učinek. Na eni strani potrjuje robustnost ameriškega gospodarstva, kar je dolgoročno pozitivno. Na drugi strani pa močna rast zaposlovanja in potencialno višje plače lahko podžigajo inflacijske pritiske. To je slaba novica za obvezniške trge, saj zmanjšuje verjetnost hitrega znižanja obrestnih mer s strani Federal Reserve, kar bi lahko povzročilo rast donosnosti obveznic. Za delniške trge, še posebej za sektorje, ki so občutljivi na obrestne mere (kot je tehnologija), to pomeni potencialno negativni pritisk, saj višje obrestne mere zmanjšujejo sedanjo vrednost prihodnjih zaslužkov. Novica o \"blowout jobs report\" je v nasprotju z nekaterimi analizami, ki trdijo, da Fed ne bi smel spremeniti svoje politike zaradi tega poročila, saj bi dvig obrestnih mer zdaj lahko zavrl ključne naložbe za zniževanje cen. Za slovenskega dolgoročnega vlagatelja to pomeni nadaljnjo negotovost glede obrestnih mer in potencialno bolj nestanovitne delniške trge, kar zahteva previdnost pri alokaciji sredstev.",
+      "vpliv": [
+        "Negativni pritisk na delniške trge",
+        "Povečana negotovost glede obrestnih mer",
+        "Potencialna rast donosnosti obveznic",
+        "Okrepitev ameriškega dolarja"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-blowout-jobs-report-is-bad-news-for-stocks-but-it-shouldnt-force-the-feds-hand-on-interest-rates-66eaa2b9?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-06T13:40:00.000Z"
+    },
+    {
+      "naslov": "Tehnološki sektor čipov doživlja najslabši dan v šestih letih",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Ameriški tehnološki indeks Nasdaq je danes padel za 3 %, kar je predvsem posledica močnega padca delnic proizvajalcev čipov in pomnilniških skupin. Ta padec je bil sprožen z naraščajočimi pričakovanji o dvigu obrestnih mer s strani Federal Reserve, kar je povzročilo oster dvig donosov na ameriške obveznice. Vlagatelji so se preusmerili iz visoko vrednotenih tehnoloških delnic, ki so občutljive na višje obrestne mere, v bolj varne naložbe. Poročilo Financial Timesa je poudarilo, da so se donosi ameriških obveznic močno zvišali, kar je neposredno vplivalo na razpoloženje na trgu. To kaže na precejšnjo spremembo v pričakovanjih glede monetarne politike ZDA.",
-      "analiza": "Padec indeksa Nasdaq za 3 % in s tem povezan padec delnic v sektorju polprevodnikov je neposredna posledica spremenjenih pričakovanj glede monetarne politike Federal Reserve. Močno poročilo o delovnih mestih je povečalo verjetnost, da bo Fed agresivneje dvignil obrestne mere, kar je dvignilo donose na obveznice. Višji donosi na obveznice zmanjšujejo privlačnost delnic, še posebej tistih rastnih podjetij v tehnološkem sektorju, katerih vrednotenje je močno odvisno od prihodnjih denarnih tokov. Ko se diskontna stopnja zviša, se sedanja vrednost teh prihodnjih tokov zmanjša. Za delnice to pomeni pritisk navzdol, še posebej za podjetja z visokimi razmerji med ceno in dobičkom. Vpliv na obveznice je bil negativen, saj so se njihove cene znižale, donosi pa zvišali. Dolar bi lahko pridobil na vrednosti zaradi pričakovanih višjih obrestnih mer. Slovenski dolgoročni vlagatelj, ki ima izpostavljenost do globalnih tehnoloških skladov ali posameznih delnic, bi moral biti pozoren na to dinamiko. Čeprav kratkoročni padci niso nenavadni, je pomembno razumeti, da spremembe v monetarni politiki vplivajo na vrednotenja in lahko povzročijo daljša obdobja volatilnosti, kar zahteva preudarno dolgoročno strategijo.",
-      "vpliv": [
-        "Nasdaq padec za 3 %",
-        "Padec delnic čipov in pomnilniških skupin",
-        "Dvig donosov na ameriške obveznice",
-        "Pritisk na rastne delnice"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/2929bbd3-1f71-4424-a577-f016c3c65603",
-      "objavljeno": "2026-06-05T17:07:19.000Z"
-    },
-    {
-      "naslov": "Vlagatelji povečujejo stave na dvig obrestnih mer Feda po močnem poročilu o delovnih mestih",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Vlagatelji so po objavi močnega poročila o delovnih mestih v ZDA povečali svoja pričakovanja glede dviga obrestnih mer s strani Federal Reserve. Ameriško gospodarstvo je v maju dodalo 172.000 delovnih mest, kar je preseglo pričakovanja in nakazuje, da se trg dela 'obrača na bolje'. To močno poročilo je okrepilo prepričanje, da bo Fed nadaljeval z zaostrovanjem monetarne politike, da bi zajezil inflacijo. Posledično so se zvišali donosi na ameriške državne obveznice, kar je povzročilo pritisk na delniške trge, še posebej na sektorje, ki so občutljivi na obrestne mere. To je ključni dejavnik, ki vpliva na globalno finančno stabilnost in vrednotenja sredstev.",
-      "analiza": "Močno poročilo o delovnih mestih v ZDA, ki je pokazalo dodanih 172.000 delovnih mest v maju, je ključni makroekonomski podatek, ki neposredno vpliva na pričakovanja glede monetarne politike Federal Reserve. Močan trg dela običajno pomeni večjo kupno moč potrošnikov in potencial za inflacijske pritiske. V takšnem okolju centralne banke pogosto dvignejo obrestne mere, da preprečijo pregrevanje gospodarstva. Mehanizem vpliva je jasen: višje obrestne mere pomenijo dražje zadolževanje za podjetja in potrošnike, kar lahko upočasni gospodarsko rast. Za obveznice to pomeni padec cen in rast donosov, saj vlagatelji zahtevajo višje donose za tveganje. Za delnice, še posebej rastne, je to negativno, saj se zmanjša sedanja vrednost prihodnjih dobičkov. Dolar se običajno okrepi, saj višje obrestne mere privabljajo tuje vlagatelje. Slovenski dolgoročni vlagatelj mora razumeti, da so odločitve Feda ključne za globalne trge. Čeprav to ni neposreden nasvet, je pomembno spremljati gibanje obrestnih mer in njihov vpliv na različne razrede sredstev, saj lahko to vpliva na donosnost portfelja v daljšem časovnem obdobju.",
-      "vpliv": [
-        "ZDA dodale 172.000 delovnih mest v maju",
-        "Povečana pričakovanja za dvig obrestnih mer Feda",
-        "Dvig donosov na ameriške obveznice",
-        "Pritisk na delniške trge"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/ab37709f-9b5e-493c-902c-a87cba23b493",
-      "objavljeno": "2026-06-05T16:19:21.000Z"
-    },
-    {
-      "naslov": "Osupljiv irski padec potisnil gospodarstvo evroobmočja v obratno smer",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Irska je zabeležila 'osupljiv' padec gospodarske aktivnosti, kar je prispevalo k temu, da se je celotno gospodarstvo evroobmočja obrnilo v negativno smer. Ekonomisti opozarjajo, da je irski BDP 'nemogoče' napovedati zaradi velikih čezmejnih tokov, ki jih ustvarjajo multinacionalna podjetja. Kljub temu ta podatek poudarja ranljivost in kompleksnost merjenja gospodarske uspešnosti v regijah z visoko stopnjo globalizacije. Padec irskega gospodarstva, ne glede na njegove strukturne značilnosti, je negativen signal za širše evroobmočje in lahko vpliva na zaupanje vlagateljev v regionalno gospodarstvo.",
-      "analiza": "Padec irskega gospodarstva, čeprav je njegov BDP znan po visoki volatilnosti zaradi prisotnosti velikih multinacionalnih podjetij, ki lahko umetno napihnejo ali zmanjšajo številke zaradi davčnih razlogov, je vseeno pomemben signal za evroobmočje. Ta 'osupljiv' padec prispeva k splošni percepciji šibkosti v regiji in lahko vpliva na odločitve Evropske centralne banke (ECB) glede monetarne politike. Če se šibkost razširi, bi ECB lahko bila pod pritiskom, da ohrani nižje obrestne mere ali celo razmisli o spodbujevalnih ukrepih. To bi lahko imelo posledice za vrednost evra, ki bi lahko oslabel v primerjavi z drugimi glavnimi valutami. Evropske delnice bi lahko občutile pritisk, še posebej tiste, ki so močno odvisne od domačega povpraševanja. Donosi na evropske obveznice bi lahko ostali nizki ali celo padli. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati splošno zdravje evroobmočja, saj je Slovenija njegov sestavni del. Šibkost v večjih gospodarstvih ali ključnih članicah lahko vpliva na izvozne možnosti in splošno gospodarsko rast v regiji, kar posredno vpliva tudi na domače naložbe.",
+      "povzetek": "Delnice podjetij Marvell in Micron so močno padle, kar je povzročilo najslabši dan za sektor čipov v zadnjih šestih letih. Vlagatelji se umikajo od delnic z visokim momentumom, deloma zaradi vpliva močnega poročila o zaposlovanju v ZDA. Vir: MarketWatch, objavljeno 2026-06-06T15:41:00.000Z.",
+      "analiza": "Padec delnic v sektorju polprevodnikov, kot sta Marvell in Micron, predstavlja pomemben premik na trgu. Ta sektor je bil v zadnjih letih gonilna sila rasti, zlasti zaradi povpraševanja po čipih za umetno inteligenco in druge napredne tehnologije. Najslabši dan v šestih letih nakazuje na splošno ohlajanje zanimanja vlagateljev za ta segment. Eden od razlogov je lahko sprememba naložbene strategije, kjer vlagatelji opuščajo delnice z visokim tveganjem in se obračajo k bolj \"varnim\" naložbam, kar je pogosto povezano z višjimi obrestnimi merami ali splošno negotovostjo na trgu. Povezava z močnim poročilom o zaposlovanju v ZDA nakazuje, da vlagatelji skrbijo za inflacijske posledice in morebitno obotavljanje centralnih bank pri zniževanju obrestnih mer. Posledično lahko vidimo nadaljnji pritisk na delnice tehnoloških podjetij, zlasti tistih, ki so močno odvisne od povpraševanja po novih čipih. Za slovenskega dolgoročnega vlagatelja to pomeni, da je lahko naložba v tehnološki sektor trenutno bolj tvegana, in da je smiselno razmisliti o diverzifikaciji portfelja v manj ciklične sektorje.",
       "vpliv": [
-        "Irska zabeležila 'osupljiv' padec",
-        "Evroobmočje potisnjeno v obratno smer",
-        "Pritisk na vrednost evra",
-        "Vpliv na evropske delnice"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/be3ab4de-0a3f-4942-bd94-6180289142f8",
-      "objavljeno": "2026-06-05T14:36:49.000Z"
-    },
-    {
-      "naslov": "Boeing bo 6. julija začel proizvodnjo 737 Max na novi montažni liniji",
-      "sektor": "Potrošniki",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Izvršni direktor Boeinga je napovedal, da bo podjetje 6. julija začelo proizvodnjo letal 737 Max na novi montažni liniji v Everettu v Washingtonu. Ta nova linija bo služila kot katalizator za povečanje proizvodnje letal Max na 52 letal na mesec. Novica je pomembna za letalsko industrijo in Boeing, saj nakazuje na okrevanje in širitev proizvodnih zmogljivosti po preteklih izzivih. Povečanje proizvodnje bo vplivalo na celotno dobavno verigo in lahko pomeni pozitivne gospodarske učinke v sektorju letalstva.",
-      "analiza": "Napoved Boeinga o začetku proizvodnje letal 737 Max na novi montažni liniji 6. julija in načrtovano povečanje proizvodnje na 52 letal na mesec je pomembna pozitivna novica za podjetje in širši letalski sektor. Po preteklih težavah z letali 737 Max in pandemiji COVID-19, ki je močno prizadela letalski promet, ta poteza signalizira okrevanje in zaupanje v prihodnje povpraševanje. Povečana proizvodnja pomeni več prihodkov za Boeing, kar je pozitivno za delnice podjetja. Prav tako bo to spodbudilo celotno dobavno verigo, vključno z dobavitelji delov in komponent, kar bo imelo širši pozitiven vpliv na industrijski sektor. Posledice za delnice Boeinga so pozitivne, saj to kaže na operativno izboljšanje in rast. Za obveznice podjetja to pomeni večjo stabilnost. Vpliv na valute in surovine je posreden, vendar lahko povečano industrijsko povpraševanje vpliva na cene nekaterih materialov. Slovenski dolgoročni vlagatelj, ki ima izpostavljenost do globalnih industrijskih ali letalskih podjetij, bi moral to novico razumeti kot znak okrevanja in rasti v sektorju, kar lahko prispeva k stabilnosti in donosnosti naložb v tem segmentu.",
-      "vpliv": [
-        "Boeing začne proizvodnjo 737 Max 6. julija",
-        "Povečanje proizvodnje na 52 letal mesečno",
-        "Pozitiven vpliv na delnice Boeinga",
-        "Spodbuda za letalsko dobavno verigo"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/06/05/boeing-ceo-737-max-production-assembly-line.html",
-      "objavljeno": "2026-06-05T16:56:31.000Z"
-    },
-    {
-      "naslov": "J.P. Morgan opustil medvedje priporočilo za Teslo, ki je napovedovalo 65 % padec",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "J.P. Morgan je končal svoje prejšnje medvedje priporočilo za delnice Tesle, ki je napovedovalo 65-odstotni padec vrednosti. Novi analitik je prevzel pokritost Tesle in ima manj pesimističen pogled na podjetje Elona Muska, ki proizvaja električna vozila. Ta sprememba v analitskem mnenju je pomembna, saj lahko vpliva na sentiment vlagateljev in gibanje delnic Tesle, ki je ključni igralec v sektorju električnih vozil. Prekinitev tako močnega medvedjega priporočila lahko prinese olajšanje in potencialno stabilizacijo za delnice podjetja.",
-      "analiza": "Odločitev J.P. Morgana, da opusti svoje prejšnje medvedje priporočilo za Teslo, ki je napovedovalo drastičen 65-odstotni padec delnic, je pomembna novica za finančne trge in sektor električnih vozil. Analitska priporočila velikih investicijskih bank imajo pogosto pomemben vpliv na sentiment vlagateljev in kratkoročno gibanje cen delnic. Prehod na manj pesimističen pogled s strani novega analitika lahko signalizira, da so se nekateri dejavniki tveganja, ki so prej upravičevali medvedje priporočilo, zmanjšali, ali pa da trg že vključuje te dejavnike v ceno. Za delnice Tesle je to pozitivno, saj odpravlja velik pritisk navzdol in lahko spodbudi nakupovalno razpoloženje. Vpliv na širši sektor električnih vozil je lahko mešan; medtem ko je Tesla vodilna, spremembe v njenem vrednotenju lahko vplivajo na celotno industrijo. Valute in surovine niso neposredno prizadete, razen če sprememba priporočila odraža širše makroekonomske spremembe. Slovenski dolgoročni vlagatelj bi moral to novico razumeti kot spremembo v percepciji tveganja za specifično podjetje. Čeprav analitska priporočila niso finančni nasveti, nudijo vpogled v mnenja strokovnjakov in lahko pomagajo pri razumevanju tržnih pričakovanj, kar je koristno pri ocenjevanju dolgoročnega potenciala naložb v tehnološka podjetja.",
-      "vpliv": [
-        "J.P. Morgan opustil medvedje priporočilo za Teslo",
-        "Prejšnje priporočilo napovedovalo 65 % padec",
-        "Manj pesimističen pogled na Teslo",
-        "Potencialna stabilizacija delnic Tesle"
+        "Padanje cen delnic tehnoloških podjetij",
+        "Zmanjšanje investicij v sektor polprevodnikov",
+        "Potencialno zmanjšanje povpraševanja po čipih",
+        "Povečana volatilnost v tehnološkem sektorju"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/j-p-morgan-ends-bearish-tesla-call-that-was-predicting-a-65-stock-drop-95728e66?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-05T13:50:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/marvell-micron-shares-tumble-as-the-chip-sector-suffers-its-worst-day-in-6-years-a7c1701a?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-06T15:41:00.000Z"
     },
     {
-      "naslov": "Lululemon potrebuje vrnitev k osnovam, analitiki opozarjajo na 'brezkompromisno' smer",
-      "sektor": "Potrošniki",
+      "naslov": "Novi pristopi k iskanju delnic, ki izkoriščajo val umetne inteligence",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Članek opisuje naložbeno strategijo, ki se osredotoča na manj znana podjetja, vpletena v širitev infrastrukture za generativno umetno inteligenco, namesto na uveljavljene proizvajalce čipov. Poudarja, da obstajajo številni načini za vlaganje v ta rastoči sektor. Vir: MarketWatch, objavljeno 2026-06-06T16:21:00.000Z.",
+      "analiza": "V času, ko je umetna inteligenca (AI) v ospredju, se pojavljajo nove naložbene priložnosti. Ta članek izpostavlja strategijo iskanja \"skritih\" delnic, ki sodelujejo v ekosistemu AI, kar je pomembno za vlagatelje, ki želijo izkoristiti ta trend, a se izogibajo prenatrpanim in morda precenjenim delnicam velikih tehnoloških podjetij. Poudarek na infrastrukturi AI, ki vključuje ne le proizvajalce čipov, ampak tudi ponudnike storitev, programske opreme in druge povezane komponente, ponuja širši pogled na naložbene možnosti. V ozadju je rast povpraševanja po AI rešitvah, ki zahteva obsežno računalniško moč in podatkovno infrastrukturo. Mehanizem vpliva je v identifikaciji podjetij, ki bodo imela koristi od te rasti, ne glede na njihovo velikost. Posledice za delnice so potencialno višje donose pri izbranih, manj znanih podjetjih, medtem ko lahko tradicionalni velikani AI doživijo počasnejšo rast zaradi povečane konkurence ali zasičenosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je lahko raziskovanje alternativnih naložb v AI sektorju, ki presegajo uveljavljene igralce, koristno za diverzifikacijo in potencialno višje donose, vendar zahteva temeljito analizo in razumevanje posameznih podjetij.",
+      "vpliv": [
+        "Potencialno višji donosi pri manjših tehnoloških podjetjih",
+        "Diverzifikacija naložb v AI sektor",
+        "Povečano zanimanje za dobavitelje AI infrastrukture",
+        "Možnost izogibanja precenjenim delnicam"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/this-investing-strategy-digs-deeper-to-find-hidden-stocks-riding-the-ai-wave-2cfcccd9?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-06T16:21:00.000Z"
+    },
+    {
+      "naslov": "Uber, Microsoft in Nvidia zaradi proračunov za AI zaposlujejo ljudi",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Podjetja kot so Uber, Microsoft in Nvidia so porabila celotne proračune za umetno inteligenco že do aprila, kar je presenetljivo vodilo v povečano zaposlovanje, saj so človeški delavci cenejši od avtomatizacije. To kaže na nepričakovane izzive pri implementaciji AI rešitev. Vir: MarketWatch, objavljeno 2026-06-06T15:55:00.000Z.",
+      "analiza": "Novica o tem, da podjetja, kot so Uber, Microsoft in Nvidia, kljub velikim vlaganjem v umetno inteligenco (AI) povečujejo zaposlovanje, je zanimiva in kaže na kompleksnost prehoda na avtomatizacijo. Poročilo nakazuje, da so bili nekateri poskusi nadomestitve človeških delavcev z roboti ali AI rešitvami manj uspešni ali dražji, kot je bilo sprva predvideno. To lahko pomeni, da je razvoj in implementacija naprednih AI sistemov še vedno zahtevna in draga, ter da človeška delovna sila ostaja ključna za nekatere procese. Dejstvo, da so podjetja porabila svoje AI proračune že tako zgodaj v letu, lahko nakazuje na ambiciozne cilje ali podcenjevanje stroškov. Vpliv na delnice teh podjetij je lahko mešan: na eni strani kaže na težave pri optimizaciji stroškov z AI, na drugi strani pa na sposobnost prilagajanja in iskanja učinkovitih rešitev. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba na napredek AI gledati z realnimi pričakovanji; avtomatizacija ne bo nujno takoj vodila do zmanjšanja stroškov delovne sile, temveč lahko prinese nove izzive in priložnosti za tista podjetja, ki se znajo prilagoditi.",
+      "vpliv": [
+        "Povečana zaposlenost v tehnoloških podjetjih",
+        "Potencialno višji stroški razvoja AI",
+        "Previdnost pri pričakovanjih glede avtomatizacije",
+        "Dolgoročna rast povpraševanja po IT strokovnjakih"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-job-market-is-actually-getting-a-boost-from-ai-turns-out-human-workers-are-cheaper-35b03640?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-06T15:55:00.000Z"
+    },
+    {
+      "naslov": "Odstop vodstva West Hama zaradi obtožb pred objavo resnih zgodovinskih navedb",
+      "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 1,
-      "povzetek": "Analitiki opozarjajo, da podjetje Lululemon, ki je 'brezkompromisno', potrebuje vrnitev k osnovam in opustitev logotipov. Eden od analitikov je izjavil: 'Naj bo barvna paleta spet normalna.' Delnice Lululemona tonejo proti najnižji zaključni vrednosti od maja 2018. To kaže na zaskrbljenost glede strategije podjetja in njegovega položaja na trgu oblačil za prosti čas. Opozorila analitikov poudarjajo, da bi moralo podjetje preusmeriti fokus na svoje temeljne izdelke in blagovno znamko, da bi si povrnilo zaupanje vlagateljev in potrošnikov.",
-      "analiza": "Opozorila analitikov glede strategije Lululemona in pozivi k 'vrnitvi k osnovam' so pomembni za sektor potrošniških dobrin, še posebej za podjetja v segmentu oblačil za prosti čas. Padec delnic Lululemona proti najnižji vrednosti od maja 2018 kaže na naraščajočo zaskrbljenost vlagateljev glede konkurenčnosti podjetja in njegove sposobnosti, da ohrani privlačnost blagovne znamke. V sektorju potrošniških dobrin so trendi in preference potrošnikov ključni. Če analitiki menijo, da se podjetje oddaljuje od svojih korenin ali ne uspeva ujeti pulza trga, to lahko pomeni zmanjšano prodajo in dobičkonosnost. Za delnice Lululemona je to negativno, saj odraža slabše poslovne obete. Vpliv na širši trg je omejen, vendar lahko služi kot opozorilo za druga podjetja v sektorju, da morajo ostati osredotočena na svoje temeljne vrednote in ciljno skupino. Valute, obveznice in surovine niso neposredno prizadete. Slovenski dolgoročni vlagatelj, ki ima naložbe v podjetja v sektorju potrošniških dobrin, bi moral razumeti, da je uspeh v tem segmentu močno odvisen od inovacij, blagovne znamke in sposobnosti prilagajanja spreminjajočim se okusom potrošnikov. Slabo upravljanje blagovne znamke lahko hitro privede do padca vrednosti delnic, zato je pomembno spremljati vodstvo in strategijo podjetij v portfelju.",
+      "povzetek": "David Sullivan, soustanovitelj nogometnega kluba West Ham, je odstopil, tik pred objavo resnih zgodovinskih obtožb. Njegov odstop prihaja le dva tedna po izpadu kluba iz Premier lige. Vir: Financial Times, objavljeno 2026-06-06T16:27:40.000Z.",
+      "analiza": "Odstop vodstva nogometnega kluba West Ham zaradi navedb o domnevnih zgodovinskih nepravilnostih je dogodek, ki ima predvsem vpliv na ugled kluba in morebitne pravne posledice. Finančni vpliv na širše trge je verjetno omejen, razen če obtožbe ne razkrijejo širših finančnih nepravilnosti v nogometni industriji ali če ne vplivajo na vrednost kluba na dolgi rok. Izpad iz Premier lige sam po sebi predstavlja pomemben finančni udarec za klub zaradi nižjih prihodkov od televizijskih pravic in sponzorstev. Obtožbe pa lahko dodatno zmanjšajo vrednost kluba in otežijo privabljanje novih vlagateljev ali sponzorjev. V kontekstu financ, to lahko pomeni, da so vlaganja v športne klube lahko izpostavljena tudi netržnim tveganjem, kot so pravne težave in škandal. Za slovenskega dolgoročnega vlagatelja, ki morda spremlja tudi mednarodne športne naložbe, je to opomnik na pomen skrbnega pregleda (due diligence) in razumevanja vseh tveganj, povezanih z vlaganji v podjetja, ki so izpostavljena javnemu mnenju in morebitnim pravnim sporom.",
       "vpliv": [
-        "Delnice Lululemona tonejo proti najnižji vrednosti od maja 2018",
-        "Analitiki pozivajo k 'vrnitvi k osnovam'",
-        "Zaskrbljenost glede strategije podjetja",
-        "Potencialno zmanjšanje prodaje in dobičkonosnosti"
+        "Negativni vpliv na ugled kluba West Ham",
+        "Potencialno zmanjšanje vrednosti kluba",
+        "Povečana previdnost vlagateljev v športne klube",
+        "Možni pravni stroški za klub"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/a-rudderless-lululemon-needs-to-ditch-logos-and-get-back-to-basics-analysts-say-0e120022?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-05T17:18:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/f99cb19b-cea8-4908-9b3d-afb2e0d83632",
+      "objavljeno": "2026-06-06T16:27:40.000Z"
     }
   ]
 }
