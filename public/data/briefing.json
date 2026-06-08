@@ -1,112 +1,129 @@
 {
-  "generiranoOb": "2026-06-07T17:01:50.192Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-06-08T09:03:38.019Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash-lite",
   "tier": "free",
-  "datum": "2026-06-07",
-  "povzetek": "Evropski trgi so se danes poslovili v znamenju negotovosti, ki jo dodatno zaostrujejo geopolitični napetosti na Bližnjem vzhodu. Izraelski napadi na Bejrut in poročila o strelskem napadu v Izraelu so dvignili cene nafte, medtem ko so se v ZDA vlagatelji po včerajšnjem obsežnem razprodaji tehnoloških delnic preusmerjali v bolj tradicionalne sektorje, kot so zdravstvo in finance. Ameriški predsednik Trump je znova pozval k znižanju obrestnih mer, kar bi lahko vplivalo na prihodnje odločitve centralne banke. V Evropi se medtem nadaljujejo pogovori o obrambnih izdatkih, medtem ko se na finančnih trgih pojavljajo tudi novice o morebitnih prevzemih v bančnem sektorju, kot je ponudba Intese za Monte dei Paschi. Vse to se dogaja v luči nadaljevanja vojne med Iranom ter ZDA in Izraelom, ki že 100 dni vpliva na ameriško gospodarstvo z višjimi cenami.",
+  "datum": "2026-06-08",
+  "povzetek": "Jutranje trgovanje zaznamujejo močni odzivi na zaostritev geopolitičnih napetosti med Iranom in Izraelom, ki so povzročile padec azijskih borz, zlasti v Južni Koreji in na Japonskem, ter dvig cen nafte. Tehnološki sektor je pod pritasom zaradi preteklega rallyja in novih napetosti. Hkrati se pojavljajo skrbi glede varnosti svetovnega prvenstva v nogometu zaradi incidentov v ZDA. V Evropi se pričakuje previdno trgovanje, medtem ko se podjetja, kot je Zealand Pharma, soočajo s specifičnimi težavami, ki vplivajo na njihove delnice. Dogajanje v Južni Ameriki in napovedi glede prihodnosti AI prav tako vplivajo na širše tržno razpoloženje.",
   "novice": [
     {
-      "naslov": "Izraelski napadi na Bejrut in strelski napad v Izraelu povečujeta napetosti",
+      "naslov": "Azijske borze potonile zaradi konflikta med Iranom in Izraelom ter strahu Wall Streeta",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Izraelske sile so izvedle nove napade na južna predmestja Bejruta, s čimer naj bi ciljale na Hezbolah. V ločenem incidentu sta bila v Izraelu ustreljena in ubita dva osumljenca po strelskem napadu. Dogodki so se zgodili v popoldanskih urah 7. junija 2026.",
-      "analiza": "Geopolitični dogodki na Bližnjem vzhodu imajo neposreden vpliv na cene surovih energentov, zlasti nafte, zaradi skrbi glede stabilnosti regije in morebitnih motenj v dobavah. Napetosti med Izraelom in Iranom, ki trajajo že 100 dni, kot je navedeno v eni izmed novic, lahko vodijo do povečane negotovosti na finančnih trgih. Takšna negotovost običajno povzroči beg v varnejša naložbena sredstva, kot so zlato ali obveznice z nizkim tveganjem, medtem ko delnice, zlasti v energetskem in obrambnem sektorju, lahko doživijo volatilnost. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba skrbno spremljati razvoj dogodkov na Bližnjem vzhodu, saj lahko vplivajo na globalno gospodarsko rast in s tem na vrednost naložb. Povečana tveganja lahko vodijo do večje volatilnosti na delniških trgih, kar zahteva diverzifikacijo portfelja.",
+      "povzetek": "Azijski borzni trgi so v ponedeljek doživeli znatne padce, ki jih je sprožil zaostritek konflikta med Iranom in Izraelom ter negotovost na Wall Streetu. Glavni indeks Južne Koreje je padel za skoraj 9 %, medtem ko so delnice na Japonskem, Tajvanu in v Hongkongu prav tako zabeležile ostre padce. Napetosti med Iranom in Izraelom so povzročile zaskrbljenost zaradi morebitne širše regionalne eskalacije, kar je negativno vplivalo na globalno tveganje.",
+      "analiza": "Geopolitična napetost med Iranom in Izraelom, ki se je v noči na ponedeljek zaostrila z izmenjavo zračnih napadov, je neposredno vplivala na azijske finančne trge. Padec indeksa Kospi v Južni Koreji za skoraj 9 % in podobni padci na Japonskem, Tajvanu in v Hongkongu odražajo povečano previdnost vlagateljev. Mehanizem vpliva je neposreden: povečana negotovost vodi v umik kapitala iz tveganih naložb, kot so delnice, še posebej v tehnološkem sektorju, ki je bil v zadnjem času v vzponu. To je posledica strahu pred motnjami v dobavnih verigah, zvišanjem cen energentov in potencialnim vplivom na svetovno gospodarstvo. Za slovenskega dolgoročnega vlagatelja to pomeni povečano volatilnost na globalnih trgih in potrebo po diverzifikaciji portfelja, saj lahko takšni dogodki povzročijo kratkoročne korekcije na vseh razredih sredstev.",
       "vpliv": [
-        "Povečanje cen surove nafte Brent in WTI",
-        "Povečana volatilnost na delniških trgih, zlasti v energetskem in obrambnem sektorju",
-        "Beg v varna naložbena sredstva (zlato, obveznice)",
-        "Povečana negotovost vlagateljev"
+        "Padec azijskih borznih indeksov (npr. Kospi za skoraj 9 %)",
+        "Povečanje cene surove nafte",
+        "Zmanjšanje apetita za tveganje na globalnih trgih",
+        "Pritisk na tehnološke delnice"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/police-say-two-suspects-have-been-shot-and-killed-in-israel-gun-attack?traffic_source=rss",
-      "objavljeno": "2026-06-07T16:17:59.000Z"
+      "vir_url": "https://www.aljazeera.com/economy/2026/6/8/asias-stock-markets-dive-amid-iran-israel-conflict-wall-street-jitters?traffic_source=rss",
+      "objavljeno": "2026-06-08T08:49:41.000Z"
     },
     {
-      "naslov": "Ameriški vlagatelji bežijo iz tehnologije v finance in zdravstvo",
+      "naslov": "Zelandija Pharma izgubila petino vrednosti zaradi odstopanja uporabnikov zdravila za hujšanje",
       "sektor": "Finance",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Vlagatelji opuščajo tehnološke delnice in se preusmerjajo v sektorje, kot so zdravstveni zavarovalci, banke in trgovci na drobno. Ta premik se je zgodil po tem, ko so indeksi S&P 500 in Nasdaq zabeležili pomemben padec, pri čemer je Nasdaq doživel največji dnevni padec točk v zgodovini. Novica je bila objavljena 7. junija 2026.",
-      "analiza": "Premik vlagateljev iz tehnološkega sektorja v bolj tradicionalne panoge, kot so finance in zdravstvo, nakazuje spremembo v naložbenih strategijah, ki jo verjetno spodbujajo višje obrestne mere, inflacijski pritiski ali pa splošna zasičenost tehnološkega sektorja. Velik padec indeksa Nasdaq, ki je zabeležil največji dnevni padec točk v zgodovini, kaže na obsežno razprodajo, ki je povzročila izgubo 1,8 bilijona dolarjev tržne kapitalizacije za podjetja v S&P 500. Ta premik lahko pozitivno vpliva na delnice finančnih institucij in podjetij v zdravstvu, medtem ko lahko nadaljuje pritisk na tehnološke delnice. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno preučiti diverzifikacijo svojih naložb izven pregretega tehnološkega sektorja in razmisliti o vlaganjih v sektorje, ki se trenutno zdijo bolj odporni ali pa nudijo boljšo vrednost v trenutnem tržnem okolju.",
-      "vpliv": [
-        "Povečanje vrednosti delnic finančnih institucij in zdravstvenih zavarovalnic",
-        "Padec vrednosti tehnoloških delnic",
-        "Povečana volatilnost na delniških trgih",
-        "Sprememba naložbenih portfeljev"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/these-are-the-markets-new-hot-stocks-as-investors-flee-from-tech-826096c2?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-07T16:00:00.000Z"
-    },
-    {
-      "naslov": "Trump poziva k znižanju obrestnih mer, kar povečuje pritisk na centralno banko",
-      "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Ameriški predsednik Donald Trump je javno pozval k znižanju obrestnih mer, kar povečuje pritisk na Fed v času, ko vlagatelji pričakujejo morebitno zvišanje stroškov zadolževanja. Ta izjava je bila objavljena 7. junija 2026.",
-      "analiza": "Javno pozivanje predsednika ZDA k znižanju obrestnih mer je pomemben signal, ki lahko vpliva na pričakovanja trga glede prihodnje monetarne politike. Če Fed sledi predsednikovim pozivom, bi to lahko povzročilo inflacijske pritiske in oslabilo vrednost ameriškega dolarja. Nasprotno, če Fed vztraja pri svoji neodvisnosti in se odloči za zvišanje obrestnih mer, bi to lahko negativno vplivalo na delniške trge, zlasti na tehnološke delnice, ki so občutljive na višje stroške zadolževanja. Vendar pa je v tem primeru navedeno, da vlagatelji pričakujejo zvišanje stroškov zadolževanja, kar je v nasprotju s pozivi predsednika. To ustvarja napetost med politično željo in ekonomsko realnostjo. Za slovenskega dolgoročnega vlagatelja je pomembno, da spremlja odločitve ameriške centralne banke (Fed), saj imajo te pomemben vpliv na globalne finančne trge, vključno z vrednostjo evra v primerjavi z dolarjem in obrestnimi merami, ki vplivajo na stroške financiranja podjetij.",
+      "povzetek": "Delnice farmacevtskega podjetja Zealand Pharma so v Kopenhagnu padle za petino, potem ko je podjetje sporočilo, da je petina uporabnikov prenehala jemati njihovo zdravilo za hujšanje zaradi gastrointestinalnih težav. Ta novica je povzročila znatno znižanje tržne kapitalizacije podjetja in vplivala na zaupanje vlagateljev v prihodnje prodajne rezultate.",
+      "analiza": "Zgodba o Zealand Pharma poudarja tveganja, povezana z razvojem in trženjem novih farmacevtskih izdelkov, zlasti na področju zdravil za hujšanje, kjer so pričakovanja visoka, a so tudi stranski učinki lahko pomemben dejavnik. Padec delnic za 20 % je neposredna posledica novice o visoki stopnji opustitve zdravljenja zaradi prebavnih težav. To mehanistično vpliva na vrednost podjetja, saj zmanjšuje pričakovane prihodke in potencialno povečuje stroške razvoja ali trženja za reševanje teh težav. Za slovenskega dolgoročnega vlagatelja to predstavlja opomnik, da tudi v sektorjih z visokim potencialom rasti, kot je farmacija, obstajajo specifična tveganja, povezana s kliničnimi izidi in odzivom uporabnikov, kar lahko vodi do znatnih nihanj v vrednosti naložb.",
       "vpliv": [
-        "Potencialna nestabilnost ameriškega dolarja",
-        "Povečana volatilnost na obvezniških trgih",
-        "Vpliv na odločitve Fed-a",
-        "Nejasna pričakovanja glede obrestnih mer"
+        "Padec delnic Zealand Pharma za 20 %",
+        "Povečana skrb glede varnosti in učinkovitosti zdravil za hujšanje",
+        "Potencialno znižanje napovedi prihodkov podjetja",
+        "Pritisk na podobna podjetja v sektorju"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/056789c0-d316-4b02-be24-2f75208790dd",
-      "objavljeno": "2026-06-07T16:03:15.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/zealand-pharma-loses-a-fifth-of-its-value-as-many-users-gave-up-taking-weight-loss-drug-during-trial-80293179?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-08T08:44:00.000Z"
     },
     {
-      "naslov": "Intesa pripravlja ponudbo za Monte dei Paschi, kar bi lahko preprečilo združitev z BPM",
-      "sektor": "Finance",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Italijanska banka Intesa Sanpaolo naj bi pripravljala ponudbo za prevzem Monte dei Paschi di Siena (MPS), kar bi lahko preprečilo načrtovano združitev MPS z Banco BPM. Odbor največje italijanske banke se je sestal kmalu po tem, ko je konkurenčna banka predlagala potencialno povezavo z MPS. Novica je bila objavljena 7. junija 2026.",
-      "analiza": "Potencialna prevzemna ponudba Intese za Monte dei Paschi bi lahko imela pomembne posledice za italijanski in evropski bančni sektor. Združitev MPS z Banco BPM bi ustvarila velik bančni entitetet, vendar bi prevzem Intese lahko spremenil to dinamiko. Takšne transakcije pogosto vodijo do povečane konkurence, potencialnih sinergij in sprememb v bančni krajini. Vpliv na cene delnic vpletenih bank bo verjetno negativen v kratkem roku zaradi negotovosti, vendar lahko dolgoročno prinese koristi v obliki večje učinkovitosti in stabilnosti. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj dogodkov v evropskem bančnem sektorju, saj lahko konsolidacija in prevzemi vplivajo na obrestne marže, dostopnost kreditov in splošno stabilnost finančnega sistema, kar se lahko odrazi tudi na naložbah v evropske delnice.",
-      "vpliv": [
-        "Povečana nestabilnost delnic vpletenih bank",
-        "Možna sprememba bančne krajine v Italiji",
-        "Vpliv na konkurenco v bančnem sektorju",
-        "Potencialne sinergije in stroškovne optimizacije"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/a14f2550-b3af-4893-b09c-3d3d845f4a51",
-      "objavljeno": "2026-06-07T15:52:31.000Z"
-    },
-    {
-      "naslov": "Iran 100 dni vojne z ZDA in Izraelom: Američani se soočajo z višjimi cenami",
+      "naslov": "Izrael in Iran si izmenjujeta napade, premirje grozi propad",
       "sektor": "Geopolitika",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Po 100 dneh vojne med Iranom ter ZDA in Izraelom se ameriška gospodinjstva soočajo z višjimi stroški. Povprečno so ameriška gospodinjstva porabila 750 dolarjev več, kar najbolj prizadene ljudi z nižjimi in srednjimi dohodki. Novica je bila objavljena 7. junija 2026.",
-      "analiza": "Konflikt med Iranom ter ZDA in Izraelom, ki traja že 100 dni, ima opazne ekonomske posledice za ameriško prebivalstvo, zlasti za gospodinjstva z nižjimi in srednjimi dohodki. Povečani stroški v višini 750 dolarjev na gospodinjstvo kažejo na inflacijske pritiske, ki jih lahko povzročijo geopolitični konflikti, kot so motnje v dobavnih verigah, rast cen energentov ali pa povečani vojaški izdatki. Te ekonomske posledice lahko vplivajo na potrošniško povpraševanje in splošno gospodarsko rast. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da globalni konflikti ne vplivajo le na varnost, ampak tudi na gospodarstvo, kar se lahko odraža v vrednosti naložb. Povečana inflacija lahko zmanjša kupno moč in negativno vpliva na korporativne dobičke, kar lahko povzroči pritisk na delniške trge.",
+      "intenziteta": 3,
+      "povzetek": "Napetosti med Izraelom in Iranom so se v noči na ponedeljek znatno zaostrile z izmenjavo zračnih napadov, kar je ogrozilo dvomesečno premirje in prizadevanja predsednika Trumpa za širši mirovni dogovor. Izraelska vojska je sporočila, da je prestregla rakete, izstreljene z iranskega območja, medtem ko so poročila o eksplozijah v Teheranu potrdila iranske povračalne ukrepe. ZDA so izrazile zaskrbljenost, Trump pa je govoril z izraelskim premierjem Netanjahujem.",
+      "analiza": "Izmenjava zračnih napadov med Iranom in Izraelom predstavlja ključno eskalacijo v regiji, ki neposredno ogroža krhko premirje in diplomatska prizadevanja. Ta dogodek ima večplastne posledice: (1) Geopolitično: Povečuje tveganje za širšo regionalno vojno, kar lahko vpliva na stabilnost Bližnjega vzhoda in globalno varnost. (2) Energetsko: Kot je vidno iz novice o dvigu cen nafte, obstaja neposredna grožnja za dobavo energentov, kar lahko povzroči inflacijske pritiske po vsem svetu. (3) Finančno: Povečana negotovost vodi v beg kapitala iz tveganih naložb, kar se odraža v padcih borznih indeksov, zlasti v Aziji, in potencialno v naraščajočih stroških zadolževanja za države in podjetja. Za slovenskega dolgoročnega vlagatelja to pomeni povečano volatilnost na delniških trgih, potencialno rast cen energentov, ki vpliva na stroške poslovanja in življenjske stroške, ter potrebo po skrbnem spremljanju geopolitičnih tveganj pri oblikovanju investicijske strategije.",
       "vpliv": [
-        "Povečanje inflacijskih pritiskov v ZDA",
-        "Zmanjšanje kupne moči ameriških gospodinjstev",
-        "Potencialno zmanjšanje potrošniškega povpraševanja",
-        "Negativen vpliv na gospodarsko rast"
+        "Povečanje cen surove nafte (Brent nad 87 USD)",
+        "Padci na azijskih borzah",
+        "Zaskrbljenost glede stabilnosti Bližnjega vzhoda",
+        "Ogrožanje mirovnih pogajanj"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/6/7/100-days-into-iran-war-americans-face-higher-prices?traffic_source=rss",
-      "objavljeno": "2026-06-07T13:25:04.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/d97c7243-19a2-49da-9e10-a565a2204bc0",
+      "objavljeno": "2026-06-08T08:45:28.000Z"
     },
     {
-      "naslov": "Nove terapije za hujšanje obetajo boljše rezultate od obstoječih",
-      "sektor": "Tehnologija & AI",
+      "naslov": "Skok cen nafte zaradi novih napadov, ki ogrožajo premirje z Iranom",
+      "sektor": "Energetika",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Razvijajo se nove terapije za hujšanje, ki naj bi bile učinkovitejše od trenutno uporabljenih zdravil, kot so GLP-1. Ena izmed teh novih molekul, retatrutide, je v kliničnih preskušanjih pokazala izjemne rezultate pri izgubi teže in izboljšala tudi druga zdravstvena stanja, kot sta apneja v spanju in bolečine v kolenih. Novica je bila objavljena 7. junija 2026.",
-      "analiza": "Razvoj novih, učinkovitejših zdravil za hujšanje, kot je retatrutide, predstavlja pomemben napredek v farmacevtski industriji in ima potencial za velik vpliv na zdravstveni sektor ter podjetja, ki se ukvarjajo z razvojem in proizvodnjo teh zdravil. Uspeh retatrutide v kliničnih preskušanjih, ki vključuje izgubo velike količine telesne teže in izboljšanje drugih zdravstvenih stanj, bi lahko vodil do povečanega povpraševanja in s tem do rasti prihodkov farmacevtskih podjetij. Vlagatelji lahko pričakujejo povečano zanimanje za delnice podjetij, ki so vključena v razvoj ali proizvodnjo teh novih terapij. Za slovenskega dolgoročnega vlagatelja to pomeni priložnost za vlaganje v sektor zdravstva in biotehnologije, ki ima dolgoročni potencial rasti, vendar je treba upoštevati tudi tveganja, povezana s kliničnimi preskušanji, regulativnimi odobritvi in konkurenco na trgu.",
+      "povzetek": "Cene surove nafte so v ponedeljek zrasle za največ v zadnjem mesecu dni, saj novi napadi med Iranom in Izraelom ogrožajo krhko premirje. Cena zahodnoteksaške lahke surove nafte (WTI) se je povzpela nad 83 dolarjev za sod, medtem ko je severnomorska nafta Brent presegla 87 dolarjev. Ta dvig cen je neposredna posledica povečanih geopolitičnih tveganj na Bližnjem vzhodu, ki lahko motijo dobavo nafte.",
+      "analiza": "Neposredna izmenjava napadov med Iranom in Izraelom je povzročila takojšen odziv na trgu surove nafte. Povečanje cen nad 87 USD za Brent in 83 USD za WTI je posledica strahu pred morebitnimi motnjami v dobavi nafte iz regije, ki je ključna za globalne energetske tokove. Mehanizem vpliva je preprost: negotovost glede dobave vodi v rast cen, saj kupci in trgovci želijo zagotoviti zaloge ali pa se zavarovati pred prihodnjimi dvigi. Ta dvig cen energentov ima širše posledice: (1) Inflacija: višje cene nafte povečujejo stroške prevoza in proizvodnje, kar lahko sproži inflacijske pritiske v svetovnem gospodarstvu. (2) Potrošniki: višje cene goriv neposredno vplivajo na denarnice potrošnikov. (3) Podjetja: podjetja z visoko porabo energije se soočajo z višjimi stroški. Za slovenskega dolgoročnega vlagatelja to pomeni, da lahko višje cene nafte vplivajo na inflacijska pričakovanja, obrestne mere centralnih bank in na profitabilnost podjetij v portfelju, zlasti tistih, ki so odvisna od transporta ali energije.",
       "vpliv": [
-        "Povečanje vrednosti delnic farmacevtskih podjetij, ki razvijajo nove terapije za hujšanje",
-        "Potencialno zmanjšanje povpraševanja po starejših zdravilih za hujšanje",
-        "Rast v sektorju zdravstva in biotehnologije",
-        "Izboljšanje zdravstvenih kazalnikov pri bolnikih"
+        "Cena Brenta nad 87 USD/sod",
+        "Cena WTI nad 83 USD/sod",
+        "Povečanje inflacijskih pričakovanj",
+        "Višji stroški transporta za podjetja"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-07T14:18:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-08T07:36:00.000Z"
+    },
+    {
+      "naslov": "Tehnološke delnice potonile v Aziji po rekordnem rallyju in novih napadih na Bližnjem vzhodu",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Tehnološke delnice so v Aziji zabeležile ostre padce, potem ko je sektor v zadnjem času dosegel rekordne vrednosti, dodatno pa jih je prizadel nov val napetosti na Bližnjem vzhodu. Trgi v Južni Koreji in na Japonskem so bili še posebej prizadeti, saj je prodaja tehnoloških delnic izgubila zagon. To je posledica kombinacije precenjenosti po dolgem rallyju in povečane negotovosti zaradi geopolitičnih dogodkov.",
+      "analiza": "Padec tehnoloških delnic v Aziji, zlasti v Južni Koreji in na Japonskem, je odraz več dejavnikov. Po obdobju izjemne rasti, ki je dvignila vrednosti podjetij na rekordne ravni, so vlagatelji začeli iskati priložnosti za realizacijo dobičkov. Novica o zaostrovanju konflikta med Iranom in Izraelom je delovala kot katalizator za ta proces, saj je povečala splošno negotovost na trgih in zmanjšala apetit za tveganje. Mehanizem vpliva je neposreden: vlagatelji prodajajo tehnološke delnice, ki veljajo za bolj tvegane v negotovih časih, in preusmerjajo kapital v varnejša zatočišča. Posledice za delniške trge so vidne v padcih indeksov, kot je Kospi. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti pozoren na morebitne korekcije v tehnološkem sektorju, ki je bil v zadnjih letih gonilo rasti, in razmisliti o uravnoteženju portfelja z manj cikličnimi naložbami.",
+      "vpliv": [
+        "Padec tehnoloških indeksov v Aziji",
+        "Zmanjšanje vrednosti podjetij, povezanih z AI",
+        "Povečana volatilnost na borzah",
+        "Potencialni umik vlagateljev iz tveganih sektorjev"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-06-08T08:36:21.000Z"
+    },
+    {
+      "naslov": "Svetovno prvenstvo v nogometu pod povečano varnostjo po incidentih v ZDA",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 1,
+      "povzetek": "Nasilni incidenti v New Yorku in Kansas Cityju, vključno z vbodnim napadom in streljanjem, so pred začetkom svetovnega prvenstva v nogometu povzročili povečane varnostne skrbi. Šest ljudi je bilo zabodenih v New Yorku, devet pa ranjenih v Kansas Cityju, le nekaj dni pred otvoritvenim vikendom prvenstva. Dogodki so privedli do poostrenih varnostnih ukrepov, vključno s prepovedmi torb in zapiranjem cest.",
+      "analiza": "Incidenti v ZDA, ki so povezani s svetovnim prvenstvom v nogometu, poudarjajo kompleksnost organizacije velikih mednarodnih dogodkov v času povečane varnostne negotovosti. Čeprav ne gre neposredno za finančni dogodek, imajo varnostni ukrepi in morebitni nadaljnji incidenti lahko vpliv na turizem, potrošniško zaupanje in stroške organizacije, kar se lahko odrazi v posrednih finančnih posledicah. Povečani varnostni ukrepi, kot so prepovedi torb in zapiranje cest, lahko vplivajo na lokalno gospodarstvo in izkušnjo obiskovalcev. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba upoštevati tudi širše družbene in varnostne dejavnike, ki lahko vplivajo na določene sektorje gospodarstva, kot je turizem ali organizacija dogodkov, čeprav je neposreden vpliv na globalne finančne trge v tem primeru verjetno omejen.",
+      "vpliv": [
+        "Povečani varnostni ukrepi na prizoriščih SP",
+        "Potencialni vpliv na turizem in lokalno gospodarstvo",
+        "Zaskrbljenost glede varnosti velikih množičnih dogodkov",
+        "Povečani stroški za organizatorje"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/sports/2026/6/8/new-york-stabbing-kansas-city-shooting-raise-world-cup-security-concerns?traffic_source=rss",
+      "objavljeno": "2026-06-08T08:42:14.000Z"
+    },
+    {
+      "naslov": "Svetovni borzni indeksi padajo, prednjači zlom v Južni Koreji",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Globalni borzni indeksi so zabeležili znatne padce, ki jih je vodil močan padec v Južni Koreji. Ostri padci v tehnološko usmerjenih delnicah sledijo petkovemu zdrzu na Wall Streetu in prekinejo dvomesečno obdobje rasti na ameriških trgih. Ta splošni trend odraža povečano previdnost vlagateljev zaradi geopolitičnih napetosti in nedavnih premikov na trgih.",
+      "analiza": "Splošni padec globalnih borznih indeksov, ki ga zaznamuje zlom v Južni Koreji, je posledica kombinacije dejavnikov. Petkov zdrz na Wall Streetu, ki je prekinil dvomesečno obdobje rasti, nakazuje na morebitno zasičenost trga ali spremembo razpoloženja vlagateljev. Dodatno negativno vlogo igrajo zaostrene geopolitične napetosti med Iranom in Izraelom, ki povečujejo negotovost in zmanjšujejo apetit za tveganje. Mehanizem vpliva je v tem, da vlagatelji v času negotovosti prodajajo tvegane naložbe, kot so delnice, in se obračajo k varnejšim sredstvom. Posledice so vidne v padcih borznih indeksov po vsem svetu, zlasti v tehnološkem sektorju, ki je bil v zadnjem času v vzponu. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti pripravljen na večjo volatilnost na trgih in morda razmisliti o uravnoteženju portfelja z večjo alokacijo v manj tvegane naložbe, kot so obveznice ali zlato, če je to skladno z njegovo strategijo.",
+      "vpliv": [
+        "Padec globalnih borznih indeksov",
+        "Znatni padci v Južni Koreji",
+        "Prekinitev dvomesečnega rallyja na Wall Streetu",
+        "Pritisk na tehnološke delnice"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c",
+      "objavljeno": "2026-06-08T08:10:00.000Z"
     }
   ]
 }
