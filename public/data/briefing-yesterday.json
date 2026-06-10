@@ -1,112 +1,112 @@
 {
-  "generiranoOb": "2026-06-08T18:16:52.502Z",
+  "generiranoOb": "2026-06-09T17:50:53.052Z",
   "izdaja": "afternoon",
-  "model": "gemini-2.5-flash",
+  "model": "gemini-2.5-flash-lite",
   "tier": "free",
-  "datum": "2026-06-08",
-  "povzetek": "Evropski trgi so danes, 8. junija 2026, zaključili trgovanje v znamenju optimizma, ki ga je spodbudila novica o ustavitvi protinapadov med Izraelom in Iranom, kar je zmanjšalo geopolitična tveganja in potencialno umirilo cene nafte. Na drugi strani Atlantika so ameriški trgi, ki so odprti že dve uri, pokazali močan odboj po petkovem padcu, ki ga je vodil sektor umetne inteligence, kar nakazuje na nadaljnje zaupanje v tehnološki sektor. Posebej je izstopala rast delnic Intela, ki so poskočile ob novici o širitvi njihovega seznama strank, vključno z Nvidio in Googlom. Pozitivno na ameriška podjetja vpliva tudi sodna odločitev, ki je razveljavila Trumpovo pristojbino za vize H1-B, kar znižuje stroške dela. Kljub temu Bank of America opozarja na 'rdeče zastave' na ameriškem delniškem trgu, saj je rast preveč koncentrirana v velikih tehnoloških podjetjih, kar bi lahko zahtevalo diverzifikacijo portfeljev. V farmacevtskem sektorju pa se nadaljuje ostra konkurenca med Novo Nordisk in Eli Lilly za prevlado na trgu tablet GLP-1, še posebej ob pričakovanem kritju s strani Medicare.",
+  "datum": "2026-06-09",
+  "povzetek": "Evropski trgi so se danes zaprli ob mešanih občutkih, medtem ko so se ameriški trgi odprli z negativnim predznakom, predvsem zaradi padca tehnološkega sektorja, ki ga je sprožil ponovni prodajni pritisk na delnice, povezane z umetno inteligenco. Dogajanje na Bližnjem vzhodu, povezano s sestrelitvijo ameriškega helikopterja nad Hormuško ožino, je vplivalo na cene nafte, ki so sicer padle, a ostajajo pod pritiskom zaradi geopolitičnih napetosti. Vlagatelji pozorno spremljajo tudi napovedi o potencialni insolventnosti ameriškega Social Security leta 2032 ter napovedano IPO vlaganje podjetja OpenAI, ki bi lahko dodatno pretreslo tehnološki trg. V Veliki Britaniji funt krepi proti dolarju, medtem ko se razpravlja o morebitni prodaji verige lekarn Boots.",
   "novice": [
     {
-      "naslov": "Izrael in Iran ustavila protinapade, Trump poziva k premirju",
+      "naslov": "OpenAI napoveduje javno ponudbo delnic, kar vznemirja tehnološke trge",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Podjetje OpenAI je zaupno vložilo vlogo za javno ponudbo delnic (IPO) na ameriški borzi, kar sledi podobnim potezam podjetij Anthropic in SpaceX. OpenAI naj bi imelo ocenjeno vrednost 850 milijard USD, medtem ko naj bi Anthropic dosegel 965 milijard USD. Podjetje naj bi vlagalo več kot 100 milijard USD letno v infrastrukturo za umetno inteligenco in razvija nove produkte, kar bi lahko predstavljalo konkurenco Applu in Googlu.",
+      "analiza": "Napovedana IPO ponudba podjetja OpenAI predstavlja pomemben dogodek na trgu tehnoloških delnic, ki že tako doživlja pretrese zaradi prodaje delnic, povezanih z umetno inteligenco. Vlagatelji skrbno spremljajo ta razvoj, saj bi lahko dodatna ponudba visoko vrednotenih tehnoloških podjetij povzročila nadaljnjo volatilnost. Visoki stroški poslovanja OpenAI, ki presegajo 100 milijard USD letno, in njihova strategija ustvarjanja 'moata' okoli svojih storitev, kažejo na ambiciozne načrte za prihodnost. Vrednost podjetij, kot sta OpenAI in Anthropic, ki se potegujeta za prevlado na področju umetne inteligence, je izjemno visoka, kar postavlja vprašanja o vzdržnosti teh ocen. Za slovenske dolgoročne vlagatelje to pomeni, da morajo biti previdni pri vlaganju v visoko vrednotene tehnološke delnice, ki so izpostavljene hitrim spremembam na trgu in regulativnim tveganjem.",
+      "vpliv": [
+        "Padec delnic tehnoloških podjetij, povezanih z AI",
+        "Povečana volatilnost na tehnološkem indeksu Nasdaq",
+        "Potencialni pritisk na cene delnic Appla in Googla",
+        "Povečano zanimanje za IPO trg"
+      ],
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/live/2026/jun/09/chip-stocks-bounce-back-kospi-openai-wall-street-float-stock-markets-oil-live-news-updates",
+      "objavljeno": "2026-06-09T15:03:34.000Z"
+    },
+    {
+      "naslov": "Napetosti na Bližnjem vzhodu: Sestrelitev helikopterja in odziv ZDA",
       "sektor": "Geopolitika",
-      "smer": "pozitivno",
+      "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Donald Trump je pozval obe strani, Izrael in Iran, naj 'prenehata streljati' in si prizadevata za podaljšanje premirja. Obe državi sta ustavili protinapade, kar nakazuje na morebitno deeskalacijo konflikta, ki je bil v zadnjem času v ospredju. Novica, objavljena 8. junija 2026, nakazuje na diplomatske pritiske za umiritev razmer na Bližnjem vzhodu. To zmanjšuje kratkoročno geopolitično tveganje in morebitne motnje v dobavnih verigah.",
-      "analiza": "Konflikt med Izraelom in Iranom je v zadnjih tednih povzročil precejšnjo negotovost na globalnih trgih, še posebej na trgu nafte. Predhodni napadi in protinapadi so sprožili strah pred širšo regionalno vojno, kar bi lahko motilo dobavne verige nafte iz Bližnjega vzhoda. Ta novica o ustavitvi protinapadov in pozivu k premirju zmanjšuje kratkoročno geopolitično tveganje. Mehanizem vpliva je direkten: zmanjšanje tveganja za dobavo nafte običajno vodi do padca cen nafte, saj se zmanjša 'premija za tveganje'. Posledično bi se lahko znižali tudi inflacijski pritiski, kar bi lahko vplivalo na politiko centralnih bank. Za delnice to pomeni zmanjšanje negotovosti, kar je običajno pozitivno, še posebej za sektorje, ki so občutljivi na cene energije in geopolitično stabilnost. Obveznice, ki so v času negotovosti služile kot varno zatočišče, bi lahko doživele manjše povpraševanje. Valute, kot je ameriški dolar, ki prav tako velja za varno zatočišče, bi se lahko nekoliko oslabile proti bolj tveganim valutam. Slovenski dolgoročni vlagatelj lahko to razume kot zmanjšanje sistemskega tveganja, kar ustvarja bolj predvidljivo okolje za naložbe, čeprav je Bližnji vzhod še vedno vir potencialne nestabilnosti.",
+      "povzetek": "Ameriški predsednik Trump je izjavil, da je Iran sestrelil ameriški helikopter nad Hormuško ožino, in napovedal povračilni ukrep, čeprav so bili piloti rešeni. Dogodek je povzročil napetosti v regiji, medtem ko se je cena nafte sicer nekoliko znižala, a ostaja pod vplivom geopolitičnih tveganj. Porast transita skozi Hormuško ožino naj bi sicer trajal več mesecev, da se povsem povrne.",
+      "analiza": "Incident s sestrelitvijo ameriškega helikopterja nad Hormuško ožino predstavlja resno zaostrovanje geopolitičnih napetosti na Bližnjem vzhodu. Ta regija je ključnega pomena za globalno oskrbo z energijo, zato vsako povečanje tveganj neposredno vpliva na cene nafte. Čeprav je ameriški predsednik napovedal povračilni ukrep, je pomembno opazovati, kakšen bo dejanski odziv, saj bi lahko eskalacija konflikta močno vplivala na svetovno gospodarstvo. Padec cen nafte, ki ga omenjajo novice, je verjetno kratkotrajen in posledica začetnega šoka ter poročil o povečanem prometu skozi ožino, vendar dolgoročni pritisk ostaja. Za slovenske vlagatelje to pomeni povečano tveganje za inflacijo zaradi višjih cen energije ter potencialno nestabilnost na finančnih trgih zaradi širših geopolitičnih posledic.",
       "vpliv": [
-        "Znižanje cen nafte",
-        "Zmanjšanje geopolitičnega tveganja",
-        "Potencialno znižanje inflacijskih pritiskov",
-        "Pozitivno za delniške trge"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/700c27f3-6768-4c7a-86bc-ca847de9df55",
-      "objavljeno": "2026-06-08T16:41:48.000Z"
-    },
-    {
-      "naslov": "Wall Street se odbija po petkovem padcu, ki ga je vodila umetna inteligenca",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Delnice na Wall Streetu so se 8. junija 2026 odbile, potem ko so v petek doživele padec, ki ga je vodil sektor umetne inteligence (AI) in je pretresel globalne trge. Kupci so vstopili na trg po petkovem padcu, kar kaže na optimizem in prepričanje v dolgoročno rast, kljub kratkoročnim nihanjem. Ta odboj signalizira, da trg morda vidi petkov padec kot priložnost za nakup in nadaljnjo rast.",
-      "analiza": "Petkov padec, ki ga je povzročila 'AI-led rout', je bil verjetno posledica realizacije dobičkov v sektorju umetne inteligence, ki je v zadnjem času doživel izjemno rast. Takšni hitri padci so pogosto priložnost za 'buy the dip' strategijo, kjer vlagatelji kupujejo delnice po znižanih cenah v pričakovanju nadaljnje rasti. Odboj na Wall Streetu kaže na robustnost ameriškega trga in nadaljnje zaupanje v tehnološki sektor, še posebej v podjetja, povezana z umetno inteligenco. Mehanizem vpliva je psihološki in tehnični: po močnem padcu se aktivirajo kupci, ki verjamejo v dolgoročne temelje. To je pozitivno za delniške indekse, kot sta S&P 500 in Nasdaq, saj se zmanjšuje strah pred širšo korekcijo. Za obveznice to pomeni manjše povpraševanje po varnih zatočiščih, saj se apetit po tveganju povečuje. Valute so manj neposredno prizadete, razen če sprememba sentimenta vpliva na pričakovanja glede obrestnih mer. Slovenski dolgoročni vlagatelj lahko to razume kot potrditev, da so trgi odporni in da kratkoročna nihanja v tehnološkem sektorju, čeprav so lahko dramatična, ne pomenijo nujno konca dolgoročnega trenda rasti, še posebej v inovativnih sektorjih, kot je AI.",
-      "vpliv": [
-        "Rast delniških indeksov (S&P 500, Nasdaq)",
-        "Povečan apetit po tveganju",
-        "Zmanjšano povpraševanje po varnih zatočiščih",
-        "Potrditev zaupanja v tehnološki sektor"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c",
-      "objavljeno": "2026-06-08T16:04:49.000Z"
-    },
-    {
-      "naslov": "Delnice Intela poskočile ob rasti seznama 'modrih čipov' strank",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Delnice Intela so poskočile 8. junija 2026, saj se zdi, da se seznam 'modrih čipov' strank podjetja povečuje. Vlagatelji so navdušeni nad idejo, da bi Intel lahko služil kot rezervni proizvajalec čipov za podjetja, kot sta Nvidia in Google. To nakazuje na krepitev Intela v industriji polprevodnikov in potencialno diverzifikacijo dobavnih verig za ključne tehnološke igralce.",
-      "analiza": "Intel, tradicionalni velikan v industriji polprevodnikov, se je v zadnjih letih soočal z močno konkurenco, zlasti s strani podjetij, kot je Nvidia, ki dominira na področju čipov za umetno inteligenco. Novica, da bi Intel lahko postal dobavitelj za Nvidio in Google, je izjemno pomembna, saj kaže na morebitno preoblikovanje Intela v ključnega pogodbenega proizvajalca (foundry). To bi zmanjšalo odvisnost velikih tehnoloških podjetij od enega samega dobavitelja, kar je strateško pomembno v luči geopolitičnih napetosti in motenj v dobavnih verigah. Mehanizem vpliva je direkten: povečanje pričakovanih prihodkov in tržnega deleža za Intel, kar se odraža v rasti cene delnice. To lahko vpliva tudi na celoten sektor polprevodnikov, saj nakazuje na povečano povpraševanje in potrebo po diverzifikaciji proizvodnje. Za delnice je to močno pozitivno za Intel in potencialno za celoten sektor. Za obveznice in valute je vpliv posreden, preko splošnega sentimenta na trgu. Slovenski dolgoročni vlagatelj lahko to razume kot primer, kako se podjetja prilagajajo spreminjajočim se tržnim razmeram in kako diverzifikacija dobavnih verig postaja pomemben dejavnik pri vrednotenju tehnoloških podjetij.",
-      "vpliv": [
-        "Rast delnice Intela",
-        "Krepitev Intela v industriji polprevodnikov",
-        "Potencialna diverzifikacija dobavnih verig",
-        "Pozitivno za tehnološki sektor"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/intels-stock-soars-as-the-companys-blue-chip-roster-of-customers-looks-to-be-growing-264cd9d2?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-08T16:39:00.000Z"
-    },
-    {
-      "naslov": "Ameriški sodnik razveljavil Trumpovo pristojbino za vize H1-B",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Zvezni sodnik je v ponedeljek, 8. junija 2026, razveljavil pristojbino v višini 100.000 dolarjev za vize H1-B, ki jo je uvedel Trump. Sodnik je presodil, da je bila ta pristojbina dejansko davek, ki ga Trump ni imel pooblastila naložiti. Ta odločitev ima pomembne posledice za ameriška podjetja, ki se zanašajo na tuje visoko usposobljene delavce, še posebej v tehnološkem sektorju.",
-      "analiza": "Pristojbina za vize H1-B v višini 100.000 dolarjev je predstavljala znatno finančno breme za ameriška podjetja, ki zaposlujejo tuje strokovnjake, zlasti v sektorjih, kot so tehnologija, znanost in inženiring. Namen te pristojbine je bil verjetno zmanjšati odvisnost od tuje delovne sile in spodbujati zaposlovanje ameriških državljanov. Vendar pa je sodna odločitev, da je šlo za nepooblaščen davek, odpravila to breme. Mehanizem vpliva je direkten: podjetja bodo imela nižje stroške dela, kar je pozitivno za njihovo dobičkonosnost, še posebej za tista, ki močno uporabljajo program H1-B. To lahko tudi olajša dostop do globalnih talentov, kar je ključno za inovacije in rast. Za delnice je to pozitivno za podjetja, ki zaposlujejo tuje delavce, zlasti v tehnološkem sektorju. Za valute in obveznice je vpliv manj direkten, razen če odločitev vpliva na širšo gospodarsko rast ali politiko priseljevanja. Slovenski dolgoročni vlagatelj lahko to razume kot primer, kako vladne politike in sodne odločitve neposredno vplivajo na stroške poslovanja in konkurenčnost podjetij, kar je pomemben dejavnik pri analizi naložb.",
-      "vpliv": [
-        "Znižanje stroškov dela za ameriška podjetja",
-        "Pozitivno za tehnološki sektor",
-        "Olajšan dostop do globalnih talentov",
-        "Povečana dobičkonosnost podjetij"
+        "Padajoče cene nafte Brent in WTI",
+        "Povečana volatilnost na energetskih trgih",
+        "Potencialni vpliv na globalne dobavne verige",
+        "Povečano tveganje za inflacijo"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/6/8/us-judge-strikes-down-trumps-100000-h1-b-visa-fee?traffic_source=rss",
-      "objavljeno": "2026-06-08T18:00:57.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond?traffic_source=rss",
+      "objavljeno": "2026-06-09T16:54:15.000Z"
     },
     {
-      "naslov": "BofA opozarja na 'rdeče zastave' na ameriškem delniškem trgu",
+      "naslov": "Social Security v ZDA se sooča z insolventnostjo do leta 2032",
       "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Bank of America (BofA) opozarja na 'rdeče zastave' na ameriškem delniškem trgu, objavljeno 8. junija 2026. Večina vlagateljev, ki vlagajo v S&P 500 v letu 2026, misli, da imajo v lasti celoten delniški trg, v resnici pa imajo le močno stavo na velika tehnološka podjetja. BofA meni, da je ta stava trenutno izčrpana. To opozorilo nakazuje na morebitno pregrevanje v določenih segmentih trga in potrebo po diverzifikaciji.",
-      "analiza": "Opozorilo Bank of America poudarja pomembno značilnost trenutnega ameriškega delniškega trga: koncentracijo rasti v nekaj velikih tehnoloških podjetjih (t.i. 'Magnificent Seven'). To pomeni, da je indeks S&P 500, ki naj bi predstavljal širši trg, dejansko močno obremenjen z uspešnostjo teh podjetij. Če se rast teh gigantov upočasni ali obrne, lahko to močno vpliva na celoten indeks, ne glede na uspešnost ostalih podjetij. Mehanizem vpliva je opozorilo na tveganje: vlagatelji so pozvani k previdnosti in morebitni prerazporeditvi portfeljev iz preveč koncentriranih tehnoloških pozicij v druge, morda podcenjene sektorje ali manjše delnice. To lahko sproži rotacijo kapitala. Za delnice to pomeni morebitno umiritev rasti v velikih tehnoloških podjetjih in potencialno rast v drugih sektorjih. Za obveznice in valute je vpliv posreden, preko splošnega sentimenta in pričakovanj glede prihodnje gospodarske rasti. Slovenski dolgoročni vlagatelj lahko to razume kot opomin na pomen diverzifikacije in na to, da je treba razumeti, kaj dejansko kupujejo, ko vlagajo v široke tržne indekse. Prevelika koncentracija v enem sektorju ali nekaj delnicah povečuje tveganje.",
+      "povzetek": "Ameriški sistem Social Security, ki zagotavlja pokojnine več kot 70 milijonom upokojencev in invalidov, naj bi se leta 2032 soočil z insolventnostjo, kar bi pomenilo izplačilo le 78 % predvidenih ugodnosti. Povečani pritisk na sistem je posledica lanskega zakona 'One Big Beautiful Bill Act'.",
+      "analiza": "Napovedana insolventnost ameriškega sistema Social Security predstavlja pomemben makroekonomski izziv z dolgoročnimi posledicami za upokojence in celotno ameriško gospodarstvo. Če se bo napoved uresničila, bo to pomenilo znatno zmanjšanje dohodka za milijone ljudi, kar lahko vpliva na potrošnjo in splošno gospodarsko rast. Ta situacija poudarja potrebo po reformah sistema socialne varnosti, ki bi zagotovile njegovo dolgoročno vzdržnost. Za slovenske vlagatelje, ki morda vlagajo v ameriške sklade ali imajo izpostavljenost do ameriškega trga, to pomeni dodatno tveganje, povezano s stabilnostjo ameriškega socialnega sistema. Dolgoročno bi to lahko vplivalo na vrednost ameriških obveznic in splošno gospodarsko klimo v ZDA.",
       "vpliv": [
-        "Opozorilo na pregrevanje trga",
-        "Potencialna rotacija kapitala iz tehnologije",
-        "Poudarek na diverzifikaciji portfelja",
-        "Zmanjšana rast v velikih tehnoloških podjetjih"
+        "Potencialni pritisk na ameriške državne obveznice",
+        "Zmanjšana potrošnja upokojencev v ZDA",
+        "Povečano zanimanje za zasebne pokojninske sklade",
+        "Možni fiskalni ukrepi vlade ZDA"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/bofa-sees-red-flags-in-the-u-s-stock-market-heres-what-to-buy-now-4d7ba245?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-08T18:05:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/social-security-faces-insolvency-in-2032-when-it-would-pay-only-78-of-benefits-b0f0df22?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-09T17:03:00.000Z"
     },
     {
-      "naslov": "Novo in Lilly tekmujeta za prevlado na trgu tablet GLP-1",
-      "sektor": "Potrošniki",
-      "smer": "mešano",
+      "naslov": "Nevarnost inflacije zaradi El Niña in vpliv na portfelje",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Novo Nordisk in Eli Lilly sta v hudi konkurenci za prevlado na trgu tablet GLP-1, medtem ko se pripravljata na kritje s strani Medicare. Novica, objavljena 8. junija 2026, poudarja njuno dolgoletno rivalstvo, ki se zdaj seli na področje zdravil za hujšanje in diabetes v obliki tablet. Pričakuje se, da bosta podjetji predstavili svojo ponudbo starejšim osebam, ki so upravičene do Medicare.",
-      "analiza": "Zdravila GLP-1, ki so se izkazala za učinkovita pri zdravljenju diabetesa in debelosti, predstavljajo enega največjih in najhitreje rastočih segmentov farmacevtske industrije. Vstop teh zdravil v kritje s strani Medicare, ameriškega vladnega programa zdravstvenega zavarovanja za starejše, pomeni odprtje ogromnega trga. Rivalstvo med Novo Nordisk in Eli Lilly bo verjetno znižalo cene in povečalo dostopnost, kar je pozitivno za potrošnike, vendar lahko pritisne na marže podjetij. Mehanizem vpliva je direkten na farmacevtski sektor: povečana konkurenca in potencialno znižanje cen lahko vplivata na dobičkonosnost obeh podjetij, čeprav bo povečanje trga verjetno nadomestilo del teh pritiskov. Za delnice je to mešano: povečan obseg prodaje, a potencialno nižje marže. Za zdravstveni sektor in javne finance (Medicare) to pomeni povečane stroške, a tudi izboljšano zdravje prebivalstva. Slovenski dolgoročni vlagatelj lahko to razume kot primer, kako regulativne odločitve (kot je kritje s strani Medicare) in konkurenca vplivajo na celotne industrije. Vlaganje v farmacevtski sektor zahteva razumevanje tako znanstvenih inovacij kot tudi tržnih in regulativnih dinamik.",
+      "povzetek": "Prihaja nevihta inflacije, ki jo povzroča El Niño, kar bi lahko povzročilo rast cen surovin po svetu. Vlagateljem se svetuje, da se pripravijo na te spremembe, saj njihov portfelj morda ni pripravljen na takšen šok.",
+      "analiza": "Napovedani vpliv vremenskega pojava El Niño na rast cen surovin predstavlja pomemben makroekonomski dejavnik, ki bi lahko spodbudil inflacijske pritiske. El Niño je znan po tem, da povzroča ekstremne vremenske pojave, ki lahko negativno vplivajo na kmetijsko proizvodnjo in druge sektorje, odvisne od naravnih virov. Zvišanje cen surovin neposredno vpliva na stroške proizvodnje in posledično na cene končnih izdelkov, kar lahko vodi do višje inflacije. Za slovenske vlagatelje to pomeni, da bi morali razmisliti o naložbah, ki so odporne na inflacijo, kot so surovine ali nepremičnine, ter zmanjšati izpostavljenost do sektorjev, ki so najbolj občutljivi na rast cen. Povečana inflacija bi lahko vplivala tudi na obrestne mere centralnih bank, kar bi imelo posledice za obvezniške trge.",
       "vpliv": [
-        "Povečana konkurenca v farmacevtskem sektorju",
-        "Potencialno znižanje cen zdravil GLP-1",
-        "Povečani stroški za Medicare",
-        "Mešan vpliv na dobičkonosnost farmacevtskih podjetij"
+        "Povečanje cen surovin (kmetijski proizvodi, energenti)",
+        "Potencialno zvišanje inflacije",
+        "Pritisk na centralne banke za dvig obrestnih mer",
+        "Potrebne prilagoditve naložbenih portfeljev"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/an-inflation-storm-is-brewing-in-the-pacific-ocean-and-your-portfolio-isnt-ready-f200fc60?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-09T17:06:00.000Z"
+    },
+    {
+      "naslov": "Padec tehnološkega sektorja na ameriških trgih",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Indeks Nasdaq je v nestanovitnem trgovanju močno padel, saj se je prodajni pritisk na tehnološke delnice, zlasti tiste, povezane z umetno inteligenco, ponovno okrepil. Veliki padci v tem segmentu so zasenčili dobičke na ostalih delih trga.",
+      "analiza": "Ponoven padec tehnološkega sektorja, zlasti delnic, povezanih z umetno inteligenco, na ameriškem trgu, kaže na negotovost vlagateljev glede nadaljnje rasti tega sektorja. Kljub preteklim dobičkom se zdi, da je prišlo do zasičenosti ali pa se vlagatelji preusmerjajo v bolj varne naložbe. Ta premik lahko negativno vpliva na splošno razpoloženje na trgu in povzroči širšo korekcijo. Za slovenske vlagatelje, ki imajo izpostavljenost do tehnoloških delnic ali skladov, to pomeni potencialne izgube. Pomembno je spremljati, ali se bo ta trend nadaljeval in ali bo vplival tudi na druge sektorje gospodarstva. Povečana pozornost je namenjena tudi podjetjem, kot je Rivian, ki se z novimi modeli poskušajo uveljaviti na trgu električnih vozil, kar kaže na konkurenčno okolje v avtomobilski industriji.",
+      "vpliv": [
+        "Padec indeksa Nasdaq",
+        "Prodaja delnic tehnoloških podjetij",
+        "Povečana previdnost vlagateljev",
+        "Potencialni vpliv na širši trg"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/13d4845a-f278-489b-ab89-a2e9e6a79ede",
+      "objavljeno": "2026-06-09T17:01:57.000Z"
+    },
+    {
+      "naslov": "LIV Golf se sooča s finančnimi težavami zaradi Savdske Arabije",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 1,
+      "povzetek": "Direktor LIV Golfa je izjavil, da Savdski javni investicijski sklad (PIF) naj bi po sezoni 2026 prenehal financirati golfsko ligo, čeprav ni mogel zagotoviti, da bodo izvedeni vsi preostali turnirji.",
+      "analiza": "Napovedana ukinitev financiranja s strani Savdskega javnega investicijskega sklada (PIF) predstavlja resen udarec za ligo LIV Golf. To dogajanje odraža širše trende v športnem financiranju, kjer se države s suverenimi skladi vse bolj vključujejo v velike športne projekte. Negotovost glede prihodnosti lige lahko vpliva na vrednost njenih naložb, sponzorstva in potencialne prihodnje dogovore. Za slovenske vlagatelje to morda ni neposredno relevantno, vendar kaže na dinamiko med državnimi investicijskimi skladi in globalnimi športnimi organizacijami, kar lahko ima dolgoročne posledice za športni trg in medijska prava.",
+      "vpliv": [
+        "Negotovost glede prihodnosti LIV Golfa",
+        "Potencialen vpliv na vrednost športnih naložb",
+        "Pritisk na Savdski javni investicijski sklad",
+        "Možna reorganizacija ali ukinitev lige"
       ],
       "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/06/08/novo-nordisk-eli-lilly-obesity-pills-medicare-coverage.html",
-      "objavljeno": "2026-06-08T14:30:37.000Z"
+      "vir_url": "https://www.cnbc.com/2026/06/09/liv-golf-ceo-pif-funding-cliff.html",
+      "objavljeno": "2026-06-09T17:33:01.000Z"
     }
   ]
 }
