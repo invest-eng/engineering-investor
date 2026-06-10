@@ -1,112 +1,112 @@
 {
-  "generiranoOb": "2026-06-10T08:18:48.159Z",
-  "izdaja": "morning",
-  "model": "gemini-2.5-flash-lite",
+  "generiranoOb": "2026-06-10T18:15:32.669Z",
+  "izdaja": "afternoon",
+  "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-06-10",
-  "povzetek": "Geopolitične napetosti med Iranom in ZDA se zaostrujejo, saj je Iran izvedel napade na ameriške baze v Bahrajnu in Kuvajtu, kar je povzročilo posredovanje Jordanije pri prestrezanju iranskih raket. Hkrati ukrajinski droni napadajo ruske cilje, vključno z naftnimi rafinerijami, kar povečuje zaskrbljenost v Baltskih državah zaradi morebitnega širjenja konflikta. Na področju tehnologije se pričakuje velik IPO podjetja SpaceX, ki bi lahko pomembno vplival na ameriški tekoči račun. Evropski finančni regulatorji ukrepajo glede fintech podjetja Revolut, medtem ko BYD načrtuje vlaganja v hitro polnjenje električnih vozil v Evropi. V ZDA se nadaljujejo razprave o proračunskih rezih, ki bi lahko vplivali na programe usposabljanja starejših, medtem ko se Oracle sooča s pričakovanji glede svojih rezultatov v zvezi z umetne inteligence.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v previdnem tonu, kar je bilo v veliki meri posledica stopnjevanja geopolitičnih napetosti in novih podatkov o inflaciji v ZDA. Nadaljevanje konflikta v Iranu, z opozorili predsednika Trumpa o nadaljnjih udarcih in poročili o napadih ZDA na iransko infrastrukturo, je dominiralo v novicah, kar je dvignilo cene energentov in povečalo negotovost na trgih. To geopolitično ozadje je pomembno prispevalo k temu, da je ameriška inflacija maja dosegla triletni vrh pri 4,2 %, kar je predsednik Trump paradoksalno pozdravil. Zgodnje trgovanje v ZDA, dve uri po zaprtju evropskih trgov, je odražalo te pomisleke, saj so glavni indeksi kazali začetni padec, medtem ko so vlagatelji prebavljali poročilo o inflaciji in potencial za agresivno zvišanje obrestnih mer. Na korporativni ravni je Evropa zabeležila pomembno prevzemno ponudbo Frasersa za Hugo Boss v višini 2,7 milijarde evrov, medtem ko je v ZDA Amazon napovedal znatne nove naložbe v AI v višini 17,5 milijarde dolarjev kljub naraščajočemu dolgu. Poleg tega so se pojavile podrobnosti o prihajajočem IPO-ju podjetja SpaceX, ki poudarjajo tako priložnosti kot tveganja v tehnološkem sektorju. Splošno razpoloženje ostaja pod vplivom prepletanja geopolitične nestabilnosti, inflacijskih pritiskov in pričakovanj glede monetarne politike centralnih bank.",
   "novice": [
     {
-      "naslov": "Iran napada ameriške baze, Jordanija prestreza rakete",
+      "naslov": "Trump pozdravlja inflacijo, ki je v ZDA dosegla triletni vrh",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Ameriška inflacija je maja 2026 poskočila na letno stopnjo 4,2 %, kar predstavlja tretje zaporedno mesečno povečanje od začetka vojne v Iranu in najvišjo raven v zadnjih treh letih. Pred začetkom konflikta je bila inflacija pri 2,4 %. Predsednik ZDA Donald Trump je ob objavi podatkov izjavil, da \"ljubi inflacijo\", saj ga ta ne skrbi zaradi nedavnega razvoja dogodkov v konfliktu. Povečanje inflacije je predvsem posledica zaprtja Hormuške ožine, kar je vplivalo na cene energentov. Potrošniki v ZDA vse bolj čutijo pritisk vojne med ZDA in Izraelom v Iranu.",
+      "analiza": "Ozadje te novice je stopnjevanje konflikta v Iranu, ki je povzročil motnje v dobavnih verigah, zlasti na področju energentov. Zaprtje Hormuške ožine, ključne pomorske poti za transport nafte, je neposredno vplivalo na globalne cene energije. To je relevantno zdaj, saj visoka inflacija, ki je dosegla 4,2 %, močno vpliva na kupno moč potrošnikov in povečuje pritisk na centralne banke, predvsem Federalne rezerve, za morebitno zaostrovanje monetarne politike. Mehanizem vpliva je jasen: višje cene energentov se prenašajo v celotno gospodarstvo, kar dviguje stroške proizvodnje in transporta, posledično pa tudi cene končnih izdelkov in storitev. Posledice za finančne trge so večplastne: delniški trgi so se odzvali negativno zaradi strahu pred višjimi obrestnimi merami, ki bi lahko zavrle gospodarsko rast. Obveznice so pod pritiskom, saj višja inflacija zmanjšuje realno donosnost fiksnih obveznic, kar vodi v rast zahtevanih donosov. Valute so lahko nestabilne, saj se pričakovanja glede monetarne politike spreminjajo. Cene surovin, zlasti nafte, so se zvišale. Zgodovinsko gledano, podobne energetske krize (npr. v 70. letih) so povzročile stagflacijo in recesije. Naprej bo pomembno opazovati odziv Federalnih rezerv in nadaljnji razvoj konflikta v Iranu. Za slovenskega dolgoročnega vlagatelja to pomeni, da je potrebno biti pozoren na globalne inflacijske trende in morebitne spremembe v monetarni politiki, saj lahko vplivajo na vrednost naložb v različnih razredih sredstev, vključno z delnicami in obveznicami.",
+      "vpliv": [
+        "Inflacija v ZDA na 4,2 %",
+        "Cene energentov višje",
+        "Pritisk na Federalne rezerve za dvig obrestnih mer",
+        "Negativen odziv delniških trgov"
+      ],
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/2026/jun/10/inflation-report-rate",
+      "objavljeno": "2026-06-10T17:37:06.000Z"
+    },
+    {
+      "naslov": "Trump napoveduje nove, močne udarce proti Iranu",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Iran je izvedel raketne napade na ameriške vojaške objekte v Bahrajnu in Kuvajtu, kot povračilo za prejšnje ameriške napade na iranska pristanišča. Jordanija je prestregla iranske rakete nad svojim zračnim prostorom. Ti dogodki sledijo sestrelitvi ameriškega helikopterja in povračilnim napadom, kar nakazuje na eskalacijo napetosti med državama.",
-      "analiza": "Napadi Irana na ameriške vojaške cilje v regiji Perzijskega zaliva in posredovanje Jordanije predstavljajo pomembno zaostrovanje geopolitičnih napetosti. Iran je s tem opustil strategijo \"strateškega potrpljenja\" in sprejel doktrino hitrega in ostrega povračila, kot navaja Trita Parsi. Ta eskalacija neposredno vpliva na cene nafte, saj bi morebitna širitev konflikta lahko ogrozila dobave iz regije. Na delniških trgih lahko pričakujemo povečano volatilnost, zlasti v sektorjih, povezanih z obrambno industrijo in energetiko. Obveznice lahko doživijo beg v varnost, medtem ko bi lahko kriptovalute, kot je Bitcoin, v določeni meri delovale kot varna naložba, čeprav z večjo nestanovitnostjo. Za slovenskega dolgoročnega vlagatelja to pomeni povečano tveganje v globalnih naložbah zaradi negotovosti na energetskih trgih in splošne gospodarske nestabilnosti, ki jo povzročajo geopolitični konflikti.",
+      "povzetek": "Ameriški predsednik Donald Trump je opozoril, da bodo ZDA kmalu znova \"močno udarile\" Iran. Te izjave prihajajo po izmenjavi ognja med državama, ki je sledila sestrelitvi ameriškega helikopterja. Predsednik je prav tako izjavil, da ZDA \"črpajo\" milijone sodčkov nafte iz Irana, kar naj bi bilo za Teheran presenečenje. Iran medtem poroča, da je 20.000 ljudi ostalo brez vode po tem, ko so ameriški napadi zadeli rezervoarje. Washington trdi, da so bili cilji njihovih letal protiletalska obramba in radarske lokacije.",
+      "analiza": "Ozadje te novice je stopnjevanje vojaških napetosti med ZDA in Iranom, ki so se razvnele po sestrelitvi ameriškega helikopterja in posledičnih povračilnih ukrepih. To je relevantno zdaj, saj neposredno kaže na visoko tveganje za širitev konflikta, ki ima že sedaj globalne ekonomske posledice, zlasti na energetskih trgih. Mehanizem vpliva je predvsem preko povečane negotovosti in strahu pred motnjami v dobavnih verigah, še posebej nafte. Vsaka eskalacija konflikta v regiji Bližnjega vzhoda, ki je ključna za svetovno oskrbo z nafto, povzroči takojšen odziv na trgih. Posledice za finančne trge vključujejo rast cen surovin, predvsem nafte, saj se povečuje tveganje za prekinitev dobave. Delniški trgi se običajno odzovejo negativno, saj se vlagatelji umikajo iz tveganih naložb v varnejša zatočišča, kot so zlato in državne obveznice. Valute, kot je ameriški dolar, lahko okrepijo kot varno zatočišče, medtem ko valute držav, odvisnih od uvoza nafte, lahko oslabijo. Zgodovinsko gledano, vsak večji konflikt na Bližnjem vzhodu (npr. Zalivska vojna) je povzročil skokovito rast cen nafte in globalno gospodarsko negotovost. Naprej bo ključno spremljati diplomatska prizadevanja in dejanske vojaške akcije. Za slovenskega dolgoročnega vlagatelja to pomeni, da je geopolitično tveganje pomemben dejavnik, ki lahko vpliva na volatilnost trgov in vrednost naložb, zato je diverzifikacija portfelja še toliko bolj pomembna.",
       "vpliv": [
-        "povečanje cen nafte Brent in WTI",
-        "povečana volatilnost na globalnih delniških trgih",
-        "beg v \"varne\" naložbe, kot so ameriške državne obveznice",
-        "potencialno povečano povpraševanje po zlatih rudnikih"
+        "Rast cen nafte",
+        "Povečana negotovost na trgih",
+        "Umik vlagateljev v varna zatočišča (zlato, obveznice)",
+        "Možna krepitev USD"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/explosion-in-bahrain-as-iran-attacks-us-bases?traffic_source=rss",
-      "objavljeno": "2026-06-10T07:40:53.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/a4ede6e5-4d5a-47e7-96bf-2bb2e6061775",
+      "objavljeno": "2026-06-10T16:58:29.000Z"
     },
     {
-      "naslov": "SpaceX IPO lahko vpliva na ameriški tekoči račun",
+      "naslov": "Tankerji povečujejo \"temne\" tranzite skozi Hormuško ožino",
+      "sektor": "Energetika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Naftni tankerji so povečali število \"temnih\" tranzitov skozi Hormuško ožino, kar pomeni, da plujejo z izključenimi transponderji. Ti tvegani prehodi potekajo pod zračno zaščito ZDA in pomagajo ohranjati cene surove nafte pod 100 dolarji za sod. Povečanje teh aktivnosti je neposredna posledica stopnjevanja napetosti v regiji in zaprtja Hormuške ožine, ki je ključna za globalno oskrbo z nafto. To kaže na prizadevanja za ohranjanje pretoka nafte kljub geopolitičnim tveganjem.",
+      "analiza": "Ozadje te novice je kritična vloga Hormuške ožine kot ključne točke za globalni transport nafte in nedavna eskalacija konflikta v Iranu. To je relevantno zdaj, saj \"temni\" tranziti kažejo na neposreden odziv industrije na povečano tveganje in prizadevanja za ohranjanje stabilnosti oskrbe z nafto. Mehanizem vpliva je v tem, da kljub tveganjem ti tranziti pomagajo preprečiti še večji skok cen nafte, saj ohranjajo določen pretok. Brez njih bi cene verjetno že presegle 100 dolarjev za sod, kar bi imelo še hujše inflacijske posledice. Posledice za finančne trge so, da se cene nafte sicer ohranjajo pod kritično mejo, vendar je tveganje za nenaden skok še vedno visoko. To vpliva na delnice energetskih podjetij (potencialno pozitivno), medtem ko so delnice podjetij, ki so odvisna od nizkih cen energije (npr. letalske družbe, transport), pod pritiskom. Obveznice so pod vplivom inflacijskih pričakovanj, valute pa so občutljive na spremembe v cenah surovin. Zgodovinsko gledano, motnje v Hormuški ožini so vedno povzročile drastične spremembe na naftnih trgih. Naprej bo ključno spremljati varnostne razmere v ožini in učinkovitost teh \"temnih\" tranzitov. Za slovenskega dolgoročnega vlagatelja to pomeni, da so cene energentov in stabilnost dobavnih verig ključni dejavniki, ki vplivajo na globalno gospodarstvo in s tem na donosnost naložb, še posebej v sektorjih, ki so energetsko intenzivni.",
+      "vpliv": [
+        "Cene nafte pod 100 USD (za zdaj)",
+        "Povečano tveganje za oskrbo z nafto",
+        "Vpliv na delnice energetskih in transportnih podjetij",
+        "Inflacijska pričakovanja"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/31450147-1b85-4ecf-a60d-0c0e3a298ae7",
+      "objavljeno": "2026-06-10T17:25:19.000Z"
+    },
+    {
+      "naslov": "Frasers ponuja 2,7 milijarde evrov za prevzem Hugo Bossa",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Frasers, podjetje britanskega maloprodajnega milijarderja Mika Ashleyja, je podalo ponudbo za prevzem nemške modne skupine Hugo Boss v vrednosti 2,7 milijarde evrov. Čeprav bi ponudba lahko služila predvsem za povečanje deleža Frasersa v nemški modni skupini, ne nujno za popoln prevzem, predstavlja pomembno transakcijo v sektorju luksuzne mode. Ta poteza kaže na agresivno strategijo širitve Frasersa in zanimanje za uveljavljene blagovne znamke.",
+      "analiza": "Ozadje te novice je konsolidacija v maloprodajnem in luksuznem modnem sektorju, kjer se večji igralci trudijo povečati svoj tržni delež in razširiti portfelj blagovnih znamk. To je relevantno zdaj, saj ponudba v višini 2,7 milijarde evrov za Hugo Boss poudarja vrednost uveljavljenih blagovnih znamk in potencial za sinergije znotraj večjih skupin. Mehanizem vpliva je neposreden: delnice tarčnega podjetja (Hugo Boss) običajno poskočijo ob novici o prevzemni ponudbi, saj vlagatelji pričakujejo višjo ceno. Za prevzemnika (Frasers) pa lahko to pomeni povečanje dolga ali razredčenje delnic, čeprav je v tem primeru omenjeno tudi povečanje deleža. Posledice za finančne trge so specifične za sektor: delnice v maloprodaji in luksuzni modi lahko postanejo bolj volatilne, saj se vlagatelji odzivajo na morebitne nadaljnje prevzeme. Obveznice obeh podjetij so lahko pod drobnogledom glede bonitetne ocene. Valute niso neposredno prizadete, razen če gre za zelo veliko transakcijo, ki vpliva na kapitalske tokove. Zgodovinsko gledano, prevzemi in združitve so pogost pojav v zrelih industrijah, ki iščejo rast in učinkovitost. Naprej bo pomembno spremljati odziv upravnega odbora Hugo Bossa in morebitne protiponudbe. Za slovenskega dolgoročnega vlagatelja to pomeni, da so prevzemi in združitve pomemben vir donosov za delničarje tarčnih podjetij, hkrati pa lahko predstavljajo tveganje za prevzemnika, če so cene previsoke ali sinergije neuspešne.",
+      "vpliv": [
+        "Rast delnic Hugo Boss",
+        "Povečana aktivnost M&A v maloprodaji",
+        "Vpliv na bilanco Frasersa",
+        "Potencialne spremembe v sektorju luksuzne mode"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/4c29a1af-edd8-4dc4-8cbd-eaaf3d167346",
+      "objavljeno": "2026-06-10T17:56:21.000Z"
+    },
+    {
+      "naslov": "Amazon namenja 17,5 milijarde dolarjev za AI, dolg se povečuje",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Tehnološki velikan Amazon je napovedal, da bo namenil dodatnih 17,5 milijarde dolarjev za naložbe v umetno inteligenco (AI). S tem se je skupni znesek zunanjega financiranja, ki ga je Amazon pridobil samo v letošnjem letu, povzpel na več kot 80 milijard dolarjev. Kljub temu, da se Amazonov dolg še naprej povečuje, podjetje ne kaže znakov upočasnjevanja pri investicijah v to hitro rastoče področje. To poudarja agresivno strategijo podjetja za ohranjanje vodilne vloge v AI.",
+      "analiza": "Ozadje te novice je intenzivna globalna tekma za prevlado na področju umetne inteligence, kjer so tehnološki giganti, kot je Amazon, pripravljeni vložiti ogromne vsote. To je relevantno zdaj, saj dodatnih 17,5 milijarde dolarjev poudarja obseg in hitrost investicij, ki so potrebne za ohranjanje konkurenčnosti v sektorju AI. Mehanizem vpliva je dvojen: na eni strani so te naložbe pozitivne za dolgoročno rast in inovativnost Amazona, kar lahko podpira ceno delnic. Na drugi strani pa povečanje dolga na več kot 80 milijard dolarjev v enem letu lahko povzroči zaskrbljenost glede finančne stabilnosti in stroškov obresti, še posebej v okolju morebitnih višjih obrestnih mer. Posledice za finančne trge so, da delnice Amazona lahko doživijo mešan odziv, saj vlagatelji tehtajo med potencialno rastjo in tveganjem zadolženosti. Širše, to kaže na nadaljnji trend velikih kapitalskih naložb v AI, kar lahko koristi podjetjem v dobavni verigi AI (npr. proizvajalcem čipov). Obveznice Amazona bi lahko bile pod pritiskom, če se zaskrbljenost glede dolga poveča. Zgodovinsko gledano, velika podjetja pogosto uporabljajo zadolževanje za financiranje strateških naložb, vendar je ključno ravnotežje med rastjo in finančno disciplino. Naprej bo pomembno spremljati donosnost teh AI naložb in sposobnost Amazona za obvladovanje naraščajočega dolga. Za slovenskega dolgoročnega vlagatelja to pomeni, da so naložbe v AI sektorju obetavne, vendar je treba biti pozoren na finančno zdravje podjetij, ki se močno zadolžujejo za financiranje rasti.",
+      "vpliv": [
+        "Povečane naložbe v AI",
+        "Rast dolga Amazona",
+        "Mešan odziv delnic Amazona",
+        "Potencialna rast za dobavitelje AI tehnologije"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/amazon-lines-up-another-17-5-billion-for-ai-as-its-debt-pile-grows-further-5f16be9c?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-10T16:52:00.000Z"
+    },
+    {
+      "naslov": "SpaceX načrtuje zgodovinski IPO, a tveganja niso le rakete",
       "sektor": "Finance",
       "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Prihajajoči IPO podjetja SpaceX bi lahko imel izjemen vpliv na ameriški tekoči račun, saj bi lahko v enem dnevu refinanciral kar 8 % trenutnega primanjkljaja. Ta ocena temelji na izračunih valutnega stratega, ki poudarjajo potencialni obseg IPO-ja in njegov vpliv na globalne trge.",
-      "analiza": "Napovedani IPO podjetja SpaceX, ki bi lahko v enem dnevu refinanciral 8 % ameriškega tekočega računa, je izjemen dogodek z velikim potencialnim vplivom na finančne trge. Velikost IPO-ja lahko povzroči znatne premike v globalnih kapitalskih tokovih in vpliva na vrednost ameriškega dolarja. Če bo IPO uspešen in bo privabil veliko mednarodnih vlagateljev, lahko to kratkoročno okrepi dolar, dolgoročno pa bo odvisno od tega, kako bodo sredstva uporabljena. Za delniške trge bi to pomenilo nov pomemben igralec, ki bi lahko pritegnil kapital iz drugih sektorjev, zlasti iz tehnološkega. Obvezniški trgi bi lahko doživeli manjši pritisk, če bo kapital preusmerjen iz obveznic v delnice SpaceX. Vpliv na surovine je manj neposreden, lahko pa se pojavi, če bo IPO vplival na splošno gospodarsko aktivnost ali na povpraševanje po določenih tehnoloških komponentah. Za slovenskega dolgoročnega vlagatelja to pomeni potencialno novo priložnost za naložbo v visoko rastno podjetje, vendar z zavedanjem o visoki volatilnosti in tveganjih, ki so povezana s tehnološkimi IPO-ji.",
+      "intenziteta": 2,
+      "povzetek": "SpaceX se pripravlja na zgodovinski javni ponudbi delnic (IPO), vendar poročila poudarjajo, da največje tveganje podjetja ni povezano z raketami. Elon Musk, izvršni direktor, priznava, da \"ne more napovedati\", kdaj bo njegovo obsežno podjetje začelo ustvarjati dobiček, čeprav prihodki Starlinka presegajo 11 milijard dolarjev. To poudarja, da so \"rdeče zastave\" v IPO-ju predvsem finančne narave in se nanašajo na poslovni model in dobičkonosnost.",
+      "analiza": "Ozadje te novice je pričakovani IPO SpaceX-a, enega najbolj inovativnih in visoko profilnih podjetij v vesoljski industriji, ki ga vodi Elon Musk. To je relevantno zdaj, saj se vlagatelji pripravljajo na potencialno veliko priložnost, vendar so opozorila o tveganjih ključna za realistično oceno. Mehanizem vpliva je, da kljub visokemu potencialu rasti in inovacijam, IPO-ji podjetij, ki še ne ustvarjajo dobička, predstavljajo znatno tveganje za vlagatelje. Izjava Elona Muska o nepredvidljivosti dobičkonosnosti poudarja to negotovost. Posledice za finančne trge so, da bo IPO SpaceX-a verjetno pritegnil veliko pozornosti in kapitala, kar lahko vpliva na likvidnost drugih naložb. Vendar pa bodo vlagatelji morali skrbno pretehtati visoko rast proti pomanjkanju dobičkonosnosti in morebitnim regulatornim tveganjem. Delnice podobnih inovativnih, a nedobičkonosnih podjetij so lahko volatilne. Obveznice niso neposredno prizadete, razen če podjetje izda obveznice pred IPO-jem. Zgodovinsko gledano, številni tehnološki IPO-ji so bili sprva zelo uspešni, vendar so se nekateri kasneje soočili z izzivi zaradi pomanjkanja dobička. Naprej bo pomembno spremljati podrobnosti prospekta IPO in odziv trga. Za slovenskega dolgoročnega vlagatelja to pomeni, da so IPO-ji visoko rastočih podjetij lahko privlačni, vendar je ključno temeljito preučiti finančne podatke in tveganja, še posebej, če podjetje še ne ustvarja dobička.",
       "vpliv": [
-        "potencialna krepitev ameriškega dolarja",
-        "preusmeritev kapitalskih tokov v tehnološki sektor",
-        "povečana ponudba delnic na ameriški borzi",
-        "možen pritisk na druge tehnološke delnice zaradi preusmeritve pozornosti"
+        "Visoka pričakovanja za IPO",
+        "Tveganje zaradi nedobičkonosnosti",
+        "Potencialna volatilnost delnic",
+        "Vpliv na trg vesoljske industrije"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-spacex-ipo-could-lead-to-8-of-americas-current-account-deficit-being-refinanced-in-single-day-a013a428?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-10T08:07:00.000Z"
-    },
-    {
-      "naslov": "BYD vlaga 2 milijardi evrov v hitro polnjenje v Evropi",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Kitajski proizvajalec električnih vozil BYD bo v Evropi investiral 2 milijardi evrov v razvoj in postavitev polnilnic z \"bliskovitim\" polnjenjem, ki omogočajo 5-minutno polnjenje. Ta poteza naj bi podjetju omogočila pridobivanje tržnega deleža na račun uveljavljenih proizvajalcev avtomobilov.",
-      "analiza": "Vlaganje podjetja BYD v infrastrukturo za hitro polnjenje električnih vozil v Evropi z 2 milijardama evrov je pomemben korak v širjenju električne mobilnosti na celini. Ta naložba neposredno naslavlja eno od ključnih ovir za sprejetje električnih vozil – čas polnjenja. Z zagotavljanjem 5-minutnega polnjenja BYD cilja na pridobitev pomembnega tržnega deleža v Evropi, kar bo povečalo konkurenco med proizvajalci električnih vozil. To lahko pozitivno vpliva na cene električnih vozil in pospeši razvoj tehnologije baterij. Na delniških trgih lahko pričakujemo pozitivne učinke za podjetja v dobavni verigi baterij in polnilne infrastrukture, medtem ko lahko tradicionalni proizvajalci avtomobilov občutijo pritisk. Vpliv na surovine je posreden, vendar bi lahko povečano povpraševanje po litiju, kobaltu in drugih materialih za baterije vplivalo na njihove cene. Za slovenskega dolgoročnega vlagatelja to pomeni nadaljnjo rast sektorja električnih vozil in potencialne naložbene priložnosti v podjetja, ki podpirajo to rast, ter zavedanje o povečani konkurenci na trgu.",
-      "vpliv": [
-        "povečanje konkurence na evropskem trgu EV",
-        "potencialno znižanje cen električnih vozil zaradi konkurence",
-        "spodbujanje razvoja tehnologije baterij",
-        "povečano povpraševanje po surovinah za baterije"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/6e8c7f42-e7b1-40cf-814c-8f4d764a8f30",
-      "objavljeno": "2026-06-10T06:30:26.000Z"
-    },
-    {
-      "naslov": "Baltske države strah pred širjenjem rusko-ukrajinskega konflikta",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Baltske države izražajo zaskrbljenost zaradi morebitnega širjenja rusko-ukrajinskega konflikta, potem ko so zabeležile več vdorov dronov. Te incidente povečujejo strah pred vojaškim spopadom z Rusijo in destabilizacijo regije.",
-      "analiza": "Povečana zaskrbljenost baltskih držav zaradi morebitnega širjenja rusko-ukrajinskega konflikta, ki jo sprožajo vdori dronov, predstavlja pomemben geopolitični dejavnik. Ti dogodki lahko povzročijo povečano vojaško napetost v regiji, kar lahko vpliva na varnostne razmere in gospodarsko stabilnost v Evropi. Na finančnih trgih bi to lahko povzročilo beg v \"varne\" naložbe, povečanje cen energentov, če bi prišlo do motenj v dobavah, in negativno vplivalo na evropske delniške indekse. Obveznice držav v regiji bi lahko postale manj privlačne zaradi povečanega tveganja. Za slovenske vlagatelje to pomeni nadaljnjo negotovost glede stabilnosti evropskega gospodarstva in potencialni vpliv na naložbe v regiji ali podjetja, ki so izpostavljena geopolitičnim tveganjem. Zgodovinsko gledano, povečane geopolitične napetosti pogosto vodijo do povečane nestanovitnosti na finančnih trgih in povečane previdnosti vlagateljev.",
-      "vpliv": [
-        "povečana nestanovitnost na evropskih finančnih trgih",
-        "potencialni dvig cen energentov",
-        "beg v varne naložbe",
-        "negativni vpliv na delniške indekse v regiji"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/longform/2026/6/10/baltic-states-fear-russia-ukraine-war-spillover-after-drone-incursions?traffic_source=rss",
-      "objavljeno": "2026-06-10T07:57:57.000Z"
-    },
-    {
-      "naslov": "Oracle mora dokazati vrednost svojih AI naložb",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Delnice podjetja Oracle so močno zrasle na podlagi optimizma glede umetne inteligence (AI), vendar mora podjetje zdaj z rezultati upravičiti ta pričakovanja. Prihajajoče poročilo o četrtletnih dobičkih bo ključno za oceno napredka pri gradnji podatkovnih centrov in finančnega vpliva preusmeritve k AI.",
-      "analiza": "Rast delnic podjetja Oracle, ki temelji na pričakovanjih glede umetne inteligence, postavlja podjetje pred izziv, da te napovedi tudi uresniči. Prihajajoče poročilo o četrtletnih dobičkih je ključno za potrditev naložb v podatkovne centre in učinkovitost strategije preusmeritve k AI. Če bodo rezultati pozitivni, lahko to dodatno spodbudi rast delnic in potrdi trend vlaganj v AI infrastrukturo. Negativni rezultati bi lahko povzročili korekcijo cene delnic in povečali negotovost glede prihodnosti podjetja v tem sektorju. Na delniških trgih lahko to vpliva na celoten tehnološki sektor, zlasti na podjetja, ki gradijo infrastrukturo za AI. Obvezniški trgi bodo manj neposredno prizadeti, razen če bi večje spremembe v ceni delnic Oracle vplivale na širše tržne indekse. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba skrbno spremljati rezultate podjetij, ki so izpostavljena trendu AI, saj lahko uspešnost posameznih podjetij vpliva na celoten sektor in ponuja priložnosti za diverzifikacijo portfelja.",
-      "vpliv": [
-        "potencialna rast cene delnic Oracle ob dobrih rezultatih",
-        "možna korekcija cene delnic ob slabih rezultatih",
-        "vpliv na celoten tehnološki sektor, povezan z AI",
-        "povečana pozornost vlagateljev na podjetja v AI dobavni verigi"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/oracles-stock-has-surged-on-ai-hype-now-it-has-to-deliver-the-earnings-to-match-3b56592b?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-10T02:42:00.000Z"
-    },
-    {
-      "naslov": "Nemčija z 100 milijardnim načrtom za posodobitev železnic",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Nemčija načrtuje vlaganje 100 milijard evrov v posodobitev svojega železniškega omrežja. Ta ambiciozni projekt je prvi test sposobnosti največjega evropskega gospodarstva, da obrne večletni trend upadanja in izboljša svojo infrastrukturo.",
-      "analiza": "Nemški načrt za vlaganje 100 milijard evrov v posodobitev železnic je ključnega pomena za prihodnost evropskega gospodarstva in infrastrukture. Ta naložba je namenjena izboljšanju učinkovitosti, zanesljivosti in trajnosti železniškega prometa, kar lahko pozitivno vpliva na gospodarsko rast in zmanjšanje emisij CO2. Projekt predstavlja pomemben test za Nemčijo, da obrne trend upadanja vlaganj v infrastrukturo in pokaže svojo sposobnost izvajanja velikih strukturnih reform. Na delniških trgih lahko to pozitivno vpliva na gradbena podjetja, proizvajalce železniške opreme in dobavitelje v gradbeni industriji. Obvezniški trgi bi lahko videli povečano ponudbo nemških državnih obveznic za financiranje projekta, kar bi lahko vplivalo na obrestne mere. Za slovenskega dolgoročnega vlagatelja to predstavlja potencialno priložnost za naložbe v podjetja, ki sodelujejo pri tem projektu, ter kaže na pomen vlaganj v trajnostno infrastrukturo kot ključnega dejavnika dolgoročne gospodarske rasti v Evropi.",
-      "vpliv": [
-        "spodbujanje gradbenega sektorja v Nemčiji",
-        "povečano povpraševanje po opremi za železnice",
-        "potencialni pozitivni učinki na nemški BDP",
-        "izboljšanje logistične učinkovitosti v Evropi"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/db75e347-b13b-4753-8130-6301bb55c040",
-      "objavljeno": "2026-06-10T04:00:15.000Z"
+      "vir_url": "https://www.marketwatch.com/story/spacex-is-launching-a-historic-ipo-but-its-biggest-risk-has-nothing-to-do-with-rockets-0c030f9f?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-10T15:09:00.000Z"
     }
   ]
 }
