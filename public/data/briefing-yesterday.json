@@ -1,112 +1,112 @@
 {
-  "generiranoOb": "2026-06-10T18:23:32.893Z",
+  "generiranoOb": "2026-06-11T18:37:26.909Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-06-10",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v senci naraščajočih geopolitičnih napetosti in makroekonomskih skrbi, medtem ko so ameriški trgi v prvih dveh urah trgovanja že nakazali smer. Ključna novica dneva je bila rast ameriške inflacije na 4,2 % v maju, kar je triletni vrh, ki ga je predsednik Trump komentiral z izjavo \"ljubim inflacijo\", medtem ko je za to rast v veliki meri kriv konflikt v Iranu in zaprtje Hormuške ožine. Geopolitično tveganje se je še povečalo z opozorilom predsednika Trumpa o morebitnih novih \"močnih udarcih\" proti Iranu, kar je prispevalo k negotovosti na trgih in vplivalo na cene energentov. V korporativnem sektorju je odmevala ponudba Frasers Group za prevzem nemške modne hiše Hugo Boss v vrednosti 2,7 milijarde evrov, kar kaže na aktivnost v segmentu maloprodaje. Tehnološki velikan Amazon je napovedal dodatnih 17,5 milijarde dolarjev naložb v umetno inteligenco, kljub naraščajočemu dolgu, kar poudarja tekmo v AI sektorju. Na področju financ je JLL poročal o rekordni konkurenci pri posojilih za komercialne nepremičnine v aprilu, kar signalizira visoko likvidnost. Končno, visoka inflacija ima tudi dolgoročne posledice, saj bi lahko prilagoditev življenjskih stroškov (COLA) za socialno varnost v ZDA leta 2027 dosegla 4,7 %, kar obremenjuje državne finance, a hkrati pomaga 44 % starejših Američanov ohraniti kupno moč.",
+  "datum": "2026-06-11",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v senci hitro spreminjajočih se geopolitičnih razmer na Bližnjem vzhodu in pomembnih novic iz sveta tehnologije ter makroekonomije, medtem ko so ameriški trgi odprti že dve uri. Glavni poudarek dneva je bil na odločitvi ameriškega predsednika Trumpa, da prekliče načrtovane napade na Iran, kar je sledilo predhodnim grožnjam z vojaško akcijo, vključno z zavzetjem ključnega otoka Kharg. Kljub tej deeskalaciji je Svetovna banka opozorila, da bi morebitna vojna med ZDA in Iranom globalno rast znižala na 2,5 %, kar je najnižje po pandemiji COVID-19, predvsem zaradi skokovitih cen energentov in inflacije. Na trgih se je odzvalo tudi zlato, ki je padlo na šestmesečno dno, saj so špekulativni vlagatelji umikali sredstva, med drugim zaradi deeskalacije in pričakovanj o dvigu obrestnih mer v ZDA. V tehnološkem sektorju se je SpaceX pripravljal na rekordno IPO v vrednosti 1,78 bilijona dolarjev, kljub opozorilom o morebitni precenjenosti, medtem ko se javni trgi na splošno odpirajo za naložbe v umetno inteligenco. Vpliv inflacije se je pokazal tudi pri potrošnikih, saj Američani zaradi visokih cen letalskih kart opuščajo evropska potovanja in se raje odločajo za domače destinacije.",
   "novice": [
     {
-      "naslov": "Ameriška inflacija dosega triletni vrh ob pritisku vojne v Iranu",
+      "naslov": "Trump preklical napade na Iran po predhodnih grožnjah z vojaško akcijo",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Ameriški predsednik Trump je preklical načrtovane napade na Iran za četrtek zvečer, kar je sledilo predhodnim grožnjam z 'zelo močnimi' udarci in zavzetjem otoka Kharg, ključnega za iranski izvoz nafte. Trump je dejal, da je bil dosežen napredek v pogajanjih za nov dogovor s Teheranom, kar je omogočilo umik od vojaške akcije. Odločitev je prišla po dveh zaporednih dneh izmenjave ognja, kljub nominalnemu premirju. Ta razvoj dogodkov kaže na hitro spreminjajočo se dinamiko v regiji in zmanjšanje neposrednega tveganja za konflikt.",
+      "analiza": "Geopolitične napetosti med ZDA in Iranom so v zadnjih dneh močno nihale, kar se je odražalo v hitrih spremembah retorike in dejanj. Trumpove grožnje z vojaško akcijo, vključno z zavzetjem otoka Kharg, ki obvladuje približno 90 % iranskega izvoza nafte, so sprva povzročile zaskrbljenost na trgih. Takšne grožnje običajno dvignejo cene nafte zaradi strahu pred motnjami v dobavi in povečajo povpraševanje po varnih zatočiščih, kot je zlato. Preklic napadov, ki ga je Trump utemeljil z napredkom v pogajanjih, pa prinaša določeno olajšanje in zmanjšuje neposredno tveganje za konflikt. Posledično se lahko cene nafte stabilizirajo ali celo padejo, medtem ko se pritisk na cene zlata zmanjša. Za delniške trge to pomeni zmanjšanje geopolitičnega tveganja, kar je običajno pozitivno. Vendar pa ostaja dolgoročna negotovost glede stabilnosti regije in morebitnih prihodnjih eskalacij. Slovenski dolgoročni vlagatelj naj bo pozoren na cene energentov in morebitne širše makroekonomske vplive, ki bi jih prinesla morebitna ponovna eskalacija, čeprav trenutna deeskalacija prinaša kratkoročno stabilnost.",
+      "vpliv": [
+        "Zmanjšanje geopolitičnega tveganja",
+        "Potencialna stabilizacija cen nafte",
+        "Zmanjšan pritisk na cene zlata",
+        "Kratkoročno pozitivno za delniške trge"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/05472479-445d-4c16-ba85-6db47ba72373",
+      "objavljeno": "2026-06-11T18:01:02.000Z"
+    },
+    {
+      "naslov": "Svetovna banka opozarja na upočasnitev globalne rasti zaradi iranske vojne",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Ameriška inflacija je maja poskočila na letno stopnjo 4,2 %, kar predstavlja tretji zaporedni mesečni porast in triletni vrh. Pred začetkom konflikta v Iranu je bila inflacija pri 2,4 %. Zaprtje Hormuške ožine je pomembno vplivalo na cene energentov, kar je ključni dejavnik rasti. Ameriški predsednik Donald Trump je ob objavi podatkov izjavil, da \"ljubi inflacijo\" zaradi nedavnih dogodkov v konfliktu.",
-      "analiza": "Dvig ameriške inflacije na 4,2 % v maju, kar je triletni vrh, predstavlja ključen makroekonomski podatek. Ozadje tega dviga je predvsem eskalacija vojne v Iranu in posledično zaprtje Hormuške ožine, kar je močno vplivalo na cene energentov. Pred začetkom konflikta je bila inflacija pri 2,4 %. Mehanizem vpliva je jasen: višje cene energije se prenašajo na celotno gospodarstvo, povečujejo proizvodne stroške in s tem cene končnih izdelkov in storitev. Posledice za finančne trge so večplastne: delniški trgi so se ob objavi podatkov verjetno odzvali negativno zaradi strahu pred morebitnim zvišanjem obrestnih mer s strani centralne banke. Obvezniški trgi bi lahko zabeležili padec cen (in rast donosov), saj višja inflacija zmanjšuje realno vrednost prihodnjih denarnih tokov. Valute, zlasti ameriški dolar, bi lahko doživele nihanja, odvisno od pričakovanj glede monetarne politike. Cene surovin, še posebej nafte, so pod pritiskom zaradi geopolitičnih tveganj. Za slovenskega dolgoročnega vlagatelja to pomeni, da je globalno makroekonomsko okolje bolj negotovo, s poudarkom na inflacijskih pritiskih in geopolitičnih tveganjih, kar zahteva previdno spremljanje in morebitno diverzifikacijo portfelja.",
+      "povzetek": "Svetovna banka je znižala napoved globalne gospodarske rasti na 2,5 %, kar bi predstavljalo najnižjo rast po obdobju po COVID-19. Glavni razlogi za to so vojna med ZDA in Iranom, ki povzroča skokovite cene energentov, inflacijo in stroške zadolževanja. Opozorilo poudarja, da bi širši konflikt v regiji imel resne posledice za svetovno gospodarstvo, saj bi vplival na ključne dobavne verige in globalno finančno stabilnost. To bi dodatno obremenilo že tako krhko svetovno gospodarstvo.",
+      "analiza": "Opozorilo Svetovne banke poudarja resnost geopolitičnih tveganj za svetovno gospodarstvo. Konflikt med ZDA in Iranom, četudi trenutno v fazi deeskalacije, ima potencial, da močno vpliva na globalne trge. Povišane cene energentov, ki so posledica nestabilnosti v regiji, neposredno prispevajo k inflacijskim pritiskom po svetu. Centralne banke bi se v takšnem scenariju soočale z dilemo med obvladovanjem inflacije in podpiranjem gospodarske rasti, kar bi lahko vodilo do višjih obrestnih mer in s tem višjih stroškov zadolževanja za podjetja in države. To bi negativno vplivalo na delniške trge, predvsem na sektorje, ki so odvisni od poceni energije in stabilnih dobavnih verig. Obvezniški trgi bi lahko doživeli padec cen zaradi višjih obrestnih mer, medtem ko bi valute držav, ki so močno odvisne od uvoza energentov, lahko oslabele. Slovenski dolgoročni vlagatelj naj upošteva, da so makroekonomske napovedi podvržene hitrim spremembam glede na geopolitične dogodke in da je diverzifikacija portfelja ključna za obvladovanje takšnih tveganj.",
       "vpliv": [
-        "Inflacija v ZDA 4.2%",
-        "Cene energentov višje",
-        "Pritisk na delniške trge",
-        "Možnost zvišanja obrestnih mer"
+        "Znižana napoved globalne rasti na 2,5 %",
+        "Povišane cene energentov",
+        "Povečana inflacija",
+        "Višji stroški zadolževanja"
       ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/2026/jun/10/inflation-report-rate",
-      "objavljeno": "2026-06-10T17:37:06.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/6/11/global-growth-to-slow-to-lowest-since-covid-due-to-iran-war-world-bank?traffic_source=rss",
+      "objavljeno": "2026-06-11T16:55:16.000Z"
     },
     {
-      "naslov": "Trump opozarja na nove 'močne udarce' ZDA proti Iranu",
-      "sektor": "Geopolitika",
+      "naslov": "Zlato padlo na šestmesečno dno ob umiku špekulativnih vlagateljev",
+      "sektor": "Finance",
       "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Ameriški predsednik Trump je opozoril, da bodo ZDA kmalu ponovno 'močno udarile' Iran. Te izjave prihajajo po izmenjavi ognja med državama, ki je sledila sestrelitvi ameriškega helikopterja. Predsednikove besede kažejo na nadaljnjo zaostritev konflikta v regiji.",
-      "analiza": "Opozorilo predsednika Trumpa o nadaljnjih 'močnih udarcih' proti Iranu po sestrelitvi ameriškega helikopterja predstavlja pomembno eskalacijo geopolitičnih napetosti. Ozadje je že obstoječi konflikt in vpliv na Hormuško ožino. Takšne izjave povečujejo negotovost na globalnih trgih. Mehanizem vpliva je predvsem prek povečanja tveganja: višje geopolitično tveganje običajno vodi do bega kapitala v varnejša zatočišča. Posledice za finančne trge vključujejo padec delniških indeksov, saj vlagatelji postanejo bolj previdni. Cene nafte in plina bi se lahko še dodatno zvišale zaradi strahu pred motnjami v dobavi, še posebej, če bi se Hormuška ožina popolnoma zaprla. Obveznice, predvsem državne obveznice razvitih držav, bi lahko zabeležile rast povpraševanja, kar bi znižalo njihove donose. Valute, kot sta ameriški dolar in švicarski frank, bi se lahko okrepile kot valute varnega zatočišča. Za slovenskega dolgoročnega vlagatelja to pomeni, da je portfelj izpostavljen povečanemu geopolitičnemu tveganju, kar poudarja pomen diverzifikacije in razumevanja vpliva globalnih dogodkov na cene surovin.",
+      "intenziteta": 2,
+      "povzetek": "Cena zlata je padla na šestmesečno dno, saj špekulativni vlagatelji umikajo svoja sredstva. Plemenita kovina je na poti k najslabšemu četrtletju v skoraj desetletju. Na ceno zlata vplivajo deeskalacija iranske vojne, pričakovanja o dvigu obrestnih mer v ZDA in prihajajoča IPO podjetja SpaceX. Ti dejavniki zmanjšujejo privlačnost zlata kot varnega zatočišča in alternativne naložbe, saj se kapital preusmerja v druge oblike naložb.",
+      "analiza": "Padec cene zlata na šestmesečno dno je posledica kombinacije dejavnikov, ki zmanjšujejo njegovo privlačnost kot varnega zatočišča in naložbe brez donosa. Deeskalacija napetosti med ZDA in Iranom zmanjšuje povpraševanje po varnih zatočiščih, saj se zmanjšuje geopolitično tveganje. Hkrati pričakovanja o morebitnih dvigih obrestnih mer v ZDA povečujejo oportunitetne stroške držanja zlata, saj donosnejše obveznice postanejo privlačnejše. Prihajajoča IPO podjetja SpaceX, ki naj bi bila največja v zgodovini, pa preusmerja del špekulativnega kapitala v bolj tvegane, a potencialno donosnejše delniške naložbe. Vpliv na trge je očiten: zlato izgublja vrednost, kar lahko vpliva na portfelje, ki so močno izpostavljeni plemenitim kovinam. Za valute, kot je ameriški dolar, bi lahko višje obrestne mere pomenile krepitev. Slovenski dolgoročni vlagatelj naj razume, da je cena zlata podvržena tako geopolitičnim kot monetarnim dejavnikom, in da je njegova vloga v portfelju predvsem diverzifikacijska in zaščitna pred inflacijo ter krizami, ne pa nujno vir visokih donosov v obdobjih stabilnosti in rasti obrestnih mer.",
       "vpliv": [
-        "Povečanje geopolitičnega tveganja",
-        "Rast cen nafte",
-        "Padec delniških trgov",
-        "Krepitev valute varnega zatočišča"
+        "Cena zlata na šestmesečnem dnu",
+        "Najslabše četrtletje zlata v skoraj desetletju",
+        "Zmanjšano povpraševanje po varnih zatočiščih",
+        "Preusmeritev kapitala v delniške naložbe"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/a4ede6e5-4d5a-47e7-96bf-2bb2e6061775",
-      "objavljeno": "2026-06-10T16:58:29.000Z"
+      "vir_url": "https://www.ft.com/content/0e9b3a3c-2481-4581-90e7-6158906ff7ae",
+      "objavljeno": "2026-06-11T15:57:34.000Z"
     },
     {
-      "naslov": "Frasers Group ponuja 2,7 milijarde evrov za prevzem Hugo Bossa",
+      "naslov": "SpaceX se pripravlja na rekordno IPO v vrednosti 1,78 bilijona dolarjev",
       "sektor": "Finance",
       "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Frasers Group, v lasti maloprodajnega milijarderja Mika Ashleyja, je podala ponudbo za prevzem nemške modne skupine Hugo Boss v vrednosti 2,7 milijarde evrov. Ponudba bi se lahko uporabila za povečanje deleža v podjetju namesto za popoln prevzem. To kaže na aktivnost v sektorju luksuzne mode in maloprodaje.",
-      "analiza": "Ponudba Frasers Group v višini 2,7 milijarde evrov za Hugo Boss je pomembna novica v sektorju maloprodaje in mode. Ozadje je konsolidacija v industriji in iskanje sinergij ali strateških pozicij. Mike Ashley je znan po agresivnih prevzemnih strategijah. Ta poteza kaže na aktivnost v segmentu luksuzne mode in maloprodaje. Mehanizem vpliva na trge je neposreden: delnice Hugo Bossa bi se ob takšni novici verjetno zvišale, saj ponudba običajno pomeni premijo nad tržno ceno. Delnice Frasers Group bi lahko nihale, odvisno od tržne ocene strateške vrednosti prevzema in finančnega bremena. Na splošno takšne M&A aktivnosti kažejo na zaupanje v določen sektor, vendar tudi na morebitne izzive za manjše igralce. Za slovenskega dolgoročnega vlagatelja je to primer, kako se kapitalski trgi odzivajo na prevzemne aktivnosti in kako se vrednost podjetij lahko hitro spremeni. Pomembno je spremljati, ali bo ponudba sprejeta in kakšne bodo dolgoročne strateške posledice za obe podjetji.",
+      "intenziteta": 3,
+      "povzetek": "SpaceX, podjetje Elona Muska, se pripravlja na največjo borzno kotacijo v zgodovini, z ocenjeno vrednostjo 1,78 bilijona dolarjev. Podjetje bo v petek vstopilo na ameriški borzni trg, pri čemer bo vlagateljem ponudilo vsaj 75 milijard dolarjev delnic prek začetne javne ponudbe (IPO). Kljub 'blokbusterskemu' potencialu obstajajo opozorila analitikov, da je podjetje morda precenjeno, kar kaže na 'veliko razhajanje' v ceni. To vzbuja vprašanja o dolgoročni stabilnosti in donosnosti naložbe.",
+      "analiza": "IPO podjetja SpaceX predstavlja zgodovinski dogodek na finančnih trgih, saj bi lahko s potencialno vrednostjo 1,78 bilijona dolarjev preseglo vse prejšnje kotacije. Takšna IPO pritegne ogromno pozornosti vlagateljev in lahko preusmeri znatne količine kapitala iz drugih naložb. Visoka pričakovanja in 'FOMO' (strah pred izpustitvijo) lahko povzročijo začetno visoko volatilnost delnic. Vendar pa opozorila o morebitni precenjenosti in 'velikem razhajanju' v ceni kažejo na tveganja. Analitiki poudarjajo, da kljub impresivni rasti prihodkov (npr. Starlink nad 11 milijardami dolarjev) podjetje še vedno ni profitabilno, kar predstavlja glavno tveganje. Za delniške trge to pomeni nov velik igralec, ki lahko vpliva na ocenjevanje drugih tehnoloških podjetij. Za obvezniške trge je vpliv manj neposreden, vendar bi lahko preusmeritev kapitala v delnice zmanjšala povpraševanje po manj tveganih naložbah. Slovenski dolgoročni vlagatelj naj bo previden pri vstopu v tako visoko profilirane IPO-je, saj so ti pogosto podvrženi špekulativnim pritiskom in visoki volatilnosti, še posebej ob opozorilih o precenjenosti.",
       "vpliv": [
-        "Rast delnic Hugo Bossa",
-        "Nihanje delnic Frasers Group",
-        "Povečana aktivnost M&A v maloprodaji",
-        "Vpliv na sektor luksuzne mode"
+        "Rekordna IPO v vrednosti 1,78 bilijona dolarjev",
+        "Ponudba 75 milijard dolarjev delnic",
+        "Opozorila o precenjenosti",
+        "Potencialno visoka volatilnost delnic"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/4c29a1af-edd8-4dc4-8cbd-eaaf3d167346",
-      "objavljeno": "2026-06-10T17:56:21.000Z"
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/science/2026/jun/11/spacex-record-178tn-float-fears-overvalued-elon-musk-ipo",
+      "objavljeno": "2026-06-11T15:33:49.000Z"
     },
     {
-      "naslov": "Amazon povečuje naložbe v AI za 17,5 milijarde dolarjev ob rasti dolga",
+      "naslov": "Javni trgi se odpirajo za naložbe v umetno inteligenco",
       "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Amazon je napovedal dodatnih 17,5 milijarde dolarjev naložb v umetno inteligenco, medtem ko se njegov dolg še povečuje. Tehnološki velikan je letos zbral že več kot 80 milijard dolarjev zunanjega financiranja. To poudarja agresivno strategijo podjetja na področju AI in nenehno širjenje v nove tehnološke segmente.",
-      "analiza": "Naložba Amazona v višini 17,5 milijarde dolarjev v umetno inteligenco, ki sledi že več kot 80 milijardam dolarjev zunanjega financiranja letos, poudarja intenzivno tekmo v tehnološkem sektorju. Ozadje je globalni trend rasti in razvoja AI, ki obljublja revolucijo v številnih industrijah. Amazon s tem utrjuje svojo pozicijo v prihodnjih tehnologijah. Mehanizem vpliva je dvojen: na eni strani takšne naložbe signalizirajo potencialno dolgoročno rast in inovacije, kar je pozitivno za delnice podjetja in celoten sektor AI. Po drugi strani pa naraščanje dolga, ki ga Amazon kopiči, predstavlja finančno tveganje, ki ga vlagatelji pozorno spremljajo. Posledice za finančne trge: delnice Amazona bi lahko doživele kratkoročno pozitivno reakcijo zaradi optimizma glede AI, vendar bi lahko dolgoročno vlagatelji postali bolj previdni glede zadolženosti. Sektor tehnologije in AI ostaja privlačen, vendar z vedno večjim poudarkom na finančni vzdržnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je ključno razumeti ravnotežje med rastjo in zadolženostjo pri naložbah v tehnološke velikane.",
+      "povzetek": "Finančni trgi se pripravljajo na velik priliv kapitala v podjetja, ki se ukvarjajo z umetno inteligenco. Ogromne vsote, ki jih bo Wall Street zahteval, so verjetno le predplačilo za prihodnje naložbe v ta sektor. To kaže na naraščajoče zaupanje v potencial umetne inteligence in njeno transformativno moč, kar odpira nove priložnosti za vlagatelje. Pričakuje se, da bo ta trend dolgoročno preoblikoval gospodarstvo.",
+      "analiza": "Odpiranje javnih trgov za naložbe v umetno inteligenco signalizira prehod iz zgodnje faze razvoja v obdobje širše komercializacije in integracije AI tehnologij. To pomeni, da bo več podjetij s področja AI iskalo kapital na borzah, kar bo vlagateljem omogočilo lažji dostop do tega hitro rastočega sektorja. Pričakuje se, da bo to povzročilo nadaljnjo rast delnic podjetij, ki so neposredno ali posredno vpletena v razvoj in implementacijo AI. Povečano zanimanje za AI lahko vpliva tudi na druge sektorje, saj se podjetja poskušajo digitalizirati in avtomatizirati svoje procese. To lahko privede do preusmeritve kapitala iz tradicionalnih sektorjev v tehnološke. Za obvezniške trge je vpliv posreden, saj bi lahko rast tehnološkega sektorja podpirala gospodarsko rast, kar bi vplivalo na monetarno politiko. Slovenski dolgoročni vlagatelj naj prepozna, da je umetna inteligenca ključni dolgoročni trend, ki bo preoblikoval gospodarstvo, in da je smiselno razmisliti o izpostavljenosti temu sektorju prek diverzificiranih skladov ali izbranih podjetij, vendar vedno z upoštevanjem tveganj.",
       "vpliv": [
-        "Povečane naložbe v AI",
-        "Rast dolga Amazona",
-        "Optimizem v tehnološkem sektorju",
-        "Vpliv na delnice Amazona"
+        "Pričakovan velik priliv kapitala v AI sektor",
+        "Naraščajoče zaupanje v potencial AI",
+        "Nove priložnosti za vlagatelje",
+        "Potencialna rast delnic AI podjetij"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/amazon-lines-up-another-17-5-billion-for-ai-as-its-debt-pile-grows-further-5f16be9c?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-10T16:52:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/da78ce3e-fd1a-472d-b486-ee199b7c427d",
+      "objavljeno": "2026-06-11T18:09:11.000Z"
     },
     {
-      "naslov": "Trg komercialnih nepremičnin beleži rekordno konkurenco pri posojilih",
-      "sektor": "Finance",
-      "smer": "pozitivno",
+      "naslov": "Američani zaradi visokih cen letalskih kart opuščajo evropska potovanja",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Globalna kreditna aktivnost med posojilodajalci in splošna konkurenčnost posojilnih pogojev na trgu komercialnih nepremičnin sta aprila dosegli rekordno raven, poroča JLL. To kaže na visoko likvidnost in optimizem v tem sektorju ter ugodnejše pogoje za posojilojemalce.",
-      "analiza": "Poročilo JLL o rekordni konkurenci pri posojilih za komercialne nepremičnine v aprilu kaže na visoko likvidnost in optimizem v tem sektorju. Ozadje je verjetno iskanje donosov v okolju, kjer so tradicionalne naložbe morda manj privlačne, in okrevanje po preteklih izzivih v nepremičninskem sektorju. Povečana konkurenca med posojilodajalci pomeni ugodnejše pogoje za posojilojemalce, kar lahko spodbudi nove projekte in investicije. Mehanizem vpliva: večja dostopnost in ugodnejši pogoji financiranja lahko pospešijo rast sektorja komercialnih nepremičnin, kar je pozitivno za gradbena podjetja, razvijalce in lastnike nepremičnin. Posledice za finančne trge: to lahko pomeni povečano aktivnost na trgu nepremičnin, kar vpliva na delnice podjetij, povezanih z gradbeništvom in nepremičninami. Banke in finančne institucije, ki so aktivne v tem segmentu, bi lahko imele koristi od povečanega obsega posojil, vendar se lahko soočijo z manjšimi maržami zaradi konkurence. Za slovenskega dolgoročnega vlagatelja je to znak, da je sektor komercialnih nepremičnin globalno aktiven in privlačen za financiranje, kar lahko ponuja naložbene priložnosti, vendar je treba biti pozoren na morebitno pregrevanje trga.",
+      "povzetek": "Zaradi močno povišanih cen letalskih kart se Američani odločajo za potovanja znotraj ZDA namesto za poletne počitnice v Evropi. Mnogi cenovno ozaveščeni potniki težko upravičijo stroške potovanja v Evropo, kar jih usmerja k domačim destinacijam, kot je Tacoma namesto Toskane. Ta trend kaže na neposreden vpliv inflacije na potrošniške odločitve in spremembe v turistični industriji. To ima pomembne posledice za mednarodni turizem.",
+      "analiza": "Trend, ko Američani opuščajo mednarodna potovanja v korist domačih destinacij, je jasen pokazatelj vpliva inflacije na potrošniško vedenje. Visoke cene letalskih kart, ki so posledica povišanih stroškov goriva in povečanega povpraševanja po pandemiji, zmanjšujejo razpoložljivi dohodek za druge dobrine in storitve. To ima neposredne posledice za turistični sektor: evropske destinacije bi lahko utrpele upad ameriških turistov, medtem ko bi domače destinacije v ZDA lahko doživele povečanje. Za delniške trge to pomeni potencialno negativen vpliv na evropske letalske prevoznike in turistične družbe, medtem ko bi ameriški domači turistični sektor, vključno z letalskimi prevozniki in hoteli, lahko imel koristi. Vpliv na valute je lahko mešan; manjši odliv dolarjev za evropska potovanja bi lahko teoretično podprl dolar, a je vpliv verjetno omejen. Slovenski dolgoročni vlagatelj naj upošteva, da inflacijski pritiski spreminjajo potrošniške navade in da je pomembno spremljati, kako se podjetja v turističnem in transportnem sektorju prilagajajo tem spremembam, saj to vpliva na njihovo dolgoročno profitabilnost.",
       "vpliv": [
-        "Rekordna konkurenca v posojilih za nepremičnine",
-        "Ugodnejši pogoji za posojilojemalce",
-        "Spodbuda za sektor komercialnih nepremičnin",
-        "Vpliv na delnice gradbenih in nepremičninskih podjetij"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/06/10/jll-commercial-real-estate-record-lending-competition-april.html",
-      "objavljeno": "2026-06-10T17:33:43.000Z"
-    },
-    {
-      "naslov": "COLA za socialno varnost v ZDA lahko doseže 4,7 % leta 2027",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Prilagoditev življenjskih stroškov (COLA) za socialno varnost v ZDA bi lahko leta 2027 znašala 4,7 %, saj je inflacija dosegla najvišjo raven v treh letih. Skupno 44 % starejših Američanov je odvisnih od socialne varnosti za ves svoj dohodek, poroča Senior Citizens League. To odraža neposreden vpliv inflacije na kupno moč prebivalstva.",
-      "analiza": "Napovedana prilagoditev življenjskih stroškov (COLA) za socialno varnost v ZDA v višini 4,7 % za leto 2027 je neposredna posledica visoke inflacije, ki je dosegla triletni vrh. Ozadje je mehanizem, ki indeksira pokojnine in druge socialne prejemke z inflacijo, da se ohrani kupna moč prejemnikov. To je še posebej pomembno, saj je 44 % starejših Američanov popolnoma odvisnih od socialne varnosti. Mehanizem vpliva: čeprav je to pozitivno za prejemnike, saj jim pomaga ohranjati kupno moč, pa predstavlja dodaten pritisk na državne finance in proračun. Visoka inflacija, ki sproži takšne prilagoditve, lahko hkrati erodira vrednost prihrankov. Posledice za finančne trge: to lahko vpliva na obvezniške trge, saj se povečujejo pričakovanja glede državne porabe in morebitnega primanjkljaja. Na splošno visoka inflacija in z njo povezane prilagoditve lahko vplivajo na potrošniško porabo in s tem na sektor maloprodaje. Za slovenskega dolgoročnega vlagatelja je to opomin na pomen zaščite pred inflacijo in na to, kako makroekonomski dejavniki vplivajo na kupno moč in državne finance.",
-      "vpliv": [
-        "Povečanje prejemkov socialne varnosti",
-        "Pritisk na državne finance",
-        "Vpliv na potrošniško porabo",
-        "Opozorilo na inflacijska tveganja"
+        "Povišane cene letalskih kart",
+        "Preusmeritev ameriških turistov na domače destinacije",
+        "Potencialni upad ameriških turistov v Evropi",
+        "Vpliv inflacije na potrošniške odločitve"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/social-securitys-cola-could-be-4-7-in-2027-as-inflation-hits-the-highest-level-in-3-years-e5a87320?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-10T15:00:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/rip-euro-summer-americans-are-trading-tuscany-for-tacoma-thanks-to-soaring-airfares-44751904?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-11T16:14:00.000Z"
     }
   ]
 }
