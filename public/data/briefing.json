@@ -1,95 +1,112 @@
 {
-  "generiranoOb": "2026-06-13T07:57:18.577Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-06-13T16:58:20.588Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-06-13",
-  "povzetek": "Jutro 13. junija 2026 prinaša mešane signale za globalne finančne trge. Geopolitične napetosti na Bližnjem vzhodu se stopnjujejo, saj je Izrael izvedel napade na južni Libanon, kar je povzročilo smrt in ukaze za prisilno izselitev prebivalstva iz 20 libanonskih mest in vasi, kar bi lahko vplivalo na cene nafte in regionalno stabilnost. Hkrati pa se pojavljajo poročila o morebitnem mirovnem dogovoru med ZDA in Iranom, ki bi lahko prinesel določeno olajšanje na energetskih trgih, čeprav dogovor še ni podpisan. Na tehnološkem področju je odmevala novica o SpaceX-ovem vstopu na borzo Nasdaq z vrednostjo 2,2 bilijona dolarjev, kar je Elona Muska povzdignilo v prvega trilijonarja na svetu, kar kaže na izjemen optimizem v sektorju vesoljske tehnologije. Vendar pa je sektor umetne inteligence (AI) doživel udarec, saj je Anthropic suspendiral dostop do svojih AI modelov tujcem zaradi ameriških nacionalnovarnostnih pomislekov, kar poudarja naraščajoča regulativna tveganja. Na področju korporativnih združitev je ameriško ministrstvo za pravosodje odobrilo združitev Paramount-WBD v vrednosti približno 110 milijard dolarjev, kar je pomemben mejnik za medijsko industrijo. V makroekonomskem smislu pa Financial Times opozarja na potrebo po učinkoviti monetarni politiki za obvladovanje inflacije, da bi se izognili ponavljanju napak iz leta 2008.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v senci pomembnih geopolitičnih in makroekonomskih novic, medtem ko so ameriški trgi odprli dan z mešanim sentimentom. Glavna novica dneva je napoved Pakistana o skorajšnjem podpisu mirovnega sporazuma med ZDA in Iranom v 24 urah, kar vključuje ponovno odprtje Hormuške ožine in bi lahko pozitivno vplivalo na globalne cene energentov. Po drugi strani pa je ameriška vlada podjetju Anthropic ukazala, naj onemogoči svoje AI modele tujim državljanom, kar poudarja naraščajoče regulativno tveganje v tehnološkem sektorju. Finančni trgi so bili tudi opozorjeni s strani Pimca, ki napoveduje ponoven začetek neplačil na dolžniških trgih, kar bi lahko preusmerilo kapital iz delnic v varnejše obveznice. Kljub temu je uspeh največje IPO v zgodovini za SpaceX pokazal močan apetit vlagateljev po inovativnih tehnoloških podjetjih. Inflacijske skrbi ostajajo prisotne, saj luksuzno trošenje bogatih še naprej dviguje cene, kar otežuje delo centralnim bankam, medtem ko odločitev FCC o pospešeni obravnavi licenc za ABC kaže na povečano regulativno tveganje za medijske konglomerate v ZDA.",
   "novice": [
     {
-      "naslov": "Izrael napadel južni Libanon, odredil izselitev prebivalcev in povečal regionalne napetosti.",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Al Jazeera poroča, da je bil 13. junija 2026 ubit en človek v izraelskih napadih na južni Libanon. Izraelska vojska je prebivalcem 20 libanonskih mest in vasi nemudoma ukazala, naj zapustijo svoje domove, kar kaže na eskalacijo konflikta. Ti dogodki sledijo naraščajočim napetostim v regiji Bližnjega vzhoda. Prisilna izselitev poudarja humanitarno krizo in nestabilnost. Novica je bila objavljena 13. junija 2026 ob 07:33:14 UTC.",
-      "analiza": "Ozadje teh dogodkov je dolgotrajen konflikt med Izraelom in Libanonom, ki se je v zadnjem času stopnjeval, pogosto v povezavi s širšimi regionalnimi konflikti. Takšni incidenti so relevantni, saj neposredno vplivajo na geopolitično stabilnost Bližnjega vzhoda, ključne regije za svetovno oskrbo z energijo. Mehanizem vpliva na finančne trge je predvsem prek strahu pred motnjami v dobavi nafte, kar lahko povzroči rast cen surovin. Eskalacija konflikta v regiji, ki je dom velikim proizvajalcem nafte, običajno vodi do povečane volatilnosti na trgih. Posledice se kažejo v morebitnem dvigu cen nafte (npr. Brent in WTI), kar bi lahko povečalo inflacijske pritiske in vplivalo na delnice energetskih podjetij. Hkrati lahko pride do bega v varna zatočišča, kot so ameriške državne obveznice in zlato, kar znižuje donose obveznic in krepi ceno zlata. Regionalne valute so pod pritiskom. Zgodovinsko gledano, vsaka večja eskalacija na Bližnjem vzhodu, kot so bile naftne krize v preteklosti, je imela takojšen in močan vpliv na svetovne cene nafte in s tem na globalno gospodarstvo. Vlagatelji bodo pozorno spremljali nadaljnji razvoj dogodkov in morebitne odzive mednarodne skupnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati geopolitična tveganja pri diverzifikaciji portfelja, saj lahko vplivajo na globalne dobavne verige in inflacijo, kar posredno vpliva na donosnost naložb.",
-      "vpliv": [
-        "Rast cen nafte",
-        "Povečana volatilnost delnic",
-        "Beg v varna zatočišča (zlato, obveznice)",
-        "Pritiski na regionalne valute"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/6/13/one-killed-as-israel-hits-south-lebanon-issues-forced-displacement-orders?traffic_source=rss",
-      "objavljeno": "2026-06-13T07:33:14.000Z"
-    },
-    {
-      "naslov": "ZDA in Iran signalizirata dosegljivost mirovnega dogovora, čeprav še ni podpisan.",
+      "naslov": "Pakistan napoveduje bližnji sporazum med ZDA in Iranom ter odprtje Hormuške ožine.",
       "sektor": "Geopolitika",
       "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Al Jazeera poroča, da ZDA in Teheran signalizirata, da je mirovni dogovor dosegljiv, čeprav še ni podpisan. Predsednik Donald Trump naj bi iskal \"izhod\" iz vojne z Iranom. Poročila o morebitnem dogovoru med ZDA in Iranom so se pojavila 13. junija 2026, kar nakazuje na potencialno deeskalacijo napetosti. Novica je bila objavljena 13. junija 2026 ob 00:00:00 UTC (liveblog) in 07:23:26 UTC (video).",
-      "analiza": "Ozadje te novice so dolgotrajne napetosti med ZDA in Iranom, ki so v preteklosti povzročale nestabilnost na Bližnjem vzhodu in vplivale na svetovne cene nafte. Morebiten mirovni dogovor je relevanten, ker bi lahko zmanjšal geopolitična tveganja v ključni regiji za proizvodnjo nafte in plina. Mehanizem vpliva na finančne trge je predvsem prek zmanjšanja premije za tveganje na trgu nafte, kar bi lahko vodilo do znižanja cen surovin. Deeskalacija bi lahko tudi izboljšala splošno globalno gospodarsko zaupanje. Posledice bi lahko vključevale padec cen nafte, kar bi pozitivno vplivalo na podjetja, ki so veliki porabniki energije, in zmanjšalo inflacijske pritiske. Zmanjšano geopolitično tveganje bi lahko spodbudilo apetit po tveganju, kar bi podprlo delniške trge in zmanjšalo povpraševanje po varnih zatočiščih, kot so zlato in obveznice. V preteklosti so bili dogovori z Iranom, kot je bil iranski jedrski sporazum leta 2015, povezani z znižanjem cen nafte, saj so odprli možnost za povečanje iranske proizvodnje. Vlagatelji bodo pozorno spremljali napredek pogajanj in morebitno formalno sklenitev dogovora. Za slovenskega dolgoročnega vlagatelja bi zmanjšanje geopolitičnih tveganj in stabilizacija cen energije prispevala k bolj predvidljivemu gospodarskemu okolju, kar je ugodno za dolgoročne naložbe.",
+      "intenziteta": 3,
+      "povzetek": "Pakistanski premier Shehbaz Sharif je napovedal, da naj bi bil mirovni sporazum med ZDA in Iranom podpisan v naslednjih 24 urah. Kot del razširitve prekinitve ognja naj bi se ponovno odprla tudi Hormuška ožina. Ta strateško pomembna pomorska pot je ključna za globalno oskrbo z nafto. Napoved prihaja v času, ko se Iran in ZDA približujeta dogovoru, kljub preteklim konfliktom in napetostim v regiji. Sharifovo sporočilo nakazuje na pomemben korak k stabilizaciji v regiji.",
+      "analiza": "Dolgotrajne napetosti med ZDA in Iranom so bile pogosto vir geopolitične negotovosti, ki je vplivala na cene nafte in stabilnost Bližnjega vzhoda. Potencialni dogovor in ponovno odprtje Hormuške ožine, skozi katero poteka velik del svetovnega pomorskega prometa nafte, bi lahko pomembno zmanjšala premijo za tveganje na trgu energentov. To bi lahko vodilo do stabilizacije ali celo znižanja cen nafte in plina, kar bi imelo pozitiven vpliv na globalno inflacijo in stroške poslovanja podjetij. Za delnice bi to pomenilo olajšanje za sektorje, ki so odvisni od nizkih cen energentov, medtem ko bi energetske delnice lahko doživele umik. Obveznice bi lahko reagirale z manjšim povpraševanjem po varnih pristaniščih, valute pa bi se lahko stabilizirale. Za slovenskega dolgoročnega vlagatelja to pomeni potencialno zmanjšanje inflacijskih pritiskov in večjo stabilnost na globalnih trgih, kar je ugodno za široko diverzificirane portfelje.",
       "vpliv": [
-        "Potencialni padec cen nafte",
-        "Povečan apetit po tveganju na delniških trgih",
-        "Zmanjšano povpraševanje po varnih zatočiščih",
-        "Zmanjšanje inflacijskih pritiskov"
+        "Znižanje cen nafte",
+        "Povečana stabilnost v Hormuški ožini",
+        "Potencialno zmanjšanje globalne inflacije",
+        "Manjše povpraševanje po varnih obveznicah"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss",
-      "objavljeno": "2026-06-13T00:00:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/726f4afe-c3ff-4ec0-bfc9-b572b419e11f",
+      "objavljeno": "2026-06-13T14:38:59.000Z"
     },
     {
-      "naslov": "Anthropic suspendiral AI modele tujcem zaradi ameriških nacionalnovarnostnih pomislekov.",
+      "naslov": "ZDA naročile Anthropicu onemogočenje AI modelov za vse tuje državljane.",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Financial Times poroča, da je Anthropic, pomembno podjetje na področju umetne inteligence, suspendiral dostop do svojih najnovejših AI modelov tujcem. Ta odločitev je bila sprejeta po tem, ko je Trumpova administracija podjetju naročila, naj omeji dostop tujim državljanom zaradi pomislekov glede nacionalne varnosti. Novica je bila objavljena 13. junija 2026 ob 02:01:55 UTC. Ta poteza poudarja naraščajoča regulativna tveganja v sektorju AI.",
-      "analiza": "Ozadje te novice je hitra rast in strateški pomen umetne inteligence, ki je sprožila pomisleke glede njene uporabe, etike in nacionalne varnosti. Ta dogodek je relevanten, ker kaže na stopnjevanje vladnega nadzora nad razvojem in dostopom do naprednih AI tehnologij, še posebej v kontekstu mednarodnega tekmovanja. Mehanizem vpliva na finančne trge je prek povečane negotovosti in regulativnih tveganj za podjetja v sektorju AI. Omejitve dostopa lahko upočasnijo globalno širitev in monetizacijo AI produktov, kar vpliva na prihodke in rast podjetij. Posledice se kažejo v morebitnem padcu delnic AI podjetij, ki so odvisna od mednarodnega trga, in splošnem zmanjšanju optimizma v sektorju. To bi lahko vplivalo tudi na naložbe v tvegani kapital, usmerjen v AI. Dolgoročno lahko takšne regulacije privedejo do fragmentacije trga AI in razvoja različnih standardov v posameznih državah. Zgodovinsko gledano so podobne regulativne ovire vplivale na rast sektorjev, kot so telekomunikacije ali biotehnologija. Vlagatelji bodo pozorno spremljali nadaljnje regulativne ukrepe in njihov vpliv na poslovne modele AI podjetij. Za slovenskega dolgoročnega vlagatelja je ključno razumeti, da so visokotehnološki sektorji, kot je AI, podvrženi ne le tržnim, ampak tudi regulativnim tveganjem, ki lahko bistveno vplivajo na dolgoročno donosnost naložb v ta podjetja.",
+      "povzetek": "Ameriške oblasti so podjetju Anthropic izdale direktivo o nadzoru izvoza, ki zahteva takojšnjo prekinitev dostopa do njihovih AI modelov Fable 5 in Mythos 5 za vse tuje državljane. Podjetje je potrdilo prejem te direktive, ki predstavlja enega prvih konkretnih primerov vladne regulacije na področju umetne inteligence z nacionalnovarnostnimi implikacijami. To kaže na naraščajočo zaskrbljenost glede širjenja naprednih AI tehnologij izven meja ZDA. Ukrep je bil objavljen 13. junija 2026.",
+      "analiza": "Ta poteza ZDA odraža naraščajočo geopolitično tekmo na področju umetne inteligence in prizadevanja za ohranjanje tehnološke prednosti. Takšne regulativne ovire lahko upočasnijo globalni razvoj in implementacijo AI tehnologij, saj omejujejo dostop do ključnih orodij in sodelovanja. Za delnice v sektorju umetne inteligence bi to lahko pomenilo povečano regulativno tveganje in potencialno zmanjšanje mednarodnega trga, kar bi lahko vplivalo na prihodnje prihodke in vrednotenja podjetij, kot je Anthropic. Vpliv na širše tehnološke indekse, kot je Nasdaq, bi bil odvisen od obsega in pogostosti podobnih ukrepov. Dolgoročno bi to lahko vodilo do fragmentacije globalnega AI trga, podobno kot pri polprevodnikih. Za slovenskega dolgoročnega vlagatelja je to opozorilo na naraščajoče regulativno tveganje v tehnološkem sektorju, še posebej na področju AI, kar zahteva pozorno spremljanje geopolitičnih odločitev, ki vplivajo na globalne dobavne verige in dostop do tehnologij.",
       "vpliv": [
-        "Povečana regulativna tveganja za AI podjetja",
-        "Potencialni padec delnic AI podjetij",
-        "Upočasnitev globalne širitve AI produktov",
-        "Fragmentacija trga AI"
+        "Povečano regulativno tveganje za AI podjetja",
+        "Omejen globalni razvoj AI tehnologij",
+        "Potencialno znižanje vrednotenja AI delnic",
+        "Geopolitična fragmentacija AI trga"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/2a27300a-b90d-4649-8c09-f7e7cd426dbb",
-      "objavljeno": "2026-06-13T02:01:55.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals?traffic_source=rss",
+      "objavljeno": "2026-06-13T09:35:12.000Z"
     },
     {
-      "naslov": "Elon Musk postal prvi trilijonar, SpaceX debitiral na borzi z 2,2 bilijona dolarjev.",
+      "naslov": "Wall Street izvedel največjo IPO v zgodovini za podjetje SpaceX.",
       "sektor": "Finance",
       "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "BBC Business poroča, da je Elon Musk postal prvi trilijonar na svetu, saj je njegovo premoženje doseglo 1,11 bilijona dolarjev po Bloombergovi lestvici. To se je zgodilo po izjemnem debiju podjetja SpaceX na borzi Nasdaq, kjer je bilo podjetje ovrednoteno na 2,2 bilijona dolarjev. SpaceX je zbral 75 milijard dolarjev v največji IPO v zgodovini. Novica je bila objavljena 12. junija 2026 ob 22:00:52 UTC.",
-      "analiza": "Ozadje te novice je desetletje inovacij in rasti v zasebnem vesoljskem sektorju, ki ga je SpaceX vodil z razvojem raket za večkratno uporabo in satelitskega interneta Starlink. IPO SpaceX-a je relevanten, saj predstavlja največjo javno ponudbo delnic v zgodovini in potrjuje izjemen potencial vesoljske industrije ter tehnoloških inovacij. Mehanizem vpliva na finančne trge je predvsem prek povečanega optimizma v tehnološkem sektorju in sektorju vesoljskih raziskav. Uspešen IPO tako velikega podjetja lahko spodbudi tudi druge zasebne tehnološke velikane k vstopu na borzo. Posledice se kažejo v krepitvi delnic v širšem tehnološkem sektorju, zlasti tistih, ki so povezani z vesoljem in inovacijami. Povečana likvidnost in premoženje Elona Muska lahko vplivata tudi na trge tveganega kapitala in zasebnih naložb. Zgodovinsko gledano so veliki in uspešni IPO-ji, kot je bil tisti Alibabe ali Facebooka, pogosto služili kot katalizatorji za celotne sektorje in pritegnili nove vlagatelje. Vlagatelji bodo pozorno spremljali nadaljnjo uspešnost delnic SpaceX-a in morebitne vplive na konkurenco v vesoljskem sektorju. Za slovenskega dolgoročnega vlagatelja ta dogodek poudarja pomen naložb v inovativna podjetja in sektorje, ki spreminjajo svet, vendar je hkrati opomin, da so takšne naložbe lahko zelo volatilne in zahtevajo temeljito analizo.",
+      "povzetek": "Finančni analitiki so uspeli prepričati vlagatelje v strategijo podjetja SpaceX, ki je vključevala visoke izgube in popoln nadzor Elona Muska, kar je privedlo do največje prve javne ponudbe delnic (IPO) v zgodovini. Ta dogodek poudarja izjemno zaupanje vlagateljev v futuristične tehnologije in vizijo podjetja v vesoljski industriji. Kljub visokim tveganjem in netradicionalnemu poslovnemu modelu je Wall Street uspešno mobiliziral kapital za to ambiciozno podjetje. Objava je bila 13. junija 2026.",
+      "analiza": "Največja IPO v zgodovini za SpaceX kaže na izjemno apetit vlagateljev po rastočih, inovativnih, čeprav tveganih, tehnoloških podjetjih, še posebej tistih, ki so povezana z znanimi vizionarji, kot je Elon Musk. Ta dogodek lahko služi kot merilo za vrednotenje drugih podjetij v vesoljskem sektorju in širše v visokotehnoloških panogah, ki so močno odvisne od prihodnjih pričakovanj. Uspeh IPO kljub 'strmim izgubam' in 'polnemu nadzoru' Muska kaže na prevlado rasti in vizije nad tradicionalnimi merili dobičkonosnosti pri določenih investicijah. To lahko spodbudi tudi druge startupe k iskanju javnega kapitala. Za delnice to pomeni nadaljnjo podporo sektorju rasti in inovacijam, medtem ko bi lahko obveznice ostale v senci, saj vlagatelji iščejo višje donose. Za slovenskega dolgoročnega vlagatelja to poudarja pomen razumevanja tveganja in potenciala v hitro rastočih sektorjih, kjer so vrednotenja pogosto odvisna od dolgoročnih pričakovanj in ne le trenutnih finančnih rezultatov.",
       "vpliv": [
-        "Rast delnic v tehnološkem in vesoljskem sektorju",
-        "Povečan optimizem na trgih",
-        "Spodbuda za druge velike IPO-je",
-        "Vpliv na trge tveganega kapitala"
+        "Povečan apetit po tveganih tehnoloških delnicah",
+        "Visoka vrednotenja v vesoljskem sektorju",
+        "Potencialno več IPO-jev inovativnih podjetij",
+        "Zaupanje vlagateljev v vizionarske projekte"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-06-12T22:00:52.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/a7f4246d-9ae2-4f7b-90af-e5a53c52203b",
+      "objavljeno": "2026-06-13T10:00:04.000Z"
     },
     {
-      "naslov": "Združitev Paramount-WBD v vrednosti 110 milijard dolarjev odobrena s strani DOJ.",
+      "naslov": "Pimco opozarja na ponoven začetek neplačil na dolžniških trgih.",
       "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "CNBC poroča, da je ameriško ministrstvo za pravosodje (DOJ) odobrilo združitev podjetij Paramount in Warner Bros. Discovery (WBD). Ta združitev je ocenjena na približno 110 milijard dolarjev. Odobritev DOJ predstavlja pomemben mejnik za ta posel, čeprav se lahko še vedno sooča s pravnimi izzivi s strani državnih tožilcev. Novica je bila objavljena 12. junija 2026 ob 22:54:06 UTC.",
-      "analiza": "Ozadje te združitve je konsolidacija v medijski industriji, ki se sooča z izzivi pretočnih storitev, spreminjajočih se potrošniških navad in potrebe po obsežnih knjižnicah vsebin. Odobritev DOJ je relevantna, saj omogoča nadaljevanje enega največjih poslov v medijskem sektorju, kar bi ustvarilo enega največjih globalnih medijskih konglomeratov. Mehanizem vpliva na finančne trge je predvsem prek ustvarjanja sinergij, povečanja tržne moči in potencialnega prestrukturiranja konkurenčnega okolja. Uspešna združitev lahko prinese prihranke pri stroških, optimizacijo distribucije in močnejšo pozicijo v boju za naročnike pretočnih storitev. Posledice se kažejo v morebitni rasti delnic združenega podjetja zaradi pričakovanih sinergij in večje tržne moči. To lahko spodbudi tudi druge združitve in prevzeme v medijskem in zabavnem sektorju. Vendar pa obstaja tudi tveganje za morebitne pravne izzive s strani državnih tožilcev, kar bi lahko povzročilo negotovost. Zgodovinsko gledano so velike medijske združitve (npr. Disney-Fox, AT&T-Time Warner) preoblikovale industrijo, vendar so se pogosto soočale z regulativnimi ovirami in integracijskimi izzivi. Vlagatelji bodo pozorno spremljali integracijo obeh podjetij in morebitne nadaljnje pravne bitke. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so združitve in prevzemi gonilna sila sprememb v industriji, vendar je ključna uspešna integracija, ki prinaša obljubljene sinergije, da se upravičijo visoke cene.",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Pimco, eden največjih upravljavcev obveznic na svetu, opozarja na ponoven začetek neplačil na dolžniških trgih. Podjetje svetuje vlagateljem, naj se vse bolj osredotočajo na naložbe s fiksnim donosom, da bi stabilizirali svoje portfelje, saj se vrednotenja delnic zdijo raztegnjena. To opozorilo prihaja v času, ko se globalno gospodarstvo sooča z višjimi obrestnimi merami in morebitnim upočasnjevanjem rasti, kar povečuje tveganje za podjetja z visokim dolgom. Opozorilo je bilo objavljeno 13. junija 2026.",
+      "analiza": "Opozorilo Pimca je pomemben signal za finančne trge, saj prihaja od ključnega igralca na trgu obveznic. Ponoven začetek neplačil lahko pomeni povečanje tveganja za kreditne trge in potencialno širjenje negotovosti na celotno gospodarstvo. Vlagatelji se v takšnih razmerah pogosto umikajo iz bolj tveganih naložb, kot so delnice, in iščejo varnost v obveznicah, še posebej tistih z višjo bonitetno oceno. To bi lahko povzročilo pritisk na delniške trge, medtem ko bi se donosi obveznic lahko znižali zaradi povečanega povpraševanja. Opozorilo o 'raztegnjenih vrednotenjih delnic' dodatno podpira tezo o preusmeritvi kapitala. Za valute bi to lahko pomenilo iskanje varnih valut, kot je ameriški dolar. Za slovenskega dolgoročnega vlagatelja to poudarja pomen diverzifikacije in previdnosti pri izbiri naložb v okolju naraščajočih tveganj neplačil. Morda je čas za pregled deleža obveznic v portfelju.",
       "vpliv": [
-        "Potencialna rast delnic združenega podjetja",
-        "Spodbuda za M&A v medijskem sektorju",
-        "Konsolidacija medijske industrije",
-        "Tveganje pravnih izzivov"
+        "Povečano tveganje za kreditne trge",
+        "Potencialni umik kapitala iz delnic",
+        "Povečano povpraševanje po varnih obveznicah",
+        "Iskanje varnih valut"
       ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/06/12/paramount-wbd-merger-approval-doj.html",
-      "objavljeno": "2026-06-12T22:54:06.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-13T12:00:00.000Z"
+    },
+    {
+      "naslov": "Razkošno trošenje bogatih dviguje cene vsakdanjih dobrin za vse.",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Poročilo MarketWatcha navaja, da bogati posamezniki nadaljujejo z 'brezkompromisnim luksuznim trošenjem', kar prispeva k dvigu cen vsakdanjih dobrin za širšo populacijo. Bogatih inflacija ne prizadene, kar lahko oteži sposobnost centralnih bank, kot je Fed, za boj proti njej. Ta trend poudarja razlike v vplivu inflacije na različne dohodkovne skupine in kompleksnost monetarne politike v trenutnih gospodarskih razmerah. Novica je bila objavljena 13. junija 2026.",
+      "analiza": "Ta novica osvetljuje specifičen vir inflacijskih pritiskov, ki izhaja iz segmenta premožnih potrošnikov, ki so manj občutljivi na višje cene. Njihovo nadaljnje trošenje ohranja povpraševanje visoko v določenih sektorjih, kar se lahko preliva v širše gospodarstvo in otežuje prizadevanja centralnih bank za obvladovanje inflacije. Če Fed ne more učinkovito znižati inflacije zaradi tega dejavnika, bi to lahko pomenilo, da bodo obrestne mere ostale višje dlje časa, kar bi imelo posledice za stroške zadolževanja in gospodarsko rast. Za delnice bi to lahko pomenilo nadaljnje pritiske na podjetja, ki so odvisna od splošne potrošnje, medtem ko bi luksuzni sektor lahko ostal odporen. Obveznice bi lahko doživele nihanja, saj bi trgi ugibali o prihodnjih potezah centralnih bank. Za slovenskega dolgoročnega vlagatelja je to pomemben vpogled v kompleksnost inflacijskih dinamik in potencialne dolgoročne posledice za monetarno politiko in gospodarsko rast.",
+      "vpliv": [
+        "Nadaljevanje inflacijskih pritiskov",
+        "Potencialno višje obrestne mere dlje časa",
+        "Odpornost luksuznega sektorja",
+        "Oteženo delo centralnih bank pri obvladovanju inflacije"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-rich-keep-spending-money-on-unapologetic-luxury-and-its-raising-prices-on-everyday-goods-for-everyone-cdc4546b?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-13T12:30:00.000Z"
+    },
+    {
+      "naslov": "FCC pospešuje postopek obnove licenc za ABC, kar sproža pomisleke.",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Zvezna komisija za komunikacije (FCC) je sprejela odločitev, da pospeši postopek javnega komentiranja za obnovo oddajnih licenc osmih lokalnih televizijskih postaj v lasti Disneyjevega ABC. Ta poteza, ki jo mnogi vidijo kot povračilni ukrep Trumpove administracije proti kritikom, omogoča javnosti, da do 29. junija poda mnenja o tem, ali bi ABC moral obnoviti svoje licence. To predstavlja eno najpomembnejših dejanj Trumpove administracije proti medijski družbi. Novica je bila objavljena 13. junija 2026.",
+      "analiza": "Ta odločitev FCC-ja je pomemben signal o naraščajočem regulativnem tveganju za medijske družbe v ZDA, še posebej tiste, ki so v lasti večjih konglomeratov, kot je Disney. Politično motivirane regulativne poteze lahko ustvarijo negotovost in vplivajo na poslovno okolje, saj podjetja tvegajo izgubo ključnih operativnih licenc. Za delnice bi to lahko pomenilo povečano volatilnost za medijske delnice in širše za podjetja, ki so izpostavljena političnim tveganjem. Vpliv na Disney bi bil odvisen od končnega izida postopka, vendar že sam postopek ustvarja negotovost. Takšni primeri lahko sprožijo širše pomisleke glede neodvisnosti regulativnih teles in vpliva politike na gospodarstvo. Za slovenskega dolgoročnega vlagatelja to poudarja pomen upoštevanja političnega in regulativnega tveganja, še posebej pri naložbah v sektorje, ki so močno regulirani ali pod drobnogledom vladnih organov.",
+      "vpliv": [
+        "Povečano regulativno tveganje za medijske družbe",
+        "Negotovost glede prihodnjih licenc",
+        "Potencialna volatilnost delnic medijskih konglomeratov",
+        "Vprašanja o neodvisnosti regulativnih teles"
+      ],
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/media/2026/jun/13/abc-fcc-license-trump-kimmel",
+      "objavljeno": "2026-06-13T11:00:12.000Z"
     }
   ]
 }
