@@ -1,95 +1,112 @@
 {
-  "generiranoOb": "2026-06-15T10:33:22.807Z",
-  "izdaja": "morning",
-  "model": "gemini-2.5-flash-lite",
+  "generiranoOb": "2026-06-15T19:13:38.322Z",
+  "izdaja": "afternoon",
+  "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-06-15",
-  "povzetek": "Danes zjutraj so finančni trgi doživeli pomembne premike zaradi dogovora med ZDA in Iranom, ki naj bi končal več kot 100-dnevno vojno in ponovno odprl Hormuško ožino. Ta novica je povzročila padec cen nafte na trimesečno najnižjo vrednost, medtem ko so globalne zaloge dosegle rekordne vrednosti zaradi povečanega apetita po tveganju. V ospredju je tudi napoved Elona Muska o prihodkih SpaceX, ki je dvignila vrednost podjetja, medtem ko se britanske univerze soočajo s finančnimi težavami. Geopolitične napetosti ostajajo visoke, saj Rusija nadaljuje napade v Ukrajini, Trump pa napoveduje novo trgovinsko vojno s Kitajsko zaradi skrbi glede prisilnega dela. Vlagatelji bodo pozorno spremljali razvoj teh ključnih dogodkov.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v znamenju močnega optimizma, ki ga je sprožil dogovor med ZDA in Iranom, kar je spodbudilo globalni borzni vzpon. Ameriški predsednik Trump je potrdil, da je iranski dogovor \"v celoti podpisan\", kar je pomembno zmanjšalo geopolitične napetosti in spodbudilo tveganju bolj naklonjene naložbe. Ta razvoj je skupaj z izjemnim uspehom prve javne ponudbe delnic (IPO) podjetja SpaceX, ki je zbralo dodatnih 10,7 milijarde dolarjev, ustvaril močno pozitivno vzdušje na trgih. Ameriški trgi, odprti dve uri, so nadaljevali ta trend, pri čemer so delnice tehnoloških podjetij, še posebej proizvajalcev čipov, doživele izrazit porast. Rally v sektorju čipov je bil okrepljen z optimizmom glede spominskih trendov in močnim povpraševanjem po AI tehnologijah, kar je podjetja kot AMD pognalo blizu 900 milijard dolarjev vrednosti. Nvidia je prav tako napovedala izdajo obveznic v višini več kot 25 milijard dolarjev, kar kaže na veliko povpraševanje po financiranju v sektorju umetne inteligence. Splošni optimizem glede rešitve geopolitičnih napetosti in močan zagon v tehnološkem sektorju sta zaznamovala popoldansko trgovanje, kar se odraža v globalnem rallyju delnic.",
   "novice": [
     {
-      "naslov": "Elon Musk napoveduje bilijonske prihodke SpaceX, delnice zrasle",
+      "naslov": "Globalni borzni trgi so poskočili ob novici o dogovoru med ZDA in Iranom",
+      "sektor": "Geopolitika",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Globalni borzni trgi so danes doživeli močan vzpon, saj je novica o dogovoru med ZDA in Iranom sprožila splošen optimizem med vlagatelji. Ta geopolitični razvoj je zmanjšal negotovost in spodbudil apetit po tveganju. Poleg tega je pozitivno razpoloženje vlagateljev podprla tudi zgodovinska prva javna ponudba delnic (IPO) podjetja SpaceX. Slednja je prispevala k splošnemu pozitivnemu sentimentu na trgih, saj je pokazala močno povpraševanje po novih naložbah.",
+      "analiza": "Ozadje dogovora med ZDA in Iranom je bilo zaznamovano z dolgotrajnimi napetostmi, ki so vplivale na globalno stabilnost in cene energentov. Potrditev dogovora, ki ga je ameriški predsednik Trump označil za \"v celoti podpisanega\", zmanjšuje tveganje za nadaljnje konflikte v regiji Bližnjega vzhoda. To je ključno, saj stabilnost v tej regiji neposredno vpliva na globalne dobavne verige in cene nafte. Mehanizem vpliva je preprost: zmanjšanje geopolitičnega tveganja običajno vodi do povečanega zaupanja vlagateljev in premika kapitala iz varnejših naložb (kot so državne obveznice) v bolj tvegane (kot so delnice). Posledično so delniški indeksi po svetu doživeli rast, medtem ko bi lahko cene nafte, ob pričakovanju stabilnejše dobave, doživele umiritev ali celo padec, čeprav je to odvisno od podrobnosti dogovora. Obveznice so se morda soočile z manjšim povpraševanjem, valute pa so se lahko odzvale glede na percepcijo stabilnosti posameznih gospodarstev. Zgodovinsko gledano so podobni dogovori, ki so zmanjšali geopolitične napetosti, pogosto sprožili kratkoročne borzne rallyje. Za slovenskega dolgoročnega vlagatelja to pomeni, da se lahko zmanjša splošna tržna negotovost, kar je ugodno za rast podjetij in s tem za dolgoročne naložbe v delnice.",
+      "vpliv": [
+        "Rast globalnih delniških indeksov",
+        "Zmanjšanje geopolitičnega tveganja",
+        "Povečan apetit po tveganju",
+        "Potencialna umiritev cen nafte"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/8a6849de-b27c-4680-a80d-42b85b0e77eb",
+      "objavljeno": "2026-06-15T16:35:11.000Z"
+    },
+    {
+      "naslov": "Ameriški predsednik Trump potrdil, da je iranski dogovor \"v celoti podpisan\"",
+      "sektor": "Geopolitika",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Ameriški predsednik Donald Trump je danes potrdil, da je bil dogovor z Iranom \"v celoti podpisan\". Ta izjava, objavljena ob 16:59 po UTC, je prišla po dolgotrajnih pogajanjih in je ključna za zmanjšanje geopolitičnih napetosti. Potrditev s strani predsednika ZDA daje dogovoru uradno težo in zmanjšuje negotovost glede njegove veljavnosti. Novica je takoj vplivala na globalno razpoloženje na finančnih trgih, saj so vlagatelji pozdravili zmanjšanje tveganja.",
+      "analiza": "Ozadje tega dogovora vključuje večletne napetosti med ZDA in Iranom, ki so se odražale v sankcijah, vojaških incidentih in nestabilnosti v regiji Bližnjega vzhoda. Predhodna pogajanja so bila pogosto prekinjena, kar je ustvarjalo negotovost na trgih. Izjava predsednika Trumpa, da je dogovor \"v celoti podpisan\", je pomembna, ker signalizira prelomnico v diplomatskih odnosih in potencialno odprtje za stabilizacijo regije. Mehanizem vpliva na trge je predvsem psihološki in temelji na zmanjšanju tveganja. Ko se zmanjšajo geopolitična tveganja, vlagatelji postanejo bolj pripravljeni vlagati v tveganejša sredstva. To se odraža v rasti delniških trgov, saj se pričakuje bolj stabilno poslovno okolje. Cene nafte bi se lahko umirile zaradi pričakovanja stabilnejše dobave, medtem ko bi se povpraševanje po varnih zatočiščih, kot so zlato in nekatere državne obveznice, lahko zmanjšalo. Valute držav, ki so bile bolj izpostavljene regionalnim tveganjem, bi lahko okrepile. Za slovenskega dolgoročnega vlagatelja to pomeni zmanjšanje sistemskega tveganja, kar ustvarja bolj predvidljivo okolje za rast globalnih podjetij in s tem za dolgoročne naložbe v delnice in obveznice.",
+      "vpliv": [
+        "Potrditev zmanjšanja geopolitičnih napetosti",
+        "Povečano zaupanje vlagateljev",
+        "Rast delniških trgov",
+        "Potencialno znižanje cen nafte"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/trump-says-iran-deal-all?traffic_source=rss",
+      "objavljeno": "2026-06-15T16:59:24.000Z"
+    },
+    {
+      "naslov": "Rally delnic proizvajalcev čipov se je vrnil zaradi dveh geopolitičnih dogodkov",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Delnice proizvajalcev čipov so danes doživele močan povratek in so v polnem zagonu, kar je pripisano dvema ključnima geopolitičnima dogodkoma. Prvi je optimizem glede mirovnih pogajanj z Iranom, ki spodbuja apetit po tveganju in s tem povpraševanje po tveganejših delnicah. Drugi dejavnik je boj podjetja Anthropic z ameriško vlado, ki bi lahko sprožil širitev razvoja umetne inteligence (AI). Ta kombinacija dogodkov ustvarja ugodno okolje za rast v sektorju polprevodnikov.",
+      "analiza": "Ozadje rasti delnic čipov je že nekaj časa zaznamovano z močnim povpraševanjem po umetni inteligenci (AI) in rastočimi potrebami po visoko zmogljivih procesorjih. Vendar pa so geopolitične napetosti občasno zavirale ta zagon. Danes sta se pojavila dva ključna dejavnika: mirovni obeti z Iranom zmanjšujejo splošno geopolitično tveganje, kar spodbuja vlagatelje k nakupu tveganejših delnic, vključno s tehnološkimi. Drugi dejavnik, boj podjetja Anthropic z ameriško vlado, čeprav na prvi pogled negativen, bi lahko v resnici spodbudil diverzifikacijo in širitev naložb v AI infrastrukturo, saj bi se podjetja morda želela zaščititi pred morebitnimi regulativnimi tveganji pri posameznih ponudnikih. Mehanizem vpliva je dvojni: zmanjšanje globalnega tveganja poveča splošno likvidnost in optimizem, medtem ko specifični dogodki v AI sektorju poudarjajo dolgoročno rastno zgodbo. Posledice so vidne v rasti delnic proizvajalcev čipov, kot so Nvidia, AMD in Micron. To lahko vpliva tudi na obveznice, saj podjetja v tem sektorju lažje pridobivajo kapital. Za slovenskega dolgoročnega vlagatelja to potrjuje pomen diverzifikacije v sektorje z močnimi strukturnimi trendi, kot je AI, in poudarja, kako geopolitika lahko vpliva na posamezne industrije.",
+      "vpliv": [
+        "Rast delnic proizvajalcev čipov",
+        "Povečan optimizem glede AI sektorja",
+        "Zmanjšanje geopolitičnega tveganja",
+        "Spodbuda za širitev AI infrastrukture"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-chip-stock-rally-is-back-in-full-force-thanks-to-two-big-geopolitical-developments-4e3ec21d?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-15T16:33:00.000Z"
+    },
+    {
+      "naslov": "Delnice SpaceX poskočile, IPO zbral dodatnih 10,7 milijarde dolarjev",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Delnice podjetja SpaceX so danes zabeležile močan skok, saj je podjetje razkrilo, da je njegova prva javna ponudba delnic (IPO) zbrala dodatnih 10,7 milijarde dolarjev. To je posledica uveljavitve opcije s strani vpisovalcev za nakup dodatnih 83 milijonov delnic, kar je že tako rekordni IPO še povečalo. Novica, objavljena ob 19:01 po UTC, poudarja izjemno povpraševanje vlagateljev po delnicah podjetja in močno zaupanje v njegov poslovni model.",
+      "analiza": "Ozadje IPO podjetja SpaceX je bilo že pred tem zaznamovano z velikimi pričakovanji, saj gre za enega najbolj inovativnih in prepoznavnih podjetij v sektorju vesoljske tehnologije, ki ga vodi Elon Musk. Že prvotni IPO je bil rekorden, dodatnih 10,7 milijarde dolarjev pa kaže na izjemno močno povpraševanje in vlagateljsko zaupanje. Mehanizem vpliva je večplasten: uspešen IPO ne le zagotavlja podjetju SpaceX ogromen kapital za nadaljnji razvoj, temveč tudi služi kot močan signal za celoten trg o apetitu vlagateljev po visokotehnoloških in rastočih podjetjih. To lahko spodbudi tudi druge zasebne družbe k vstopu na borzo. Posledice so pozitivne za delniške trge, saj kažejo na robustno likvidnost in optimizem. Za obveznice bi to lahko pomenilo, da se bo več kapitala usmerilo v delnice. Za slovenskega dolgoročnega vlagatelja to poudarja pomen inovativnih podjetij in sektorjev z visokim potencialom rasti. Uspešen IPO podjetja SpaceX lahko služi kot barometer za splošno razpoloženje do tveganih naložb in tehnoloških inovacij.",
+      "vpliv": [
+        "Rast delnic SpaceX",
+        "Dodatnih 10,7 milijarde dolarjev zbranega kapitala",
+        "Povečano zaupanje v tehnološki sektor",
+        "Signal za močno likvidnost na trgu"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/spacexs-stock-jumps-as-the-company-reveals-its-ipo-has-raised-another-10-7-billion-fc7eaca1?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-15T19:01:00.000Z"
+    },
+    {
+      "naslov": "Nvidia namerava zbrati več kot 25 milijard dolarjev z izdajo obveznic",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Proizvajalec čipov Nvidia namerava zbrati več kot 25 milijard dolarjev z izdajo obveznic, kar je njena prva tovrstna transakcija po letu 2021. Ta prodaja dolga bo preizkusila apetit vlagateljev za nadaljnjo izpostavljenost sektorju umetne inteligence (AI), saj se soočamo z velikim povpraševanjem po financiranju v tem sektorju. Novica, objavljena ob 18:22 po UTC, poudarja potrebe po kapitalu za nadaljnji razvoj AI tehnologij.",
+      "analiza": "Ozadje te poteze Nvidie je izjemna rast in povpraševanje po njenih čipih, ki so ključni za razvoj umetne inteligence. Podjetje je v zadnjih letih doživelo eksponentno rast, vendar takšna rast zahteva tudi ogromne kapitalske naložbe v raziskave, razvoj in proizvodnjo. Izdaja obveznic v višini več kot 25 milijard dolarjev je pomemben dogodek, saj bo preverila, kako močan je apetit vlagateljev po dolgu v AI sektorju, ki je bil v zadnjem času deležen ogromnih prilivov kapitala. Mehanizem vpliva je dvojen: uspešna izdaja obveznic bo Nvidii zagotovila potreben kapital za nadaljnjo širitev in inovacije, kar je pozitivno za rast podjetja in s tem za njegove delnice. Hkrati pa bo to tudi pokazatelj splošnega zaupanja vlagateljev v dolgoročno stabilnost in donosnost AI sektorja. Posledice za obveznice so, da bo uspešna izdaja Nvidie lahko odprla vrata tudi drugim podjetjem v AI sektorju za lažje pridobivanje dolžniškega kapitala. Za delnice Nvidie je to pozitivno, saj zmanjšuje potrebo po izdaji novih delnic in s tem razredčenju obstoječih. Za slovenskega dolgoročnega vlagatelja to kaže na nadaljnjo konsolidacijo in rast AI sektorja, kjer so podjetja pripravljena vlagati velike vsote v prihodnost, kar potrjuje dolgoročni potencial tega segmenta.",
+      "vpliv": [
+        "Več kot 25 milijard dolarjev kapitala za Nvidio",
+        "Test apetita vlagateljev za AI dolg",
+        "Potencialna rast delnic Nvidie",
+        "Potrditev močnega povpraševanja v AI sektorju"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/c0e7cc58-e309-4f47-b466-d577c06cbeec",
+      "objavljeno": "2026-06-15T18:22:24.000Z"
+    },
+    {
+      "naslov": "AMD se približuje 900 milijardam dolarjev vrednosti po izboljšavah spominske tehnologije",
       "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Elon Musk je napovedal ambiciozne cilje za prihodke SpaceX, ki naj bi dosegli bilijon dolarjev. Ta napoved je dvignila vrednost podjetja, saj so njegovi zadnji načrti dvakrat višji od pričakovanj njegovih bankirjev. Kljub Muskovi zgodovini postavljanja drznih ciljev, ki jih včasih ne doseže, je ta napoved spodbudila rast vrednosti podjetja, kar je prispevalo k zgodovinski začetni javni ponudbi (IPO) SpaceX.",
-      "analiza": "Napoved Elona Muska o bilijonskih prihodkih SpaceX predstavlja izjemno ambiciozen cilj, ki presega pričakovanja finančnih institucij. Zgodovina Muskovih podjetij, kot sta Tesla in SpaceX, kaže na sposobnost doseganja revolucionarnih tehnoloških prebojev, vendar tudi na pogosto nerealna časovna pričakovanja. Če bo SpaceX uspel uresničiti te cilje, bi to pomenilo izjemen uspeh v vesoljski industriji, ki je še vedno v zgodnji fazi komercializacije. Ta napoved je neposredno vplivala na vrednost podjetja, verjetno že pred uradno IPO, in spodbudila vlagatelje k večjemu tveganju. Za slovenske vlagatelje, ki morda že imajo ali razmišljajo o naložbah v tehnološke sklade ali neposredno v delnice SpaceX (če bo na voljo na borzi), to pomeni potencialno visoko rast, vendar tudi znatno tveganje, če se napovedi ne bodo uresničile. Povezava z zgodovinsko IPO SpaceX kaže na močan vlagateljski interes za to panogo.",
+      "povzetek": "Delnice podjetja AMD so danes močno poskočile, kar je podjetje približalo vrednosti 900 milijard dolarjev. Ta rast je pripisana izboljšavam v njegovi spominski tehnologiji, kar povečuje konkurenčnost podjetja na trgu. Trenutno je AMD vreden več kot JPMorgan Chase, kar poudarja premik v tržni kapitalizaciji proti tehnološkim velikanom. Novica je bila objavljena ob 18:28 po UTC.",
+      "analiza": "Ozadje rasti AMD je v močnem povpraševanju po visoko zmogljivih procesorjih in grafičnih karticah, ki so ključni za podatkovne centre, umetno inteligenco in igričarstvo. Izboljšave v spominski tehnologiji so ključne, saj omogočajo hitrejše in učinkovitejše delovanje čipov, kar je konkurenčna prednost. Dejstvo, da je AMD presegel vrednost JPMorgan Chase, simbolizira širši trend, kjer tehnološka podjetja presegajo tradicionalne finančne institucije po tržni kapitalizaciji. Mehanizem vpliva je neposreden: izboljšave izdelkov in povečana konkurenčnost vodijo do višjih pričakovanj glede prihodnjih prihodkov in dobičkov, kar se odraža v rasti cene delnic. To kaže na močno zaupanje vlagateljev v dolgoročno rast in inovativnost podjetja. Posledice za delnice AMD so očitne v njihovi rasti, kar pa lahko vpliva tudi na celoten tehnološki sektor, saj kaže na splošno moč in inovativnost. Za obveznice to pomeni, da imajo podjetja z močno rastjo in visokimi vrednotenji lažji dostop do kapitala. Za slovenskega dolgoročnega vlagatelja to poudarja pomen naložb v podjetja, ki so v ospredju tehnoloških inovacij in imajo močno konkurenčno prednost.",
       "vpliv": [
-        "Povečana vrednost SpaceX",
-        "Spodbujanje vlagateljskega interesa za vesoljsko industrijo",
-        "Potencialno visoka rast delnic SpaceX",
-        "Povečano tveganje zaradi ambicioznih ciljev"
+        "Rast delnic AMD",
+        "Približevanje 900 milijard dolarjev vrednosti",
+        "Izboljšave spominske tehnologije",
+        "Preseganje vrednosti JPMorgan Chase"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/elon-musk-makes-sky-high-trillion-dollar-forecast-for-spacex-revenue-721db931?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-15T09:37:00.000Z"
-    },
-    {
-      "naslov": "Trump napoveduje novo trgovinsko vojno s Kitajsko zaradi prisilnega dela",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Predsednik Trump napoveduje ponovno uvedbo trgovinske vojne s Kitajsko, pri čemer se sklicuje na pomisleke glede prisilnega dela. Analitiki napovedujejo, da bi ta poteza lahko pospešila \"preusmeritev\" globalne trgovine stran od ZDA. Ta poteza sledi dogovoru z Iranom, kar kaže na večstransko diplomatsko in trgovinsko aktivnost administracije.",
-      "analiza": "Napoved predsednika Trumpa o ponovni uvedbi trgovinske vojne s Kitajsko, tokrat pod krinko skrbi glede prisilnega dela, predstavlja pomemben geopolitični in gospodarski razvoj. Takšne trgovinske vojne običajno vodijo v povečanje carin, kar zvišuje stroške za potrošnike in podjetja ter moti globalne dobavne verige. \"Preusmeritev\" globalne trgovine stran od ZDA, kot jo napovedujejo analitiki, bi lahko pomenila selitev proizvodnje v druge države in spremembo trgovinskih tokov. To bi lahko negativno vplivalo na podjetja, ki so odvisna od uvoza ali izvoza s Kitajsko, ter potencialno zvišalo cene izdelkov za potrošnike. Za slovenske vlagatelje, ki imajo naložbe v podjetja z globalnimi dobavnimi verigami ali izpostavljenostjo kitajskemu trgu, to predstavlja dodatno negotovost in potencialno zmanjšanje donosnosti. Vrednost ameriškega dolarja bi lahko bila pod pritiskom, medtem ko bi lahko nekatere druge valute ali regionalna gospodarstva pridobila na račun preusmeritve trgovine. Dolgoročno to lahko pripomore k večji regionalizaciji gospodarstva.",
-      "vpliv": [
-        "Povečanje carin in trgovinskih ovir",
-        "Motnje v globalnih dobavnih verigah",
-        "Potencialna selitev proizvodnje iz Kitajske",
-        "Negativni vpliv na podjetja z izpostavljenostjo kitajskemu trgu"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/6/15/how-trump-is-relaunching-a-tariff-war-citing-forced-labour-concerns?traffic_source=rss",
-      "objavljeno": "2026-06-15T08:43:28.000Z"
-    },
-    {
-      "naslov": "Britanske univerze v krizi: primer Goldsmiths kot opozorilo",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Univerza Goldsmiths v Londonu se sooča s finančno krizo, kar služi kot opozorilo za celoten britanski visokošolski sistem. Članek poudarja, kako je tržna naravnanost izobraževanja potisnila britanske univerze na rob propada. Ta situacija odraža širše trende v financiranju in upravljanju visokošolskih ustanov.",
-      "analiza": "Finančne težave univerze Goldsmiths, ki se sooča s \"počasno smrtjo\", so simptom širšega problema v britanskem visokošolskem sistemu, ki ga je zaznamovala vse večja tržna naravnanost. Univerze se vse bolj obravnavajo kot podjetja, ki morajo ustvarjati dobiček, kar lahko vodi do zmanjševanja stroškov, vključno z zmanjšanjem kadra, ukinjanjem programov in povečanjem števila študentov na predavatelja. Ta model, ki temelji na \"marketizaciji\", lahko ogrozi kakovost izobraževanja in raziskav. Posledice za finančne trge so lahko posredne: zmanjšanje naložb v raziskave in razvoj lahko vpliva na inovacijski potencial gospodarstva, kar se lahko dolgoročno odrazi v nižji konkurenčnosti. Za slovenske vlagatelje, ki morda vlagajo v izobraževalne sklade ali podjetja, povezana z izobraževanjem, to pomeni povečano tveganje v sektorju. Prav tako lahko vpliva na privlačnost britanskih univerz za mednarodne študente, kar bi lahko zmanjšalo priliv sredstev v državo. Vlagatelji bi morali biti pozorni na podjetja, ki so neposredno ali posredno povezana z visokošolskim sektorjem v Veliki Britaniji.",
-      "vpliv": [
-        "Potencialno zmanjšanje naložb v raziskave in razvoj v Veliki Britaniji",
-        "Negativni vpliv na podjetja v izobraževalnem sektorju",
-        "Zmanjšana privlačnost britanskih univerz za mednarodne študente",
-        "Ogrožena kakovost visokošolskega izobraževanja"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/opinions/2026/6/15/the-slow-death-of-goldsmiths-is-a-warning-to-british-universities?traffic_source=rss",
-      "objavljeno": "2026-06-15T09:54:50.000Z"
-    },
-    {
-      "naslov": "ZDA in Iran dosegli dogovor, vpliv vojne na globalno gospodarstvo še vedno prisoten",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Kljub dogovoru med ZDA in Iranom, ki naj bi končal vojno, strokovnjaki opozarjajo, da bo vpliv konflikta na globalno gospodarstvo še vedno prisoten več mesecev. Dogovor naj bi omogočil ponovno odprtje ključne pomorske poti, Hormuške ožine, kar bi lahko normaliziralo dobave energentov. Vendar pa dolgoročne posledice konflikta, kot so stroški obnove in spremembe v geopolitičnih odnosih, ostajajo negotove.",
-      "analiza": "Sporazum med ZDA in Iranom predstavlja pomemben korak k normalizaciji razmer, vendar je ključno razumeti, da gospodarske posledice obsežnega konflikta ne izginejo čez noč. \"Vpliv vojne bo še naprej vplival na globalno gospodarstvo mesece po koncu,\" kot navaja BBC, kar poudarja dolgoročno naravo gospodarskih motenj. Ponovno odprtje Hormuške ožine je ključno za stabilizacijo cen nafte in plina, saj je ta ožina ključna za transport energentov iz Zaliva. To bi lahko pozitivno vplivalo na inflacijske pritiske in zmanjšalo stroške za podjetja in potrošnike. Vendar pa je treba upoštevati tudi stroške obnove, ki jih bo zahtevala vojna, ter morebitne dolgoročne spremembe v trgovinskih odnosih in dobavnih verigah. Za slovenske vlagatelje to pomeni, da čeprav se kratkoročno lahko pričakuje pozitivni vpliv na trge zaradi zmanjšanja negotovosti, je dolgoročna stabilnost odvisna od uspešne implementacije dogovora in reševanja strukturnih gospodarskih posledic konflikta. Spremljanje makroekonomskih kazalnikov, kot so inflacija, rast BDP in trgovinski tokovi, bo ključno za oceno dolgoročnega vpliva.",
-      "vpliv": [
-        "Stabilizacija cen energentov",
-        "Potencialno zmanjšanje inflacijskih pritiskov",
-        "Dolgoročni stroški obnove in spremembe v trgovinskih odnosih",
-        "Potrebno spremljanje makroekonomskih kazalnikov"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-06-15T09:32:50.000Z"
-    },
-    {
-      "naslov": "Starbucks Korea zapira trgovine zaradi usposabljanja o zgodovini",
-      "sektor": "Potrošniki",
-      "smer": "negativno",
-      "intenziteta": 1,
-      "povzetek": "Starbucks Korea bo zaprl svoje trgovine za usposabljanje o zgodovini, potem ko je naletel na kritike zaradi oglaševalske kampanje, ki je spominjala na vojaško zatiranje leta 1980. Podjetje bo izvajalo \"usposabljanje o zgodovinskem zavedanju\" kot odziv na negativne reakcije javnosti. Ta poteza kaže na občutljivost potrošnikov do zgodovinskih dogodkov in korporativne odgovornosti.",
-      "analiza": "Odločitev Starbucks Korea, da zapre trgovine za usposabljanje o zgodovini, je neposreden odziv na javno ogorčenje zaradi oglaševalske kampanje, ki je bila interpretirana kot neobčutljiva do zgodovinskega vojaškega zatiranja. Ta dogodek poudarja vse večjo vlogo družbene odgovornosti podjetij (CSR) in občutljivost potrošnikov za zgodovinska in politična vprašanja, zlasti na trgih, kot je Južna Koreja, kjer je zgodovina vojaških režimov še vedno občutljiva tema. Za Starbucks, globalno blagovno znamko, takšni incidenti predstavljajo tveganje za ugled in lahko vplivajo na prodajo. Zaprtje trgovin in usposabljanje so poskus obvladovanja krize in ponovne vzpostavitve zaupanja potrošnikov. Za slovenske vlagatelje, ki imajo naložbe v podjetja s široko potrošniško bazo, to predstavlja opomnik, da lahko družbena in politična občutljivost vplivata na finančno uspešnost podjetij. Vrednost delnic podjetij, ki se soočajo s takšnimi kritikami, lahko začasno upade, dokler ne pokažejo učinkovitega odziva. Dolgoročno je pomembno, da podjetja razumejo lokalne kulturne in zgodovinske kontekste, da se izognejo tovrstnim krizam.",
-      "vpliv": [
-        "Začasno zmanjšanje prodaje Starbucks v Koreji",
-        "Potencialni vpliv na ugled blagovne znamke Starbucks",
-        "Povečana pozornost potrošnikov na družbeno odgovornost podjetij",
-        "Potrebno razumevanje lokalnih kulturnih in zgodovinskih kontekstov pri globalnih blagovnih znamkah"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/6/15/starbucks-korea-to-shut-stores-for-history-lessons-after-tank-day-furore?traffic_source=rss",
-      "objavljeno": "2026-06-15T07:00:43.000Z"
+      "vir_url": "https://www.marketwatch.com/story/amd-flirts-with-a-900-billion-valuation-after-beefing-up-its-memory-technology-2a366bdc?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-15T18:28:00.000Z"
     }
   ]
 }
