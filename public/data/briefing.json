@@ -1,112 +1,112 @@
 {
-  "generiranoOb": "2026-06-16T09:37:56.698Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-06-16T19:04:23.323Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-06-16",
-  "povzetek": "Jutranji pregled dneva, 16. junij 2026, kaže na mešanico pomembnih geopolitičnih premikov in ključnih makroekonomskih odločitev. Japonska centralna banka je presenetila trge z dvigom obrestne mere na 1 odstotek, kar je najvišja raven po letu 1995 in nadaljuje trend opuščanja ultra-nizkih stroškov zadolževanja, ki se je začel leta 2024. Medtem sta ZDA in Iran podpisala memorandum o soglasju, ki naj bi končal spopade na vseh frontah, vključno z Libanonom, kar je takoj sprožilo optimizem na energetskih trgih in povzročilo skok ameriških delniških indeksov; S&P 500 je zrasel za 1,7 odstotka, tehnološki Nasdaq pa za 3,1 odstotka. Kljub temu je Goldman Sachs znižal ciljno ceno nafte, saj ocenjuje, da je mirovni dogovor že vključen v ceno. Na področju korporativnih novic so delnice Rathbonesa padle za 18 odstotkov, potem ko je družba ustavila naložbe visoko tveganih strank, medtem ko se Thames Water približuje nacionalizaciji, saj britanska vlada nasprotuje reševalnemu dogovoru. Vpliv umetne inteligence pa se širi, saj vodilni v zasebnem kapitalu opozarjajo na grožnjo AI za naložbe v pravne in računovodske storitve.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v mešanem tonu, medtem ko so ameriški trgi, odprti dve uri, kazali začetno smer, ki jo je močno zaznamovala vrsta pomembnih korporativnih in geopolitičnih novic. Ključna novica dneva je bil dogovor med administracijo predsednika Trumpa in Iranom o okvirnem mirovnem sporazumu, kar je takoj vplivalo na svetovne cene nafte, ki so prvič po začetku iranske vojne padle pod 80 dolarjev za sod. V tehnološkem sektorju je prišlo do tektonskega premika, saj je SpaceX, le nekaj dni po IPO-ju in prevzemu AI podjetja Cursor za 60 milijard dolarjev, prehitel Amazon in postal peto najvrednejše podjetje na svetu z vrednostjo 2,97 bilijona dolarjev. Po drugi strani pa so podjetja, kot sta Rivian in Robinhood, napovedala odpuščanja, kar kaže na previdnost in prestrukturiranje v sektorjih električnih vozil in finančnih tehnologij. General Motors je medtem objavil strateško partnerstvo z Lockheed Martinom na področju obrambe, kar nakazuje diverzifikacijo in rast v obrambni industriji. Te novice skupaj ustvarjajo kompleksno sliko, kjer se optimizem glede geopolitične stabilnosti in rasti nekaterih tehnoloških velikanov prepleta s previdnostjo in izzivi v drugih sektorjih.",
   "novice": [
     {
-      "naslov": "Japonska centralna banka dvignila obrestno mero na najvišjo raven po letu 1995",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Japonska centralna banka (BoJ) je 16. junija 2026 dvignila svojo referenčno obrestno mero na 1 odstotek, kar predstavlja najvišjo raven od leta 1995. Ta poteza nadaljuje prehod BoJ od desetletja ultra-nizkih stroškov zadolževanja, ki se je začel leta 2024. Dvig je bil pričakovan kot del širše strategije normalizacije monetarne politike, ki je bila v preteklosti usmerjena v boj proti deflaciji. Odločitev odraža prepričanje banke, da se je japonsko gospodarstvo dovolj okrepilo in da inflacijski pritiski zahtevajo bolj restriktivno držo. To je pomemben korak za tretje največje gospodarstvo na svetu.",
-      "analiza": "Ozadje te odločitve je desetletja dolga japonska bitka z deflacijo in stagnacijo, ki je BoJ prisilila v agresivno kvantitativno sproščanje in negativne obrestne mere. Od leta 2024 je banka postopoma opuščala to politiko, kar signalizira preobrat v japonski ekonomski paradigmi. Dvig obrestne mere na 1 odstotek je relevanten, saj kaže na zaupanje BoJ v vzdržno inflacijo in gospodarsko rast, kar je ključno za dolgoročno stabilnost. Mehanizem vpliva na finančne trge je večplasten: višje obrestne mere običajno krepijo nacionalno valuto (jen), saj postanejo naložbe v jenu privlačnejše. To lahko vpliva na japonske izvoznike, ki imajo koristi od šibkejšega jena. Za globalne obvezniške trge to pomeni zmanjšanje privlačnosti japonskih državnih obveznic z nižjimi donosi, kar lahko sproži preusmeritev kapitala. Posledice za delnice so lahko mešane: finančni sektor (banke) ima koristi od višjih obrestnih marž, medtem ko so podjetja z visokim zadolževanjem in izvozniki lahko pod pritiskom. Za surovine neposredni vpliv ni velik, posredni pa je preko močnejšega jena, ki lahko poceni uvoz surovin na Japonskem. Zgodovinsko gledano so podobni premiki centralnih bank, kot je bil dvig obrestnih mer Federal Reserve v letih 2022-2023, povzročili precejšnjo volatilnost na trgih. V prihodnje bo pomembno spremljati nadaljnje izjave BoJ glede monetarne politike in podatke o inflaciji. Za slovenskega dolgoročnega vlagatelja to pomeni, da se globalno okolje višjih obrestnih mer širi, kar vpliva na oceno tveganja in donosov vseh naložbenih razredov.",
-      "vpliv": [
-        "Jen se krepi",
-        "Donosi japonskih obveznic rastejo",
-        "Delnice japonskih izvoznikov pod pritiskom",
-        "Delnice japonskih bank rastejo"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/6/16/japans-central-bank-raises-interest-rates-to-highest-level-since-1995?traffic_source=rss",
-      "objavljeno": "2026-06-16T07:49:41.000Z"
-    },
-    {
-      "naslov": "ZDA in Iran podpisala memorandum o soglasju, ameriški trgi poskočili",
-      "sektor": "Geopolitika & Energetika",
+      "naslov": "ZDA in Iran dosegli okvirni mirovni sporazum, trgi čakajo podrobnosti",
+      "sektor": "Geopolitika",
       "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "ZDA in Iran sta 16. junija 2026 elektronsko podpisala memorandum o soglasju (MoU), ki naj bi končal spopade na vseh frontah, vključno z Libanonom. Bela hiša je poudarila, da gre za okvirni dogovor, jedrski pogovori pa se šele začenjajo. Ta novica je takoj sprožila optimizem na finančnih trgih, saj se pričakuje konec energetske negotovosti. Ameriški delniški trg se je odzval z močno rastjo: referenčni indeks S&P 500 je poskočil za 1,7 odstotka, tehnološki indeks Nasdaq pa za 3,1 odstotka. Goldman Sachs je kljub temu znižal ciljno ceno nafte, saj ocenjuje, da je mirovni dogovor že vključen v tržne cene.",
-      "analiza": "Ozadje dogovora med ZDA in Iranom je večmesečni konflikt, ki je povzročal precejšnjo negotovost na globalnih energetskih trgih, še posebej glede dobav nafte in plina. Podpis MoU, čeprav le okvirnega, je pomemben korak k deeskalaciji in potencialni normalizaciji odnosov. To je relevantno, ker zmanjšuje geopolitično tveganje v ključni regiji za svetovne energetske tokove. Mehanizem vpliva na finančne trge je predvsem preko pričakovanj o stabilizaciji dobav nafte in morebitnem povečanju iranske proizvodnje, kar bi lahko znižalo cene nafte. Zmanjšanje tveganja spodbuja splošno apetit po tveganju, kar se odraža v rasti delnic. Posledice za delnice so bile takojšnje in pozitivne, zlasti za tehnološke delnice (Nasdaq +3,1 %), ki so pogosto bolj občutljive na globalno stabilnost. Za surovine, kot je nafta, bi dolgoročno lahko pomenilo padec cen, čeprav je Goldman Sachs opozoril, da je ta vpliv že delno vključen v ceno. Obveznice, ki so običajno varnejše naložbe v času negotovosti, bi lahko doživele umik kapitala, kar bi zvišalo njihove donose. Valute, povezane z energetskimi trgi, bi se lahko premikale glede na gibanje cen nafte. Zgodovinsko gledano so podobni dogovori, kot je bil iranski jedrski sporazum leta 2015, povzročili kratkoročno olajšanje na trgih. V prihodnje bo ključno spremljati napredek v jedrskih pogajanjih in dejansko implementacijo MoU. Za slovenskega dolgoročnega vlagatelja to pomeni zmanjšanje enega izmed glavnih geopolitičnih tveganj, kar lahko prispeva k stabilnejšemu okolju za naložbe, vendar je potrebna previdnost, saj so takšni dogovori pogosto krhki.",
+      "povzetek": "Administracija predsednika Trumpa in Iran sta se dogovorila o okvirnem mirovnem sporazumu, kar je pomemben razvoj v mednarodnih odnosih. Trgi zdaj nestrpno pričakujejo objavo besedila tega okvira, da bi ocenili njegove podrobnosti in dolgoročne posledice. Dogovor prihaja v času, ko so se napetosti med državama stopnjevale, zlasti po začetku iranske vojne. Ta sporazum bi lahko prinesel stabilnost v regiji in imel daljnosežne ekonomske učinke. Njegove podrobnosti bodo ključne za razumevanje celotnega obsega vpliva na globalne trge.",
+      "analiza": "Ozadje tega dogovora je večletno obdobje napetosti in konflikta med ZDA in Iranom, ki je vključevalo tudi vojaške spopade in sankcije, kar je močno vplivalo na globalno energetsko varnost in geopolitično stabilnost Bližnjega vzhoda. Pomembnost tega sporazuma zdaj leži v njegovem potencialu za deeskalacijo in odprtje novih poti za trgovino in sodelovanje. Mehanizem vpliva na finančne trge je večplasten: zmanjšanje geopolitičnih tveganj običajno vodi do povečanega apetita po tveganju, kar bi lahko pozitivno vplivalo na delniške trge in valute, ki veljajo za bolj tvegane. Najbolj neposreden vpliv pa je na cene nafte, saj bi morebitna odprava sankcij in stabilizacija regije lahko povečala ponudbo nafte in zmanjšala premijo za tveganje. Posledično so globalne cene nafte že padle pod 80 dolarjev za sod, kar je prvič po začetku iranske vojne. To lahko pomeni nižje stroške za podjetja in potrošnike, kar bi lahko spodbudilo gospodarsko rast. Za obveznice bi lahko zmanjšanje negotovosti zmanjšalo povpraševanje po varnih pristaniščih, kar bi lahko povzročilo rahel dvig donosov. Zgodovinsko gledano so podobni dogovori, kot je bil iranski jedrski sporazum leta 2015, povzročili kratkoročno olajšanje na trgih in spremembe v cenah surovin. Naprej bo ključno spremljati objavo celotnega besedila sporazuma in njegovo implementacijo. Za slovenskega dolgoročnega vlagatelja to pomeni potencialno stabilizacijo globalnega gospodarstva in zmanjšanje inflacijskih pritiskov zaradi nižjih cen energentov, kar lahko ustvari ugodnejše okolje za rast podjetij in naložb.",
       "vpliv": [
-        "S&P 500 +1.7%",
-        "Nasdaq +3.1%",
-        "Cene nafte pod pritiskom",
-        "Zmanjšano geopolitično tveganje"
+        "Zmanjšanje geopolitičnih tveganj",
+        "Padec cen nafte pod 80 USD/sod",
+        "Potencialno povečan apetit po tveganju na delniških trgih",
+        "Stabilizacija Bližnjega vzhoda"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/6/16/us-stock-market-climbs-as-us-iran-deal-stirs-hopes-for-end-to-energy-chaos?traffic_source=rss",
-      "objavljeno": "2026-06-16T02:06:56.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/what-have-the-u-s-and-iran-agreed-to-this-is-what-markets-are-focused-on-fefbfa08?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-16T18:16:00.000Z"
     },
     {
-      "naslov": "Združeno kraljestvo zaseglo tanker ruske 'flote v senci' v Rokavskem prelivu",
-      "sektor": "Geopolitika & Energetika",
+      "naslov": "Cene nafte padle pod 80 dolarjev po dogovoru med ZDA in Iranom",
+      "sektor": "Energetika",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Globalne cene nafte so prvič po začetku iranske vojne padle pod 80 dolarjev za sod. Ta padec je neposredna posledica dogovora o okvirnem mirovnem sporazumu med ZDA in Iranom. Kljub padcu cen, ladijski podatki kažejo, da skozi Hormuško ožino še vedno pluje le del običajnega obsega tankerjev, kar kaže na preostale pomisleke glede varnosti dobavnih poti. Padec cen nafte je pomemben za svetovno gospodarstvo in potrošnike. Pričakuje se, da bo stabilizacija regije vplivala na dolgoročno ponudbo.",
+      "analiza": "Padec cen nafte pod 80 dolarjev za sod je pomemben dogodek, ki odraža zmanjšanje geopolitične premije za tveganje, ki je bila vgrajena v cene nafte med iransko vojno. Predhodno so se cene gibale višje zaradi strahu pred motnjami v dobavi, zlasti skozi strateško pomembno Hormuško ožino. Zdaj, ko je dosežen okvirni mirovni sporazum med ZDA in Iranom, se pričakuje, da se bodo dobavne verige stabilizirale in da se bo morebiti povečala ponudba iranske nafte na svetovnih trgih. Mehanizem vpliva je direkten: večja ponudba in zmanjšano tveganje vodita do nižjih cen. Posledice so široke: za delniške trge to pomeni nižje stroške energije za podjetja v transportu, proizvodnji in drugih sektorjih, kar lahko poveča njihovo dobičkonosnost in spodbuja rast. Potrošniki se lahko veselijo nižjih cen goriv in energije, kar poveča njihovo kupno moč in lahko spodbudi potrošnjo. Za obveznice to lahko zmanjša inflacijske pritiske, kar bi centralnim bankam omogočilo bolj fleksibilno denarno politiko. Valute držav izvoznic nafte, kot je norveška krona, bi lahko oslabela, medtem ko bi valute uvoznic nafte, kot je evro, lahko pridobile. Kljub dogovoru pa je pomembno spremljati dejansko prehodnost Hormuške ožine, saj podatki kažejo, da promet še ni v celoti normaliziran. Za slovenskega dolgoročnega vlagatelja nižje cene nafte pomenijo cenejše surovine za industrijo in nižje življenjske stroške, kar lahko dolgoročno prispeva k stabilnejšemu in bolj predvidljivemu gospodarskemu okolju.",
+      "vpliv": [
+        "Nižji inflacijski pritiski",
+        "Povečana kupna moč potrošnikov",
+        "Nižji stroški za podjetja",
+        "Potencialno povečana stabilnost trga"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/global-oil-prices-break-below-80-for-the-first-time-since-the-iran-war-began-ships-still-arent-passing-through-hormuz-83aa3e1e?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-16T16:50:00.000Z"
+    },
+    {
+      "naslov": "SpaceX prehitel Amazon in postal peto najvrednejše podjetje na svetu",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Podjetje SpaceX Elona Muska je le nekaj dni po svoji prvi javni ponudbi (IPO) prehitelo Amazon in postalo peto najvrednejše podjetje na svetu. Vrednost podjetja je v nekem trenutku narasla na 2,97 bilijona dolarjev. Ta skok vrednosti je bil delno posledica nakupa zagonskega podjetja Cursor, ki stoji za aplikacijo za kodiranje, podprto z umetno inteligenco, za 60 milijard dolarjev (44 milijard funtov). S tem prevzemom SpaceX poskuša izkoristiti uspeh tehnologije umetne inteligence kot orodja za kodiranje. To kaže na močno rast v sektorjih vesolja in umetne inteligence.",
+      "analiza": "Ta novica poudarja izjemno rast in vpliv podjetij, ki so v ospredju inovacij na področju vesolja in umetne inteligence. SpaceX, znan po svojih raketnih in satelitskih tehnologijah, je s prevzemom podjetja Cursor za 60 milijard dolarjev jasno nakazal svojo ambicijo po širitvi na področje umetne inteligence in kodiranja. Ta strateška poteza kaže na konvergenco različnih visokotehnoloških sektorjev in poudarja pomen AI kot gonilne sile prihodnje rasti. Mehanizem vpliva na finančne trge je jasen: izjemna rast vrednosti SpaceX-a, ki je v nekaj dneh po IPO-ju dosegel 2,97 bilijona dolarjev, kaže na močan apetit vlagateljev po visokotehnoloških podjetjih z inovativnimi rešitvami. To lahko spodbudi optimizem v celotnem tehnološkem sektorju, še posebej pri podjetjih, ki so močno vključena v AI in vesoljske tehnologije. Posledično lahko to povzroči nadaljnje preusmerjanje kapitala v te sektorje, kar bi lahko vplivalo na delnice tehnoloških podjetij. Za obveznice in valute je vpliv posreden, saj gre predvsem za sektorsko gibanje, vendar lahko splošni optimizem glede tehnološkega napredka prispeva k širšemu gospodarskemu optimizmu. Zgodovinsko gledano so podobni hitri vzponi podjetij, kot so bili Amazon ali Apple v svojih zgodnjih fazah, preoblikovali tržno pokrajino. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja v inovativne tehnološke sektorje, vključno z AI in vesoljem, lahko ključna za izkoriščanje dolgoročnih trendov rasti, vendar je treba biti pozoren na visoke vrednotenja in tveganja, povezana z novimi tehnologijami.",
+      "vpliv": [
+        "Povečana vrednost tehnoloških delnic",
+        "Rast sektorja umetne inteligence",
+        "Preusmeritev kapitala v inovativne tehnologije",
+        "Sprememba v globalni hierarhiji podjetij"
+      ],
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/science/2026/jun/16/spacex-ai-coding-anysphere-cursor-amazon-market-valuation-xai",
+      "objavljeno": "2026-06-16T18:37:43.000Z"
+    },
+    {
+      "naslov": "Rivian odpušča na stotine delavcev med lansiranjem modela R2",
+      "sektor": "Potrošniki",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Britanski kraljevi marinci so 16. junija 2026 izvedli prvo tovrstno operacijo v Rokavskem prelivu in zasegli tanker, ki pripada ruski 'floti v senci'. Ta 17-letna ladja je bila predhodno prodana s strani TMS Group ladijskega magnata Georgea Economouja in je bila povezana s sponzorjem Tate Modern. Operacija je povzročila, da so se drugi tankerji obrnili, kar kaže na takojšen vpliv na pomorski promet. Zaseg tankerja, ki je del flote, ki pomaga Rusiji obiti sankcije, poudarja nadaljevanje in zaostrovanje sankcijskega režima proti Rusiji.",
-      "analiza": "Ozadje te novice je nadaljevanje sankcij proti Rusiji, ki so bile uvedene po konfliktu v Ukrajini. 'Flota v senci' je termin za ladje, ki delujejo izven običajnih regulativnih okvirov, pogosto pod nejasnim lastništvom, da bi omogočile transport ruske nafte in drugih dobrin kljub sankcijam. Zaseg tankerja v Rokavskem prelivu je relevanten, ker predstavlja konkretno uveljavitev sankcij in signalizira, da se bo Zahod aktivneje boril proti izogibanju sankcijam. Mehanizem vpliva na finančne trge je predvsem preko energentov in pomorskega transporta. Zmanjšanje zmogljivosti 'flote v senci' lahko oteži transport ruske nafte, kar bi lahko zmanjšalo ponudbo na globalnih trgih in potencialno zvišalo cene nafte. To lahko povzroči tudi višje stroške zavarovanja in transporta za ladjarje. Posledice za surovine so lahko zvišanje cen nafte zaradi zmanjšane ponudbe. Za delnice ladjarskih podjetij, ki delujejo v skladu s sankcijami, bi to lahko pomenilo povečanje povpraševanja in cen, medtem ko bi se tveganje za podjetja, povezana s 'floto v senci', povečalo. Valute držav, ki so odvisne od uvoza nafte, bi lahko oslabele. Zgodovinsko gledano so podobne operacije, kot so bile blokade v Hormuški ožini, povzročile znatne skoke cen nafte. V prihodnje bo pomembno spremljati, ali se bodo takšne operacije nadaljevale in kako se bo nanje odzvala Rusija. Za slovenskega dolgoročnega vlagatelja to pomeni, da geopolitična tveganja ostajajo pomemben dejavnik na energetskih trgih, kar lahko vpliva na inflacijo in stroške poslovanja podjetij.",
+      "povzetek": "Proizvajalec električnih vozil Rivian je napovedal odpuščanje na stotine delavcev, kar predstavlja manj kot 2 % celotne delovne sile podjetja. Odločitev prihaja v času, ko se podjetje pripravlja na lansiranje svojega novega modela R2. Odpuščanja so del širšega prizadevanja za optimizacijo poslovanja in zmanjšanje stroškov v konkurenčnem sektorju električnih vozil. Podjetje se sooča z izzivi pri doseganju dobičkonosnosti in učinkovitosti. Ta poteza kaže na previdnost v industriji električnih vozil.",
+      "analiza": "Odpuščanja v Rivianu, ki predstavljajo manj kot 2 % delovne sile, so znak pritiska na proizvajalce električnih vozil, da optimizirajo stroške in izboljšajo učinkovitost. Kljub temu, da se podjetje pripravlja na lansiranje novega modela R2, kar bi moralo biti obdobje rasti, odpuščanja kažejo na previdnost in potrebo po konsolidaciji. Ozadje je visoko konkurenčno okolje v industriji električnih vozil, kjer se podjetja soočajo z izzivi pri obsegu proizvodnje, dobavnih verigah in doseganju dobičkonosnosti. Mehanizem vpliva na finančne trge je negativen za delnice Riviana in potencialno za širši sektor električnih vozil, saj signalizira morebitne težave pri doseganju zastavljenih ciljev in profitabilnosti. Vlagatelji lahko to interpretirajo kot znak, da je rast v sektorju EV morda počasnejša ali bolj zahtevna, kot je bilo pričakovano. To lahko povzroči pritisk na delnice drugih start-upov v EV industriji. Za obveznice, valute in surovine je vpliv bolj posreden, vendar lahko splošno upočasnjevanje v avtomobilski industriji vpliva na povpraševanje po nekaterih surovinah. Zgodovinsko gledano so odpuščanja v hitro rastočih sektorjih pogosto znak zorenja industrije in konsolidacije. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da je sektor električnih vozil, čeprav obetaven, še vedno podvržen tveganjem in da je selekcija podjetij ključna. Pomembno je spremljati finančne rezultate podjetij in njihovo sposobnost doseganja dobičkonosnosti.",
       "vpliv": [
-        "Potencialno zvišanje cen nafte",
-        "Povečani stroški pomorskega transporta",
-        "Večja negotovost na trgu nafte",
-        "Pritisk na podjetja, ki obhajajo sankcije"
+        "Negativen vpliv na delnice Riviana",
+        "Pritisk na sektor električnih vozil",
+        "Znak za optimizacijo stroškov v industriji",
+        "Previdnost vlagateljev glede rasti EV"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/6/16/uk-seizes-russian-shadow-fleet-tanker-what-that-means?traffic_source=rss",
-      "objavljeno": "2026-06-16T04:54:06.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/06/16/rivian-layoffs.html",
+      "objavljeno": "2026-06-16T18:41:27.000Z"
     },
     {
-      "naslov": "Delnice Rathbonesa padle za 18 % po ustavitvi naložb visoko tveganih strank",
+      "naslov": "General Motors napovedal obrambno partnerstvo z Lockheed Martinom",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "General Motors (GM) je objavil novo obrambno partnerstvo z Lockheed Martinom. Ta poteza prihaja v času, ko država povečuje proizvodnjo orožja. Partnerstvo nakazuje diverzifikacijo poslovanja GM-a in vstop na trg obrambne industrije, kar bi lahko prineslo nove prihodke in sinergije. Lockheed Martin, kot uveljavljen igralec v obrambnem sektorju, bo s tem partnerstvom verjetno okrepil svoje proizvodne zmogljivosti. To partnerstvo kaže na strateški premik v avtomobilski industriji.",
+      "analiza": "Partnerstvo med General Motorsom in Lockheed Martinom je pomemben strateški premik, ki poudarja naraščajoče povpraševanje po obrambnih tehnologijah in opremi. Ozadje je globalno povečanje izdatkov za obrambo, ki ga poganjajo geopolitične napetosti in potreba po posodobitvi vojaških zmogljivosti. Za General Motors to pomeni diverzifikacijo poslovanja izven tradicionalne avtomobilske industrije, kar lahko zmanjša odvisnost od cikličnih gibanj v sektorju potrošnikov in odpre nove, stabilnejše vire prihodkov. Mehanizem vpliva na finančne trge je pozitiven za delnice obeh podjetij, saj partnerstvo obljublja rast in sinergije. Delnice GM-a bi lahko pridobile na vrednosti zaradi vstopa v donosen obrambni sektor, medtem ko bi Lockheed Martin lahko izkoristil proizvodne zmogljivosti in strokovno znanje GM-a. Širše gledano, to partnerstvo poudarja privlačnost obrambnega sektorja za vlagatelje. Posledice za delnice obrambnih podjetij so lahko nadaljnja rast, medtem ko je vpliv na obveznice, valute in surovine bolj posreden, povezan s splošnim gospodarskim vplivom obrambnih izdatkov. Zgodovinsko gledano so podjetja pogosto iskala diverzifikacijo v stabilnejše sektorje v obdobjih negotovosti. Za slovenskega dolgoročnega vlagatelja to partnerstvo kaže na pomen spremljanja strateških potez velikih korporacij in razmisleka o izpostavljenosti sektorjem, ki so odporni na gospodarske cikle, kot je obramba, vendar je treba upoštevati tudi etične in ESG dejavnike.",
+      "vpliv": [
+        "Pozitiven vpliv na delnice GM in Lockheed Martin",
+        "Diverzifikacija poslovanja GM",
+        "Rast obrambnega sektorja",
+        "Povečana proizvodnja orožja"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/06/16/general-motors-lockheed-martin.html",
+      "objavljeno": "2026-06-16T18:28:59.000Z"
+    },
+    {
+      "naslov": "Robinhood zmanjšuje število zaposlenih za 10 % zaradi prestrukturiranja",
       "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Delnice podjetja Rathbones, upravljavca premoženja, so 16. junija 2026 padle za 18 odstotkov. Padec je sledil novici, da je podjetje ustavilo naložbe visoko tveganih strank. Financial Times poroča, da se podjetje sooča z grožnjo skoraj milijarde funtov (blizu 1 milijarde EUR) udarca na prilive sredstev. Ta odločitev kaže na previdnost podjetja pri upravljanju tveganj in skladnosti z regulativnimi zahtevami, vendar ima takojšen negativen vpliv na zaupanje vlagateljev in finančno uspešnost.",
-      "analiza": "Ozadje te novice je strogo regulativno okolje v finančni industriji, kjer so podjetja za upravljanje premoženja pod stalnim nadzorom glede preprečevanja pranja denarja in financiranja terorizma. Odločitev Rathbonesa, da ustavi naložbe visoko tveganih strank, je relevantna, saj kaže na proaktivno obvladovanje tveganj, vendar hkrati razkriva, da je imelo podjetje precejšen delež takšnih strank, kar je vlagatelje zaskrbelo. Mehanizem vpliva na finančne trge je predvsem preko zaupanja vlagateljev in pričakovanj glede prihodnjih prihodkov. Izguba prilivov v višini skoraj milijarde funtov je pomemben udarec za podjetje te velikosti. Posledice za delnice Rathbonesa so bile takojšnje in močno negativne, saj je padec za 18 % precejšen. To lahko vpliva tudi na širši sektor upravljanja premoženja, saj se lahko vlagatelji vprašajo, ali se podobna tveganja skrivajo tudi pri drugih podjetjih. Za obveznice podjetja bi to lahko pomenilo zvišanje zahtevanih donosov, saj se poveča tveganje. Valute niso neposredno prizadete. Zgodovinsko gledano so podobni dogodki, kot so regulativne kazni ali izguba ključnih strank, povzročili močne padce delnic v finančnem sektorju. V prihodnje bo pomembno spremljati, kako bo Rathbones nadomestil izgubljene prilive in ali bo to vplivalo na njegovo dolgoročno strategijo. Za slovenskega dolgoročnega vlagatelja to poudarja pomen temeljite analize podjetij, še posebej v reguliranih sektorjih, in tveganja, povezana z operativnimi odločitvami in skladnostjo.",
+      "povzetek": "Robinhood, priljubljena platforma za trgovanje z delnicami, je napovedala zmanjšanje delovne sile za 10 odstotkov v okviru prestrukturiranja. Izvršni direktor Vlad Tenev je izjavil, da je podjetje sicer v močnem finančnem položaju, vendar je postalo 'močno slojevita organizacija'. Odpuščanja so namenjena poenostavitvi poslovanja in izboljšanju učinkovitosti. To je že tretji krog odpuščanj za Robinhood v zadnjih letih in kaže na izzive v fintech sektorju.",
+      "analiza": "Odločitev Robinhooda o zmanjšanju delovne sile za 10 % poudarja izzive, s katerimi se soočajo podjetja v sektorju finančnih tehnologij (fintech), zlasti tista, ki so doživela eksplozivno rast med pandemijo. Ozadje je spremenjeno makroekonomsko okolje z višjimi obrestnimi merami, ki zmanjšujejo apetit po tveganju med malimi vlagatelji, in povečana konkurenca. Izjava izvršnega direktorja Vlada Teneva, da je podjetje postalo 'močno slojevita organizacija', kaže na potrebo po racionalizaciji in poenostavitvi poslovanja za doseganje dolgoročne dobičkonosnosti. Mehanizem vpliva na finančne trge je negativen za delnice Robinhooda, saj odpuščanja, čeprav so namenjena izboljšanju učinkovitosti, pogosto signalizirajo težave ali zmanjšanje rasti. To lahko povzroči negativen sentiment tudi v širšem fintech sektorju, saj vlagatelji postanejo bolj previdni glede podjetij, ki so močno odvisna od rasti števila uporabnikov in trgovalne aktivnosti. Posledice za delnice Robinhooda so verjetno padec vrednosti, medtem ko je vpliv na obveznice, valute in surovine bolj posreden. Zgodovinsko gledano so podjetja, ki so hitro rasla in nato odpuščala, pogosto prehajala v fazo zrelosti in iskanja stabilne dobičkonosnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub privlačnosti inovativnih fintech podjetij pomembno oceniti njihovo dolgoročno vzdržnost in sposobnost prilagajanja spreminjajočim se tržnim razmeram.",
       "vpliv": [
-        "Delnice Rathbonesa -18%",
-        "Zmanjšani prilivi sredstev za Rathbones",
-        "Povečano tveganje za finančna podjetja",
-        "Potencialni pritisk na sektor upravljanja premoženja"
+        "Negativen vpliv na delnice Robinhooda",
+        "Previdnost vlagateljev v fintech sektorju",
+        "Zmanjšana rast v sektorju spletnega posredništva",
+        "Poudarek na učinkovitosti in dobičkonosnosti"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/5ba652cf-26c8-4184-9cfa-98114dee5305",
-      "objavljeno": "2026-06-16T07:16:57.000Z"
-    },
-    {
-      "naslov": "Vodilni v zasebnem kapitalu opozarjajo na grožnjo umetne inteligence pravnim in računovodskim storitvam",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Vodilni v podjetjih zasebnega kapitala opozarjajo na naraščajočo grožnjo umetne inteligence (AI) njihovim naložbam v sektorjih, kot so pravne in računovodske storitve. Financial Times poroča, da se skupine za odkupovanje podjetij, ki so močno vlagale v profesionalne storitve, soočajo z motnjami zaradi hitro razvijajoče se tehnologije. AI ima potencial za avtomatizacijo številnih nalog, ki so tradicionalno opravljali strokovnjaki, kar bi lahko zmanjšalo povpraševanje po človeškem delu in vplivalo na poslovne modele teh podjetij. To opozorilo poudarja širše strukturne spremembe, ki jih prinaša AI.",
-      "analiza": "Ozadje te novice je eksponentna rast in napredek umetne inteligence v zadnjih letih, ki se seli iz raziskovalnih laboratorijev v praktično uporabo v različnih panogah. Sektorji, kot so pravo in računovodstvo, so bili tradicionalno odporni na avtomatizacijo zaradi potrebe po kompleksnem razmišljanju in presoji. Vendar pa je razvoj generativne AI in strojnega učenja spremenil to dinamiko. Opozorilo vodilnih v zasebnem kapitalu je relevantno, ker kaže na realno tveganje za vrednost naložb v podjetja, ki se ukvarjajo s profesionalnimi storitvami. Mehanizem vpliva na finančne trge je predvsem preko pričakovanj o prihodnjih dobičkih in poslovnih modelih. Podjetja, ki ne bodo sposobna hitro integrirati AI ali se prilagoditi novim razmeram, se lahko soočijo z zmanjšanjem marž in tržnega deleža. Posledice za delnice podjetij v sektorjih pravnih, računovodskih in drugih profesionalnih storitev so lahko negativne, saj se povečuje negotovost glede njihove dolgoročne rasti. Naložbe v zasebni kapital, ki so usmerjene v te sektorje, bi lahko doživele zmanjšanje vrednosti. Nasprotno, delnice podjetij, ki razvijajo in implementirajo AI rešitve, bi lahko imele koristi. Zgodovinsko gledano so tehnološke revolucije, kot je bil internet, povzročile propad nekaterih tradicionalnih industrij in vzpon novih. V prihodnje bo ključno spremljati, kako hitro se bo AI integrirala v te sektorje in kako se bodo podjetja prilagodila. Za slovenskega dolgoročnega vlagatelja to pomeni, da je naložbeno okolje pod vplivom strukturnih sprememb, ki jih prinaša AI, zato je pomembno iskati podjetja, ki so odporna na te spremembe ali pa so del rešitve.",
-      "vpliv": [
-        "Zmanjšana privlačnost naložb v tradicionalne profesionalne storitve",
-        "Povečana konkurenca v pravnih in računovodskih storitvah",
-        "Potencialni padec marž v prizadetih sektorjih",
-        "Rast povpraševanja po AI rešitvah"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/d368d0b8-9264-408b-b0af-0f0b660e1c8f",
-      "objavljeno": "2026-06-16T04:00:24.000Z"
-    },
-    {
-      "naslov": "Thames Water se približuje nacionalizaciji, vlada nasprotuje reševalnemu dogovoru",
-      "sektor": "Finance & Potrošniki",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Britansko podjetje za oskrbo z vodo Thames Water se je 16. junija 2026 približalo nacionalizaciji, potem ko je vlada nasprotovala predlaganemu reševalnemu dogovoru. Okoljski minister je izjavil, da dogovor ne ponuja dovolj za potrošnike ali okolje. To je pomemben razvoj za enega največjih dobaviteljev vode v Združenem kraljestvu, ki se že nekaj časa sooča s finančnimi težavami in kritikami glede storitev. Vladno posredovanje poudarja naraščajoče regulativno tveganje v sektorju javnih storitev.",
-      "analiza": "Ozadje te novice je dolgotrajna saga o finančnih težavah Thames Waterja, ki je obremenjen z velikimi dolgovi in se sooča z javno kritiko zaradi onesnaževanja in slabega upravljanja. Vlada je pod pritiskom, da zagotovi zanesljivo oskrbo z vodo in zaščiti interese potrošnikov. Nasprotovanje reševalnemu dogovoru je relevantno, saj kaže na odločnost vlade, da ne bo podpirala rešitev, ki ne ustrezajo njenim standardom, in povečuje verjetnost nacionalizacije. Mehanizem vpliva na finančne trge je predvsem preko povečanega regulativnega tveganja v sektorju javnih storitev in infrastrukture. Nacionalizacija bi pomenila, da bi vlada prevzela lastništvo in upravljanje podjetja, kar bi lahko imelo posledice za obstoječe delničarje in imetnike obveznic. Posledice za delnice podjetij v sektorju javnih storitev v Združenem kraljestvu so lahko negativne, saj se vlagatelji bojijo, da bi se podobni scenariji lahko zgodili tudi pri drugih podjetjih. Za obveznice Thames Waterja bi nacionalizacija lahko pomenila, da bi vlada prevzela dolgove, vendar pod pogoji, ki morda ne bi bili ugodni za vse imetnike obveznic. Valute niso neposredno prizadete, razen če bi to povzročilo širšo negotovost v britanskem gospodarstvu. Zgodovinsko gledano so nacionalizacije, kot je bila tista v britanski železniški industriji v preteklosti, povzročile znatne spremembe v lastništvu in upravljanju. V prihodnje bo ključno spremljati, kakšne bodo podrobnosti morebitne nacionalizacije in kako bo to vplivalo na celoten sektor. Za slovenskega dolgoročnega vlagatelja to poudarja tveganje vladnega posredovanja v reguliranih sektorjih, kar lahko vpliva na vrednost naložb v podjetja, ki delujejo v javnem interesu.",
-      "vpliv": [
-        "Povečano regulativno tveganje v UK javnih storitvah",
-        "Negotovost za delničarje Thames Water",
-        "Potencialni vpliv na obveznice Thames Water",
-        "Signal za druge infrastrukturne projekte"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-06-16T08:22:38.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/6/16/robinhood-slashes-workforce-by-10-percent-amid-restructuring?traffic_source=rss",
+      "objavljeno": "2026-06-16T17:39:48.000Z"
     }
   ]
 }
