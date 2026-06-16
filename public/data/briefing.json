@@ -1,112 +1,112 @@
 {
-  "generiranoOb": "2026-06-16T19:04:23.323Z",
+  "generiranoOb": "2026-06-16T19:26:18.441Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-06-16",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v mešanem tonu, medtem ko so ameriški trgi, odprti dve uri, kazali začetno smer, ki jo je močno zaznamovala vrsta pomembnih korporativnih in geopolitičnih novic. Ključna novica dneva je bil dogovor med administracijo predsednika Trumpa in Iranom o okvirnem mirovnem sporazumu, kar je takoj vplivalo na svetovne cene nafte, ki so prvič po začetku iranske vojne padle pod 80 dolarjev za sod. V tehnološkem sektorju je prišlo do tektonskega premika, saj je SpaceX, le nekaj dni po IPO-ju in prevzemu AI podjetja Cursor za 60 milijard dolarjev, prehitel Amazon in postal peto najvrednejše podjetje na svetu z vrednostjo 2,97 bilijona dolarjev. Po drugi strani pa so podjetja, kot sta Rivian in Robinhood, napovedala odpuščanja, kar kaže na previdnost in prestrukturiranje v sektorjih električnih vozil in finančnih tehnologij. General Motors je medtem objavil strateško partnerstvo z Lockheed Martinom na področju obrambe, kar nakazuje diverzifikacijo in rast v obrambni industriji. Te novice skupaj ustvarjajo kompleksno sliko, kjer se optimizem glede geopolitične stabilnosti in rasti nekaterih tehnoloških velikanov prepleta s previdnostjo in izzivi v drugih sektorjih.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v mešanem tonu, medtem ko so se ameriški trgi odprli z začetno negotovostjo, ki jo poganjajo pomembne korporativne in makroekonomske novice. Ključna novica dneva je bil padec globalnih cen nafte pod 80 dolarjev za sodček prvič po začetku iranske vojne, kljub nadaljevanju motenj v Hormuški ožini. To nakazuje na morebitno umiritev geopolitičnih napetosti, še posebej ob novici o dogovoru med ZDA in Iranom glede mirovnega okvira. Na tehnološkem področju je SpaceX, podjetje Elona Muska, prehitelo Amazon in postalo peto najvrednejše podjetje na svetu z vrednostjo 2,97 bilijona dolarjev, kar je podprto z nakupom startup podjetja Cursor za 60 milijard dolarjev. Medtem pa makroekonomski podatki iz ZDA kažejo zaskrbljujoč trend, saj je gradnja novih domov v maju padla na šestletno najnižjo raven, kar kaže na ohlajanje nepremičninskega trga. Centralne banke nadaljujejo z nakupi zlata, ki je januarja dosegel rekordnih 5.600 dolarjev za unčo, kar poudarja vlogo plemenitih kovin kot varnega zatočišča. Pomembna je tudi strateška poteza General Motorsa, ki je napovedal novo obrambno partnerstvo z Lockheed Martinom, kar kaže na diverzifikacijo poslovanja v obrambni sektor.",
   "novice": [
     {
-      "naslov": "ZDA in Iran dosegli okvirni mirovni sporazum, trgi čakajo podrobnosti",
+      "naslov": "Cene nafte padle pod 80 dolarjev kljub motnjam v Hormuški ožini",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Globalne cene nafte so danes padle pod 80 dolarjev za sodček, kar se je zgodilo prvič po začetku iranske vojne. Ta padec se je zgodil kljub dejstvu, da ladijski promet skozi Hormuško ožino še vedno poteka v zmanjšanem obsegu, saj podatki kažejo, da se skozi ožino premika le del običajnih količin tankerjev. Znižanje cen nakazuje na morebitno sprostitev pritiskov na trgu, ki so bili prisotni zaradi geopolitičnih tveganj. To se dogaja v kontekstu širših razprav o stabilnosti v regiji in morebitnih diplomatskih rešitvah. Trgi so pozorno spremljali dogajanje, saj je Hormuška ožina ključna pomorska pot za globalno dobavo nafte. Kljub temu so se cene umirile, kar je presenetilo nekatere analitike glede na obstoječe motnje.",
+      "analiza": "Padec cen nafte pod 80 dolarjev za sodček, prvič po začetku iranske vojne, je pomemben signal za globalne energetske trge. Ozadje dogajanja je iranska vojna in motnje v Hormuški ožini, ki so v preteklosti povzročile rast cen zaradi strahu pred prekinjeno dobavo. Dejstvo, da cene padajo kljub nadaljevanju motenj v ožini, kaže na spremenjeno percepcijo tveganja ali pa na močnejše fundamentale ponudbe in povpraševanja. Mehanizem vpliva je kompleksen: morebitno zmanjšanje povpraševanja zaradi globalnega gospodarskega ohlajanja lahko preglasi geopolitična tveganja. Posledice za delnice so lahko pozitivne za podjetja z visokimi stroški transporta in proizvodnje, medtem ko so energetske delnice lahko pod pritiskom. Obveznice bi lahko doživele rast, saj nižje cene nafte zmanjšujejo inflacijske pritiske. Valute držav izvoznic nafte bi lahko oslabela. Za slovenskega dolgoročnega vlagatelja to pomeni, da se lahko znižajo stroški energije, kar je pozitivno za potrošnjo in nekatere industrije, vendar je treba spremljati širše geopolitične in gospodarske trende, ki vplivajo na cene surovin.",
+      "vpliv": [
+        "Cene nafte padle pod 80 dolarjev",
+        "Zmanjšani inflacijski pritiski",
+        "Potencialno nižji stroški za podjetja",
+        "Šibkejše valute držav izvoznic nafte"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/global-oil-prices-break-below-80-for-the-first-time-since-the-iran-war-began-ships-still-arent-passing-through-hormuz-83aa3e1e?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-16T19:19:00.000Z"
+    },
+    {
+      "naslov": "ZDA in Iran dosegla okvirni dogovor o mirovnem sporazumu",
       "sektor": "Geopolitika",
       "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "Administracija predsednika Trumpa in Iran sta se dogovorila o okvirnem mirovnem sporazumu, kar je pomemben razvoj v mednarodnih odnosih. Trgi zdaj nestrpno pričakujejo objavo besedila tega okvira, da bi ocenili njegove podrobnosti in dolgoročne posledice. Dogovor prihaja v času, ko so se napetosti med državama stopnjevale, zlasti po začetku iranske vojne. Ta sporazum bi lahko prinesel stabilnost v regiji in imel daljnosežne ekonomske učinke. Njegove podrobnosti bodo ključne za razumevanje celotnega obsega vpliva na globalne trge.",
-      "analiza": "Ozadje tega dogovora je večletno obdobje napetosti in konflikta med ZDA in Iranom, ki je vključevalo tudi vojaške spopade in sankcije, kar je močno vplivalo na globalno energetsko varnost in geopolitično stabilnost Bližnjega vzhoda. Pomembnost tega sporazuma zdaj leži v njegovem potencialu za deeskalacijo in odprtje novih poti za trgovino in sodelovanje. Mehanizem vpliva na finančne trge je večplasten: zmanjšanje geopolitičnih tveganj običajno vodi do povečanega apetita po tveganju, kar bi lahko pozitivno vplivalo na delniške trge in valute, ki veljajo za bolj tvegane. Najbolj neposreden vpliv pa je na cene nafte, saj bi morebitna odprava sankcij in stabilizacija regije lahko povečala ponudbo nafte in zmanjšala premijo za tveganje. Posledično so globalne cene nafte že padle pod 80 dolarjev za sod, kar je prvič po začetku iranske vojne. To lahko pomeni nižje stroške za podjetja in potrošnike, kar bi lahko spodbudilo gospodarsko rast. Za obveznice bi lahko zmanjšanje negotovosti zmanjšalo povpraševanje po varnih pristaniščih, kar bi lahko povzročilo rahel dvig donosov. Zgodovinsko gledano so podobni dogovori, kot je bil iranski jedrski sporazum leta 2015, povzročili kratkoročno olajšanje na trgih in spremembe v cenah surovin. Naprej bo ključno spremljati objavo celotnega besedila sporazuma in njegovo implementacijo. Za slovenskega dolgoročnega vlagatelja to pomeni potencialno stabilizacijo globalnega gospodarstva in zmanjšanje inflacijskih pritiskov zaradi nižjih cen energentov, kar lahko ustvari ugodnejše okolje za rast podjetij in naložb.",
+      "povzetek": "Administracija predsednika Trumpa in Iran sta dosegla okvirni dogovor za mirovni sporazum, kar je novica, na katero so se osredotočili finančni trgi. Medtem ko vsi čakajo na objavo besedila okvira, so trgi pozorni na ključne točke, ki bi lahko vplivale na globalno stabilnost in gospodarstvo. Ta razvoj dogodkov je pomemben, saj prihaja v času, ko so globalne cene nafte padle pod 80 dolarjev za sodček, kljub nadaljevanju motenj v Hormuški ožini, kar nakazuje na morebitno umiritev geopolitičnih napetosti. Dogovor bi lahko zmanjšal tveganja v regiji Bližnjega vzhoda, ki so vplivala na cene energentov in globalne dobavne verige. Podrobnosti sporazuma so ključne za oceno dolgoročnih posledic.",
+      "analiza": "Okvirni dogovor med ZDA in Iranom o mirovnem sporazumu predstavlja ključni geopolitični razvoj, ki ima potencial za stabilizacijo razmer na Bližnjem vzhodu. Ozadje so dolgotrajne napetosti in iranska vojna, ki so povzročale negotovost na globalnih trgih, še posebej na energetskem področju. Relevantnost dogovora je v njegovi sposobnosti, da zmanjša geopolitična tveganja in morebitno odpre pot za normalizacijo ladijskega prometa skozi Hormuško ožino, kar bi dodatno vplivalo na cene nafte. Mehanizem vpliva na finančne trge je predvsem preko zmanjšanja tveganja: manjša geopolitična tveganja običajno vodijo do večje naklonjenosti tveganim naložbam. Posledice bi lahko bile pozitivne za delnice, še posebej tiste, ki so bile pod pritiskom zaradi nestabilnosti. Cene nafte bi lahko dodatno padle, medtem ko bi se povpraševanje po varnih zatočiščih, kot je zlato, lahko zmanjšalo. Valute, kot je ameriški dolar, bi lahko bile pod pritiskom, če se zmanjša povpraševanje po varnih valutah. Za slovenskega dolgoročnega vlagatelja to pomeni potencialno stabilnejše globalno okolje, kar lahko pozitivno vpliva na gospodarsko rast in s tem na donose delniških naložb, hkrati pa je treba biti pozoren na podrobnosti sporazuma in njegovo dejansko implementacijo.",
       "vpliv": [
-        "Zmanjšanje geopolitičnih tveganj",
-        "Padec cen nafte pod 80 USD/sod",
-        "Potencialno povečan apetit po tveganju na delniških trgih",
-        "Stabilizacija Bližnjega vzhoda"
+        "Zmanjšana geopolitična tveganja",
+        "Potencialna stabilizacija cen nafte",
+        "Povečana naklonjenost tveganim naložbam",
+        "Zmanjšano povpraševanje po varnih zatočiščih"
       ],
       "vir": "MarketWatch",
       "vir_url": "https://www.marketwatch.com/story/what-have-the-u-s-and-iran-agreed-to-this-is-what-markets-are-focused-on-fefbfa08?mod=mw_rss_topstories",
       "objavljeno": "2026-06-16T18:16:00.000Z"
     },
     {
-      "naslov": "Cene nafte padle pod 80 dolarjev po dogovoru med ZDA in Iranom",
-      "sektor": "Energetika",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Globalne cene nafte so prvič po začetku iranske vojne padle pod 80 dolarjev za sod. Ta padec je neposredna posledica dogovora o okvirnem mirovnem sporazumu med ZDA in Iranom. Kljub padcu cen, ladijski podatki kažejo, da skozi Hormuško ožino še vedno pluje le del običajnega obsega tankerjev, kar kaže na preostale pomisleke glede varnosti dobavnih poti. Padec cen nafte je pomemben za svetovno gospodarstvo in potrošnike. Pričakuje se, da bo stabilizacija regije vplivala na dolgoročno ponudbo.",
-      "analiza": "Padec cen nafte pod 80 dolarjev za sod je pomemben dogodek, ki odraža zmanjšanje geopolitične premije za tveganje, ki je bila vgrajena v cene nafte med iransko vojno. Predhodno so se cene gibale višje zaradi strahu pred motnjami v dobavi, zlasti skozi strateško pomembno Hormuško ožino. Zdaj, ko je dosežen okvirni mirovni sporazum med ZDA in Iranom, se pričakuje, da se bodo dobavne verige stabilizirale in da se bo morebiti povečala ponudba iranske nafte na svetovnih trgih. Mehanizem vpliva je direkten: večja ponudba in zmanjšano tveganje vodita do nižjih cen. Posledice so široke: za delniške trge to pomeni nižje stroške energije za podjetja v transportu, proizvodnji in drugih sektorjih, kar lahko poveča njihovo dobičkonosnost in spodbuja rast. Potrošniki se lahko veselijo nižjih cen goriv in energije, kar poveča njihovo kupno moč in lahko spodbudi potrošnjo. Za obveznice to lahko zmanjša inflacijske pritiske, kar bi centralnim bankam omogočilo bolj fleksibilno denarno politiko. Valute držav izvoznic nafte, kot je norveška krona, bi lahko oslabela, medtem ko bi valute uvoznic nafte, kot je evro, lahko pridobile. Kljub dogovoru pa je pomembno spremljati dejansko prehodnost Hormuške ožine, saj podatki kažejo, da promet še ni v celoti normaliziran. Za slovenskega dolgoročnega vlagatelja nižje cene nafte pomenijo cenejše surovine za industrijo in nižje življenjske stroške, kar lahko dolgoročno prispeva k stabilnejšemu in bolj predvidljivemu gospodarskemu okolju.",
-      "vpliv": [
-        "Nižji inflacijski pritiski",
-        "Povečana kupna moč potrošnikov",
-        "Nižji stroški za podjetja",
-        "Potencialno povečana stabilnost trga"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/global-oil-prices-break-below-80-for-the-first-time-since-the-iran-war-began-ships-still-arent-passing-through-hormuz-83aa3e1e?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-16T16:50:00.000Z"
-    },
-    {
       "naslov": "SpaceX prehitel Amazon in postal peto najvrednejše podjetje na svetu",
       "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "Podjetje SpaceX Elona Muska je le nekaj dni po svoji prvi javni ponudbi (IPO) prehitelo Amazon in postalo peto najvrednejše podjetje na svetu. Vrednost podjetja je v nekem trenutku narasla na 2,97 bilijona dolarjev. Ta skok vrednosti je bil delno posledica nakupa zagonskega podjetja Cursor, ki stoji za aplikacijo za kodiranje, podprto z umetno inteligenco, za 60 milijard dolarjev (44 milijard funtov). S tem prevzemom SpaceX poskuša izkoristiti uspeh tehnologije umetne inteligence kot orodja za kodiranje. To kaže na močno rast v sektorjih vesolja in umetne inteligence.",
-      "analiza": "Ta novica poudarja izjemno rast in vpliv podjetij, ki so v ospredju inovacij na področju vesolja in umetne inteligence. SpaceX, znan po svojih raketnih in satelitskih tehnologijah, je s prevzemom podjetja Cursor za 60 milijard dolarjev jasno nakazal svojo ambicijo po širitvi na področje umetne inteligence in kodiranja. Ta strateška poteza kaže na konvergenco različnih visokotehnoloških sektorjev in poudarja pomen AI kot gonilne sile prihodnje rasti. Mehanizem vpliva na finančne trge je jasen: izjemna rast vrednosti SpaceX-a, ki je v nekaj dneh po IPO-ju dosegel 2,97 bilijona dolarjev, kaže na močan apetit vlagateljev po visokotehnoloških podjetjih z inovativnimi rešitvami. To lahko spodbudi optimizem v celotnem tehnološkem sektorju, še posebej pri podjetjih, ki so močno vključena v AI in vesoljske tehnologije. Posledično lahko to povzroči nadaljnje preusmerjanje kapitala v te sektorje, kar bi lahko vplivalo na delnice tehnoloških podjetij. Za obveznice in valute je vpliv posreden, saj gre predvsem za sektorsko gibanje, vendar lahko splošni optimizem glede tehnološkega napredka prispeva k širšemu gospodarskemu optimizmu. Zgodovinsko gledano so podobni hitri vzponi podjetij, kot so bili Amazon ali Apple v svojih zgodnjih fazah, preoblikovali tržno pokrajino. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja v inovativne tehnološke sektorje, vključno z AI in vesoljem, lahko ključna za izkoriščanje dolgoročnih trendov rasti, vendar je treba biti pozoren na visoke vrednotenja in tveganja, povezana z novimi tehnologijami.",
+      "povzetek": "SpaceX, podjetje Elona Muska, je le nekaj dni po svoji prvi javni ponudbi (IPO) prehitelo Amazon in postalo peto najvrednejše podjetje na svetu. Vrednost podjetja je v nekem trenutku narasla na 2,97 bilijona dolarjev. Ta skok v vrednosti je bil delno posledica dogovora o nakupu startup podjetja Cursor, ki stoji za aplikacijo za kodiranje, ki jo poganja umetna inteligenca, za 60 milijard dolarjev (44 milijard funtov). S tem poslom želi SpaceX izkoristiti uspeh tehnologije umetne inteligence kot orodja za kodiranje. Rast vrednosti kaže na močno zaupanje v vizijo in inovacije podjetja Elona Muska na področju vesolja in umetne inteligence.",
+      "analiza": "Novica, da je SpaceX presegel Amazon in dosegel vrednost 2,97 bilijona dolarjev, postavlja podjetje Elona Muska na peto mesto med najvrednejšimi podjetji na svetu, kar je izjemen dosežek le nekaj dni po IPO. Ozadje je močan trend rasti v sektorjih vesoljske tehnologije in umetne inteligence, kjer SpaceX aktivno deluje. Nakup startup podjetja Cursor za 60 milijard dolarjev poudarja strateško usmeritev podjetja v AI, ki je trenutno eden najbolj vročih sektorjev. Mehanizem vpliva na trge je predvsem preko povečanega optimizma v tehnološkem sektorju, še posebej za podjetja, ki so na presečišču vesolja in AI. Posledice za delnice so izrazito pozitivne za SpaceX in podjetja v njegovi dobavni verigi, medtem ko bi lahko Amazon doživel relativno zmanjšanje pozornosti vlagateljev. To lahko spodbudi tudi širše naložbe v AI in vesoljske startupe. Za obveznice in valute je vpliv posreden, povezan s splošnim sentimentom na trgu. Za slovenskega dolgoročnega vlagatelja ta novica poudarja pomen diverzifikacije v rastoče tehnološke sektorje in potencial za visoke donose, vendar tudi opozarja na visoke vrednotenja in tveganja, povezana z hitro rastočimi podjetji.",
       "vpliv": [
-        "Povečana vrednost tehnoloških delnic",
-        "Rast sektorja umetne inteligence",
-        "Preusmeritev kapitala v inovativne tehnologije",
-        "Sprememba v globalni hierarhiji podjetij"
+        "Vrednost SpaceX narasla na 2,97 bilijona dolarjev",
+        "SpaceX postal peto najvrednejše podjetje",
+        "Nakup AI startup podjetja Cursor za 60 milijard dolarjev",
+        "Povečan optimizem v tehnološkem sektorju"
       ],
       "vir": "The Guardian",
       "vir_url": "https://www.theguardian.com/science/2026/jun/16/spacex-ai-coding-anysphere-cursor-amazon-market-valuation-xai",
       "objavljeno": "2026-06-16T18:37:43.000Z"
     },
     {
-      "naslov": "Rivian odpušča na stotine delavcev med lansiranjem modela R2",
-      "sektor": "Potrošniki",
+      "naslov": "Gradnja novih domov v ZDA padla na šestletno najnižjo raven",
+      "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Proizvajalec električnih vozil Rivian je napovedal odpuščanje na stotine delavcev, kar predstavlja manj kot 2 % celotne delovne sile podjetja. Odločitev prihaja v času, ko se podjetje pripravlja na lansiranje svojega novega modela R2. Odpuščanja so del širšega prizadevanja za optimizacijo poslovanja in zmanjšanje stroškov v konkurenčnem sektorju električnih vozil. Podjetje se sooča z izzivi pri doseganju dobičkonosnosti in učinkovitosti. Ta poteza kaže na previdnost v industriji električnih vozil.",
-      "analiza": "Odpuščanja v Rivianu, ki predstavljajo manj kot 2 % delovne sile, so znak pritiska na proizvajalce električnih vozil, da optimizirajo stroške in izboljšajo učinkovitost. Kljub temu, da se podjetje pripravlja na lansiranje novega modela R2, kar bi moralo biti obdobje rasti, odpuščanja kažejo na previdnost in potrebo po konsolidaciji. Ozadje je visoko konkurenčno okolje v industriji električnih vozil, kjer se podjetja soočajo z izzivi pri obsegu proizvodnje, dobavnih verigah in doseganju dobičkonosnosti. Mehanizem vpliva na finančne trge je negativen za delnice Riviana in potencialno za širši sektor električnih vozil, saj signalizira morebitne težave pri doseganju zastavljenih ciljev in profitabilnosti. Vlagatelji lahko to interpretirajo kot znak, da je rast v sektorju EV morda počasnejša ali bolj zahtevna, kot je bilo pričakovano. To lahko povzroči pritisk na delnice drugih start-upov v EV industriji. Za obveznice, valute in surovine je vpliv bolj posreden, vendar lahko splošno upočasnjevanje v avtomobilski industriji vpliva na povpraševanje po nekaterih surovinah. Zgodovinsko gledano so odpuščanja v hitro rastočih sektorjih pogosto znak zorenja industrije in konsolidacije. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da je sektor električnih vozil, čeprav obetaven, še vedno podvržen tveganjem in da je selekcija podjetij ključna. Pomembno je spremljati finančne rezultate podjetij in njihovo sposobnost doseganja dobičkonosnosti.",
+      "povzetek": "Gradnja novih domov v ZDA je maja strmoglavila na najnižjo raven v zadnjih šestih letih, kar je najnižja točka po vrhuncu pandemije leta 2020. Ta podatek kaže na znatno ohlajanje nepremičninskega trga, kar bi lahko še otežilo že tako zahteven trg za kupce domov. Zmanjšanje novogradenj odraža več dejavnikov, vključno z visokimi obrestnimi merami, pomanjkanjem delovne sile in visokimi stroški materialov. To je pomemben makroekonomski indikator, ki vpliva na širše gospodarstvo in zaposlovanje. Padec novogradenj lahko vpliva na ponudbo stanovanj in s tem na cene nepremičnin v prihodnosti.",
+      "analiza": "Padec gradnje novih domov v ZDA na šestletno najnižjo raven v maju je zaskrbljujoč makroekonomski podatek. Ozadje je kombinacija dejavnikov, kot so visoke obrestne mere, ki zvišujejo stroške hipotek, pomanjkanje razpoložljivih zemljišč, pomanjkanje kvalificirane delovne sile in inflacija gradbenih materialov. To je pomembno, saj je nepremičninski sektor ključen del gospodarstva in njegov upad lahko signalizira širše gospodarsko ohlajanje. Mehanizem vpliva je direkten: manj novogradenj pomeni manj delovnih mest v gradbeništvu in povezanih panogah, kar zmanjšuje potrošnjo. Posledice za delnice so negativne za gradbena podjetja, proizvajalce gradbenih materialov in podjetja, povezana z opremljanjem domov. Za obveznice bi lahko to pomenilo, da bo Federal Reserve morda prisiljen razmisliti o znižanju obrestnih mer prej, kot je bilo pričakovano, kar bi lahko povzročilo rast cen obveznic. Valute so lahko pod pritiskom, če se zmanjša zaupanje v gospodarsko rast ZDA. Za slovenskega dolgoročnega vlagatelja je to opozorilo na morebitno upočasnitev globalne gospodarske rasti, kar lahko vpliva na donose v različnih sektorjih, zato je pomembno spremljati odločitve centralnih bank in širše gospodarske kazalnike.",
       "vpliv": [
-        "Negativen vpliv na delnice Riviana",
-        "Pritisk na sektor električnih vozil",
-        "Znak za optimizacijo stroškov v industriji",
-        "Previdnost vlagateljev glede rasti EV"
+        "Gradnja novih domov v ZDA na šestletnem dnu",
+        "Ohlajanje nepremičninskega trga",
+        "Negativni vpliv na gradbena podjetja",
+        "Potencialni pritisk na Federal Reserve za znižanje obrestnih mer"
       ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/06/16/rivian-layoffs.html",
-      "objavljeno": "2026-06-16T18:41:27.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/bad-news-home-buyers-new-construction-sinks-to-a-6-year-low-heres-what-it-means-for-you-f9f252d4?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-16T19:16:00.000Z"
     },
     {
-      "naslov": "General Motors napovedal obrambno partnerstvo z Lockheed Martinom",
-      "sektor": "Potrošniki",
+      "naslov": "Centralne banke nadaljujejo z nakupi zlata, kljub rekordnim cenam",
+      "sektor": "Finance",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "General Motors (GM) je objavil novo obrambno partnerstvo z Lockheed Martinom. Ta poteza prihaja v času, ko država povečuje proizvodnjo orožja. Partnerstvo nakazuje diverzifikacijo poslovanja GM-a in vstop na trg obrambne industrije, kar bi lahko prineslo nove prihodke in sinergije. Lockheed Martin, kot uveljavljen igralec v obrambnem sektorju, bo s tem partnerstvom verjetno okrepil svoje proizvodne zmogljivosti. To partnerstvo kaže na strateški premik v avtomobilski industriji.",
-      "analiza": "Partnerstvo med General Motorsom in Lockheed Martinom je pomemben strateški premik, ki poudarja naraščajoče povpraševanje po obrambnih tehnologijah in opremi. Ozadje je globalno povečanje izdatkov za obrambo, ki ga poganjajo geopolitične napetosti in potreba po posodobitvi vojaških zmogljivosti. Za General Motors to pomeni diverzifikacijo poslovanja izven tradicionalne avtomobilske industrije, kar lahko zmanjša odvisnost od cikličnih gibanj v sektorju potrošnikov in odpre nove, stabilnejše vire prihodkov. Mehanizem vpliva na finančne trge je pozitiven za delnice obeh podjetij, saj partnerstvo obljublja rast in sinergije. Delnice GM-a bi lahko pridobile na vrednosti zaradi vstopa v donosen obrambni sektor, medtem ko bi Lockheed Martin lahko izkoristil proizvodne zmogljivosti in strokovno znanje GM-a. Širše gledano, to partnerstvo poudarja privlačnost obrambnega sektorja za vlagatelje. Posledice za delnice obrambnih podjetij so lahko nadaljnja rast, medtem ko je vpliv na obveznice, valute in surovine bolj posreden, povezan s splošnim gospodarskim vplivom obrambnih izdatkov. Zgodovinsko gledano so podjetja pogosto iskala diverzifikacijo v stabilnejše sektorje v obdobjih negotovosti. Za slovenskega dolgoročnega vlagatelja to partnerstvo kaže na pomen spremljanja strateških potez velikih korporacij in razmisleka o izpostavljenosti sektorjem, ki so odporni na gospodarske cikle, kot je obramba, vendar je treba upoštevati tudi etične in ESG dejavnike.",
+      "povzetek": "Centralne banke po svetu načrtujejo nadaljevanje nakupov zlata, kar potrjuje njihovo odpornost pri kopičenju plemenite kovine. Čeprav cene zlata na borzi Comex od konca januarja niso dosegle rekordnih vrednosti, je bil ključni razlog za njihov takratni vzpon na najvišje intradnevne vrednosti nad 5.600 dolarjev za unčo prav nakup s strani globalnih centralnih bank. To kaže na dolgoročno strategijo diverzifikacije rezerv in iskanja varnih zatočišč v obdobjih ekonomske in geopolitične negotovosti. Povečano povpraševanje s strani centralnih bank zagotavlja pomembno podporo cenam zlata na globalnih trgih.",
+      "analiza": "Nadaljevanje nakupov zlata s strani centralnih bank je ključen trend, ki poudarja vlogo plemenitih kovin kot varnega zatočišča in sredstva za diverzifikacijo državnih rezerv. Ozadje je globalna ekonomska in geopolitična negotovost, visoka inflacija v preteklosti in želja po zmanjšanju odvisnosti od rezervnih valut. Relevantnost je v tem, da centralne banke s svojimi nakupi zagotavljajo stabilno in močno povpraševanje po zlatu, kar podpira njegovo ceno, tudi če se povpraševanje s strani zasebnih vlagateljev umiri. Mehanizem vpliva je direkten: povečano institucionalno povpraševanje dviguje cene zlata. Posledice za surovine so pozitivne za zlato in druge plemenite kovine. Za valute to lahko pomeni, da centralne banke zmanjšujejo delež določenih rezervnih valut, kar lahko vpliva na njihovo moč. Delnice podjetij, ki se ukvarjajo z rudarjenjem zlata, lahko doživijo rast. Za slovenskega dolgoročnega vlagatelja to pomeni, da zlato ostaja pomemben del portfelja za diverzifikacijo in zaščito pred inflacijo ter geopolitičnimi tveganji, vendar je treba upoštevati, da so cene že visoke in da so naložbe v zlato bolj varovalne narave kot pa visoko donosne.",
       "vpliv": [
-        "Pozitiven vpliv na delnice GM in Lockheed Martin",
+        "Centralne banke nadaljujejo z nakupi zlata",
+        "Cene zlata dosegle rekordnih 5.600 dolarjev za unčo januarja",
+        "Povečano institucionalno povpraševanje po zlatu",
+        "Podpora cenam zlata"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/central-banks-plan-to-keep-buying-more-gold-heres-an-interesting-step-theyre-taking-to-store-it-safely-bf61e4fd?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-16T19:19:00.000Z"
+    },
+    {
+      "naslov": "General Motors napovedal novo obrambno partnerstvo z Lockheed Martinom",
+      "sektor": "Avtomobilska industrija",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "General Motors je napovedal novo obrambno partnerstvo z Lockheed Martinom, kar je pomemben strateški korak za avtomobilskega velikana. Ta poteza prihaja v času, ko država povečuje svojo proizvodnjo orožja in obrambnih sistemov. Partnerstvo omogoča General Motorsu, da diverzificira svoje poslovanje in vstopi na donosen trg obrambne industrije, izkoriščajoč svoje inženirske in proizvodne zmogljivosti. Za Lockheed Martin to pomeni razširitev dobavne verige in dostop do inovativnih tehnologij s področja avtomobilske industrije. Sodelovanje med dvema velikanoma nakazuje na trend konvergence med komercialnim in obrambnim sektorjem.",
+      "analiza": "Napoved novega obrambnega partnerstva med General Motorsom in Lockheed Martinom je strateška poteza, ki kaže na diverzifikacijo poslovanja in izkoriščanje sinergij med različnimi industrijami. Ozadje je povečanje izdatkov za obrambo na globalni ravni in iskanje novih virov prihodkov za tradicionalne avtomobilske proizvajalce. Relevantnost je v tem, da GM, ki je primarno znan po avtomobilih, vstopa na trg obrambe, kar lahko zmanjša njegovo odvisnost od cikličnega avtomobilskega trga. Mehanizem vpliva na finančne trge je pozitiven za delnice obeh podjetij, saj partnerstvo odpira nove poslovne priložnosti in potencial za rast prihodkov. Delnice General Motorsa bi lahko pridobile na vrednosti zaradi razširitve poslovanja, medtem ko bi Lockheed Martin lahko imel koristi od inovativnih rešitev in povečane proizvodne zmogljivosti. Za obveznice je vpliv posreden, povezan z dolgoročno stabilnostjo podjetij. Za slovenskega dolgoročnega vlagatelja ta novica poudarja pomen spremljanja strateških potez velikih podjetij in iskanja naložbenih priložnosti v sektorjih, ki so podprti z državnimi izdatki in dolgoročnimi trendi, kot je obramba, hkrati pa je pomembno oceniti tveganja, povezana z vstopom v nove tržne segmente.",
+      "vpliv": [
+        "General Motors vstopa v obrambni sektor",
+        "Partnerstvo z Lockheed Martinom",
         "Diverzifikacija poslovanja GM",
-        "Rast obrambnega sektorja",
-        "Povečana proizvodnja orožja"
+        "Potencialna rast delnic obeh podjetij"
       ],
       "vir": "CNBC",
       "vir_url": "https://www.cnbc.com/2026/06/16/general-motors-lockheed-martin.html",
       "objavljeno": "2026-06-16T18:28:59.000Z"
-    },
-    {
-      "naslov": "Robinhood zmanjšuje število zaposlenih za 10 % zaradi prestrukturiranja",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Robinhood, priljubljena platforma za trgovanje z delnicami, je napovedala zmanjšanje delovne sile za 10 odstotkov v okviru prestrukturiranja. Izvršni direktor Vlad Tenev je izjavil, da je podjetje sicer v močnem finančnem položaju, vendar je postalo 'močno slojevita organizacija'. Odpuščanja so namenjena poenostavitvi poslovanja in izboljšanju učinkovitosti. To je že tretji krog odpuščanj za Robinhood v zadnjih letih in kaže na izzive v fintech sektorju.",
-      "analiza": "Odločitev Robinhooda o zmanjšanju delovne sile za 10 % poudarja izzive, s katerimi se soočajo podjetja v sektorju finančnih tehnologij (fintech), zlasti tista, ki so doživela eksplozivno rast med pandemijo. Ozadje je spremenjeno makroekonomsko okolje z višjimi obrestnimi merami, ki zmanjšujejo apetit po tveganju med malimi vlagatelji, in povečana konkurenca. Izjava izvršnega direktorja Vlada Teneva, da je podjetje postalo 'močno slojevita organizacija', kaže na potrebo po racionalizaciji in poenostavitvi poslovanja za doseganje dolgoročne dobičkonosnosti. Mehanizem vpliva na finančne trge je negativen za delnice Robinhooda, saj odpuščanja, čeprav so namenjena izboljšanju učinkovitosti, pogosto signalizirajo težave ali zmanjšanje rasti. To lahko povzroči negativen sentiment tudi v širšem fintech sektorju, saj vlagatelji postanejo bolj previdni glede podjetij, ki so močno odvisna od rasti števila uporabnikov in trgovalne aktivnosti. Posledice za delnice Robinhooda so verjetno padec vrednosti, medtem ko je vpliv na obveznice, valute in surovine bolj posreden. Zgodovinsko gledano so podjetja, ki so hitro rasla in nato odpuščala, pogosto prehajala v fazo zrelosti in iskanja stabilne dobičkonosnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub privlačnosti inovativnih fintech podjetij pomembno oceniti njihovo dolgoročno vzdržnost in sposobnost prilagajanja spreminjajočim se tržnim razmeram.",
-      "vpliv": [
-        "Negativen vpliv na delnice Robinhooda",
-        "Previdnost vlagateljev v fintech sektorju",
-        "Zmanjšana rast v sektorju spletnega posredništva",
-        "Poudarek na učinkovitosti in dobičkonosnosti"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/6/16/robinhood-slashes-workforce-by-10-percent-amid-restructuring?traffic_source=rss",
-      "objavljeno": "2026-06-16T17:39:48.000Z"
     }
   ]
 }
