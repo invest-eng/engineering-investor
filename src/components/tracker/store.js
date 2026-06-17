@@ -102,6 +102,51 @@ export function saveState(state) {
   }
 }
 
+export async function exportExcel(state) {
+  const XLSX = await import('xlsx');
+
+  const catById = Object.fromEntries(state.categories.map((c) => [c.id, c.name]));
+  const accById = Object.fromEntries(state.accounts.map((a) => [a.id, a.name]));
+
+  // Sheet 1 — Transakcije
+  const txRows = [...state.transactions]
+    .sort((a, b) => (a.date < b.date ? 1 : -1))
+    .map((t) => ({
+      Datum: t.date,
+      Vrsta: t.type === 'income' ? 'Prihodek' : t.type === 'expense' ? 'Odhodek' : 'Prenos',
+      Račun: accById[t.accountId] ?? '',
+      Kategorija: catById[t.categoryId] ?? '',
+      'Znesek (EUR)': t.type === 'expense' ? -Math.abs(Number(t.amount)) : Number(t.amount),
+      Opis: t.note ?? '',
+    }));
+
+  // Sheet 2 — Stanja računov
+  const accRows = state.accounts
+    .filter((a) => !a.archived)
+    .map((a) => ({
+      Račun: a.name,
+      Vrsta: ACCOUNT_TYPE_LABEL[a.type] ?? a.type,
+      'Začetno stanje (EUR)': Number(a.startingBalance) || 0,
+      'Trenutno stanje (EUR)': accountBalance(state, a.id),
+    }));
+
+  // Sheet 3 — Proračun
+  const catMap = Object.fromEntries(state.categories.map((c) => [c.id, c]));
+  const budgetRows = state.budgets.map((b) => ({
+    Kategorija: catById[b.categoryId] ?? '',
+    Vrsta: catMap[b.categoryId]?.type === 'income' ? 'Prihodek' : 'Odhodek',
+    'Omejitev (EUR)': Number(b.limit) || 0,
+    Obdobje: b.period === 'month' ? 'Mesec' : b.period === 'year' ? 'Leto' : b.period,
+  }));
+
+  const wb = XLSX.utils.book_new();
+  XLSX.utils.book_append_sheet(wb, XLSX.utils.json_to_sheet(txRows), 'Transakcije');
+  XLSX.utils.book_append_sheet(wb, XLSX.utils.json_to_sheet(accRows), 'Računi');
+  if (budgetRows.length) XLSX.utils.book_append_sheet(wb, XLSX.utils.json_to_sheet(budgetRows), 'Proračun');
+
+  XLSX.writeFile(wb, `sledilnik-${new Date().toISOString().slice(0, 10)}.xlsx`);
+}
+
 export function exportJson(state) {
   const blob = new Blob([JSON.stringify(state, null, 2)], { type: 'application/json' });
   const url = URL.createObjectURL(blob);

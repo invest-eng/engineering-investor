@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react';
 import { Card, Button, Input, Select, Field, Modal, SectionHeader } from '../ui.jsx';
-import { fmtEur, exportJson, importJson, freshState, PALETTE, uid } from '../store.js';
+import { fmtEur, exportJson, exportExcel, importJson, freshState, PALETTE, uid } from '../store.js';
 
 function emptyCategory(type = 'expense') {
   return { id: '', name: '', type, color: PALETTE[0], archived: false };
@@ -73,6 +73,7 @@ export default function Settings({ state, dispatch }) {
             </div>
           </div>
           <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+            <Button variant="secondary" onClick={() => exportExcel(state)}>Izvozi Excel</Button>
             <Button variant="secondary" onClick={handleExport}>Izvozi JSON</Button>
             <Button variant="secondary" onClick={() => fileRef.current?.click()}>Uvozi JSON</Button>
             <input ref={fileRef} type="file" accept="application/json" onChange={handleImportFile} style={{ display: 'none' }} />
