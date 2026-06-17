@@ -59,7 +59,7 @@ export default function AccessGate({
         title="Premium funkcija"
         description="Sledilnik osebnih financ s sinhronizacijo prek naprav je del premium dostopa. Prijavljen si, a tvoj račun še nima premium statusa."
         actionLabel="Spoznaj Premium"
-        actionHref={`${import.meta.env.BASE_URL}premium`}
+        actionHref="/engineering-investor/premium"
       />
     );
   }
