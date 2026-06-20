@@ -2,7 +2,7 @@
 title: "Začetna javna ponudba (IPO): od zasebnega podjetja do borze"
 description: "Zakaj IPO ni samo 'dražja nafta za delnice'. Vodnik skozi celoten mehanizem: kdo so deležniki pred kotacijo, kako se določi cena, kdo dejansko kupi delnice pri IPO-ju in zakaj mali vlagatelji vstopajo zadnji."
 pubDate: 2026-06-20
-category: "Izobraževanje"
+category: "Trgi"
 readingTime: 25
 featured: true
 premium: false
