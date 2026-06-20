@@ -15,9 +15,10 @@ interface Props {
   category: string;
   premium?: boolean;
   image?: string;
+  showDescription?: boolean;
 }
 
-const { title, description, pubDate, readingTime, category, premium = false, image } = Astro.props;
+const { title, description, pubDate, readingTime, category, premium = false, image, showDescription = true } = Astro.props;
 
 const formattedDate = new Intl.DateTimeFormat('sl-SI', {
   day: 'numeric',
@@ -57,7 +58,7 @@ const formattedDate = new Intl.DateTimeFormat('sl-SI', {
             </div>
 
             <h1 class="article-header__title">{title}</h1>
-            <p class="article-header__description">{description}</p>
+            {showDescription && <p class="article-header__description">{description}</p>}
 
             <div class="article-header__byline">
               <div class="article-header__author">

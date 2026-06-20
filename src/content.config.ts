@@ -13,6 +13,7 @@ const analize = defineCollection({
     premium: z.boolean().default(false),
     author: z.string().default('Engineering Investor'),
     image: z.string().optional(),
+    showDescription: z.boolean().default(true),
   }),
 });
 

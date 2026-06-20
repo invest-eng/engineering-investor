@@ -6,6 +6,7 @@ category: "Trgi"
 readingTime: 25
 featured: true
 premium: false
+showDescription: false
 ---
 
 IPO (Initial Public Offering, začetna javna ponudba) je proces, pri katerem zasebno podjetje prvič ponudi svoje delnice širši javnosti na urejeni borzi vrednostnih papirjev. Po zaključku tega procesa postane delnica podjetja prosto dostopna vsakomur, ki ima dostop do borze, kjer je kotirana.
@@ -105,6 +106,39 @@ V kasnejših fazah vstopajo večje finančne institucije, suvereni premoženjski
 
 IPO ni enodnevni dogodek, ampak proces, ki traja 6 do 18 mesecev in vključuje natančno orkestriranost številnih deležnikov.
 
+<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:1.75rem 0;">
+  <div style="background:var(--color-surface);border:1px solid var(--color-border);border-radius:8px;padding:1rem;text-align:center;">
+    <div style="font-size:1.4rem;font-weight:700;color:var(--color-accent);margin-bottom:5px;">1</div>
+    <div style="font-size:0.82rem;font-weight:600;color:var(--color-text);">Interna priprava</div>
+    <div style="font-size:0.72rem;color:var(--color-text-muted);margin-top:3px;">6-12 mesecev</div>
+  </div>
+  <div style="background:var(--color-surface);border:1px solid var(--color-border);border-radius:8px;padding:1rem;text-align:center;">
+    <div style="font-size:1.4rem;font-weight:700;color:var(--color-accent);margin-bottom:5px;">2</div>
+    <div style="font-size:0.82rem;font-weight:600;color:var(--color-text);">Investicijska banka</div>
+    <div style="font-size:0.72rem;color:var(--color-text-muted);margin-top:3px;">Underwriter</div>
+  </div>
+  <div style="background:var(--color-surface);border:1px solid var(--color-border);border-radius:8px;padding:1rem;text-align:center;">
+    <div style="font-size:1.4rem;font-weight:700;color:var(--color-accent);margin-bottom:5px;">3</div>
+    <div style="font-size:0.82rem;font-weight:600;color:var(--color-text);">SEC & S-1</div>
+    <div style="font-size:0.72rem;color:var(--color-text-muted);margin-top:3px;">Registracija</div>
+  </div>
+  <div style="background:var(--color-surface);border:1px solid var(--color-border);border-radius:8px;padding:1rem;text-align:center;">
+    <div style="font-size:1.4rem;font-weight:700;color:var(--color-accent);margin-bottom:5px;">4</div>
+    <div style="font-size:0.82rem;font-weight:600;color:var(--color-text);">Roadshow</div>
+    <div style="font-size:0.72rem;color:var(--color-text-muted);margin-top:3px;">2-3 tedne</div>
+  </div>
+  <div style="background:var(--color-surface);border:1px solid var(--color-border);border-radius:8px;padding:1rem;text-align:center;">
+    <div style="font-size:1.4rem;font-weight:700;color:var(--color-accent);margin-bottom:5px;">5</div>
+    <div style="font-size:0.82rem;font-weight:600;color:var(--color-text);">Bookbuilding</div>
+    <div style="font-size:0.72rem;color:var(--color-text-muted);margin-top:3px;">Zbiranje naročil</div>
+  </div>
+  <div style="background:var(--color-surface);border:1px solid var(--color-border);border-radius:8px;padding:1rem;text-align:center;">
+    <div style="font-size:1.4rem;font-weight:700;color:var(--color-accent);margin-bottom:5px;">6</div>
+    <div style="font-size:0.82rem;font-weight:600;color:var(--color-text);">Alokacija & kotacija</div>
+    <div style="font-size:0.72rem;color:var(--color-text-muted);margin-top:3px;">Dan D</div>
+  </div>
+</div>
+
 ### Faza 1: Interna priprava
 
 Podjetje začne z internimi reformami, ki so pogoj za kotacijo:
@@ -198,6 +232,29 @@ Pri večini IPO-jev prejme **85 do 95 odstotkov** delnic ozek krog institucional
 
 Ti vlagatelji prejemajo alokacije neposredno od underwriterja po IPO ceni, pred začetkom javnega trgovanja. To je privilegiran dostop.
 
+<div style="background:var(--color-surface);border:1px solid var(--color-border);border-radius:10px;padding:1.25rem;margin:1.5rem 0;">
+  <div style="font-size:0.75rem;font-weight:600;text-transform:uppercase;letter-spacing:0.07em;color:var(--color-text-muted);margin-bottom:1rem;">Kdo prejme delnice pri tipičnem IPO-ju</div>
+  <div style="margin-bottom:14px;">
+    <div style="display:flex;justify-content:space-between;font-size:0.82rem;margin-bottom:5px;">
+      <span style="color:var(--color-text);">Institucionalni vlagatelji</span>
+      <span style="font-weight:600;color:var(--color-text);">85-95 %</span>
+    </div>
+    <div style="height:10px;background:var(--color-bg);border-radius:999px;overflow:hidden;border:1px solid var(--color-border);">
+      <div style="height:100%;width:90%;background:var(--color-accent);border-radius:999px;"></div>
+    </div>
+  </div>
+  <div>
+    <div style="display:flex;justify-content:space-between;font-size:0.82rem;margin-bottom:5px;">
+      <span style="color:var(--color-text);">Maloprodajni vlagatelji</span>
+      <span style="font-weight:600;color:var(--color-text);">5-15 %</span>
+    </div>
+    <div style="height:10px;background:var(--color-bg);border-radius:999px;overflow:hidden;border:1px solid var(--color-border);">
+      <div style="height:100%;width:10%;background:#059669;border-radius:999px;"></div>
+    </div>
+  </div>
+  <div style="font-size:0.72rem;color:var(--color-text-muted);margin-top:10px;">* SpaceX izjema: 30 % maloprodajnim vlagateljem</div>
+</div>
+
 ### 7.2 Maloprodajni vlagatelji prek posebnih kanalov
 
 Tradicionalno so mali vlagatelji dobili drobtinice IPO alokacij. Danes imajo nekatere platforme (Robinhood, eToro) direktne aranžmaje z underwriterji, prek katerih svojim uporabnikom ponudijo omejen dostop do IPO-jev.
@@ -254,6 +311,32 @@ Lock-up obdobje je eden najpomembnejših konceptov za razumevanje post-IPO dinam
 
 Lock-up je pogodbena omejitev, ki insiderjem (zaposleni, VC skladi, ustanovitelji) prepoveduje prodajo delnic za določeno obdobje po IPO-ju. Standardni lock-up traja **180 dni** (6 mesecev), čeprav se v pogajanjih med banko in podjetjem ta rok lahko skrajša ali podaljša.
 
+<div style="margin:1.5rem 0;">
+  <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:4px;position:relative;">
+    <div style="position:absolute;top:17px;left:calc(12.5%);right:calc(12.5%);height:2px;background:var(--color-border);z-index:0;"></div>
+    <div style="text-align:center;position:relative;z-index:1;">
+      <div style="width:34px;height:34px;border-radius:50%;background:var(--color-accent);display:flex;align-items:center;justify-content:center;margin:0 auto 8px;font-size:0.65rem;font-weight:700;color:#fff;">D+0</div>
+      <div style="font-size:0.78rem;font-weight:600;color:var(--color-text);">Pricing</div>
+      <div style="font-size:0.68rem;color:var(--color-text-muted);margin-top:2px;">Cena določena</div>
+    </div>
+    <div style="text-align:center;position:relative;z-index:1;">
+      <div style="width:34px;height:34px;border-radius:50%;background:var(--color-surface);border:2px solid var(--color-accent);display:flex;align-items:center;justify-content:center;margin:0 auto 8px;font-size:0.65rem;font-weight:700;color:var(--color-accent);">D+1</div>
+      <div style="font-size:0.78rem;font-weight:600;color:var(--color-text);">Kotacija</div>
+      <div style="font-size:0.68rem;color:var(--color-text-muted);margin-top:2px;">Javno trgovanje</div>
+    </div>
+    <div style="text-align:center;position:relative;z-index:1;">
+      <div style="width:34px;height:34px;border-radius:50%;background:var(--color-surface);border:2px solid var(--color-border);display:flex;align-items:center;justify-content:center;margin:0 auto 8px;font-size:0.6rem;font-weight:700;color:var(--color-text-muted);">D+90</div>
+      <div style="font-size:0.78rem;font-weight:600;color:var(--color-text);">1. 10-Q</div>
+      <div style="font-size:0.68rem;color:var(--color-text-muted);margin-top:2px;">Prvo porocilo</div>
+    </div>
+    <div style="text-align:center;position:relative;z-index:1;">
+      <div style="width:34px;height:34px;border-radius:50%;background:#dc2626;display:flex;align-items:center;justify-content:center;margin:0 auto 8px;font-size:0.58rem;font-weight:700;color:#fff;">D+180</div>
+      <div style="font-size:0.78rem;font-weight:600;color:var(--color-text);">Lock-up expiry</div>
+      <div style="font-size:0.68rem;color:var(--color-text-muted);margin-top:2px;">Insiderji prodajajo</div>
+    </div>
+  </div>
+</div>
+
 ### 9.2 Zakaj lock-up obstaja
 
 Brez lock-upa bi insiderji takoj prodali delnice na prvi dan, ko je cena visoka. To bi ustvarilo masovni prodajni pritisk, ki bi sesuval ceno. Lock-up zagotavlja, da je ta pritisk odložen, kar daje trgu čas za stabilizacijo.
@@ -309,6 +392,25 @@ Slabosti:
 - Empirično slabši dolgoročni donosi za vlagatelje v SPAC
 
 SPAC moda je dosegla vrhunec v 2020-2021, od takrat pa je aktivnost bistveno upadla.
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin:2rem 0;">
+  <div style="background:var(--color-surface);border:1px solid var(--color-border);border-radius:8px;padding:1rem;text-align:center;">
+    <div style="font-size:1.5rem;font-weight:700;color:var(--color-accent);">3,5-7 %</div>
+    <div style="font-size:0.75rem;color:var(--color-text-muted);margin-top:4px;">Provizija underwriterja</div>
+  </div>
+  <div style="background:var(--color-surface);border:1px solid var(--color-border);border-radius:8px;padding:1rem;text-align:center;">
+    <div style="font-size:1.5rem;font-weight:700;color:var(--color-accent);">180</div>
+    <div style="font-size:0.75rem;color:var(--color-text-muted);margin-top:4px;">Dni lock-up (standard)</div>
+  </div>
+  <div style="background:var(--color-surface);border:1px solid var(--color-border);border-radius:8px;padding:1rem;text-align:center;">
+    <div style="font-size:1.5rem;font-weight:700;color:var(--color-accent);">15-25 %</div>
+    <div style="font-size:0.75rem;color:var(--color-text-muted);margin-top:4px;">Povprecni IPO pop</div>
+  </div>
+  <div style="background:var(--color-surface);border:1px solid var(--color-border);border-radius:8px;padding:1rem;text-align:center;">
+    <div style="font-size:1.5rem;font-weight:700;color:#dc2626;">-3 do -4 %</div>
+    <div style="font-size:0.75rem;color:var(--color-text-muted);margin-top:4px;">Podperformance letno (3-5 let)</div>
+  </div>
+</div>
 
 ## 11. Tveganja in kritični pogled
 
