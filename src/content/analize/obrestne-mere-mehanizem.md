@@ -60,11 +60,15 @@ CPI brez hrane in energije. Zakaj? Ker so cene hrane in energije volatilne in od
 
 Spodaj je dejanski potek EU inflacije v zadnjih petih letih:
 
-![EU CPI inflacija 2021-2026 - vrh 9,5 % julij 2022, junij 2026 pri 4,2 %](/engineering-investor/images/articles/obrestne-mere/eu-cpi-inflacija.png)
+<img src="/engineering-investor/images/articles/obrestne-mere/eu-cpi-inflacija.png" alt="EU CPI inflacija 2021-2026, vrh 9,5 % julij 2022, junij 2026 pri 4,2 %" style="width:100%;height:auto;display:block;border-radius:8px;border:1px solid var(--color-border);margin:1rem 0;" />
 
-Za primerjavo: US CPI inflacija, ki jo objavlja U.S. Bureau of Labor Statistics, je sledila podobni poti, a je padla hitreje:
+Za primerjavo: US CPI inflacija, ki jo objavlja U.S. Bureau of Labor Statistics, je sledila podobni poti, a je padla hitreje. Maja 2026 je bila pri 2,9 %:
 
-![US CPI inflacija 2021-2026 - maj 2026 pri 2,9 %](/engineering-investor/images/articles/obrestne-mere/us-cpi-inflacija.png)
+<img src="/engineering-investor/images/articles/obrestne-mere/us-cpi-inflacija.png" alt="US CPI inflacija 2021-2026, maj 2026 pri 2,9 %" style="width:100%;height:auto;display:block;border-radius:8px;border:1px solid var(--color-border);margin:1rem 0;" />
+
+Velika Britanija je poseben primer: s CPI vrhom nad 11 % je imela med razvitimi ekonomijami eno najdlje vztrajajočo inflacijo, ki je bila junija 2026 še vedno pri 6,5 %:
+
+<img src="/engineering-investor/images/articles/obrestne-mere/uk-cpi-inflacija.png" alt="UK CPI inflacija, vrh nad 11 %, junij 2026 pri 6,5 %" style="width:100%;height:auto;display:block;border-radius:8px;border:1px solid var(--color-border);margin:1rem 0;" />
 
 ### 2.3 Drugi kazalniki, ki jih CB gleda
 
@@ -98,7 +102,7 @@ Centralna banka ne gleda samo CPI. Analizira celoten mozaik ekonomskih podatkov:
 
 **Phillips krivulja** (poenostavljena): nižja brezposelnost → višje plače → višja kupna moč → višje cene. Centralne banke jo berejo skupaj z vsemi ostalimi kazalniki.
 
-![Phillipsova krivulja: razmerje med inflacijo in brezposelnostjo](/engineering-investor/images/articles/obrestne-mere/phillips-krivulja.jpeg)
+<img src="/engineering-investor/images/articles/obrestne-mere/phillips-krivulja.jpeg" alt="Phillipsova krivulja: razmerje med inflacijo in brezposelnostjo" style="width:100%;height:auto;display:block;border-radius:8px;border:1px solid var(--color-border);margin:1rem 0;" />
 
 ## 3. Visoke obrestne mere: mehanizem in učinki
 
@@ -108,20 +112,18 @@ Ko inflacija vztrajno presega cilj (npr. ECB cilj 2 %) in kazalniki kažejo, da 
 
 ### 3.2 Transmisija: od CB do tvojega kredita
 
-<div style="margin:1.75rem 0;">
-  <div style="display:flex;flex-direction:column;gap:0;">
-    <div style="background:var(--color-accent);color:#fff;border-radius:8px 8px 0 0;padding:0.8rem 1.1rem;font-size:0.85rem;font-weight:600;">CB dvigne repo rate (MRO)</div>
-    <div style="display:flex;justify-content:center;padding:4px 0;color:var(--color-text-muted);font-size:1.1rem;">↓</div>
-    <div style="background:var(--color-surface);border:1px solid var(--color-border);padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);">Bankam je dražje sposoditi denar od CB</div>
-    <div style="display:flex;justify-content:center;padding:4px 0;color:var(--color-text-muted);font-size:1.1rem;">↓</div>
-    <div style="background:var(--color-surface);border:1px solid var(--color-border);border-top:none;padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);">Donos na državne obveznice naraste (vezane na pricakovanja OM)</div>
-    <div style="display:flex;justify-content:center;padding:4px 0;color:var(--color-text-muted);font-size:1.1rem;">↓</div>
-    <div style="background:var(--color-surface);border:1px solid var(--color-border);border-top:none;padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);">Bankam se bolj splača kupiti obveznice (nizko tveganje, višji donos) kot kreditirati</div>
-    <div style="display:flex;justify-content:center;padding:4px 0;color:var(--color-text-muted);font-size:1.1rem;">↓</div>
-    <div style="background:var(--color-surface);border:1px solid var(--color-border);border-top:none;padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);">Banke dvignejo obrestne mere kreditov in depozitov</div>
-    <div style="display:flex;justify-content:center;padding:4px 0;color:var(--color-text-muted);font-size:1.1rem;">↓</div>
-    <div style="background:var(--color-surface);border:1px solid var(--color-border);border-top:none;border-radius:0 0 8px 8px;padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);font-weight:500;">Posojila so dražja, varčevanje bolj privlačno → manj povpraševanja → nižja inflacija</div>
-  </div>
+<div style="margin:1.75rem 0;border:1px solid var(--color-border);border-radius:8px;overflow:hidden;">
+  <div style="background:var(--color-surface);padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);font-weight:600;border-bottom:1px solid var(--color-border);">CB dvigne repo rate (MRO)</div>
+  <div style="display:flex;justify-content:center;padding:6px 0;color:var(--color-text-muted);font-size:1rem;background:var(--color-bg);">↓</div>
+  <div style="background:var(--color-surface);padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);border-top:1px solid var(--color-border);">Bankam je dražje sposoditi denar od CB</div>
+  <div style="display:flex;justify-content:center;padding:6px 0;color:var(--color-text-muted);font-size:1rem;background:var(--color-bg);">↓</div>
+  <div style="background:var(--color-surface);padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);border-top:1px solid var(--color-border);">Donos na državne obveznice naraste (vezane na pricakovanja OM)</div>
+  <div style="display:flex;justify-content:center;padding:6px 0;color:var(--color-text-muted);font-size:1rem;background:var(--color-bg);">↓</div>
+  <div style="background:var(--color-surface);padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);border-top:1px solid var(--color-border);">Bankam se bolj splača kupiti obveznice (nizko tveganje, višji donos) kot kreditirati</div>
+  <div style="display:flex;justify-content:center;padding:6px 0;color:var(--color-text-muted);font-size:1rem;background:var(--color-bg);">↓</div>
+  <div style="background:var(--color-surface);padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);border-top:1px solid var(--color-border);">Banke dvignejo obrestne mere kreditov in depozitov</div>
+  <div style="display:flex;justify-content:center;padding:6px 0;color:var(--color-text-muted);font-size:1rem;background:var(--color-bg);">↓</div>
+  <div style="background:var(--color-surface);padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);font-weight:500;border-top:1px solid var(--color-border);">Posojila so dražja, varčevanje bolj privlačno → manj povpraševanja → nižja inflacija</div>
 </div>
 
 ### 3.3 Neposredni vpliv na posameznike
@@ -136,18 +138,16 @@ Ko inflacija vztrajno presega cilj (npr. ECB cilj 2 %) in kazalniki kažejo, da 
 
 To je mehanizem, ki ga CB najbolj opazuje, da ne gre predaleč:
 
-<div style="margin:1.75rem 0;">
-  <div style="display:flex;flex-direction:column;gap:0;">
-    <div style="background:#dc2626;color:#fff;border-radius:8px 8px 0 0;padding:0.8rem 1.1rem;font-size:0.85rem;font-weight:600;">Krediti so dragi → manj potrošnje</div>
-    <div style="display:flex;justify-content:center;padding:4px 0;color:#dc2626;font-size:1.1rem;">↓</div>
-    <div style="background:var(--color-surface);border:1px solid #dc262644;padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);">Podjetja imajo manj prihodkov</div>
-    <div style="display:flex;justify-content:center;padding:4px 0;color:#dc2626;font-size:1.1rem;">↓</div>
-    <div style="background:var(--color-surface);border:1px solid #dc262644;border-top:none;padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);">Podjetja varčujejo → odpuscanja</div>
-    <div style="display:flex;justify-content:center;padding:4px 0;color:#dc2626;font-size:1.1rem;">↓</div>
-    <div style="background:var(--color-surface);border:1px solid #dc262644;border-top:none;padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);">Manj zaposlenih → še manj potrošnje</div>
-    <div style="display:flex;justify-content:center;padding:4px 0;color:#dc2626;font-size:1.1rem;">↓</div>
-    <div style="background:var(--color-surface);border:1px solid #dc262644;border-top:none;border-radius:0 0 8px 8px;padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);font-weight:500;">Podjetja imajo še manj prihodkov → še vec odpušcanj...</div>
-  </div>
+<div style="margin:1.75rem 0;border:1px solid var(--color-border);border-radius:8px;overflow:hidden;">
+  <div style="background:var(--color-surface);padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);font-weight:600;border-bottom:1px solid var(--color-border);">Krediti so dragi → manj potrošnje</div>
+  <div style="display:flex;justify-content:center;padding:6px 0;color:var(--color-text-muted);font-size:1rem;background:var(--color-bg);">↓</div>
+  <div style="background:var(--color-surface);padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);border-top:1px solid var(--color-border);">Podjetja imajo manj prihodkov</div>
+  <div style="display:flex;justify-content:center;padding:6px 0;color:var(--color-text-muted);font-size:1rem;background:var(--color-bg);">↓</div>
+  <div style="background:var(--color-surface);padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);border-top:1px solid var(--color-border);">Podjetja varčujejo → odpušcanja</div>
+  <div style="display:flex;justify-content:center;padding:6px 0;color:var(--color-text-muted);font-size:1rem;background:var(--color-bg);">↓</div>
+  <div style="background:var(--color-surface);padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);border-top:1px solid var(--color-border);">Manj zaposlenih → še manj potrošnje</div>
+  <div style="display:flex;justify-content:center;padding:6px 0;color:var(--color-text-muted);font-size:1rem;background:var(--color-bg);">↓</div>
+  <div style="background:var(--color-surface);padding:0.8rem 1.1rem;font-size:0.85rem;color:var(--color-text);font-weight:500;border-top:1px solid var(--color-border);">Podjetja imajo še manj prihodkov → še vec odpušcanj...</div>
 </div>
 
 Historičen primer: Velika depresija 1929-1933, kjer je Fed ob napačnem času dvignil OM in poglobil krizo.
