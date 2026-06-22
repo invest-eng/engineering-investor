@@ -1,112 +1,95 @@
 {
-  "generiranoOb": "2026-06-21T17:15:27.533Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-06-22T10:15:26.550Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-06-21",
-  "povzetek": "Evropski trgi so zaključili dan v mešanem tonu, saj so geopolitične napetosti in politična negotovost v Združenem kraljestvu pretehtale nad optimizmom glede tehnološkega sektorja. Začetek pogovorov med ZDA in Iranom v Švici, ki naj bi se sprva osredotočili na konflikt v Libanonu, je ustvaril upanje na deeskalacijo, a hkrati poudaril krhkost regionalne stabilnosti. Medtem so ameriški trgi, ki so odprti že dve uri, pokazali nekaj optimizma, podprtega z močnimi napovedmi zaslužkov podjetja Micron Technology, ki pričakuje skoraj 1.000-odstotno rast dobička. Razprava o politiki Feda pod Warshom, ki nakazuje, da povišanja obrestnih mer ne bodo končala bikovskega trga, je prav tako prispevala k pozitivnemu sentimentu v ZDA. Vendar pa so novice o naraščajočem pritisku na britanskega premierja Starmerja k odstopu in opozorila o oddaljevanju ZDA in Evrope zaradi 'mitov o zabijanju noža v hrbet' vplivale na širšo negotovost, še posebej v Evropi, kjer so se vlagatelji soočali z mešanimi signali.",
+  "datum": "2026-06-22",
+  "povzetek": "Jutranji pregled finančnih trgov 22. junija 2026 ob 07:30 po slovenskem času zaznamujejo predvsem geopolitični in energetski dogodki. Ključna je novica o napredku v pogovorih med ZDA in Iranom v Švici, ki nakazuje na morebitno deeskalacijo štirimesečnega konflikta in bi lahko pozitivno vplivala na cene nafte. Hkrati pa je eksplozija v katarskem objektu za utekočinjeni zemeljski plin (LNG) v Ras Laffanu, ki je ranila 54 ljudi in pustila 18 pogrešanih, povzročila zaskrbljenost glede globalne dobave energentov. Dodatne motnje v dobavi goriva so se pojavile na Krimu zaradi ukrajinskih napadov. Na makroekonomskem področju se Združeno kraljestvo sooča z negotovostjo zaradi pričakovanih političnih sprememb, kar bi lahko vplivalo na obvezniške trge in valuto. V tehnološkem sektorju Bain Capital inovira z uporabo AI replik za vrednotenje prevzemnih tarč, medtem ko uspeh filma 'Toy Story 5' kaže na robustno potrošniško porabo v zabavni industriji.",
   "novice": [
     {
-      "naslov": "ZDA in Iran začeli ključne pogovore v Švici o koncu vojne",
+      "naslov": "ZDA in Iran dosegli napredek v pogovorih v Švici glede končnega dogovora",
       "sektor": "Geopolitika",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Združene države Amerike in Iran so dosegli napredek v pogovorih v Švici, kjer sta se strani dogovorili o 'načrtu' za končni dogovor. Tehnični pogovori se bodo nadaljevali v letovišču Bürgenstock po doseženem napredku glede vprašanj Hormuške ožine in Libanona. Mednarodni posredniki, Katar in Pakistan, so pozdravili 'spodbuden napredek' v prvem krogu pogovorov med Iranom in ZDA. Cilj pogovorov je rešitev štirimesečnega konflikta, kar bi lahko imelo širše regionalne in globalne posledice. Čeprav so pogovori označeni kot 'zelo težki', je dogovor o nadaljevanju tehničnih pogovorov pozitiven znak.",
+      "analiza": "Ozadje teh pogovorov je štirimesečni konflikt, ki je povzročil precejšnjo nestabilnost v regiji in vplival na globalne cene energentov. Napredek v pogovorih med ZDA in Iranom je ključen za morebitno deeskalacijo napetosti, kar bi lahko zmanjšalo geopolitično tveganje na Bližnjem vzhodu. Mehanizem vpliva na finančne trge je predvsem preko cen nafte in zemeljskega plina; zmanjšanje tveganja za motnje v dobavi iz regije običajno vodi do padca cen. Posledično bi lahko delnice energetskih podjetij doživele pritisk navzdol, medtem ko bi se splošno razpoloženje na trgih izboljšalo, kar bi podprlo delniške indekse. Obveznice bi lahko zabeležile manjše povpraševanje po varnih naložbah, kar bi dvignilo donose. Za slovenskega dolgoročnega vlagatelja to pomeni morebitno stabilizacijo cen energentov, kar zmanjšuje inflacijske pritiske in podpira gospodarsko rast, a hkrati zmanjšuje potencialne dobičke iz naložb v naftni in plinski sektor. Pomembno bo spremljati nadaljnje tehnične pogovore in dejanske korake k implementaciji dogovora.",
+      "vpliv": [
+        "Zmanjšanje geopolitičnega tveganja",
+        "Potencialni padec cen nafte",
+        "Izboljšanje razpoloženja na delniških trgih",
+        "Povečana stabilnost v regiji"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks?traffic_source=rss",
+      "objavljeno": "2026-06-22T08:01:00.000Z"
+    },
+    {
+      "naslov": "Eksplozija v katarskem objektu za LNG v Ras Laffanu ranila 54, 18 pogrešanih",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "V industrijskem mestu Ras Laffan v Katarju je prišlo do eksplozije v objektu za utekočinjeni zemeljski plin (LNG), pri čemer je bilo ranjenih 54 ljudi, 18 pa jih še vedno pogrešajo. Katarsko ministrstvo za notranje zadeve je sporočilo, da je eksplozijo povzročila 'tehnična okvara'. Ras Laffan je ključno središče za proizvodnjo in izvoz LNG, ki je pomemben vir energije za globalne trge. Incident bi lahko vplival na dobavne verige in cene LNG, odvisno od obsega škode in trajanja motenj v proizvodnji.",
+      "analiza": "Katar je eden največjih svetovnih izvoznikov LNG, zato ima vsaka motnja v njegovi proizvodnji takojšen in pomemben vpliv na globalne energetske trge. Tehnična okvara, ki je povzročila eksplozijo, poudarja tveganja, povezana z visoko industrializirano proizvodnjo energentov. Mehanizem vpliva je direkten: zmanjšana dobava LNG iz Katarja bi povzročila rast cen plina, kar bi se odrazilo tudi na cenah električne energije. Posledično bi delnice energetskih podjetij, ki so odvisne od uvoza plina, lahko padle, medtem ko bi proizvajalci plina lahko zabeležili rast. Inflacijski pritiski bi se povečali, kar bi lahko vplivalo na odločitve centralnih bank glede obrestnih mer. Za slovenskega dolgoročnega vlagatelja to pomeni morebitno višje stroške energije, kar lahko vpliva na dobičkonosnost podjetij v panogah, ki so energetsko intenzivne. Pomembno bo spremljati oceno škode in časovnico za ponovno vzpostavitev polne proizvodnje v objektu.",
+      "vpliv": [
+        "Rast cen zemeljskega plina (LNG)",
+        "Povečani inflacijski pritiski",
+        "Negativen vpliv na energetsko intenzivna podjetja",
+        "Motnje v globalni dobavi energentov"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/6/22/qatar-lng-factory-explosion-injures-54-leaves-18-missing-govt-says?traffic_source=rss",
+      "objavljeno": "2026-06-22T03:57:17.000Z"
+    },
+    {
+      "naslov": "Krim ustavi prodajo goriva po ukrajinskih napadih, ki so povzročili pomanjkanje",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Prodaja plina na Krimu, ki je pod ruskim nadzorom, je bila ustavljena po ukrajinskih napadih z droni na oskrbovalno pot polotoka. Ti napadi so povzročili pomanjkanje goriva, kar je prisililo lokalne oblasti k omejitvam. Prekinitev dobave goriva ima neposreden vpliv na lokalno gospodarstvo in prebivalstvo, hkrati pa kaže na nadaljevanje in stopnjevanje konflikta v regiji. Dogodek poudarja ranljivost kritične infrastrukture v vojnih razmerah in potencial za širše motnje v dobavi.",
+      "analiza": "Konflikt v Ukrajini in napadi na kritično infrastrukturo na Krimu so del širšega geopolitičnega tveganja, ki vpliva na energetske trge. Prekinitev dobave goriva na Krimu, čeprav regionalna, je simptom širših motenj in tveganj za dobavne verige energentov. Mehanizem vpliva je podoben kot pri drugih motnjah v dobavi: zmanjšana razpoložljivost goriva vpliva na lokalne cene in lahko posredno vpliva na širše trge, če se konflikt razširi ali če se podobni incidenti ponavljajo. Posledično bi se lahko povečala nestanovitnost cen nafte in plina, kar bi vplivalo na delnice energetskih podjetij in podjetij, odvisnih od transporta. Povečana geopolitična tveganja običajno vodijo v beg kapitala v varne naložbe, kot so državne obveznice, in krepijo valute, ki veljajo za varna zatočišča. Za slovenskega dolgoročnega vlagatelja to pomeni nadaljnjo negotovost na energetskih trgih in morebitne višje stroške transporta, kar lahko vpliva na inflacijo in dobičkonosnost podjetij. Spremljati je treba razvoj konflikta in morebitne nadaljnje napade na energetsko infrastrukturo.",
+      "vpliv": [
+        "Povečana nestanovitnost cen goriva",
+        "Geopolitično tveganje v vzhodni Evropi",
+        "Potencialni vpliv na dobavne verige",
+        "Beg v varne naložbe"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/crimea-halts-fuel-sales-after-ukraine-strikes-cause-shortages?traffic_source=rss",
+      "objavljeno": "2026-06-22T03:18:49.000Z"
+    },
+    {
+      "naslov": "Film 'Toy Story 5' dosegel rekorden otvoritveni vikend za franšizo",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 1,
+      "povzetek": "Film 'Toy Story 5' je zabeležil rekorden otvoritveni vikend za celotno franšizo, kar predstavlja vrnitev v formo za Disney in Pixar po preteklih izzivih. Ta uspeh kaže na močno povpraševanje potrošnikov po zabavnih vsebinah in dokazuje moč uveljavljenih blagovnih znamk v filmski industriji. Rezultat je pomemben indikator zdravja sektorja potrošniške diskrecijske porabe, ki je pogosto občutljiv na gospodarske razmere.",
+      "analiza": "Uspeh filma 'Toy Story 5' je pomemben pokazatelj robustnosti potrošniške porabe, še posebej v sektorju zabave, ki je ključen del diskrecijske porabe. Po obdobju izzivov za Disney in Pixar, vključno z zaprtji kinematografov in spremenjenimi navadami gledalcev, ta rekordni otvoritveni vikend signalizira okrevanje in zaupanje potrošnikov. Mehanizem vpliva je direkten: močna prodaja v zabavni industriji pomeni višje prihodke za podjetja, kot sta Disney, kar se odraža v rasti njihovih delnic. To lahko tudi nakazuje na splošno pozitivno razpoloženje potrošnikov in njihovo pripravljenost za trošenje. Posledično bi lahko delnice podjetij v sektorju medijev in zabave, pa tudi širšega sektorja potrošniške diskrecijske porabe, zabeležile rast. Za slovenskega dolgoročnega vlagatelja je to znak, da se potrošniška poraba drži dobro, kar je ugodno za podjetja, ki ponujajo izdelke in storitve, ki niso nujne. Vlaganje v podjetja z močnimi blagovnimi znamkami in preverjenimi franšizami lahko prinese stabilne donose tudi v spreminjajočih se tržnih pogojih.",
+      "vpliv": [
+        "Rast delnic podjetij v zabavni industriji",
+        "Indikator močne potrošniške porabe",
+        "Pozitiven vpliv na sektor potrošniške diskrecijske porabe",
+        "Okrevanje filmske industrije"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.com/news/articles/cx2kqg958v1o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-06-22T03:13:05.000Z"
+    },
+    {
+      "naslov": "Burnham bo moral biti pogumen, če želi ponovno oživiti britansko rast",
+      "sektor": "Makro & Centralne banke",
       "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Združene države Amerike in Iran so v Švici začeli ključne pogovore, katerih cilj je doseči trajen konec vojne. Pogajanja se bodo sprva osredotočila na izraelsko-hezbolahov konflikt v Libanonu. Novica, objavljena 21. junija 2026 ob 17:04:52 UTC, poudarja pomembnost teh diplomatskih prizadevanj za stabilnost regije. Drugi viri, kot je Al Jazeera, so potrdili začetek pogovorov ob 15:16:44 UTC in 14:54:56 UTC, pri čemer so posredniki Katar in Pakistan pozdravili 'zgodovinsko' priložnost za stabilnost in omenili '60-dnevni načrt'.",
-      "analiza": "Začetek pogovorov med ZDA in Iranom v Švici predstavlja pomemben diplomatski razvoj v regiji, ki je že dolgo vir geopolitičnih napetosti. Ozadje teh pogovorov je dolgotrajen konflikt in nestabilnost, še posebej v Libanonu, kjer se prepletajo interesi različnih akterjev. Pomembnost teh pogovorov zdaj izhaja iz potenciala za deeskalacijo in stabilizacijo Bližnjega vzhoda, kar bi lahko imelo daljnosežne posledice za globalno gospodarstvo. Mehanizem vpliva na finančne trge je večplasten: morebitna deeskalacija bi lahko zmanjšala premijo tveganja za ceno nafte, kar bi pozitivno vplivalo na delnice podjetij, odvisnih od nizkih cen energije, in negativno na delnice energetskih podjetij. Valute, kot sta švicarski frank ali japonski jen, ki veljajo za varna zatočišča, bi lahko oslabeli ob zmanjšanju globalnega tveganja, medtem ko bi se valute držav, odvisnih od nafte, lahko okrepile. Obveznice bi lahko doživele padec povpraševanja po varnih naložbah. Za slovenskega dolgoročnega vlagatelja to pomeni, da je spremljanje geopolitičnih dogodkov ključno za razumevanje širših tržnih gibanj, saj lahko vplivajo na globalne dobavne verige in cene surovin, kar se odraža v donosnosti različnih naložbenih razredov.",
+      "povzetek": "Članek Financial Timesa razpravlja o izzivih, s katerimi se bo moral soočiti Andy Burnham, če bo prevzel vodenje Laburistične stranke in postal novi britanski premier. Poudarja, da bo moral biti 'pogumen', če želi ponovno spodbuditi rast britanskega gospodarstva. Britanska politika je opisana kot 'sovražna do sprejemanja težkih, a nujnih odločitev'. To kaže na pričakovano politično negotovost v Združenem kraljestvu in poudarja potrebo po jasnem ekonomskem načrtu za prihodnost.",
+      "analiza": "Politična nestabilnost in pričakovane spremembe v vodstvu ene izmed največjih svetovnih ekonomij imajo pomemben vpliv na finančne trge. Članek, objavljen ob 06:00 SLO, odraža razpoloženje negotovosti glede prihodnje ekonomske politike Združenega kraljestva. Mehanizem vpliva je večplasten: politična negotovost običajno povzroči padec vrednosti valute (GBP), saj vlagatelji iščejo stabilnejša okolja. Hkrati se lahko poveča donos na državne obveznice, saj vlagatelji zahtevajo višjo premijo za tveganje. Delniški trgi v Združenem kraljestvu bi se lahko soočili z nestanovitnostjo. Posledično bi lahko šibkejši funt vplival na inflacijo in kupno moč. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti previden pri izpostavljenosti britanskim sredstvom, saj politična negotovost prinaša tveganja. Vendar pa lahko morebitne nove politike, usmerjene v rast, dolgoročno prinesejo tudi priložnosti. Ključno bo spremljati izbiro novega vodstva in prve napovedi ekonomske politike.",
       "vpliv": [
-        "Potencialno znižanje cen nafte",
-        "Zmanjšanje geopolitične premije tveganja",
-        "Možna krepitev valute Irana in šibkejši frank/jen",
-        "Vpliv na delnice energetskih podjetij"
+        "Povečana politična negotovost v Združenem kraljestvu",
+        "Potencialna depreciacija britanskega funta (GBP)",
+        "Rast donosov na britanske državne obveznice",
+        "Nestanovitnost na britanskih delniških trgih"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49",
-      "objavljeno": "2026-06-21T17:04:52.000Z"
-    },
-    {
-      "naslov": "Micronova pričakovanja zaslužkov kažejo na skoraj 1.000 % rast dobička",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Pričakovanja zaslužkov podjetja Micron Technology so ključen dogodek na trgu, saj kažejo na skoraj 1.000-odstotno rast dobička. Ta masivna rast podjetja Micron, objavljena 21. junija 2026 ob 14:00:00 UTC, naj bi se 'dogajala skoraj s čistim dobičkom', kar začenja imeti resnične posledice za indeks S&P 500. Podjetje, ki je ključni igralec v industriji pomnilniških čipov, s svojimi rezultati pogosto služi kot barometer za širši tehnološki sektor.",
-      "analiza": "Napovedi o izjemni rasti dobička podjetja Micron Technology so pomemben signal za celoten tehnološki sektor in širši trg. V ozadju je naraščajoče povpraševanje po pomnilniških čipih, ki ga poganjajo razvoj umetne inteligence, podatkovnih centrov in novih generacij elektronskih naprav. Takšna rast dobička, ki se približuje 1.000 %, kaže na močno okrevanje ali izjemno moč v določenem segmentu tehnološkega trga. Mehanizem vpliva je neposreden: pozitivne novice o Micronu lahko dvignejo delnice podjetja in s tem celotnega sektorja polprevodnikov. Ker je Micron del indeksa S&P 500, ima njegov uspeh širši vpliv na splošno tržno razpoloženje in lahko prispeva k rasti indeksa. Posledice vključujejo rast delnic tehnoloških podjetij, potencialno povečanje vrednosti indeksov, kot je S&P 500, in morebitno privabljanje kapitala iz drugih sektorjev. Za slovenskega dolgoročnega vlagatelja to poudarja pomen diverzifikacije in vlaganja v rastoče sektorje, kot je tehnologija, ki lahko ponudijo visoke donose, vendar je vedno treba upoštevati tveganja, povezana z visoko volatilnostjo in cikličnostjo v industriji čipov.",
-      "vpliv": [
-        "Rast delnic Micron Technology",
-        "Pozitiven vpliv na tehnološki sektor",
-        "Podpora indeksu S&P 500",
-        "Povečano zanimanje za polprevodniško industrijo"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/microns-earnings-are-a-must-watch-market-event-with-profit-growth-approaching-1-000-78ec4549?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-21T14:00:00.000Z"
-    },
-    {
-      "naslov": "Bikovski trg se ne bo končal zaradi dvigov obrestnih mer Feda pod Warshom",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Analiza, objavljena 21. junija 2026 ob 13:00:00 UTC, nakazuje, da se trenutni bikovski trg ne bo končal zaradi morebitnih dvigov obrestnih mer Federalnih rezerv pod vodstvom Warsha. Članek navaja, da 'Warsh morda upa, da je grožnja z dvigom obrestnih mer dovolj', vendar bi delnice lahko pridobivale, tudi če bi do dvigov prišlo, saj so pretekli cikli dvigov obrestnih mer lahko vodilo. To pomeni, da trg morda že vključuje pričakovane dvige in jih ne vidi kot dejavnik, ki bi prekinil rast.",
-      "analiza": "Ta novica se osredotoča na ključno vprašanje, ki pesti vlagatelje: ali bodo povišanja obrestnih mer s strani centralnih bank, še posebej Feda, končala bikovski trg. Ozadje je dolgotrajno obdobje nizkih obrestnih mer in kvantitativnega sproščanja, ki je podpiralo rast delniških trgov. Sedanja relevanca izhaja iz pričakovanj glede prihodnje monetarne politike in njenega vpliva na stroške zadolževanja podjetij in privlačnost alternativnih naložb. Mehanizem vpliva je vpliv na pričakovanja: če trg verjame, da Fedovi dvigi obrestnih mer ne bodo bistveno ohladili gospodarstva ali prekinili rasti dobičkov, se bo optimizem ohranil. To lahko vodi do nadaljnje rasti delnic, saj vlagatelji iščejo donose, ki presegajo inflacijo. Posledice vključujejo nadaljnjo podporo delniškim trgom, potencialno zmanjšanje povpraševanja po obveznicah (zaradi manjšega strahu pred recesijo in višjih donosov na delnicah) ter stabilizacijo ali celo krepitev valute ZDA, če se gospodarstvo izkaže za odporno. Za slovenskega dolgoročnega vlagatelja to pomeni, da je razumevanje makroekonomskih trendov in politike centralnih bank ključno, saj vplivajo na vrednotenje vseh naložbenih razredov. Kljub temu je pomembno ohraniti diverzifikacijo in ne precenjevati vpliva posameznih izjav.",
-      "vpliv": [
-        "Nadaljnja podpora delniškim trgom",
-        "Potencialno zmanjšanje povpraševanja po obveznicah",
-        "Stabilizacija ali krepitev ameriškega dolarja",
-        "Ohranjanje optimizma glede gospodarske rasti"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-21T13:00:00.000Z"
-    },
-    {
-      "naslov": "Pritisk na britanskega premierja Starmerja narašča po zmagi Burnhama",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Pritisk na britanskega premierja Keirja Starmerja narašča, naj odstopi, potem ko je njegov rival Andy Burnham dosegel odločilno zmago na nadomestnih volitvah. Novica, objavljena 21. junija 2026 ob 13:05:20 UTC, navaja, da minister Združenega kraljestva pravi, da Starmer 'razmišlja o političnih realnostih'. Druge novice, objavljene ob 16:35:45 UTC in 14:41:53 UTC, poročajo, da se premier 'umika' in preživlja vikend v razpravi o svoji politični prihodnosti z ženo, pri čemer ameriški predsednik Donald Trump napoveduje njegov odstop zaradi 'slabega' delovanja.",
-      "analiza": "Politična nestabilnost v Združenem kraljestvu, ki jo povzroča naraščajoči pritisk na premierja Starmerja po porazu na nadomestnih volitvah, je pomemben dejavnik za evropske trge. Ozadje je splošna politična negotovost in morebitna sprememba vodstva v eni izmed ključnih evropskih ekonomij. Sedanja relevanca izhaja iz neposrednega vpliva na zaupanje vlagateljev in stabilnost britanske politike. Mehanizem vpliva je predvsem prek valute in delniškega trga Združenega kraljestva: politična negotovost običajno povzroči oslabelost funta šterlinga, saj vlagatelji iščejo varnejše naložbe. Delnice podjetij, ki so močno izpostavljene britanskemu domačemu trgu, bi lahko prav tako padle. Nasprotno, podjetja z močno mednarodno izpostavljenostjo bi lahko imela koristi od šibkejšega funta. Obveznice bi lahko doživele povečano povpraševanje, če bi se vlagatelji umikali iz delnic. Za slovenskega dolgoročnega vlagatelja to pomeni, da je spremljanje političnega dogajanja v velikih evropskih državah pomembno, saj lahko vpliva na vrednost naložb v evropske sklade ali podjetja, ki poslujejo z Združenim kraljestvom. Politična tveganja so sestavni del globalnega investicijskega okolja.",
-      "vpliv": [
-        "Oslabelost funta šterlinga",
-        "Padec delnic britanskih podjetij",
-        "Povečana volatilnost na britanskih trgih",
-        "Možna sprememba vladne politike"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/6/21/pressure-mounts-on-starmer-to-quit-after-burnhams-by-election-win?traffic_source=rss",
-      "objavljeno": "2026-06-21T13:05:20.000Z"
-    },
-    {
-      "naslov": "Miti o zabijanju noža v hrbet oddaljujejo ZDA in Evropo",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Članek Financial Timesa, objavljen 21. junija 2026 ob 15:00:08 UTC, opozarja, da 'miti o zabijanju noža v hrbet' poganjajo ZDA in Evropo še bolj narazen. Konkurenčne pripovedi o zapuščini – od Irana do Grenlandije – bi lahko vodile do trajnega razpada Nata. To poudarja naraščajoče napetosti in nesoglasja med tradicionalnimi zaveznicami, kar ima lahko dolgoročne posledice za globalno varnost in trgovino.",
-      "analiza": "Poročilo o naraščajočih nesoglasjih med ZDA in Evropo ter potencialnem razpadu Nata je izjemno pomembno za dolgoročno geopolitično in ekonomsko stabilnost. Ozadje je spreminjajoča se globalna politična pokrajina, kjer se tradicionalna zavezništva preizkušajo zaradi različnih nacionalnih interesov in notranjepolitičnih pritiskov. Sedanja relevanca izhaja iz vpliva na trgovinske odnose, obrambno porabo in splošno globalno varnostno arhitekturo. Mehanizem vpliva na finančne trge je predvsem prek povečane negotovosti in tveganja. Morebiten razpad Nata ali nadaljnje oddaljevanje bi lahko povzročilo povečanje obrambnih proračunov v Evropi, kar bi vplivalo na javne finance in delnice obrambnih podjetij. Trgovinske napetosti med ZDA in Evropo bi lahko vplivale na globalne dobavne verige in dobičke multinacionalnih podjetij. Valute, kot sta evro in dolar, bi lahko doživele volatilnost, odvisno od percepcije moči posameznih ekonomij v novem okolju. Za slovenskega dolgoročnega vlagatelja to pomeni, da je razumevanje širših geopolitičnih trendov ključno, saj lahko vplivajo na stabilnost mednarodnih trgov, trgovinske sporazume in s tem na donosnost naložb v podjetja, ki so močno vpletena v mednarodno trgovino ali so odvisna od stabilnih političnih odnosov.",
-      "vpliv": [
-        "Povečana geopolitična negotovost",
-        "Potencialne trgovinske napetosti med ZDA in EU",
-        "Vpliv na obrambni sektor in javne finance",
-        "Volatilnost valutnih parov EUR/USD"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/4a9be9b8-4cac-49d5-8e08-cb750007b2db",
-      "objavljeno": "2026-06-21T15:00:08.000Z"
-    },
-    {
-      "naslov": "Libanon lahko odloči o uspehu ali neuspehu iransko-ameriškega dogovora",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Članek Al Jazeere, objavljen 21. junija 2026 ob 13:11:50 UTC, poudarja, da bi lahko Libanon 'uspešno ali neuspešno' vplival na iransko-ameriški dogovor. Analitiki opozarjajo, da izraelska eskalacija v Libanonu ogroža spodkopavanje dogovora med Teheranom in Washingtonom. To kaže na izjemno občutljivost in prepletenost regionalnih konfliktov z diplomatskimi prizadevanji za širšo stabilnost.",
-      "analiza": "Ta novica dopolnjuje razumevanje pogovorov med ZDA in Iranom, saj poudarja, da je stabilnost Libanona ključnega pomena za uspeh širšega dogovora. Ozadje je dolgotrajna nestabilnost v Libanonu, ki je pogosto prizorišče posrednih konfliktov med regionalnimi silami. Sedanja relevanca izhaja iz dejstva, da morebitna izraelska eskalacija v Libanonu lahko hitro razveljavi diplomatski napredek in ponovno zaostri napetosti na Bližnjem vzhodu. Mehanizem vpliva na finančne trge je neposreden: vsaka eskalacija v regiji bi verjetno povzročila skok cen nafte, saj je Bližnji vzhod ključen dobavitelj energije. To bi imelo negativne posledice za globalno gospodarstvo in delnice podjetij, ki so odvisna od stabilnih cen energije. Zlato in druge varne naložbe bi se okrepile, medtem ko bi delnice in obveznice v regiji doživele padec. Valute, kot je ameriški dolar, bi se lahko okrepile kot varno zatočišče. Za slovenskega dolgoročnega vlagatelja to pomeni, da je razumevanje kompleksnosti in prepletenosti geopolitičnih žarišč ključno, saj lahko hitro vplivajo na cene surovin in globalno gospodarsko rast, kar se odraža v donosnosti naložb. Tveganja na Bližnjem vzhodu so stalnica, ki jo je treba upoštevati pri portfeljski alokaciji.",
-      "vpliv": [
-        "Potencialni dvig cen nafte",
-        "Povečana geopolitična nestabilnost",
-        "Povečano povpraševanje po varnih zatočiščih (zlato, jen)",
-        "Negativen vpliv na delnice podjetij, odvisnih od energije"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/6/21/why-lebanon-may-make-or-break-the-iran-us-deal?traffic_source=rss",
-      "objavljeno": "2026-06-21T13:11:50.000Z"
+      "vir_url": "https://www.ft.com/content/0f752e27-5268-4a6e-a45d-c48d13fb8ef0",
+      "objavljeno": "2026-06-22T04:00:30.000Z"
     }
   ]
 }
