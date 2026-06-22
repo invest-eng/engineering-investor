@@ -1,128 +1,128 @@
 {
-  "generiranoOb": "2026-06-22T18:59:04.104Z",
+  "generiranoOb": "2026-06-22T19:02:42.311Z",
   "izdaja": "afternoon",
-  "model": "gemini-2.5-flash",
+  "model": "gemini-2.5-flash-lite",
   "tier": "free",
   "datum": "2026-06-22",
-  "povzetek": "Evropski trgi so danes zaključili mešano, pri čemer je nemški indeks DAX zrasel za 0.62 % na 25140 točk, medtem ko so ameriški trgi po dveh urah trgovanja beležili padec. Indeks S&P 500 je bil pri 7468 točkah z -0.44 % padcem, tehnološki Nasdaq 100 pa pri 30255 točkah z -0.50 % padcem. Cene nafte so občutno padle, WTI nafta za 2.70 % na 73.80 USD/sod in Brent nafta za 2.55 % na 77.81 USD/sod, zaradi pričakovanj o povečani ponudbi po napredku v pogovorih med ZDA in Iranom. Tehnološki gigant Alphabet je doživel izgubo 269 milijard dolarjev tržne kapitalizacije zaradi zaskrbljenosti glede odhoda ključnih AI talentov. Medtem so se v Kanadi cene bencina na letni ravni zvišale za 33.2 %, kar je inflacijo dvignilo na 29-mesečni vrh. Opozorila na potencialni 40-odstotni tržni zlom zaradi vala prihajajočih IPO-jev, kot sta SpaceX in OpenAI, so dodala negotovost. Vlagatelji bodo ta teden pozorno spremljali prihajajočo objavo podatkov o inflaciji v evroobmočju, ki bo ključna za oceno prihodnjih potez Evropske centralne banke.",
+  "povzetek": "Popoldansko trgovanje na evropskih trgih je bilo mešano, saj je DAX zabeležil rast (+0,62 %) na 25.140 točk, medtem ko so ameriški indeksi ob odprtju pokazali negativen predznak, pri čemer je S&P 500 padel za 0,46 % na 7.466 točk, Nasdaq 100 pa za 0,53 % na 30.246 točk. Trgi pozorno spremljajo novico o delnem dvigu sankcij ZDA proti iranski nafti, kar bi lahko povečalo ponudbo na trgu, medtem ko se Brent nafta giblje okoli 80,59 USD/sod. V ospredju so tudi skrbi glede potencialnega vpliva prihajajočih IPO-jev, kot sta SpaceX in OpenAI, na tržno stabilnost. V ZDA potekajo demokratske primarne volitve v New Yorku, ki bi lahko nakazale premike v političnem spektru. Naftni trgi se soočajo z napovedmi o povečani ponudbi kljub krhkemu premirju med ZDA in Iranom. Prihajajoči teden bo vlagateljem na radarju predvsem objava podatkov o inflaciji v ZDA.",
   "novice": [
     {
-      "naslov": "Pričakuje se preplavitev naftnih trgov kljub krhkemu premirju ZDA-Iran",
+      "naslov": "ZDA delno dvignile sankcije iranski nafti zaradi spodbudnih pogajanj",
       "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Trgi se soočajo z možnostjo preplavitve z nafto, saj so milijoni sodčkov surove nafte pripravljeni za vstop na trg v kratkem roku. To se dogaja kljub krhkemu premirju med ZDA in Iranom ter strahovom pred neenakomernim gospodarskim okrevanjem. Potencialno povečanje ponudbe bi lahko vplivalo na svetovne cene nafte. Novica poudarja, da je kljub negotovosti glede okrevanja gospodarstva, nafta že 'postavljena v vrsto' za sprostitev na trg. To bi lahko imelo pomembne posledice za globalno energetsko bilanco.",
-      "analiza": "Ozadje te novice je napredek v pogovorih med ZDA in Iranom, ki so že privedli do delne odprave sankcij in 'spodbudnih' pogovorov, kot je navedeno v drugih novicah. Čeprav je premirje med ZDA in Iranom opisano kot krhko, je možnost, da se na trg sprosti več iranske nafte, ključnega pomena. V preteklosti so podobni dogovori ali sprostitve sankcij vedno povzročili povečanje ponudbe in pritisk na cene. Mehanizem vpliva je preprost: povečana ponudba ob morebitnem neenakomernem okrevanju gospodarstva, ki bi lahko omejevalo povpraševanje, povzroči padec cen. To že vidimo danes, saj sta ceni WTI nafte padli za 2.70 % na 73.80 USD/sod, Brent nafte pa za 2.55 % na 77.81 USD/sod. Posledice za delnice so lahko mešane: naftna podjetja bi se soočala z zmanjšanjem prihodkov, medtem ko bi podjetja z visokimi stroški transporta ali proizvodnje lahko imela koristi od nižjih cen energentov. Za valute bi padec cen nafte lahko oslabil valute držav, ki so odvisne od izvoza nafte, in okrepil valute držav uvoznic. Obveznice bi lahko imele koristi od zmanjšanja inflacijskih pritiskov. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor energetike pod pritiskom, medtem ko bi se lahko znižali stroški za podjetja v drugih sektorjih, kar bi dolgoročno lahko vplivalo na njihovo dobičkonosnost.",
-      "vpliv": [
-        "WTI nafta -2.70 % na 73.80 USD/sod",
-        "Brent nafta -2.55 % na 77.81 USD/sod",
-        "pritisk na delnice naftnih podjetij",
-        "potencialno znižanje inflacijskih pritiskov"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/a-flood-of-oil-is-set-to-hit-energy-markets-heres-how-much-crude-may-be-unleashed-5b3484f0?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-22T18:33:00.000Z"
-    },
-    {
-      "naslov": "Alphabet izgubi 269 milijard tržne kapitalizacije zaradi strahu pred izgubo AI talentov",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Delnice Alphabeta so doživele padec, kar je povzročilo izgubo 269 milijard dolarjev tržne kapitalizacije. Razlog za to je zaskrbljenost vlagateljev, da podjetje izgublja 'vojno za talente' na področju umetne inteligence. Nedavno sta namreč dva vodilna strokovnjaka za AI, vključno z Nobelovim nagrajencem, napovedala odhod iz Googla k konkurenčnim laboratorijem. To kaže na izjemno konkurenčnost in pomen vrhunskih kadrov v hitro rastočem sektorju umetne inteligence.",
-      "analiza": "V dobi hitrega razvoja umetne inteligence je konkurenca za vrhunske talente izjemno ostra. Odhod ključnih raziskovalcev, še posebej Nobelovega nagrajenca, iz podjetja, kot je Google (Alphabet), je pomemben signal vlagateljem o morebitni izgubi inovacijske prednosti. To se dogaja v času, ko podjetja vlagajo ogromna sredstva v AI, saj je to ključno za prihodnjo rast in konkurenčnost. Tržna kapitalizacija Alphabeta je danes padla za 269 milijard dolarjev, kar kaže na resnost vpliva te novice. Mehanizem vpliva je neposreden: strah pred zaostankom v ključni tehnologiji zmanjšuje zaupanje v prihodnjo dobičkonosnost podjetja. Posledice so predvsem vidne na delnicah tehnološkega sektorja, še posebej tistih, ki so močno izpostavljene AI. Padec delnic Alphabeta lahko povzroči širši negativni sentiment v sektorju, kar se odraža tudi v padcu indeksa Nasdaq 100 za 0.50 %. Zgodovinsko gledano so podjetja, ki so izgubila vodilne inovatorje, pogosto doživela upad. Za slovenskega dolgoročnega vlagatelja to poudarja pomen spremljanja ključnih kadrovskih sprememb in inovacijskih trendov v tehnoloških podjetjih, saj lahko imajo velik vpliv na dolgoročno vrednost naložb.",
-      "vpliv": [
-        "Alphabet izguba 269 milijard USD tržne kapitalizacije",
-        "Nasdaq 100 -0.50 %",
-        "negativni sentiment v tehnološkem sektorju",
-        "povečana konkurenca za AI talente"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/alphabet-sees-269-billion-market-cap-wipeout-as-investors-fear-its-losing-the-war-for-ai-talent-497aa378?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-22T17:12:00.000Z"
-    },
-    {
-      "naslov": "Kanadska inflacija dosega 29-mesečni vrh zaradi povišanih cen nafte",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
+      "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Kanadska inflacija je dosegla najvišjo raven v zadnjih 29 mesecih, kar je predvsem posledica povišanih cen nafte. Cene bencina so bile glavni dejavnik rasti, saj so se na letni ravni zvišale za 33.2 odstotka. To kaže na močan vpliv energentov na splošno raven cen v gospodarstvu. Visoka inflacija lahko vpliva na kupno moč potrošnikov in na odločitve centralne banke glede obrestnih mer.",
-      "analiza": "Rast inflacije v Kanadi na 29-mesečni vrh je klasičen primer vpliva cen surovin na makroekonomsko stabilnost. Povišane cene nafte, ki so se v Kanadi odrazile v 33.2-odstotnem letnem dvigu cen bencina, neposredno povečujejo stroške življenja za potrošnike in operativne stroške za podjetja. To lahko privede do zmanjšanja kupne moči in upočasnitve gospodarske rasti. Mehanizem vpliva je jasen: višje cene energentov se prelijejo v celotno gospodarstvo, kar dvigne inflacijo in lahko prisili centralno banko k zaostrovanju monetarne politike, npr. z dvigom obrestnih mer. To bi lahko imelo negativne posledice za obvezniške trge (padanje cen obveznic) in delniške trge (višji stroški zadolževanja za podjetja). Za valute bi lahko višja inflacija in potencialni dvig obrestnih mer okrepila kanadski dolar, vendar je to odvisno tudi od primerjave z drugimi valutami. Zgodovinsko gledano so obdobja visoke inflacije pogosto povezana z višjimi obrestnimi merami. Za slovenskega dolgoročnega vlagatelja ta novica poudarja globalno medsebojno povezanost in pomen spremljanja inflacijskih trendov, saj ti vplivajo na politiko centralnih bank in s tem na donosnost vseh razredov sredstev.",
+      "povzetek": "ZDA so delno dvignile sankcije iranski nafti, kar je bilo pričakovano v okviru memoranduma o soglasju. Podpredsednik JD Vance je izjavil, da obstajajo \"dobri temelji\" za dokončen dogovor. Ta poteza bi lahko omogočila sproščanje zamrznjenih sredstev, povečanje izvoza nafte in privabljanje naložb v Iran. Novica prihaja v času, ko se nadaljujejo pogajanja med ZDA in Iranom, ki naj bi potekala v Švici.",
+      "analiza": "Delno dviganje sankcij ZDA proti iranski nafti predstavlja pomemben premik v odnosih med državama in ima lahko večplastne posledice za energetske trge. Ozadje te poteze so spodbudna pogajanja, ki naj bi vodila do širšega dogovora. To bi lahko pomenilo večjo ponudbo surove nafte na svetovnem trgu, kar bi lahko imelo deflacijski učinek na cene nafte, kot smo videli pri Brentu, ki se je danes rahlo dvignil na 80,59 USD/sod, medtem ko je WTI nafta padla za 2,66 % na 73,83 USD/sod. Mehanizem vpliva je neposreden: večja ponudba ob nespremenjeni ali počasneje rastoči povpraševanju vodi v nižje cene. Za delnice energetskih podjetij bi to lahko pomenilo nižje prihodke, medtem ko bi lahko koristilo potrošnikom zaradi nižjih cen goriv. Obveznice bi lahko videle zvišanje donosnosti, če bi inflacijski pritiski popustili. Kriptovalute, kot je Bitcoin, ki se pogosto obravnavajo kot inflacijsko varovalo, bi lahko v takšnem okolju doživele manjši pritisk. Zgodovinsko gledano, vsako večje povečanje ponudbe nafte, ki ga povzroči geopolitični premik, vpliva na stabilnost cen. Vlagatelji bi morali pozorno spremljati nadaljnji razvoj pogajanj in morebitno popolno odpravo sankcij. Za slovenskega dolgoročnega vlagatelja to pomeni potencialno nižje stroške energije, kar lahko pozitivno vpliva na kupno moč in s tem na potrošniško povpraševanje v gospodarstvu.",
       "vpliv": [
-        "Kanadska inflacija na 29-mesečnem vrhu",
-        "cene bencina +33.2 % letno",
-        "potencialni dvig obrestnih mer",
-        "pritisk na kupno moč potrošnikov"
+        "Potencialno znižanje cen nafte",
+        "Povečana ponudba iranske nafte na trgu",
+        "Možni pozitivni učinki na inflacijo",
+        "Vpliv na energetske delnice"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/6/22/canadas-inflation-hits-29-month-high-amid-heightened-oil-prices?traffic_source=rss",
-      "objavljeno": "2026-06-22T16:24:55.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/6/22/us-partially-lifts-iran-oil-sanctions-amid-encouraging-talks?traffic_source=rss",
+      "objavljeno": "2026-06-22T15:38:23.000Z"
     },
     {
-      "naslov": "Tveganje 40-odstotnega tržnega zloma zaradi prihajajočih IPO, kot sta SpaceX in OpenAI",
+      "naslov": "Grozi 40% zlom trga zaradi IPO-jev SpaceX in OpenAI?",
       "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Analitiki opozarjajo na tveganje 40-odstotnega tržnega zloma, ki bi ga lahko sprožil val prihajajočih javnih ponudb delnic (IPO), vključno s podjetji kot sta SpaceX in OpenAI. Prejšnji rekordi v izdaji ameriških delnic so bili zabeleženi v letih 1929 in 2000, obema pa je sledil pomemben tržni padec. Opozorilo poudarja, da bi lahko obseg in valuacije teh IPO-jev povzročile pregrevanje trga.",
-      "analiza": "Opozorilo na potencialni 40-odstotni tržni zlom, ki ga povezujejo z valom IPO-jev, kot sta SpaceX in OpenAI, temelji na zgodovinskih vzorcih. Visoka aktivnost na trgu IPO-jev pogosto sovpada z obdobji evforije in precenjenosti, kar se je v preteklosti izkazalo za predhodnika korekcij ali zlomov. Primerjave z letoma 1929 in 2000, ki sta bili predhodnici Velike depresije in poka internetnega balona, so resne. Mehanizem vpliva je, da pretirana izdaja novih delnic lahko preplavi trg, zmanjša likvidnost in razredči obstoječe naložbe, medtem ko visoke valuacije novih podjetij ustvarjajo ranljivost za korekcijo. Posledice bi bile katastrofalne za delniške trge, saj bi se vrednosti delnic drastično zmanjšale. Obveznice bi lahko služile kot varno zatočišče, kar bi povečalo povpraševanje in znižalo njihove donosnosti. Valute bi se lahko odzvale z begom v varna zatočišča, kot je ameriški dolar. Za slovenskega dolgoročnega vlagatelja je to opozorilo na pomen diverzifikacije in previdnosti v obdobjih visoke tržne evforije, saj so zgodovinski vzorci pomemben opomin na cikličnost trgov.",
+      "povzetek": "Obstaja možnost 40% padca trga, ki ga lahko sproži prihajajoči val vpisov novih delnic (IPO), pri čemer so v ospredju potencialni IPO-ji podjetij SpaceX in OpenAI. Analiza opozarja na zgodovinske vzorce, kjer so rekordni obsegi izdaj delnic v letih 1929 in 2000 predhodili velikim tržnim zlomom. Trenutno se na trg pripravlja velik obseg novih delnic, kar bi lahko povzročilo preveliko ponudbo in znižanje vrednosti obstoječih naložb.",
+      "analiza": "Napoved potencialnega 40% zloma trga zaradi IPO-jev SpaceX in OpenAI je skrajno, a opozarja na pomembno tveganje prevelike ponudbe delnic. Zgodovinska primerjava z letoma 1929 in 2000, ki sta bila predhodnika velikih tržnih kriz, poudarja, da lahko prekomerna izdaja novih delnic \"razvodni\" vrednost obstoječih in ustvari pritisk na prodajo. V primeru SpaceX, ki je ocenjen na bilijon dolarjev, in OpenAI, bi njuni IPO-ji lahko privabili ogromno kapitala, kar bi lahko odtegnilo sredstva od drugih naložb ali ustvarilo preveliko ponudbo na trgu. To bi lahko negativno vplivalo na vrednost delnic vseh tehnoloških podjetij, še posebej tistih, ki so že visoko ocenjena. S&P 500 je danes pri 7.466 točkah in Nasdaq 100 pri 30.246 točkah, oba z negativnim predznakom, kar nakazuje na občutljivost trgov na takšne novice. Obvezniški trg bi lahko v primeru panike na akcijiskem trgu doživel beg v \"varno zavetje\", kar bi znižalo donosnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti previden pri ocenjevanju novih IPO-jev in ne nasedati \"hypeu\", saj lahko nenadna povečana ponudba povzroči korekcije na trgu.",
       "vpliv": [
-        "potencialni 40-odstotni tržni zlom",
-        "visoka aktivnost IPO kot opozorilni znak",
-        "povečano tveganje za delniške trge",
-        "beg v varna zatočišča (obveznice, USD)"
+        "Potencialni močan padec vrednosti delnic",
+        "Zmanjšana likvidnost na trgu",
+        "Povečana volatilnost trga",
+        "Beg v \"varnejša\" naložbena sredstva"
       ],
       "vir": "MarketWatch",
       "vir_url": "https://www.marketwatch.com/story/a-40-market-crash-is-lurking-in-the-ipo-pipeline-spacex-and-openai-could-trigger-it-64ae4026?mod=mw_rss_topstories",
       "objavljeno": "2026-06-22T18:30:00.000Z"
     },
     {
-      "naslov": "Medtem ko Wall Street obožuje rastne delnice, so te 'poraženke' pripravljene na zmago",
-      "sektor": "Finance",
-      "smer": "mešano",
+      "naslov": "Alphabet izgublja boj za AI talente, tržna kapitalizacija upadla za 269 milijard USD",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Kljub splošni naklonjenosti Wall Streeta do rastnih delnic, analitiki in kontrarni vlagatelji opozarjajo na potencialno priložnost v t.i. 'vrednostnih delnicah' (value stocks), ki so trenutno manj priljubljene. Članek navaja, da je napoved Elona Muska o bilijonski vrednosti SpaceX verjetno napačna, s čimer poudarja precenjenost nekaterih rastnih podjetij. Kontrarni vlagatelji aktivno kupujejo te manj priljubljene vrednostne delnice.",
-      "analiza": "Ta novica odraža nenehno debato med rastnimi in vrednostnimi naložbami. V zadnjih letih so rastne delnice, še posebej v tehnološkem sektorju, močno prekašale vrednostne delnice, kar je ustvarilo veliko koncentracijo na trgu. Vendar pa se v obdobjih negotovosti ali ko so rastne delnice precenjene, pogosto pojavi zanimanje za vrednostne delnice, ki so običajno bolj stabilne, imajo nižja razmerja P/E in pogosto izplačujejo dividende. Mehanizem vpliva je premik kapitala: če se sentiment obrne, se lahko denar prelije iz precenjenih rastnih delnic v podcenjene vrednostne delnice. To bi lahko povzročilo korekcijo v rastnih sektorjih (kar se delno že kaže v padcu Nasdaq 100 za 0.50 %) in rast v tradicionalnih industrijskih ali finančnih sektorjih. Za obveznice in valute neposrednega vpliva ni, posreden pa je lahko preko splošnega tržnega sentimenta. Zgodovinsko gledano se cikli med rastnimi in vrednostnimi delnicami izmenjujejo. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija med različnimi stili naložb pomembna, saj se tržni cikli spreminjajo. Osredotočanje zgolj na en tip delnic lahko poveča tveganje.",
+      "povzetek": "Alphabet, matična družba Googla, je zabeležila upad tržne kapitalizacije za 269 milijard USD, saj vlagatelji izražajo zaskrbljenost glede njegovega položaja v boju za talente na področju umetne inteligence (AI). Dva ključna vodilna strokovnjaka za AI, vključno z Nobelovim nagrajencem, sta nedavno napovedala odhod iz Googla k konkurenčnim laboratorijem. To nakazuje na težave pri zadrževanju vrhunskih strokovnjakov.",
+      "analiza": "Upad tržne kapitalizacije Alphabet za 269 milijard USD zaradi skrbi glede boja za AI talente poudarja ključno vlogo človeškega kapitala v tehnološki industriji, še posebej na področju umetne inteligence. Odhod dveh vodilnih strokovnjakov, vključno z Nobelovim nagrajencem, iz Googla k rivalom je močan signal, da Alphabet morda izgublja primat pri privabljanju in zadrževanju najboljših umov. To ima neposredne posledice za razvoj prihodnjih AI produktov in storitev podjetja, kar lahko vpliva na njegovo konkurenčnost in prihodnje prihodke. Delnice Alphabet so že pod pritiskom, kar se odraža v padcu indeksa Nasdaq 100 (-0,53 %). Konkurenca na področju AI je izjemno huda, pri čemer se podjetja kot je Nvidia, ki je partner Super Micro (katere delnice so v najboljšem vzponu v zadnjem letu), izkazujejo kot močni igralci. Obvezniški trg morda ne bo neposredno prizadet, razen če bi upad Alphabet povzročil širšo negotovost na trgu. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba pri ocenjevanju tehnoloških podjetij poleg inovacij upoštevati tudi njihovo sposobnost privabljanja in zadrževanja ključnih talentov, saj ti predstavljajo temelj prihodnje rasti.",
       "vpliv": [
-        "potencialni premik kapitala iz rastnih v vrednostne delnice",
-        "možna korekcija v rastnih sektorjih",
-        "povečano zanimanje za podcenjena podjetja",
-        "poudarek na diverzifikaciji strategij"
+        "Padec vrednosti delnic Alphabet",
+        "Povečana konkurenca na področju AI",
+        "Možni zamiki v razvoju AI produktov",
+        "Vpliv na celoten tehnološki sektor"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/wall-street-loves-growth-stocks-but-these-10-losers-are-primed-to-win-0202e491?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-22T18:32:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/alphabet-sees-269-billion-market-cap-wipeout-as-investors-fear-its-losing-the-war-for-ai-talent-497aa378?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-22T17:12:00.000Z"
     },
     {
-      "naslov": "Lucid odpušča 18 % ameriške delovne sile, COO Marc Winterhoff odhaja",
+      "naslov": "Poplava nafte na trgih kljub krhkemu premirju ZDA-Iran",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Naftni trgi se pripravljajo na \"poplavo\" surove nafte, saj je v kratkem času napovedan prihod milijonov sodov. To se dogaja kljub krhkemu premirju med ZDA in Iranom ter strahovom pred neenakomerno okrevanjem gospodarstva. Povečana ponudba bi lahko imela znaten vpliv na cene, še posebej ob upoštevanju, da je WTI nafta danes zabeležila padec za 2,66 % na 73,83 USD/sod, medtem ko je Brent nafta zrasla za 0,93 % na 80,59 USD/sod.",
+      "analiza": "Napoved \"poplave\" nafte na trgih predstavlja pomemben dejavnik, ki lahko vpliva na cene energentov. Kljub krhkemu premirju med ZDA in Iranom, ki bi lahko sicer zmanjšalo geopolitične napetosti in posledično vplivalo na ponudbo, se pričakuje velik priliv surove nafte. To bi lahko vodilo do padca cen, še posebej če povpraševanje ne bo sledilo rasti ponudbe. Trenutno se Brent nafta giblje pri 80,59 USD/sod, medtem ko je WTI nafta padla na 73,83 USD/sod. Povečana ponudba lahko negativno vpliva na prihodke proizvajalcev nafte in na gospodarstva, ki so odvisna od izvoza nafte. Kanadska inflacija je že narasla na 29-mesečni vrh, deloma zaradi višjih cen nafte. Za delnice energetskih podjetij bi to pomenilo pritisk na znižanje cen, medtem ko bi potrošniki lahko imeli koristi od nižjih cen goriv. Vlagatelji v surovine bi morali biti pozorni na ravnovesje med ponudbo in povpraševanjem. Za slovenskega dolgoročnega vlagatelja to pomeni potencialno nižje stroške transporta in energije, kar lahko pozitivno vpliva na poslovanje podjetij in kupno moč gospodinjstev.",
+      "vpliv": [
+        "Potencialni padec cen nafte",
+        "Povečana ponudba na trgu",
+        "Vpliv na inflacijo",
+        "Negativni učinki na proizvajalce nafte"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/a-flood-of-oil-is-set-to-hit-energy-markets-heres-how-much-crude-may-be-unleashed-5b3484f0?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-22T18:33:00.000Z"
+    },
+    {
+      "naslov": "Micronova pot odvisna od novih tehnologij in proizvodnih zmogljivosti",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Analitiki pozorno spremljajo prihodnost podjetja Micron, ki je letos zabeležilo rast za 1 bilijon USD. Njegova nadaljnja pot bo odvisna od dveh ključnih dejavnikov: vpliva nove tehnologije za varčevanje z energijo pri pomnilnikih in časovnice za povečanje proizvodnih zmogljivosti. Ti \"divji karti\" bodo ključni za določanje nadaljnje smeri podjetja na visoko konkurenčnem trgu polprevodnikov.",
+      "analiza": "Prihodnost podjetja Micron, ki je zabeležilo impresivno rast, je odvisna od dveh ključnih dejavnikov: uvedbe nove tehnologije za varčevanje z energijo in širitve proizvodnih zmogljivosti. Vlagatelji bodo pozorno spremljali, kako bo nova tehnologija vplivala na učinkovitost in konkurenčnost Micronovih izdelkov, še posebej v luči naraščajočega povpraševanja po pomnilnikih v podatkovnih centrih in napravah umetne inteligence. Hkrati je ključna tudi sposobnost podjetja, da pravočasno poveča proizvodne zmogljivosti, da bi zadovoljilo to povpraševanje in obdržalo svoj tržni delež. Trg polprevodnikov je izjemno dinamičen in kapitalsko intenziven, kar pomeni, da lahko zamude ali težave pri uvajanju novih tehnologij ali širitvi proizvodnje hitro vplivajo na vrednost delnic. Delnice podjetij v tem sektorju, kot je Nvidia, ki sodeluje z Super Micro, so v zadnjem času doživele rast, kar kaže na splošno pozitivno razpoloženje do tehnoloških podjetij, ki so ključna za razvoj AI. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pri naložbah v tehnološki sektor pomembno razumeti tako tehnološke inovacije kot tudi operativne izzive, kot so proizvodne zmogljivosti, saj ti dejavniki bistveno vplivajo na dolgoročno uspešnost podjetij.",
+      "vpliv": [
+        "Potencialna rast vrednosti delnic Micron",
+        "Vpliv na dobavne verige polprevodnikov",
+        "Konkurenčnost na trgu pomnilnikov",
+        "Povečano povpraševanje po AI čipih"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/micron-grew-by-1-trillion-this-year-these-two-wild-cards-will-determine-its-trajectory-a0c9c714?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-22T18:44:00.000Z"
+    },
+    {
+      "naslov": "Investitorji vse bolj nezadovoljni s predsednikom uprave Targeta",
       "sektor": "Potrošniki",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Proizvajalec električnih vozil Lucid Group je napovedal odpuščanje približno 18 % svoje delovne sile v ZDA. Ta poteza je del širšega načrta za zmanjšanje stroškov. Hkrati je podjetje sporočilo, da glavni operativni direktor (COO) Marc Winterhoff s takojšnjim učinkom zapušča podjetje. Odpuščanja in odhod vodstvenega kadra so jasen znak izzivov, s katerimi se sooča podjetje v sektorju električnih vozil.",
-      "analiza": "Odpuščanja v podjetju Lucid Group in odhod COO-ja so jasen znak izzivov, s katerimi se sooča sektor električnih vozil. Kljub dolgoročnemu potencialu, se mnoga podjetja v tem sektorju soočajo z visokimi stroški proizvodnje, intenzivno konkurenco in morebitnim upočasnjevanjem povpraševanja. Načrt za zmanjšanje stroškov kaže na pritisk na dobičkonosnost in potrebo po optimizaciji poslovanja. Mehanizem vpliva je neposreden: takšne novice običajno povzročijo padec delnic podjetja, saj vlagatelji vidijo to kot znak šibkosti in negotovosti glede prihodnje rasti. Odhod ključnega vodstvenega kadra dodatno poveča zaskrbljenost. Posledice se širijo na celoten sektor električnih vozil, saj lahko vlagatelji postanejo bolj previdni pri naložbah v to industrijo. To lahko vpliva tudi na širši delniški trg, še posebej na indekse, ki imajo veliko izpostavljenost do rastočih, a tveganih sektorjev. Zgodovinsko so podjetja v hitro rastočih, a kapitalsko intenzivnih sektorjih pogosto doživela konsolidacijo. Za slovenskega dolgoročnega vlagatelja to poudarja, da je kljub privlačnosti rastočih sektorjev, kot so električna vozila, pomembno temeljito analizirati posamezna podjetja in njihovo finančno stabilnost.",
+      "povzetek": "Podpora vlagateljev predsedniku uprave (Chair) podjetja Target, Brianu Cornellu, je padla na najnižjo raven doslej. Kljub temu, da je Cornell zgradil Target v velikega trgovca z več kot 100 milijardami USD prihodkov, so nedavne težave in slaba uspešnost podžgale pozive k spremembam med vlagatelji. To kaže na naraščajoče nezadovoljstvo z vodenjem podjetja.",
+      "analiza": "Padajoča podpora vlagateljev predsedniku uprave Targeta, Brianu Cornellu, je jasen signal naraščajoče nezadovoljstva z vodenjem podjetja, kljub preteklim uspehom. Čeprav je Target zrasel v velikega trgovca, so nedavne težave in slabša uspešnost povzročile, da vlagatelji dvomijo v trenutno strategijo. To lahko vpliva na ceno delnic Targeta, saj vlagatelji pogosto reagirajo na znake nestabilnosti v vodstvu. V času, ko se potrošniško povpraševanje spreminja in je konkurenca na trgu močna, je ključno, da vodstvo podjetja pokaže sposobnost prilagajanja. Vlagatelji lahko začnejo iskati druge naložbe, ki ponujajo boljše obete ali stabilnejše vodenje. Na splošno lahko takšne novice povzročijo negotovost na trgu potrošniških delnic. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pri naložbah v podjetja pomembno spremljati ne le finančne rezultate, ampak tudi kakovost vodenja in odziv vlagateljev na morebitne težave, saj lahko to napove prihodnje gibanje cene delnic.",
       "vpliv": [
-        "odpuščanje 18 % delovne sile v Lucidu",
-        "odhod COO Marc Winterhoff",
-        "pritisk na delnice Lucida",
-        "negativni sentiment v sektorju električnih vozil"
+        "Potencialni pritisk na znižanje cene delnic Target",
+        "Povečana negotovost glede prihodnje strategije podjetja",
+        "Možni pozivi k zamenjavi vodstva",
+        "Vpliv na sektor maloprodaje"
       ],
       "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/06/22/lucid-layoffs-evs.html",
-      "objavljeno": "2026-06-22T15:37:11.000Z"
+      "vir_url": "https://www.cnbc.com/2026/06/22/target-brian-cornell-shareholder-support.html",
+      "objavljeno": "2026-06-22T17:55:37.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-06-22T18:56:54.465Z",
+    "posodobljenoOb": "2026-06-22T19:01:11.575Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7467.61,
-        "sprememba_pct": -0.44
+        "vrednost": 7465.89,
+        "sprememba_pct": -0.46
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 30254.707,
-        "sprememba_pct": -0.5
+        "vrednost": 30246.182,
+        "sprememba_pct": -0.53
       },
       {
         "simbol": "^GDAXI",
@@ -141,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4209.4,
+        "vrednost": 4209.2,
         "sprememba_pct": -0.86,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 73.8,
-        "sprememba_pct": -2.7,
+        "vrednost": 73.83,
+        "sprememba_pct": -2.66,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 77.81,
-        "sprememba_pct": -2.55,
+        "vrednost": 80.59,
+        "sprememba_pct": 0.93,
         "enota": "USD/sod"
       }
     ],
@@ -172,8 +172,8 @@
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.509,
-        "sprememba_pct": 1.3,
+        "vrednost": 4.507,
+        "sprememba_pct": 1.26,
         "enota": "%"
       }
     ],
@@ -181,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 64293.57,
-        "sprememba_pct": 1.66,
+        "vrednost": 64267.78,
+        "sprememba_pct": 1.62,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 17.22,
-      "sprememba_pct": 2.62
+      "vrednost": 17.28,
+      "sprememba_pct": 2.98
     }
   }
 }
