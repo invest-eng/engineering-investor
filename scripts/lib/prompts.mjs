@@ -95,8 +95,14 @@ Intenziteta: 1 = manjša, 2 = pomembna, 3 = ključna novica dneva. "kljucna_dejs
  * Old-style prompt for single-model flow (free version):
  * one giant call that does selection + summaries + master.
  * Kept for backward compatibility with original free briefing.
+ *
+ * @param {object[]} articles
+ * @param {object}   opts
+ * @param {string}   [opts.edition]
+ * @param {number}   [opts.count]
+ * @param {string}   [opts.marketSnapshot]  Pre-formatted market data block from market-data.mjs
  */
-export function buildLegacyAllInOnePrompt(articles, { edition = 'daily', count = 6 } = {}) {
+export function buildLegacyAllInOnePrompt(articles, { edition = 'daily', count = 6, marketSnapshot = '' } = {}) {
   const today = new Date().toISOString().slice(0, 10);
   const framing = EDITION_FRAMING[edition] || EDITION_FRAMING.daily;
   const list = articles
@@ -106,9 +112,13 @@ export function buildLegacyAllInOnePrompt(articles, { edition = 'daily', count =
     )
     .join('\n\n');
 
+  const marketBlock = marketSnapshot
+    ? `\n${marketSnapshot}\nTe vrednosti so dejanski podatki iz Yahoo Finance ob generiranju briefinga. Uporabi jih v povzetku dneva in v analizah novic, kjer je relevantno (npr. "S&P 500 je danes pri 5.678").\n`
+    : '';
+
   return `Datum: ${today}.
 ${framing}
-
+${marketBlock}
 Spodaj je seznam najnovejših poslovnih novic:
 
 ${list}
@@ -117,7 +127,8 @@ NALOGA:
 - Izberi ${count} najpomembnejših novic z vidika finančnih trgov.
 - Razmišljaj tematsko (geopolitika, energenti, makro, tehnologija, finance) in pokrij vsa glavna področja s čim manj prekrivanjem.
 - Za vsako napiši TEMELJIT slovenski povzetek in poglobljeno analizo. URL, vir in datum objave VEDNO ohrani točno tako kot je v seznamu.
-- Pred novicami napiši 6–9 stavčni "Pregled dneva", ki temeljito povzame izbrane novice in skupni vpliv na trge.
+- Pred novicami napiši 6–9 stavčni "Pregled dneva", ki začne z dejanskim stanjem indeksov (S&P 500, DAX ipd. iz tržnega snapshota zgoraj), nato povzame ključne novice in skupni vpliv. Vključi konkretne vrednosti iz tržnega snapshota.
+- Na koncu povzetka dodaj 1 stavek z najpomembnejšim ekonomskim dogodkom tega tedna (earnings, makro objava, zasedanje CB), ki ga vlagatelji morajo imeti na radarju.
 
 KAKOVOSTNI STANDARD ZA POVZETKE IN ANALIZE:
 - Vključi vse relevantne KONKRETNE PODATKE: številke, odstotke, datume, imena oseb, podjetij, držav, valutnih parov, cen surovin, indeksov.
@@ -126,13 +137,13 @@ KAKOVOSTNI STANDARD ZA POVZETKE IN ANALIZE:
 - Razloži MEHANIZEM vpliva: zakaj geopolitični dogodek vpliva na surovine, zakaj makro objava premika valute, ipd.
 - Vključi POSLEDICE za vse relevantne razrede sredstev (delnice, obveznice, valute, surovine, krypto) — ne le enega.
 - Konec analize: kaj to specifično pomeni za slovenskega dolgoročnega vlagatelja. Brez finančnih nasvetov, le pojasnilo.
-- NE izmišljaj podatkov. Če nekaj ni v originalnem opisu, ne dodajaj številk iz spomina. Bolje strožji opis kot izmišljeni podatki.
+- NE izmišljaj podatkov. Če neke vrednosti ni v tržnem snapshotu ali originalnem opisu, je ne dodajaj.
 
 Vrni IZKLJUČNO veljaven JSON, brez markdown ograj:
 {
   "datum": "${today}",
   "izdaja": "${edition}",
-  "povzetek": "6–9 stavkov temeljitega kontekstnega povzetka dneva v slovenščini, ki vključuje konkretne podatke (številke, imena, datume) iz izbranih novic.",
+  "povzetek": "6–9 stavkov temeljitega kontekstnega povzetka dneva v slovenščini. Začni z dejanskim stanjem indeksov iz tržnega snapshota (npr. 'S&P 500 je pri 5.678, DAX pri 23.400'). Vključi konkretne podatke iz novic. Zaključi z opozorilom na ključni teden/teden-prihajajoči ekonomski dogodek.",
   "novice": [
     {
       "naslov": "slovenski naslov, 8–14 besed",

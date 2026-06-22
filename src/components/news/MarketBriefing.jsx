@@ -58,6 +58,108 @@ function isStale(iso, maxHours = 24) {
   return (Date.now() - t) / 3600000 > maxHours;
 }
 
+function fmtChange(pct) {
+  if (pct == null) return null;
+  const sign = pct >= 0 ? '+' : '';
+  return `${sign}${pct.toFixed(2)} %`;
+}
+
+function fmtValue(item) {
+  const v = item.vrednost;
+  if (v == null) return 'N/A';
+  if (item.enota === '%') return `${v.toFixed(2)} %`;
+  if (v >= 10000) return v.toLocaleString('sl-SI', { maximumFractionDigits: 0 });
+  if (v >= 100)   return v.toLocaleString('sl-SI', { maximumFractionDigits: 1 });
+  return v.toFixed(4);
+}
+
+function TickerItem({ item }) {
+  const positive = (item.sprememba_pct ?? 0) >= 0;
+  const color = (item.sprememba_pct ?? 0) === 0 ? 'var(--color-text-muted)' : positive ? '#059669' : '#dc2626';
+  const arrow = (item.sprememba_pct ?? 0) === 0 ? '' : positive ? ' ▲' : ' ▼';
+  return (
+    <div style={{
+      display: 'flex',
+      flexDirection: 'column',
+      gap: 1,
+      padding: '0.55rem 0.9rem',
+      background: 'var(--color-surface)',
+      border: '1px solid var(--color-border)',
+      borderRadius: 6,
+      minWidth: 90,
+    }}>
+      <span style={{ fontSize: '0.65rem', color: 'var(--color-text-subtle)', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.06em', whiteSpace: 'nowrap' }}>
+        {item.ime}
+      </span>
+      <span style={{ fontSize: '0.88rem', fontWeight: 700, color: 'var(--color-text)', letterSpacing: '-0.01em' }}>
+        {fmtValue(item)}
+      </span>
+      <span style={{ fontSize: '0.72rem', fontWeight: 600, color }}>
+        {fmtChange(item.sprememba_pct)}{arrow}
+      </span>
+    </div>
+  );
+}
+
+function MarketSnapshot({ trgi }) {
+  if (!trgi) return null;
+
+  const groups = [
+    { label: 'Indeksi',    items: trgi.indeksi },
+    { label: 'Surovine',   items: trgi.surovine },
+    { label: 'Forex',      items: trgi.forex },
+    { label: 'Obveznice',  items: trgi.obveznice },
+    { label: 'Kripto',     items: trgi.kripto },
+    { label: 'Volatilnost', items: trgi.vix ? [trgi.vix] : [] },
+  ].filter((g) => g.items?.length > 0);
+
+  if (groups.length === 0) return null;
+
+  const ts = trgi.posodobljenoOb
+    ? new Date(trgi.posodobljenoOb).toLocaleTimeString('sl-SI', { hour: '2-digit', minute: '2-digit' })
+    : null;
+
+  return (
+    <section style={{
+      marginBottom: '2rem',
+      padding: '1.25rem 1.5rem',
+      background: 'var(--color-surface)',
+      border: '1px solid var(--color-border)',
+      borderRadius: 8,
+    }}>
+      <div style={{
+        display: 'flex',
+        justifyContent: 'space-between',
+        alignItems: 'center',
+        marginBottom: '1rem',
+        flexWrap: 'wrap',
+        gap: 8,
+      }}>
+        <span style={{ fontSize: '0.7rem', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.1em', color: 'var(--color-text-subtle)' }}>
+          Tržni snapshot
+        </span>
+        {ts && (
+          <span style={{ fontSize: '0.7rem', color: 'var(--color-text-subtle)' }}>
+            posodobljeno ob {ts}
+          </span>
+        )}
+      </div>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: '0.85rem' }}>
+        {groups.map((g) => (
+          <div key={g.label}>
+            <div style={{ fontSize: '0.62rem', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.08em', color: 'var(--color-text-subtle)', marginBottom: '0.4rem' }}>
+              {g.label}
+            </div>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6 }}>
+              {g.items.map((item) => <TickerItem key={item.simbol} item={item} />)}
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+  );
+}
+
 function IntensityDots({ value }) {
   const v = Math.max(1, Math.min(3, Number(value) || 1));
   return (
@@ -233,6 +335,8 @@ export default function MarketBriefing() {
 
         {!loading && !error && data && (
           <>
+            <MarketSnapshot trgi={data.trgi} />
+
             {data.povzetek && (
               <section style={{
                 padding: '1.75rem 1.85rem',

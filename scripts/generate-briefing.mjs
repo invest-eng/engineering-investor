@@ -28,6 +28,7 @@ import { fetchAll } from './lib/news-fetcher.mjs';
 import { callGemini } from './lib/ai-providers.mjs';
 import { buildLegacyAllInOnePrompt } from './lib/prompts.mjs';
 import { extractJson } from './lib/extract-json.mjs';
+import { fetchMarketData, formatMarketDataForPrompt } from './lib/market-data.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT_PATH = join(__dirname, '..', 'public', 'data', 'briefing.json');
@@ -110,8 +111,12 @@ async function main() {
   // Step 0.5: rotate yesterday's briefing into the free-tier slot.
   await rotateYesterday();
 
-  // Step 1: fetch news.
-  const allArticles = await fetchAll({ newsApiKey: process.env.NEWSAPI_KEY });
+  // Step 1: fetch news and market data in parallel.
+  const [allArticles, trgi] = await Promise.all([
+    fetchAll({ newsApiKey: process.env.NEWSAPI_KEY }),
+    fetchMarketData(),
+  ]);
+
   if (allArticles.length === 0) throw new Error('No articles fetched');
   // Cap at 35 to stay within Gemini output token limits.
   // Sort by recency first so we always pick the freshest articles.
@@ -119,6 +124,8 @@ async function main() {
     .sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt))
     .slice(0, 35);
   console.log(`[briefing] ${articles.length}/${allArticles.length} articles in pool, edition=${EDITION}`);
+  if (trgi) console.log('[briefing] market snapshot attached');
+  else console.warn('[briefing] market snapshot unavailable — proceeding without it');
 
   // Step 2: ask Gemini to do everything in one shot (free flow).
   // --- PREMIUM: this would be a 3-step pipeline:
@@ -127,7 +134,8 @@ async function main() {
   //     3. buildMasterPrompt + TTS synthesis
   //     See scripts/premium/generate-premium-briefing.mjs for the full flow.
   console.log('[briefing] calling Gemini (all-in-one)...');
-  const prompt = buildLegacyAllInOnePrompt(articles, { edition: EDITION, count: 6 });
+  const marketSnapshot = formatMarketDataForPrompt(trgi);
+  const prompt = buildLegacyAllInOnePrompt(articles, { edition: EDITION, count: 6, marketSnapshot });
   const { text, model } = await callGemini(prompt);
   console.log(`[briefing] success with model ${model}`);
 
@@ -150,6 +158,8 @@ async function main() {
     // audio_url: null,
     // consensus: null,
     ...data,
+    // Real-time market snapshot (null if Yahoo Finance was unavailable)
+    trgi: trgi ?? null,
   };
 
   await mkdir(dirname(OUT_PATH), { recursive: true });

@@ -108,5 +108,89 @@
       "vir_url": "https://www.aljazeera.com/news/2026/6/21/why-lebanon-may-make-or-break-the-iran-us-deal?traffic_source=rss",
       "objavljeno": "2026-06-21T13:11:50.000Z"
     }
-  ]
+  ],
+  "trgi": {
+    "posodobljenoOb": "2026-06-22T12:11:01.495Z",
+    "indeksi": [
+      {
+        "simbol": "^GSPC",
+        "ime": "S&P 500",
+        "vrednost": 7500.58,
+        "sprememba_pct": 1.08
+      },
+      {
+        "simbol": "^NDX",
+        "ime": "Nasdaq 100",
+        "vrednost": 30406.193,
+        "sprememba_pct": 2.48
+      },
+      {
+        "simbol": "^GDAXI",
+        "ime": "DAX",
+        "vrednost": 24994.89,
+        "sprememba_pct": 0.04
+      },
+      {
+        "simbol": "^N225",
+        "ime": "Nikkei 225",
+        "vrednost": 72353.96,
+        "sprememba_pct": 1.55
+      }
+    ],
+    "surovine": [
+      {
+        "simbol": "GC=F",
+        "ime": "Zlato",
+        "vrednost": 4225.8,
+        "sprememba_pct": -0.47,
+        "enota": "USD/oz"
+      },
+      {
+        "simbol": "CL=F",
+        "ime": "WTI nafta",
+        "vrednost": 75,
+        "sprememba_pct": -1.12,
+        "enota": "USD/sod"
+      },
+      {
+        "simbol": "BZ=F",
+        "ime": "Brent nafta",
+        "vrednost": 78.97,
+        "sprememba_pct": -1.1,
+        "enota": "USD/sod"
+      }
+    ],
+    "forex": [
+      {
+        "simbol": "EURUSD=X",
+        "ime": "EUR/USD",
+        "vrednost": 1.1459,
+        "sprememba_pct": -0.09
+      }
+    ],
+    "obveznice": [
+      {
+        "simbol": "^TNX",
+        "ime": "10Y US Treasury",
+        "vrednost": 4.451,
+        "sprememba_pct": 0,
+        "enota": "%"
+      }
+    ],
+    "kripto": [
+      {
+        "simbol": "BTC-USD",
+        "ime": "Bitcoin",
+        "vrednost": 64635.81,
+        "sprememba_pct": 2.2,
+        "enota": "USD"
+      }
+    ],
+    "vix": {
+      "simbol": "^VIX",
+      "ime": "VIX",
+      "vrednost": 17.27,
+      "sprememba_pct": 2.92
+    }
+  }
 }

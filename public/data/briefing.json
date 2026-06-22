@@ -91,5 +91,89 @@
       "vir_url": "https://www.ft.com/content/0f752e27-5268-4a6e-a45d-c48d13fb8ef0",
       "objavljeno": "2026-06-22T04:00:30.000Z"
     }
-  ]
+  ],
+  "trgi": {
+    "posodobljenoOb": "2026-06-22T12:08:16.738Z",
+    "indeksi": [
+      {
+        "simbol": "^GSPC",
+        "ime": "S&P 500",
+        "vrednost": 7500.58,
+        "sprememba_pct": 1.08
+      },
+      {
+        "simbol": "^NDX",
+        "ime": "Nasdaq 100",
+        "vrednost": 30406.193,
+        "sprememba_pct": 2.48
+      },
+      {
+        "simbol": "^GDAXI",
+        "ime": "DAX",
+        "vrednost": 24983.38,
+        "sprememba_pct": -0.01
+      },
+      {
+        "simbol": "^N225",
+        "ime": "Nikkei 225",
+        "vrednost": 72353.96,
+        "sprememba_pct": 1.55
+      }
+    ],
+    "surovine": [
+      {
+        "simbol": "GC=F",
+        "ime": "Zlato",
+        "vrednost": 4224.2,
+        "sprememba_pct": -0.51,
+        "enota": "USD/oz"
+      },
+      {
+        "simbol": "CL=F",
+        "ime": "WTI nafta",
+        "vrednost": 75.05,
+        "sprememba_pct": -1.05,
+        "enota": "USD/sod"
+      },
+      {
+        "simbol": "BZ=F",
+        "ime": "Brent nafta",
+        "vrednost": 79,
+        "sprememba_pct": -1.06,
+        "enota": "USD/sod"
+      }
+    ],
+    "forex": [
+      {
+        "simbol": "EURUSD=X",
+        "ime": "EUR/USD",
+        "vrednost": 1.1459,
+        "sprememba_pct": -0.09
+      }
+    ],
+    "obveznice": [
+      {
+        "simbol": "^TNX",
+        "ime": "10Y US Treasury",
+        "vrednost": 4.451,
+        "sprememba_pct": 0,
+        "enota": "%"
+      }
+    ],
+    "kripto": [
+      {
+        "simbol": "BTC-USD",
+        "ime": "Bitcoin",
+        "vrednost": 64669.99,
+        "sprememba_pct": 2.26,
+        "enota": "USD"
+      }
+    ],
+    "vix": {
+      "simbol": "^VIX",
+      "ime": "VIX",
+      "vrednost": 17.35,
+      "sprememba_pct": 3.4
+    }
+  }
 }
