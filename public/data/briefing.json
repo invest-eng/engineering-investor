@@ -1,145 +1,162 @@
 {
-  "generiranoOb": "2026-06-23T17:28:16.919Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-06-24T07:54:19.700Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-06-23",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, medtem ko so ameriški trgi nadaljevali s padci. Nemški indeks DAX je izgubil 0.98 % in se ustavil pri 24.894 točkah, medtem ko sta v ZDA S&P 500 padel za 0.91 % na 7405 točk, tehnološki Nasdaq 100 pa je zabeležil še večji padec, in sicer za 2.57 % na 29567 točk. To je bilo predvsem posledica obsežne razprodaje delnic v sektorju umetne inteligence in širših skrbi glede morebitnega dviga obrestnih mer, kar je povečalo indeks volatilnosti VIX za 14.70 % na 18.81. Tudi surovine so bile pod pritiskom, saj je cena zlata padla za 1.13 % na 4155.40 USD/oz, nafta Brent pa za 1.07 % na 77.07 USD/sod, kar odraža splošno zmanjšanje apetita po tveganju. Devizni tečaj EUR/USD je oslabel za 0.43 % na 1.1382, medtem ko je donosnost 10-letne ameriške državne obveznice padla za 0.53 % na 4.49 %. Geopolitične napetosti v Ukrajini in spremembe v britanski davčni zakonodaji so prav tako prispevale k negotovosti. Vlagatelji naj bodo ta teden pozorni na objavo ključnih podatkov o inflaciji v ZDA, ki lahko vplivajo na prihodnje odločitve centralnih bank.",
+  "datum": "2026-06-24",
+  "povzetek": "Jutranji pregled finančnih trgov 24. junija 2026 kaže na prevladujočo previdnost med vlagatelji. Ameriški delniški indeksi so noč zaključili v rdečem, kjer je S&P 500 padel za 1,44 % na 7365 točk, tehnološko usmerjeni Nasdaq 100 pa je zabeležil še večji padec, za 3,29 % na 29347 točk. Tudi azijski trgi so sledili trendu, Nikkei 225 je upadel za 0,88 % na 69175 točk. Cene nafte so se znižale, WTI nafta je pri 72,09 USD/sod, Brent nafta pa pri 75,90 USD/sod, obe z 1,53 % padcem, medtem ko zlato beleži padec za 1,23 % na 4098,30 USD/oz. Geopolitične napetosti, zlasti glede iranske vojne in preiskave ameriških cen bencina, ostajajo v ospredju, skupaj z zaskrbljenostjo zaradi vročinskega vala v Evropi in razkritjem ogromnega venezuelskega dolga v višini 240 milijard dolarjev. Vlagatelji so danes pozorni na nadaljnje dogajanje v zvezi z globalnimi konflikti in morebitnimi vplivi na dobavne verige ter inflacijo. Ključni dogodek tega tedna, ki ga vlagatelji morajo imeti na radarju, so nadaljnji premiki v geopolitičnih razmerah, ki lahko bistveno vplivajo na cene energentov in globalno stabilnost.",
   "novice": [
     {
-      "naslov": "Razprodaja delnic umetne inteligence pretresa trge od Wall Streeta do Azije",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Globalni trgi so danes doživeli razprodajo delnic v sektorju umetne inteligence, kar je povzročilo padce na Wall Streetu in v Aziji. Tehnološko obarvan indeks Nasdaq je trgovanje odprl z 2-odstotnim padcem, medtem ko sta Dow in S&P 500 prav tako beležila izgube. Vlagatelji so začeli preizpraševati visoke vrednotenja in obseg porabe za infrastrukturo umetne inteligence. To se je zgodilo po tednih lažnih alarmov, ko so se delnice končno soočile z realnim problemom, ki so ga dve leti slavile.",
-      "analiza": "V zadnjih dveh letih so delnice podjetij, povezanih z umetno inteligenco, poganjale delniške trge do rekordnih višin, kar je ustvarilo visoka vrednotenja. Današnja razprodaja nakazuje, da vlagatelji postajajo bolj previdni glede vzdržnosti teh vrednotenj in obsežnih naložb v infrastrukturo AI. Mehanizem vpliva je večplasten: ko se pojavi dvom o prihodnji rasti in dobičkonosnosti, se vlagatelji umaknejo iz visoko tveganih in visoko vrednotenih delnic, kar sproži val prodaje. Posledice so vidne v padcu delniških indeksov, kot sta Nasdaq 100 (-2.57 %) in S&P 500 (-0.91 %), kar kaže na širši umik tveganja. Donosnosti obveznic, kot je 10-letna ameriška državna obveznica (-0.53 % na 4.49 %), se lahko znižajo, saj vlagatelji iščejo varnejša zatočišča. Valute, kot je EUR/USD (-0.43 % na 1.1382), so pod pritiskom, saj se USD krepi kot varno zatočišče. Tudi surovine (zlato -1.13 %, nafta WTI -0.92 %, Brent -1.07 %) in kriptovalute (Bitcoin -2.17 %) so padle, kar kaže na splošno poslabšanje razpoloženja. Zgodovinsko gledano so podobni cikli navdušenja in kasnejših korekcij značilni za nastajajoče tehnološke sektorje. Vlagatelji naj spremljajo prihodnje objave dobičkov podjetij in morebitne spremembe v monetarni politiki centralnih bank. Slovenski dolgoročni vlagatelj naj bo pozoren na morebitno povečano volatilnost in preusmeritev kapitala iz visoko vrednotenih rastočih delnic v bolj stabilne sektorje, kar lahko ponudi priložnosti za diverzifikacijo.",
-      "vpliv": [
-        "Nasdaq 100 padec za 2.57 %",
-        "S&P 500 padec za 0.91 %",
-        "Povečana volatilnost (VIX +14.70 %)",
-        "Padec cen surovin in kriptovalut"
-      ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
-      "objavljeno": "2026-06-23T14:16:24.000Z"
-    },
-    {
-      "naslov": "HMRC napoveduje davek na obresti v novih pravilih za Isa račune",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Britanski davčni urad HMRC je razkril, da bodo obresti, zaslužene od denarja, hranjenega v Isa računih za delnice in delitve, obdavčene po 22-odstotni stopnji. Ta nova davčna obremenitev predstavlja spremembo v pravilih za Individual Savings Accounts (ISAs), ki so zasnovani kot davčno učinkoviti varčevalni instrumenti. Novica je bila objavljena popoldne, kar daje vlagateljem malo časa za prilagoditev.",
-      "analiza": "Individual Savings Accounts (ISAs) so v Združenem kraljestvu ključni instrument za spodbujanje varčevanja in naložb, saj ponujajo davčne ugodnosti. Predhodno so bile obresti na denar, hranjen znotraj delniških ISAs, pogosto izvzete iz davka ali pa so bile zanemarljive. Nova 22-odstotna davčna stopnja na obresti bistveno zmanjšuje privlačnost držanja gotovine znotraj teh računov, saj znižuje neto donos varčevalcem. Mehanizem vpliva je direkten: zmanjšana donosnost gotovinskih pozicij v ISAs lahko vlagatelje spodbudi k preusmeritvi sredstev v delnice ali druge naložbene produkte znotraj ISA, da bi se izognili davku na obresti, ali pa k iskanju alternativnih varčevalnih shem. Posledice so predvsem za britanske vlagatelje, ki bodo morali ponovno oceniti svoje strategije varčevanja. Na delnice bi to lahko vplivalo pozitivno, če bi se kapital preusmeril v delniške naložbe, vendar je splošni vpliv na finančne trge omejen na Združeno kraljestvo. Na obveznice, valute, surovine in kriptovalute ni neposrednega vpliva. Zgodovinsko gledano, davčne spremembe pogosto vodijo do prilagoditev vlagateljskega vedenja. Vlagatelji naj spremljajo podrobnosti implementacije in morebitne nadaljnje spremembe davčne zakonodaje. Slovenski dolgoročni vlagatelj, ki razmišlja o naložbah v britanske finančne produkte, kot so ISAs, mora biti seznanjen s spremembami davčne zakonodaje, saj te lahko vplivajo na neto donose in privlačnost določenih naložbenih strategij.",
-      "vpliv": [
-        "22 % davek na obresti v Isa računih",
-        "Zmanjšana privlačnost držanja gotovine v Isa računih",
-        "Potencialna preusmeritev kapitala v delnice znotraj Isa",
-        "Vpliv na strategije varčevanja v Združenem kraljestvu"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/f13b5bba-1f79-45e3-a6c8-5c8182ca6c2e",
-      "objavljeno": "2026-06-23T17:09:58.000Z"
-    },
-    {
-      "naslov": "Ameriški proizvajalci čipov vodijo padec Wall Streeta zaradi skrbi glede obrestnih mer",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Wall Street je doživel padec, ki so ga vodili ameriški proizvajalci čipov, saj so se povečale skrbi glede morebitnega dviga obrestnih mer. Nasdaq je že drugi dan zapored zabeležil padec, pri čemer so podjetja, kot je Nvidia, pod močnim pritiskom. Ta gibanja so odraz širšega tržnega razpoloženja, ki ga poganjajo pričakovanja glede monetarne politike in njenega vpliva na gospodarstvo.",
-      "analiza": "Centralne banke po svetu so v zadnjem obdobju agresivno dvigovale obrestne mere za zajezitev inflacije, kar je ustvarilo negotovost glede prihodnje gospodarske rasti. Skrbi glede nadaljnjih dvigov obrestnih mer so ključni dejavnik, ki vpliva na vrednotenje delnic, še posebej v tehnološkem sektorju, ki je odvisen od prihodnje rasti in je občutljiv na stroške zadolževanja. Mehanizem vpliva je ta, da višje obrestne mere povečajo diskontno stopnjo, kar zmanjša sedanjo vrednost prihodnjih denarnih tokov podjetij, še posebej tistih z visoko rastjo. To vlagatelje pogosto preusmeri v varnejša sredstva ali podjetja z bolj stabilnimi denarnimi tokovi. Posledice so vidne v padcu tehnološkega indeksa Nasdaq 100 (-2.57 %) in širših trgov (S&P 500 -0.91 %, DAX -0.98 %). Donosnosti 10-letnih ameriških državnih obveznic so padle za -0.53 % na 4.49 %, kar bi lahko kazalo na pričakovanje, da bo zaostrovanje monetarne politike povzročilo upočasnitev gospodarstva, ali pa na beg v varnost. EUR/USD je padel za -0.43 % na 1.1382, kar lahko odraža močnejši USD zaradi pričakovanj glede monetarne politike Feda ali kot varno zatočišče. Cene surovin in kriptovalut so prav tako padle, kar kaže na splošno zmanjšanje apetita po tveganju. Zgodovinsko so obdobja agresivnega dvigovanja obrestnih mer pogosto vodila do korekcij na delniških trgih. Vlagatelji naj spremljajo prihodnje izjave centralnih bank in ekonomske podatke, ki bodo vplivali na odločitve o obrestnih merah. Slovenski dolgoročni vlagatelj naj bo pozoren na signale centralnih bank glede obrestnih mer, saj te močno vplivajo na vrednotenje vseh razredov sredstev. Visoke obrestne mere lahko zmanjšajo privlačnost delnic in povečajo stroške zadolževanja za podjetja.",
-      "vpliv": [
-        "Nasdaq 100 padec za 2.57 %",
-        "Padec delnic proizvajalcev čipov (npr. Nvidia)",
-        "Padec donosnosti 10-letnih ameriških obveznic",
-        "Širši padec delniških trgov"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/10623865-5ff4-4357-9293-3c4ec841d1c4",
-      "objavljeno": "2026-06-23T16:11:42.000Z"
-    },
-    {
-      "naslov": "Milijoni v Združenem kraljestvu lahko zahtevajo delež 3 milijard funtov v primeru Apple",
-      "sektor": "Potrošniki",
+      "naslov": "ZDA preiskujejo domnevne manipulacije cen bencina, pravi Trump",
+      "sektor": "Energetika",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Milijoni ljudi v Združenem kraljestvu bi lahko prejeli delež 3 milijard funtov odškodnine, potem ko je bil odobren primer proti tehnološkemu velikanu Apple. Apple je zavrnil trditve, da so njegove prakse protikonkurenčne, in poudaril, da se mnogi kupci zanašajo na alternative tretjih oseb. Tožba se osredotoča na domnevno zlorabo dominantnega položaja na trgu.",
-      "analiza": "Apple se redno sooča z obtožbami o protikonkurenčnem ravnanju, še posebej glede svojega ekosistema App Store in nadzora nad aplikacijami ter plačili. Odobritev skupinske tožbe v Združenem kraljestvu je pomemben razvoj, saj odpira pot za potencialno visoko odškodnino in poudarja naraščajoči pritisk regulatorjev in potrošnikov na tehnološke gigante. Mehanizem vpliva je direkten: morebitne kazni in odškodnine vplivajo na finančno stanje podjetja in njegov ugled. Velike odškodnine lahko zmanjšajo dobiček in vplivajo na ceno delnice, čeprav je za podjetje velikosti Appla 3 milijarde funtov obvladljiv znesek. Posledice so kratkoročno negativne za delnice Apple zaradi povečane negotovosti glede prihodnjih stroškov. Dolgoročno lahko pritisk na spremembo poslovnih praks vpliva na poslovni model. Na obveznice, valute, surovine in kriptovalute ni neposrednega vpliva. Zgodovinsko gledano, podobni primeri proti velikim tehnološkim podjetjem so pokazali, da lahko regulatorni pritisk in sodni postopki vodijo do sprememb v industriji. Vlagatelji naj spremljajo razvoj sodnega primera, morebitne poravnave in odziv Appla. Slovenski dolgoročni vlagatelj, ki ima naložbe v tehnološka podjetja, kot je Apple, naj bo pozoren na regulatorna tveganja in morebitne sodne spore, saj lahko ti vplivajo na dobičkonosnost in vrednotenje podjetij, še posebej v luči naraščajočega nadzora nad tržnimi praksami.",
+      "povzetek": "Ameriški predsednik Trump je napovedal preiskavo domnevnih manipulacij s cenami bencina v ZDA. Ta poteza prihaja v času, ko so globalne cene nafte sicer padle, vendar ostajajo višje kot pred vojno med ZDA in Izraelom z Iranom. Preiskava cilja na morebitne nepoštene prakse, ki bi lahko umetno dvigovale cene goriva za potrošnike. To je odziv na javno nezadovoljstvo in poskus stabilizacije stroškov energije.",
+      "analiza": "Ozadje te novice je kompleksno, saj se prepleta z globalnimi geopolitičnimi napetostmi in domačo ekonomsko politiko. Kljub padcu cen nafte, kot je danes razvidno iz padca WTI nafte za 1,53 % na 72,09 USD/sod in Brent nafte za 1,53 % na 75,90 USD/sod, so cene bencina za potrošnike v ZDA še vedno povišane glede na obdobje pred konfliktom z Iranom. Predsednikova napoved preiskave je politični odziv na inflacijske pritiske in poskus zaščite potrošnikov. Takšne preiskave lahko kratkoročno vplivajo na marže naftnih družb in distributerjev, saj se poveča regulativni nadzor. Dolgoročno pa lahko signalizirajo vladno pripravljenost za intervencijo na trgu energentov, kar lahko vpliva na investicijske odločitve v sektorju. Za delnice naftnih podjetij bi to lahko pomenilo negativen pritisk, medtem ko bi za potrošnike in s tem za splošno ekonomijo lahko prineslo olajšanje pri stroških prevoza, kar bi lahko zmanjšalo inflacijske pritiske. V preteklosti so podobne preiskave pogosto povzročile kratkoročno nihanje cen delnic vpletenih podjetij, vendar so dolgoročni učinki odvisni od izida preiskave in morebitnih kazni. Slovenski dolgoročni vlagatelj naj bo pozoren na stabilnost cen energentov, saj le-te posredno vplivajo na stroške poslovanja podjetij in kupno moč potrošnikov po vsem svetu.",
       "vpliv": [
-        "Potencialna odškodnina Appla v višini 3 milijard funtov",
-        "Negativni vpliv na delnice Apple",
-        "Povečan regulatorni pritisk na tehnološke gigante",
-        "Vpliv na poslovne prakse Appla"
+        "Povečan regulativni pritisk na naftne družbe",
+        "Potencialno znižanje marž distributerjev goriva",
+        "Zmanjšanje inflacijskih pritiskov za potrošnike",
+        "Nihanje delnic v energetskem sektorju"
       ],
       "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-06-23T15:01:40.000Z"
+      "vir_url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-06-24T07:09:04.000Z"
     },
     {
-      "naslov": "Delnice SpaceX padle pod začetno ceno, nato poskočile med razprodajo",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Delnice podjetja SpaceX so danes na kratko padle pod svojo začetno ceno, preden so se opomogle za 2,4 % sredi obsežne 600 milijard dolarjev vredne razprodaje v tehnološkem sektorju. Ta nihanja so se zgodila v času splošne turbulence na tehnološkem trgu, kar poudarja volatilnost tudi pri visoko profilnih inovativnih podjetjih. Delnice so dosegle novo dno, preden so se vrnile v pozitivno območje.",
-      "analiza": "SpaceX je visoko profilno, zasebno podjetje, ki je v središču pozornosti zaradi svojih inovacij v vesoljski industriji in je bilo v preteklosti predmet velikega zanimanja vlagateljev. Padec delnic pod začetno ceno, čeprav začasen, poudarja ranljivost tudi najbolj obetavnih podjetij v času širše tržne razprodaje. Hiter odboj pa kaže na močno dolgoročno zaupanje vlagateljev in oportunistične nakupe. Mehanizem vpliva je ta, da v času splošne razprodaje tveganih sredstev vlagatelji pogosto prodajajo delnice podjetij z visoko rastjo, ne glede na njihove dolgoročne obete, da bi zmanjšali izpostavljenost tveganju. Kasnejše okrevanje kaže na umiritev panike. Posledice so povečana volatilnost v tehnološkem sektorju, kar se odraža v padcu Nasdaq 100 (-2.57 %). Na obveznice, valute, surovine in kriptovalute ni neposrednega vpliva, razen splošnega razpoloženja. Zgodovinsko so se podobni primeri zgodili med 'dot-com' balonom, kjer so tudi obetavna podjetja doživela znatne padce pred morebitnim okrevanjem. Vlagatelji naj spremljajo nadaljnjo stabilizacijo tehnološkega sektorja, uspešnost prihodnjih projektov SpaceX in splošno razpoloženje vlagateljev do visoko vrednotenih podjetij. Slovenski dolgoročni vlagatelj naj se zaveda, da so tudi delnice inovativnih in obetavnih podjetij, kot je SpaceX, izpostavljene kratkoročni volatilnosti, še posebej v obdobjih širših tržnih korekcij. Pomembna je dolgoročna perspektiva in diverzifikacija portfelja.",
+      "naslov": "Iranska vojna 117. dan: spor o jedrskih inšpekcijah, senat omejuje vojne pristojnosti",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "117. dan iranske vojne zaznamujejo spori med Iranom in ZDA glede jedrskih inšpekcij in nadzora nad Hormuško ožino. Pogajalci si prizadevajo za dokončen dogovor v 60 dneh, medtem ko je ameriški senat sprejel ukrepe za omejitev predsednikovih vojnih pristojnosti. Ta razvoj dogodkov kaže na kompleksnost konflikta in prizadevanja za diplomatsko rešitev, hkrati pa poudarja notranje politične delitve v ZDA glede vodenja vojne.",
+      "analiza": "Konflikt z Iranom, ki traja že 117 dni, je ključni dejavnik globalne geopolitične nestabilnosti in ima daljnosežne ekonomske posledice. Spor glede jedrskih inšpekcij in nadzora nad Hormuško ožino, ki je ključna pomorska pot za transport nafte, neposredno vpliva na cene energentov. Morebitna eskalacija ali prekinitev pogajanj bi lahko povzročila skok cen nafte, ki so danes že padle (WTI na 72,09 USD/sod, Brent na 75,90 USD/sod), saj bi se povečala negotovost glede dobave. Omejevanje predsednikovih vojnih pristojnosti s strani ameriškega senata kaže na željo po bolj nadzorovanem pristopu k zunanjepolitičnim odločitvam, kar bi lahko zmanjšalo tveganje za nenadne vojaške akcije. Vendar pa negotovost ostaja, saj se pogajalci trudijo doseči dogovor v 60 dneh. Za delniške trge to pomeni povečano volatilnost, kar se odraža tudi v današnjem padcu indeksov, kot sta S&P 500 (-1,44 %) in Nasdaq 100 (-3,29 %). Cene zlata, ki velja za varno zatočišče, so danes sicer padle za 1,23 % na 4098,30 USD/oz, vendar bi se ob eskalaciji lahko hitro obrnile navzgor. Slovenski dolgoročni vlagatelj naj spremlja razvoj dogodkov v regiji, saj imajo ti neposreden vpliv na cene energentov, inflacijo in globalno gospodarsko rast.",
       "vpliv": [
-        "Začasen padec delnic SpaceX pod začetno ceno",
-        "Okrevanje delnic SpaceX za 2.4 %",
-        "Povečana volatilnost v tehnološkem sektorju",
-        "Ilustracija širše razprodaje na trgu"
+        "Povečana volatilnost na trgih surovin, zlasti nafte",
+        "Potencialni pritisk na rast inflacije",
+        "Povečana negotovost na delniških trgih",
+        "Vpliv na tečaj EUR/USD zaradi globalne negotovosti"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/6/23/spacex-shares-drop-below-debut-price-before-jumping-amid-600bn-sell-off?traffic_source=rss",
-      "objavljeno": "2026-06-23T16:45:41.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss",
+      "objavljeno": "2026-06-24T07:04:05.000Z"
+    },
+    {
+      "naslov": "Segro zavrnil 12,6 milijarde funtov vredno prevzemno ponudbo Prologisa",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Britansko nepremičninsko podjetje Segro je zavrnilo prevzemno ponudbo ameriškega tekmeca Prologis v višini 12,6 milijarde funtov. Delnice Segra so po objavi novice poskočile za 18 odstotkov, saj Prologis poziva delničarje Segra, naj pritisnejo na upravni odbor podjetja za pogajanja. To kaže na močno zanimanje za industrijske nepremičnine in skladišča, kar je sektor, ki je v zadnjih letih doživel znatno rast.",
+      "analiza": "Zavrnitev prevzemne ponudbe v višini 12,6 milijarde funtov s strani Segra, ključnega britanskega lastnika industrijskih nepremičnin, s strani ameriškega rivala Prologis, poudarja strateški pomen in vrednost sektorja logističnih nepremičnin. Ta sektor je bil v zadnjih letih gonilna sila rasti zaradi razcveta e-trgovine in potrebe po učinkovitih dobavnih verigah. Skok delnic Segra za 18 odstotkov po objavi novice kaže na to, da trg ocenjuje, da je ponudba podcenjena, ali pa pričakuje višjo ponudbo. To lahko sproži \"prevzemno vojno\", kar bi lahko dodatno dvignilo vrednost delnic Segra. Za širši trg nepremičnin to signalizira močno povpraševanje in potencialno konsolidacijo v sektorju. Vpliv na obveznice je posreden, saj lahko uspešna prevzema povečata zadolženost prevzemnika. Za valute, zlasti GBP, lahko takšne transakcije prinesejo kratkoročne tokove kapitala. Slovenski dolgoročni vlagatelj naj bo pozoren na trende v nepremičninskem sektorju, zlasti v industrijskih in logističnih nepremičninah, saj ti odražajo širše gospodarske trende in rast e-trgovine.",
+      "vpliv": [
+        "18-odstotni skok delnic Segra",
+        "Potencialna prevzemna vojna v nepremičninskem sektorju",
+        "Povečana aktivnost M&A v industrijskih nepremičninah",
+        "Kratkoročni vpliv na GBP zaradi tokov kapitala"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/9281a3dc-c3c5-4f31-b82e-15440954e9e3",
+      "objavljeno": "2026-06-24T06:28:56.000Z"
+    },
+    {
+      "naslov": "Smrtonosni vročinski val zajel Evropo, temperature močno naraščajo",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Evropo je zajel smrtonosni vročinski val, ki je sprožil najvišje, rdeče opozorila pred vročino v Veliki Britaniji in Franciji. Temperature po celini močno naraščajo, kar povzroča resne zdravstvene in gospodarske posledice. Ekstremne vremenske razmere vplivajo na infrastrukturo, kmetijstvo in produktivnost dela, kar predstavlja izziv za gospodarstva.",
+      "analiza": "Vročinski val, ki je zajel Evropo in sprožil rdeča opozorila v državah, kot sta Velika Britanija in Francija, ima pomembne makroekonomske posledice. Visoke temperature lahko zmanjšajo produktivnost dela, povečajo porabo energije za hlajenje, obremenijo zdravstvene sisteme in negativno vplivajo na kmetijstvo. To lahko vodi do višjih cen hrane in energije, kar bi dodatno prispevalo k inflacijskim pritiskom, ki so že prisotni. Vpliv na delniške trge je lahko negativen, saj podjetja, ki so odvisna od zunanjega dela ali imajo visoke stroške hlajenja, utrpijo izgube. Po drugi strani pa lahko podjetja, ki ponujajo rešitve za hlajenje ali obnovljive vire energije, doživijo povečano povpraševanje. Centralne banke bi lahko bile pod pritiskom, da upoštevajo te podnebne šoke pri svojih odločitvah o obrestnih merah. V preteklosti so ekstremni vremenski dogodki pogosto povzročili kratkoročne motnje v gospodarstvu in vplivali na določene sektorje. Slovenski dolgoročni vlagatelj naj bo pozoren na podnebne spremembe in njihov vpliv na različne sektorje gospodarstva, saj se ta tveganja dolgoročno povečujejo.",
+      "vpliv": [
+        "Zmanjšana produktivnost dela v Evropi",
+        "Povečana poraba energije za hlajenje",
+        "Potencialni vpliv na inflacijo preko cen hrane in energije",
+        "Obremenitev zdravstvenih sistemov"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_deadly-heatwave-grips-europe-as-temperatures-soars-240626?traffic_source=rss",
+      "objavljeno": "2026-06-24T05:57:19.000Z"
+    },
+    {
+      "naslov": "Venezuela razkriva 240 milijard dolarjev dolga v največjem prestrukturiranju",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Venezuela naj bi razkrila, da ima precej več dolga, kot je bilo pričakovano, in sicer 240 milijard dolarjev, kar bi predstavljalo največje prestrukturiranje dolga na svetu. To razkritje prihaja po odstavitvi Madura in kaže na katastrofalno finančno stanje države. Objava bo imela pomembne posledice za mednarodne upnike in globalne finančne trge, saj se bo moralo rešiti vprašanje ogromnega suverenega dolga.",
+      "analiza": "Razkritje venezuelskega dolga v višini 240 milijard dolarjev, ki je precej višji od prejšnjih ocen, predstavlja enega največjih izzivov za globalne finančne trge in suvereno prestrukturiranje dolga. Ta novica prihaja po političnih spremembah v državi in poudarja obseg ekonomske krize, ki jo je Venezuela doživela. Za imetnike venezuelskih obveznic to pomeni nadaljnjo negotovost in verjetno znatne odpise. Vpliv na širše obvezniške trge je lahko omejen, saj je Venezuela že dolgo časa v težavah, vendar pa takšno obsežno prestrukturiranje lahko služi kot opozorilo glede tveganj naložb v državne obveznice z visokim tveganjem. Za delniške trge je neposreden vpliv majhen, razen za podjetja, ki so imela izpostavljenost do Venezuele. Na valutne trge bi lahko vplivalo, če bi se povečala splošna averzija do tveganja, kar bi okrepilo valute, ki veljajo za varna zatočišča. Primerjalno, grška dolžniška kriza je pokazala, kako lahko prestrukturiranje dolga vpliva na regionalno in globalno stabilnost. Slovenski dolgoročni vlagatelj naj bo previden pri naložbah v obveznice držav v razvoju z visoko stopnjo tveganja in naj razume, da so takšni dogodki sestavni del globalnega finančnega sistema.",
+      "vpliv": [
+        "Znatni odpisi za imetnike venezuelskih obveznic",
+        "Povečana negotovost na trgu državnih obveznic z visokim tveganjem",
+        "Potencialno povečanje averzije do tveganja na globalnih trgih",
+        "Omejen neposreden vpliv na delniške trge"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/b7f25ca2-827c-40f9-ab1a-57067d8ec90d",
+      "objavljeno": "2026-06-24T04:00:24.000Z"
+    },
+    {
+      "naslov": "Delnica Alphabeta se pridružuje Dow Jonesu, indeks se nagiba k tehnologiji",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Delnica Alphabeta, matičnega podjetja Googla, naj bi se pridružila indeksu Dow Jones Industrial Average, kar pomeni pomemben premik od tradicionalnih industrijskih k tehnološkim koreninam indeksa. Ta vključitev odraža naraščajočo prevlado tehnoloških podjetij v ameriškem gospodarstvu. Strategi opozarjajo, da se Alphabet s širjenjem podatkovnih centrov in zadolževanjem za to, vse bolj uveljavlja kot industrijsko podjetje.",
+      "analiza": "Vključitev delnice Alphabeta v indeks Dow Jones Industrial Average je simboličen, a pomemben dogodek, ki poudarja preoblikovanje ameriškega gospodarstva in finančnih trgih. Dow Jones, ki je bil tradicionalno sestavljen iz \"industrijskih\" velikanov, se s tem bolj odpira tehnološkemu sektorju, ki je v zadnjih desetletjih gonilna sila rasti. Ta poteza bo povečala izpostavljenost indeksa do tehnoloških podjetij in lahko privede do prerazporeditve kapitala v indeksnih skladih in ETF-ih, ki sledijo Dow Jonesu. Za delnico Alphabeta to pomeni povečano povpraševanje s strani pasivnih skladov, kar lahko kratkoročno pozitivno vpliva na njeno ceno. Širše, to odraža trend, kjer se tehnološka podjetja s svojimi obsežnimi infrastrukturnimi naložbami (kot so podatkovni centri) vse bolj približujejo definiciji \"industrijskih\" podjetij. Vpliv na obveznice in valute je minimalen, vendar pa krepi percepcijo ZDA kot vodilne v tehnoloških inovacijah. Slovenski dolgoročni vlagatelj naj razume, da takšne spremembe v indeksih odražajo širše gospodarske trende in so pomembne za diverzifikacijo portfelja, saj se tehnološki sektor uveljavlja kot ključni del globalnega gospodarstva.",
+      "vpliv": [
+        "Povečana izpostavljenost Dow Jonesa do tehnološkega sektorja",
+        "Potencialno povečano povpraševanje po delnicah Alphabeta",
+        "Prerazporeditev kapitala v indeksnih skladih",
+        "Simboličen premik v percepciji industrijskih velikanov"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/alphabets-stock-is-set-to-join-the-dow-heres-which-company-is-getting-the-boot-73453ca7?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-24T00:25:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-06-23T17:27:00.275Z",
+    "posodobljenoOb": "2026-06-24T07:53:13.331Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7404.78,
-        "sprememba_pct": -0.91
+        "vrednost": 7365.46,
+        "sprememba_pct": -1.44
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29566.781,
-        "sprememba_pct": -2.57
+        "vrednost": 29347.273,
+        "sprememba_pct": -3.29
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 24893.58,
-        "sprememba_pct": -0.98
+        "vrednost": 24676.8,
+        "sprememba_pct": -0.87
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 69788.38,
-        "sprememba_pct": -3.55
+        "vrednost": 69174.97,
+        "sprememba_pct": -0.88
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4155.4,
-        "sprememba_pct": -1.13,
+        "vrednost": 4098.3,
+        "sprememba_pct": -1.23,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 73.18,
-        "sprememba_pct": -0.92,
+        "vrednost": 72.09,
+        "sprememba_pct": -1.53,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 77.07,
-        "sprememba_pct": -1.07,
+        "vrednost": 75.9,
+        "sprememba_pct": -1.53,
         "enota": "USD/sod"
       }
     ],
@@ -147,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1382,
-        "sprememba_pct": -0.43
+        "vrednost": 1.136,
+        "sprememba_pct": -0.25
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.485,
-        "sprememba_pct": -0.53,
+        "vrednost": 4.493,
+        "sprememba_pct": -0.35,
         "enota": "%"
       }
     ],
@@ -164,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 62561.24,
-        "sprememba_pct": -2.17,
+        "vrednost": 62531.1,
+        "sprememba_pct": -0.21,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 18.81,
-      "sprememba_pct": 14.7
+      "vrednost": 19.29,
+      "sprememba_pct": -1.03
     }
   }
 }
