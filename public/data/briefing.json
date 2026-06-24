@@ -1,134 +1,134 @@
 {
-  "generiranoOb": "2026-06-24T07:54:19.700Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-06-24T17:29:28.282Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-06-24",
-  "povzetek": "Jutranji pregled finančnih trgov 24. junija 2026 kaže na prevladujočo previdnost med vlagatelji. Ameriški delniški indeksi so noč zaključili v rdečem, kjer je S&P 500 padel za 1,44 % na 7365 točk, tehnološko usmerjeni Nasdaq 100 pa je zabeležil še večji padec, za 3,29 % na 29347 točk. Tudi azijski trgi so sledili trendu, Nikkei 225 je upadel za 0,88 % na 69175 točk. Cene nafte so se znižale, WTI nafta je pri 72,09 USD/sod, Brent nafta pa pri 75,90 USD/sod, obe z 1,53 % padcem, medtem ko zlato beleži padec za 1,23 % na 4098,30 USD/oz. Geopolitične napetosti, zlasti glede iranske vojne in preiskave ameriških cen bencina, ostajajo v ospredju, skupaj z zaskrbljenostjo zaradi vročinskega vala v Evropi in razkritjem ogromnega venezuelskega dolga v višini 240 milijard dolarjev. Vlagatelji so danes pozorni na nadaljnje dogajanje v zvezi z globalnimi konflikti in morebitnimi vplivi na dobavne verige ter inflacijo. Ključni dogodek tega tedna, ki ga vlagatelji morajo imeti na radarju, so nadaljnji premiki v geopolitičnih razmerah, ki lahko bistveno vplivajo na cene energentov in globalno stabilnost.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, pri čemer je nemški indeks DAX padel za 0,62 % na 24.740 točk. Tudi ameriški trgi so po dveh urah trgovanja kazali negativno smer, saj je S&P 500 beležil padec za 0,15 % na 7355 točk, tehnološko usmerjeni Nasdaq 100 pa je zdrsnil za 0,75 % na 29126 točk. Opazno je bilo tudi močno znižanje cen surovin, saj je cena zlata padla za 3,09 % na 4021,10 USD/oz, medtem ko sta nafta WTI in Brent izgubili 3,93 % oziroma 4,16 %, kar je WTI postavilo na 70,33 USD/sod in Brent na 73,87 USD/sod. Bitcoin je prav tako utrpel precejšen padec za 4,78 % na 59666 USD, kar kaže na splošno prevladujoč negativen sentiment na trgih. Indeks volatilnosti VIX se je zvišal za 10,71 % na 19,13, kar odraža povečano negotovost med vlagatelji. Donosnost 10-letnih ameriških državnih obveznic je padla za 1,85 % na 4,41 %, medtem ko je tečaj EUR/USD oslabel za 0,29 % na 1,1355. Vlagatelji bodo pozorno spremljali prihajajoče objave o inflaciji in morebitne izjave centralnih bankirjev, ki bi lahko vplivale na pričakovanja glede obrestnih mer.",
   "novice": [
     {
-      "naslov": "ZDA preiskujejo domnevne manipulacije cen bencina, pravi Trump",
+      "naslov": "Cene nafte padle na predkonfliktne ravni, Trump preiskuje domnevno oderuštvo",
       "sektor": "Energetika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Ameriški predsednik Trump je napovedal preiskavo domnevnih manipulacij s cenami bencina v ZDA. Ta poteza prihaja v času, ko so globalne cene nafte sicer padle, vendar ostajajo višje kot pred vojno med ZDA in Izraelom z Iranom. Preiskava cilja na morebitne nepoštene prakse, ki bi lahko umetno dvigovale cene goriva za potrošnike. To je odziv na javno nezadovoljstvo in poskus stabilizacije stroškov energije.",
-      "analiza": "Ozadje te novice je kompleksno, saj se prepleta z globalnimi geopolitičnimi napetostmi in domačo ekonomsko politiko. Kljub padcu cen nafte, kot je danes razvidno iz padca WTI nafte za 1,53 % na 72,09 USD/sod in Brent nafte za 1,53 % na 75,90 USD/sod, so cene bencina za potrošnike v ZDA še vedno povišane glede na obdobje pred konfliktom z Iranom. Predsednikova napoved preiskave je politični odziv na inflacijske pritiske in poskus zaščite potrošnikov. Takšne preiskave lahko kratkoročno vplivajo na marže naftnih družb in distributerjev, saj se poveča regulativni nadzor. Dolgoročno pa lahko signalizirajo vladno pripravljenost za intervencijo na trgu energentov, kar lahko vpliva na investicijske odločitve v sektorju. Za delnice naftnih podjetij bi to lahko pomenilo negativen pritisk, medtem ko bi za potrošnike in s tem za splošno ekonomijo lahko prineslo olajšanje pri stroških prevoza, kar bi lahko zmanjšalo inflacijske pritiske. V preteklosti so podobne preiskave pogosto povzročile kratkoročno nihanje cen delnic vpletenih podjetij, vendar so dolgoročni učinki odvisni od izida preiskave in morebitnih kazni. Slovenski dolgoročni vlagatelj naj bo pozoren na stabilnost cen energentov, saj le-te posredno vplivajo na stroške poslovanja podjetij in kupno moč potrošnikov po vsem svetu.",
-      "vpliv": [
-        "Povečan regulativni pritisk na naftne družbe",
-        "Potencialno znižanje marž distributerjev goriva",
-        "Zmanjšanje inflacijskih pritiskov za potrošnike",
-        "Nihanje delnic v energetskem sektorju"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-06-24T07:09:04.000Z"
-    },
-    {
-      "naslov": "Iranska vojna 117. dan: spor o jedrskih inšpekcijah, senat omejuje vojne pristojnosti",
-      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "117. dan iranske vojne zaznamujejo spori med Iranom in ZDA glede jedrskih inšpekcij in nadzora nad Hormuško ožino. Pogajalci si prizadevajo za dokončen dogovor v 60 dneh, medtem ko je ameriški senat sprejel ukrepe za omejitev predsednikovih vojnih pristojnosti. Ta razvoj dogodkov kaže na kompleksnost konflikta in prizadevanja za diplomatsko rešitev, hkrati pa poudarja notranje politične delitve v ZDA glede vodenja vojne.",
-      "analiza": "Konflikt z Iranom, ki traja že 117 dni, je ključni dejavnik globalne geopolitične nestabilnosti in ima daljnosežne ekonomske posledice. Spor glede jedrskih inšpekcij in nadzora nad Hormuško ožino, ki je ključna pomorska pot za transport nafte, neposredno vpliva na cene energentov. Morebitna eskalacija ali prekinitev pogajanj bi lahko povzročila skok cen nafte, ki so danes že padle (WTI na 72,09 USD/sod, Brent na 75,90 USD/sod), saj bi se povečala negotovost glede dobave. Omejevanje predsednikovih vojnih pristojnosti s strani ameriškega senata kaže na željo po bolj nadzorovanem pristopu k zunanjepolitičnim odločitvam, kar bi lahko zmanjšalo tveganje za nenadne vojaške akcije. Vendar pa negotovost ostaja, saj se pogajalci trudijo doseči dogovor v 60 dneh. Za delniške trge to pomeni povečano volatilnost, kar se odraža tudi v današnjem padcu indeksov, kot sta S&P 500 (-1,44 %) in Nasdaq 100 (-3,29 %). Cene zlata, ki velja za varno zatočišče, so danes sicer padle za 1,23 % na 4098,30 USD/oz, vendar bi se ob eskalaciji lahko hitro obrnile navzgor. Slovenski dolgoročni vlagatelj naj spremlja razvoj dogodkov v regiji, saj imajo ti neposreden vpliv na cene energentov, inflacijo in globalno gospodarsko rast.",
+      "povzetek": "Cene ameriške in globalne referenčne nafte so se danes znižale na ravni, ki jih niso dosegle od konca februarja, preden se je začela vojna med ZDA in Izraelom z Iranom. Cena WTI nafte je padla za 3,93 % na 70,33 USD/sod, Brent nafta pa za 4,16 % na 73,87 USD/sod. Glavni razlog za padec je izboljšan fizični pretok skozi ožino Hormuz, kljub temu, da tveganja, povezana s konfliktom, niso izginila. Ameriški predsednik Donald Trump je medtem naročil ministrstvu za pravosodje, naj razišče naftne družbe zaradi domnevnega oderuštva, saj naj ne bi dovolj hitro zniževale cen goriva na bencinskih črpalkah glede na padec cen surove nafte.",
+      "analiza": "Padec cen nafte WTI in Brent na predkonfliktne ravni je pomemben dogodek, ki kaže na zmanjšanje neposrednega strahu pred motnjami v dobavi nafte iz Bližnjega vzhoda. Izboljšanje pretoka skozi strateško pomembno ožino Hormuz, kljub nadaljevanju regionalnih napetosti, signalizira, da trg trenutno daje prednost dejanski dobavi pred geopolitičnimi tveganji. To je v nasprotju z nedavnimi trendi, ko so geopolitični dogodki hitro dvignili cene. Mehanizem vpliva je neposreden: večja dobava ali zmanjšano tveganje za dobavo znižuje cene. Za delnice to pomeni olajšanje za podjetja, ki so odvisna od nizkih cen energije, kot so letalske družbe in transportna podjetja, medtem ko lahko naftna in plinska podjetja občutijo pritisk na dobičkonosnost. Padec cen nafte lahko prispeva tudi k zmanjšanju inflacijskih pritiskov, kar bi lahko vplivalo na politiko centralnih bank. Trumpova preiskava dodaja element političnega tveganja za energetska podjetja, saj bi morebitne regulativne spremembe ali kazni lahko vplivale na njihovo poslovanje. Za slovenskega dolgoročnega vlagatelja to pomeni, da so nižje cene energije na splošno pozitivne za gospodarstvo in potrošnike, vendar je pomembno spremljati geopolitične dogodke in politične odločitve, ki lahko hitro spremenijo dinamiko cen nafte.",
       "vpliv": [
-        "Povečana volatilnost na trgih surovin, zlasti nafte",
-        "Potencialni pritisk na rast inflacije",
-        "Povečana negotovost na delniških trgih",
-        "Vpliv na tečaj EUR/USD zaradi globalne negotovosti"
+        "WTI nafta -3,93 % na 70,33 USD/sod",
+        "Brent nafta -4,16 % na 73,87 USD/sod",
+        "Zmanjšani inflacijski pritiski",
+        "Povečana regulativna negotovost za naftna podjetja"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss",
-      "objavljeno": "2026-06-24T07:04:05.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/u-s-oil-prices-fall-back-to-preconflict-levels-as-physical-flow-through-the-strait-of-hormuz-improves-d7c910c3?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-24T16:22:00.000Z"
     },
     {
-      "naslov": "Segro zavrnil 12,6 milijarde funtov vredno prevzemno ponudbo Prologisa",
-      "sektor": "Finance",
-      "smer": "mešano",
+      "naslov": "Indeksni skladi skrivajo tveganje koncentracije tehnoloških delnic, opozorilo vlagateljem",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Britansko nepremičninsko podjetje Segro je zavrnilo prevzemno ponudbo ameriškega tekmeca Prologis v višini 12,6 milijarde funtov. Delnice Segra so po objavi novice poskočile za 18 odstotkov, saj Prologis poziva delničarje Segra, naj pritisnejo na upravni odbor podjetja za pogajanja. To kaže na močno zanimanje za industrijske nepremičnine in skladišča, kar je sektor, ki je v zadnjih letih doživel znatno rast.",
-      "analiza": "Zavrnitev prevzemne ponudbe v višini 12,6 milijarde funtov s strani Segra, ključnega britanskega lastnika industrijskih nepremičnin, s strani ameriškega rivala Prologis, poudarja strateški pomen in vrednost sektorja logističnih nepremičnin. Ta sektor je bil v zadnjih letih gonilna sila rasti zaradi razcveta e-trgovine in potrebe po učinkovitih dobavnih verigah. Skok delnic Segra za 18 odstotkov po objavi novice kaže na to, da trg ocenjuje, da je ponudba podcenjena, ali pa pričakuje višjo ponudbo. To lahko sproži \"prevzemno vojno\", kar bi lahko dodatno dvignilo vrednost delnic Segra. Za širši trg nepremičnin to signalizira močno povpraševanje in potencialno konsolidacijo v sektorju. Vpliv na obveznice je posreden, saj lahko uspešna prevzema povečata zadolženost prevzemnika. Za valute, zlasti GBP, lahko takšne transakcije prinesejo kratkoročne tokove kapitala. Slovenski dolgoročni vlagatelj naj bo pozoren na trende v nepremičninskem sektorju, zlasti v industrijskih in logističnih nepremičninah, saj ti odražajo širše gospodarske trende in rast e-trgovine.",
+      "povzetek": "Analiza MarketWatch opozarja, da indeksni skladi, kot je S&P 500, skrivajo naraščajoče tveganje zaradi izjemne koncentracije v peščici tehnoloških delnic. Deset največjih delnic v indeksu S&P 500 dominira kot še nikoli prej, kar pomeni, da je uspešnost celotnega sklada močno odvisna od teh nekaj podjetij. Članek predlaga, da je to lahko nevarno za portfelje vlagateljev in ponuja alternativne strategije za zaščito pred tovrstno izpostavljenostjo. To tveganje je še posebej izrazito v luči današnjega padca Nasdaq 100 indeksa za 0,75 %.",
+      "analiza": "Koncentracija tržne kapitalizacije v peščici tehnoloških velikanov znotraj širokih tržnih indeksov, kot je S&P 500, ni nov pojav, vendar se v zadnjih letih stopnjuje, kar je še posebej poudarjeno z vzponom umetne inteligence. To pomeni, da so indeksni skladi, ki so pogosto temelj dolgoročnih portfeljev, izjemno izpostavljeni uspešnosti in volatilnosti teh nekaj podjetij. Če pride do korekcije v tehnološkem sektorju, kot je danes viden padec Nasdaq 100 za 0,75 %, lahko to močno prizadene celoten trg. Mehanizem vpliva je preprost: visoka koncentracija poveča sistemsko tveganje. Za delnice to pomeni, da je diverzifikacija znotraj indeksa manj učinkovita, kot se zdi. Vlagatelji, ki so močno izpostavljeni indeksnim skladom, bi morali biti pozorni na to tveganje in razmisliti o dopolnilnih naložbah v manj zastopane sektorje ali geografske regije. V preteklosti so se podobne koncentracije (npr. 'Nifty Fifty' v 70. letih ali dot-com balon) pogosto končale s korekcijo. Za slovenskega dolgoročnega vlagatelja je ključno razumeti sestavo svojih indeksnih skladov in se zavedati, da 'široka diverzifikacija' morda ne nudi vedno pričakovane zaščite, če je trg močno koncentriran v nekaj sektorjih.",
       "vpliv": [
-        "18-odstotni skok delnic Segra",
-        "Potencialna prevzemna vojna v nepremičninskem sektorju",
-        "Povečana aktivnost M&A v industrijskih nepremičninah",
-        "Kratkoročni vpliv na GBP zaradi tokov kapitala"
+        "Povečano tveganje za indeksne sklade",
+        "Nasdaq 100 padec za 0,75 %",
+        "Potreba po pregledu portfeljske diverzifikacije",
+        "Potencialna ranljivost celotnega trga na korekcijo tehnološkega sektorja"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/9281a3dc-c3c5-4f31-b82e-15440954e9e3",
-      "objavljeno": "2026-06-24T06:28:56.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/your-index-fund-is-hiding-a-looming-tech-stock-risk-here-is-how-to-protect-your-portfolio-f4dd1c20?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-24T17:03:00.000Z"
     },
     {
-      "naslov": "Smrtonosni vročinski val zajel Evropo, temperature močno naraščajo",
+      "naslov": "Bela hiša Trumpa morda nakazuje dvig obrestnih mer, analitik opozarja",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Evropo je zajel smrtonosni vročinski val, ki je sprožil najvišje, rdeče opozorila pred vročino v Veliki Britaniji in Franciji. Temperature po celini močno naraščajo, kar povzroča resne zdravstvene in gospodarske posledice. Ekstremne vremenske razmere vplivajo na infrastrukturo, kmetijstvo in produktivnost dela, kar predstavlja izziv za gospodarstva.",
-      "analiza": "Vročinski val, ki je zajel Evropo in sprožil rdeča opozorila v državah, kot sta Velika Britanija in Francija, ima pomembne makroekonomske posledice. Visoke temperature lahko zmanjšajo produktivnost dela, povečajo porabo energije za hlajenje, obremenijo zdravstvene sisteme in negativno vplivajo na kmetijstvo. To lahko vodi do višjih cen hrane in energije, kar bi dodatno prispevalo k inflacijskim pritiskom, ki so že prisotni. Vpliv na delniške trge je lahko negativen, saj podjetja, ki so odvisna od zunanjega dela ali imajo visoke stroške hlajenja, utrpijo izgube. Po drugi strani pa lahko podjetja, ki ponujajo rešitve za hlajenje ali obnovljive vire energije, doživijo povečano povpraševanje. Centralne banke bi lahko bile pod pritiskom, da upoštevajo te podnebne šoke pri svojih odločitvah o obrestnih merah. V preteklosti so ekstremni vremenski dogodki pogosto povzročili kratkoročne motnje v gospodarstvu in vplivali na določene sektorje. Slovenski dolgoročni vlagatelj naj bo pozoren na podnebne spremembe in njihov vpliv na različne sektorje gospodarstva, saj se ta tveganja dolgoročno povečujejo.",
+      "povzetek": "Analitik MarketWatcha meni, da je Bela hiša pod predsednikom Trumpom morda dala 'zeleno luč' za dvig obrestnih mer. Zakladniški minister Scott Bessent naj bi namreč omenil idejo o enkratnem 'zavirajočem' dvigu obrestne mere. To bi lahko pomenilo spremembo v politiki, saj so se v preteklosti pogosto pojavljale napetosti med politično administracijo in neodvisnostjo centralne banke glede monetarne politike. Takšna izjava lahko vpliva na pričakovanja trga glede prihodnjih potez Federalnih rezerv (Fed).",
+      "analiza": "Možnost, da politična administracija vpliva na monetarno politiko, je vedno občutljiva tema, saj neodvisnost centralne banke velja za ključno za stabilnost gospodarstva. Izjava zakladniškega ministra o 'zavirajočem' dvigu obrestne mere, čeprav neposredno ne prihaja iz Feda, lahko vlagateljem signalizira, da bi lahko obstajal politični pritisk za zaostrovanje monetarne politike. To je pomembno v kontekstu inflacijskih pritiskov in gospodarskega cikla. Mehanizem vpliva je prek pričakovanj: če trg pričakuje dvig obrestnih mer, se to odraža v višjih donosnostih obveznic, kar je v nasprotju z današnjim padcem donosnosti 10-letnih ameriških državnih obveznic za 1,85 % na 4,41 %. Višje obrestne mere so načeloma negativne za delnice, saj povečujejo stroške zadolževanja podjetij in zmanjšujejo privlačnost naložb v delnice v primerjavi z obveznicami. Za valute bi dvig obrestnih mer v ZDA lahko okrepil USD, kar bi se odrazilo v nadaljnjem padcu EUR/USD, ki je danes že padel za 0,29 % na 1,1355. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so pričakovanja glede obrestnih mer ključna gonilna sila za vse razrede sredstev, zato je spremljanje izjav ključnih ekonomskih akterjev nujno, čeprav je neodvisnost Feda formalno zaščitena.",
       "vpliv": [
-        "Zmanjšana produktivnost dela v Evropi",
-        "Povečana poraba energije za hlajenje",
-        "Potencialni vpliv na inflacijo preko cen hrane in energije",
-        "Obremenitev zdravstvenih sistemov"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_deadly-heatwave-grips-europe-as-temperatures-soars-240626?traffic_source=rss",
-      "objavljeno": "2026-06-24T05:57:19.000Z"
-    },
-    {
-      "naslov": "Venezuela razkriva 240 milijard dolarjev dolga v največjem prestrukturiranju",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Venezuela naj bi razkrila, da ima precej več dolga, kot je bilo pričakovano, in sicer 240 milijard dolarjev, kar bi predstavljalo največje prestrukturiranje dolga na svetu. To razkritje prihaja po odstavitvi Madura in kaže na katastrofalno finančno stanje države. Objava bo imela pomembne posledice za mednarodne upnike in globalne finančne trge, saj se bo moralo rešiti vprašanje ogromnega suverenega dolga.",
-      "analiza": "Razkritje venezuelskega dolga v višini 240 milijard dolarjev, ki je precej višji od prejšnjih ocen, predstavlja enega največjih izzivov za globalne finančne trge in suvereno prestrukturiranje dolga. Ta novica prihaja po političnih spremembah v državi in poudarja obseg ekonomske krize, ki jo je Venezuela doživela. Za imetnike venezuelskih obveznic to pomeni nadaljnjo negotovost in verjetno znatne odpise. Vpliv na širše obvezniške trge je lahko omejen, saj je Venezuela že dolgo časa v težavah, vendar pa takšno obsežno prestrukturiranje lahko služi kot opozorilo glede tveganj naložb v državne obveznice z visokim tveganjem. Za delniške trge je neposreden vpliv majhen, razen za podjetja, ki so imela izpostavljenost do Venezuele. Na valutne trge bi lahko vplivalo, če bi se povečala splošna averzija do tveganja, kar bi okrepilo valute, ki veljajo za varna zatočišča. Primerjalno, grška dolžniška kriza je pokazala, kako lahko prestrukturiranje dolga vpliva na regionalno in globalno stabilnost. Slovenski dolgoročni vlagatelj naj bo previden pri naložbah v obveznice držav v razvoju z visoko stopnjo tveganja in naj razume, da so takšni dogodki sestavni del globalnega finančnega sistema.",
-      "vpliv": [
-        "Znatni odpisi za imetnike venezuelskih obveznic",
-        "Povečana negotovost na trgu državnih obveznic z visokim tveganjem",
-        "Potencialno povečanje averzije do tveganja na globalnih trgih",
-        "Omejen neposreden vpliv na delniške trge"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/b7f25ca2-827c-40f9-ab1a-57067d8ec90d",
-      "objavljeno": "2026-06-24T04:00:24.000Z"
-    },
-    {
-      "naslov": "Delnica Alphabeta se pridružuje Dow Jonesu, indeks se nagiba k tehnologiji",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Delnica Alphabeta, matičnega podjetja Googla, naj bi se pridružila indeksu Dow Jones Industrial Average, kar pomeni pomemben premik od tradicionalnih industrijskih k tehnološkim koreninam indeksa. Ta vključitev odraža naraščajočo prevlado tehnoloških podjetij v ameriškem gospodarstvu. Strategi opozarjajo, da se Alphabet s širjenjem podatkovnih centrov in zadolževanjem za to, vse bolj uveljavlja kot industrijsko podjetje.",
-      "analiza": "Vključitev delnice Alphabeta v indeks Dow Jones Industrial Average je simboličen, a pomemben dogodek, ki poudarja preoblikovanje ameriškega gospodarstva in finančnih trgih. Dow Jones, ki je bil tradicionalno sestavljen iz \"industrijskih\" velikanov, se s tem bolj odpira tehnološkemu sektorju, ki je v zadnjih desetletjih gonilna sila rasti. Ta poteza bo povečala izpostavljenost indeksa do tehnoloških podjetij in lahko privede do prerazporeditve kapitala v indeksnih skladih in ETF-ih, ki sledijo Dow Jonesu. Za delnico Alphabeta to pomeni povečano povpraševanje s strani pasivnih skladov, kar lahko kratkoročno pozitivno vpliva na njeno ceno. Širše, to odraža trend, kjer se tehnološka podjetja s svojimi obsežnimi infrastrukturnimi naložbami (kot so podatkovni centri) vse bolj približujejo definiciji \"industrijskih\" podjetij. Vpliv na obveznice in valute je minimalen, vendar pa krepi percepcijo ZDA kot vodilne v tehnoloških inovacijah. Slovenski dolgoročni vlagatelj naj razume, da takšne spremembe v indeksih odražajo širše gospodarske trende in so pomembne za diverzifikacijo portfelja, saj se tehnološki sektor uveljavlja kot ključni del globalnega gospodarstva.",
-      "vpliv": [
-        "Povečana izpostavljenost Dow Jonesa do tehnološkega sektorja",
-        "Potencialno povečano povpraševanje po delnicah Alphabeta",
-        "Prerazporeditev kapitala v indeksnih skladih",
-        "Simboličen premik v percepciji industrijskih velikanov"
+        "Potencialni dvig obrestnih mer v ZDA",
+        "Pritisk na delnice",
+        "Okrepitev USD",
+        "Povečana negotovost glede monetarne politike"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/alphabets-stock-is-set-to-join-the-dow-heres-which-company-is-getting-the-boot-73453ca7?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-24T00:25:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/did-the-trump-white-house-just-give-warsh-the-green-light-to-hike-interest-rates-this-analyst-thinks-so-f03b29fd?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-24T16:42:00.000Z"
+    },
+    {
+      "naslov": "Toyota prekaša General Motors v prodaji v ZDA, hibridi proti električnim vozilom",
+      "sektor": "Potrošniki",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Toyota pridobiva prednost pred General Motorsom v novih napovedih prodaje v ZDA, kar nakazuje, da bi se GM 'moral ozirati čez ramo'. CNBC poroča, da se je Toyota opazno osredotočila na hibridna vozila, medtem ko so GM in drugi stavili na popolnoma električna vozila (EV), ki pa so zabeležila nižjo stopnjo sprejetja med potrošniki od pričakovane. To kaže na preusmeritev preferenc potrošnikov na avtomobilskem trgu, kjer se zdi, da hibridi trenutno bolje ustrezajo povpraševanju.",
+      "analiza": "Avtomobilska industrija je v prehodnem obdobju, kjer se proizvajalci spopadajo z izzivi elektrifikacije in spreminjajočimi se preferencami potrošnikov. Toyota, ki je bila sprva kritizirana zaradi počasnejšega prehoda na popolnoma električna vozila, zdaj žanje sadove svoje strategije, ki je vključevala močno osredotočenost na hibride. To je pomembno, saj kaže, da potrošniki morda še niso v celoti pripravljeni na masovni prehod na EV, kar ustvarja priložnosti za podjetja, ki ponujajo vmesne rešitve. Mehanizem vpliva je prek tržnega deleža in dobičkonosnosti podjetij: Toyota lahko poveča prodajo in dobiček, medtem ko se GM in drugi proizvajalci EV soočajo z izzivi pri doseganju prodajnih ciljev in dobičkonosnosti. Za delnice to pomeni, da bi delnice Toyote lahko pridobivale, medtem ko bi delnice GM in drugih proizvajalcev EV, ki so močno vložili v EV, lahko bile pod pritiskom. To je tudi širši signal za sektor potrošnikov, da je razumevanje dejanskega povpraševanja ključno. Za slovenskega dolgoročnega vlagatelja je to opomin, da so tržni trendi dinamični in da je pomembno spremljati ne le napovedi, temveč tudi dejansko sprejetje novih tehnologij s strani potrošnikov.",
+      "vpliv": [
+        "Povečan tržni delež Toyote",
+        "Izzivi za proizvajalce EV",
+        "Preusmeritev potrošnikov k hibridnim vozilom",
+        "Vpliv na delnice avtomobilske industrije"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/06/24/toyota-gm-us-sales.html",
+      "objavljeno": "2026-06-24T16:39:43.000Z"
+    },
+    {
+      "naslov": "Elon Musk izgubil status bilijonarja, delnice SpaceX-a in Tesle padajo",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Elon Musk je izgubil status bilijonarja, saj so delnice SpaceX-a in Tesle zabeležile padce, kar je zmanjšalo njegovo premoženje. The Guardian poroča, da so delnice SpaceX-a 'pristale na Zemlji z udarcem', kar kaže na morebitno revizijo vrednotenj v zasebnem trgu. Ta novica poudarja volatilnost, ki je značilna za visokotehnološka podjetja in podjetja v zgodnji fazi rasti, ter vpliv tržnih gibanj na premoženje posameznikov z velikimi deleži v takšnih podjetjih. Delnice Tesle in SpaceX so bile ključne za Muskovo premoženje.",
+      "analiza": "Padec premoženja Elona Muska in izguba statusa bilijonarja, ki je posledica padca delnic SpaceX-a in Tesle, je simboličen dogodek, ki odraža širše trende na trgu. Visokotehnološka podjetja in podjetja z visoko rastjo, še posebej tista, ki so bila v zadnjih letih deležna izjemnih vrednotenj, so pogosto izpostavljena večji volatilnosti. Padec delnic SpaceX-a, čeprav gre za zasebno podjetje, lahko nakazuje na splošno previdnost vlagateljev pri vrednotenju 'unicorn' podjetij in morebitno zmanjšanje apetita po tveganju na zasebnih trgih. Za delnice to pomeni, da so delnice Tesle, ki so že same po sebi volatilne, pod dodatnim pritiskom. Širše gledano, to lahko vpliva na sentiment vlagateljev do celotnega sektorja rastočih tehnoloških podjetij. Povečana volatilnost, ki jo kaže tudi VIX indeks z rastjo za 10,71 % na 19,13, poudarja negotovost na trgih. Za slovenskega dolgoročnega vlagatelja je to opomin, da so naložbe v posamezne, visoko ocenjene delnice, še posebej v sektorjih z visoko rastjo, lahko izjemno tvegane in da je diverzifikacija ključna za obvladovanje takšnih tveganj. Premoženje posameznikov, ki je vezano na nekaj delnic, je izjemno občutljivo na tržna nihanja.",
+      "vpliv": [
+        "Padec delnic Tesle in SpaceX",
+        "Zmanjšanje premoženja Elona Muska",
+        "Povečana previdnost pri vrednotenju visokotehnoloških podjetij",
+        "Povečana volatilnost trga (VIX +10,71 %)"
+      ],
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates",
+      "objavljeno": "2026-06-24T16:06:39.000Z"
+    },
+    {
+      "naslov": "Trump odpovedal podpis zakona o cenovno dostopnih stanovanjih, zahteva zakon o volilni izkaznici",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Ameriški predsednik Donald Trump je odpovedal slovesni podpis dvostrankarskega zakona o cenovno dostopnih stanovanjih, ki je bil zasnovan za povečanje ponudbe stanovanj in omejitev vloge institucionalnih vlagateljev na nepremičninskem trgu. Namesto tega je Trump zahteval, da se najprej sprejme zakon o volilni izkaznici. Ta poteza, ki je presenetila mnoge, saj je bil zakon o stanovanjih sprejet z redko dvostrankarsko podporo, kaže na prednost političnih vprašanj pred gospodarskimi in socialnimi politikami v predvolilnem obdobju.",
+      "analiza": "Odpoved podpisa dvostrankarskega zakona o stanovanjih s strani predsednika Trumpa, kljub njegovi predhodni podpori, poudarja, kako lahko politična agenda in predvolilna taktika preglasita gospodarske in socialne potrebe. Zakon je bil pomemben, saj je naslavljal problem cenovne dostopnosti stanovanj, ki je v ZDA pereč, in poskušal omejiti vpliv institucionalnih vlagateljev, kar bi lahko imelo dolgoročne posledice za nepremičninski trg. Mehanizem vpliva je posreden: odložitev ali propad takšnega zakona lahko podaljša ali poslabša obstoječe probleme na stanovanjskem trgu, kar lahko vpliva na potrošniško zaupanje in gospodarsko rast. Za nepremičninski sektor to pomeni nadaljevanje obstoječih trendov in morebitno razočaranje za podjetja, ki so pričakovala spremembe. Politična negotovost, ki izhaja iz takšnih potez, lahko vpliva tudi na širši trg, saj vlagatelji iščejo stabilnost. V preteklosti so politične blokade pogosto ovirale sprejemanje pomembnih gospodarskih reform. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati ne le ekonomske kazalnike, temveč tudi politično dinamiko v ključnih gospodarstvih, saj lahko ta močno vpliva na izvajanje politik, ki imajo dolgoročne gospodarske posledice.",
+      "vpliv": [
+        "Odložitev reševanja problema cenovne dostopnosti stanovanj v ZDA",
+        "Povečana politična negotovost",
+        "Vpliv na nepremičninski trg",
+        "Poudarek na političnih prioritetah pred gospodarskimi"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/6/24/trump-cancels-housing-bill-signing-demands-us-voter-id-law-first?traffic_source=rss",
+      "objavljeno": "2026-06-24T16:20:08.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-06-24T07:53:13.331Z",
+    "posodobljenoOb": "2026-06-24T17:28:13.016Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7365.46,
-        "sprememba_pct": -1.44
+        "vrednost": 7354.51,
+        "sprememba_pct": -0.15
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29347.273,
-        "sprememba_pct": -3.29
+        "vrednost": 29126.28,
+        "sprememba_pct": -0.75
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 24676.8,
-        "sprememba_pct": -0.87
+        "vrednost": 24740.36,
+        "sprememba_pct": -0.62
       },
       {
         "simbol": "^N225",
@@ -141,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4098.3,
-        "sprememba_pct": -1.23,
+        "vrednost": 4021.1,
+        "sprememba_pct": -3.09,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 72.09,
-        "sprememba_pct": -1.53,
+        "vrednost": 70.33,
+        "sprememba_pct": -3.93,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 75.9,
-        "sprememba_pct": -1.53,
+        "vrednost": 73.87,
+        "sprememba_pct": -4.16,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.136,
-        "sprememba_pct": -0.25
+        "vrednost": 1.1355,
+        "sprememba_pct": -0.29
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.493,
-        "sprememba_pct": -0.35,
+        "vrednost": 4.41,
+        "sprememba_pct": -1.85,
         "enota": "%"
       }
     ],
@@ -181,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 62531.1,
-        "sprememba_pct": -0.21,
+        "vrednost": 59665.93,
+        "sprememba_pct": -4.78,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 19.29,
-      "sprememba_pct": -1.03
+      "vrednost": 19.13,
+      "sprememba_pct": 10.71
     }
   }
 }
