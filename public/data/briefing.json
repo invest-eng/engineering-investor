@@ -1,134 +1,168 @@
 {
-  "generiranoOb": "2026-06-25T07:55:06.640Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-06-25T17:32:17.774Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-06-25",
-  "povzetek": "Jutranji pregled trgov kaže mešano sliko po nočnih dogodkih. Ameriški borzni indeksi so zaključili v rdečem, saj je S&P 500 padel za 0.10 % na 7358, Nasdaq 100 pa za 0.43 % na 29220. Medtem so azijski trgi beležili močno rast, zlasti Nikkei 225, ki je poskočil za 4.61 % na 72366, medtem ko je evropski DAX zrasel za 0.37 % na 24832. Cene nafte so se znižale, WTI nafta je pri 69.70 USD/sod (-0.91 %), Brent pa pri 73.09 USD/sod (-1.06 %), kar je raven, ki je nismo videli pred iransko vojno. Zlato je prav tako padlo na 3989.40 USD/oz (-0.48 %), medtem ko je Bitcoin zrasel za 1.28 % na 61765 USD. Ključne novice vključujejo močno rast dobička podjetja Micron, ki poganja delnice AI, padanje cen nafte zaradi okrevanja dobav iz Perzijskega zaliva, ter opozorila o skritih sprožilcih inflacije PCE, ki bi lahko prisilili Fed v dvig obrestnih mer. Vlagatelji bodo ta teden pozorno spremljali morebitne nadaljnje objave o inflaciji v ZDA, še posebej indeks cen osebne potrošnje (PCE), ki je ključen za odločitve Feda.",
+  "povzetek": "Evropski trgi so danes zaključili pozitivno, z DAX indeksom, ki je pridobil 1.03 % in se ustavil pri 24995 točkah. Japonski Nikkei 225 je dosegel impresivno rast za 4.61 % na 72366. Na ameriških trgih, ki so odprti dve uri, S&P 500 beleži skromno rast za 0.05 % na 7362, medtem ko je Nasdaq 100 zrasel za 0.83 % na 29463. Na področju surovin je zlato pridobilo 0.96 % in se giblje pri 4047.30 USD/oz, medtem ko sta ceni nafte WTI in Brent zrasli za 2.00 % na 71.75 USD/sod oziroma za 1.84 % na 75.23 USD/sod, kar je bilo deloma posledica napetosti v Hormuški ožini. Donosnost 10-letne ameriške državne obveznice je padla za 0.41 % na 4.38 %, Bitcoin pa je izgubil 2.51 % in je pri 59454 USD. Dnevne novice so vključevale pomembno odločitev ameriškega vrhovnega sodišča v zvezi s tožbami proti herbicidu Roundup, kar je pozitivno vplivalo na delnice v farmacevtskem sektorju, ter poročila o povišanju cen nekaterih Applovih izdelkov. Vlagatelji bodo v prihodnjih dneh pozorno spremljali objavo inflacijskih podatkov, ki bi lahko vplivali na pričakovanja glede monetarne politike.",
   "novice": [
     {
-      "naslov": "Cene nafte padle na predvojne ravni ob okrevanju dobav iz Perzijskega zaliva",
-      "sektor": "Energetika",
+      "naslov": "Iran krepi nadzor nad Hormuško ožino, kar dviguje cene nafte",
+      "sektor": "Energetika & Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Cene nafte so se znižale na ravni, ki jih nismo videli pred iransko vojno, saj so se dobave iz Perzijskega zaliva okrepile. Brent nafta je padla pod 72.48 dolarja za sod, kar je bila cena konec februarja, preden je izbruhnil konflikt z Iranom. WTI nafta se je znižala na 69.70 USD/sod, Brent pa na 73.09 USD/sod. Padec cen je posledica umiritve napetosti in ponovne vzpostavitve pretoka skozi Hormuško ožino, ki je bila zaprta po iranskem odzivu na napade ZDA in Izraela. Ameriški predsednik Trump je medtem obtožil velika naftna podjetja, kot so Shell, ExxonMobil, BP in Chevron, da umetno dvigujejo cene goriva voznikom.",
-      "analiza": "Ozadje te novice je nedavni konflikt med ZDA in Iranom, ki je povzročil prekinitev dobav nafte skozi strateško pomembno Hormuško ožino in s tem močno povišanje cen. Trenutni padec cen nafte na predvojne ravni kaže na umiritev geopolitičnih napetosti in obnovo stabilnosti v regiji, kar je ključno za globalno energetsko varnost. Mehanizem vpliva je neposreden: povečana ponudba in zmanjšana geopolitična tveganja znižujejo cene. Za delnice to pomeni pritisk na energetska podjetja, ki so v času visokih cen beležila nadpovprečne dobičke, medtem ko lahko podjetja v transportnem in proizvodnem sektorju pričakujejo nižje stroške. Nižje cene nafte so običajno pozitivne za potrošnike, saj znižujejo stroške goriva in s tem prispevajo k zmanjšanju inflacijskih pritiskov, kar bi lahko vplivalo na odločitve centralnih bank. Zgodovinsko gledano so se cene nafte vedno odzivale na geopolitične dogodke, pri čemer so hitre spremembe v dobavni verigi povzročale volatilnost. Vlagatelji naj spremljajo nadaljnje dogajanje v Perzijskem zalivu in morebitne izjave o proizvodnji nafte. Za slovenskega dolgoročnega vlagatelja to pomeni, da so nižje cene nafte lahko pozitivne za splošno gospodarsko rast in potrošnjo, vendar je treba biti previden pri naložbah v energetska podjetja, saj so ta izpostavljena visoki volatilnosti cen surovin.",
+      "povzetek": "Iran očitno krepi nadzor nad Hormuško ožino, kar povzroča zaskrbljenost na globalnih trgih in prispeva k rasti cen nafte. Ta strateško pomembna pomorska pot je ključna za svetovno oskrbo z nafto, saj skozi njo poteka velik del svetovnega pomorskega prometa nafte. Poročila kažejo, da Iran uveljavlja večji nadzor, kar bi lahko povzročilo motnje v dobavi. Posledično sta ceni WTI nafte zrasli za 2.00 % na 71.75 USD/sod, Brent nafte pa za 1.84 % na 75.23 USD/sod. Zaskrbljenost glede morebitnih prekinitev dobave je vplivala na trge, saj so vlagatelji ocenjevali tveganje. Ta poteza Irana je prišla v času, ko se regionalne napetosti stopnjujejo, kar dodatno prispeva k negotovosti.",
+      "analiza": "Hormuška ožina je eden najpomembnejših pomorskih prehodov za nafto na svetu, skozi katerega poteka približno petina svetovne nafte. Vsakršno zaostrovanje nadzora ali morebitne motnje v tem območju imajo takojšen in pomemben vpliv na globalne cene nafte. Poteza Irana, da okrepi svoj nadzor, se razume kot poskus uveljavljanja političnega vpliva in potencialno kot odgovor na širše geopolitične dogodke v regiji. Mehanizem vpliva je preprost: manjša verjetnost stabilne dobave pomeni višje cene zaradi povečane tveganosti in pričakovanega zmanjšanja ponudbe. Posledice so vidne v rasti cen WTI nafte za 2.00 % na 71.75 USD/sod in Brent nafte za 1.84 % na 75.23 USD/sod. To lahko vpliva na inflacijo in stroške poslovanja podjetij, kar bi lahko negativno vplivalo na delniške trge, medtem ko bi obveznice lahko postale privlačnejše kot varno zatočišče. V preteklosti so podobne napetosti v regiji, kot so iransko-iraška vojna ali incidenti z tankerji, vedno povzročile skoke cen nafte. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitične dogodke, saj imajo lahko neposreden vpliv na stroške energije in s tem na dobičkonosnost podjetij v različnih sektorjih, od transporta do proizvodnje. Nadaljnje stopnjevanje napetosti bi lahko povzročilo nadaljnje dvige cen nafte.",
       "vpliv": [
-        "WTI nafta padla na 69.70 USD/sod (-0.91 %)",
-        "Brent nafta padla na 73.09 USD/sod (-1.06 %)",
-        "Pritisk na delnice energetskih podjetij",
-        "Potencialno zmanjšanje inflacijskih pritiskov"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-06-25T07:34:55.000Z"
-    },
-    {
-      "naslov": "Micron beleži petnajstkratno rast dobička, kar spodbuja delnice umetne inteligence",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Proizvajalec čipov Micron je objavil petnajstkratno rast dobička, kar je močno spodbudilo globalne delnice umetne inteligence. Podjetje napoveduje trajno povpraševanje po računalniškem pomnilniku, kar je pozitivno vplivalo na njegove delnice in azijske trge. Ta rast poudarja močan trend v sektorju umetne inteligence, ki zahteva vedno večje količine visoko zmogljivega pomnilnika. Novica je prišla v času, ko se tehnološka podjetja, kot sta Tesla in Waymo, borijo za prevlado v dirki robotaksijev, medtem ko podjetja, kot je Anthropic, obtožujejo konkurente, kot je Alibaba, nezakonitega pridobivanja zmogljivosti AI.",
-      "analiza": "Ozadje Micronovega uspeha je eksponentna rast povpraševanja po rešitvah umetne inteligence, ki zahtevajo izjemno zmogljive pomnilniške čipe. Podjetja, ki so v ospredju razvoja AI, kot so proizvajalci grafičnih procesorjev in pomnilnika, so ključni akterji v tej tehnološki revoluciji. Novica je relevantna, ker potrjuje močan in trajen trend rasti v sektorju AI, ki se ne kaže le v programski opremi, temveč tudi v strojni opremi. Mehanizem vpliva je jasen: močni finančni rezultati vodilnega podjetja v sektorju pomnilnika za AI signalizirajo robustno povpraševanje in optimistične napovedi za celotno industrijo. To pozitivno vpliva na delnice tehnoloških podjetij, še posebej tistih, ki so vključena v verigo dobave AI. Nasdaq 100, ki je sicer danes padel za 0.43 %, bi bil brez takšnih novic verjetno še nižje, medtem ko je Nikkei 225 poskočil za 4.61 %, deloma tudi zaradi optimizma glede tehnološkega sektorja. Obveznice in surovine so manj neposredno prizadete, medtem ko lahko kriptovalute, ki so pogosto povezane s tehnološkim optimizmom, prav tako občutijo posreden pozitiven vpliv, kot kaže rast Bitcoina za 1.28 %. Vlagatelji naj spremljajo inovacije in konkurenco v sektorju AI, saj se bo boj za prevlado stopnjeval. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor umetne inteligence še vedno vir potencialnih priložnosti, vendar je ključno skrbno preučiti posamezna podjetja in njihovo pozicijo v hitro spreminjajočem se okolju.",
-      "vpliv": [
-        "Močna rast delnic proizvajalcev čipov in AI podjetij",
-        "Povečano povpraševanje po računalniškem pomnilniku",
-        "Optimizem na azijskih borzah (Nikkei 225 +4.61 %)",
-        "Potencialno pospeševanje inovacij v AI"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/9b739203-3274-43f1-b61e-c1905061d32a",
-      "objavljeno": "2026-06-25T04:54:50.000Z"
-    },
-    {
-      "naslov": "Skriti sprožilci inflacije PCE bi lahko prisilili Fed v dvig obrestnih mer",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Analitiki opozarjajo, da bi lahko skriti sprožilci inflacije cen osebne potrošnje (PCE) prisilili Federal Reserve v dvig obrestnih mer, kar bi šokiralo trg. Poročilo o vročem PCE indeksu bi namreč sprožilo strah Wall Streeta pred restriktivno politiko Feda. Inflacija je več kot le cene nafte, saj se v ozadju skrivajo drugi dejavniki, ki lahko vplivajo na splošno cenovno stabilnost. Ta opozorila so še posebej pomembna v luči trenutnih tržnih gibanj, kjer so se donosnosti 10-letnih ameriških državnih obveznic znižale za 2.03 % na 4.40 %.",
-      "analiza": "Inflacija PCE je ključni kazalnik, ki ga Federal Reserve uporablja za oceno cenovne stabilnosti in določanje monetarne politike. Ozadje te novice je stalna skrb centralnih bank po svetu glede inflacijskih pritiskov in njihovega vpliva na gospodarstvo. Novica je relevantna, ker poudarja, da kljub morebitnemu umirjanju cen surovin (kot je padec cen nafte), obstajajo drugi, manj očitni dejavniki, ki lahko poganjajo inflacijo. Mehanizem vpliva je, da višja inflacija PCE povečuje verjetnost, da bo Fed ohranil ali celo zaostril svojo monetarno politiko z dvigom obrestnih mer. To bi imelo večplastne posledice: za delnice bi pomenilo višje stroške zadolževanja za podjetja in manj privlačne donose v primerjavi z obveznicami, kar bi lahko povzročilo padec tečajev. Donosnosti obveznic, kot je 10-letna ameriška državna obveznica pri 4.40 %, bi se verjetno dvignile. Za valute bi višje obrestne mere v ZDA okrepile dolar, kar bi se odrazilo v valutnih parih, kot je EUR/USD, ki je danes pri 1.1361 (+0.00 %). Kriptovalute so prav tako občutljive na spremembe v monetarni politiki, saj višje obrestne mere zmanjšujejo apetit po tveganih naložbah. Vlagatelji naj pozorno spremljajo prihodnja poročila o inflaciji in izjave predstavnikov Feda. Za slovenskega dolgoročnega vlagatelja to pomeni, da je okolje višjih obrestnih mer lahko izziv za rast delniških trgov, hkrati pa ponuja boljše donose na obveznicah in depozitih, kar zahteva prilagoditev naložbene strategije.",
-      "vpliv": [
-        "Povečana verjetnost dviga obrestnih mer s strani Feda",
-        "Potencialni padec delniških trgov",
-        "Rast donosnosti obveznic (10Y US Treasury 4.40 %)",
-        "Krepitev ameriškega dolarja"
+        "WTI nafta +2.00 % (71.75 USD/sod)",
+        "Brent nafta +1.84 % (75.23 USD/sod)",
+        "Potencialni inflacijski pritiski",
+        "Povečana geopolitična tveganja"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-25T01:06:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/iran-tightens-its-grip-on-strait-of-hormuz-sending-oil-higher-f3bc53a1?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-25T16:22:00.000Z"
     },
     {
-      "naslov": "Trump označil verjetnega britanskega premierja Burnhama za 'izjemno liberalnega'",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Ameriški predsednik Donald Trump je prvič komentiral verjetnega prihodnjega britanskega premierja Andyja Burnhama, ga označil za 'izjemno liberalnega'. Ta izjava prihaja v času, ko se v Združenem kraljestvu krepi pritisk na Burnhama s strani sindikatov, kot sta Unite the Union in GMB, ki poskušajo preprečiti, da bi Ed Miliband postal finančni minister. Burnham se sooča tudi z izzivi glede davčne politike, saj poskuša zaščititi srednje zaslužne pred velikimi dvigi davkov. Kanclerka Reeves je medtem podprla Burnhama za premierja, kljub poročilom, da bi jo lahko degradiral.",
-      "analiza": "Ozadje te novice so prihajajoče politične spremembe v Združenem kraljestvu, kjer se pričakuje, da bo Andy Burnham prevzel vodenje vlade. Komentarji ameriškega predsednika Trumpa so pomembni, saj lahko vplivajo na prihodnje diplomatske in gospodarske odnose med ZDA in Združenim kraljestvom. Novica je relevantna, ker politična negotovost in morebitne spremembe v vladni politiki vedno vplivajo na finančne trge. Mehanizem vpliva je predvsem prek pričakovanj glede prihodnje gospodarske politike, davčnih reform in mednarodnih odnosov. Morebitna 'izjemno liberalna' politika bi lahko pomenila večjo vlogo države v gospodarstvu, potencialno višje davke za podjetja in bogatejše posameznike, kar bi lahko negativno vplivalo na delnice in investicije v Združenem kraljestvu. Po drugi strani pa bi lahko socialne politike in investicije v javne storitve spodbudile določene sektorje. Vlagatelji bodo pozorno spremljali sestavo prihodnje britanske vlade in njene prve politične poteze. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da politična nestabilnost v velikih gospodarstvih, kot je Združeno kraljestvo, lahko povzroči nihanja na globalnih trgih, zato je diverzifikacija portfelja ključna.",
-      "vpliv": [
-        "Povečana politična negotovost v Združenem kraljestvu",
-        "Potencialne spremembe v davčni in gospodarski politiki",
-        "Vpliv na britanske delniške trge in valuto (GBP)",
-        "Napetosti v odnosih med ZDA in Združenim kraljestvom"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/458bd1a7-cbb1-40cf-b5df-7e90ec767996",
-      "objavljeno": "2026-06-25T07:33:08.000Z"
-    },
-    {
-      "naslov": "Cenejše vstopnice za tematske parke in otroške obroke ob znižanju DDV",
-      "sektor": "Potrošniki",
+      "naslov": "Vrhovno sodišče ZDA omejilo tožbe glede herbicida Roundup",
+      "sektor": "Finance & Pravo",
       "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Vlada Združenega kraljestva bo znižala davek na dodano vrednost (DDV) z 20 % na 5 % za vrsto atrakcij in otroških obrokov, kar bo začelo veljati ob začetku šolskih počitnic. Ta ukrep naj bi prinesel cenejše vstopnice za tematske parke in ugodnejše otroške obroke. Znižanje DDV-ja je bilo pozdravljeno s strani podjetij v sektorju atrakcij in gostinstva po vsej državi, vključno s Surreyem. Namen ukrepa je spodbuditi domači turizem in potrošnjo v času poletnih počitnic, kar je pomembno za okrevanje gospodarstva.",
-      "analiza": "Ozadje te novice je prizadevanje britanske vlade za spodbujanje gospodarske rasti in potrošnje, še posebej v sektorjih, ki so bili prizadeti v preteklosti. Znižanje DDV-ja je klasičen fiskalni ukrep, namenjen neposrednemu zmanjšanju stroškov za potrošnike in povečanju povpraševanja. Novica je relevantna, ker neposredno vpliva na kupno moč prebivalstva in profitabilnost podjetij v določenih sektorjih. Mehanizem vpliva je, da nižji DDV zmanjša končno ceno storitev za potrošnike, kar jih spodbuja k večji porabi. Hkrati pa podjetjem omogoča, da ohranijo ali celo povečajo svoje marže, če se odločijo, da ne bodo v celoti prenesla znižanja na cene. To je pozitivno za delnice podjetij v sektorju zabave, turizma in gostinstva. Posredno lahko to vpliva tudi na širšo gospodarsko rast in zmanjšanje inflacijskih pritiskov, saj se poveča ponudba po nižjih cenah. Zgodovinsko so znižanja DDV-ja pogosto uporabljena kot orodje za oživitev gospodarstva v obdobjih šibke rasti. Vlagatelji naj spremljajo podatke o maloprodaji in turistični dejavnosti v Združenem kraljestvu. Za slovenskega dolgoročnega vlagatelja to pomeni, da so sektorji, ki so neposredno podprti z vladnimi ukrepi, lahko privlačni, vendar je treba oceniti dolgoročno vzdržnost teh spodbud in širši gospodarski kontekst.",
+      "intenziteta": 3,
+      "povzetek": "Ameriško vrhovno sodišče je omejilo obseg tožb, povezanih z domnevnimi rakotvornimi učinki herbicida Roundup, kar predstavlja pomembno zmago za podjetje. Več kot 100.000 tožnikov je vložilo tožbe na zveznih in državnih sodiščih v ZDA, češ da je herbicid Roundup povezan z rakom. Odločitev sodišča pomeni, da države ne morejo imeti drugačnih pravil glede opozorilnih nalepk, kot jih zahteva zvezna zakonodaja. Ta sodba zmanjšuje pravno tveganje za proizvajalca in ima širše implikacije za farmacevtsko in kemično industrijo. Delnice podjetja Bayer, ki je lastnik blagovne znamke Roundup, so po objavi odločitve poskočile.",
+      "analiza": "Odločitev Vrhovnega sodišča ZDA v primeru herbicida Roundup je ključnega pomena za podjetja, ki se soočajo z množičnimi tožbami zaradi domnevnih škodljivih učinkov svojih izdelkov. Pred to odločitvijo so se podjetja soočala z ogromnimi stroški pravnih postopkov in morebitnih odškodnin, kar je vplivalo na njihovo tržno vrednost in stabilnost. Ta sodba zmanjšuje pravno tveganje in negotovost, saj določa, da zvezni predpisi glede označevanja izdelkov prevladajo nad državnimi. To je neposredno pozitivno vplivalo na delnice Bayerja, ki so po objavi poskočile, saj se zmanjšujejo obveznosti, povezane s tožbami. Vpliv se ne omejuje le na Bayer, ampak se razširja na celotno farmacevtsko in kemično industrijo, saj postavlja precedens za prihodnje tožbe. Zgodovinsko gledano so podobne sodne odločitve, ki so omejile obseg tožb, pogosto povzročile rast delnic prizadetih podjetij. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati regulativna in pravna tveganja, saj lahko imajo velik vpliv na vrednost naložb v posamezna podjetja, še posebej v sektorjih, ki so izpostavljeni tožbam zaradi zdravja ali okolja. Zmanjšanje pravne negotovosti lahko izboljša dolgoročne obete podjetij v teh sektorjih.",
       "vpliv": [
-        "Spodbujanje domačega turizma in potrošnje v Združenem kraljestvu",
-        "Pozitiven vpliv na delnice podjetij v sektorju zabave in gostinstva",
-        "Zmanjšanje stroškov za potrošnike",
-        "Potencialno pospeševanje gospodarske rasti"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-06-25T06:58:55.000Z"
-    },
-    {
-      "naslov": "Rutte poskuša ublažiti razkol med Trumpom in Natom zaradi Irana pred vrhom",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Generalni sekretar Nata, Mark Rutte, je obiskal Belo hišo, da bi poskušal ublažiti napetosti med ameriškim predsednikom Donaldom Trumpom in Natom glede Irana, pred prihajajočim letnim vrhom Nata. Ta prizadevanja so ključna za ohranjanje enotnosti znotraj zavezništva, še posebej v luči nedavnega konflikta z Iranom in Trumpovih preteklih kritik na račun prispevkov članic Nata. Ruttejev obisk poudarja pomembnost diplomatskih prizadevanj za preprečevanje nadaljnjih razkolov znotraj ključnih mednarodnih zavezništev.",
-      "analiza": "Ozadje te novice so dolgotrajne napetosti med ZDA in nekaterimi evropskimi članicami Nata, predvsem glede delitve bremen in strateškega pristopa do globalnih varnostnih vprašanj, kot je Iran. Predsednik Trump je v preteklosti že večkrat kritiziral članice Nata zaradi nezadostnih izdatkov za obrambo. Novica je relevantna, ker stabilnost in enotnost Nata neposredno vplivata na globalno geopolitično stabilnost in s tem na finančne trge. Razkol znotraj Nata bi lahko povečal geopolitična tveganja, kar bi se odrazilo v večji volatilnosti na trgih. Mehanizem vpliva je, da diplomatska prizadevanja za ublažitev napetosti zmanjšujejo tveganje za večje konflikte in nestabilnost, kar je pozitivno za zaupanje vlagateljev. Vendar pa obstoj razkola sam po sebi kaže na obstoječe izzive. Morebitna nadaljnja zaostrovanja bi lahko povzročila beg v varna zatočišča, kot so zlato (ki je danes padlo za 0.48 % na 3989.40 USD/oz, kar kaže na trenutno umiritev tveganj) in državne obveznice. Zgodovinsko gledano so obdobja geopolitičnih napetosti pogosto povezana z višjimi cenami surovin in povečano volatilnostjo delniških trgov. Vlagatelji naj spremljajo izide prihajajočega vrha Nata in morebitne nadaljnje izjave o mednarodnih odnosih. Za slovenskega dolgoročnega vlagatelja to pomeni, da je geopolitična stabilnost ključna za predvidljivost trgov, zato je pomembno biti seznanjen z dogajanjem v mednarodni politiki, saj lahko to vpliva na globalne naložbene priložnosti in tveganja.",
-      "vpliv": [
-        "Zmanjšanje geopolitičnih tveganj ob diplomatskih prizadevanjih",
-        "Vpliv na zaupanje vlagateljev v globalno stabilnost",
-        "Potencialna nihanja na trgih ob morebitnih novih napetostih",
-        "Spremljanje izidov vrha Nata"
+        "Zmanjšanje pravnega tveganja za Bayer",
+        "Pozitiven vpliv na delnice Bayerja",
+        "Precedens za farmacevtsko in kemično industrijo",
+        "Zmanjšanje potencialnih odškodnin"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss",
-      "objavljeno": "2026-06-25T02:22:08.000Z"
+      "vir_url": "https://www.aljazeera.com/economy/2026/6/25/us-supreme-court-scales-back-roundup-cancer-lawsuits-in-victory-for-company?traffic_source=rss",
+      "objavljeno": "2026-06-25T17:15:33.000Z"
+    },
+    {
+      "naslov": "Apple povišal cene nekaterih izdelkov za skoraj 20 odstotkov",
+      "sektor": "Tehnologija & Potrošniki",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Apple je povišal cene nekaterih svojih izdelkov za skoraj 20 odstotkov, kar je pripisal 'brezprimernemu' povečanju cen komponent. Podjetje je izjavilo, da še nikoli ni doživelo tako hitrega in obsežnega dviga cen komponent. To povišanje cen bi lahko vplivalo na prodajo in povpraševanje potrošnikov po Applovih izdelkih, zlasti v trenutnem gospodarskem okolju. Hkrati pa odraža širše izzive v dobavnih verigah in inflacijske pritiske, s katerimi se sooča tehnološka industrija. Novica prihaja v času, ko delnice Micron Technology, proizvajalca pomnilniških čipov, poskakujejo zaradi dobrih rezultatov, kar kaže na visoko povpraševanje po komponentah.",
+      "analiza": "Povišanje cen s strani podjetja Apple, ki je eden največjih svetovnih proizvajalcev elektronike, je pomemben pokazatelj inflacijskih pritiskov v dobavnih verigah, še posebej v sektorju pomnilniških čipov. Apple je izrecno navedel 'brezprimerno' rast cen komponent, kar potrjuje poročila o močnem povpraševanju in omejeni ponudbi v industriji polprevodnikov. To povišanje cen lahko vpliva na potrošnike, saj se zmanjšuje njihova kupna moč, kar bi lahko vodilo do zmanjšanja prodaje Applovih izdelkov. Po drugi strani lahko povišanje cen pomaga Applu ohraniti marže kljub višjim stroškom, kar je pozitivno za prihodke podjetja, vendar negativno za obseg prodaje. Na delniških trgih bi to lahko povzročilo mešan odziv: delnice Appla bi lahko bile pod pritiskom zaradi morebitnega zmanjšanja povpraševanja, medtem ko bi proizvajalci komponent, kot je Micron Technology, lahko imeli koristi od višjih cen in povpraševanja, kar se odraža v njihovem skoku delnic. V preteklosti so podobna povišanja cen vplivala na konkurenčnost in tržni delež podjetij. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, kako inflacijski pritiski vplivajo na dobavne verige in končne cene izdelkov, saj to vpliva na dobičkonosnost podjetij v tehnološkem sektorju in na splošno potrošniško porabo. Spremljati je treba tudi odziv potrošnikov na višje cene in morebitne spremembe v konkurenčnem okolju.",
+      "vpliv": [
+        "Povečani stroški za potrošnike",
+        "Potencialno zmanjšanje prodaje Applovih izdelkov",
+        "Ohranjanje marž za Apple",
+        "Rast delnic proizvajalcev komponent (npr. Micron)"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-06-25T16:35:22.000Z"
+    },
+    {
+      "naslov": "Izraelska vojna povzroča nasprotni učinek, Zaliv podpira dogovor ZDA-Iran",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Vojna, ki naj bi izolirala Iran, je namesto tega poglobila pragmatizem zalivskih držav in okrepila podporo diplomaciji, kar se kaže v podpori dogovoru med ZDA in Iranom. Poročilo Al Jazeere navaja, da se je vojna Izraela obrnila proti njemu, saj so zalivske države, ki so bile tradicionalno previdne do Irana, zdaj pripravljene podpreti diplomatske rešitve. To nakazuje na pomemben premik v regionalni dinamiki in potencialno deeskalacijo napetosti. Podpora dogovoru ZDA-Iran bi lahko imela daljnosežne posledice za stabilnost Bližnjega vzhoda in globalne energetske trge. Ameriški predsednik Trump je bil pohvaljen za podpis memoranduma o soglasju z Iranom.",
+      "analiza": "Geopolitični premiki na Bližnjem vzhodu imajo vedno globalne posledice, še posebej za energetske trge. Ta novica nakazuje na morebitno deeskalacijo napetosti med ZDA in Iranom, kar bi lahko imelo stabilizacijski učinek na regijo. Predhodno so se zalivske države, vključno s Savdsko Arabijo, pogosto usklajevale z Izraelom proti Iranu, vendar se zdi, da se ta dinamika spreminja. Podpora dogovoru ZDA-Iran s strani zalivskih držav kaže na pragmatičen pristop, ki daje prednost regionalni stabilnosti pred neprekinjenim konfliktom. Mehanizem vpliva na finančne trge je večplasten: morebitna deeskalacija zmanjšuje geopolitično tveganje, kar je pozitivno za delniške trge in lahko zmanjša povpraševanje po varnih zatočiščih, kot je zlato. Cene nafte, ki so pogosto občutljive na bližnjevzhodne napetosti, bi se lahko stabilizirale ali celo padle, če se izboljšajo obeti za stabilno dobavo. V preteklosti so diplomatski preboji na Bližnjem vzhodu pogosto povzročili olajšanje na trgih in rast delnic. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati širše geopolitične trende, saj lahko vplivajo na globalno gospodarsko rast, cene surovin in s tem na donosnost različnih naložbenih razredov. Stabilnejši Bližnji vzhod bi lahko pomenil manj volatilnosti na trgih in bolj predvidljivo gospodarsko okolje.",
+      "vpliv": [
+        "Potencialna deeskalacija regionalnih napetosti",
+        "Stabilizacija cen nafte",
+        "Zmanjšanje povpraševanja po varnih zatočiščih",
+        "Pozitiven vpliv na globalno gospodarsko rast"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss",
+      "objavljeno": "2026-06-25T17:11:34.000Z"
+    },
+    {
+      "naslov": "Intenzivna konkurenca za Anthropic in OpenAI pred prvimi javnimi ponudbami",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Konkurenca v sektorju umetne inteligence se za podjetji Anthropic in OpenAI, ki se pripravljata na prve javne ponudbe (IPO), stopnjuje. Obnovljen izziv s strani odprtokodnih modelov povečuje pritisk na laboratorije za umetno inteligenco, da dokažejo svojo vrednost in konkurenčno prednost. To pomeni, da bosta morali podjetji jasno predstaviti svoje strategije za monetizacijo in dolgoročno rast, da bi privabili vlagatelje. Povečana konkurenca bi lahko vplivala na vrednotenja teh podjetij pred IPO. Trg umetne inteligence je izjemno dinamičen, z nenehnimi inovacijami in novimi akterji, ki vstopajo na sceno.",
+      "analiza": "Sektor umetne inteligence je trenutno eden najbolj vročih in hitro rastočih segmentov tehnološkega trga, kar se odraža v visokih vrednotenjih podjetij, kot sta Anthropic in OpenAI. Vendar pa se s hitro rastjo povečuje tudi konkurenca, zlasti s pojavom in izboljšanjem odprtokodnih modelov, ki ponujajo stroškovno učinkovitejše alternative. To predstavlja izziv za podjetja, ki se zanašajo na lastniške modele in visoke cene. Mehanizem vpliva na finančne trge je povezan z vrednotenjem: večja konkurenca lahko zmanjša pričakovane marže in tržni delež, kar posledično zniža ocenjeno vrednost podjetij pred IPO. To lahko pomeni manjše donose za zgodnje vlagatelje in bolj previdne ocene s strani analitikov. V preteklosti so se podobni scenariji odvijali v drugih hitro rastočih tehnoloških sektorjih, kjer so visoka začetna pričakovanja pogosto naletela na realnost intenzivne konkurence in zmanjšanih marž. Za slovenskega dolgoročnega vlagatelja je ključno, da razume tveganja, povezana z naložbami v hitro rastoče, a zelo konkurenčne sektorje, kot je umetna inteligenca. Visoka vrednotenja pred IPO zahtevajo temeljito analizo poslovnega modela, konkurenčne prednosti in dolgoročne strategije podjetja, saj se lahko obeti hitro spremenijo.",
+      "vpliv": [
+        "Potencialno nižja vrednotenja IPO za Anthropic in OpenAI",
+        "Povečan pritisk na marže v AI sektorju",
+        "Rast odprtokodnih AI rešitev",
+        "Povečana volatilnost v AI delnicah"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/8c02de04-5516-405b-941d-289e586d8eb8",
+      "objavljeno": "2026-06-25T16:48:50.000Z"
+    },
+    {
+      "naslov": "Amaterji spreminjajo delovanje borze, ustvarjajo priložnosti",
+      "sektor": "Makro & Finance",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Vzpon malih vlagateljev spreminja delovanje borznega trga, kar ustvarja nove priložnosti za tiste, ki vedo, kje iskati. Po mnenju kvantitativnega analitika pri Goldman Sachsu, porast malih vlagateljev zmanjšuje učinkovitost trga, problem pa še poslabšuje umetna inteligenca. To pomeni, da tradicionalne strategije morda niso več tako učinkovite, saj se tržne dinamike spreminjajo. Vlagatelji, ki so sposobni prepoznati te spremembe in izkoristiti neučinkovitosti, lahko najdejo nove priložnosti. Ta trend poudarja potrebo po prilagodljivosti in razumevanju novih dejavnikov, ki vplivajo na trg.",
+      "analiza": "Vzpon malih vlagateljev, pogosto imenovanih 'retail investors', je v zadnjih letih postal pomemben dejavnik na finančnih trgih, predvsem zaradi enostavnega dostopa do trgovalnih platform in družbenih medijev. Ta trend je povzročil, da trgi postajajo manj učinkoviti v smislu hitre in popolne vključitve vseh razpoložljivih informacij v cene delnic. Kvantitativni analitik pri Goldman Sachsu opozarja, da umetna inteligenca, ki jo uporabljajo tako institucionalni kot mali vlagatelji, še dodatno zapleta to dinamiko. Mehanizem vpliva je v tem, da se cene delnic lahko bolj odzivajo na čustva, trende na družbenih medijih in algoritemske strategije, namesto zgolj na temeljne finančne podatke podjetij. To ustvarja priložnosti za vlagatelje, ki so sposobni prepoznati in izkoristiti te neučinkovitosti. Posledice so lahko večja volatilnost na delniških trgih, saj se cene lahko hitreje in bolj dramatično premikajo. Za obveznice in valute je vpliv posreden, saj se lahko poveča splošna nepredvidljivost trga. Zgodovinsko gledano so obdobja povečanega sodelovanja malih vlagateljev pogosto sovpadala z večjo volatilnostjo in pojavom 'mehurčkov'. Za slovenskega dolgoročnega vlagatelja to pomeni, da je ključno razumeti, da se tržne dinamike spreminjajo. Pomembno je ohraniti dolgoročno perspektivo, se izogibati impulzivnim odločitvam, ki jih poganjajo kratkoročni trendi, in se osredotočiti na temeljne analize podjetij, kljub morebitnim kratkoročnim neučinkovitostim trga.",
+      "vpliv": [
+        "Povečana volatilnost na delniških trgih",
+        "Zmanjšana učinkovitost trga",
+        "Nove priložnosti za aktivne vlagatelje",
+        "Potreba po prilagodljivih naložbenih strategijah"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/amateur-investors-are-changing-how-the-stock-market-works-thats-creating-opportunities-for-those-who-know-where-to-look-34d78484?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-25T16:59:00.000Z"
+    },
+    {
+      "naslov": "JPMorgan Chase imenoval dva sopredsednika, Marianne Lake odhaja",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 1,
+      "povzetek": "JPMorgan Chase je imenoval Douga Petna in Troya Rohrbaugha za sopredsednika podjetja, medtem ko dolgoletna izvršna direktorica Marianne Lake odhaja. Te spremembe v vodstvu se zdijo kot poteza, ki Douga Petna in Troya Rohrbaugha postavlja v položaj najverjetnejših naslednikov izvršnega direktorja JPMorgan Chase Jamieja Dimona. Takšne kadrovske spremembe v vrhu velikih finančnih institucij so pomembne za dolgoročno strategijo in stabilnost podjetja. Odhod Marianne Lake, ki je bila pomembna figura v podjetju, prav tako pritegne pozornost analitikov in vlagateljev.",
+      "analiza": "Kadrovske spremembe na najvišjih položajih v velikih finančnih institucijah, kot je JPMorgan Chase, so vedno pomembne za vlagatelje, saj lahko vplivajo na prihodnjo smer in strategijo podjetja. Imenovanje dveh sopredsednikov, Douga Petna in Troya Rohrbaugha, kaže na skrbno načrtovanje nasledstva za sedanjega izvršnega direktorja Jamieja Dimona, ki je podjetje vodil skozi številna turbulentna obdobja. Odhod Marianne Lake, ki je bila ključna oseba v vodstvu, bo prav tako pozorno spremljan, čeprav je podjetje verjetno že pripravljeno na takšne prehode. Mehanizem vpliva na finančne trge je predvsem psihološki in strateški: stabilno in predvidljivo nasledstvo je pozitivno za delnice podjetja, saj zmanjšuje negotovost. Vendar pa lahko vsaka sprememba v vodstvu prinese tudi določeno stopnjo tveganja, če novi vodje ne uspejo ohraniti dosedanjega uspeha. V preteklosti so podobne spremembe v vodstvu vplivale na delnice bank, odvisno od percepcije novih vodij in njihove vizije. Za slovenskega dolgoročnega vlagatelja, ki ima naložbe v finančnem sektorju ali v globalne indekse, ki vključujejo JPMorgan Chase, je pomembno spremljati takšne novice. Stabilno in kompetentno vodstvo je ključno za dolgoročno uspešnost podjetja, zato je razumevanje teh sprememb pomembno za oceno tveganja in potencialnih donosov naložbe.",
+      "vpliv": [
+        "Priprava na nasledstvo izvršnega direktorja",
+        "Potencialna sprememba strateške smeri",
+        "Vpliv na stabilnost in percepcijo podjetja",
+        "Zmanjšanje negotovosti glede prihodnjega vodstva"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html",
+      "objavljeno": "2026-06-25T15:44:53.000Z"
+    },
+    {
+      "naslov": "Luksuzno trošenje se preusmerja k doživetjem in 'dednemu turizmu'",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 1,
+      "povzetek": "Luksuzno trošenje se vse bolj preusmerja od materialnih dobrin k doživetjem in tako imenovanemu 'dednemu turizmu'. Medtem ko naj bi prodaja luksuznih dobrin letos zrasla med 1 % in 4 %, naj bi doživetja zabeležila rast med 3 % in 7 %, kaže novo poročilo. Ta trend odraža spremenjene prioritete premožnejših potrošnikov, ki cenijo edinstvena potovanja, kulturne izkušnje in storitve pred fizičnimi izdelki. 'Dedni turizem' se nanaša na potovanja, ki so povezana z raziskovanjem družinske zgodovine in dediščine. Ta premik ima pomembne implikacije za luksuzno industrijo in podjetja, ki se ukvarjajo s turizmom in storitvami.",
+      "analiza": "Sprememba v vzorcih luksuznega trošenja, kjer se poudarek premika od materialnih dobrin k doživetjem in 'dednemu turizmu', je pomemben makroekonomski trend, ki odraža zrelost in spremenjene vrednote premožnejših potrošnikov. V preteklosti so bili luksuzni izdelki, kot so oblačila, nakit in avtomobili, glavni pokazatelj statusa, danes pa se vse bolj ceni zbiranje edinstvenih izkušenj. Mehanizem vpliva na finančne trge je v preusmeritvi kapitala: podjetja, ki ponujajo luksuzne storitve, potovanja, gostinstvo in personalizirana doživetja, lahko pričakujejo večjo rast in dobičkonosnost. Po drugi strani pa se lahko rast podjetij, ki se osredotočajo izključno na luksuzne dobrine, upočasni. To se odraža v pričakovani rasti prodaje luksuznih dobrin med 1 % in 4 % v primerjavi z rastjo doživetij med 3 % in 7 %. Zgodovinsko gledano so se potrošniški trendi spreminjali skozi čas, vendar je ta premik v smeri izkušenj dolgoročen in se je pospešil po pandemiji. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno prepoznati in se prilagoditi spreminjajočim se potrošniškim trendom. Naložbe v sektorje, ki so usmerjeni v storitve, turizem in edinstvena doživetja, bi lahko bile bolj donosne kot naložbe v tradicionalne proizvajalce luksuznih dobrin, čeprav je diverzifikacija vedno priporočljiva.",
+      "vpliv": [
+        "Večja rast sektorja luksuznih doživetij",
+        "Manjša rast sektorja luksuznih dobrin",
+        "Spremenjene naložbene priložnosti v luksuzni industriji",
+        "Poudarek na storitvah in turizmu"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/06/25/luxury-spending-now-driven-by-experiences-and-inheritourism.html",
+      "objavljeno": "2026-06-25T16:46:39.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-06-25T07:54:21.600Z",
+    "posodobljenoOb": "2026-06-25T17:31:25.271Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7358.22,
-        "sprememba_pct": -0.1
+        "vrednost": 7361.74,
+        "sprememba_pct": 0.05
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29220.057,
-        "sprememba_pct": -0.43
+        "vrednost": 29463.145,
+        "sprememba_pct": 0.83
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 24831.97,
-        "sprememba_pct": 0.37
+        "vrednost": 24994.83,
+        "sprememba_pct": 1.03
       },
       {
         "simbol": "^N225",
@@ -141,22 +175,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 3989.4,
-        "sprememba_pct": -0.48,
+        "vrednost": 4047.3,
+        "sprememba_pct": 0.96,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 69.7,
-        "sprememba_pct": -0.91,
+        "vrednost": 71.75,
+        "sprememba_pct": 2,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 73.09,
-        "sprememba_pct": -1.06,
+        "vrednost": 75.23,
+        "sprememba_pct": 1.84,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +198,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1361,
-        "sprememba_pct": 0
+        "vrednost": 1.1378,
+        "sprememba_pct": 0.15
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.402,
-        "sprememba_pct": -2.03,
+        "vrednost": 4.384,
+        "sprememba_pct": -0.41,
         "enota": "%"
       }
     ],
@@ -181,16 +215,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 61765.2,
-        "sprememba_pct": 1.28,
+        "vrednost": 59454,
+        "sprememba_pct": -2.51,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 18.02,
-      "sprememba_pct": -3.27
+      "vrednost": 18.84,
+      "sprememba_pct": -3.34
     }
   }
 }
