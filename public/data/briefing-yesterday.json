@@ -1,162 +1,179 @@
 {
-  "generiranoOb": "2026-06-25T17:59:54.615Z",
+  "generiranoOb": "2026-06-26T17:27:30.199Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-06-25",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, medtem ko so ameriški indeksi po dveh urah trgovanja kazali mešano, a večinoma pozitivno sliko. Nemški DAX je dan zaključil z rastjo za 1,03 % in se ustavil pri 24.995 točkah. V ZDA je širši indeks S&P 500 pridobil skromnih 0,06 % in dosegel 7.363 točk, medtem ko je tehnološko usmerjeni Nasdaq 100 zabeležil precej močnejšo rast, in sicer za 0,93 % na 29.491 točk. Cene nafte so se zvišale, saj je WTI nafta poskočila za 1,75 % na 71,57 USD/sod, Brent nafta pa za 1,60 % na 75,05 USD/sod, kar je bilo povezano z napetostmi v Hormuški ožini. Zlato je prav tako pridobilo na vrednosti (+0,93 % na 4046,20 USD/oz), medtem ko je Bitcoin padel za 2,31 % na 59.575 USD. Vlagatelji bodo v prihodnjih dneh pozorno spremljali objave inflacijskih podatkov in morebitne izjave centralnih bankirjev, ki bi lahko vplivale na monetarno politiko.",
+  "datum": "2026-06-26",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, pri čemer je nemški indeks DAX padel za -1.29 % na 24671 točk. Japonski Nikkei 225 je zabeležil še večji padec, in sicer za -4.15 % na 69361 točk. Ameriški trgi so po dveh urah trgovanja pokazali mešano sliko; indeks S&P 500 je bil pri 7367 točkah z rahlo rastjo +0.13 %, medtem ko je Nasdaq 100 padel za -0.51 % na 29289 točk. Cene nafte so se znižale, saj je WTI nafta padla za -3.96 % na 69.07 USD/sod, Brent nafta pa za -4.03 % na 72.46 USD/sod, kljub novicam o iranskem zaostrovanju v Hormuški ožini. Zlato je medtem pridobilo na vrednosti za +1.27 % in se giblje pri 4099.10 USD/oz, medtem ko je evro v primerjavi z dolarjem (EUR/USD) rahlo pridobil za +0.14 % na 1.1393. Donosnost 10-letne ameriške obveznice se je znižala za -0.46 % na 4.37 %, Bitcoin pa je zrasel za +0.58 % na 60052 USD. Danes so trge zaznamovale predvsem geopolitične napetosti, vprašanja o mednarodni trgovini in makroekonomski izzivi v Evropi.",
   "novice": [
     {
-      "naslov": "Iran zaostruje nadzor nad Hormuško ožino, cene nafte rastejo",
+      "naslov": "Iran zaostruje nadzor nad Hormuško ožino, kar dviguje cene nafte",
       "sektor": "Energetika",
-      "smer": "pozitivno",
+      "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Iran naj bi zaostril nadzor nad Hormuško ožino, kar je povzročilo dvig cen nafte na svetovnih trgih. Ta strateško pomembna pomorska pot je ključna za globalno dobavo nafte, saj skozi njo poteka velik del svetovnega pomorskega prometa z nafto. Poteza Irana je takoj sprožila zaskrbljenost glede morebitnih motenj v dobavni verigi, kar se je odrazilo v rasti cen. WTI nafta je danes poskočila za 1,75 % na 71,57 USD za sod, Brent nafta pa za 1,60 % na 75,05 USD za sod. Napetosti v regiji so se v zadnjem času stopnjevale, kar dodaja negotovost na že tako občutljive energetske trge. Države Zaliva so izrazile nasprotovanje morebitnim cestninam v Hormuški ožini, kar kaže na širšo regionalno nestabilnost. Ta razvoj dogodkov se dogaja v kontekstu širših geopolitičnih premikov, kjer nekatere zalivske države podpirajo dogovor med ZDA in Iranom, kljub nasprotovanju Izraela.",
-      "analiza": "Hormuška ožina je ena najpomembnejših pomorskih poti na svetu, skozi katero poteka približno petina svetovne porabe nafte. Vsakršna zaostritev nadzora ali motnja v tej ožini ima takojšen in pomemben vpliv na globalne cene nafte. Današnja novica o iranskem zaostrovanju nadzora je neposredno vplivala na rast cen WTI in Brent nafte, kar se sklada z dejanskimi podatki iz tržnega snapshota. To kaže na občutljivost trga na geopolitične napetosti, še posebej v regijah, ki so ključne za dobavo energentov. V preteklosti so podobni dogodki, kot so napadi na tankerje ali grožnje z zaporo ožine, vedno povzročili skoke cen nafte. Mehanizem vpliva je preprost: zmanjšana ponudba ali povečana negotovost glede prihodnje ponudbe dvigne cene. Posledice se kažejo v višjih stroških za podjetja in potrošnike, kar lahko vpliva na inflacijo in gospodarsko rast. Za delniške trge to pomeni pritisk na podjetja, ki so odvisna od nizkih cen energentov, medtem ko lahko koristi energetskim podjetjem. Obvezniški trgi lahko reagirajo z zmanjšanjem povpraševanja po dolgoročnih obveznicah zaradi inflacijskih pričakovanj. Slovenski dolgoročni vlagatelj mora biti pozoren na tovrstne geopolitične dejavnike, saj lahko vplivajo na globalno gospodarsko stabilnost in donosnost naložb v energetska podjetja ali podjetja, ki so močno odvisna od cen nafte. Spremljati je treba nadaljnji razvoj dogodkov v regiji in morebitne diplomatske rešitve.",
+      "povzetek": "Iran je po poročanju MarketWatcha zaostril svoj nadzor nad Hormuško ožino, ključno pomorsko potjo za prevoz nafte. Ta poteza je sprožila zaskrbljenost na trgih in povzročila dvig cen nafte, saj Iran očitno uveljavlja nadzor nad tem strateškim plovnim kanalom. Novica navaja, da so tveganja za nove naftne šoke visoka, saj Iran vztraja, da morajo vse ladje skozi ožino z njegovim dovoljenjem. To je v nasprotju z mednarodnim pravom, ki zagotavlja prost prehod. Združeni narodi so celo prekinili načrte za evakuacijo mornarjev iz ožine, potem ko je tovorno plovilo blizu Omana zadelo izstrelek. Teheran je prav tako zavrnil pritisk ZDA in GCC glede raket, Hormuške ožine in regionalnih oboroženih skupin, kar kaže na zaostritev retorike.",
+      "analiza": "Hormuška ožina je ključna točka za globalno oskrbo z nafto, saj skozi njo poteka približno petina svetovne porabe nafte. Zaostrovanje nadzora Irana nad ožino, ki je bilo objavljeno ob 16:35 po UTC, predstavlja resno geopolitično tveganje. Čeprav so cene nafte WTI in Brent danes kljub tej novici padle za -3.96 % na 69.07 USD/sod oziroma za -4.03 % na 72.46 USD/sod, kar kaže na prevladujoče druge tržne sile (morda zaskrbljenost glede povpraševanja ali presežne ponudbe), je dolgoročni vpliv iranskih dejanj lahko izjemno negativen. Zgodovinsko gledano so napetosti v regiji vedno povzročile skoke cen nafte, saj vsaka grožnja prekinitve dobave sproži paniko med trgovci. Mehanizem vpliva je direkten: zmanjšana dobava ali povečana negotovost glede dobave dvigne cene. To bi lahko vplivalo na globalno inflacijo, saj višje cene energentov povečajo stroške transporta in proizvodnje. Za delniške trge bi to pomenilo pritisk na podjetja, ki so odvisna od nizkih cen energentov, medtem ko bi energetska podjetja lahko imela koristi. Obveznice bi lahko doživele razprodajo zaradi inflacijskih pričakovanj, valute držav, ki so neto uvoznice nafte, pa bi lahko oslabela. Slovenski dolgoročni vlagatelj bi moral biti pozoren na morebitno rast inflacije in s tem povezane odzive centralnih bank, kar bi lahko vplivalo na obrestne mere in vrednotenje podjetij.",
       "vpliv": [
-        "WTI nafta +1,75 % na 71,57 USD/sod",
-        "Brent nafta +1,60 % na 75,05 USD/sod",
-        "Povečana geopolitična negotovost",
-        "Potencialni inflacijski pritiski"
+        "Povečana geopolitična tveganja v regiji",
+        "Potencialni dvig cen nafte v prihodnosti",
+        "Vpliv na globalno inflacijo in obrestne mere",
+        "Negativni pritisk na podjetja, odvisna od energentov"
       ],
       "vir": "MarketWatch",
       "vir_url": "https://www.marketwatch.com/story/iran-tightens-its-grip-on-strait-of-hormuz-sending-oil-higher-f3bc53a1?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-25T17:30:00.000Z"
+      "objavljeno": "2026-06-26T16:35:00.000Z"
     },
     {
-      "naslov": "Micron beleži skok delnic po močnih rezultatih, Apple dviguje cene",
+      "naslov": "Trump grozi s 100-odstotnimi carinami državam z davkom na digitalne storitve",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Bivši ameriški predsednik Donald Trump je opozoril na možnost uvedbe 100-odstotnih carin za države, ki implementirajo davke na digitalne storitve. Po poročanju Financial Timesa, objavljenem ob 16:51 UTC, je Trump izjavil, da bi takšna dajatev preglasila vse trgovinske sporazume, ki jih ima Washington z drugimi prestolnicami. To pomeni, da bi ZDA lahko enostransko uvedle visoke carine ne glede na obstoječe trgovinske pakte. Ta grožnja prihaja v času, ko številne države, predvsem v Evropi, razmišljajo ali so že uvedle davke na digitalne storitve, ki ciljajo na dobičke velikih tehnoloških podjetij, kot so Google, Amazon in Facebook, ki imajo sedež v ZDA.",
+      "analiza": "Grožnja s 100-odstotnimi carinami s strani Donalda Trumpa, če bi bil ponovno izvoljen, predstavlja resno tveganje za mednarodno trgovino in globalizacijo. Davki na digitalne storitve so bili vir napetosti med ZDA in evropskimi državami že v preteklosti, saj ZDA menijo, da so ti davki diskriminatorni do ameriških podjetij. Mehanizem vpliva je direkten: uvedba carin bi povečala stroške za podjetja, ki poslujejo čezmejno, in bi lahko sprožila povračilne ukrepe s strani prizadetih držav. To bi lahko vodilo v trgovinsko vojno, ki bi negativno vplivala na globalno gospodarsko rast. Za delniške trge bi to pomenilo pritisk na tehnološka podjetja, ki bi se soočala z višjimi davki in carinami, ter na podjetja, ki so močno vpletena v mednarodne dobavne verige. Valute držav, ki bi bile tarča carin, bi lahko oslabela, medtem ko bi se vlagatelji umikali v varnejša sredstva. Zgodovinsko gledano so trgovinske vojne vedno povzročile negotovost in zmanjšanje investicij. Slovenski dolgoročni vlagatelj bi moral biti pozoren na morebitno zaostrovanje trgovinskih odnosov, kar bi lahko vplivalo na globalne dobavne verige in dobičkonosnost izvozno usmerjenih slovenskih podjetij.",
+      "vpliv": [
+        "Povečana negotovost v mednarodni trgovini",
+        "Potencialne trgovinske vojne in povračilni ukrepi",
+        "Negativen vpliv na globalno gospodarsko rast",
+        "Pritisk na tehnološka podjetja in izvoznike"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e",
+      "objavljeno": "2026-06-26T16:51:14.000Z"
+    },
+    {
+      "naslov": "Množična odpuščanja pri Volkswagnu kot poziv k ukrepanju EU",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Volkswagen je napovedal množična odpuščanja, kar je po mnenju Financial Timesa (objavljeno ob 15:31 UTC) 'poziv k ukrepanju za spečo EU'. Ta poteza nemškega avtomobilskega proizvajalca bo povečala pritisk na evropske oblikovalce politik, da uvedejo omejitve in trgovinske ovire za Kitajsko. Odpuščanja so odraz strukturnih sprememb v avtomobilski industriji, ki se sooča z močno konkurenco, predvsem s strani kitajskih proizvajalcev električnih vozil. Evropska unija se že nekaj časa spopada z vprašanjem, kako zaščititi svojo industrijo pred poceni uvozom in hkrati ohraniti odprto gospodarstvo.",
+      "analiza": "Množična odpuščanja pri Volkswagnu so pomemben signal o izzivih, s katerimi se sooča evropska industrija, zlasti avtomobilska. To ni le problem enega podjetja, temveč odraz širših makroekonomskih trendov, kot so močna kitajska konkurenca, prehod na električna vozila in potreba po prestrukturiranju proizvodnje. Padec indeksa DAX za -1.29 % na 24671 točk je lahko deloma povezan tudi s tovrstnimi novicami, saj nemška industrija predstavlja pomemben del indeksa. Mehanizem vpliva je večplasten: odpuščanja zmanjšujejo kupno moč in zaupanje potrošnikov, kar lahko vpliva na celotno gospodarstvo. Prav tako povečujejo pritisk na EU, da sprejme protekcionistične ukrepe, kar bi lahko vodilo v trgovinske spore. Za delniške trge to pomeni negativen pritisk na avtomobilski sektor in povezana podjetja, medtem ko bi se vlagatelji lahko umikali iz evropskih delnic. Obveznice bi lahko doživele povečano povpraševanje kot varno zatočišče, če bi se gospodarska negotovost povečala. Slovenski dolgoročni vlagatelj bi moral biti pozoren na zdravje evropske industrije in morebitne trgovinske napetosti, saj lahko to vpliva na rast in stabilnost regije, v katero je slovensko gospodarstvo močno vpeto.",
+      "vpliv": [
+        "Povečan pritisk na evropsko avtomobilsko industrijo",
+        "Možnost protekcionističnih ukrepov EU proti Kitajski",
+        "Negativen vpliv na zaupanje potrošnikov in gospodarsko rast",
+        "Pritisk na delnice evropskih industrijskih podjetij"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/ccea8285-11f9-45c0-b642-1efe9ef0c1da",
+      "objavljeno": "2026-06-26T15:31:41.000Z"
+    },
+    {
+      "naslov": "Micron si prizadeva prebiti desetletja dolg cikel tveganj",
       "sektor": "Tehnologija & AI",
       "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Delnice podjetja Micron Technology so poskočile po objavi izjemnih poslovnih rezultatov, kar je sprožilo pretrese na Wall Streetu, še posebej v tehnološkem sektorju. Uspeh Microna, ki je ključni proizvajalec pomnilniških čipov, kaže na močno povpraševanje v industriji, verjetno pogojeno z rastjo umetne inteligence. Hkrati pa je Apple, eden največjih odjemalcev pomnilniških komponent, napovedal dvig cen nekaterih svojih izdelkov za skoraj 20 %. Podjetje je kot razlog navedlo 'brezprimerno' in hitro rast cen komponent, kar neposredno kaže na vpliv podražitev, kot so tiste pri pomnilniških čipih. To poudarja pritisk na marže proizvajalcev elektronike in potencialno vpliva na potrošnike. Nasdaq 100 je danes kljub temu pridobil 0,93 %, kar kaže na splošno optimistično razpoloženje v tehnološkem sektorju.",
-      "analiza": "Uspeh podjetja Micron Technology in posledičen skok njegovih delnic je odraz močnega povpraševanja po pomnilniških čipih, ki so ključni za delovanje sodobne tehnologije, še posebej na področju umetne inteligence in podatkovnih centrov. Ta trend nakazuje na robustno rast v sektorju polprevodnikov. Vendar pa ima ta rast tudi svojo ceno, kar se odraža v odločitvi Appla, da dvigne cene svojih izdelkov. Apple je izjavil, da 'nikoli ni videl tako velikega in hitrega dviga cen komponent', kar je pomembna izjava enega največjih globalnih kupcev. To kaže na inflacijske pritiske v dobavnih verigah, ki se prenašajo na končne potrošnike. Za delniške trge to pomeni, da imajo podjetja, ki so v zgodnejših fazah dobavne verige (kot je Micron), potencial za visoke dobičke, medtem ko se podjetja, ki so bližje končnemu potrošniku (kot je Apple), soočajo z izzivom ohranjanja marž in privabljanja kupcev kljub višjim cenam. Rast Nasdaq 100 indeksa za 0,93 % kaže, da trg še vedno verjame v dolgoročno rast tehnološkega sektorja, kljub nekaterim kratkoročnim izzivom. Slovenski dolgoročni vlagatelj bi moral biti pozoren na dinamiko dobavnih verig v tehnološkem sektorju, saj lahko vpliva na donosnost tako proizvajalcev komponent kot tudi končnih izdelkov. Pomembno je spremljati, kako se podjetja spopadajo z inflacijskimi pritiski in ali so sposobna prenesti višje stroške na potrošnike, ne da bi to bistveno vplivalo na povpraševanje.",
-      "vpliv": [
-        "Skok delnic Micron Technology (specifična vrednost ni podana)",
-        "Apple dviguje cene izdelkov za skoraj 20 %",
-        "Nasdaq 100 +0,93 % na 29.491 točk",
-        "Inflacijski pritiski v tehnološki dobavni verigi"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/b3ad976b-9967-4952-92ff-822a8e253fb1",
-      "objavljeno": "2026-06-25T15:06:22.000Z"
-    },
-    {
-      "naslov": "Vrhovno sodišče ZDA omejuje tožbe Roundup, delnice Bayerja poskočile",
-      "sektor": "Finance",
-      "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Vrhovno sodišče ZDA je sprejelo odločitev, ki omejuje obseg tožb proti podjetju, povezanih z domnevnimi rakotvornimi učinki herbicida Roundup. Ta odločitev predstavlja pomembno zmago za podjetje Bayer, ki je lastnik Monsanta, proizvajalca Roundupa. Sodišče je odločilo, da zvezne države ne morejo imeti drugačnih pravil glede opozorilnih nalepk, kot jih zahteva zvezna zakonodaja, kar je ključno za obrambo podjetja. Več kot 100.000 tožnikov je vložilo tožbe na zveznih in državnih sodiščih v ZDA, češ da je Roundup povzročil raka. Po objavi novice so delnice Bayerja poskočile, kar kaže na pozitivno reakcijo trga na zmanjšanje pravnih tveganj in potencialnih finančnih obveznosti podjetja.",
-      "analiza": "Pravni spori okoli herbicida Roundup so v zadnjih letih predstavljali veliko finančno in ugledno breme za Bayer, ki je Monsanto prevzel leta 2018. Odločitev Vrhovnega sodišča ZDA, da omeji tožbe, je pomemben preobrat, saj zmanjšuje tveganje za nadaljnje milijardne odškodnine in pravne stroške. To je neposredno vplivalo na delnice Bayerja, ki so po objavi novice poskočile, saj so vlagatelji optimistični glede zmanjšanja negotovosti. Mehanizem vpliva je jasen: zmanjšanje pravnih tveganj izboljša finančne obete podjetja, kar se odraža v višji vrednosti delnic. To lahko vpliva tudi na širši sektor kemične in farmacevtske industrije, saj postavlja precedens glede odgovornosti za izdelke. V preteklosti so podobne sodne odločitve, ki so razbremenile podjetja velikih pravnih bremen, pogosto povzročile znatno rast delnic. Za obvezniške trge to pomeni zmanjšanje kreditnega tveganja podjetja, kar lahko izboljša pogoje zadolževanja. Slovenski dolgoročni vlagatelj bi moral razumeti, da so pravna tveganja pomemben dejavnik pri vrednotenju podjetij, še posebej v sektorjih, kot so farmacija, kemija in biotehnologija. Spremljanje takšnih sodnih odločitev je ključno za oceno dolgoročne stabilnosti in potenciala naložb.",
+      "povzetek": "Podjetje Micron Technology si prizadeva prebiti cikel tveganj, ki je vlagatelje strašil desetletja, poroča MarketWatch (objavljeno ob 16:47 UTC). Članek razpravlja o strategijah, ki jih Micron uporablja za stabilizacijo svojega poslovanja v industriji polprevodnikov, ki je znana po cikličnosti in visoki volatilnosti. Industrija spominskih čipov je zgodovinsko podvržena hitrim spremembam v povpraševanju in ponudbi, kar povzroča velike nihanja v dobičkonosnosti podjetij. Micron, kot eden vodilnih igralcev, išče načine za zmanjšanje te negotovosti in privabljanje dolgoročnih vlagateljev.",
+      "analiza": "Industrija polprevodnikov, v kateri deluje Micron, je ključnega pomena za globalno tehnološko krajino, saj čipi poganjajo vse od pametnih telefonov do podatkovnih centrov in umetne inteligence. Njena cikličnost, ki jo zaznamujejo obdobja prekomerne ponudbe in pomanjkanja, je v preteklosti povzročala velike nihanja v cenah delnic in dobičkih podjetij. Prizadevanja Microna za preboj iz tega cikla so relevantna, saj bi stabilizacija lahko prinesla večjo predvidljivost in privlačnost za vlagatelje. Mehanizem vpliva je, da uspešna strategija Microna lahko služi kot model za celotno industrijo, kar bi lahko zmanjšalo splošno volatilnost v tehnološkem sektorju. Za delniške trge bi to pomenilo potencialno bolj stabilno rast tehnoloških delnic, zlasti tistih v sektorju polprevodnikov. Vendar pa je Nasdaq 100 danes padel za -0.51 %, kar kaže na splošno previdnost v tehnološkem sektorju. Dolgoročno bi stabilnejša industrija lahko pritegnila več kapitala. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da je tehnološki sektor, kljub svoji rasti, še vedno podvržen tveganjem. Spremljanje podjetij, kot je Micron, in njihovih strategij za obvladovanje cikličnosti, lahko ponudi vpogled v širše trende in potencialne priložnosti v tehnološkem portfelju.",
       "vpliv": [
-        "Skok delnic Bayerja (specifična vrednost ni podana)",
-        "Zmanjšanje pravnih tveganj za Bayer",
-        "Potencialno izboljšanje kreditne sposobnosti podjetja",
-        "Precedens za industrijo"
+        "Potencialna stabilizacija industrije polprevodnikov",
+        "Zmanjšanje volatilnosti v tehnološkem sektorju",
+        "Vpliv na vrednotenje delnic tehnoloških podjetij",
+        "Povečana privlačnost za dolgoročne vlagatelje v tehnologiji"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/bayers-stock-jumps-after-supreme-court-sides-with-roundup-weedkiller-manufacturer-a747f253?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-25T15:31:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/how-micron-aims-to-break-through-the-risk-cycle-that-has-spooked-investors-for-decades-f307e7df?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-26T16:47:00.000Z"
     },
     {
-      "naslov": "Burnham načrtuje nov oddelek za decentralizacijo v Manchestru",
+      "naslov": "Slabosti ustvarjanja 13 bilijonov dolarjev dobička v ameriških delnicah",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Članek v Financial Timesu (objavljen ob 16:00 UTC) opozarja na 'slabosti ustvarjanja 13 bilijonov dolarjev dobička' z vlaganjem v ameriške delnice. Poudarja, da je stavek na ameriški kapital prinesel izjemne dobičke za preostali svet, vendar je zdaj ta svet veliko bolj izpostavljen morebitnemu tržnemu zlomu. To pomeni, da so globalni vlagatelji močno pretehtani v ameriških delnicah, kar ustvarja koncentracijsko tveganje. V primeru korekcije ali padca ameriškega trga bi bile posledice za globalne portfelje lahko znatne.",
+      "analiza": "Fenomen, ko so globalni vlagatelji v zadnjih letih ustvarili ogromne dobičke z vlaganjem v ameriške delnice, je privedel do visoke koncentracije kapitala v ZDA. To je posledica močnega dolarja, inovativnosti ameriških podjetij in relativne stabilnosti ameriškega gospodarstva. Vendar pa ta prekomerna izpostavljenost ustvarja sistemsko tveganje. Mehanizem vpliva je, da v primeru večje korekcije na ameriškem delniškem trgu, ki bi jo lahko sprožil na primer padec Nasdaq 100 (-0.51 % danes) ali S&P 500 (+0.13 % danes), bi se šok hitro prenesel na globalne trge. To bi vplivalo na delnice po vsem svetu, saj bi vlagatelji prodajali tudi druge delnice, da bi pokrili izgube ali zmanjšali tveganje. Obveznice bi lahko služile kot varno zatočišče, kar bi povečalo njihove cene in znižalo donosnosti. Valute držav, ki so močno izpostavljene ameriškemu trgu, bi lahko oslabela. Zgodovinsko gledano so finančne krize, ki so se začele v eni regiji, hitro postale globalne zaradi medsebojne povezanosti trgov. Slovenski dolgoročni vlagatelj, ki ima v svojem portfelju globalno razpršene sklade, bi moral biti seznanjen s to koncentracijo in razumeti, da so globalni portfelji močno odvisni od uspešnosti ameriškega trga, kar pomeni, da je diverzifikacija ključna, a ne vedno zadostna za popolno zaščito pred sistemskimi tveganji.",
+      "vpliv": [
+        "Povečana izpostavljenost globalnih portfeljev ameriškemu trgu",
+        "Sistemsko tveganje v primeru padca ameriških delnic",
+        "Potencialni globalni prenos šokov na delniške trge",
+        "Povečano povpraševanje po varnih zatočiščih"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/f37904c9-be75-479d-9fab-8c93b6480ec0",
+      "objavljeno": "2026-06-26T16:00:03.000Z"
+    },
+    {
+      "naslov": "Predlog zakona o omejitvi letnih stroškov Medicare na 5.000 dolarjev",
       "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Andy Burnham, verjetni prihodnji predsednik vlade Združenega kraljestva, načrtuje ustanovitev novega 'oddela za decentralizacijo' v Manchestru. Ta poteza je zamišljena kot najboljši način za podelitev večje moči lokalnim skupnostim nad njihovimi gospodarstvi, delovno silo in infrastrukturo. Cilj je okrepiti regionalni razvoj in zmanjšati centralizacijo moči v Londonu. Novica prihaja v času, ko se v Združenem kraljestvu razpravlja tudi o morebitnih imenovanjih v vladi, saj vodja največjega sindikata Unison podpira Eda Milibanda za finančnega ministra. Ta politični razvoj kaže na premike v gospodarski politiki, ki bi lahko prinesli večjo avtonomijo in investicije v regije izven prestolnice.",
-      "analiza": "Načrti za decentralizacijo v Združenem kraljestvu so del širšega trenda, ki si prizadeva za bolj uravnotežen regionalni razvoj in zmanjšanje gospodarskih razlik med regijami. Ustanovitev novega oddelka v Manchestru, ki bi lokalnim skupnostim podelil večjo moč, bi lahko dolgoročno spodbudila lokalna gospodarstva, ustvarila nova delovna mesta in izboljšala infrastrukturo izven Londona. To bi lahko privedlo do povečanih investicij v regije in bolj razpršene gospodarske rasti. V preteklosti so podobne politike v drugih državah pokazale, da lahko decentralizacija spodbuja inovacije in prilagajanje lokalnim potrebam. Za finančne trge to pomeni potencialne priložnosti za investicije v regionalna podjetja in projekte, ki bi imeli koristi od povečane lokalne avtonomije in financiranja. Hkrati pa lahko takšne spremembe prinesejo tudi negotovost glede obsega in hitrosti izvajanja reform. Slovenski dolgoročni vlagatelj, ki spremlja britanski trg, bi moral biti pozoren na to, kako se bodo te politike dejansko izvajale in kakšen bo njihov vpliv na različne sektorje gospodarstva, še posebej na tiste, ki so tradicionalno koncentrirani v določenih regijah.",
-      "vpliv": [
-        "Potencialna spodbuda za regionalni razvoj Združenega kraljestva",
-        "Povečane investicije izven Londona",
-        "Spremembe v gospodarski politiki Združenega kraljestva",
-        "Negotovost glede izvajanja reform"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/2b5d366c-f18e-4286-8302-5b1e8ec68e21",
-      "objavljeno": "2026-06-25T17:30:22.000Z"
-    },
-    {
-      "naslov": "Luksuzna potrošnja se preusmerja k doživetjem in 'dediščinskemu turizmu'",
-      "sektor": "Potrošniki",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Najnovejše poročilo kaže, da se luksuzna potrošnja vse bolj osredotoča na doživetja in tako imenovani 'dediščinski turizem', namesto na klasične luksuzne izdelke. Medtem ko naj bi prodaja luksuznih dobrin letos zrasla med 1 % in 4 %, se pričakuje, da bodo doživetja, kot so potovanja, vrhunske restavracije in kulturne izkušnje, zabeležila rast med 3 % in 7 %. Ta sprememba v preferencah potrošnikov poudarja premik od materialnega k nematerialnemu, kjer so izkušnje in ustvarjanje spominov postali pomembnejši od posedovanja predmetov. 'Dediščinski turizem' se nanaša na potovanja, ki vključujejo obisk zgodovinskih in kulturnih znamenitosti, kar prav tako spada v kategorijo doživetij. Ta trend ima pomembne implikacije za podjetja v luksuznem sektorju, ki se morajo prilagoditi novim zahtevam potrošnikov.",
-      "analiza": "Sprememba v luksuzni potrošnji, kjer doživetja prekašajo izdelke, odraža širši družbeni trend, kjer se mlajše generacije in premožni posamezniki vse bolj osredotočajo na kakovost življenja in osebno rast. Ta premik ni nov, vendar se zdaj pospešuje in postaja dominanten v luksuznem segmentu. Za podjetja, ki proizvajajo luksuzne dobrine, to pomeni, da morajo preoblikovati svoje strategije, morda z vlaganjem v storitve ali partnerstva s ponudniki doživetij. Po drugi strani pa to odpira ogromne priložnosti za sektorje, kot so turizem, gostinstvo, zabava in kultura, ki ponujajo edinstvena doživetja. Vpliv na delniške trge bo različen: podjetja, ki se hitro prilagodijo in ponudijo inovativne storitve na področju doživetij, bodo verjetno uspešna, medtem ko se bodo tradicionalni proizvajalci luksuznih izdelkov morda soočali z izzivi. Ta trend lahko vpliva tudi na valute, saj lahko povečano povpraševanje po turističnih storitvah v določenih regijah okrepi lokalne valute. Slovenski dolgoročni vlagatelj naj bo pozoren na podjetja, ki so dobro pozicionirana v sektorju luksuznih doživetij, kot so hotelske verige, potovalne agencije, organizatorji vrhunskih dogodkov ali podjetja, ki ponujajo edinstvene kulturne in zgodovinske izkušnje. Razumevanje teh sprememb v potrošniških navadah je ključno za prepoznavanje prihodnjih naložbenih priložnosti.",
+      "povzetek": "Nov predlog zakona v ZDA bi omejil letne stroške za upravičence do Medicare na 5.000 dolarjev, kar bi lahko vlado stalo 'desetine milijard' dolarjev, poroča MarketWatch (objavljeno ob 16:28 UTC). Ta predlog, čeprav z majhnimi možnostmi za sprejetje, bi zagotovil določeno zaščito pred stroški za vse ljudi z Medicare. Trenutno so stroški zdravstvenega varstva v ZDA visoki in pogosto nepredvidljivi, kar predstavlja veliko finančno breme za starejše in bolne. Omejitev bi pomembno vplivala na proračun in delovanje zdravstvenega sektorja.",
+      "analiza": "Zdravstveno varstvo je pomemben del ameriškega gospodarstva in vladnega proračuna. Predlog zakona o omejitvi stroškov Medicare na 5.000 dolarjev letno, čeprav je označen kot 'long-shot', poudarja nenehne razprave o dostopnosti in stroških zdravstvenega varstva v ZDA. Mehanizem vpliva je direkten: če bi bil sprejet, bi ta zakon zmanjšal finančno breme za milijone upravičencev do Medicare, kar bi lahko povečalo njihovo razpoložljivo dohodke in s tem potrošnjo. Po drugi strani pa bi to pomenilo znatno povečanje izdatkov za zvezno vlado, kar bi lahko vplivalo na proračunski primanjkljaj in nacionalni dolg. Za delniške trge bi to lahko imelo mešane posledice: farmacevtska podjetja in ponudniki zdravstvenih storitev bi se lahko soočili z omejitvami pri cenah, medtem ko bi podjetja, ki proizvajajo potrošniško blago, lahko imela koristi od povečane potrošnje. Obveznice bi lahko doživele pritisk zaradi povečanega vladnega zadolževanja. Slovenski dolgoročni vlagatelj, ki spremlja globalne trende, bi moral biti pozoren na razvoj zdravstvene politike v ZDA, saj ima ta sektor velik vpliv na borzne indekse in lahko vpliva na globalno gospodarsko stabilnost, posredno tudi na vrednotenje podjetij v portfelju.",
       "vpliv": [
-        "Rast luksuznih doživetij med 3 % in 7 %",
-        "Rast prodaje luksuznih dobrin med 1 % in 4 %",
-        "Preusmeritev investicij v turizem in gostinstvo",
-        "Potencialni vpliv na valute turističnih destinacij"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/06/25/luxury-spending-now-driven-by-experiences-and-inheritourism.html",
-      "objavljeno": "2026-06-25T16:46:39.000Z"
-    },
-    {
-      "naslov": "Amaterji spreminjajo delovanje borze, ustvarjajo nove priložnosti",
-      "sektor": "Finance",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Vzpon malih vlagateljev, pogosto imenovanih 'amaterski vlagatelji', spreminja delovanje borznega trga in ustvarja nove priložnosti za tiste, ki vedo, kje iskati. Po mnenju kvantitativnega analitika pri Goldman Sachsu, porast malih vlagateljev zmanjšuje učinkovitost trga, problem pa še dodatno zapletajo algoritmi umetne inteligence. To pomeni, da trg ni več tako predvidljiv in racionalen, kot je bil v preteklosti, kar odpira prostor za drugačne strategije. Novica tudi poudarja, da so preveč opevane začetne javne ponudbe (IPO), kot je SpaceX, redko donosne na kratki rok, kar opozarja na previdnost pri vlaganju v 'hype' delnice. Kljub temu pa to ne pomeni, da je čas za prodajo delnic, temveč za bolj premišljen pristop.",
-      "analiza": "Vpliv malih vlagateljev na borzni trg se je v zadnjih letih močno povečal, predvsem zaradi enostavnega dostopa do trgovalnih platform in družbenih medijev, ki omogočajo hitro širjenje informacij (in dezinformacij). Ta 'demokratizacija' vlaganja je zmanjšala učinkovitost trga, kar pomeni, da cene delnic morda ne odražajo vedno temeljnih vrednosti podjetij, temveč so pod vplivom sentimenta in kolektivnega delovanja malih vlagateljev. Umetna inteligenca, ki se uporablja za analizo in trgovanje, ta problem še poglablja, saj lahko ojača določene trende. Za delniške trge to pomeni povečano volatilnost in potencial za hitre, nepredvidljive premike cen. Za obvezniške trge je vpliv manj neposreden, vendar lahko splošna nestabilnost na delniških trgih vpliva na povpraševanje po varnejših naložbah. Valute so lahko posredno prizadete, če se poveča splošna negotovost in vlagatelji iščejo 'varno zatočišče'. Slovenski dolgoročni vlagatelj bi moral biti pozoren na to, da 'hype' in kratkoročna nihanja, ki jih povzročajo mali vlagatelji, ne smejo biti osnova za dolgoročne naložbene odločitve. Pomembno je ohraniti disciplino, se osredotočiti na temeljne analize podjetij in diverzificirati portfelj, da se zmanjša izpostavljenost posameznim, potencialno preveč cenjenim delnicam. Razumevanje teh tržnih dinamik je ključno za informirano odločanje.",
-      "vpliv": [
-        "Povečana volatilnost delniških trgov",
-        "Zmanjšana učinkovitost trga",
-        "Opozorilo pred 'hype' IPO-ji (npr. SpaceX)",
-        "Potreba po premišljenih naložbenih strategijah"
+        "Povečani izdatki zvezne vlade ZDA",
+        "Potencialno zmanjšanje dobičkov v zdravstvenem sektorju",
+        "Povečana razpoložljiva sredstva za upravičence do Medicare",
+        "Vpliv na proračunski primanjkljaj in nacionalni dolg ZDA"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/amateur-investors-are-changing-how-the-stock-market-works-thats-creating-opportunities-for-those-who-know-where-to-look-34d78484?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-25T16:59:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/a-new-bill-would-cap-medicare-enrollees-annual-expenses-at-5-000-and-could-cost-the-government-tens-of-billions-d370bb37?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-26T16:28:00.000Z"
+    },
+    {
+      "naslov": "John Bolton priznal krivdo za napačno ravnanje s tajnimi dokumenti",
+      "sektor": "Geopolitika",
+      "smer": "nevtralno",
+      "intenziteta": 1,
+      "povzetek": "John Bolton, nekdanji svetovalec za nacionalno varnost ZDA, je priznal krivdo za napačno ravnanje s tajnimi dokumenti, poroča Financial Times (objavljeno ob 15:54 UTC). Priznanje krivde s strani Boltona predstavlja prvo zmago v pravni kampanji Donalda Trumpa proti njegovim političnim nasprotnikom. Bolton je bil obtožen, da je v svoji knjigi razkril tajne podatke. Ta dogodek je del širših političnih in pravnih bitk, ki zaznamujejo ameriško politično sceno, še posebej v luči prihajajočih volitev in poskusov preganjanja nekdanjih uradnikov.",
+      "analiza": "Priznanje krivde Johna Boltona v primeru tajnih dokumentov je predvsem političnega in pravnega pomena znotraj ZDA. Čeprav je Bolton pomembna figura v ameriški zunanji politiki, ta specifičen dogodek nima neposrednega in takojšnjega vpliva na globalne finančne trge. Priznanje krivde je del širšega političnega obračunavanja in pravnih postopkov, ki so pogosto prisotni v ameriški politiki, še posebej v obdobju predvolilnih kampanj. Mehanizem vpliva na trge je posreden in se nanaša predvsem na splošno politično negotovost, ki pa je že v veliki meri vračunana v cene. Za delniške trge to ne prinaša bistvenih sprememb, prav tako ne za obveznice, valute, surovine ali kriptovalute. Vpliv na VIX (indeks volatilnosti trga), ki je danes zrasel za +0.11 % na 18.65, je verjetno posledica širših dejavnikov negotovosti in ne te specifične novice. Slovenski dolgoročni vlagatelj bi moral to novico razumeti kot del širšega političnega dogajanja v ZDA, ki lahko dolgoročno vpliva na stabilnost in predvidljivost ameriške politike, kar pa se na finančnih trgih odraža predvsem skozi širše makroekonomske in geopolitične trende, ne pa neposredno preko posameznih sodnih primerov.",
+      "vpliv": [
+        "Povečana politična negotovost v ZDA",
+        "Del širših pravnih in političnih bojev",
+        "Neposreden vpliv na finančne trge je omejen",
+        "Vpliv na ugled vpletenih političnih osebnosti"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/c97fd9e9-4b3b-4333-a898-54243ef317d7",
+      "objavljeno": "2026-06-26T15:54:32.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-06-25T17:59:12.029Z",
+    "posodobljenoOb": "2026-06-26T17:26:44.309Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7362.98,
-        "sprememba_pct": 0.06
+        "vrednost": 7367.19,
+        "sprememba_pct": 0.13
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29490.902,
-        "sprememba_pct": 0.93
+        "vrednost": 29289.154,
+        "sprememba_pct": -0.51
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 24994.83,
-        "sprememba_pct": 1.03
+        "vrednost": 24671.22,
+        "sprememba_pct": -1.29
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 72366.34,
-        "sprememba_pct": 4.61
+        "vrednost": 69360.88,
+        "sprememba_pct": -4.15
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4046.2,
-        "sprememba_pct": 0.93,
+        "vrednost": 4099.1,
+        "sprememba_pct": 1.27,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 71.57,
-        "sprememba_pct": 1.75,
+        "vrednost": 69.07,
+        "sprememba_pct": -3.96,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 75.05,
-        "sprememba_pct": 1.6,
+        "vrednost": 72.46,
+        "sprememba_pct": -4.03,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +181,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1379,
-        "sprememba_pct": 0.16
+        "vrednost": 1.1393,
+        "sprememba_pct": 0.14
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.384,
-        "sprememba_pct": -0.41,
+        "vrednost": 4.372,
+        "sprememba_pct": -0.46,
         "enota": "%"
       }
     ],
@@ -181,16 +198,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 59575,
-        "sprememba_pct": -2.31,
+        "vrednost": 60052.49,
+        "sprememba_pct": 0.58,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 19,
-      "sprememba_pct": -2.51
+      "vrednost": 18.65,
+      "sprememba_pct": 0.11
     }
   }
 }

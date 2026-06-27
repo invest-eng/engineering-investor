@@ -1,145 +1,128 @@
 {
-  "generiranoOb": "2026-06-26T17:27:30.199Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-06-27T07:27:20.587Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-06-26",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, pri čemer je nemški indeks DAX padel za -1.29 % na 24671 točk. Japonski Nikkei 225 je zabeležil še večji padec, in sicer za -4.15 % na 69361 točk. Ameriški trgi so po dveh urah trgovanja pokazali mešano sliko; indeks S&P 500 je bil pri 7367 točkah z rahlo rastjo +0.13 %, medtem ko je Nasdaq 100 padel za -0.51 % na 29289 točk. Cene nafte so se znižale, saj je WTI nafta padla za -3.96 % na 69.07 USD/sod, Brent nafta pa za -4.03 % na 72.46 USD/sod, kljub novicam o iranskem zaostrovanju v Hormuški ožini. Zlato je medtem pridobilo na vrednosti za +1.27 % in se giblje pri 4099.10 USD/oz, medtem ko je evro v primerjavi z dolarjem (EUR/USD) rahlo pridobil za +0.14 % na 1.1393. Donosnost 10-letne ameriške obveznice se je znižala za -0.46 % na 4.37 %, Bitcoin pa je zrasel za +0.58 % na 60052 USD. Danes so trge zaznamovale predvsem geopolitične napetosti, vprašanja o mednarodni trgovini in makroekonomski izzivi v Evropi.",
+  "datum": "2026-06-27",
+  "povzetek": "Jutranji pregled trgov kaže na previdnost vlagateljev, saj so ameriški indeksi noč zaključili z rahlimi padci: S&P 500 je bil pri 7354 (-0.05 %), Nasdaq 100 pa pri 29118 (-1.09 %). Azijski trgi so sledili negativnemu trendu, pri čemer je Nikkei 225 padel za 4.15 % na 69361. Evropa danes pričakuje odprtje v rdečem, saj je DAX že včeraj zaključil pri 24671 (-1.29 %). Geopolitične napetosti med Iranom in ZDA, skupaj z grožnjami s carinami s strani ZDA proti evropskim državam, ustvarjajo negotovost, kar se odraža v padcu cen nafte WTI na 69.23 USD/sod (-3.74 %) in Brenta na 72.60 USD/sod (-3.84 %), medtem ko se zlato, kot varno zatočišče, krepi na 4096.30 USD/oz (+1.20 %). Poleg tega so v ospredju novice o Applovi strategiji dobave čipov in argentinski shemi za poplačilo dolgov. Najpomembnejši ekonomski dogodek tega tedna, ki ga vlagatelji morajo imeti na radarju, je prihajajoča objava inflacijskih podatkov, ki bo ponudila vpogled v morebitne prihodnje odločitve centralnih bank.",
   "novice": [
     {
-      "naslov": "Iran zaostruje nadzor nad Hormuško ožino, kar dviguje cene nafte",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Iran je po poročanju MarketWatcha zaostril svoj nadzor nad Hormuško ožino, ključno pomorsko potjo za prevoz nafte. Ta poteza je sprožila zaskrbljenost na trgih in povzročila dvig cen nafte, saj Iran očitno uveljavlja nadzor nad tem strateškim plovnim kanalom. Novica navaja, da so tveganja za nove naftne šoke visoka, saj Iran vztraja, da morajo vse ladje skozi ožino z njegovim dovoljenjem. To je v nasprotju z mednarodnim pravom, ki zagotavlja prost prehod. Združeni narodi so celo prekinili načrte za evakuacijo mornarjev iz ožine, potem ko je tovorno plovilo blizu Omana zadelo izstrelek. Teheran je prav tako zavrnil pritisk ZDA in GCC glede raket, Hormuške ožine in regionalnih oboroženih skupin, kar kaže na zaostritev retorike.",
-      "analiza": "Hormuška ožina je ključna točka za globalno oskrbo z nafto, saj skozi njo poteka približno petina svetovne porabe nafte. Zaostrovanje nadzora Irana nad ožino, ki je bilo objavljeno ob 16:35 po UTC, predstavlja resno geopolitično tveganje. Čeprav so cene nafte WTI in Brent danes kljub tej novici padle za -3.96 % na 69.07 USD/sod oziroma za -4.03 % na 72.46 USD/sod, kar kaže na prevladujoče druge tržne sile (morda zaskrbljenost glede povpraševanja ali presežne ponudbe), je dolgoročni vpliv iranskih dejanj lahko izjemno negativen. Zgodovinsko gledano so napetosti v regiji vedno povzročile skoke cen nafte, saj vsaka grožnja prekinitve dobave sproži paniko med trgovci. Mehanizem vpliva je direkten: zmanjšana dobava ali povečana negotovost glede dobave dvigne cene. To bi lahko vplivalo na globalno inflacijo, saj višje cene energentov povečajo stroške transporta in proizvodnje. Za delniške trge bi to pomenilo pritisk na podjetja, ki so odvisna od nizkih cen energentov, medtem ko bi energetska podjetja lahko imela koristi. Obveznice bi lahko doživele razprodajo zaradi inflacijskih pričakovanj, valute držav, ki so neto uvoznice nafte, pa bi lahko oslabela. Slovenski dolgoročni vlagatelj bi moral biti pozoren na morebitno rast inflacije in s tem povezane odzive centralnih bank, kar bi lahko vplivalo na obrestne mere in vrednotenje podjetij.",
-      "vpliv": [
-        "Povečana geopolitična tveganja v regiji",
-        "Potencialni dvig cen nafte v prihodnosti",
-        "Vpliv na globalno inflacijo in obrestne mere",
-        "Negativni pritisk na podjetja, odvisna od energentov"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/iran-tightens-its-grip-on-strait-of-hormuz-sending-oil-higher-f3bc53a1?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-26T16:35:00.000Z"
-    },
-    {
-      "naslov": "Trump grozi s 100-odstotnimi carinami državam z davkom na digitalne storitve",
+      "naslov": "Iran in ZDA si izmenjujeta obtožbe, krhka prekinitev ognja ogrožena",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Bivši ameriški predsednik Donald Trump je opozoril na možnost uvedbe 100-odstotnih carin za države, ki implementirajo davke na digitalne storitve. Po poročanju Financial Timesa, objavljenem ob 16:51 UTC, je Trump izjavil, da bi takšna dajatev preglasila vse trgovinske sporazume, ki jih ima Washington z drugimi prestolnicami. To pomeni, da bi ZDA lahko enostransko uvedle visoke carine ne glede na obstoječe trgovinske pakte. Ta grožnja prihaja v času, ko številne države, predvsem v Evropi, razmišljajo ali so že uvedle davke na digitalne storitve, ki ciljajo na dobičke velikih tehnoloških podjetij, kot so Google, Amazon in Facebook, ki imajo sedež v ZDA.",
-      "analiza": "Grožnja s 100-odstotnimi carinami s strani Donalda Trumpa, če bi bil ponovno izvoljen, predstavlja resno tveganje za mednarodno trgovino in globalizacijo. Davki na digitalne storitve so bili vir napetosti med ZDA in evropskimi državami že v preteklosti, saj ZDA menijo, da so ti davki diskriminatorni do ameriških podjetij. Mehanizem vpliva je direkten: uvedba carin bi povečala stroške za podjetja, ki poslujejo čezmejno, in bi lahko sprožila povračilne ukrepe s strani prizadetih držav. To bi lahko vodilo v trgovinsko vojno, ki bi negativno vplivala na globalno gospodarsko rast. Za delniške trge bi to pomenilo pritisk na tehnološka podjetja, ki bi se soočala z višjimi davki in carinami, ter na podjetja, ki so močno vpletena v mednarodne dobavne verige. Valute držav, ki bi bile tarča carin, bi lahko oslabela, medtem ko bi se vlagatelji umikali v varnejša sredstva. Zgodovinsko gledano so trgovinske vojne vedno povzročile negotovost in zmanjšanje investicij. Slovenski dolgoročni vlagatelj bi moral biti pozoren na morebitno zaostrovanje trgovinskih odnosov, kar bi lahko vplivalo na globalne dobavne verige in dobičkonosnost izvozno usmerjenih slovenskih podjetij.",
+      "povzetek": "ZDA in Iran si izmenjujeta obtožbe glede napadov, kar ogroža krhko prekinitev ognja, doseženo 17. junija. Ameriški predstavnik Vance je opozoril, da bo 'nasilje srečano z nasiljem', medtem ko iranska Revolucionarna garda (IRGC) napoveduje 'širše' odzive na prihodnje agresije. To se dogaja po tem, ko so ZDA izvedle napade na Iran, kar je bil prvič po podpisu Memoranduma o razumevanju. Iran trdi, da je IRGC ciljal ameriško vojsko v regiji po napadu Trumpove administracije na državo, pri čemer so ZDA napade utemeljile kot povračilo za iranski napad na ladjo v Hormuški ožini.",
+      "analiza": "Eskalacija napetosti med ZDA in Iranom predstavlja pomembno geopolitično tveganje, ki neposredno vpliva na globalne finančne trge. Hormuška ožina je ključna pomorska pot za transport nafte, zato vsaka grožnja stabilnosti v regiji takoj povzroči nihanja cen energentov. V tem kontekstu sta ceni nafte WTI in Brent zabeležili padec za 3.74 % na 69.23 USD/sod oziroma za 3.84 % na 72.60 USD/sod, kar kaže na negotovost glede povpraševanja ali pa na prehodno umiritev po prejšnjih šokih. Zlato, ki velja za varno zatočišče, se je zvišalo za 1.20 % na 4096.30 USD/oz, kar odraža povečano iskanje varnosti med vlagatelji. Povečana geopolitična tveganja običajno vodijo tudi do rasti indeksa volatilnosti VIX, ki je danes pri 18.41 (-2.54 %), kar morda kaže na trenutno zadržanost, a se lahko hitro spremeni. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati razvoj dogodkov v regiji, saj lahko ti vplivajo na cene surovin in s tem na inflacijo ter dobičkonosnost podjetij, še posebej tistih, ki so odvisna od uvoza energentov.",
       "vpliv": [
-        "Povečana negotovost v mednarodni trgovini",
-        "Potencialne trgovinske vojne in povračilni ukrepi",
-        "Negativen vpliv na globalno gospodarsko rast",
-        "Pritisk na tehnološka podjetja in izvoznike"
+        "Padec cen nafte WTI (-3.74 % na 69.23 USD/sod)",
+        "Padec cen nafte Brent (-3.84 % na 72.60 USD/sod)",
+        "Rast cene zlata (+1.20 % na 4096.30 USD/oz)",
+        "Povečana geopolitična negotovost"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e",
-      "objavljeno": "2026-06-26T16:51:14.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss",
+      "objavljeno": "2026-06-27T07:00:13.000Z"
     },
     {
-      "naslov": "Množična odpuščanja pri Volkswagnu kot poziv k ukrepanju EU",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Volkswagen je napovedal množična odpuščanja, kar je po mnenju Financial Timesa (objavljeno ob 15:31 UTC) 'poziv k ukrepanju za spečo EU'. Ta poteza nemškega avtomobilskega proizvajalca bo povečala pritisk na evropske oblikovalce politik, da uvedejo omejitve in trgovinske ovire za Kitajsko. Odpuščanja so odraz strukturnih sprememb v avtomobilski industriji, ki se sooča z močno konkurenco, predvsem s strani kitajskih proizvajalcev električnih vozil. Evropska unija se že nekaj časa spopada z vprašanjem, kako zaščititi svojo industrijo pred poceni uvozom in hkrati ohraniti odprto gospodarstvo.",
-      "analiza": "Množična odpuščanja pri Volkswagnu so pomemben signal o izzivih, s katerimi se sooča evropska industrija, zlasti avtomobilska. To ni le problem enega podjetja, temveč odraz širših makroekonomskih trendov, kot so močna kitajska konkurenca, prehod na električna vozila in potreba po prestrukturiranju proizvodnje. Padec indeksa DAX za -1.29 % na 24671 točk je lahko deloma povezan tudi s tovrstnimi novicami, saj nemška industrija predstavlja pomemben del indeksa. Mehanizem vpliva je večplasten: odpuščanja zmanjšujejo kupno moč in zaupanje potrošnikov, kar lahko vpliva na celotno gospodarstvo. Prav tako povečujejo pritisk na EU, da sprejme protekcionistične ukrepe, kar bi lahko vodilo v trgovinske spore. Za delniške trge to pomeni negativen pritisk na avtomobilski sektor in povezana podjetja, medtem ko bi se vlagatelji lahko umikali iz evropskih delnic. Obveznice bi lahko doživele povečano povpraševanje kot varno zatočišče, če bi se gospodarska negotovost povečala. Slovenski dolgoročni vlagatelj bi moral biti pozoren na zdravje evropske industrije in morebitne trgovinske napetosti, saj lahko to vpliva na rast in stabilnost regije, v katero je slovensko gospodarstvo močno vpeto.",
-      "vpliv": [
-        "Povečan pritisk na evropsko avtomobilsko industrijo",
-        "Možnost protekcionističnih ukrepov EU proti Kitajski",
-        "Negativen vpliv na zaupanje potrošnikov in gospodarsko rast",
-        "Pritisk na delnice evropskih industrijskih podjetij"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/ccea8285-11f9-45c0-b642-1efe9ef0c1da",
-      "objavljeno": "2026-06-26T15:31:41.000Z"
-    },
-    {
-      "naslov": "Micron si prizadeva prebiti desetletja dolg cikel tveganj",
+      "naslov": "Apple želi kupiti pomnilniške čipe od kitajskega podjetja na črnem seznamu",
       "sektor": "Tehnologija & AI",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Podjetje Micron Technology si prizadeva prebiti cikel tveganj, ki je vlagatelje strašil desetletja, poroča MarketWatch (objavljeno ob 16:47 UTC). Članek razpravlja o strategijah, ki jih Micron uporablja za stabilizacijo svojega poslovanja v industriji polprevodnikov, ki je znana po cikličnosti in visoki volatilnosti. Industrija spominskih čipov je zgodovinsko podvržena hitrim spremembam v povpraševanju in ponudbi, kar povzroča velike nihanja v dobičkonosnosti podjetij. Micron, kot eden vodilnih igralcev, išče načine za zmanjšanje te negotovosti in privabljanje dolgoročnih vlagateljev.",
-      "analiza": "Industrija polprevodnikov, v kateri deluje Micron, je ključnega pomena za globalno tehnološko krajino, saj čipi poganjajo vse od pametnih telefonov do podatkovnih centrov in umetne inteligence. Njena cikličnost, ki jo zaznamujejo obdobja prekomerne ponudbe in pomanjkanja, je v preteklosti povzročala velike nihanja v cenah delnic in dobičkih podjetij. Prizadevanja Microna za preboj iz tega cikla so relevantna, saj bi stabilizacija lahko prinesla večjo predvidljivost in privlačnost za vlagatelje. Mehanizem vpliva je, da uspešna strategija Microna lahko služi kot model za celotno industrijo, kar bi lahko zmanjšalo splošno volatilnost v tehnološkem sektorju. Za delniške trge bi to pomenilo potencialno bolj stabilno rast tehnoloških delnic, zlasti tistih v sektorju polprevodnikov. Vendar pa je Nasdaq 100 danes padel za -0.51 %, kar kaže na splošno previdnost v tehnološkem sektorju. Dolgoročno bi stabilnejša industrija lahko pritegnila več kapitala. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da je tehnološki sektor, kljub svoji rasti, še vedno podvržen tveganjem. Spremljanje podjetij, kot je Micron, in njihovih strategij za obvladovanje cikličnosti, lahko ponudi vpogled v širše trende in potencialne priložnosti v tehnološkem portfelju.",
+      "povzetek": "Apple si prizadeva za dovoljenje Trumpove administracije za nakup pomnilniških čipov od kitajskega podjetja, ki je na črnem seznamu. Cilj podjetja iPhone je ublažiti pritisk naraščajočih cen polprevodnikov, ki vplivajo na globalno dobavno verigo. Ta poteza poudarja izzive, s katerimi se soočajo tehnološka podjetja pri obvladovanju stroškov in zagotavljanju stabilne dobave komponent sredi geopolitičnih napetosti in trgovinskih omejitev med ZDA in Kitajsko.",
+      "analiza": "Novica o Applovi nameri za nakup čipov od kitajskega podjetja na črnem seznamu odraža kompleksnost in napetosti v globalnih dobavnih verigah, še posebej v sektorju polprevodnikov. V ozadju je trgovinska vojna med ZDA in Kitajsko, kjer Washington omejuje dostop kitajskih podjetij do napredne tehnologije. Apple, kot eden največjih porabnikov čipov, se sooča z naraščajočimi cenami in morebitnim pomanjkanjem, kar bi lahko vplivalo na njegovo proizvodnjo in marže. Če Trumpova administracija odobri izjemo, bi to lahko pomenilo rahel premik v strogi politiki, a hkrati poudarja ad hoc naravo regulacije. To lahko vpliva na delnice Appla, saj bi stabilizacija dobavne verige bila pozitivna, vendar bi morebitna zavrnitev ali nadaljnje zaostrovanje pogojev predstavljalo tveganje. Širše gledano, to vpliva na celoten tehnološki sektor in podjetja, ki so odvisna od globalnih dobavnih verig. Za slovenskega dolgoročnega vlagatelja je to opomin na ranljivost globaliziranih podjetij in pomen diverzifikacije portfelja, saj so geopolitične odločitve lahko hitre in imajo daljnosežne posledice.",
       "vpliv": [
-        "Potencialna stabilizacija industrije polprevodnikov",
-        "Zmanjšanje volatilnosti v tehnološkem sektorju",
-        "Vpliv na vrednotenje delnic tehnoloških podjetij",
-        "Povečana privlačnost za dolgoročne vlagatelje v tehnologiji"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/how-micron-aims-to-break-through-the-risk-cycle-that-has-spooked-investors-for-decades-f307e7df?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-26T16:47:00.000Z"
-    },
-    {
-      "naslov": "Slabosti ustvarjanja 13 bilijonov dolarjev dobička v ameriških delnicah",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Članek v Financial Timesu (objavljen ob 16:00 UTC) opozarja na 'slabosti ustvarjanja 13 bilijonov dolarjev dobička' z vlaganjem v ameriške delnice. Poudarja, da je stavek na ameriški kapital prinesel izjemne dobičke za preostali svet, vendar je zdaj ta svet veliko bolj izpostavljen morebitnemu tržnemu zlomu. To pomeni, da so globalni vlagatelji močno pretehtani v ameriških delnicah, kar ustvarja koncentracijsko tveganje. V primeru korekcije ali padca ameriškega trga bi bile posledice za globalne portfelje lahko znatne.",
-      "analiza": "Fenomen, ko so globalni vlagatelji v zadnjih letih ustvarili ogromne dobičke z vlaganjem v ameriške delnice, je privedel do visoke koncentracije kapitala v ZDA. To je posledica močnega dolarja, inovativnosti ameriških podjetij in relativne stabilnosti ameriškega gospodarstva. Vendar pa ta prekomerna izpostavljenost ustvarja sistemsko tveganje. Mehanizem vpliva je, da v primeru večje korekcije na ameriškem delniškem trgu, ki bi jo lahko sprožil na primer padec Nasdaq 100 (-0.51 % danes) ali S&P 500 (+0.13 % danes), bi se šok hitro prenesel na globalne trge. To bi vplivalo na delnice po vsem svetu, saj bi vlagatelji prodajali tudi druge delnice, da bi pokrili izgube ali zmanjšali tveganje. Obveznice bi lahko služile kot varno zatočišče, kar bi povečalo njihove cene in znižalo donosnosti. Valute držav, ki so močno izpostavljene ameriškemu trgu, bi lahko oslabela. Zgodovinsko gledano so finančne krize, ki so se začele v eni regiji, hitro postale globalne zaradi medsebojne povezanosti trgov. Slovenski dolgoročni vlagatelj, ki ima v svojem portfelju globalno razpršene sklade, bi moral biti seznanjen s to koncentracijo in razumeti, da so globalni portfelji močno odvisni od uspešnosti ameriškega trga, kar pomeni, da je diverzifikacija ključna, a ne vedno zadostna za popolno zaščito pred sistemskimi tveganji.",
-      "vpliv": [
-        "Povečana izpostavljenost globalnih portfeljev ameriškemu trgu",
-        "Sistemsko tveganje v primeru padca ameriških delnic",
-        "Potencialni globalni prenos šokov na delniške trge",
-        "Povečano povpraševanje po varnih zatočiščih"
+        "Potencialna stabilizacija dobavne verige za Apple",
+        "Vpliv na cene polprevodnikov",
+        "Indikator napetosti v trgovinski vojni med ZDA in Kitajsko",
+        "Vpliv na delnice tehnoloških podjetij"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/f37904c9-be75-479d-9fab-8c93b6480ec0",
-      "objavljeno": "2026-06-26T16:00:03.000Z"
+      "vir_url": "https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb",
+      "objavljeno": "2026-06-27T02:17:50.000Z"
     },
     {
-      "naslov": "Predlog zakona o omejitvi letnih stroškov Medicare na 5.000 dolarjev",
-      "sektor": "Makro & Centralne banke",
+      "naslov": "Trump grozi s 100-odstotnimi carinami evropskim državam zaradi davka na tehnologijo",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Ameriški predsednik Trump je zagrozil s 100-odstotnimi carinami na evropske države, ki razmišljajo o uvedbi davka na tehnološke storitve. Izjavil je, da 'številne evropske države' razpravljajo o takšnem davku, kar bi lahko sprožilo nov krog trgovinskih sporov. Ta poteza poudarja ponovno zaostrovanje trgovinske retorike in potencialno grožnjo za transatlantske ekonomske odnose, kar bi lahko imelo resne posledice za podjetja in potrošnike na obeh straneh Atlantika.",
+      "analiza": "Grožnja predsednika Trumpa s 100-odstotnimi carinami na evropske države zaradi davka na tehnološke storitve predstavlja resno tveganje za globalno trgovino in stabilnost. Takšne tarife bi lahko sprožile povračilne ukrepe s strani Evropske unije, kar bi vodilo v novo trgovinsko vojno, podobno tistim iz preteklosti. To bi imelo negativen vpliv na evropske delniške indekse, kot je DAX, ki je že včeraj padel za 1.29 % na 24671, saj bi evropska podjetja, ki izvažajo v ZDA, utrpela višje stroške. Prav tako bi lahko pritisk na evro/dolar tečaj (EUR/USD je danes pri 1.1390, +0.11 %), saj bi negotovost zmanjšala zaupanje v evro. Podjetja v tehnološkem sektorju, ki poslujejo v Evropi in ZDA, bi bila še posebej prizadeta. Zgodovinsko gledano so trgovinske vojne vedno povzročile upočasnitev gospodarske rasti in povečano volatilnost na trgih. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati razvoj trgovinskih odnosov, saj lahko ti vplivajo na dobičkonosnost izvozno usmerjenih podjetij in na splošno gospodarsko klimo v Evropi.",
+      "vpliv": [
+        "Potencialna trgovinska vojna med ZDA in EU",
+        "Negativen vpliv na evropske delniške indekse (npr. DAX)",
+        "Pritisk na tečaj EUR/USD",
+        "Povečana negotovost za podjetja v tehnološkem sektorju"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-06-27T01:37:18.000Z"
+    },
+    {
+      "naslov": "Kdo ima koristi od afriškega zlata? Vlade želijo več nadzora",
+      "sektor": "Energetika",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Nov predlog zakona v ZDA bi omejil letne stroške za upravičence do Medicare na 5.000 dolarjev, kar bi lahko vlado stalo 'desetine milijard' dolarjev, poroča MarketWatch (objavljeno ob 16:28 UTC). Ta predlog, čeprav z majhnimi možnostmi za sprejetje, bi zagotovil določeno zaščito pred stroški za vse ljudi z Medicare. Trenutno so stroški zdravstvenega varstva v ZDA visoki in pogosto nepredvidljivi, kar predstavlja veliko finančno breme za starejše in bolne. Omejitev bi pomembno vplivala na proračun in delovanje zdravstvenega sektorja.",
-      "analiza": "Zdravstveno varstvo je pomemben del ameriškega gospodarstva in vladnega proračuna. Predlog zakona o omejitvi stroškov Medicare na 5.000 dolarjev letno, čeprav je označen kot 'long-shot', poudarja nenehne razprave o dostopnosti in stroških zdravstvenega varstva v ZDA. Mehanizem vpliva je direkten: če bi bil sprejet, bi ta zakon zmanjšal finančno breme za milijone upravičencev do Medicare, kar bi lahko povečalo njihovo razpoložljivo dohodke in s tem potrošnjo. Po drugi strani pa bi to pomenilo znatno povečanje izdatkov za zvezno vlado, kar bi lahko vplivalo na proračunski primanjkljaj in nacionalni dolg. Za delniške trge bi to lahko imelo mešane posledice: farmacevtska podjetja in ponudniki zdravstvenih storitev bi se lahko soočili z omejitvami pri cenah, medtem ko bi podjetja, ki proizvajajo potrošniško blago, lahko imela koristi od povečane potrošnje. Obveznice bi lahko doživele pritisk zaradi povečanega vladnega zadolževanja. Slovenski dolgoročni vlagatelj, ki spremlja globalne trende, bi moral biti pozoren na razvoj zdravstvene politike v ZDA, saj ima ta sektor velik vpliv na borzne indekse in lahko vpliva na globalno gospodarsko stabilnost, posredno tudi na vrednotenje podjetij v portfelju.",
+      "povzetek": "Afriške vlade si prizadevajo za večji nadzor nad pridobivanjem in distribucijo zlata, saj velik del njegove vrednosti še vedno odteka v tujino. Članek Al Jazeere poudarja, da kljub bogatim nahajališčem, lokalne skupnosti in države pogosto ne dobijo pravičnega deleža od dobičkov. To prizadevanje za večjo lokalno korist in nadzor nad naravnimi viri je del širšega trenda resource nacionalizma, ki se pojavlja po celini.",
+      "analiza": "Vprašanje, kdo ima koristi od afriškega zlata, je ključno za razumevanje dinamike trga plemenitih kovin in geopolitičnih trendov. Prizadevanja afriških vlad za večji nadzor nad zlatom odražajo širši trend resource nacionalizma, kjer države v razvoju želijo večji delež dobičkov od svojih naravnih virov. To lahko dolgoročno vpliva na globalno dobavo zlata in s tem na njegovo ceno. Danes je cena zlata že zrasla za 1.20 % na 4096.30 USD/oz, kar je lahko posledica tudi splošne negotovosti na trgih, vendar bi morebitne spremembe v lastništvu in regulaciji rudarjenja lahko vplivale na stroške in obseg proizvodnje. Za mednarodna rudarska podjetja, ki delujejo v Afriki, to pomeni povečano politično tveganje in morebitno zmanjšanje marž. Vpliv na valute je posreden, saj bi spremembe v izvozu zlata lahko vplivale na bilance plačil afriških držav. Za slovenskega dolgoročnega vlagatelja je to opomin na pomen diverzifikacije in razumevanja geopolitičnih tveganj pri naložbah v surovine in podjetja, ki so močno odvisna od poslovanja v regijah z visoko stopnjo politične negotovosti.",
       "vpliv": [
-        "Povečani izdatki zvezne vlade ZDA",
-        "Potencialno zmanjšanje dobičkov v zdravstvenem sektorju",
-        "Povečana razpoložljiva sredstva za upravičence do Medicare",
-        "Vpliv na proračunski primanjkljaj in nacionalni dolg ZDA"
+        "Potencialne spremembe v globalni dobavi zlata",
+        "Povečano politično tveganje za rudarska podjetja v Afriki",
+        "Vpliv na ceno zlata (danes +1.20 % na 4096.30 USD/oz)",
+        "Trend resource nacionalizma"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/a-new-bill-would-cap-medicare-enrollees-annual-expenses-at-5-000-and-could-cost-the-government-tens-of-billions-d370bb37?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-26T16:28:00.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/6/27/who-profits-from-africas-gold?traffic_source=rss",
+      "objavljeno": "2026-06-27T07:11:30.000Z"
     },
     {
-      "naslov": "John Bolton priznal krivdo za napačno ravnanje s tajnimi dokumenti",
-      "sektor": "Geopolitika",
-      "smer": "nevtralno",
-      "intenziteta": 1,
-      "povzetek": "John Bolton, nekdanji svetovalec za nacionalno varnost ZDA, je priznal krivdo za napačno ravnanje s tajnimi dokumenti, poroča Financial Times (objavljeno ob 15:54 UTC). Priznanje krivde s strani Boltona predstavlja prvo zmago v pravni kampanji Donalda Trumpa proti njegovim političnim nasprotnikom. Bolton je bil obtožen, da je v svoji knjigi razkril tajne podatke. Ta dogodek je del širših političnih in pravnih bitk, ki zaznamujejo ameriško politično sceno, še posebej v luči prihajajočih volitev in poskusov preganjanja nekdanjih uradnikov.",
-      "analiza": "Priznanje krivde Johna Boltona v primeru tajnih dokumentov je predvsem političnega in pravnega pomena znotraj ZDA. Čeprav je Bolton pomembna figura v ameriški zunanji politiki, ta specifičen dogodek nima neposrednega in takojšnjega vpliva na globalne finančne trge. Priznanje krivde je del širšega političnega obračunavanja in pravnih postopkov, ki so pogosto prisotni v ameriški politiki, še posebej v obdobju predvolilnih kampanj. Mehanizem vpliva na trge je posreden in se nanaša predvsem na splošno politično negotovost, ki pa je že v veliki meri vračunana v cene. Za delniške trge to ne prinaša bistvenih sprememb, prav tako ne za obveznice, valute, surovine ali kriptovalute. Vpliv na VIX (indeks volatilnosti trga), ki je danes zrasel za +0.11 % na 18.65, je verjetno posledica širših dejavnikov negotovosti in ne te specifične novice. Slovenski dolgoročni vlagatelj bi moral to novico razumeti kot del širšega političnega dogajanja v ZDA, ki lahko dolgoročno vpliva na stabilnost in predvidljivost ameriške politike, kar pa se na finančnih trgih odraža predvsem skozi širše makroekonomske in geopolitične trende, ne pa neposredno preko posameznih sodnih primerov.",
+      "naslov": "Argentina načrtuje shemo 'zlatih potnih listov' za poplačilo dolgov",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Argentina, država, ki se sooča s pomanjkanjem denarja, načrtuje uvedbo sheme 'državljanstva z naložbo', znane tudi kot 'zlati potni listi', za poplačilo svojih dolgov. Pod vodstvom predsednika Javierja Mileija naj bi Argentina postala ena največjih držav na svetu, ki ponuja takšno shemo. Ta poteza je usmerjena v privabljanje tujega kapitala in zmanjšanje bremena javnega dolga, vendar hkrati odpira vprašanja o preglednosti in dolgoročni učinkovitosti takšnih programov.",
+      "analiza": "Načrt Argentine za uvedbo sheme 'zlatih potnih listov' je neposredna posledica njene dolgotrajne krize suverenega dolga in pomanjkanja likvidnosti. Predsednik Milei išče inovativne načine za privabljanje tujega kapitala, da bi stabiliziral gospodarstvo in poplačal obveznosti. Takšne sheme so bile v preteklosti uporabljene v manjših državah, vendar je Argentina, kot ena večjih, s to potezo vstopila na nepreizkučeno pot. Čeprav lahko kratkoročno prinese priliv kapitala, se pojavljajo vprašanja o dolgoročni vzdržnosti, tveganjih pranja denarja in vplivu na ugled države. Za obvezniške trge to pomeni mešan signal: na eni strani potencialno zmanjšanje tveganja neplačila, na drugi pa negotovost glede izvedbe in obsega. Vpliv na valuto (argentinski peso) bi bil lahko pozitiven, če bi priliv tujega kapitala okrepil devizne rezerve. Za slovenskega dolgoročnega vlagatelja, ki razmišlja o naložbah v trge v razvoju, to poudarja pomen temeljite analize političnega in ekonomskega tveganja ter previdnosti pri naložbah v države z visoko stopnjo zadolženosti in nestabilnosti.",
       "vpliv": [
-        "Povečana politična negotovost v ZDA",
-        "Del širših pravnih in političnih bojev",
-        "Neposreden vpliv na finančne trge je omejen",
-        "Vpliv na ugled vpletenih političnih osebnosti"
+        "Potencialni priliv tujega kapitala v Argentino",
+        "Vpliv na argentinski javni dolg in valuto",
+        "Povečana tveganja glede preglednosti in pranja denarja",
+        "Indikator finančnih izzivov v trgih v razvoju"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/c97fd9e9-4b3b-4333-a898-54243ef317d7",
-      "objavljeno": "2026-06-26T15:54:32.000Z"
+      "vir_url": "https://www.ft.com/content/2f32bd0f-ea86-4ff6-858a-475f3ce8f6ad",
+      "objavljeno": "2026-06-27T04:00:23.000Z"
+    },
+    {
+      "naslov": "Tesla in Waymo v tekmi za robotaksije, a največ porabi podjetje brez avtomobilov",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Tesla in Waymo sta v ospredju tekme za razvoj robotaksijev, vendar pa podjetje, ki največ vlaga v to področje in ne proizvaja avtomobilov, je Uber. Uber tiho podpisuje pogodbe v vrednosti 500 milijonov dolarjev, da bi si zagotovil dostop do robotaksijev, saj mu Waymo grozi, da ga bo pustil zadaj. To poudarja intenzivno konkurenco in ogromne naložbe v industrijo avtonomne vožnje, kjer se podjetja borijo za prevlado na trgu prihodnosti.",
+      "analiza": "Tekma v sektorju robotaksijev med Teslo, Waymom in Uberjem je ključna za prihodnost avtomobilske industrije in tehnološkega sektorja. Medtem ko sta Tesla in Waymo (Alphabetova enota) znana po razvoju avtonomnih vozil, Uberjeva strategija, da z vlaganjem 500 milijonov dolarjev zagotovi dostop do tehnologije, kaže na prepoznavanje pomembnosti te storitve. To kaže na prehod od lastništva avtomobilov k storitvam mobilnosti, kar bo dolgoročno vplivalo na celoten avtomobilski sektor. Za delnice Tesle in Alphabeta (matičnega podjetja Wayma) je napredek v robotaksijih ključen za prihodnjo rast in vrednotenje. Konkurenca lahko poveča stroške raziskav in razvoja, a hkrati pospeši inovacije. Za širši tehnološki sektor to pomeni nadaljnje naložbe v umetno inteligenco in strojno učenje. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati razvoj v avtonomni vožnji, saj bo ta transformirala transport in logistiko, kar lahko ustvari nove priložnosti za naložbe, a tudi predstavlja tveganja za tradicionalne avtomobilske proizvajalce.",
+      "vpliv": [
+        "Intenzivirana konkurenca v sektorju avtonomne vožnje",
+        "Velike naložbe v razvoj robotaksijev (Uber 500 milijonov USD)",
+        "Vpliv na delnice Tesle, Alphabeta in drugih tehnoloških podjetij",
+        "Dolgoročna transformacija transportnega sektorja"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/tesla-and-waymo-are-chasing-the-robotaxi-dream-but-the-company-spending-the-most-to-win-builds-no-cars-at-all-0d8682b9?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-26T22:35:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-06-26T17:26:44.309Z",
+    "posodobljenoOb": "2026-06-27T07:26:38.924Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7367.19,
-        "sprememba_pct": 0.13
+        "vrednost": 7354.02,
+        "sprememba_pct": -0.05
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29289.154,
-        "sprememba_pct": -0.51
+        "vrednost": 29118.238,
+        "sprememba_pct": -1.09
       },
       {
         "simbol": "^GDAXI",
@@ -158,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4099.1,
-        "sprememba_pct": 1.27,
+        "vrednost": 4096.3,
+        "sprememba_pct": 1.2,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 69.07,
-        "sprememba_pct": -3.96,
+        "vrednost": 69.23,
+        "sprememba_pct": -3.74,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 72.46,
-        "sprememba_pct": -4.03,
+        "vrednost": 72.6,
+        "sprememba_pct": -3.84,
         "enota": "USD/sod"
       }
     ],
@@ -181,8 +164,8 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1393,
-        "sprememba_pct": 0.14
+        "vrednost": 1.139,
+        "sprememba_pct": 0.11
       }
     ],
     "obveznice": [
@@ -198,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 60052.49,
-        "sprememba_pct": 0.58,
+        "vrednost": 60312.62,
+        "sprememba_pct": 0.5,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 18.65,
-      "sprememba_pct": 0.11
+      "vrednost": 18.41,
+      "sprememba_pct": -2.54
     }
   }
 }
