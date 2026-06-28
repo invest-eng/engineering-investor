@@ -1,99 +1,116 @@
 {
-  "generiranoOb": "2026-06-28T07:58:33.145Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-06-28T16:44:28.081Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-06-28",
-  "povzetek": "S&P 500 je zaključil teden s skromnim padcem za 0,05 % pri 7354 točkah, medtem ko je tehnološko usmerjeni Nasdaq 100 zabeležil izrazitejši padec za 1,09 % na 29118 točk. Evropski DAX je prav tako padel za 1,29 % na 24671 točk, azijski Nikkei 225 pa je utrpel precejšen padec za 4,15 % na 69361 točk. Geopolitične napetosti na Bližnjem vzhodu, kjer se stopnjujejo napadi med ZDA in Iranom, so povzročile padec cen nafte WTI za 3,74 % na 69,23 USD za sod in Brent nafte za 3,84 % na 72,60 USD za sod, kar kaže na zaskrbljenost glede dobavnih poti. Vlagatelji so se zatekli k varnim zatočiščem, saj je cena zlata zrasla za 1,20 % na 4096,30 USD za unčo, medtem ko je donosnost 10-letne ameriške državne obveznice padla za 0,46 % na 4,37 %. Bitcoin je zabeležil manjše gibanje z rastjo za 0,29 % na 60114 USD. V prihodnjem tednu bodo vlagatelji pozorno spremljali prihajajočo objavo podatkov o inflaciji v evroobmočju, ki bo ključna za oceno prihodnjih potez Evropske centralne banke.",
+  "povzetek": "Evropski trgi so danes zaključili v rdečem, z nemškim indeksom DAX, ki je padel za 1,29 % na 24.671 točk. Tudi ameriški trgi so po dveh urah trgovanja kazali negativno smer, saj je S&P 500 zabeležil rahel padec za 0,05 % na 7354 točk, medtem ko je tehnološko usmerjeni Nasdaq 100 izgubil 1,09 % in se ustavil pri 29118 točkah. Geopolitične napetosti na Bližnjem vzhodu, vključno s padcem helikopterja Aramco in nadaljevanjem ameriško-iranskih napadov v Hormuški ožini, so vplivale na cene nafte, pri čemer sta WTI in Brent nafta padli za 3,74 % na 69,23 USD/sod oziroma za 3,84 % na 72,60 USD/sod. Zlato se je medtem okrepilo za 1,20 % na 4096,30 USD/oz, kar kaže na iskanje varnih zatočišč. Kljub temu je indeks volatilnosti VIX padel za 2,54 % na 18,41. Valutni par EUR/USD je zabeležil rahel porast za 0,11 % na 1.1390. Vlagatelji bodo pozorno spremljali prihajajoče objave makroekonomskih podatkov, kot so inflacija ali odločitve centralnih bank, ki lahko vplivajo na smer trgov.",
   "novice": [
     {
-      "naslov": "Stopnjevanje napetosti med ZDA in Iranom vpliva na pomorski promet in cene nafte.",
-      "sektor": "Geopolitika & Energetika",
+      "naslov": "Eskalacija napetosti v Hormuški ožini in padec helikopterja Aramco vplivata na naftne trge",
+      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Premirje med ZDA in Iranom je pod pritiskom, saj je Teheran odgovoril na ameriške napade z napadi na vojaške objekte v Bahrajnu in Kuvajtu. To se je zgodilo po tem, ko so ZDA že drugi dan zapored udarile blizu Hormuške ožine, potem ko je iranski dron domnevno zadel komercialno plovilo. Predsednik Trump je zagrozil, da bo \"vojaško dokončal delo\", medtem ko so ZDA napadle Sirik in otok Qeshm. Izvršni direktor podjetja NYK, Takaya Soga, opozarja, da bodo mine v Hormuški ožini ovirale ladijski promet še mesece, kar omejuje promet na polovico predvojnih ravni. Bahrajn je sprožil sirene, Kuvajt pa je aktiviral zračno obrambo.",
-      "analiza": "Ozadje teh dogodkov je dolgotrajna napetost med ZDA in Iranom, ki se je v zadnjih dneh močno stopnjevala z obojestranskimi vojaškimi udari. Pomen Hormuške ožine, skozi katero poteka približno petina svetovne nafte, je ključen za globalno energetsko varnost. Vsaka motnja v tej regiji ima takojšen in daljnosežen vpliv na svetovne trge. Mehanizem vpliva je neposreden: strah pred motnjami v dobavi nafte povzroči rast cen, medtem ko se vlagatelji umikajo iz bolj tveganih naložb. Vendar je tokrat prišlo do padca cen nafte WTI za 3,74 % na 69,23 USD za sod in Brent nafte za 3,84 % na 72,60 USD za sod, kar je lahko posledica širše makroekonomske zaskrbljenosti ali pa trg ocenjuje, da morebitni konflikt ne bo vplival na dobavo v kratkem roku, ali pa je padec posledica splošnega umika iz tveganih sredstev. V preteklosti so podobne napetosti v regiji, kot so napadi na tankerje ali vojaške vaje, vedno povzročile skoke cen nafte. Posledice za delnice so negativne zaradi povečane negotovosti, medtem ko se obveznice in zlato (ki je zraslo za 1,20 % na 4096,30 USD/oz) običajno obravnavajo kot varna zatočišča. Valute, kot je EUR/USD, so pokazale manjše gibanje (+0,11 % na 1.1390), vendar lahko dolgoročno geopolitična tveganja vplivajo na moč dolarja kot rezervne valute. Slovenski dolgoročni vlagatelj bi moral biti pozoren na morebitno volatilnost na trgih surovin in delnic, še posebej v sektorjih, ki so odvisni od stabilnih dobavnih verig.",
+      "povzetek": "Napetosti v Hormuški ožini so se zaostrile po drugem dnevu ameriških napadov na Iran, kar ogroža nedavni memorandum o soglasju med državama in povzroča nemire na iranskih trgih. Iranska revolucionarna garda (IRGC) je poudarila, da ožina ostaja pod iranskim nadzorom naslednjih 30 dni, medtem ko Iran in ZDA izmenjujeta napade glede navigacije skozi to ključno morsko pot. Dodatno je v savdskem pristanišču Ras Tanura strmoglavil helikopter podjetja Aramco, pri čemer je umrlo vseh 14 ljudi na krovu. Incident se je zgodil le nekaj ur po tem, ko so ameriško-iranski napadi ogrozili krhki dogovor o ponovnem odprtju Hormuške ožine.",
+      "analiza": "Ozadje teh dogodkov je dolgotrajna geopolitična nestabilnost na Bližnjem vzhodu, ki se je v zadnjem času še poslabšala z ameriško-iranskimi konfrontacijami glede nadzora nad Hormuško ožino, ključno pomorsko potjo za svetovni transport nafte. Padec helikopterja Aramco, največjega svetovnega proizvajalca nafte, dodaja še eno plast negotovosti v regiji, ki je že tako na robu. To je relevantno zdaj, saj se trgi odzivajo na vsakršno grožnjo dobavnim verigam nafte in regionalni stabilnosti. Mehanizem vpliva je neposreden: povečana geopolitična tveganja v regiji, ki je vir velikega dela svetovne nafte, povzročajo negotovost glede prihodnjih dobav. Posledično so cene nafte WTI in Brent danes padle za 3,74 % na 69,23 USD/sod oziroma za 3,84 % na 72,60 USD/sod, kar je morda odraz pričakovanj po zmanjšanem povpraševanju zaradi širših gospodarskih skrbi ali pa začasnega umika špekulantov. Zlato, kot varno zatočišče, se je okrepilo za 1,20 % na 4096,30 USD/oz. Delnice energetskih podjetij bi lahko bile pod pritiskom zaradi negotovosti, medtem ko bi se obveznice lahko okrepile. V preteklosti so podobni incidenti v Hormuški ožini, kot so napadi na tankerje ali zaprtje ožine, vedno povzročili skoke cen nafte in povečano volatilnost. Vlagatelji bodo morali pozorno spremljati nadaljnji razvoj dogodkov med ZDA in Iranom ter morebitne vplive na globalne dobavne verige. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja ključna za zmanjšanje tveganj, povezanih z nestabilnostjo na energetskih trgih in geopolitičnimi dogodki.",
       "vpliv": [
-        "Padec cen nafte WTI za 3,74 %",
-        "Padec cen Brent nafte za 3,84 %",
-        "Rast cene zlata za 1,20 %",
-        "Povečana negotovost na globalnih trgih"
+        "Padec cene WTI nafte za 3,74 % na 69,23 USD/sod",
+        "Padec cene Brent nafte za 3,84 % na 72,60 USD/sod",
+        "Rast cene zlata za 1,20 % na 4096,30 USD/oz",
+        "Povečana geopolitična tveganja"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0",
-      "objavljeno": "2026-06-28T07:33:48.000Z"
+      "vir_url": "https://www.ft.com/content/6be8c3fd-5f1d-4659-afee-43db76a36fd6",
+      "objavljeno": "2026-06-28T15:31:50.000Z"
     },
     {
-      "naslov": "Google omejuje Meta uporabo Gemini AI modelov zaradi preobremenjenosti povpraševanja.",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Google je bil prisiljen omejiti uporabo svojih naprednih modelov umetne inteligence Gemini s strani Mete. Razlog za to je izjemno naraščajoče povpraševanje po zmogljivostih umetne inteligence, ki preobremenjuje obstoječo infrastrukturo. To kaže, da računska moč postaja najredkejša dobrina v tehnološki industriji. Omejitve so bile uvedene, da bi Google lahko uravnotežil povpraševanje in zagotovil stabilnost storitev. Ta poteza poudarja izzive, s katerimi se soočajo velika tehnološka podjetja pri skaliranju AI zmogljivosti.",
-      "analiza": "Ozadje te novice je eksponentna rast povpraševanja po generativni umetni inteligenci in s tem povezana potreba po ogromnih količinah računske moči, predvsem grafičnih procesnih enot (GPU). To je pomembno, ker poudarja, da je dostop do infrastrukture ključni dejavnik v tekmi za prevlado na področju umetne inteligence. Mehanizem vpliva je dvojen: po eni strani kaže na izjemno močno povpraševanje po AI tehnologijah, kar je pozitivno za podjetja, ki razvijajo AI in proizvajajo čipe. Po drugi strani pa omejitve kažejo na ozka grla v dobavni verigi in morebitne stroškovne pritiske za podjetja, ki potrebujejo te zmogljivosti, kot je Meta. Za delnice tehnoloških podjetij, ki so v ospredju razvoja AI (npr. Nvidia, Google), je to dolgoročno pozitivno, saj potrjuje močno rast sektorja, vendar lahko kratkoročno povzroči zaskrbljenost glede marž in sposobnosti skaliranja. Vpliv na obveznice, valute in surovine je posreden, predvsem preko splošnega sentimenta na delniških trgih. Slovenski dolgoročni vlagatelj naj spremlja, kako se bodo podjetja odzivala na te izzive in katera bodo uspešna pri zagotavljanju potrebnih virov za nadaljnji razvoj AI.",
-      "vpliv": [
-        "Povečano povpraševanje po AI infrastrukturi",
-        "Potencialna ozka grla v tehnološki industriji",
-        "Vpliv na rast in stroške AI podjetij",
-        "Potencialno pozitivno za proizvajalce čipov"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378",
-      "objavljeno": "2026-06-28T04:00:19.000Z"
-    },
-    {
-      "naslov": "Apple se bo boril proti 500 milijonov dolarjev vredni patentni tožbi v Združenem kraljestvu.",
-      "sektor": "Tehnologija & AI",
+      "naslov": "Izrael napada Libanon, preizkuša nedavni mirovni sporazum in destabilizira regijo",
+      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Apple se bo na Vrhovnem sodišču Združenega kraljestva boril proti patentni tožbi v višini 500 milijonov dolarjev. Spor se nanaša na licenciranje protokolov za mobilno povezljivost, ki so ključni za delovanje sodobnih pametnih telefonov. Izid te bitke bi lahko pomembno vplival na določanje globalnih licenčnin za druge tehnologije. Tožba predstavlja pomemben finančni in pravni izziv za tehnološkega velikana.",
-      "analiza": "Ozadje te zadeve so kompleksni spori glede intelektualne lastnine v tehnološki industriji, kjer podjetja pogosto uporabljajo patente drug drugega. Ta primer je pomemben, ker bi lahko precedens, ki ga postavi Vrhovno sodišče Združenega kraljestva, vplival na to, kako se določajo licenčnine za standardne bistvene patente (SEP) po vsem svetu. Mehanizem vpliva je neposreden na Apple, saj bi izguba tožbe pomenila znatno finančno breme v višini 500 milijonov dolarjev. Poleg tega bi lahko vplivala na prihodnje stroške licenciranja za Apple in druga podjetja v industriji. Za delnice Appla je to kratkoročno negativno zaradi negotovosti in potencialne izgube, dolgoročno pa bi lahko spremenilo poslovni model podjetij, ki se zanašajo na široko uporabo patentov. Vpliv na druge razrede sredstev je omejen, razen če bi sodba povzročila širšo revizijo ocen vrednosti intelektualne lastnine v tehnološkem sektorju. Slovenski dolgoročni vlagatelj v tehnološka podjetja naj bo pozoren na razvoj dogodkov v patentnih sporih, saj lahko ti pomembno vplivajo na dobičkonosnost in konkurenčnost podjetij.",
+      "povzetek": "Izrael je izvedel napade na Libanon, s čimer preizkuša komaj nekaj dni star mirovni sporazum med državama. Hezbolah je sporazum označil za predajo, medtem ko izraelske sile ostajajo na položajih in nadaljujejo z napadi na jug Libanona. Ta dejanja kažejo na krhkost dogovora in nadaljnjo nestabilnost v regiji.",
+      "analiza": "Ozadje te novice je dolgotrajen konflikt med Izraelom in Libanonom, ki ga zaznamujejo občasni spopadi in poskusi mirovnih dogovorov, ki se pogosto izkažejo za kratkotrajne. Nedavni mirovni sporazum, ki je bil sklenjen pred nekaj dnevi, je bil očitno že preizkušen z izraelskimi napadi. To je relevantno zdaj, saj kaže na nadaljnjo eskalacijo napetosti na Bližnjem vzhodu, ki se pridružuje že obstoječim krizam. Mehanizem vpliva na finančne trge je preko povečanja splošnega globalnega tveganja. Vlagatelji se v takšnih razmerah pogosto umikajo iz bolj tveganih naložb. Posledice vključujejo morebitno nadaljnjo rast cen varnih zatočišč, kot je zlato, ki je danes že zraslo za 1,20 % na 4096,30 USD/oz. Delniški trgi, zlasti tisti, ki so občutljivi na geopolitična tveganja, bi lahko bili pod pritiskom. Valutni pari, kot je EUR/USD, ki je danes zrasel za 0,11 % na 1.1390, bi lahko doživeli nihanja, odvisno od percepcije relativne varnosti regij. Zgodovinsko gledano, so konflikti na Bližnjem vzhodu pogosto povzročili nestabilnost na naftnih trgih, čeprav ta novica neposredno ne omenja nafte. Vlagatelji bodo morali spremljati, ali se bodo napadi nadaljevali in ali bo mirovni sporazum popolnoma propadel, kar bi lahko vodilo v širši regionalni konflikt. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno razumeti, kako geopolitična tveganja vplivajo na globalne trge in da je diverzifikacija portfelja ključna za blaženje morebitnih negativnih vplivov.",
       "vpliv": [
-        "Potencialna izguba 500 milijonov dolarjev za Apple",
-        "Vpliv na določanje globalnih licenčnin za tehnologije",
-        "Povečana pravna negotovost v tehnološkem sektorju",
-        "Potencialni vpliv na poslovne modele"
+        "Povečana regionalna nestabilnost",
+        "Potencial za širši konflikt",
+        "Rast povpraševanja po varnih zatočiščih (zlato +1.20%)",
+        "Negativen vpliv na globalno razpoloženje na trgih"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/d6a0103a-7fca-4e66-b92f-45f6ff3de059",
-      "objavljeno": "2026-06-28T04:00:27.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss",
+      "objavljeno": "2026-06-28T15:53:07.000Z"
     },
     {
-      "naslov": "Nemčija razmišlja o postopnem zvišanju upokojitvene starosti na 70 let.",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Nemčija razmišlja o postopnem zvišanju upokojitvene starosti na 70 let do leta 2092. Ta poteza je del širših prizadevanj za reševanje dolgoročnih izzivov financiranja pokojninskih sistemov. Razprava se pojavlja v luči staranja prebivalstva, ki obremenjuje javne finance. Članek tudi postavlja vprašanje, ali bi ZDA lahko sledile podobnemu trendu. Zvišanje upokojitvene starosti bi lahko rešilo le del vrzeli v financiranju socialne varnosti.",
-      "analiza": "Ozadje te debate je demografska kriza v mnogih razvitih državah, kjer staranje prebivalstva in nizka rodnost povzročata pritisk na pokojninske sisteme. To je pomembno, ker se vlade po svetu soočajo z vse večjimi stroški socialne varnosti in zdravstva. Mehanizem vpliva je predvsem na javne finance in dolgoročno makroekonomsko stabilnost. Zvišanje upokojitvene starosti bi lahko zmanjšalo pritisk na državne proračune in prispevalo k vzdržnosti pokojninskih skladov. Vendar pa ima tudi socialne in politične posledice, saj se posamezniki soočajo z daljšim delovnim obdobjem. Za obveznice bi lahko takšna reforma pomenila zmanjšanje dolgoročnega tveganja za državno zadolženost, kar bi lahko pozitivno vplivalo na njihove donosnosti. Na delniške trge ima vpliv preko splošnega zaupanja v gospodarstvo in potrošniško porabo, saj daljše delo pomeni tudi daljše plačevanje prispevkov in potencialno kasnejše trošenje prihrankov. Slovenski dolgoročni vlagatelj naj razume, da so demografski trendi in reforme pokojninskih sistemov ključni za dolgoročno stabilnost gospodarstev in s tem tudi za donosnost naložb v državne obveznice in delnice podjetij v teh državah.",
-      "vpliv": [
-        "Potencialno zmanjšanje pritiska na javne finance",
-        "Dolgoročni vpliv na pokojninske sisteme",
-        "Vpliv na delovno silo in potrošniško porabo",
-        "Potencialni vpliv na donosnost državnih obveznic"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-27T19:30:00.000Z"
-    },
-    {
-      "naslov": "Obvezniški velikan Pimco krepi prisotnost na trgu zasebnih naložb.",
-      "sektor": "Finance",
+      "naslov": "Micron na poti do izjemne dobičkonosnosti, poganjajo ga visoke cene AI pomnilnika",
+      "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Obvezniški velikan Pimco aktivno širi svoje delovanje na področju zasebnih naložb. Podjetje poskuša izkoristiti potrebo nekaterih posojilojemalcev po zbiranju kapitala, saj se meje med javnimi in zasebnimi trgi zabrišejo. To kaže na trend, kjer se institucionalni vlagatelji vedno bolj obračajo k zasebnim trgom za iskanje donosov in diverzifikacije. Pimco s to strategijo utrjuje svoj položaj v finančni industriji.",
-      "analiza": "Ozadje te novice je naraščajoč trend, kjer se podjetja, ki potrebujejo financiranje, vedno pogosteje obračajo na zasebne trge, saj so javni trgi postali bolj regulirani in morda manj fleksibilni. To je pomembno, ker kaže na strukturne spremembe v globalnem finančnem sistemu, kjer zasebni kapital igra vse pomembnejšo vlogo. Mehanizem vpliva je predvsem na finančni sektor in trge kapitala. Za Pimco to pomeni priložnost za rast in diverzifikacijo prihodkov, saj se pozicionira kot ključni igralec na tem področju. Za delnice finančnih podjetij, ki so aktivna na področju zasebnih naložb, je to pozitivno. Za obveznice pa pomeni, da se del povpraševanja po financiranju preusmerja iz javnih v zasebne obvezniške trge, kar lahko vpliva na likvidnost in donosnost javno trženih obveznic. Slovenski dolgoročni vlagatelj naj razume, da se finančni trgi nenehno razvijajo in da so zasebne naložbe, čeprav manj dostopne posameznim vlagateljem, pomemben del globalnega finančnega ekosistema, ki lahko vpliva na širše tržne trende in priložnosti.",
+      "povzetek": "Podjetje Micron Technology naj bi postalo eno najbolj dobičkonosnih ameriških podjetij, presegla ga bosta le Nvidia in Google. Ta dramatičen preobrat v Micronovih financah je posledica izjemno visokih cen komponent pomnilnika za umetno inteligenco, ki so jih velika tehnološka podjetja pripravljena plačati. Povečano povpraševanje po AI tehnologijah in s tem povezanih pomnilniških rešitvah poganja rast podjetja.",
+      "analiza": "Ozadje te novice je eksponentna rast sektorja umetne inteligence (AI), ki ustvarja ogromno povpraševanje po specializiranih in visoko zmogljivih pomnilniških komponentah. Micron, kot eden ključnih igralcev na trgu pomnilnikov, je neposredni upravičenec tega trenda. To je relevantno zdaj, saj poudarja, kako močno AI preoblikuje tehnološko industrijo in ustvarja nove priložnosti za podjetja v dobavni verigi. Mehanizem vpliva je jasen: povečano povpraševanje in visoke cene AI pomnilnika neposredno izboljšujejo marže in dobičkonosnost podjetja Micron. Posledice vključujejo potencialno rast delnic podjetja Micron in drugih podjetij v ekosistemu AI, saj vlagatelji iščejo podjetja, ki so dobro pozicionirana za izkoriščanje tega trenda. Indeksi, kot je Nasdaq 100, ki je danes sicer padel za 1,09 % na 29118, bi lahko dolgoročno imeli koristi od takšnih pozitivnih novic v tehnološkem sektorju. Zgodovinsko gledano, so podjetja, ki so se uspešno pozicionirala v zgodnjih fazah velikih tehnoloških valov (npr. internet, mobilna telefonija), doživela izjemno rast. Vlagatelji bodo spremljali nadaljnje poročanje o dobičkih podjetja Micron in splošno povpraševanje po AI komponentah. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor tehnologije in umetne inteligence še vedno vir inovacij in potencialne rasti, vendar je pomembno razumeti tveganja in priložnosti posameznih podjetij v tem hitro spreminjajočem se okolju.",
       "vpliv": [
-        "Rast zasebnih naložb v finančnem sektorju",
-        "Zabrisovanje meja med javnimi in zasebnimi trgi",
-        "Povečana vloga institucionalnih vlagateljev",
-        "Vpliv na likvidnost javnih obvezniških trgov"
+        "Pričakovana visoka dobičkonosnost podjetja Micron",
+        "Povečano povpraševanje po AI pomnilniku",
+        "Potencialna rast delnic Micron",
+        "Pozitiven signal za tehnološki sektor"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google-3a83e343?mod=mw_rss_topstories",
+      "objavljeno": "2026-06-28T14:00:00.000Z"
+    },
+    {
+      "naslov": "Opozorila o \"astronomskih\" stroških širitve Heathrowa, primerljivi z luksuznim Mercedesom",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Širitev letališča Heathrow v vrednosti 33 milijard funtov je bila s strani vodje letalske skupine Star Alliance označena za \"luksuzni Mercedes\". Opozoril je na \"astronomske\" stroške projekta tretje vzletno-pristajalne steze. Ta izjava poudarja zaskrbljenost glede finančne vzdržnosti in morebitnega vpliva na letalske prevoznike in potnike.",
+      "analiza": "Ozadje te novice je dolgotrajna debata o širitvi letališča Heathrow, enega najprometnejših na svetu, ki je ključno prometno vozlišče za Evropo in svet. Projekt tretje vzletno-pristajalne steze je bil predmet številnih razprav zaradi okoljskih, logističnih in finančnih pomislekov. Opozorilo vodje Star Alliance je relevantno zdaj, saj neposredno izpostavlja finančno breme, ki bi ga lahko projekt predstavljal. Mehanizem vpliva je večplasten: visoki stroški širitve se lahko prenesejo na letalske družbe v obliki višjih pristojbin, kar bi posledično lahko vplivalo na cene letalskih vozovnic in povpraševanje po letalskih potovanjih. To bi lahko imelo negativen vpliv na dobičkonosnost letalskih prevoznikov in turistični sektor. Delnice letalskih družb, ki uporabljajo Heathrow, bi lahko bile pod pritiskom. Prav tako bi lahko vplivalo na podjetja, vpletena v gradbeništvo in infrastrukturo, če se stroški ne obvladujejo. Zgodovinsko gledano, so veliki infrastrukturni projekti pogosto presegli proračun, kar je imelo dolgoročne finančne posledice. Vlagatelji bodo spremljali razvoj projekta, morebitne revizije stroškov in odzive letalskih družb. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so veliki infrastrukturni projekti lahko vir tako priložnosti kot tveganj, in da je analiza stroškov in koristi ključna pri ocenjevanju potencialnih naložb v sektorje, kot sta letalstvo in gradbeništvo.",
+      "vpliv": [
+        "Opozorilo o astronomskih stroških projekta",
+        "Potencialno višje pristojbine za letalske družbe",
+        "Negativen vpliv na dobičkonosnost letalskih prevoznikov",
+        "Zaskrbljenost glede finančne vzdržnosti"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/5bd2ea32-4cb1-4575-9cb5-10c528aacc1e",
-      "objavljeno": "2026-06-28T04:00:09.000Z"
+      "vir_url": "https://www.ft.com/content/a84923f4-66cc-4713-9ae5-576390efbeac",
+      "objavljeno": "2026-06-28T16:00:10.000Z"
+    },
+    {
+      "naslov": "Analitiki pričakujejo negotovost za podjetja, če se sporazum USMCA ne obnovi",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Analitiki opozarjajo na negotovost za podjetja, če se trgovinski sporazum USMCA (ZDA-Mehika-Kanada) ne obnovi. Ameriški predsednik Donald Trump je pred julijskim pregledom sporazuma izjavil, da bi \"raje ne imel\" prostotrgovinskega dogovora. To ustvarja zaskrbljenost glede prihodnosti trgovinskih odnosov med tremi državami.",
+      "analiza": "Ozadje te novice je pomembnost sporazuma USMCA, ki je naslednik NAFTA in ureja trgovinske odnose med ZDA, Mehiko in Kanado. Ta sporazum je ključen za številne industrije v Severni Ameriki, od avtomobilske do kmetijske. Izjava predsednika Trumpa je relevantna zdaj, saj se bliža julijski pregled sporazuma in njegova retorika lahko močno vpliva na pogajanja in pričakovanja trgov. Mehanizem vpliva je preko povečane negotovosti glede prihodnjih trgovinskih pravil in tarif. Če sporazum ne bo obnovljen ali bo bistveno spremenjen, bi to lahko povzročilo motnje v dobavnih verigah, višje stroške za podjetja in zmanjšanje investicij v regiji. Posledice vključujejo morebiten pritisk na delnice podjetij, ki so močno odvisna od čezmejnega trgovanja v Severni Ameriki. To bi lahko vplivalo tudi na valute, saj bi se mehiški peso in kanadski dolar lahko oslabila glede na ameriški dolar, če se trgovinski odnosi poslabšajo. Zgodovinsko gledano, so trgovinske vojne in negotovost glede trgovinskih sporazumov vedno povzročile volatilnost na trgih in upočasnitev gospodarske rasti. Vlagatelji bodo pozorno spremljali izjave politikov in potek pogajanj pred julijskim pregledom. Za slovenskega dolgoročnega vlagatelja to pomeni, da je globalna trgovinska politika pomemben dejavnik, ki vpliva na svetovno gospodarstvo in s tem tudi na naložbene priložnosti, zato je pomembno spremljati razvoj dogodkov v ključnih trgovinskih blokih.",
+      "vpliv": [
+        "Povečana negotovost za podjetja v Severni Ameriki",
+        "Potencialne motnje v dobavnih verigah",
+        "Možna oslabitev mehiškega pesa in kanadskega dolarja",
+        "Negativen vpliv na investicije v regiji"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/6/28/if-usmca-is-not-renewed-analysts-expect-uncertainty-for-businesses?traffic_source=rss",
+      "objavljeno": "2026-06-28T14:52:35.000Z"
+    },
+    {
+      "naslov": "Evropski vročinski val povzročil 1.000 presežnih smrti v Franciji, poudarja podnebne izzive",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Evropski vročinski val je v Franciji povzročil 1.000 presežnih smrti, kar poudarja resnost podnebnih sprememb in njihov vpliv na javno zdravje. Agencija AFP ocenjuje, da bo vsaj 191 milijonov ljudi v Evropi izkusilo temperature najmanj 35 °C. To kaže na obsežnost in resnost vremenskih pojavov, ki imajo neposredne družbene in ekonomske posledice.",
+      "analiza": "Ozadje te novice je globalni trend podnebnih sprememb, ki se kaže v pogostejših in intenzivnejših vročinskih valovih po vsem svetu, še posebej v Evropi. Presežne smrti v Franciji so tragičen opomin na neposredne človeške stroške teh pojavov. To je relevantno zdaj, saj vročinski valovi ne vplivajo le na zdravje, ampak imajo tudi širše ekonomske posledice, kot so povečana poraba energije za hlajenje, vpliv na kmetijstvo in produktivnost dela. Mehanizem vpliva na finančne trge je posreden, a pomemben: dolgoročno podnebne spremembe vplivajo na številne sektorje, vključno z zavarovalništvom (zaradi povečanih zahtevkov), energetiko (nihanja v povpraševanju), kmetijstvom (pridelki) in turizmom. Kratkoročno lahko vplivajo na lokalno gospodarstvo in javne finance zaradi stroškov zdravstvenega varstva in infrastrukture. Zgodovinsko gledano, so ekstremni vremenski dogodki vedno povzročili gospodarske izgube in poudarili ranljivost določenih sektorjev. Vlagatelji bodo morali spremljati, kako se podjetja in vlade prilagajajo na podnebne spremembe in kakšne so dolgoročne strategije za zmanjšanje tveganj. Za slovenskega dolgoročnega vlagatelja to pomeni, da je vpliv podnebnih sprememb na gospodarstvo in naložbe vse bolj opazen, zato je pomembno upoštevati dejavnike ESG (okolje, družba, upravljanje) pri odločanju o naložbah in iskati podjetja, ki so odporna na podnebna tveganja ali ponujajo rešitve za njihovo blaženje.",
+      "vpliv": [
+        "1.000 presežnih smrti v Franciji",
+        "Prizadetih 191 milijonov ljudi v Evropi",
+        "Povečani stroški zdravstvenega varstva",
+        "Vpliv na kmetijstvo in energetiko"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/6/28/european-heatwave-causes-1000-excess-deaths-in-france?traffic_source=rss",
+      "objavljeno": "2026-06-28T14:38:09.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-06-28T07:57:35.590Z",
+    "posodobljenoOb": "2026-06-28T16:43:30.223Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -164,8 +181,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 60113.71,
-        "sprememba_pct": 0.29,
+        "vrednost": 59596.57,
+        "sprememba_pct": -0.57,
         "enota": "USD"
       }
     ],
