@@ -1,156 +1,161 @@
 {
-  "generiranoOb": "2026-06-30T17:45:44.729Z",
+  "generiranoOb": "2026-07-01T17:30:41.497Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-06-30",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, kar se odraža v rasti nemškega indeksa DAX za 1,50 % na 24.996 točk. Tudi ameriški trgi so v zgodnjih popoldanskih urah nadaljevali z rastjo, saj je indeks S&P 500 pridobil 0,71 % in dosegel 7.493 točk, tehnološko usmerjeni Nasdaq 100 pa je zrasel za 1,64 % na 30.264 točk. Na trgu surovin je cena nafte WTI padla za 1,55 % na 69,65 USD/sod, medtem ko je zlato zabeležilo minimalno rast za 0,09 % na 4042,60 USD/oz. Kriptovalute so bile pod pritiskom, saj je Bitcoin padel za 3,12 % na 58.273 USD, medtem ko je indeks volatilnosti VIX upadel za 9,40 % na 16,68. Med ključnimi novicami dneva izstopa napoved Amazona o milijardni naložbi v umetno inteligenco, opozorilo ameriškega finančnega ministra naftnim in plinskim podjetjem glede cen ter odločitev Vrhovnega sodišča ZDA glede državljanstva po rojstvu. Vlagatelji naj bodo v prihodnjih dneh pozorni na objave ključnih makroekonomskih podatkov, ki lahko vplivajo na smer globalnih trgih.",
+  "datum": "2026-07-01",
+  "povzetek": "Evropski trgi so zaključili dan z mešanimi občutki, medtem ko so ameriški trgi po dveh urah trgovanja kazali različne smeri. Nemški indeks DAX je danes pridobil 0,18 % in se ustavil pri 25040 točkah, kar kaže na rahlo pozitivno razpoloženje v Evropi. Na drugi strani Atlantika je širši indeks S&P 500 zabeležil skromno rast za 0,11 % na 7507 točk, medtem ko je tehnološko usmerjeni Nasdaq 100 padel za 1,11 % na 29941 točk, kar kaže na pritisk na tehnološki sektor. Cena zlata je zrasla za 1,11 % na 4083,40 USD/oz, medtem ko sta ceni nafte WTI in Brent padli za 1,68 % oziroma 2,18 %. Med ključnimi novicami dneva izstopajo poročila o izjemnih zaslužkih Donalda Trumpa iz kriptovalut, negotovost glede podaljšanja trgovinskega sporazuma USMCA za avtomobilsko industrijo ter komentarji predsednika Feda Kevina Warsha o neodvisnosti centralne banke. Vlagatelji bodo v prihodnjih dneh pozorno spremljali objave ključnih makroekonomskih podatkov, ki lahko vplivajo na pričakovanja glede monetarne politike.",
   "novice": [
     {
-      "naslov": "Amazon vlaga milijardo dolarjev v pospeševanje sprejemanja umetne inteligence pri strankah.",
+      "naslov": "Trumpovi milijardni zaslužki iz kriptovalut in širitev finančnega imperija",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Ameriški predsednik Donald Trump je razkril svoje finančno stanje za preteklo leto, ki kaže na izjemne zaslužke. Njegov letni finančni izkaz je skoraj štirikrat obsežnejši kot lani in razkriva več kot 2 milijardi dolarjev prihodkov iz kriptovalut, delnic, licenciranja in drugih poslov. Samo iz kriptovalut naj bi Trump v prvem letu mandata zaslužil več kot 1,4 milijarde dolarjev, kar močno presega njegove prihodke iz nepremičnin in izdelkov z blagovno znamko Trump. Ti podatki poudarjajo naraščajočo vlogo kriptovalut v premoženju pomembnih javnih osebnosti in širšo sprejetost digitalnih sredstev.",
+      "analiza": "Razkritje izjemnih zaslužkov Donalda Trumpa iz kriptovalut, ki presegajo 1,4 milijarde dolarjev v enem letu, je pomemben dogodek, ki odmeva v finančnem svetu. To ni le novica o osebnem premoženju, temveč tudi indikator naraščajoče legitimnosti in privlačnosti kriptovalut, celo med tradicionalnimi investitorji in političnimi figurami. V preteklosti so kriptovalute veljale za nišno in tvegano naložbo, zdaj pa se uveljavljajo kot pomemben del globalnega finančnega sistema. Takšna razkritja lahko posredno vplivajo na splošno zaupanje v kripto trge, saj jih postavljajo v ospredje in zmanjšujejo percepcijo tveganja. Bitcoin je danes zrasel za 2,62 % na 60085 USD, kar bi lahko bilo del širšega pozitivnega sentimenta. Posledično bi lahko videli povečano zanimanje institucionalnih in malih vlagateljev za kripto sredstva, kar bi lahko dolgoročno podpiralo njihove cene. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati razvoj regulacije in institucionalnega sprejemanja kriptovalut, saj to vpliva na stabilnost in potencial rasti tega razreda sredstev, vendar brez da bi se prepustil špekulativnemu navdušenju.",
+      "vpliv": [
+        "Povečano zanimanje za kriptovalute",
+        "Potencialno nadaljnje institucionalno sprejemanje",
+        "Bitcoin +2,62 % na 60085 USD"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/trump-discloses-expanding-financial-empire-including-apple-stock-celebration-coins-and-crypto-8786ef64?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-01T16:43:00.000Z"
+    },
+    {
+      "naslov": "Negotovost v ameriški avtomobilski industriji zaradi sporazuma USMCA",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Ameriška avtomobilska industrija se sooča z naraščajočo negotovostjo, če ne bo podaljšan trgovinski sporazum USMCA (ZDA-Mehika-Kanada). Ključno vprašanje za proizvajalce avtomobilov so pravila o poreklu, ki določajo, od kod izdelek izvira in katere dobrine so upravičene do preferencialne obravnave. Nepodaljšanje sporazuma bi lahko povzročilo višje carine in motnje v dobavnih verigah, kar bi neposredno vplivalo na stroške proizvodnje in konkurenčnost ameriških avtomobilskih podjetij. To bi lahko imelo širše posledice za regionalno gospodarstvo in zaposlovanje.",
+      "analiza": "Trgovinski sporazum USMCA, ki je nasledil NAFTA, je ključnega pomena za integrirane dobavne verige v Severni Ameriki, še posebej v avtomobilski industriji. Morebitno nepodaljšanje sporazuma ali sprememba pravil o poreklu bi pomenilo znatno povečanje stroškov za avtomobilske proizvajalce, ki so močno odvisni od čezmejnega pretoka komponent. To bi lahko vplivalo na dobičkonosnost podjetij, kot so Ford, General Motors in Stellantis, kar bi se odrazilo v cenah njihovih delnic. Povečane carine bi lahko povzročile tudi višje cene avtomobilov za potrošnike, kar bi zmanjšalo povpraševanje in vplivalo na celotno gospodarstvo. V preteklosti so trgovinski spori in negotovost glede sporazumov pogosto povzročili nestabilnost na trgih in umik investitorjev. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da globalni trgovinski odnosi in regionalni sporazumi močno vplivajo na mednarodna podjetja in dobavne verige, kar se posredno odraža tudi na globalnih delniških trgih. Spremljanje razvoja pogajanj o USMCA je ključno za oceno tveganj v sektorjih, ki so odvisni od globalne proizvodnje.",
+      "vpliv": [
+        "Povečani stroški za avtomobilsko industrijo",
+        "Potencialno višje cene avtomobilov",
+        "Negativen vpliv na delnice avtomobilskih proizvajalcev",
+        "Motnje v dobavnih verigah"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html",
+      "objavljeno": "2026-07-01T17:10:09.000Z"
+    },
+    {
+      "naslov": "Predsednik Feda Warsh poudarja neodvisnost centralne banke in stabilnost cen",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Predsednik Federalnih rezerv Kevin Warsh je zagotovil, da ne bo sprememb glede neodvisnosti Feda. Povedal je, da bo osrednji poudarek centralne banke ostala stabilnost cen, ne glede na morebitne pritiske iz Bele hiše. Ta izjava prihaja v času, ko Wall Street veteran Bob Doll opozarja, da bikovski trg delnic, ki ga opisuje kot 'visoko tveganega', potrebuje podporo Kevina Warsha. Warshova izjava je pomembna za ohranjanje zaupanja v monetarno politiko in njeno predvidljivost.",
+      "analiza": "Izjava predsednika Federalnih rezerv Kevina Warsha o ohranjanju neodvisnosti centralne banke in osredotočenosti na stabilnost cen je ključna za finančne trge. Neodvisnost centralne banke je temelj za učinkovito monetarno politiko, saj preprečuje politične vplive, ki bi lahko vodili do inflacije ali nestabilnosti. V preteklosti so vmešavanja v delovanje centralnih bank pogosto povzročila povečano volatilnost in nezaupanje vlagateljev. Warshova zavezanost stabilnosti cen je pomembna v luči trenutne inflacije in visokih obrestnih mer. Donosnost 10-letne ameriške obveznice je danes zrasla za 1,06 % na 4,46 %, kar kaže na pričakovanja trga glede nadaljnjega zaostrovanja monetarne politike ali vsaj ohranjanja visokih obrestnih mer. Trgi so občutljivi na vsako namigovanje o smeri monetarne politike, zato takšne izjave pomagajo pri umirjanju špekulacij. Za slovenskega dolgoročnega vlagatelja to pomeni, da je stabilno in predvidljivo delovanje centralnih bank ključno za dolgoročno rast in ohranjanje vrednosti naložb, saj zmanjšuje sistemska tveganja in omogoča boljše načrtovanje.",
+      "vpliv": [
+        "Potrditev neodvisnosti Feda",
+        "Poudarek na stabilnosti cen",
+        "Donosnost 10Y US Treasury +1,06 % na 4,46 %",
+        "Vpliv na pričakovanja glede obrestnih mer"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/e6b33b7c-c730-4818-b132-fc5f52845065",
+      "objavljeno": "2026-07-01T15:53:25.000Z"
+    },
+    {
+      "naslov": "Mali vlagatelji preoblikujejo borzo in podirajo rekorde na Wall Streetu",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Dejavnost malih vlagateljev je v maju in juniju dosegla rekordne ravni, kar kaže na preoblikovanje borznega trka. Ti vlagatelji, ki jih včasih imenujejo 'neumni denar', so se izkazali za precej pametne pri nakupovanju ob padcih. Poročilo s petimi grafi prikazuje, kako ta kohorta 'preoblikuje delniški trg' in podira rekorde Wall Streeta. Njihova sposobnost, da izkoristijo padce cen, kaže na spremenjeno dinamiko trga, kjer imajo mali vlagatelji vse večji vpliv.",
+      "analiza": "Naraščajoča dejavnost malih vlagateljev na borzi, ki je v maju in juniju dosegla rekordne ravni, predstavlja pomemben premik v strukturi trga. Tradicionalno so trgu dominirale velike institucije, zdaj pa se vpliv malih vlagateljev, ki so pogosto koordinirani prek spletnih platform, povečuje. Njihova strategija 'nakupovanja ob padcih' (buy the dip) se je v zadnjem času izkazala za uspešno, kar kaže na njihovo sposobnost, da vplivajo na cene delnic, še posebej pri manjših in srednje velikih podjetjih. Ta trend lahko poveča volatilnost na trgu, saj se mali vlagatelji pogosto odzivajo na družbena omrežja in hitre informacije. Hkrati pa lahko prinaša tudi novo likvidnost in podporo trgu v obdobjih korekcij. Nasdaq 100 je danes padel za 1,11 %, kar bi lahko predstavljalo priložnost za te vlagatelje. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da se tržna dinamika spreminja in da je vpliv malih vlagateljev dejavnik, ki ga je treba upoštevati pri analizi tržnih gibanj, vendar je ključno ohraniti dolgoročno perspektivo in se izogniti kratkoročnim špekulacijam.",
+      "vpliv": [
+        "Povečana volatilnost na trgu",
+        "Nov vir likvidnosti",
+        "Vpliv na cene delnic manjših in srednje velikih podjetij",
+        "Spremenjena dinamika trga"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/5-charts-showing-how-dumb-money-is-transforming-the-stock-market-as-retail-traders-smash-wall-street-records-c651b4e5?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-01T17:10:00.000Z"
+    },
+    {
+      "naslov": "Vojna z Iranom trajno preoblikovala globalni energetski sektor",
+      "sektor": "Energetika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Konflikt z Iranom je trajno spremenil globalni energetski sektor, kar so potrdili energetski analitiki. Vojna bo pospešila prehod na obnovljive vire energije in iskanje alternativnih poti za dobavo nafte, mimo Hormuške ožine. Kljub temu, da je ameriška proizvodnja v juniju rasla že šesti mesec zapored, se sektor sooča z visokimi carinami in drugimi ovirami. Cene nafte WTI in Brent so danes padle za 1,68 % oziroma 2,18 %, kar kaže na kompleksnost trga kljub geopolitičnim napetostim.",
+      "analiza": "Vojna z Iranom, ki je omenjena v novicah, je imela in ima še vedno globok vpliv na globalni energetski sektor. Geopolitične napetosti v regiji, ki je ključna za svetovno oskrbo z nafto, so tradicionalno povzročale skoke cen nafte. Vendar pa dolgoročni vpliv konflikta, kot poudarjajo analitiki, ni le v kratkoročnih cenovnih nihanjih, temveč v pospeševanju strukturnih sprememb. Države in podjetja iščejo večjo energetsko neodvisnost in diverzifikacijo dobavnih poti, kar vključuje intenzivnejši razvoj obnovljivih virov in iskanje alternativ Hormuški ožini. Kljub temu, da so cene nafte WTI in Brent danes padle na 68,33 USD/sod oziroma 71,36 USD/sod, kar bi lahko bilo posledica drugih dejavnikov, kot je povečana ameriška proizvodnja ali splošno umirjanje povpraševanja, dolgoročni trend kaže na preusmeritev. Za slovenskega dolgoročnega vlagatelja to pomeni, da je energetski sektor v fazi transformacije. Naložbe v podjetja, ki se osredotočajo na obnovljive vire energije, energetsko učinkovitost in inovativne rešitve za shranjevanje energije, bi lahko imele dolgoročno rast, medtem ko bi se tradicionalna naftna in plinska podjetja lahko soočala z večjimi tveganji in pritiski za prilagoditev.",
+      "vpliv": [
+        "Pospešen prehod na obnovljive vire energije",
+        "Iskanje alternativnih dobavnih poti za nafto",
+        "WTI nafta -1,68 % na 68,33 USD/sod",
+        "Brent nafta -2,18 % na 71,36 USD/sod"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/7/1/how-war-on-iran-changed-the-global-energy-sector-forever?traffic_source=rss",
+      "objavljeno": "2026-07-01T14:45:04.000Z"
+    },
+    {
+      "naslov": "Nvidia stavi na bilijonski razcvet robotike in humanoidnih robotov",
       "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Amazon.com napoveduje naložbo v višini milijarde dolarjev, s katero želi pospešiti sprejemanje rešitev umetne inteligence (AI) pri svojih strankah. Podjetje bo v ta namen pošiljalo svoje inženirje neposredno k strankam, kar odraža strategijo, podobno tisti, ki jo uporablja Palantir. Cilj je okrepiti implementacijo in uporabo AI tehnologij v različnih panogah. Ta poteza poudarja Amazonovo zavezanost širjenju svojega ekosistema AI in utrjevanju položaja na hitro rastočem trgu umetne inteligence.",
-      "analiza": "Naložba Amazona v višini milijarde dolarjev v pospeševanje sprejemanja umetne inteligence pri strankah je pomemben korak v nadaljnji komercializaciji AI tehnologij. Ozadje te poteze je hitra rast in transformativni potencial umetne inteligence, ki postaja ključna konkurenčna prednost za podjetja po vsem svetu. Amazon se s tem ne osredotoča le na razvoj lastnih AI produktov, temveč tudi na praktično implementacijo in integracijo pri končnih uporabnikih, kar je ključno za dolgoročno rast in monetizacijo. Mehanizem vpliva na finančne trge je večplasten: za delnice Amazona (AMZN) je to pozitivno, saj kaže na strateško vizijo in potencial za nove vire prihodkov. Celoten sektor tehnologije in umetne inteligence, vključno s podjetji, ki razvijajo AI orodja in storitve, lahko pričakuje nadaljnji optimizem. Povečano povpraševanje po AI rešitvah lahko vpliva tudi na delnice proizvajalcev polprevodnikov, ki so ključni za delovanje AI sistemov. Za obveznice in valute je neposreden vpliv manjši, posredno pa lahko dolgoročna rast produktivnosti zaradi AI prispeva k močnejši gospodarski rasti in s tem k stabilnejšim trgom. Slovenski dolgoročni vlagatelj lahko to razume kot potrditev dolgoročnega trenda rasti v sektorju umetne inteligence, kar poudarja pomen diverzifikacije portfelja v podjetja, ki so vodilna v inovacijah in implementaciji naprednih tehnologij.",
+      "povzetek": "Nvidia, vodilni proizvajalec grafičnih procesorjev, močno stavi na bilijonski razcvet robotike. Izvršni direktor Jensen Huang je humanoidne robote označil za 'večbilijonsko gospodarsko priložnost'. To kaže na strateško usmeritev podjetja v razvoj umetne inteligence in strojne opreme, ki bo poganjala prihodnje generacije robotov. Nvidijina vloga v tem sektorju bi lahko bila ključna, saj se pričakuje, da bo povpraševanje po naprednih procesorjih za robotiko eksponentno raslo, kar odpira nove tržne priložnosti.",
+      "analiza": "Nvidijina strateška usmeritev v robotiko in humanoidne robote, ki jo izvršni direktor Jensen Huang ocenjuje kot 'večbilijonsko gospodarsko priložnost', poudarja potencial tega hitro rastočega tehnološkega sektorja. Nvidia je že zdaj ključni igralec na področju umetne inteligence in obdelave podatkov, kar jo postavlja v idealen položaj za izkoriščanje rasti robotike. Razvoj naprednih robotov zahteva izjemno procesorsko moč in sofisticirane algoritme AI, področja, kjer je Nvidia vodilna. Ta poteza bi lahko dolgoročno podprla rast delnic podjetja, saj se bo povpraševanje po njihovih čipih in programski opremi povečevalo. V preteklosti so podjetja, ki so zgodaj prepoznala in investirala v prelomne tehnologije, kot so internet ali pametni telefoni, doživela eksponentno rast. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati tehnološke trende in podjetja, ki so v ospredju inovacij. Naložbe v sektorje, kot sta umetna inteligenca in robotika, lahko ponudijo visoke donose, vendar so povezane tudi z višjim tveganjem, zato je ključna diverzifikacija in temeljita analiza posameznih podjetij.",
       "vpliv": [
-        "Povečanje vrednosti delnic Amazon (AMZN)",
-        "Rast v celotnem sektorju umetne inteligence",
-        "Povečano povpraševanje po polprevodnikih"
+        "Povečano povpraševanje po Nvidijinih čipih in AI rešitvah",
+        "Potencialna dolgoročna rast delnic Nvidie",
+        "Rast sektorja robotike in AI",
+        "Novi tržni segmenti"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/amazon-is-laying-out-1-billion-to-follow-palantirs-ai-playbook-7d9ff6e4?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-30T17:41:00.000Z"
-    },
-    {
-      "naslov": "Ameriški finančni minister opozarja naftna in plinska podjetja glede cen.",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Ameriški finančni minister Scott Bessent je izdal prikrito opozorilo naftnim in plinskim podjetjem, naj znižajo cene goriva. To opozorilo je sledilo javnim kritikam Donalda Trumpa, ki je na družbenih omrežjih izrazil nezadovoljstvo nad počasnim padcem cen in zahteval, da se cene ciljajo na 2,50 dolarja za galono. Bessent je v intervjuju za Fox News dejal, da \"jih spodbuja, da so dobri akterji, še posebej ob 250. obletnici, ker jih opazujemo,\" kar je naslovil na velika naftna podjetja, neodvisne in mednarodne trgovce.",
-      "analiza": "Opozorilo ameriškega finančnega ministra Scotta Bessenta naftnim in plinskim podjetjem glede cen goriva predstavlja pomemben poseg vlade v tržno dinamiko. Ozadje je visoka inflacija in pritisk na potrošnike, kar je postalo ključno politično vprašanje, še posebej v predvolilnem obdobju. Predsednik Trump je že pred tem javno kritiziral podjetja, kar kaže na stopnjevanje pritiska. Mehanizem vpliva je neposreden: vladni pritisk lahko prisili podjetja k znižanju cen, kar bi lahko zmanjšalo njihove marže in dobičkonosnost. Za delnice energetskih podjetij je to negativno, saj se zmanjšuje pričakovana dobičkonosnost. Cena nafte WTI je danes padla za 1,55 % na 69,65 USD/sod, kar lahko delno odraža pričakovanja trga glede morebitnega povečanja ponudbe ali zmanjšanja marž. Za potrošnike bi to pomenilo nižje cene goriva, kar bi lahko pozitivno vplivalo na razpoložljivi dohodek in s tem na potrošnjo, a hkrati lahko zmanjša investicije v energetski sektor. Za obveznice in valute bi nižje cene nafte lahko pomagale pri obvladovanju inflacije, kar bi lahko zmanjšalo pritisk na centralne banke za dvig obrestnih mer. Slovenski dolgoročni vlagatelj bi moral to razumeti kot tveganje za naložbe v energetski sektor, saj vladni posegi lahko spremenijo tržne pogoje in vplivajo na dolgoročno donosnost.",
-      "vpliv": [
-        "Negativno na delnice energetskih podjetij",
-        "Potencialno znižanje cen nafte",
-        "Zmanjšanje inflacijskih pritiskov"
-      ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/2026/jun/30/scott-bessent-oil-gas-companies-prices-warning",
-      "objavljeno": "2026-06-30T15:25:40.000Z"
-    },
-    {
-      "naslov": "Zlato pred \"križem smrti\", ki bi lahko presenetljivo napovedal dobičke.",
-      "sektor": "Finance",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Zlato se približuje tehničnemu vzorcu, znanemu kot \"križ smrti\", kjer kratkoročno drseče povprečje pade pod dolgoročno drseče povprečje. Čeprav je ta vzorec običajno interpretiran kot medvedji signal, analiza 45-letnih podatkov kaže, da bi lahko v primeru zlata presenetljivo napovedoval prihodnje dobičke. Trenutna cena zlata je 4042,60 USD/oz, kar predstavlja minimalno rast za 0,09 % danes. Ta tehnična formacija sproža razprave med analitiki o prihodnji smeri cene plemenite kovine.",
-      "analiza": "\"Križ smrti\" je tehnični indikator, ki ga vlagatelji običajno razumejo kot znak za medvedji trend, saj signalizira, da se kratkoročni zagon zmanjšuje. Vendar pa je pri zlatu, kot kaže 45-letna analiza, zgodovinsko gledano ta vzorec včasih presenetljivo napovedoval rast. To je pomembno, saj zlato velja za varno zatočišče in njegovo gibanje pogosto odraža širše makroekonomske negotovosti, inflacijska pričakovanja in gibanje realnih obrestnih mer. Mehanizem vpliva je predvsem psihološki in tehničen; nekateri vlagatelji lahko prodajo ob pojavu \"križa smrti\", kar ustvari priložnost za druge, ki verjamejo v dolgoročno vrednost zlata ali upoštevajo zgodovinske anomalije. Cena zlata je danes zrasla za 0,09 % na 4042,60 USD/oz, kar kaže na mešane signale. Morebitna rast cene zlata bi lahko bila posledica povečanih geopolitičnih tveganj, inflacijskih pritiskov ali negotovosti na delniških trgih, kar bi spodbudilo povpraševanje po varnih naložbah. Za obveznice bi močno zlato lahko pomenilo pričakovanje nižjih realnih obrestnih mer. Za slovenske dolgoročne vlagatelje je to opomnik, da tehnični indikatorji niso vedno zanesljivi in da je ključno razumeti širši makroekonomski kontekst. Zlato lahko služi kot diverzifikacija portfelja in zaščita pred inflacijo, ne glede na kratkoročne tehnične signale.",
-      "vpliv": [
-        "Potencialna rast cene zlata kljub medvedjemu signalu",
-        "Povečana negotovost med tehničnimi analitiki",
-        "Vpliv na percepcijo varnih zatočišč"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/gold-is-on-the-verge-of-a-death-cross-that-could-surprisingly-foreshadow-gains-2605e99d?mod=mw_rss_topstories",
-      "objavljeno": "2026-06-30T17:03:00.000Z"
-    },
-    {
-      "naslov": "Vrhovno sodišče ZDA zavrnilo Trumpov poskus ukinitve državljanstva po rojstvu.",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Vrhovno sodišče ZDA je s sodbo 6 proti 3 zavrnilo izvršni ukaz predsednika Donalda Trumpa, ki je želel omejiti ali ukiniti državljanstvo po rojstvu. Ta odločitev predstavlja velik udarec za Trumpovo imigracijsko agendo in potrjuje, da skoraj vsi dojenčki, rojeni na ameriških tleh, avtomatsko postanejo državljani. Sodba poudarja ustavno zaščito 14. amandmaja in ohranja dolgoletno pravno prakso v ZDA.",
-      "analiza": "Odločitev Vrhovnega sodišča ZDA, ki je zavrnila poskus ukinitve državljanstva po rojstvu, je pomemben pravni in politični dogodek. Ozadje te sodbe je dolgotrajna debata o imigracijski politiki v ZDA in poskusi administracije, da bi spremenila interpretacijo 14. amandmaja. Sodba 6 proti 3 potrjuje obstoječe razumevanje ustave in predstavlja velik udarec za predsednikovo agendo, kar lahko vpliva na prihodnje politične kampanje in retoriko. Mehanizem vpliva na finančne trge ni neposreden, vendar ima posredne posledice. Stabilnost pravnega sistema in predvidljivost politik sta ključni za zaupanje vlagateljev. Odločitev, ki ohranja status quo, lahko zmanjša negotovost glede morebitnih drastičnih sprememb v socialni in demografski strukturi države, kar je dolgoročno pozitivno za gospodarsko stabilnost. Morebitne politične posledice, kot je stopnjevanje predvolilne retorike, lahko kratkoročno povečajo volatilnost na trgih, kar se danes odraža v padcu VIX indeksa za 9,40 % na 16,68. Za delnice in obveznice je vpliv bolj posreden, saj se nanaša na širše družbene in politične trende. Slovenski dolgoročni vlagatelj bi moral to razumeti kot potrditev stabilnosti ameriškega pravnega sistema, kar je pomemben dejavnik pri ocenjevanju dolgoročne privlačnosti ameriškega trga, ne glede na kratkoročne politične turbulence.",
-      "vpliv": [
-        "Potrditev stabilnosti ameriškega pravnega sistema",
-        "Udarac za imigracijsko agendo predsednika",
-        "Potencialno povečanje politične retorike"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/8ee00f84-762c-48a5-ac21-774e216977fa",
-      "objavljeno": "2026-06-30T16:43:42.000Z"
-    },
-    {
-      "naslov": "Medicare bo prvič kril zdravila za debelost, odpirajoč milijone novih pacientov.",
-      "sektor": "Potrošniki",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Medicare, ameriški zvezni program zdravstvenega zavarovanja za starejše in nekatere invalide, bo s 1. julijem prvič začel kriti stroške zdravil za debelost. Ta odločitev odpira dostop do teh zdravil milijonom novih pacientov, zlasti starejšim, ki si jih prej niso mogli privoščiti. Poteza bi lahko bistveno povečala trg za farmacevtska podjetja, kot sta Novo Nordisk in Eli Lilly, ki sta vodilna na področju zdravil za hujšanje, kot so agonisti receptorjev GLP-1.",
-      "analiza": "Odločitev programa Medicare, da s 1. julijem začne kriti zdravila za debelost, je prelomna sprememba v ameriški zdravstveni politiki in ima daljnosežne posledice za farmacevtsko industrijo. Ozadje je naraščajoča stopnja debelosti in z njo povezanih zdravstvenih težav, kar predstavlja velik javnozdravstveni in ekonomski izziv. S tem ukrepom se milijonom starejših in drugim upravičencem odpira dostop do dragih, a učinkovitih zdravil, ki so bila prej izven njihovega dosega. Mehanizem vpliva na finančne trge je izrazito pozitiven za farmacevtska podjetja, ki proizvajajo ta zdravila. Novo Nordisk in Eli Lilly, ki sta že zdaj vodilna na tem področju, lahko pričakujeta znatno povečanje prodaje in s tem dobičkov. To se bo odrazilo v rasti vrednosti njihovih delnic in delnic drugih podjetij v sektorju biotehnologije in farmacije, ki razvijajo podobna zdravila. Posredno lahko to vpliva tudi na sektor zdravstvenih storitev, saj se bo povečalo povpraševanje po spremljanju in podpori pacientom. Za obveznice in valute je vpliv manjši, vendar dolgoročno izboljšanje javnega zdravja lahko prispeva k večji produktivnosti in stabilnosti gospodarstva. Slovenski dolgoročni vlagatelj bi moral to razumeti kot potrditev rasti in inovacij v farmacevtskem sektorju, še posebej na področju kroničnih bolezni, kar lahko ponudi zanimive naložbene priložnosti.",
-      "vpliv": [
-        "Znatna rast prodaje in dobičkov za Novo Nordisk in Eli Lilly",
-        "Rast delnic farmacevtskih in biotehnoloških podjetij",
-        "Povečano povpraševanje po zdravilih za debelost"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html",
-      "objavljeno": "2026-06-30T14:35:38.000Z"
-    },
-    {
-      "naslov": "Analiza resnosti ruskega pomanjkanja energije zaradi ukrajinskih napadov.",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Ukrajinski napadi na rusko energetsko infrastrukturo povzročajo pomanjkanje energije v Rusiji, kar bi lahko vplivalo na njeno domače gospodarstvo. Analitiki ocenjujejo, da kljub morebitni krizi z gorivom, vojna v Ukrajini ostaja absolutna prioriteta za Rusijo. Obseg in resnost pomanjkanja goriva, ki ga povzročajo ti napadi, sta predmet analiz, ki preučujejo morebitne dolgoročne posledice za rusko gospodarstvo in njeno sposobnost vzdrževanja vojaških operacij.",
-      "analiza": "Poročilo o ruskem pomanjkanju energije zaradi ukrajinskih napadov poudarja neposredne ekonomske posledice vojne v Ukrajini. Ozadje je nadaljevanje konflikta, kjer Ukrajina cilja na rusko energetsko infrastrukturo, da bi oslabila rusko gospodarstvo in vojaško sposobnost. To je relevantno, ker vpliva na globalne energetske trge in geopolitično stabilnost. Mehanizem vpliva je kompleksen: čeprav je Rusija velika izvoznica energije, pomanjkanje goriva doma lahko povzroči motnje v domači proizvodnji in transportu, kar posredno vpliva na globalne dobavne verige. Morebitno zmanjšanje ruske izvozne sposobnosti bi lahko dvignilo globalne cene nafte in plina, čeprav je danes cena WTI nafte padla za 1,55 % na 69,65 USD/sod, Brent pa za 1,07 % na 73,12 USD/sod. Vendar pa je glavno sporočilo, da bo vojna ostala prioriteta, kar pomeni, da se ruska vlada ne bo osredotočala na domače ekonomske reforme, dokler konflikt traja. Za delnice energetskih podjetij zunaj Rusije bi to lahko pomenilo dolgoročno podporo cenam, medtem ko bi za ruske delnice to pomenilo nadaljnji pritisk. Za valute bi lahko šibkejše rusko gospodarstvo vplivalo na rubelj, medtem ko bi se valute držav, ki so odvisne od ruskih energentov, lahko soočale z nihanjem. Slovenski dolgoročni vlagatelj bi moral to razumeti kot opozorilo na vztrajna geopolitična tveganja, ki imajo neposreden vpliv na cene surovin in globalno gospodarsko stabilnost, kar zahteva premišljeno diverzifikacijo portfelja.",
-      "vpliv": [
-        "Potencialni vpliv na globalne cene energentov",
-        "Negativne posledice za rusko domače gospodarstvo",
-        "Poudarek na nadaljevanju geopolitičnih tveganj"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/6/30/how-severe-is-russias-energy-shortage-because-of-ukrainian-strikes?traffic_source=rss",
-      "objavljeno": "2026-06-30T16:31:28.000Z"
+      "vir_url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-01T16:13:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-06-30T17:44:31.310Z",
+    "posodobljenoOb": "2026-07-01T17:29:52.003Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7493.11,
-        "sprememba_pct": 0.71
+        "vrednost": 7507.35,
+        "sprememba_pct": 0.11
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 30264.018,
-        "sprememba_pct": 1.64
+        "vrednost": 29940.938,
+        "sprememba_pct": -1.11
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 24995.81,
-        "sprememba_pct": 1.5
+        "vrednost": 25040.28,
+        "sprememba_pct": 0.18
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 70062.32,
-        "sprememba_pct": 0.86
+        "vrednost": 70474.96,
+        "sprememba_pct": 0.59
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4042.6,
-        "sprememba_pct": 0.09,
+        "vrednost": 4083.4,
+        "sprememba_pct": 1.11,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 69.65,
-        "sprememba_pct": -1.55,
+        "vrednost": 68.33,
+        "sprememba_pct": -1.68,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 73.12,
-        "sprememba_pct": -1.07,
+        "vrednost": 71.36,
+        "sprememba_pct": -2.18,
         "enota": "USD/sod"
       }
     ],
@@ -158,16 +163,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1422,
-        "sprememba_pct": -0.07
+        "vrednost": 1.139,
+        "sprememba_pct": -0.32
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.41,
-        "sprememba_pct": 0.82,
+        "vrednost": 4.465,
+        "sprememba_pct": 1.06,
         "enota": "%"
       }
     ],
@@ -175,16 +180,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 58272.99,
-        "sprememba_pct": -3.12,
+        "vrednost": 60084.86,
+        "sprememba_pct": 2.62,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16.68,
-      "sprememba_pct": -9.4
+      "vrednost": 16.29,
+      "sprememba_pct": -0.97
     }
   }
 }
