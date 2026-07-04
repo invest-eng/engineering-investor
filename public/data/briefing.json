@@ -1,116 +1,116 @@
 {
-  "generiranoOb": "2026-07-03T17:09:04.163Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-07-04T07:14:31.273Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-07-03",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanim, a večinoma pozitivnim predznakom, medtem ko so ameriški indeksi v zgodnjem popoldanskem trgovanju kazali deljeno sliko. Nemški DAX je zrasel za 0,78 % na 25779 točk, medtem ko je širši ameriški indeks S&P 500 ostal nespremenjen pri 7483 točkah. Tehnološki Nasdaq 100 pa je zabeležil padec za 1,61 % na 29329 točk, kar odraža zaskrbljenost glede prihodnjih donosov v sektorju umetne inteligence, kot opozarjajo nekatere raziskovalne hiše. Cene zlata so se zvišale za 1,47 % na 4186,50 USD/oz, kar kaže na povečano povpraševanje po varnih zatočiščih ob geopolitičnih napetostih, kot so grožnje jemenskih Hutijev Savdski Arabiji. Brent nafta je zabeležila skromno rast za 0,31 % na 72,02 USD/sod. Medtem ko se vlagatelji osredotočajo na premike v tehnološkem sektorju in geopolitična tveganja, je ključni ekonomski dogodek tega tedna, ki bi ga vlagatelji morali imeti na radarju, trenutno neznan v podanih informacijah.",
+  "datum": "2026-07-04",
+  "povzetek": "Jutranja izdaja 4. julija 2026 kaže mešano sliko na svetovnih trgih. Ameriški indeks S&P 500 je zaključil nespremenjeno pri 7483 točkah, medtem ko je tehnološko usmerjeni Nasdaq 100 zabeležil padec za 1.61 % na 29329 točk. Na azijskih trgih je Nikkei 225 zrasel za 1.47 % na 69744 točk, evropski DAX pa je danes zjutraj pridobil 0.78 % in se giblje pri 25779 točkah. Surovine so v rasti, zlato je poskočilo za 1.49 % na 4187.30 USD/oz, medtem ko sta nafta WTI in Brent prav tako zabeležili manjše rasti. Geopolitična tveganja ostajajo v ospredju, saj se pričakuje pogreb iranskega voditelja Alija Hameneja, kar bi lahko vplivalo na stabilnost Bližnjega vzhoda in cene nafte. Poleg tega so v ospredju tudi razprave o morebitni gradnji izraelskih naselbin v Gazi in ostra retorika Donalda Trumpa glede komunizma, kar vse prispeva k negotovosti. Vlagatelji bodo ta teden pozorno spremljali objave inflacijskih podatkov iz evroobmočja, ki lahko vplivajo na pričakovanja glede monetarne politike Evropske centralne banke.",
   "novice": [
     {
-      "naslov": "Shell obtožen zavajanja britanskih sodišč v primeru onesnaževanja v Nigeriji",
-      "sektor": "Energetika",
+      "naslov": "Milijoni pričakovani na pogrebu iranskega voditelja Alija Hameneja v Teheranu",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Pričakuje se, da se bodo milijoni ljudi zbrali v Teheranu na pogrebu iranskega vrhovnega voditelja Alija Hameneja. Ta dogodek se odvija v času, ko se nadaljujejo izraelski napadi na Gazo, pri čemer je bil v napadu z dronom ubit otrok in ranjen še en, kot poročajo civilne obrambne sile. Prehod oblasti v Iranu po smrti vrhovnega voditelja je ključen dogodek, ki lahko močno vpliva na stabilnost celotne regije Bližnjega vzhoda. Mednarodna skupnost pozorno spremlja dogajanje, saj bi morebitna nestabilnost v Iranu lahko imela daljnosežne posledice.",
+      "analiza": "Smrt vrhovnega voditelja Alija Hameneja in pogreb, ki bo pritegnil milijone, predstavlja pomembno prelomnico za Iran in širšo regijo. V preteklosti so bili takšni prehodi oblasti pogosto povezani z negotovostjo in potencialno nestabilnostjo, še posebej v državi z zapleteno geopolitično vlogo, kot je Iran. Trenutno se izraelski napadi na Gazo nadaljujejo, kar dodatno zaostruje že tako napete razmere na Bližnjem vzhodu. Morebitna nestabilnost v Iranu bi lahko imela neposreden vpliv na svetovne cene nafte, saj je Iran pomemben proizvajalec in izvoznik. V primeru zaostrovanja razmer bi lahko videli rast cen Brent nafte, ki je trenutno pri 72.13 USD/sod, in WTI nafte, ki je pri 68.78 USD/sod, zaradi strahu pred motnjami v dobavi. To bi posledično vplivalo na inflacijo in potrošniško moč po svetu. Za delniške trge bi to pomenilo povečano volatilnost, kar se odraža tudi v indeksu VIX, ki je danes pri 15.81. Vlagatelji bi se lahko umikali iz tveganih naložb v varnejša zatočišča, kot je zlato, ki je že zraslo za 1.49 % na 4187.30 USD/oz. Za slovenskega dolgoročnega vlagatelja to pomeni, da je ključno spremljati razvoj dogodkov na Bližnjem vzhodu, saj lahko geopolitična tveganja močno vplivajo na cene energentov in globalno gospodarsko stabilnost, kar se odraža v portfeljih.",
+      "vpliv": [
+        "Povečana geopolitična negotovost na Bližnjem vzhodu",
+        "Potencialna rast cen nafte (WTI 68.78 USD/sod, Brent 72.13 USD/sod)",
+        "Povečana volatilnost na delniških trgih",
+        "Rast povpraševanja po varnih zatočiščih (zlato 4187.30 USD/oz)"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
+      "objavljeno": "2026-07-04T00:00:00.000Z"
+    },
+    {
+      "naslov": "Izrael razmišlja o gradnji naselbin v Gazi, kar sproža zaskrbljenost",
+      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Podjetje Shell se sooča z obtožbami, da je zavajalo britanska sodišča v dolgotrajnem primeru onesnaževanja v delti Nigra. Sojenje, ki se nanaša na uničenje okolja v tej regiji, naj bi se začelo prihodnje leto. Obtožbe so bile objavljene 3. julija 2026 ob 16:45:31 UTC in izvirajo iz članka Financial Timesa. Primer se osredotoča na domnevne lažne dokaze, ki jih je Shell predložil v zvezi z odgovornostjo za razlitja nafte. To bi lahko imelo resne pravne in finančne posledice za podjetje.",
-      "analiza": "Ta novica se nanaša na dolgotrajno pravno bitko, ki se je začela že pred leti in zadeva okoljsko odgovornost naftnih podjetij v regijah, bogatih z viri. Za Shell to predstavlja nadaljevanje pritiska glede okoljskih, socialnih in upravljavskih (ESG) vprašanj, ki so v zadnjih letih postala ključna za vlagatelje. Obtožbe o zavajanju sodišč lahko močno škodijo ugledu podjetja in povzročijo visoke kazni, kar bi se odrazilo na ceni delnic. Poleg tega takšni primeri poudarjajo tveganja, povezana z operacijami v občutljivih okoljih, in lahko vplivajo na stroške poslovanja v celotnem energetskem sektorju. Za dolgoročnega slovenskega vlagatelja to pomeni, da je pri investiranju v velika energetska podjetja pomembno upoštevati ne le finančne rezultate, temveč tudi ESG dejavnike, saj lahko ti predstavljajo pomembno tveganje za donosnost.",
+      "povzetek": "Po genocidni vojni in lakoti v Gazi vodilni izraelski politiki zdaj izjavljajo, da so pripravljeni na gradnjo naselbin v Gazi. Ta poteza bi pomenila nadaljnje zaostrovanje konflikta in bi imela daljnosežne posledice za prihodnost regije. Mednarodna skupnost je že izrazila zaskrbljenost glede humanitarne krize in stabilnosti. Morebitna gradnja naselbin bi lahko sprožila nove valove nasilja in destabilizacije, kar bi še dodatno otežilo iskanje trajne rešitve.",
+      "analiza": "Razprave o morebitni gradnji izraelskih naselbin v Gazi po obdobju intenzivnega konflikta in humanitarne krize predstavljajo resno geopolitično tveganje. Takšna poteza bi bila v nasprotju z mednarodnim pravom in bi verjetno sprožila močne mednarodne obsodbe ter dodatno zaostrila odnose med Izraelom in arabskim svetom. To bi lahko imelo neposredne posledice za regionalno stabilnost, kar bi se odrazilo tudi na energetskih trgih, saj bi se povečal strah pred motnjami v dobavi nafte iz Bližnjega vzhoda. Cene nafte, kot sta WTI pri 68.78 USD/sod in Brent pri 72.13 USD/sod, bi lahko reagirale z rastjo. Povečana geopolitična tveganja običajno vodijo v umik kapitala iz tveganih naložb, kot so delnice (Nasdaq 100 je že padel za 1.61 % na 29329), in preusmeritev v varnejša zatočišča, kot je zlato, ki je danes zraslo za 1.49 % na 4187.30 USD/oz. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da se politični razvoj v tako občutljivih regijah lahko hitro prelije v ekonomske posledice, še posebej na cene surovin in splošno razpoloženje na trgih.",
       "vpliv": [
-        "Padec vrednosti delnic Shell",
-        "Povečana pravna tveganja za Shell",
-        "Negativen vpliv na ugled podjetja",
-        "Povečana pozornost na ESG dejavnike v energetiki"
+        "Povečana napetost na Bližnjem vzhodu",
+        "Potencialna rast cen energentov",
+        "Negativen vpliv na globalno gospodarsko stabilnost",
+        "Povečano povpraševanje po varnih naložbah"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
+      "objavljeno": "2026-07-04T05:41:23.000Z"
+    },
+    {
+      "naslov": "Trump opozarja na 'smrtno grožnjo komunizma' ob 250. obletnici ZDA",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Donald Trump je ob praznovanju 250. obletnice ZDA komunizem označil za 'smrtno grožnjo'. Ta izjava je bila podana med govorom na Mount Rushmore in služi kot predogled njegove verjetne linije napada proti demokratom v prihajajočih volitvah. Takšna retorika poudarja ideološke delitve znotraj ZDA in lahko vpliva na mednarodne odnose, še posebej s Kitajsko in drugimi državami, ki jih ZDA obravnavajo kot 'komunistične'.",
+      "analiza": "Ostra retorika Donalda Trumpa, ki komunizem označuje za 'smrtno grožnjo' ob tako pomembnem državnem prazniku, kot je 250. obletnica ZDA, ni le notranjepolitična izjava, temveč ima širše geopolitične implikacije. V kontekstu prihajajočih volitev v ZDA takšne izjave nakazujejo na morebitno zaostrovanje trgovinskih in diplomatskih odnosov z državami, kot je Kitajska, ki je ključni globalni akter. Zgodovinsko gledano so obdobja močne protikomunistične retorike pogosto sovpadala z zaostrovanjem mednarodnih odnosov in trgovinskimi vojnami, kar lahko negativno vpliva na globalne dobavne verige in mednarodno trgovino. To bi lahko povzročilo negotovost na delniških trgih, še posebej v sektorjih, ki so močno odvisni od mednarodne trgovine in kitajskega trga. Indeksi, kot je Nasdaq 100, ki je že padel za 1.61 % na 29329, bi lahko bili še bolj občutljivi na takšne novice. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati ameriško politično retoriko, saj lahko ta napoveduje spremembe v zunanji politiki in trgovinskih odnosih, kar ima posredne in neposredne vplive na globalne trge in s tem na donosnost naložb.",
+      "vpliv": [
+        "Povečana geopolitična napetost med ZDA in Kitajsko",
+        "Potencialno zaostrovanje trgovinskih odnosov",
+        "Negotovost na delniških trgih, še posebej v tehnološkem sektorju",
+        "Vpliv na globalne dobavne verige"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/trump-calls-communism-a-mortal-threat-at-us-250th-birthday-event?traffic_source=rss",
+      "objavljeno": "2026-07-04T04:54:40.000Z"
+    },
+    {
+      "naslov": "Kriza v El Obeidu bi lahko bila hujša od El Fasherja, opozarja ZN",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Mukesh Kapila, nekdanji humanitarni koordinator ZN za Sudan, opozarja, da bi kriza v El Obeidu lahko bila hujša kot tista v El Fasherju. To kaže na nadaljnje zaostrovanje konflikta v Sudanu in poglabljanje humanitarne krize. Takšni konflikti imajo uničujoče posledice za lokalno prebivalstvo in lahko povzročijo regionalno nestabilnost, vplivajo na migracijske tokove in potrebe po mednarodni pomoči.",
+      "analiza": "Opozorilo nekdanjega uradnika ZN o morebitnem poslabšanju krize v El Obeidu v Sudanu poudarja nadaljevanje in zaostrovanje konflikta v tej afriški državi. Humanitarne krize in konflikti v regijah, bogatih z naravnimi viri, lahko imajo posredne vplive na globalne surovinske trge, čeprav Sudan ni ključen igralec na naftnem trgu. Vendar pa lahko regionalna nestabilnost vpliva na sosednje države in širšo afriško celino, kar bi lahko vplivalo na naložbe v regiji. Povečana nestabilnost in humanitarne krize lahko tudi odvrnejo tuje investicije in povečajo tveganje za podjetja, ki poslujejo v Afriki. Čeprav neposreden vpliv na globalne delniške indekse, kot sta S&P 500 (7483) ali DAX (25779), morda ni takojšen, pa dolgoročna nestabilnost prispeva k splošni negotovosti na trgih. Za slovenskega dolgoročnega vlagatelja je pomembno zavedanje, da so geopolitična tveganja globalno povezana in lahko vplivajo na širše tržne trende, še posebej na cene surovin in naložbe v trge v razvoju.",
+      "vpliv": [
+        "Poglabljanje humanitarne krize v Sudanu",
+        "Povečana regionalna nestabilnost v Afriki",
+        "Negativen vpliv na tuje investicije v regiji",
+        "Posredni vpliv na globalne surovinske trge"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss",
+      "objavljeno": "2026-07-04T02:28:17.000Z"
+    },
+    {
+      "naslov": "Kmetje v Združenem kraljestvu sprejemajo regenerativne metode po vročinskem valu",
+      "sektor": "Makro & Centralne banke",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Visoke temperature, ki so jih povzročili vročinski valovi, vodijo kmete v Združenem kraljestvu k opuščanju kemikalij in intenzivnega oranja. Namesto tega sprejemajo regenerativne metode za izboljšanje kakovosti tal, da bi ta bolje zadrževala vodo. Ta prehod je odziv na podnebne spremembe in si prizadeva za povečanje odpornosti kmetijstva. Dolgoročno bi to lahko izboljšalo prehransko varnost in zmanjšalo odvisnost od zunanjih vložkov.",
+      "analiza": "Sprejemanje regenerativnih kmetijskih metod v Združenem kraljestvu po vročinskih valovih je pomemben trend, ki odraža globalno prilagajanje na podnebne spremembe. Vročinski valovi in ekstremni vremenski dogodki imajo neposreden vpliv na kmetijsko proizvodnjo, kar lahko vodi do nihanj cen hrane in s tem vpliva na inflacijo. Zato je ta novica relevantna za makroekonomijo. Prehod na regenerativne metode, ki vključujejo zmanjšanje uporabe kemikalij in intenzivnega oranja, je namenjen izboljšanju zdravja tal in njihove sposobnosti zadrževanja vode, kar je ključno za dolgoročno prehransko varnost. To lahko zmanjša tveganja za dobavne verige hrane in stabilizira cene kmetijskih pridelkov, kar posredno vpliva na potrošniško inflacijo. Na finančnih trgih bi to lahko pomenilo povečane investicije v podjetja, ki razvijajo trajnostne kmetijske tehnologije in rešitve. Čeprav neposreden vpliv na borzne indekse, kot sta S&P 500 (7483) ali DAX (25779), ni takojšen, pa dolgoročni trendi v kmetijstvu in podnebnih spremembah vplivajo na globalno gospodarstvo. Za slovenskega dolgoročnega vlagatelja je pomembno prepoznati, da so naložbe v trajnostne prakse in podjetja, ki se prilagajajo podnebnim spremembam, lahko dolgoročno odpornejše in prinašajo stabilnejše donose.",
+      "vpliv": [
+        "Povečana odpornost kmetijstva na podnebne spremembe",
+        "Potencialna stabilizacija cen hrane",
+        "Spodbujanje investicij v trajnostne kmetijske tehnologije",
+        "Zmanjšanje odvisnosti od kemikalij v kmetijstvu"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/088774f0-8b93-4dd2-99c0-c6b095c52e24",
-      "objavljeno": "2026-07-03T16:45:31.000Z"
+      "vir_url": "https://www.ft.com/content/96f06629-225a-4408-b0bb-d4869bb4c3bc",
+      "objavljeno": "2026-07-04T04:00:52.000Z"
     },
     {
-      "naslov": "Nemški Merz brani porabo za NATO po Trumpovih kritikah",
+      "naslov": "Je kitajski zakon o etnični enotnosti korak k prisilni asimilaciji?",
       "sektor": "Geopolitika",
-      "smer": "mešano",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Friedrich Merz, vodja nemške opozicije, je branil nemško porabo za obrambo v okviru NATA, potem ko je Donald Trump to označil za \"smešno\". Razprava o obrambni porabi poteka pred srečanjem voditeljev NATA v Ankari prihodnji teden. Novica, objavljena 3. julija 2026 ob 16:05:29 UTC s strani Al Jazeere, poudarja stalne napetosti glede delitve bremen znotraj zavezništva. Trumpove izjave so v preteklosti že povzročile zaskrbljenost glede prihodnosti NATA.",
-      "analiza": "Ta novica odraža ponavljajoče se napetosti znotraj NATA glede obrambne porabe, ki so se okrepile zlasti po ruski invaziji na Ukrajino. Trumpove izjave, ki so bile v preteklosti že kritične do evropskih zaveznic, ponovno izpostavljajo vprašanje zanesljivosti ameriške zavezanosti zavezništvu. Povečana poraba za obrambo v Evropi, ki je že v teku, bi lahko pozitivno vplivala na delnice obrambnih podjetij. Vendar pa negotovost glede prihodnosti NATA in morebitno zmanjšanje ameriške podpore ustvarja geopolitično tveganje, ki bi lahko vplivalo na stabilnost evroobmočja in s tem na valuto EUR/USD, ki je danes pri 1.1444. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj dogodkov v zvezi z NATO in obrambno porabo, saj lahko to vpliva na stabilnost mednarodnih odnosov in s tem na globalne trge.",
+      "povzetek": "Kitajska vlada trdi, da bo nov zakon o etnični enotnosti pomagal oblikovati skupno nacionalno identiteto. Vendar pa se pojavljajo vprašanja, ali je to korak k prisilni asimilaciji, kar bi lahko imelo resne posledice za človekove pravice in mednarodne odnose. Takšni zakoni pogosto sprožijo kritike mednarodne skupnosti in lahko vplivajo na trgovinske in diplomatske odnose s Kitajsko.",
+      "analiza": "Kitajski nov zakon o etnični enotnosti, čeprav ga vlada predstavlja kot sredstvo za oblikovanje skupne nacionalne identitete, sproža pomisleke glede človekovih pravic in morebitne prisilne asimilacije manjšin. Takšne politike imajo lahko daljnosežne geopolitične posledice, saj lahko zaostrijo odnose med Kitajsko in zahodnimi državami, ki so občutljive na vprašanja človekovih pravic. V preteklosti so podobne situacije vodile do sankcij, trgovinskih omejitev in zmanjšanja tujih investicij. To bi lahko vplivalo na globalne dobavne verige, saj je Kitajska ključni proizvajalec in izvoznik. Povečana negotovost glede kitajskih politik se lahko odrazi na delniških trgih, še posebej v sektorjih, ki so močno izpostavljeni kitajskemu trgu, in na cenah surovin, saj je Kitajska velik porabnik. Indeksi, kot je DAX (25779), ki vključujejo mnoga izvozno usmerjena podjetja, bi lahko bili občutljivi na takšne novice. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so notranje politike velikih globalnih sil, kot je Kitajska, lahko vir geopolitičnih tveganj, ki vplivajo na mednarodno trgovino, investicije in s tem na globalne finančne trge.",
       "vpliv": [
-        "Povečana negotovost glede stabilnosti NATA",
-        "Potencialna rast delnic obrambne industrije",
-        "Vpliv na geopolitično stabilnost Evrope",
-        "Možna nihanja EUR/USD"
+        "Povečana napetost v mednarodnih odnosih s Kitajsko",
+        "Potencialne trgovinske omejitve in sankcije",
+        "Vpliv na globalne dobavne verige",
+        "Negativen vpliv na tuje investicije na Kitajskem"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/3/germanys-merz-defends-nato-spending-after-trump-calls-it-ridiculous?traffic_source=rss",
-      "objavljeno": "2026-07-03T16:05:29.000Z"
-    },
-    {
-      "naslov": "Jemenci Hutiji grozijo Savdski Arabiji po domnevni kršitvi zračnega prostora",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Jemenci Hutiji so zagrozili Savdski Arabiji po domnevni kršitvi zračnega prostora, ko naj bi savdska letala poskušala preprečiti iranskemu civilnemu letalu pristanek v Sani. Vojska Hutijev trdi, da se je soočila s savdskimi letali. Novica, objavljena 3. julija 2026 ob 15:44:30 UTC s strani Al Jazeere, poudarja naraščajoče napetosti v regiji. Incident bi lahko dodatno destabiliziral že tako krhko varnostno situacijo na Bližnjem vzhodu.",
-      "analiza": "Bližnji vzhod ostaja ključna regija za globalno energetsko varnost, in vsaka eskalacija napetosti med Hutiji in Savdsko Arabijo ima potencial za vpliv na cene nafte. Savdska Arabija je eden največjih proizvajalcev nafte na svetu, in kakršnakoli grožnja njenim naftnim infrastrukturam ali transportnim potem bi lahko povzročila takojšen skok cen. Že danes je Brent nafta zrasla za 0,31 % na 72,02 USD/sod, kar kaže na občutljivost trga na geopolitična tveganja. V preteklosti so podobni incidenti, kot so napadi na savdske naftne objekte, že povzročili znatne motnje v dobavi in cenovne skoke. Povečana nestabilnost v regiji običajno vodi tudi do povečanega povpraševanja po varnih zatočiščih, kot je zlato, ki je danes zraslo za 1,47 % na 4186,50 USD/oz. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitične dogodke na Bližnjem vzhodu, saj lahko ti neposredno vplivajo na cene energentov in s tem na inflacijo ter dobičkonosnost podjetij.",
-      "vpliv": [
-        "Potencialni skok cen nafte (WTI, Brent)",
-        "Povečano povpraševanje po zlatu",
-        "Povečana geopolitična tveganja v regiji",
-        "Negativen vpliv na globalno dobavno verigo energentov"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/3/yemens-houthis-threaten-saudi-arabia-after-alleged-airspace-intrusion?traffic_source=rss",
-      "objavljeno": "2026-07-03T15:44:30.000Z"
-    },
-    {
-      "naslov": "Delnice AI infrastrukture prekašajo tehnološke \"hiperscalerje\" po mnenju UBS",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Raziskovalna ekipa pri UBS ugotavlja, da so delnice podjetij, ki zagotavljajo infrastrukturo za umetno inteligenco (AI), prehitele tradicionalne tehnološke \"hiperscalerje\" po ustvarjanju vrednosti. UBS ocenjuje, da bo ustvarjanje vrednosti v sektorju AI infrastrukture v štirih letih poskočilo za 600 %, v primerjavi s 100 % za \"hiperscalerje\". To izjemno spremembo poudarja članek MarketWatch, objavljen 3. julija 2026 ob 15:41:00 UTC. To kaže na preusmeritev fokusa in kapitala znotraj tehnološkega sektorja.",
-      "analiza": "Ta novica poudarja ključni premik v tehnološkem sektorju, kjer se fokus s splošnih \"hiperscalerjev\" (velikih tehnoloških podjetij, ki ponujajo obsežne storitve v oblaku) preusmerja na podjetja, ki gradijo temeljno infrastrukturo za umetno inteligenco. To vključuje proizvajalce čipov, ponudnike specializiranih strežnikov in omrežnih rešitev, ki so bistveni za delovanje AI modelov. Takšen premik lahko pomeni nadaljnjo rast za podjetja, ki so v ospredju razvoja AI infrastrukture, medtem ko bi se lahko rast tradicionalnih \"hiperscalerjev\" umirila. Kljub temu, da je Nasdaq 100 danes padel za 1,61 % na 29329 točk, ta dolgoročni trend kaže na strukturno spremembo, ki bo verjetno poganjala določene dele tehnološkega sektorja. Za slovenskega dolgoročnega vlagatelja je to pomemben signal, da je pri investiranju v tehnologijo ključno razlikovati med različnimi segmenti in iskati podjetja, ki so v ospredju inovacij in imajo močno pozicijo v rastočih nišah, kot je AI infrastruktura.",
-      "vpliv": [
-        "Rast delnic podjetij AI infrastrukture",
-        "Potencialno umiritev rasti delnic 'hiperscalerjev'",
-        "Povečana volatilnost v tehnološkem sektorju",
-        "Preusmeritev investicijskega kapitala znotraj tehnologije"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/ai-infrastructure-stocks-have-overtaken-big-tech-hyperscalers-in-an-extraordinary-shift-says-ubs-research-arm-7c425a02?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-03T15:41:00.000Z"
-    },
-    {
-      "naslov": "Instagram v Indiji prikazuje oglase, ki promovirajo gradivo o spolni zlorabi otrok",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "BBC je ugotovil, da Instagram v Indiji prikazuje oglase, ki promovirajo gradivo o spolni zlorabi otrok. Oglasi uporabljajo izraze, kot sta \"posilstvo\" in \"otroški video\", ter vodijo do vsebine na aplikaciji za sporočanje Telegram. Novica, objavljena 3. julija 2026 ob 15:01:27 UTC s strani BBC Business, razkriva resne pomanjkljivosti v nadzoru platforme. To predstavlja veliko etično in pravno vprašanje za Meta Platforms, lastnika Instagrama.",
-      "analiza": "To odkritje predstavlja izjemno resno reputacijsko in regulativno tveganje za Meta Platforms, lastnika Instagrama. Takšne obtožbe lahko vodijo do obsežnih preiskav, visokih glob in strožje regulacije, kar bi imelo neposreden negativen vpliv na ceno delnic podjetja. V preteklosti so se tehnološka podjetja že soočala z velikimi padci vrednosti delnic in regulativnimi pritiski zaradi pomanjkljivega nadzora nad škodljivimi vsebinami. Poleg neposrednega vpliva na Meta, to lahko sproži širšo razpravo o odgovornosti vseh družbenih medijev in platform za vsebino, ki se prikazuje na njihovih straneh, kar bi lahko vplivalo na celoten sektor tehnoloških podjetij. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so etična in ESG tveganja, še posebej pri velikih tehnoloških podjetjih, lahko enako pomembna kot finančni rezultati in lahko povzročijo znatne izgube.",
-      "vpliv": [
-        "Padec vrednosti delnic Meta Platforms",
-        "Povečana regulativna tveganja za družbena omrežja",
-        "Negativen vpliv na ugled Instagrama/Meta",
-        "Možne visoke globe in pravni stroški"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-07-03T15:01:27.000Z"
-    },
-    {
-      "naslov": "Prihajajoče razočaranje z AI in naraščajoči donosi: Opozorilo za delnice ZDA",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Raziskovalno podjetje MacroResearchBoard opozarja na prihajajoče razočaranje glede umetne inteligence (AI) in naraščajoče donose obveznic, kar jih je spodbudilo k zmanjšanju izpostavljenosti ameriškim delnicam. Opozarjajo, da se trg, ki ga trenutno obvladujejo tehnološke delnice, v naslednjih 12 mesecih sooča z velikim preizkusom. Novica, objavljena 3. julija 2026 ob 14:17:00 UTC s strani MarketWatch, poudarja morebitno spremembo v tržnem sentimentu. Donosnost 10-letne ameriške državne obveznice je danes pri 4,49 %.",
-      "analiza": "Ta analiza s strani MacroResearchBoard predstavlja pomembno opozorilo za vlagatelje, saj neposredno izpodbija prevladujočo optimistično narativo okoli umetne inteligence, ki je poganjala rast tehnoloških delnic. Kombinacija morebitnega razočaranja z AI in naraščajočih donosov obveznic (10Y US Treasury je danes pri 4,49 %) lahko ustvari zahtevno okolje za delniške trge. Višji donosi obveznic zmanjšujejo privlačnost delnic, saj ponujajo konkurenčno brezriziko donosnost, hkrati pa povečujejo stroške zadolževanja za podjetja. To bi lahko še posebej prizadelo visoko vrednotena tehnološka podjetja, ki so občutljiva na spremembe obrestnih mer. Nasdaq 100 je danes že padel za 1,61 % na 29329 točk, kar morda že odraža del te zaskrbljenosti. Za slovenskega dolgoročnega vlagatelja je ključno, da ne podleže pretiranemu navdušenju nad posameznimi sektorji in da diverzificira svoj portfelj, saj se tržni trendi lahko hitro obrnejo, še posebej ob spremembah v makroekonomskem okolju in pričakovanjih glede tehnoloških inovacij.",
-      "vpliv": [
-        "Potencialni padec vrednosti tehnoloških delnic",
-        "Povečana volatilnost na ameriških delniških trgih",
-        "Zmanjšana privlačnost delnic ob naraščajočih donosih obveznic",
-        "Previdnost vlagateljev glede visoko vrednotenih sektorjev"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/a-looming-ai-disappointment-and-rising-yields-why-one-research-firm-is-hitting-the-brakes-on-u-s-stocks-4bfaa67b?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-03T14:17:00.000Z"
+      "vir_url": "https://www.aljazeera.com/video/inside-story/2026/7/3/is-chinas-new-ethnic-unity-law-a-step-towards-forced-assimilation-2?traffic_source=rss",
+      "objavljeno": "2026-07-03T19:59:27.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-03T17:07:39.669Z",
+    "posodobljenoOb": "2026-07-04T07:13:34.872Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -141,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4186.5,
-        "sprememba_pct": 1.47,
+        "vrednost": 4187.3,
+        "sprememba_pct": 1.49,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 68.69,
-        "sprememba_pct": 0,
+        "vrednost": 68.78,
+        "sprememba_pct": 0.13,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 72.02,
-        "sprememba_pct": 0.31,
+        "vrednost": 72.13,
+        "sprememba_pct": 0.46,
         "enota": "USD/sod"
       }
     ],
@@ -164,8 +164,8 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1444,
-        "sprememba_pct": 0.07
+        "vrednost": 1.144,
+        "sprememba_pct": 0.03
       }
     ],
     "obveznice": [
@@ -181,8 +181,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 62218.09,
-        "sprememba_pct": 1.18,
+        "vrednost": 62456.25,
+        "sprememba_pct": -0.15,
         "enota": "USD"
       }
     ],

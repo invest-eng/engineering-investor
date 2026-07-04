@@ -1,172 +1,162 @@
 {
-  "generiranoOb": "2026-07-02T17:14:10.267Z",
+  "generiranoOb": "2026-07-03T17:09:04.163Z",
   "izdaja": "afternoon",
-  "model": "gemini-2.5-flash-lite",
+  "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-07-02",
-  "povzetek": "Evropski trgi so se danes ob koncu trgovanja dvignili, saj je DAX zabeležil rast 2,16 % in se ustavil pri 25.581 točkah. Medtem ko so se ameriški trgi odprli z začetnim padcem, je S&P 500 pri 7.441 točkah izgubil 0,57 %, Nasdaq 100 pa je padel za 2,08 % na 29.190 točk. V ospredju novic je poročilo UBS, ki navaja, da je globalno osebno premoženje v letu 2025 zraslo za 10,8 %, kar je ustvarilo skoraj milijon novih milijonarjev. V ZDA se je rast zaposlovanja v juniju upočasnila, kar je vplivalo na trge, medtem ko je Ford poročal o 10,3 % upadu prodaje v drugem četrtletju zaradi težav z dobavitelji in padca povpraševanja po električnih vozilih. Naftni trgi so bili nestanovitni, saj je Brent nafta zabeležila padec za 0,59 % na 71,15 USD/sod, medtem ko je zlato naraslo za 1,15 % na 4129,50 USD/oz. V ospredju geopolitičnih dogodkov so nemške obtožbe o ukazu Ukrajine za napad na plinovod Severni tok. Vlagatelji bodo v prihodnjem tednu pozorno spremljali zasedanje Evropske centralne banke. ",
+  "datum": "2026-07-03",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanim, a večinoma pozitivnim predznakom, medtem ko so ameriški indeksi v zgodnjem popoldanskem trgovanju kazali deljeno sliko. Nemški DAX je zrasel za 0,78 % na 25779 točk, medtem ko je širši ameriški indeks S&P 500 ostal nespremenjen pri 7483 točkah. Tehnološki Nasdaq 100 pa je zabeležil padec za 1,61 % na 29329 točk, kar odraža zaskrbljenost glede prihodnjih donosov v sektorju umetne inteligence, kot opozarjajo nekatere raziskovalne hiše. Cene zlata so se zvišale za 1,47 % na 4186,50 USD/oz, kar kaže na povečano povpraševanje po varnih zatočiščih ob geopolitičnih napetostih, kot so grožnje jemenskih Hutijev Savdski Arabiji. Brent nafta je zabeležila skromno rast za 0,31 % na 72,02 USD/sod. Medtem ko se vlagatelji osredotočajo na premike v tehnološkem sektorju in geopolitična tveganja, je ključni ekonomski dogodek tega tedna, ki bi ga vlagatelji morali imeti na radarju, trenutno neznan v podanih informacijah.",
   "novice": [
     {
-      "naslov": "Milijoni novih milijonarjev zaradi rasti borznih trgov, poroča UBS",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Poročilo investicijske banke UBS, objavljeno 2. julija 2026, razkriva, da je globalno osebno premoženje v letu 2025 zabeležilo rast za 10,8 %, kar je najvišja rast od leta 2017. Ta rast je neposredno povezana z močnim delovanjem borznih trgov v istem obdobju, kar je ustvarilo skoraj milijon novih posameznikov z neto vrednostjo milijon dolarjev ali več.",
-      "analiza": "Poročilo UBS poudarja izjemno rast premoženja v letu 2025, ki je bila v veliki meri poganjana z rastjo na globalnih delniških trgih. To kaže na učinkovitost naložb v delnice za povečanje osebnega bogastva. Povečanje števila milijonarjev lahko vpliva na potrošniške navade in povpraševanje po luksuznih dobrinah ter storitvah. Za slovenske vlagatelje to pomeni potrditev potenciala dolgoročnega vlaganja v delnice, vendar je pomembno upoštevati tudi diverzifikacijo in obvladovanje tveganj. Zlato je v tem okolju zabeležilo rast za 1,15 %, kar lahko kaže na delnično previdnost ali kot naložbo v varnem zatočišču ob pričakovanjih večje gospodarske aktivnosti. Padec ameriških indeksov, kot sta S&P 500 (-0,57 %) in Nasdaq 100 (-2,08 %), ob odprtju ameriških trgov nakazuje začetno previdnost vlagateljev, kljub pozitivnim evropskim trgom, kjer je DAX zrasel za 2,16 %. V prihodnje bo zanimivo opazovati, ali bo ta trend ustvarjanja bogastva nadaljevan ali pa bo prišlo do korekcije.",
-      "vpliv": [
-        "Povečanje povpraševanja po luksuznih dobrinah",
-        "Potencialna rast naložb v delnice",
-        "Povečana pozornost na upravljanje premoženja"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/07/02/stock-market-gains-new-millionaires-ubs.html",
-      "objavljeno": "2026-07-02T16:58:38.000Z"
-    },
-    {
-      "naslov": "Ford beleži upad prodaje v Q2, vpliva pomanjkanje čipov in povpraševanje po EV",
-      "sektor": "Potrošniki",
+      "naslov": "Shell obtožen zavajanja britanskih sodišč v primeru onesnaževanja v Nigeriji",
+      "sektor": "Energetika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Ford je v drugem četrtletju 2026 zabeležil 10,3 % upad prodaje, predvsem zaradi težav z dobavitelji pri proizvodnji tovornjakov serije F in padca povpraševanja po električnih vozilih (EV). Prodaja EV je upadla za 40,7 % v primerjavi z lanskim letom, medtem ko je prodaja tovornjakov serije F, vključno z modelom F-150, padla za 11 %. Novica je bila objavljena 2. julija 2026.",
-      "analiza": "Rezultati Forda v drugem četrtletju kažejo na izzive v avtomobilski industriji, ki vključujejo težave v dobavnih verigah in spremenljivo povpraševanje po električnih vozilih. Padec prodaje ključnih modelov, kot so tovornjaki serije F, lahko negativno vpliva na prihodke podjetja. Hkrati pa poročilo o upadu povpraševanja po EV nakazuje, da se lahko tempo prehoda na električno mobilnost upočasnjuje ali pa je trg zasičen z obstoječimi ponudniki. To lahko vpliva na strategije drugih proizvajalcev avtomobilov, vključno s Toyoto in GM, s katerimi Ford tekmuje, kot je omenil izvršni direktor Jim Farley v zvezi s pogajanji o trgovinskem sporazumu USMCA. Za slovenske vlagatelje to pomeni, da lahko podjetja v avtomobilskem sektorju, ki so močno odvisna od tradicionalnih motorjev ali pa se soočajo s težavami pri uvajanju EV, doživijo volatilnost. Vrednost delnic Forda bi lahko bila pod pritiskom, medtem ko bi lahko podjetja, ki uspešno obvladujejo dobavne verige ali imajo močno povpraševanje po svojih izdelkih, imela boljše rezultate.",
+      "povzetek": "Podjetje Shell se sooča z obtožbami, da je zavajalo britanska sodišča v dolgotrajnem primeru onesnaževanja v delti Nigra. Sojenje, ki se nanaša na uničenje okolja v tej regiji, naj bi se začelo prihodnje leto. Obtožbe so bile objavljene 3. julija 2026 ob 16:45:31 UTC in izvirajo iz članka Financial Timesa. Primer se osredotoča na domnevne lažne dokaze, ki jih je Shell predložil v zvezi z odgovornostjo za razlitja nafte. To bi lahko imelo resne pravne in finančne posledice za podjetje.",
+      "analiza": "Ta novica se nanaša na dolgotrajno pravno bitko, ki se je začela že pred leti in zadeva okoljsko odgovornost naftnih podjetij v regijah, bogatih z viri. Za Shell to predstavlja nadaljevanje pritiska glede okoljskih, socialnih in upravljavskih (ESG) vprašanj, ki so v zadnjih letih postala ključna za vlagatelje. Obtožbe o zavajanju sodišč lahko močno škodijo ugledu podjetja in povzročijo visoke kazni, kar bi se odrazilo na ceni delnic. Poleg tega takšni primeri poudarjajo tveganja, povezana z operacijami v občutljivih okoljih, in lahko vplivajo na stroške poslovanja v celotnem energetskem sektorju. Za dolgoročnega slovenskega vlagatelja to pomeni, da je pri investiranju v velika energetska podjetja pomembno upoštevati ne le finančne rezultate, temveč tudi ESG dejavnike, saj lahko ti predstavljajo pomembno tveganje za donosnost.",
       "vpliv": [
-        "Padec vrednosti delnic Forda",
-        "Povečana previdnost pri naložbah v avtomobilski sektor",
-        "Možna sprememba strategij drugih proizvajalcev glede EV"
+        "Padec vrednosti delnic Shell",
+        "Povečana pravna tveganja za Shell",
+        "Negativen vpliv na ugled podjetja",
+        "Povečana pozornost na ESG dejavnike v energetiki"
       ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/07/02/ford-q2-sales.html",
-      "objavljeno": "2026-07-02T15:14:11.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/088774f0-8b93-4dd2-99c0-c6b095c52e24",
+      "objavljeno": "2026-07-03T16:45:31.000Z"
     },
     {
-      "naslov": "Nemško tožilstvo obtožuje Ukrajino za napad na plinovod Severni tok",
+      "naslov": "Nemški Merz brani porabo za NATO po Trumpovih kritikah",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Friedrich Merz, vodja nemške opozicije, je branil nemško porabo za obrambo v okviru NATA, potem ko je Donald Trump to označil za \"smešno\". Razprava o obrambni porabi poteka pred srečanjem voditeljev NATA v Ankari prihodnji teden. Novica, objavljena 3. julija 2026 ob 16:05:29 UTC s strani Al Jazeere, poudarja stalne napetosti glede delitve bremen znotraj zavezništva. Trumpove izjave so v preteklosti že povzročile zaskrbljenost glede prihodnosti NATA.",
+      "analiza": "Ta novica odraža ponavljajoče se napetosti znotraj NATA glede obrambne porabe, ki so se okrepile zlasti po ruski invaziji na Ukrajino. Trumpove izjave, ki so bile v preteklosti že kritične do evropskih zaveznic, ponovno izpostavljajo vprašanje zanesljivosti ameriške zavezanosti zavezništvu. Povečana poraba za obrambo v Evropi, ki je že v teku, bi lahko pozitivno vplivala na delnice obrambnih podjetij. Vendar pa negotovost glede prihodnosti NATA in morebitno zmanjšanje ameriške podpore ustvarja geopolitično tveganje, ki bi lahko vplivalo na stabilnost evroobmočja in s tem na valuto EUR/USD, ki je danes pri 1.1444. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj dogodkov v zvezi z NATO in obrambno porabo, saj lahko to vpliva na stabilnost mednarodnih odnosov in s tem na globalne trge.",
+      "vpliv": [
+        "Povečana negotovost glede stabilnosti NATA",
+        "Potencialna rast delnic obrambne industrije",
+        "Vpliv na geopolitično stabilnost Evrope",
+        "Možna nihanja EUR/USD"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/7/3/germanys-merz-defends-nato-spending-after-trump-calls-it-ridiculous?traffic_source=rss",
+      "objavljeno": "2026-07-03T16:05:29.000Z"
+    },
+    {
+      "naslov": "Jemenci Hutiji grozijo Savdski Arabiji po domnevni kršitvi zračnega prostora",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Nemško tožilstvo je 2. julija 2026 obelodanilo obtožbe, da naj bi Ukrajina naročila napad na plinovoda Severni tok. Kot navaja Al Jazeera, je nekdanji ukrajinski vojak obtožen vojnih zločinov in vodenja ekipe potapljačev, ki naj bi izvedla eksplozijo na plinovodih. Ta dogodek ima lahko pomembne posledice za energetske trge in mednarodne odnose.",
-      "analiza": "Obtožbe nemškega tožilstva glede odgovornosti Ukrajine za napad na plinovoda Severni tok predstavljajo pomemben geopolitični premik z možnimi dolgoročnimi posledicami. Plinovoda sta ključna za dobavo plina v Evropo, njuna poškodba pa je že v preteklosti povzročila nestanovitnost na energetskih trgih. Če se te obtožbe izkažejo za resnične, bi to lahko dodatno zaostrilo odnose med Ukrajino in nekaterimi evropskimi državami ter vplivalo na prihodnje energetske sporazume in dobavne poti. Padec cen nafte Brent (-0,59 %) in WTI (-0,71 %) danes morda ni neposredno povezan s to novico, vendar lahko splošna geopolitična napetost vpliva na cene energentov. Zlato je medtem zabeležilo rast (+1,15 %), kar je pogosto odziv na povečano negotovost. Za slovenske vlagatelje je pomembno spremljati razvoj dogodkov, saj lahko nadaljnje zaostrovanje ali pa razjasnitev situacije vpliva na cene energentov, kar se lahko odrazi v stroških ogrevanja in transporta, ter na splošno gospodarsko stabilnost v regiji. Vpliv na delniške trge je lahko negativen zaradi povečane negotovosti.",
+      "povzetek": "Jemenci Hutiji so zagrozili Savdski Arabiji po domnevni kršitvi zračnega prostora, ko naj bi savdska letala poskušala preprečiti iranskemu civilnemu letalu pristanek v Sani. Vojska Hutijev trdi, da se je soočila s savdskimi letali. Novica, objavljena 3. julija 2026 ob 15:44:30 UTC s strani Al Jazeere, poudarja naraščajoče napetosti v regiji. Incident bi lahko dodatno destabiliziral že tako krhko varnostno situacijo na Bližnjem vzhodu.",
+      "analiza": "Bližnji vzhod ostaja ključna regija za globalno energetsko varnost, in vsaka eskalacija napetosti med Hutiji in Savdsko Arabijo ima potencial za vpliv na cene nafte. Savdska Arabija je eden največjih proizvajalcev nafte na svetu, in kakršnakoli grožnja njenim naftnim infrastrukturam ali transportnim potem bi lahko povzročila takojšen skok cen. Že danes je Brent nafta zrasla za 0,31 % na 72,02 USD/sod, kar kaže na občutljivost trga na geopolitična tveganja. V preteklosti so podobni incidenti, kot so napadi na savdske naftne objekte, že povzročili znatne motnje v dobavi in cenovne skoke. Povečana nestabilnost v regiji običajno vodi tudi do povečanega povpraševanja po varnih zatočiščih, kot je zlato, ki je danes zraslo za 1,47 % na 4186,50 USD/oz. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitične dogodke na Bližnjem vzhodu, saj lahko ti neposredno vplivajo na cene energentov in s tem na inflacijo ter dobičkonosnost podjetij.",
       "vpliv": [
-        "Povečana nestanovitnost na energetskih trgih",
-        "Možna zaostritev diplomatskih odnosov",
-        "Vpliv na prihodnje energetske politike EU"
+        "Potencialni skok cen nafte (WTI, Brent)",
+        "Povečano povpraševanje po zlatu",
+        "Povečana geopolitična tveganja v regiji",
+        "Negativen vpliv na globalno dobavno verigo energentov"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-allege-ukraine-ordered-nord-stream-pipeline-attack?traffic_source=rss",
-      "objavljeno": "2026-07-02T16:46:37.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/7/3/yemens-houthis-threaten-saudi-arabia-after-alleged-airspace-intrusion?traffic_source=rss",
+      "objavljeno": "2026-07-03T15:44:30.000Z"
     },
     {
-      "naslov": "Španija beleži velik odziv na shemo za legalizacijo priseljevanja",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Španija je zabeležila izjemen odziv na svojo shemo za legalizacijo statusa priseljencev, saj se je prijavilo 1,2 milijona ljudi, kar je več kot dvakratnik pričakovanj. Večina prijav prihaja iz Latinske Amerike (67 %). Novica je bila objavljena 2. julija 2026.",
-      "analiza": "Veliko število prijav na špansko shemo za legalizacijo priseljevanja nakazuje na močan migrantski pritisk v Evropi in na željo po iskanju stabilnosti in priložnosti. Ta dogodek ima lahko večplastne posledice. Gospodarsko gledano, integracija večjega števila delovno aktivnih priseljencev lahko pozitivno vpliva na špansko gospodarstvo, zlasti na trg dela in socialne prispevke. Vendar pa lahko povečano število legaliziranih priseljencev predstavlja tudi izzive za javne storitve, kot so zdravstvo in izobraževanje, ter za socialno kohezijo. Na deviznih trgih lahko takšni dogodki povzročijo kratkoročno nestanovitnost, čeprav neposreden vpliv na EUR/USD (trenutno 1,1439, +0,48 %) ni nujno močan. Za slovenske vlagatelje je to pomembno v kontekstu širših migracijskih trendov v EU in njihovih ekonomskih ter socialnih posledic, ki lahko vplivajo na celotno območje evra. Povečana ponudba delovne sile lahko v nekaterih sektorjih pritisne na rast plač, medtem ko lahko povečano povpraševanje po dobrinah in storitvah stimulira gospodarsko rast.",
-      "vpliv": [
-        "Potencialna rast ponudbe delovne sile v Španiji",
-        "Povečan pritisk na javne storitve",
-        "Možni kratkoročni vplivi na socialno kohezijo"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/2/spain-immigration-scheme-sees-1-2-million-apply-for-legal-status?traffic_source=rss",
-      "objavljeno": "2026-07-02T16:34:12.000Z"
-    },
-    {
-      "naslov": "Tesla presega pričakovanja pri dobavah, napoveduje izhod iz 'EV zime'",
+      "naslov": "Delnice AI infrastrukture prekašajo tehnološke \"hiperscalerje\" po mnenju UBS",
       "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "Tesla je v zadnjem četrtletju dobavila 480.126 električnih vozil (EV), kar je preseglo pričakovanja analitikov in nakazuje na izhod iz obdobja počasnejše rasti v industriji EV. Novica, objavljena 2. julija 2026, je povzročila dvig cene delnic podjetja.",
-      "analiza": "Odlični rezultati dobav Tesle v zadnjem četrtletju so pomemben signal za celotno industrijo električnih vozil. Doseganje 480.126 dobavljenih vozil je bistveno boljše od napovedi, kar nakazuje, da Tesla uspešno premaguje izzive, ki so jih drugi proizvajalci, kot je Ford, omenjali v svojih poročilih o prodaji. Izjava o 'izhodu iz EV zime' lahko pomeni, da se povpraševanje po električnih vozilih ponovno krepi ali pa da Tesla s svojimi inovacijami in učinkovitostjo postavlja nove standarde. Ta uspeh lahko pozitivno vpliva na ceno delnic Tesle in s tem na tehnološki sektor kot celoto. Za slovenske vlagatelje to pomeni, da podjetja, ki so vodilna v tehnoloških prehodih, kot je Tesla, lahko ponudijo dobre donose. Hkrati pa je treba upoštevati tudi konkurenco, kot sta Rivian in Lucid, ki imata različne rezultate – Rivian je zvišal napoved dobav, medtem ko Lucid ni izpolnil pričakovanj. Ta dinamika kaže na to, da trg EV še vedno ni povsem stabilen, vendar so pozitivni signali od Tesle spodbudni.",
+      "povzetek": "Raziskovalna ekipa pri UBS ugotavlja, da so delnice podjetij, ki zagotavljajo infrastrukturo za umetno inteligenco (AI), prehitele tradicionalne tehnološke \"hiperscalerje\" po ustvarjanju vrednosti. UBS ocenjuje, da bo ustvarjanje vrednosti v sektorju AI infrastrukture v štirih letih poskočilo za 600 %, v primerjavi s 100 % za \"hiperscalerje\". To izjemno spremembo poudarja članek MarketWatch, objavljen 3. julija 2026 ob 15:41:00 UTC. To kaže na preusmeritev fokusa in kapitala znotraj tehnološkega sektorja.",
+      "analiza": "Ta novica poudarja ključni premik v tehnološkem sektorju, kjer se fokus s splošnih \"hiperscalerjev\" (velikih tehnoloških podjetij, ki ponujajo obsežne storitve v oblaku) preusmerja na podjetja, ki gradijo temeljno infrastrukturo za umetno inteligenco. To vključuje proizvajalce čipov, ponudnike specializiranih strežnikov in omrežnih rešitev, ki so bistveni za delovanje AI modelov. Takšen premik lahko pomeni nadaljnjo rast za podjetja, ki so v ospredju razvoja AI infrastrukture, medtem ko bi se lahko rast tradicionalnih \"hiperscalerjev\" umirila. Kljub temu, da je Nasdaq 100 danes padel za 1,61 % na 29329 točk, ta dolgoročni trend kaže na strukturno spremembo, ki bo verjetno poganjala določene dele tehnološkega sektorja. Za slovenskega dolgoročnega vlagatelja je to pomemben signal, da je pri investiranju v tehnologijo ključno razlikovati med različnimi segmenti in iskati podjetja, ki so v ospredju inovacij in imajo močno pozicijo v rastočih nišah, kot je AI infrastruktura.",
       "vpliv": [
-        "Povečanje vrednosti delnic Tesle",
-        "Optimizem v sektorju električnih vozil",
-        "Možni pozitivni učinki na dobavitelje komponent za EV"
+        "Rast delnic podjetij AI infrastrukture",
+        "Potencialno umiritev rasti delnic 'hiperscalerjev'",
+        "Povečana volatilnost v tehnološkem sektorju",
+        "Preusmeritev investicijskega kapitala znotraj tehnologije"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/tesla-crushes-delivery-estimates-giving-its-stock-a-boost-16c198da?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-02T13:52:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/ai-infrastructure-stocks-have-overtaken-big-tech-hyperscalers-in-an-extraordinary-shift-says-ubs-research-arm-7c425a02?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-03T15:41:00.000Z"
     },
     {
-      "naslov": "Nezakonite stave na Spotifyju povzročile brisanje pesmi",
+      "naslov": "Instagram v Indiji prikazuje oglase, ki promovirajo gradivo o spolni zlorabi otrok",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Glasbena platforma Spotify je odstranila več kot 500.000 predvajanj pesmi 'Earrings' avtorja Malcolma Todda, potem ko so se pojavili sumi o manipulaciji s predvajanji zaradi stav na platformi Kalshi. Novica je bila objavljena 2. julija 2026.",
-      "analiza": "Primer Spotifyja in pesmi 'Earrings' poudarja kompleksnost digitalne distribucije glasbe in potencial za manipulacijo na trgu. Dejstvo, da so bile predvajanja pesmi umetno napihnjena zaradi stav na platformi Kalshi, postavlja vprašanja o integriteti glasbene industrije in nadzoru nad avtentičnostjo podatkov o poslušanosti. To lahko vpliva na prihodke izvajalcev, avtorjev in založb, ki temeljijo na številu predvajanj. Za slovenske vlagatelje v tehnološki sektor to pomeni, da je pomembno spremljati ne le rast uporabnikov in prihodkov, ampak tudi mehanizme za zagotavljanje transparentnosti in preprečevanje goljufij. Podobni primeri se lahko pojavijo tudi na drugih platformah, ki temeljijo na podatkih o uporabniških interakcijah. Vpliv na delnice Spotifyja ali drugih glasbenih platform bi lahko bil negativen, če se takšni incidenti ponavljajo, saj lahko škodijo ugledu podjetja in zaupanju vlagateljev. Zlato je v tem času naraslo za 1,15 %, kar lahko odraža splošno previdnost na trgih zaradi takšnih negativnih novic.",
+      "intenziteta": 3,
+      "povzetek": "BBC je ugotovil, da Instagram v Indiji prikazuje oglase, ki promovirajo gradivo o spolni zlorabi otrok. Oglasi uporabljajo izraze, kot sta \"posilstvo\" in \"otroški video\", ter vodijo do vsebine na aplikaciji za sporočanje Telegram. Novica, objavljena 3. julija 2026 ob 15:01:27 UTC s strani BBC Business, razkriva resne pomanjkljivosti v nadzoru platforme. To predstavlja veliko etično in pravno vprašanje za Meta Platforms, lastnika Instagrama.",
+      "analiza": "To odkritje predstavlja izjemno resno reputacijsko in regulativno tveganje za Meta Platforms, lastnika Instagrama. Takšne obtožbe lahko vodijo do obsežnih preiskav, visokih glob in strožje regulacije, kar bi imelo neposreden negativen vpliv na ceno delnic podjetja. V preteklosti so se tehnološka podjetja že soočala z velikimi padci vrednosti delnic in regulativnimi pritiski zaradi pomanjkljivega nadzora nad škodljivimi vsebinami. Poleg neposrednega vpliva na Meta, to lahko sproži širšo razpravo o odgovornosti vseh družbenih medijev in platform za vsebino, ki se prikazuje na njihovih straneh, kar bi lahko vplivalo na celoten sektor tehnoloških podjetij. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so etična in ESG tveganja, še posebej pri velikih tehnoloških podjetjih, lahko enako pomembna kot finančni rezultati in lahko povzročijo znatne izgube.",
       "vpliv": [
-        "Škoda ugledu Spotifyja",
-        "Povečana skrb glede integritete podatkov o predvajanjih",
-        "Možni strožji nadzor nad predvajanji glasbe"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/2e10851c-9f47-410d-b46e-2a617118b05a",
-      "objavljeno": "2026-07-02T16:29:06.000Z"
-    },
-    {
-      "naslov": "Ryanair opozarja na 'kaos na mejnih prehodih' zaradi novega sistema EU",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Letalska družba Ryanair je 2. julija 2026 opozorila na morebitni 'kaos na mejnih prehodih' zaradi novega sistema vstopa in izstopa (EES) Evropske unije. Ryanair poziva evropske vlade, naj odložijo uvedbo sistema do konca poletnega dopustniškega obdobja.",
-      "analiza": "Opozorilo letalske družbe Ryanair glede novega sistema EES poudarja potencialne logistične izzive, ki jih lahko prinesejo nove regulacije na mejah EU. Sistem EES je namenjen krepitvi nadzora nad zunanjimi mejami EU in bo zahteval biometrične podatke od potnikov iz držav, ki ne potrebujejo vizumov. Če sistem ne bo ustrezno pripravljen ali če bo uvedba potekala prehitro, bi to lahko povzročilo znatne zamude na letališčih in mejnih prehodih, kar bi neposredno vplivalo na potovalne načrte milijonov ljudi, zlasti med poletno sezono. To lahko negativno vpliva na turistični sektor in na letalske prevoznike, kot je Ryanair, ki se že soočajo s pomanjkanjem osebja in drugimi operativnimi težavami. Padec cen nafte Brent (-0,59 %) in WTI (-0,71 %) bi lahko deloma odtehtal višje stroške, povezane z morebitnimi zamudami. Za slovenske vlagatelje je to pomembno, saj lahko vpliva na turistično industrijo in na stroške potovanj, kar se lahko odrazi v potrošniških izdatkih. Vrednost delnic letalskih družb in turističnih podjetij bi lahko bila pod pritiskom, če se napovedi Ryanairja uresničijo.",
-      "vpliv": [
-        "Potencialne zamude na mejnih prehodih EU",
-        "Negativni vplivi na turistični sektor",
-        "Povečani operativni stroški za letalske družbe"
+        "Padec vrednosti delnic Meta Platforms",
+        "Povečana regulativna tveganja za družbena omrežja",
+        "Negativen vpliv na ugled Instagrama/Meta",
+        "Možne visoke globe in pravni stroški"
       ],
       "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-07-02T15:34:55.000Z"
+      "vir_url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-03T15:01:27.000Z"
+    },
+    {
+      "naslov": "Prihajajoče razočaranje z AI in naraščajoči donosi: Opozorilo za delnice ZDA",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Raziskovalno podjetje MacroResearchBoard opozarja na prihajajoče razočaranje glede umetne inteligence (AI) in naraščajoče donose obveznic, kar jih je spodbudilo k zmanjšanju izpostavljenosti ameriškim delnicam. Opozarjajo, da se trg, ki ga trenutno obvladujejo tehnološke delnice, v naslednjih 12 mesecih sooča z velikim preizkusom. Novica, objavljena 3. julija 2026 ob 14:17:00 UTC s strani MarketWatch, poudarja morebitno spremembo v tržnem sentimentu. Donosnost 10-letne ameriške državne obveznice je danes pri 4,49 %.",
+      "analiza": "Ta analiza s strani MacroResearchBoard predstavlja pomembno opozorilo za vlagatelje, saj neposredno izpodbija prevladujočo optimistično narativo okoli umetne inteligence, ki je poganjala rast tehnoloških delnic. Kombinacija morebitnega razočaranja z AI in naraščajočih donosov obveznic (10Y US Treasury je danes pri 4,49 %) lahko ustvari zahtevno okolje za delniške trge. Višji donosi obveznic zmanjšujejo privlačnost delnic, saj ponujajo konkurenčno brezriziko donosnost, hkrati pa povečujejo stroške zadolževanja za podjetja. To bi lahko še posebej prizadelo visoko vrednotena tehnološka podjetja, ki so občutljiva na spremembe obrestnih mer. Nasdaq 100 je danes že padel za 1,61 % na 29329 točk, kar morda že odraža del te zaskrbljenosti. Za slovenskega dolgoročnega vlagatelja je ključno, da ne podleže pretiranemu navdušenju nad posameznimi sektorji in da diverzificira svoj portfelj, saj se tržni trendi lahko hitro obrnejo, še posebej ob spremembah v makroekonomskem okolju in pričakovanjih glede tehnoloških inovacij.",
+      "vpliv": [
+        "Potencialni padec vrednosti tehnoloških delnic",
+        "Povečana volatilnost na ameriških delniških trgih",
+        "Zmanjšana privlačnost delnic ob naraščajočih donosih obveznic",
+        "Previdnost vlagateljev glede visoko vrednotenih sektorjev"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/a-looming-ai-disappointment-and-rising-yields-why-one-research-firm-is-hitting-the-brakes-on-u-s-stocks-4bfaa67b?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-03T14:17:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-02T17:11:55.121Z",
+    "posodobljenoOb": "2026-07-03T17:07:39.669Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7440.59,
-        "sprememba_pct": -0.57
+        "vrednost": 7483.24,
+        "sprememba_pct": 0
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29190.14,
-        "sprememba_pct": -2.08
+        "vrednost": 29329.213,
+        "sprememba_pct": -1.61
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25580.88,
-        "sprememba_pct": 2.16
+        "vrednost": 25779.31,
+        "sprememba_pct": 0.78
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 68733.15,
-        "sprememba_pct": -2.47
+        "vrednost": 69744.07,
+        "sprememba_pct": 1.47
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4129.5,
-        "sprememba_pct": 1.15,
+        "vrednost": 4186.5,
+        "sprememba_pct": 1.47,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 68.09,
-        "sprememba_pct": -0.71,
+        "vrednost": 68.69,
+        "sprememba_pct": 0,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 71.15,
-        "sprememba_pct": -0.59,
+        "vrednost": 72.02,
+        "sprememba_pct": 0.31,
         "enota": "USD/sod"
       }
     ],
@@ -174,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1439,
-        "sprememba_pct": 0.48
+        "vrednost": 1.1444,
+        "sprememba_pct": 0.07
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.477,
-        "sprememba_pct": 0.04,
+        "vrednost": 4.485,
+        "sprememba_pct": 0,
         "enota": "%"
       }
     ],
@@ -191,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 61647.02,
-        "sprememba_pct": 2.81,
+        "vrednost": 62218.09,
+        "sprememba_pct": 1.18,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16.8,
-      "sprememba_pct": 1.27
+      "vrednost": 15.81,
+      "sprememba_pct": -2.11
     }
   }
 }
