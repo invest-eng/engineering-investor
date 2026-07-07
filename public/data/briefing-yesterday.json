@@ -1,179 +1,162 @@
 {
-  "generiranoOb": "2026-07-05T16:52:34.840Z",
+  "generiranoOb": "2026-07-06T18:02:41.888Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-07-05",
-  "povzetek": "Evropski trgi so danes zaključili večinoma pozitivno, pri čemer je nemški indeks DAX zrasel za 0,78 % na 25.779 točk, kar kaže na optimizem v regiji. Medtem so ameriški trgi v zgodnjem popoldanskem trgovanju pokazali mešano sliko, saj je indeks S&P 500 ostal nespremenjen pri 7.483 točkah, tehnološko usmerjeni Nasdaq 100 pa je padel za 1,61 % na 29.329 točk. Cene zlata so se zvišale za 1,49 % na 4187,30 USD za unčo, medtem ko sta nafta WTI in Brent zabeležili manjše rasti, WTI pri 68,78 USD/sod (+0,13 %) in Brent pri 72,13 USD/sod (+0,46 %). V ospredju so bile geopolitične napetosti, kot so ukrajinski napadi na rusko energetsko infrastrukturo in iranske izjave o plovbi skozi Hormuško ožino, kar vpliva na cene surovin. Pomemben je tudi premik v avtomobilski industriji, kjer hibridna vozila prekašajo povpraševanje po električnih. Vlagatelji so pozorni tudi na morebitno nestanovitnost zaradi \"momentum\" trgovanja. Ta teden bo ključnega pomena objava inflacijskih podatkov iz ZDA, ki lahko vplivajo na pričakovanja glede monetarne politike.",
+  "datum": "2026-07-06",
+  "povzetek": "Evropski trgi so danes zaključili dan z rahlo pozitivnim predznakom, medtem ko so ameriški trgi nadaljevali z rastjo. Nemški indeks DAX je zrasel za 0.15 % na 25818 točk. V ZDA je S&P 500 pridobil 0.64 % in dosegel 7531 točk, tehnološki Nasdaq 100 pa je bil še močnejši z rastjo 1.15 % na 29665 točk. Na trgu surovin je zlato zabeležilo rast za 1.11 % na 4171.70 USD/oz, medtem ko sta ceni nafte WTI in Brent ostali relativno stabilni pri 68.48 USD/sod oziroma 71.91 USD/sod. Medtem ko je Bitcoin zabeležil rahel padec za 0.10 % na 63526 USD, je volatilnost trga, merjena z indeksom VIX, zrasla za 0.95 % na 15.96. Dnevne novice so zaznamovale pomembne geopolitične odločitve, kot je napoved Nemčije o izposoji 800 milijard evrov za oborožitev, in dogajanje v tehnološkem sektorju, kjer je Microsoft napovedal obsežna odpuščanja. Vlagatelji bodo v prihodnjih dneh pozorno spremljali objave ključnih makroekonomskih podatkov in morebitne odločitve centralnih bank.",
   "novice": [
     {
-      "naslov": "Ukrajina stopnjuje napade na rusko energetsko infrastrukturo, povzroča krizo goriva",
+      "naslov": "Nemčija si bo izposodila 800 milijard evrov za ponovno oborožitev",
       "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Ukrajina je v zadnjem obdobju okrepila napade z droni na rusko energetsko infrastrukturo, kar je povzročilo najhujšo krizo z gorivom v Rusiji v zadnjih desetletjih. Ti napadi so del širše strategije Kijeva za oslabitev ruske vojaške in gospodarske moči. Intenzivnost napadov je brez primere, saj so ciljali na rafinerije, skladišča in transportne poti. Posledice se kažejo v pomanjkanju goriva in motnjah v oskrbi z energijo znotraj Rusije. S tem se povečujejo tudi geopolitična tveganja v regiji.",
-      "analiza": "Ozadje teh napadov je dolgotrajna vojna v Ukrajini, kjer Kijev poskuša izenačiti sile in povzročiti gospodarsko škodo Rusiji. Relevantnost dogodka je v njegovem neposrednem vplivu na globalne energetske trge in geopolitično stabilnost. Mehanizem vpliva je večplasten: zmanjšana ruska proizvodnja in izvoz nafte/naftnih derivatov lahko povzročita dvig svetovnih cen, saj Rusija ostaja pomemben dobavitelj. To vpliva na cene nafte Brent (danes pri 72,13 USD/sod, +0,46 %) in WTI (68,78 USD/sod, +0,13 %), kar se lahko odrazi v višjih cenah goriva za potrošnike. Posledice vključujejo potencialno inflacijo v državah uvoznicah nafte, pritisk na centralne banke za zaostrovanje monetarne politike in povečano volatilnost na delniških trgih, še posebej v energetskem sektorju. Zgodovinsko gledano so konflikti na Bližnjem vzhodu ali v vzhodni Evropi pogosto povzročali skoke cen nafte. V prihodnje bo pomembno spremljati odziv Rusije in morebitno eskalacijo konflikta. Za slovenskega dolgoročnega vlagatelja to pomeni, da je energetski sektor podvržen geopolitičnim tveganjem, kar lahko vpliva na donosnost naložb v energetska podjetja in širše na inflacijska pričakovanja.",
-      "vpliv": [
-        "Povečan pritisk na cene nafte",
-        "Potencialna inflacija v uvoznicah nafte",
-        "Povečana volatilnost v energetskem sektorju",
-        "Geopolitično tveganje"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/13687b48-9e54-44a1-bd4d-600bbc052baf",
-      "objavljeno": "2026-07-05T11:23:46.000Z"
-    },
-    {
-      "naslov": "Iranski odposlanec obljublja 'posebno' obravnavo za 'prijateljske' države v Hormuzu",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Iranski odposlanec na Kitajskem je izjavil, da bo Iran uvedel \"posebno\" obravnavo za \"prijateljske\" države pri določanju novih pristojbin za plovbo skozi Hormuško ožino. To se dogaja kljub ugovorom ZDA glede iranskih namer, da zaračuna pristojbine plovilom, ki tranzitirajo skozi ožino. Izjava namiguje na diferencirano obravnavo glede na politične odnose z Iranom, kar lahko zaostri mednarodne odnose in vpliva na globalno trgovino.",
-      "analiza": "Hormuška ožina je strateško ključna pomorska pot, skozi katero poteka približno petina svetovne nafte. Iranske grožnje z zaračunavanjem pristojbin ali celo zaporo ožine so se v preteklosti že pojavljale in so vedno povzročile zaskrbljenost na globalnih trgih. Trenutna izjava je relevantna, ker nakazuje na morebitno zaostrovanje napetosti in poskus Irana, da izkoristi svoj geografski položaj za politični in gospodarski vpliv. Mehanizem vpliva je direkten: kakršnakoli motnja v pretoku nafte skozi ožino bi drastično zvišala cene nafte in s tem stroške transporta po vsem svetu. To bi prizadelo globalno gospodarstvo, povzročilo inflacijske pritiske in povečalo negotovost na finančnih trgih. Posledice bi se odrazile v rasti cen nafte (Brent je danes pri 72,13 USD/sod), padcu delniških indeksov, še posebej tistih, ki so odvisni od poceni energije, in morebitnem umiku vlagateljev v varnejša sredstva, kot je zlato (danes pri 4187,30 USD/oz, +1,49 %). Za slovenskega dolgoročnega vlagatelja to pomeni, da so naložbe izpostavljene tveganjem, povezanim z geopolitičnimi žarišči, ki lahko povzročijo nenadne šoke na trgu surovin in s tem vplivajo na širše gospodarstvo.",
-      "vpliv": [
-        "Potencialni dvig cen nafte",
-        "Povečana negotovost v globalni trgovini",
-        "Geopolitično tveganje za dobavne verige",
-        "Možna inflacija"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/5/irans-china-envoy-vows-special-hormuz-treatment-for-friendly-countries?traffic_source=rss",
-      "objavljeno": "2026-07-05T08:09:44.000Z"
-    },
-    {
-      "naslov": "Hibridna vozila postajajo zvezda ameriškega avtomobilskega trga, povpraševanje po EV upada",
-      "sektor": "Potrošniki",
       "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Hibridna vozila postajajo nepričakovana zvezda ameriškega avtomobilskega trga, saj povpraševanje po popolnoma električnih vozilih (EV) upada. Tržna analiza kaže, da hibridi niso več le prehodna tehnologija do EV, ampak zmagujejo na področju funkcionalnosti in cene. Potrošniki se odločajo za hibride zaradi njihovega dosega, nižjih stroškov in manjše odvisnosti od polnilne infrastrukture. Ta trend nakazuje na morebitno preusmeritev v avtomobilski industriji.",
-      "analiza": "Ozadje te spremembe je kombinacija dejavnikov, vključno z visokimi cenami EV, omejeno polnilno infrastrukturo, zaskrbljenostjo glede dosega in padcem cen goriva, ki zmanjšujejo finančno privlačnost popolnoma električnih vozil. Ta trend je relevanten, ker kaže na pomemben premik v preferencah potrošnikov in strategijah avtomobilskih proizvajalcev. Mehanizem vpliva je direkten: podjetja, ki so močno vlagala v razvoj in proizvodnjo EV, se lahko soočijo z zmanjšanim povpraševanjem in morebitnimi presežki zalog, kar vpliva na njihove delnice. Po drugi strani pa lahko proizvajalci, ki so ohranili močno ponudbo hibridov, zabeležijo rast prodaje in dobička. Posledice se bodo odrazile v delnicah avtomobilskih podjetij (npr. Tesla, Ford, Toyota), kjer bodo tista s poudarkom na hibridih verjetno pridobivala, medtem ko bodo podjetja, osredotočena izključno na EV, morda trpela. To lahko vpliva tudi na sektor baterij in polnilne infrastrukture. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati tehnološke in tržne trende v določenih sektorjih, saj se lahko pričakovanja glede prihodnjih zmagovalcev hitro spremenijo, kar zahteva prilagoditev naložbene strategije.",
+      "intenziteta": 3,
+      "povzetek": "Nemčija načrtuje izposojo 800 milijard evrov za rearmament, kar predstavlja zgodovinski premik v fiskalni politiki. To obsežno zadolževanje, ki ga vodi kancler Friedrich Merz, je največje po ponovni združitvi Nemčije. Poteza odraža spremenjene geopolitične razmere in potrebo po krepitvi obrambnih zmogljivosti države. Takšno zadolževanje bo imelo dolgoročne posledice za nemške javne finance in širšo evropsko ekonomijo. Omenjena sredstva so namenjena modernizaciji in krepitvi nemških oboroženih sil.",
+      "analiza": "Ta odločitev Nemčije, da si izposodi 800 milijard evrov za ponovno oborožitev, predstavlja pomemben prelom z dolgoletno fiskalno previdnostjo države, ki je bila tradicionalno znana po uravnoteženih proračunih. Ozadje te poteze je spremenjeno geopolitično okolje v Evropi, ki zahteva večje naložbe v obrambo in varnost. Povečana poraba za obrambo bo verjetno spodbudila rast v obrambni industriji, kar bi lahko pozitivno vplivalo na delnice podjetij v tem sektorju. Po drugi strani pa bo tako obsežno zadolževanje povečalo nemški javni dolg, kar lahko vpliva na donosnost nemških državnih obveznic in potencialno na bonitetno oceno države. Za evro (EUR/USD je danes pri 1.1440) bi to lahko pomenilo mešane signale: kratkoročno vlivanje denarja v gospodarstvo, dolgoročno pa vprašanja o stabilnosti javnih financ evroobmočja. V preteklosti so podobni obsežni vladni programi, kot je bil Marshallov načrt ali povojna obnova, imeli močan vpliv na gospodarstvo, čeprav je bil takrat kontekst drugačen. Vlagatelji bodo pozorno spremljali, kako bo Nemčija upravljala s tem dolgom in kakšen bo vpliv na inflacijo v evroobmočju. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati gibanje nemških obveznic in evra, saj so to ključni elementi stabilnosti evroobmočja, ki vplivajo tudi na slovensko gospodarstvo in naložbe.",
       "vpliv": [
-        "Padec povpraševanja po EV",
-        "Rast prodaje hibridnih vozil",
-        "Vpliv na delnice avtomobilskih proizvajalcev",
-        "Sprememba strategij v avtomobilski industriji"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-05T13:03:00.000Z"
-    },
-    {
-      "naslov": "Trg delnic: 'Momentum' trgovanje se lahko ta mesec nasilno razplete",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Strategi opozarjajo, da bi se lahko \"momentum\" trgovanje na borzi, ki je v zadnjem času beležilo izjemno rast, ta mesec soočilo z \"nasilnim razpletom\". Momentum trgovanje vključuje nakup delnic, ki so v zadnjem času močno rasle, v pričakovanju nadaljnje rasti. Julij je zgodovinsko mesec, ko se tovrstne strategije pogosto soočajo s težavami, letos pa bi lahko bila volatilnost še posebej izrazita. To opozorilo kaže na povečano tveganje na trgu.",
-      "analiza": "Ozadje te analize je opazovanje tržnih ciklov in vedenja vlagateljev. Momentum strategije so bile v zadnjem času zelo uspešne, kar je povzročilo koncentracijo kapitala v določenih delnicah in sektorjih. Relevantnost opozorila je v tem, da lahko nenaden preobrat v takšnih strategijah povzroči hitre in ostre padce cen delnic, ki so bile prej gonilo rasti. Mehanizem vpliva je psihološki in tehnični: ko se trend obrne, vlagatelji, ki so sledili momentumu, začnejo prodajati, kar sproži verižno reakcijo in pospeši padec. To lahko poveča splošno volatilnost na trgu, kar se odraža v indeksu VIX (danes pri 15,81, -2,11 %, kar kaže na trenutno umirjenost, a opozorilo nakazuje na potencialno rast). Posledice bi se odrazile v padcu delniških indeksov, še posebej tistih z visoko koncentracijo \"momentum\" delnic, kot je Nasdaq 100 (danes pri 29329, -1,61 %). Vlagatelji bi se lahko umaknili v varnejša sredstva, kot so obveznice ali zlato. Zgodovinsko so se podobni \"razpleti\" dogajali po obdobjih pregretega optimizma, na primer med pokom dot-com balona. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno biti previden pri naložbah v delnice, ki so izjemno rasle brez močnih temeljnih razlogov, in razmisliti o diverzifikaciji portfelja, da se zmanjša izpostavljenost nenadnim tržnim korekcijam.",
-      "vpliv": [
-        "Povečana volatilnost na delniških trgih",
-        "Potencialni padci delnic z visokim momentumom",
-        "Premik vlagateljev v varnejša sredstva",
-        "Povečano tveganje za tržne korekcije"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-05T13:00:00.000Z"
-    },
-    {
-      "naslov": "Ameriški volivci menijo, da Trumpova vojna z Iranom ni vredna stroškov",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Raziskava Financial Timesa kaže, da ameriški volivci menijo, da vojna Donalda Trumpa z Iranom ni vredna stroškov. Anketa razkriva, da konflikt negativno vpliva na predsednikovo odobravanje pred novembrskimi vmesnimi volitvami. To kaže na naraščajočo utrujenost javnosti od dolgotrajnih in dragih vojaških operacij, kar lahko vpliva na prihodnjo zunanjo politiko ZDA in stabilnost regije.",
-      "analiza": "Ozadje te novice je nadaljevanje napetosti med ZDA in Iranom, ki so se zaostrile pod Trumpovo administracijo. Relevantnost je v neposrednem vplivu na ameriško notranjo politiko, predvsem na prihajajoče vmesne volitve, in potencialnem vplivu na prihodnjo zunanjo politiko ZDA do Irana. Mehanizem vpliva na finančne trge je posreden, a pomemben: politična nestabilnost in nepriljubljenost vojaških konfliktov lahko vplivata na stabilnost vlade in njeno sposobnost sprejemanja gospodarskih odločitev. Morebitna sprememba politike do Irana (npr. deeskalacija ali umik) bi lahko imela vpliv na cene nafte in stabilnost na Bližnjem vzhodu. Negativno mnenje javnosti lahko prisili politike k pregledu strategije, kar lahko zmanjša geopolitična tveganja, a hkrati ustvari negotovost glede prihodnjih potez. Posledice se lahko odrazijo v volatilnosti na trgih surovin, še posebej nafte, in vplivajo na delnice podjetij v obrambnem sektorju. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati politične trende v ključnih svetovnih velesilah, saj imajo lahko neposreden vpliv na globalno gospodarstvo in stabilnost trgov, kar vpliva na dolgoročne naložbe.",
-      "vpliv": [
-        "Vpliv na ameriško notranjo politiko",
-        "Potencialna sprememba zunanje politike ZDA",
-        "Vpliv na cene nafte in stabilnost Bližnjega vzhoda",
-        "Povečana politična negotovost"
+        "Povečanje nemškega javnega dolga",
+        "Potencialni pritisk na donosnost nemških obveznic",
+        "Spodbuda za obrambno industrijo",
+        "Mešani signali za evro"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/f1fe0dae-d22b-4284-b0f9-fa10f717af1c",
-      "objavljeno": "2026-07-05T12:00:03.000Z"
+      "vir_url": "https://www.ft.com/content/72878c3e-a4c6-4e4d-86c1-6df11593e4ac",
+      "objavljeno": "2026-07-06T17:15:51.000Z"
     },
     {
-      "naslov": "Bogate države morajo sprostiti zemljo, delovno silo, energijo in kapital za rast",
-      "sektor": "Makro & Centralne banke",
+      "naslov": "Microsoft odpušča 4.800 zaposlenih in zmanjšuje Xbox poslovanje",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Microsoft je napovedal obsežno prestrukturiranje, ki vključuje odpuščanje 4.800 zaposlenih, kar predstavlja 2.1 % celotne delovne sile podjetja. Od tega bo 1.600 delovnih mest ukinjenih v oddelku Xbox. Izvršni direktor Xboxa je dejal, da poslovanje 'ni zdravo', kar kaže na pritisk zaradi šibkih marž in upada v industriji strojne opreme. Ta poteza sledi trendu odpuščanj v tehnološkem sektorju, saj podjetja, kot so Meta in Oracle, zmanjšujejo stroške zaradi naraščajočih stroškov dirke v umetni inteligenci.",
+      "analiza": "Odpuščanje 4.800 zaposlenih pri Microsoftu, s poudarkom na oddelku Xbox, odraža širše izzive v tehnološkem sektorju, zlasti v igralni industriji in pri optimizaciji poslovanja v luči naložb v umetno inteligenco. Čeprav so delnice Microsofta danes v širšem kontekstu rasti (Nasdaq 100 je zrasel za 1.15 %), takšne novice običajno kažejo na pritisk na dobičkonosnost in potrebo po stroškovni učinkovitosti. Za delnice podjetja Microsoft bi lahko to pomenilo kratkoročno negativen odziv zaradi negotovosti, dolgoročno pa potencialno izboljšanje marž in dobička, če se prestrukturiranje izkaže za uspešno. Vpliv na širši tehnološki sektor je mešan; medtem ko nekatera podjetja vlagajo v AI, druga zmanjšujejo stroške v manj dobičkonosnih segmentih. To je del širšega trenda, kjer podjetja preusmerjajo vire v visoko rastne segmente, kot je AI, medtem ko optimizirajo ali opuščajo druge. Slovenski dolgoročni vlagatelj naj bo pozoren na to, kako se tehnološka podjetja prilagajajo novim tržnim razmeram in kako uravnotežijo rast z dobičkonosnostjo, saj to vpliva na dolgoročno vrednost njihovih naložb v tehnološke delnice.",
+      "vpliv": [
+        "Zmanjšanje delovne sile Microsofta za 2.1 %",
+        "1.600 odpuščenih v Xbox oddelku",
+        "Pritisk na dobičkonosnost v igralni industriji",
+        "Preusmeritev virov v AI sektor"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-06T15:18:53.000Z"
+    },
+    {
+      "naslov": "Podjetje Strategy prodaja Bitcoin z izgubo za izplačilo dividend",
+      "sektor": "Kripto",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Podjetje Strategy (MicroStrategy) je prodalo več kot 3.000 bitcoinov, da bi zbralo denar za izplačilo dividend na svoje prednostne delnice. Ta poteza je presenetljiva, saj je izvršni predsednik Michael Saylor predhodno izjavil, da to ne bo potrebno. Prodaja se dogaja v času, ko podjetje beleži izgubo na svojih Bitcoin naložbah. Bitcoin je danes pri 63526 USD, kar je -0.10 % v primerjavi s prejšnjim dnem. To kaže na likvidnostne pritiske znotraj podjetja.",
+      "analiza": "Odločitev podjetja Strategy (MicroStrategy) za prodajo več kot 3.000 bitcoinov z izgubo, da bi izplačalo dividende, je pomemben signal za trg kriptovalut. To kaže na likvidnostne pritiske znotraj podjetja in potencialno spremembo strategije, saj je Michael Saylor veljal za enega največjih zagovornikov in kupcev Bitcoina. Prejšnje izjave, da prodaja ne bo potrebna, so zdaj ovržene, kar lahko vpliva na zaupanje v podjetje in širšo percepcijo Bitcoina kot dolgoročnega hranilca vrednosti. Za Bitcoin, ki je danes zabeležil padec za 0.10 % na 63526 USD, je to lahko negativen signal, ki kaže na morebitno nadaljnjo prodajo s strani institucij, če se bodo soočale z likvidnostnimi potrebami. Vpliv na delnice podjetja Strategy bi bil verjetno negativen, saj so bile njihove delnice tesno povezane z uspešnostjo Bitcoina. V preteklosti so podobne institucionalne prodaje povzročile kratkoročne padce cen kriptovalut. Vlagatelji bodo spremljali, ali bo to izoliran primer ali znak širšega trenda med podjetji, ki so močno izpostavljena kriptovalutam. Za slovenskega dolgoročnega vlagatelja to poudarja tveganja, povezana z naložbami v kriptovalute, in pomen diverzifikacije portfelja, saj so cene lahko zelo volatilne.",
+      "vpliv": [
+        "Prodaja več kot 3.000 bitcoinov s strani Strategy",
+        "Negativen signal za zaupanje v Bitcoin",
+        "Potencialni pritisk na ceno Bitcoina (danes -0.10 %)",
+        "Vprašanja o likvidnosti podjetja Strategy"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/strategy-is-losing-a-lot-of-money-on-bitcoin-heres-why-its-selling-anyway-02822bc5?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-06T17:43:00.000Z"
+    },
+    {
+      "naslov": "Klarna išče bančno licenco v ZDA za širitev poslovanja",
+      "sektor": "Finance",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Članek v Financial Timesu poudarja, da morajo bogate države sprostiti svoje vire – zemljo, delovno silo, energijo in kapital – da bi spodbudile gospodarsko rast. Medtem ko se oblikovalci politik nagibajo k industrijskemu intervencionizmu, tvegajo, da zanemarjajo preprostejše dejavnike rasti. Avtorji opozarjajo, da je treba odpraviti ovire za učinkovito uporabo teh temeljnih proizvodnih dejavnikov, kar bi lahko vodilo k bolj robustni in trajnostni rasti.",
-      "analiza": "Ozadje te teze je globalna razprava o tem, kako spodbuditi dolgoročno gospodarsko rast v razvitih gospodarstvih, ki se soočajo z izzivi, kot so staranje prebivalstva, nizka produktivnost in visoki javni dolgovi. Relevantnost je v poudarku na temeljnih ekonomskih principih in kritiki trenutnih politik, ki se preveč zanašajo na državno intervencijo. Mehanizem vpliva je makroekonomski: če države uspešno sprostijo te dejavnike, to lahko vodi do povečanja produktivnosti, inovacij in splošne gospodarske rasti. To bi imelo pozitivne posledice za delniške trge, saj bi se povečali dobički podjetij, in bi lahko zmanjšalo inflacijske pritiske na dolgi rok. Nasprotno, nadaljevanje intervencionističnih politik brez reševanja strukturnih ovir lahko privede do stagnacije in neučinkovitosti. Posledice bi se odrazile v dolgoročni rasti BDP, stabilnosti valut (npr. EUR/USD je danes pri 1.1440, +0,03 %) in potencialno v nižjih donosih obveznic, če bi se inflacijska tveganja zmanjšala. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati makroekonomske politike in strukturne reforme v razvitih državah, saj imajo te neposreden vpliv na dolgoročne obete za gospodarsko rast in s tem na donosnost globalnih naložb.",
+      "povzetek": "Klarna, znano fintech podjetje, si prizadeva pridobiti bančno licenco v Združenih državah Amerike. Ta poteza predstavlja pomemben korak v njeni strategiji širitve poslovanja, ki presega tradicionalni model 'kupi zdaj, plačaj pozneje'. S tem se Klarna pridružuje valu fintech in kripto podjetij, ki poskušajo vstopiti v tradicionalni bančni sistem. Pridobitev licence bi Klarni omogočila ponudbo širšega nabora finančnih storitev, vključno z depoziti in posojili.",
+      "analiza": "Prizadevanje Klarne za pridobitev bančne licence v ZDA je strateško pomembna poteza, ki odraža konvergenco med fintech sektorjem in tradicionalnim bančništvom. Z bančno licenco bi Klarna lahko ponudila depozitne storitve, posojila in druge bančne produkte, kar bi povečalo njene prihodke in razširilo bazo strank. To bi pomenilo tudi večjo regulativno odgovornost, a hkrati tudi večjo kredibilnost in dostop do cenejših virov financiranja. Za tradicionalne banke to pomeni povečano konkurenco s strani agilnih fintech podjetij, ki so pogosto bolj inovativna in tehnološko napredna. V preteklosti so podobne integracije, kot je bil vstop tehnoloških velikanov v plačilne storitve, preoblikovale finančno industrijo. Ta trend kaže, da se meje med različnimi finančnimi storitvami brišejo, kar ustvarja nove priložnosti in izzive. Vlagatelji v finančni sektor bodo pozorni na to, kako se bodo fintech podjetja, kot je Klarna, uspešno vključevala v regulirano bančno okolje. Za slovenskega dolgoročnega vlagatelja je to pomembno, saj kaže na globalne trende v finančni industriji in na potrebo po razumevanju, kako se tradicionalne banke prilagajajo na konkurenco s strani inovativnih tehnoloških podjetij.",
       "vpliv": [
-        "Potencial za dolgoročno gospodarsko rast",
-        "Vpliv na produktivnost in inovacije",
-        "Sprememba makroekonomskih politik",
-        "Vpliv na delniške trge in inflacijo"
+        "Klarna širi ponudbo storitev v ZDA",
+        "Povečana konkurenca za tradicionalne banke",
+        "Večja regulativna odgovornost za Klarno",
+        "Konvergenca fintech in bančnega sektorja"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/33da8720-996b-49e3-a34a-61d33095c541",
-      "objavljeno": "2026-07-05T11:00:03.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html",
+      "objavljeno": "2026-07-06T15:36:23.000Z"
     },
     {
-      "naslov": "Kitajska in Rusija napovedujeta letne skupne pomorske vaje, krepitev sodelovanja",
-      "sektor": "Geopolitika",
+      "naslov": "Umetna inteligenca: Velika tehnološka podjetja si prisvajajo celoten dobiček",
+      "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Kitajska in Rusija bosta od ponedeljka do 13. julija izvedli letne skupne pomorske vaje ob obali Qingdaa, ki jim bodo sledile skupne pomorske patrulje v Tihem oceanu. Te vaje so del krepitve vojaškega sodelovanja med državama. Napoved poudarja njuno usklajeno delovanje in željo po demonstraciji moči v regiji, kar lahko vpliva na geopolitično ravnovesje in odnose z zahodnimi državami.",
-      "analiza": "Ozadje teh vaj je naraščajoče strateško partnerstvo med Kitajsko in Rusijo, ki si prizadevata za protiutež zahodnemu vplivu, predvsem ZDA. Relevantnost dogodka je v signalu, ki ga pošiljata globalni skupnosti glede njunega vojaškega sodelovanja in ambicij po oblikovanju novega svetovnega reda. Mehanizem vpliva na finančne trge je posreden, vendar pomemben: povečanje vojaških napetosti in demonstracija moči lahko povzročita negotovost na trgih, še posebej v azijsko-pacifiški regiji. To lahko vpliva na delnice podjetij v obrambnem sektorju, poveča povpraševanje po varnih zatočiščih, kot je zlato (danes pri 4187,30 USD/oz, +1,49 %), in potencialno vpliva na valutne tečaje v regiji. Zgodovinsko gledano so tovrstne vojaške vaje pogosto spremljale politične izjave, ki so vplivale na mednarodne odnose. V prihodnje bo pomembno spremljati obseg in pogostost teh vaj ter odziv drugih regionalnih in globalnih akterjev. Za slovenskega dolgoročnega vlagatelja to pomeni, da je geopolitična stabilnost ključna za globalno gospodarsko rast in da so naložbe izpostavljene tveganjem, ki izhajajo iz mednarodnih napetosti in vojaških demonstracij moči.",
+      "povzetek": "Članek izpostavlja, da so podatki posameznikov ključni za razvoj umetne inteligence, vendar velika tehnološka podjetja (Big Tech) pobirajo 100 % dobička, ustvarjenega z AI. Avtor trdi, da je delež posameznikov v bogastvu, ki ga ustvarja AI, pravica in ne miloščina, ter predlaga načine, kako bi posamezniki lahko dobili nazaj svoj delež. To odpira vprašanja o etiki, lastništvu podatkov in distribuciji bogastva v dobi umetne inteligence. Razprava se osredotoča na pravičnost in potencialne regulativne ukrepe.",
+      "analiza": "Razprava o tem, kdo bi moral imeti koristi od 'AI booma', je ključnega pomena za prihodnost tehnološkega sektorja in družbe. Trenutno velika tehnološka podjetja, ki so vložila ogromna sredstva v razvoj AI, pobirajo večino dobičkov. Vendar pa narašča pritisk javnosti in regulatorjev, ki opozarjajo na vprašanja lastništva podatkov in pravične distribucije bogastva. To bi lahko v prihodnosti privedlo do novih regulativnih ukrepov, kot so davki na podatke, obvezno deljenje dobička ali strožji zakoni o zasebnosti, kar bi lahko vplivalo na dobičkonosnost in poslovne modele podjetij Big Tech. Za delnice teh podjetij bi morebitna regulacija pomenila povečane stroške in zmanjšanje marž, kar bi lahko vplivalo na njihovo vrednost. V preteklosti so podobne razprave o monopolih in delitvi bogastva vodile do protimonopolnih zakonov in regulacije. Slovenski dolgoročni vlagatelj naj bo pozoren na razvoj regulative v zvezi z AI in podatki, saj lahko to pomembno vpliva na dolgoročno privlačnost naložb v velika tehnološka podjetja in na širšo ekonomsko pokrajino.",
       "vpliv": [
-        "Povečana geopolitična napetost",
-        "Vpliv na varnostno situacijo v Aziji",
-        "Potencialno povečanje povpraševanja po varnih zatočiščih",
-        "Vpliv na delnice obrambnega sektorja"
+        "Povečanje pritiska na regulacijo Big Tech podjetij",
+        "Potencialni davki na podatke ali delitev dobička",
+        "Vpliv na dobičkonosnost tehnoloških velikanov",
+        "Razprava o lastništvu podatkov in etiki AI"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-06T17:45:00.000Z"
+    },
+    {
+      "naslov": "Vrh Nata v Turčiji obravnava napetosti med ZDA in Evropo ter podporo Ukrajini",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Voditelji Nata so se zbrali v Ankari v Turčiji na vrhu, kjer obravnavajo ključna vprašanja, kot so napetosti med ZDA in Evropo, vrzeli v obrambnih zmogljivostih ter nadaljnja podpora vojaški odpornosti Ukrajine. Vprašanje, ali je Nato na prelomni točki, je v ospredju razprav. Razprave vključujejo tudi potrebo po usklajenem pristopu k varnostnim izzivom in financiranju obrambe, kar je ključno za prihodnost zavezništva.",
+      "analiza": "Vrh Nata v Ankari je ključen dogodek za geopolitično stabilnost in obrambno politiko. Napetosti med ZDA in Evropo, zlasti glede delitve bremen in strateških prioritet, lahko vplivajo na kohezijo zavezništva. Poudarek na 'vrzelih v obrambnih zmogljivostih' in 'podpori Ukrajini' pomeni nadaljnje povečanje izdatkov za obrambo v Evropi, kar je že nakazala Nemčija z napovedjo izposoje 800 milijard evrov. To bi lahko pozitivno vplivalo na delnice obrambnih podjetij. Po drugi strani pa morebitna nestabilnost znotraj Nata ali neusklajenost politik lahko poveča geopolitična tveganja, kar bi se odrazilo v večji volatilnosti na trgih (VIX je danes pri 15.96, +0.95 %). Vpliv na valute, kot je evro, bi bil odvisen od stopnje enotnosti in odločnosti, ki jo bo vrh izkazal. V preteklosti so podobni vrhovi določali smer mednarodnih odnosov in vplivali na dolgoročne naložbene trende v obrambnem sektorju. Slovenski dolgoročni vlagatelj naj bo pozoren na izide vrha Nata, saj ti vplivajo na širšo varnostno in ekonomsko stabilnost Evrope, kar posredno vpliva tudi na slovensko gospodarstvo in naložbeno okolje.",
+      "vpliv": [
+        "Povečanje izdatkov za obrambo v Evropi",
+        "Potencialno povečanje volatilnosti trga (VIX)",
+        "Vpliv na delnice obrambnih podjetij",
+        "Razprave o koheziji zavezništva NATO"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/5/china-and-russia-to-hold-annual-joint-naval-drills?traffic_source=rss",
-      "objavljeno": "2026-07-05T11:03:51.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/7/6/is-nato-at-breaking-point-as-it-meets-in-turkiye?traffic_source=rss",
+      "objavljeno": "2026-07-06T15:18:33.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-05T16:50:46.611Z",
+    "posodobljenoOb": "2026-07-06T18:01:39.204Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7483.24,
-        "sprememba_pct": 0
+        "vrednost": 7531.23,
+        "sprememba_pct": 0.64
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29329.213,
-        "sprememba_pct": -1.61
+        "vrednost": 29665.197,
+        "sprememba_pct": 1.15
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25779.31,
-        "sprememba_pct": 0.78
+        "vrednost": 25817.89,
+        "sprememba_pct": 0.15
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 69744.07,
-        "sprememba_pct": 1.47
+        "vrednost": 69737.69,
+        "sprememba_pct": -0.01
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4187.3,
-        "sprememba_pct": 1.49,
+        "vrednost": 4171.7,
+        "sprememba_pct": 1.11,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 68.78,
-        "sprememba_pct": 0.13,
+        "vrednost": 68.48,
+        "sprememba_pct": -0.31,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 72.13,
-        "sprememba_pct": 0.46,
+        "vrednost": 71.91,
+        "sprememba_pct": 0.15,
         "enota": "USD/sod"
       }
     ],
@@ -182,7 +165,7 @@
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
         "vrednost": 1.144,
-        "sprememba_pct": 0.03
+        "sprememba_pct": 0
       }
     ],
     "obveznice": [
@@ -198,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 62568.49,
-        "sprememba_pct": -0.82,
+        "vrednost": 63526.03,
+        "sprememba_pct": -0.1,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.81,
-      "sprememba_pct": -2.11
+      "vrednost": 15.96,
+      "sprememba_pct": 0.95
     }
   }
 }
