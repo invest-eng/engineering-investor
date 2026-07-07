@@ -11,6 +11,7 @@ export const SITE = {
 export const NAV_LINKS = [
   { label: 'Analize', href: '/analize' },
   { label: 'Dnevni pregled', href: '/dnevni-pregled' },
+  { label: 'Koledar', href: '/koledar' },
   { label: 'Kalkulatorji', href: '/kalkulatorji' },
   { label: 'Sledilnik', href: '/sledilnik' },
   { label: 'Davčni tracker', href: '/davek' },
