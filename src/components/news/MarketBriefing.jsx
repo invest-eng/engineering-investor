@@ -182,6 +182,7 @@ export default function MarketBriefing() {
   const [filter, setFilter] = useState('vse');
   const [expanded, setExpanded] = useState(null);
   const [tierUsed, setTierUsed] = useState('free'); // 'premium' | 'free'
+  const [liveMarket, setLiveMarket] = useState(null);
 
   useEffect(() => {
     if (authLoading) return; // wait until we know premium status
@@ -217,6 +218,16 @@ export default function MarketBriefing() {
     load();
   }, [authLoading, isPremium]);
 
+  // Separately fetch live market-data.json — updated every ~2h during trading hours.
+  // Use it for the MarketSnapshot if it's newer than the briefing's trgi snapshot.
+  useEffect(() => {
+    const base = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
+    fetch(`${base}/data/market-data.json`, { cache: 'no-store' })
+      .then((r) => r.ok ? r.json() : null)
+      .then((md) => { if (md) setLiveMarket(md); })
+      .catch(() => {});
+  }, []);
+
   const novice = data?.novice ?? [];
   const filtered = useMemo(
     () => (filter === 'vse' ? novice : novice.filter((n) => n.sektor === filter)),
@@ -233,6 +244,15 @@ export default function MarketBriefing() {
     const set = new Set(novice.map((n) => n.sektor));
     return SECTORS.filter((s) => set.has(s));
   }, [novice]);
+
+  // Prefer live market-data.json if newer than the briefing's trgi snapshot
+  const activeMarket = useMemo(() => {
+    if (!liveMarket) return data?.trgi ?? null;
+    if (!data?.trgi) return liveMarket;
+    const liveTs = Date.parse(liveMarket.posodobljenoOb);
+    const briefTs = Date.parse(data.trgi.posodobljenoOb);
+    return liveTs > briefTs ? liveMarket : data.trgi;
+  }, [data, liveMarket]);
 
   return (
     <div style={{ padding: '3.5rem 0 5rem', minHeight: '70vh' }}>
@@ -335,8 +355,6 @@ export default function MarketBriefing() {
 
         {!loading && !error && data && (
           <>
-            <MarketSnapshot trgi={data.trgi} />
-
             {data.povzetek && (
               <section style={{
                 padding: '1.75rem 1.85rem',

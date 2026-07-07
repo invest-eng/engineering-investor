@@ -1,0 +1,77 @@
+name: Market Data Update
+
+on:
+  schedule:
+    # Med evropskimi in ameriškimi trgovalnimi urami (pon-pet):
+    # 08:00, 10:00, 12:00, 14:00, 16:00, 18:00, 20:00 UTC
+    # = 10:00, 12:00, 14:00, 16:00, 18:00, 20:00, 22:00 SLO (CEST)
+    - cron: '0 8 * * 1-5'
+    - cron: '0 10 * * 1-5'
+    - cron: '0 12 * * 1-5'
+    - cron: '0 14 * * 1-5'
+    - cron: '0 16 * * 1-5'
+    - cron: '0 18 * * 1-5'
+    - cron: '0 20 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: market-data
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch market data
+        run: node scripts/update-market-data.mjs
+
+      - name: Commit market data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/market-data.json public/data/index-performance.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(market): update market data snapshot"
+            git push
+          fi
+
+      - name: Build site
+        env:
+          PUBLIC_SUPABASE_URL: ${{ secrets.PUBLIC_SUPABASE_URL }}
+          PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.PUBLIC_SUPABASE_ANON_KEY }}
+        run: npm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

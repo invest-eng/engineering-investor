@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import IndexPerformance from '../components/market/IndexPerformance.jsx';
+---
+
+<BaseLayout
+  title="Tržni pregled"
+  description="Primerjava donosnosti S&P 500, NASDAQ, Dow Jones, Russell 2000 in sektorskih ETF za izbrano časovno obdobje."
+>
+  <IndexPerformance client:load />
+</BaseLayout>
