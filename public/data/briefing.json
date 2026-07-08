@@ -1,179 +1,164 @@
 {
-  "generiranoOb": "2026-07-08T06:38:48.048Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-07-08T16:58:49.754Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-07-08",
-  "povzetek": "Jutranji pregled finančnih trgov 8. julija 2026 kaže na splošno negativno razpoloženje, predvsem zaradi geopolitičnih napetosti. Ameriški indeksi so noč zaključili v rdečem, kjer je S&P 500 padel za 0.45 % na 7504 točk, tehnološki Nasdaq 100 pa je zabeležil še večji padec, -1.77 %, na 29173 točk. Azijski trgi so sledili trendu, saj je Nikkei 225 upadel za 1.71 % na 67087 točk, medtem ko je nemški DAX že včeraj zaključil z -1.37 % na 25465 točk. Glavni razlog za to so nadaljnji ameriški napadi na Iran, ki so povzročili skok cen nafte, kjer je Brent nafta presegla 74 USD/sod. Vlagatelji so zaskrbljeni tudi zaradi morebitnih širših posledic avtomatizacije na trg dela, kar kažejo zahteve avstralskih pristaniških delavcev po krajšem delovnem tednu. Geopolitične napetosti na Bližnjem vzhodu in njihove posledice za svetovno gospodarstvo ostajajo v fokusu vlagateljev ta teden.",
+  "povzetek": "Današnji dan, 8. julij 2026, je na finančnih trgih zaznamovala predvsem geopolitična negotovost, ki je močno vplivala na cene energentov in razpoloženje vlagateljev. Evropski trgi so zaključili dan v rdečem, pri čemer je nemški DAX padel za 2,23 % na 24897 točk, medtem ko so ameriški indeksi, ki so odprti dve uri, beležili manjše padce; S&P 500 je pri 7473 točkah izgubil 0,41 %, Nasdaq 100 pa 0,10 % in se giblje pri 29145 točkah. Ključni dejavnik je bila novica o prekinitvi premirja med ZDA in Iranom, kar je povzročilo skok cen nafte: WTI nafta se je podražila za 6,13 % na 74,76 USD za sod, Brent nafta pa za 6,69 % na 79,12 USD za sod. Povečana volatilnost trga je vidna tudi v indeksu VIX, ki je zrasel za 7,01 % na 17,26. Medtem ko se zlato (-2,26 % na 4063,50 USD/oz) in Bitcoin (-1,99 % na 62060 USD) umikata, je donosnost 10-letne ameriške obveznice zrasla za 1,19 % na 4,58 %, kar kaže na zaskrbljenost glede inflacije in morebitnih višjih obrestnih mer. Poleg geopolitičnih napetosti so na evropsko razpoloženje vplivale tudi politične novice iz Francije, kjer je Marine Le Pen začela kampanjo, medtem ko se na področju tehnologije nadaljuje trend avtomatizacije z AI, kot kaže napoved podjetja Allianz Partners o zmanjšanju delovnih mest. Vlagatelji bodo v prihodnjih dneh pozorno spremljali prihajajočo objavo podatkov o inflaciji v ZDA, ki bi lahko dodatno vplivala na smer trga.",
   "novice": [
     {
-      "naslov": "ZDA nadaljujejo napade na Iran, kar dviguje cene nafte in napetosti",
-      "sektor": "Geopolitika",
+      "naslov": "Prekinitev premirja med ZDA in Iranom dvignila cene nafte",
+      "sektor": "Geopolitika & Energetika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Združene države Amerike so kljub predhodnim obljubam o premoru med pogrebom vrhovnega voditelja Hameneija sprožile nov val napadov na Iran, kar je potrdil tudi generalni sekretar Nata Rutte kot 'absolutno nujno' dejanje. Ti napadi so sledili iranskim povračilnim ukrepom po napadih na tankerje v Hormuški ožini. Iransko gospodarstvo se sooča z dolgotrajno potjo okrevanja po dveh vojnah v enem letu, kar analitiki ocenjujejo kot večletni proces za obnovo industrijskih objektov. V ozadju dogajanja je tudi prihod krste preminulega vrhovnega voditelja Hameneija v iraško Najaf, eno izmed najsvetejših šiitskih mest. Posledično so cene nafte močno poskočile, saj je Brent nafta presegla 76 dolarjev za sod, s čimer so se izničile prejšnje cene pred vojno.",
-      "analiza": "Nadaljevanje ameriških napadov na Iran, kljub predhodnim obljubam o premoru, predstavlja pomembno eskalacijo konflikta na Bližnjem vzhodu. Ta dogodek se vpenja v širši kontekst naraščajočih geopolitičnih napetosti in nestabilnosti v regiji, ki so se v zadnjem letu že izrazile v dveh vojnah in znatni devastaciji iranskih industrijskih zmogljivosti. Mehanizem vpliva na finančne trge je neposreden in večplasten: povečana negotovost in tveganje v regiji, ki je ključna za svetovno oskrbo z nafto, takoj dvigneta cene surovin. Brent nafta je tako poskočila nad 74 USD/sod (+0.00 % v snapshotu, vendar novica govori o rasti nad 76 USD/sod), kar kaže na tržno reakcijo na povečano tveganje. Posledice se kažejo v višjih cenah nafte, kar povečuje inflacijske pritiske po svetu in lahko negativno vpliva na gospodarsko rast. Za delniške trge to pomeni povečano volatilnost, saj se vlagatelji umikajo iz tveganih naložb, kar se odraža v padcih indeksov, kot sta S&P 500 (-0.45 %) in Nasdaq 100 (-1.77 %). Obvezniške donosnosti, kot je 10-letna ameriška zakladnica, so se zvišale na 4.53 % (+1.12 %), kar kaže na iskanje varnejših naložb in pričakovanje višjih obrestnih mer. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati globalne geopolitične dogodke, saj imajo lahko pomemben vpliv na cene energentov in širše gospodarske razmere, kar se odraža v donosnosti naložb.",
+      "povzetek": "Ameriški predsednik Donald Trump je namignil, da je premirje z Iranom končano, kar je sledilo novim ameriškim napadom in kršitvi premirja okoli Hormuške ožine. Ta razvoj dogodkov je povzročil takojšen odziv na trgih surovin, saj so cene nafte poskočile na dvotedenske vrhunce. Cena Brent nafte je dosegla dnevni vrh pri 79,26 USD za sod, medtem ko je WTI nafta zrasla za 6,13 % na 74,76 USD, Brent pa za 6,69 % na 79,12 USD. Posledično so se zvišale tudi cene plina, delniški trgi so zdrsnili, donosi državnih obveznic pa so narasli zaradi strahu pred inflacijo in dvigom obrestnih mer. Kljub temu pa je operater počitniških aranžmajev Jet2 poročal o okrevanju poletnih rezervacij, ki so se v primerjavi z lanskim letom povečale za 7,1 %, kar kaže na močno povpraševanje potrošnikov po potovanjih.",
+      "analiza": "Ozadje dogodka je dolgotrajna napetost med ZDA in Iranom, ki se osredotoča na nadzor nad Hormuško ožino, ključno pomorsko potjo za globalno trgovino z nafto. Prekinitev premirja in grožnje z novimi napadi s strani ZDA ustvarjajo veliko negotovost glede stabilnosti dobav nafte. To je relevantno zdaj, ker se globalno gospodarstvo že sooča z inflacijskimi pritiski, in kakršnakoli motnja v dobavi nafte lahko te pritiske še okrepi. Mehanizem vpliva je direkten: ko se poveča tveganje za motnje v dobavi nafte iz regije, se vlagatelji odzovejo z nakupom naftnih terminskih pogodb, kar dvigne cene. Višje cene nafte se nato prenesejo v višje stroške goriva za podjetja in potrošnike. Posledice so vidne v padcu delniških indeksov, kot sta S&P 500 (-0,41 %) in DAX (-2,23 %), saj višje cene energentov zmanjšujejo dobičkonosnost podjetij in kupno moč potrošnikov. Donosnosti obveznic, kot je 10-letna ameriška obveznica (+1,19 % na 4,58 %), rastejo, saj vlagatelji pričakujejo, da bodo centralne banke morda morale dvigniti obrestne mere za zajezitev inflacije. Valute, kot je EUR/USD (+0,07 % na 1,1417), so relativno stabilne, vendar lahko dolgoročno višje cene nafte oslabijo valute držav uvoznic. Zlato (-2,26 % na 4063,50 USD/oz), tradicionalno varno zatočišče, je presenetljivo padlo, kar lahko kaže na likvidnostne pritiske ali preusmeritev kapitala v obveznice. Za slovenskega dolgoročnega vlagatelja to pomeni, da je portfelj izpostavljen geopolitičnim tveganjem in tveganju višje inflacije. Pomembno je spremljati razvoj dogodkov v regiji in morebitne nadaljnje odzive centralnih bank.",
       "vpliv": [
-        "Cene nafte (Brent) so poskočile nad 76 USD/sod.",
-        "Povečana geopolitična negotovost na Bližnjem vzhodu.",
-        "Padec delniških indeksov (S&P 500 -0.45 %, Nasdaq 100 -1.77 %).",
-        "Rast donosnosti obveznic (10Y US Treasury +1.12 % na 4.53 %)."
+        "Brent nafta +6,69 % na 79,12 USD/sod",
+        "WTI nafta +6,13 % na 74,76 USD/sod",
+        "DAX -2,23 %",
+        "S&P 500 -0,41 %",
+        "10Y US Treasury donosnost +1,19 % na 4,58 %",
+        "VIX +7,01 % na 17,26"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/8/oil-prices-surge-as-us-strikes-iran-reversing-fall-to-pre-war-levels?traffic_source=rss",
-      "objavljeno": "2026-07-08T04:02:32.000Z"
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/live/2026/jul/08/oil-prices-rise-fresh-us-strikes-iran-return-sanctions-tehran-federal-reserve-minutes-live-updates",
+      "objavljeno": "2026-07-08T14:18:20.000Z"
     },
     {
-      "naslov": "Virgin Media kaznovana z 28 milijoni funtov zaradi oviranja odpovedi pogodb",
-      "sektor": "Potrošniki",
+      "naslov": "Kampanja Marine Le Pen v Franciji sproža mešane odzive",
+      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Regulator je Virgin Media kaznoval z globo v višini 28 milijonov funtov, ker je podjetje strankam preprečevalo odpoved pogodb. V skoraj triletnem obdobju so bili milijoni telefonskih klicev strank 'verjetno napačno obravnavani', kar je oteževalo ali onemogočalo postopke odpovedi. Ta odločitev poudarja pomen zaščite potrošnikov in odgovornosti podjetij do svojih strank. Regulator je ugotovil sistematične pomanjkljivosti v postopkih podjetja, ki so kršile pravice potrošnikov.",
-      "analiza": "Globa v višini 28 milijonov funtov, naložena podjetju Virgin Media, je pomemben opomin na regulativna tveganja, s katerimi se soočajo podjetja, zlasti v sektorju storitev. Ta dogodek se vpenja v širši trend povečanega nadzora regulatorjev nad praksami podjetij, s poudarkom na zaščiti potrošnikov in pošteni konkurenci. Mehanizem vpliva na finančne trge je predvsem prek ugleda podjetja, morebitnih prihodnjih regulativnih ukrepov in finančnih posledic kazni. Čeprav 28 milijonov funtov morda ne predstavlja kritičnega udarca za veliko podjetje, kot je Virgin Media, pa opozarja na tveganja, ki jih prinašajo slabe prakse in neupoštevanje regulativnih zahtev. Za delniške trge to pomeni, da vlagatelji postajajo bolj pozorni na ESG (okoljske, socialne in upravljavske) dejavnike in regulativna tveganja pri ocenjevanju podjetij. Podjetja, ki se soočajo s takšnimi kaznimi, lahko doživijo kratkoročni padec vrednosti delnic ali dolgoročno škodo ugledu. Posredno lahko to vpliva tudi na širši sektor telekomunikacij, saj regulatorji lahko poostrijo nadzor nad drugimi ponudniki. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so regulativna tveganja sestavni del poslovanja in lahko vplivajo na donosnost naložb, zato je ključno preverjati etične in regulativne prakse podjetij v portfelju.",
+      "povzetek": "Vodja skrajne desnice Marine Le Pen je kljub obsodbi zaradi poneverbe začela svojo predvolilno kampanjo v Franciji, kar je sprožilo burne razprave po vsej državi. Sodišče je namreč odločilo, da lahko Le Penova kandidira, kar je povzročilo mešane reakcije med francosko javnostjo in političnimi akterji. Ta razvoj dogodkov prispeva k politični negotovosti v Evropi, še posebej v luči nedavnih volilnih rezultatov in širšega trenda vzpona populističnih gibanj.",
+      "analiza": "Politično ozadje v Franciji je že nekaj časa napeto, z naraščajočo podporo skrajnodesničarskim strankam. Začetek kampanje Marine Le Pen, kljub njeni preteklosti, je pomemben dogodek, saj lahko njena morebitna izvolitev ali močan rezultat povzroči precejšnje spremembe v francoski in evropski politiki. To je relevantno zdaj, ker politična nestabilnost v velikih evropskih gospodarstvih, kot je Francija, neposredno vpliva na zaupanje vlagateljev in stabilnost evroobmočja. Mehanizem vpliva je predvsem prek povečane negotovosti in tveganja za spremembe v gospodarski politiki, kar lahko odvrne tuje investicije. Posledice so se danes odrazle v padcu evropskih delniških trgov, pri čemer je nemški DAX izgubil 2,23 % in zaključil pri 24897 točkah, saj so vlagatelji zaskrbljeni zaradi potencialnih političnih pretresov. Šibkejši evro, ki se je danes sicer gibal relativno stabilno pri EUR/USD 1,1417 (+0,07 %), bi lahko bil dolgoročna posledica, če se bo politična negotovost nadaljevala. Donosnosti državnih obveznic perifernih članic evroobmočja bi se lahko zvišale, saj bi vlagatelji zahtevali višjo premijo za tveganje. Zgodovinsko gledano so politične spremembe v Franciji vedno imele velik vpliv na celotno Evropo, saj je Francija ključna članica EU. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati politični razvoj v Evropi, saj lahko vpliva na stabilnost evra in donosnost naložb v evropske delnice in obveznice.",
       "vpliv": [
-        "Finančna kazen za Virgin Media v višini 28 milijonov funtov.",
-        "Povečana regulativna tveganja za podjetja v storitvenem sektorju.",
-        "Potencialna škoda ugledu podjetja.",
-        "Poudarek na zaščiti potrošnikov in ESG dejavnikih."
+        "DAX -2,23 %",
+        "Povečana politična negotovost v evroobmočju",
+        "Potencialni pritisk na evro",
+        "Možni dvigi donosnosti obveznic perifernih članic EU"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-07-08T06:36:27.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
+      "objavljeno": "2026-07-08T16:17:12.000Z"
     },
     {
-      "naslov": "Avstralski pristaniški delavci zahtevajo 28-urni delovni teden v pogovorih o AI",
+      "naslov": "Zavarovalniški velikan Allianz Partners bo z AI nadomestil do 1.800 delovnih mest",
       "sektor": "Tehnologija & AI",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Avstralski pristaniški delavci prek sindikata zahtevajo 28-urni delovni teden v luči pogovorov o vplivu umetne inteligence (AI) na delovna mesta. Sindikat poudarja, da so delavci 'na muhi' avtomatizacije, saj se AI že testira v pristaniščih. Ta zahteva odraža naraščajočo zaskrbljenost glede prihodnosti dela v dobi hitrega tehnološkega napredka in avtomatizacije. Pogovori so ključni za določitev pogojev dela v prihodnosti, ko bo AI prevzemala vedno več nalog.",
-      "analiza": "Zahteva avstralskih pristaniških delavcev po 28-urnem delovnem tednu v kontekstu pogovorov o umetni inteligenci je pomemben pokazatelj naraščajočih pritiskov na trg dela zaradi avtomatizacije. Ta dogodek se vpenja v širšo globalno debato o vplivu AI na zaposlovanje, produktivnost in socialno varnost. Mehanizem vpliva na finančne trge je kompleksen: na eni strani avtomatizacija in AI obljubljata povečanje učinkovitosti in znižanje stroškov za podjetja, kar bi lahko pozitivno vplivalo na dobičkonosnost in vrednost delnic (npr. tehnoloških podjetij). Po drugi strani pa zahteve po krajšem delovnem tednu, če bodo sprejete, lahko povečajo stroške dela ali zmanjšajo produktivnost, kar bi lahko negativno vplivalo na podjetja v sektorjih, ki so močno odvisni od delovne sile (npr. logistika, industrija). Vpliv na delnice je mešan; podjetja, ki uspešno implementirajo AI za optimizacijo, lahko pridobijo, medtem ko se tista, ki se soočajo z močnimi sindikalnimi pritiski, lahko znajdejo pod pritiskom. Dolgoročno je to ključno za makroekonomsko stabilnost in socialno kohezijo. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj na področju AI in avtomatizacije, saj bo to preoblikovalo številne industrije in vplivalo na naložbene priložnosti, hkrati pa je treba biti pozoren na morebitne socialne in politične odzive na te spremembe.",
+      "povzetek": "Zavarovalniški velikan Allianz Partners je napovedal, da bo z umetno inteligenco nadomestil med 1.500 in 1.800 delovnih mest iz svoje delovne sile, ki šteje skoraj 23.000 zaposlenih. Ta poteza predstavlja pomemben korak v avtomatizaciji in optimizaciji poslovanja znotraj finančnega sektorja. Odpuščanja predstavljajo približno 6,5 % do 7,8 % celotne delovne sile podjetja.",
+      "analiza": "Ozadje te novice je širši trend, kjer podjetja po vsem svetu vse bolj vključujejo umetno inteligenco v svoje poslovanje, da bi povečala učinkovitost in zmanjšala stroške. To je relevantno zdaj, ker AI tehnologije dosegajo zrelost, ki omogoča avtomatizacijo kompleksnejših nalog, kar ima neposredne posledice za trg dela. Mehanizem vpliva je dvojen: na eni strani AI lahko poveča produktivnost in dobičkonosnost podjetij, kar je pozitivno za delničarje. Na drugi strani pa povzroča izgubo delovnih mest v določenih sektorjih, kar lahko dolgoročno vpliva na potrošnjo in stabilnost gospodarstva. Posledice za delnice podjetij, ki uspešno implementirajo AI, so lahko pozitivne, saj se pričakuje izboljšanje marž. Za širši trg dela pa to pomeni potrebo po prekvalifikaciji in prilagajanju na nove veščine. Vpliv na obveznice in valute je posreden, saj bi dolgoročno lahko vplival na gospodarsko rast in inflacijo. Zgodovinsko gledano so tehnološke revolucije vedno prinesle spremembe na trgu dela, vendar je hitrost in obseg trenutne transformacije z AI brez primere. Za slovenskega dolgoročnega vlagatelja to pomeni, da je smiselno razmisliti o naložbah v podjetja, ki so vodilna na področju AI ali pa jo uspešno implementirajo za izboljšanje svojega poslovanja, hkrati pa biti pozoren na širše družbene in ekonomske posledice avtomatizacije.",
       "vpliv": [
-        "Povečana zaskrbljenost glede vpliva AI na trg dela.",
-        "Potencialne spremembe v delovnih pogojih in stroških dela.",
-        "Mešan vpliv na delniške trge, odvisno od sektorja in podjetja.",
-        "Poudarek na socialnih in etičnih vidikih avtomatizacije."
+        "Zmanjšanje delovnih mest v zavarovalništvu (1.500-1.800)",
+        "Povečana učinkovitost in dobičkonosnost podjetij z AI",
+        "Potencialni pritisk na trg dela",
+        "Povečane naložbe v AI tehnologije"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-07-08T06:06:12.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/insurance-giant-says-its-turning-to-ai-to-replace-as-many-as-1-800-jobs-13e60de2?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-08T14:54:00.000Z"
     },
     {
-      "naslov": "Trump kljub grožnjam ostaja zavezan Natu, pravi Rutte",
+      "naslov": "Cene rabljenih električnih vozil rastejo zaradi vojne v Iranu in visokih cen goriv",
+      "sektor": "Potrošniki & Energetika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Cene rabljenih električnih vozil (EV) v ZDA še naprej naraščajo, kar je posledica vojne v Iranu in visokih cen bencina. Indeks vrednosti rabljenih vozil Manheim za EV, ki spremlja cene rabljenih vozil, prodanih na veleprodajnih dražbah v ZDA, se je v primerjavi z junijem 2025 povečal za 12 %. Ta rast kaže na povečano povpraševanje po električnih vozilih, saj potrošniki iščejo alternative dragemu gorivu.",
+      "analiza": "Ozadje te novice je globalna energetska kriza, ki jo poglabljajo geopolitične napetosti, kot je konflikt v Iranu. Višje cene nafte (WTI +6,13 % na 74,76 USD/sod, Brent +6,69 % na 79,12 USD/sod) neposredno vodijo do višjih cen goriva na črpalkah, kar povečuje stroške prevoza za potrošnike. To je relevantno zdaj, ker se potrošniki vse bolj zavedajo stroškov in iščejo načine za zmanjšanje odvisnosti od fosilnih goriv. Mehanizem vpliva je preprost: ko je bencin drag, postanejo električna vozila, kljub višji začetni ceni, privlačnejša dolgoročna naložba. Povečano povpraševanje po rabljenih EV nato dvigne njihove cene. Posledice so vidne v avtomobilskem sektorju, kjer se povečuje povpraševanje po EV, kar je pozitivno za proizvajalce in prodajalce električnih vozil. Po drugi strani pa to pomeni višje stroške za kupce rabljenih EV. Vpliv na širše trge je, da se spreminjajo potrošniške navade in naložbe se preusmerjajo v sektorje, ki so odporni na visoke cene energentov. Zgodovinsko gledano so se cene rabljenih vozil pogosto spreminjale glede na cene goriva, vendar je ta trend še posebej izrazit pri EV zaradi njihove neposredne povezave z energetsko učinkovitostjo. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor električnih vozil in povezanih tehnologij (baterije, polnilna infrastruktura) lahko privlačen, vendar je treba upoštevati tudi tveganja, kot so nihanja cen surovin za baterije in regulativne spremembe.",
+      "vpliv": [
+        "Cene rabljenih EV +12 % (Manheim Index)",
+        "Povečano povpraševanje po EV",
+        "Višje cene goriva",
+        "Spremenjene potrošniške navade"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/07/08/used-ev-prices-gas-war.html",
+      "objavljeno": "2026-07-08T16:11:15.000Z"
+    },
+    {
+      "naslov": "Trump Ukrajini odobril licenco za proizvodnjo raket Patriot",
       "sektor": "Geopolitika",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Ameriški predsednik Trump je kljub ponovnim grožnjam, da bo umaknil ameriške vojake iz Evrope in ponovno pozval k prevzemu nadzora nad Grenlandijo, 'popolnoma zavezan' Natu, je dejal Rutte. Ta izjava prihaja v času, ko so se pojavile zaskrbljenosti glede prihodnosti zavezništva in ameriške vloge v njem. Ruttejevo zagotovilo poskuša pomiriti zaveznike, vendar Trumpove pretekle izjave še vedno vzbujajo negotovost glede dolgoročne smeri ameriške zunanje politike.",
-      "analiza": "Izjava Rutteja, da je predsednik Trump 'popolnoma zavezan' Natu, kljub njegovim ponovnim grožnjam, je poskus stabilizacije geopolitičnega okolja, vendar hkrati poudarja obstoječo negotovost. Trumpove pretekle izjave o umiku ameriških vojakov iz Evrope in prevzemu Grenlandije so že v preteklosti povzročile zaskrbljenost med zavezniki. Ta dogodek se vpenja v širši kontekst spreminjajočih se mednarodnih odnosov in vprašanj o prihodnosti multilateralnih zavezništev. Mehanizem vpliva na finančne trge je predvsem prek povečane geopolitične negotovosti, ki lahko vpliva na investicijsko razpoloženje in obrambne proračune. Morebiten umik ZDA iz Nata bi lahko povzročil pretrese na evropskih obrambnih trgih in zahteval bistveno povečanje obrambnih izdatkov evropskih držav, kar bi vplivalo na javne finance in gospodarsko rast. Za delniške trge to pomeni povečano volatilnost, še posebej za obrambna podjetja, ki so odvisna od vladnih naročil. Valutni trgi bi lahko reagirali na spremembe v geopolitičnih tveganjih, kar bi vplivalo na EUR/USD tečaj (trenutno 1.1426, +0.15 %). Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj dogodkov v mednarodni politiki, saj imajo lahko pomemben vpliv na stabilnost globalnih trgov in s tem na dolgoročno vrednost naložb, še posebej v sektorjih, povezanih z obrambo in varnostjo.",
+      "povzetek": "Ameriški predsednik Donald Trump je odobril dolgoletno zahtevo Kijeva, da Ukrajini podeli licenco za proizvodnjo lastnih prestreznikov PAC-3 Patriot. Ta odločitev predstavlja pomemben korak v krepitvi ukrajinskih obrambnih zmogljivosti in kaže na nadaljnjo podporo ZDA Ukrajini v luči nenehnih napadov Rusije. Poteza omogoča Ukrajini, da sama proizvaja ključne protiletalske sisteme, kar zmanjšuje njeno odvisnost od tuje dobave.",
+      "analiza": "Ozadje te novice je dolgotrajen konflikt v Ukrajini, kjer se država že leta brani pred rusko agresijo. Ukrajina si je prizadevala za pridobitev licence za proizvodnjo raket Patriot, da bi okrepila svojo zračno obrambo in zmanjšala logistično odvisnost od zahodnih partnerjev. To je relevantno zdaj, ker konflikt še vedno traja in se stopnjuje, kot kažejo novice o intenziviranju ukrajinskih napadov na ruske ladje v Azovskem morju. Mehanizem vpliva je večplasten: za obrambno industrijo to pomeni potencialno povečanje naročil in tehnoloških transferjev. Za Ukrajino to pomeni večjo samozadostnost in odpornost. Za geopolitično stabilnost pa to lahko pomeni nadaljnje stopnjevanje konflikta, saj se vojaške zmogljivosti Ukrajine krepijo. Posledice za delnice obrambnih podjetij, ki proizvajajo sisteme Patriot (npr. Raytheon Technologies), so lahko pozitivne. Vpliv na širše trge je predvsem prek povečane geopolitične negotovosti, ki lahko vpliva na naložbeno razpoloženje, še posebej v Evropi. Zgodovinsko gledano so tovrstni transferji vojaške tehnologije pogosto spremljali dolgotrajne konflikte in so imeli dolgoročne posledice za regionalno varnost. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor obrambe in varnosti lahko privlačen, vendar je treba upoštevati tudi etične in geopolitične vidike takšnih naložb.",
       "vpliv": [
-        "Povečana geopolitična negotovost glede prihodnosti Nata.",
-        "Potencialne spremembe v obrambnih proračunih evropskih držav.",
-        "Vpliv na delnice obrambnih podjetij.",
-        "Možna volatilnost na valutnih trgih (EUR/USD)."
+        "Krepitev ukrajinskih obrambnih zmogljivosti",
+        "Povečana samozadostnost Ukrajine",
+        "Potencialno stopnjevanje konflikta",
+        "Pozitiven vpliv na delnice obrambne industrije"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680",
-      "objavljeno": "2026-07-08T06:01:46.000Z"
+      "vir_url": "https://www.ft.com/content/0393e6aa-15e2-45af-ab3e-466b11b4cd78",
+      "objavljeno": "2026-07-08T15:32:15.000Z"
     },
     {
-      "naslov": "Vrednost prevzemnih ponudb v Združenem kraljestvu močno presega nove kotacije",
+      "naslov": "Analitik Fundstrata vidi priložnost za nakup delnic kljub padcu trga",
       "sektor": "Finance",
       "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Vrednost prevzemnih ponudb za podjetja, ki kotirajo na borzi v Združenem kraljestvu, je kar 27-krat presegla vrednost novih kotacij na londonski borzi. Ponudbe za kotirana podjetja so dosegle skoraj 60 milijard funtov, medtem ko je skupna tržna vrednost novih vstopov znašala le 2,2 milijarde funtov. To kaže na trend, kjer se podjetja raje odločajo za prevzeme obstoječih podjetij kot za vstop na borzo z novimi izdajami delnic. Ta dinamika odraža prevladujoče razpoloženje na kapitalskih trgih Združenega kraljestva.",
-      "analiza": "Podatek, da vrednost prevzemnih ponudb v Združenem kraljestvu kar 27-krat presega vrednost novih kotacij, je pomemben pokazatelj stanja na kapitalskih trgih. Ta trend se vpenja v širši kontekst, kjer podjetja in investitorji raje iščejo rast in vrednost prek prevzemov in združitev (M&A) namesto prek primarnih javnih ponudb (IPO). Mehanizem vpliva na finančne trge je večplasten: na eni strani to kaže na relativno nizke vrednosti obstoječih podjetij, ki so privlačna za prevzemnike, kar lahko signalizira podcenjenost nekaterih sektorjev. Po drugi strani pa pomanjkanje novih kotacij lahko kaže na zadržanost podjetij pri vstopu na borzo zaradi negotovih tržnih razmer, visokih stroškov kotacije ali pomanjkanja investicijskega apetita za nove, manj uveljavljene subjekte. Za delniške trge to pomeni, da je aktivnost M&A lahko gonilna sila za rast vrednosti nekaterih delnic, medtem ko splošno pomanjkanje IPO-jev omejuje nabor novih naložbenih priložnosti. To lahko vpliva tudi na likvidnost trga. Za obvezniške trge lahko prevzemi pomenijo povečano izdajo dolga za financiranje transakcij. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da je trg v Združenem kraljestvu trenutno bolj usmerjen v konsolidacijo kot v širitev z novimi podjetji, kar lahko vpliva na strategije iskanja vrednosti in rasti v portfelju.",
-      "vpliv": [
-        "Prevzemne ponudbe v višini skoraj 60 milijard funtov.",
-        "Nove kotacije le 2,2 milijarde funtov.",
-        "Povečana aktivnost prevzemov in združitev (M&A).",
-        "Omejen nabor novih naložbenih priložnosti na borzi."
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/409bc7ea-2fc6-4021-bbe9-a91777ba354a",
-      "objavljeno": "2026-07-08T04:00:28.000Z"
-    },
-    {
-      "naslov": "Rivianov padec delnic po prodaji delnic sproži najhujši padec v dveh letih",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Delnice podjetja Rivian so padle za 18 % po objavi prodaje delnic, kar je sprožilo najhujši padec v skoraj dveh letih. Wall Street je zaskrbljen zaradi denarnih težav proizvajalca električnih vozil (EV). Prodaja delnic, ki je običajno namenjena zbiranju kapitala, je v tem primeru sprožila negativno reakcijo vlagateljev, ki so jo interpretirali kot znak šibkosti in potrebe po dodatnem financiranju, kar kaže na izzive v sektorju električnih vozil.",
-      "analiza": "Padec delnic Riviana za 18 % po objavi prodaje delnic poudarja izzive, s katerimi se soočajo proizvajalci električnih vozil (EV), zlasti tisti v fazi rasti. Ta dogodek se vpenja v širši kontekst, kjer se sektor EV sooča z visoko konkurenco, izzivi v dobavnih verigah in potrebo po ogromnih kapitalskih vložkih za razvoj in proizvodnjo. Mehanizem vpliva na finančne trge je neposreden: prodaja delnic, ki je običajno namenjena zbiranju kapitala, je bila v tem primeru interpretirana kot znak finančne stiske podjetja, kar je sprožilo razprodajo. Vlagatelji so zaskrbljeni zaradi 'denarnih težav' Riviana, kar kaže na dvome o sposobnosti podjetja, da doseže dobičkonosnost brez nadaljnjega razredčenja delnic. Padec delnic Riviana vpliva na celoten sektor EV in širše na delnice rastočih tehnoloških podjetij, saj opozarja na tveganja, povezana z visokimi vrednotenji in neizpolnjenimi pričakovanji. To prispeva k splošnemu negativnemu razpoloženju na trgu, kar se odraža tudi v padcu indeksov, kot je Nasdaq 100 (-1.77 %). Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so naložbe v podjetja v fazi rasti, še posebej v kapitalsko intenzivnih sektorjih, kot je EV, povezane z visokim tveganjem, in da je ključno spremljati finančno stabilnost in pot do dobičkonosnosti teh podjetij.",
-      "vpliv": [
-        "Padec delnic Riviana za 18 %.",
-        "Zaskrbljenost Wall Streeta zaradi denarnih težav podjetja.",
-        "Negativen vpliv na sektor električnih vozil.",
-        "Povečano tveganje za rastoča tehnološka podjetja."
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/rivians-stock-sale-triggers-worst-rout-for-the-shares-in-nearly-two-years-6791789e?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-08T00:35:00.000Z"
-    },
-    {
-      "naslov": "Gen Z kljub visokim stroškom uspešno kupuje nepremičnine",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
       "intenziteta": 1,
-      "povzetek": "Kljub visokim stroškom stanovanjskih nepremičnin generacija Z presenetljivo kupuje hiše. Mlajši kupci, ki so se soočali z naraščajočimi cenami, so našli načine za vstop na nepremičninski trg. To kaže na odpornost in inovativnost te generacije pri premagovanju finančnih ovir. Podrobnosti o tem, kako jim to uspeva, so ključne za razumevanje prihodnjih trendov na nepremičninskem trgu in vpliva na širše gospodarstvo.",
-      "analiza": "Novica, da generacija Z kljub visokim stroškom kupuje nepremičnine, je zanimiv makroekonomski podatek, ki izpodbija splošno predstavo o nedostopnosti stanovanjskega trga za mlajše generacije. Ta trend se vpenja v širši kontekst naraščajočih cen nepremičnin in obrestnih mer, kar običajno otežuje vstop na trg za prve kupce. Mehanizem vpliva na finančne trge je posreden, vendar pomemben: aktivnost mlajših kupcev na nepremičninskem trgu lahko prispeva k stabilnosti in rasti sektorja, kar ima pozitivne učinke na gradbeništvo, bančništvo in sorodne industrije. To lahko tudi signalizira, da so se mlajše generacije prilagodile novim finančnim strategijam, kot so skupni nakupi, pomoč staršev ali inovativni načini varčevanja. Čeprav novica ne navaja konkretnih številk o obsegu nakupov ali vplivu na cene, pa nakazuje na potencialno moč povpraševanja, ki lahko dolgoročno podpira nepremičinski trg. Za obvezniške trge to pomeni, da povpraševanje po hipotekarnih posojilih ostaja, kar vpliva na obrestne mere. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati demografske trende in vedenje mlajših generacij, saj ti vplivajo na dolgoročno dinamiko nepremičinskega trga in s tem na naložbe v nepremičnine ali podjetja, povezana z njimi.",
+      "povzetek": "Medtem ko se globalni delniški trg, ki je bil pred tem v razcvetu, zdaj srečuje z medvedjim trendom, Tom Lee iz Fundstrata ostaja optimističen in vidi priložnost za nakup delnic. Lee meni, da je trenutni padec trga priložnost za \"nakup padca\" (buy the dip) in ga ne prestrašijo niti izgube podjetja Samsung. Njegovo mnenje odraža prepričanje, da so nekateri segmenti trga podcenjeni in ponujajo dolgoročni potencial.",
+      "analiza": "Ozadje te novice je trenutno gibanje na globalnih delniških trgih, ki so po obdobju rasti začeli padati, kar je razvidno iz padcev indeksov, kot je DAX (-2,23 %) in S&P 500 (-0,41 %). Mnenje Toma Leeja je v nasprotju s splošnim pesimizmom in ponuja alternativno perspektivo. To je relevantno zdaj, ker vlagatelji iščejo smernice v času povečane negotovosti in volatilnosti trga (VIX +7,01 % na 17,26). Mehanizem vpliva je predvsem psihološki: mnenja vplivnih analitikov lahko vplivajo na razpoloženje vlagateljev in njihove odločitve. Koncept \"nakupa padca\" temelji na prepričanju, da so tržni popravki začasni in predstavljajo priložnost za vstop po nižjih cenah. Posledice za delnice so, da lahko takšna mnenja spodbudijo določene vlagatelje k nakupom, kar lahko ublaži padce ali celo sproži okrevanje v določenih sektorjih. Vpliv na obveznice, valute in surovine je posreden, saj je to predvsem komentar o delniškem trgu. Zgodovinsko gledano so trgi vedno doživljali popravke in medvedje trende, in optimistični analitiki so pogosto opozarjali na priložnosti v takšnih obdobjih. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno ohraniti dolgoročno perspektivo in se ne prepustiti paniki, temveč analizirati, ali trenutni padci predstavljajo priložnosti za naložbe v kakovostna podjetja po ugodnejših cenah, ob upoštevanju lastne tolerance do tveganja.",
       "vpliv": [
-        "Aktivnost generacije Z na nepremičninskem trgu.",
-        "Potencialna stabilizacija in rast nepremičninskega sektorja.",
-        "Vpliv na povpraševanje po hipotekarnih posojilih.",
-        "Spremenjene strategije nakupa nepremičnin med mladimi."
+        "Povečana volatilnost trga (VIX +7,01 %)",
+        "Tržni popravki in medvedji trendi",
+        "Potencialne priložnosti za nakup delnic",
+        "Vpliv analitičnih mnenj na razpoloženje vlagateljev"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/plot-twist-gen-z-is-buying-houses-after-all-ab247e1f?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-08T01:06:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/as-a-once-hot-stock-market-tumbles-into-bear-territory-this-wall-street-bull-says-its-time-to-buy-the-dip-c8c2c72f?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-08T13:41:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-08T06:38:08.335Z",
+    "posodobljenoOb": "2026-07-08T16:57:42.426Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7503.85,
-        "sprememba_pct": -0.45
+        "vrednost": 7472.88,
+        "sprememba_pct": -0.41
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29173.018,
-        "sprememba_pct": -1.77
+        "vrednost": 29144.64,
+        "sprememba_pct": -0.1
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25465.25,
-        "sprememba_pct": -1.37
+        "vrednost": 24897.45,
+        "sprememba_pct": -2.23
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 67087.31,
-        "sprememba_pct": -1.71
+        "vrednost": 66819.05,
+        "sprememba_pct": -2.11
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4141.9,
-        "sprememba_pct": -0.37,
+        "vrednost": 4063.5,
+        "sprememba_pct": -2.26,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 70.44,
-        "sprememba_pct": 0,
+        "vrednost": 74.76,
+        "sprememba_pct": 6.13,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 74.16,
-        "sprememba_pct": 0,
+        "vrednost": 79.12,
+        "sprememba_pct": 6.69,
         "enota": "USD/sod"
       }
     ],
@@ -181,16 +166,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1426,
-        "sprememba_pct": 0.15
+        "vrednost": 1.1417,
+        "sprememba_pct": 0.07
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.529,
-        "sprememba_pct": 1.12,
+        "vrednost": 4.583,
+        "sprememba_pct": 1.19,
         "enota": "%"
       }
     ],
@@ -198,16 +183,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 62490.54,
-        "sprememba_pct": -1.31,
+        "vrednost": 62059.8,
+        "sprememba_pct": -1.99,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16.13,
-      "sprememba_pct": 3.6
+      "vrednost": 17.26,
+      "sprememba_pct": 7.01
     }
   }
 }
