@@ -1,162 +1,128 @@
 {
-  "generiranoOb": "2026-07-09T17:45:10.677Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-07-10T07:52:00.027Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-07-09",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, medtem ko so se ameriški indeksi po dveh urah trgovanja prav tako gibali v rasti. Nemški DAX je dan zaključil pri 25118 točkah (+0.89 %), medtem ko sta se ameriška S&P 500 in Nasdaq 100 povzpela na 7545 (+0.83 %) oziroma 29756 točk (+1.72 %). Kljub geopolitičnim napetostim, vključno z ameriškimi napadi na iranske železniške mostove, so cene nafte WTI in Brent presenetljivo padle za 2.34 % na 71.80 USD/sod oziroma za 2.61 % na 75.98 USD/sod. Zlato je medtem pridobilo 1.42 % in se giblje pri 4140.30 USD/oz, kar kaže na iskanje varnejših naložb. Donosnost 10-letne ameriške državne obveznice je padla za 0.83 % na 4.53 %, kar prav tako kaže na povpraševanje po varnih pristaniščih. Vlagatelji bodo ta teden pozorno spremljali objave inflacijskih podatkov iz evroobmočja, ki bi lahko vplivali na prihodnje odločitve Evropske centralne banke.",
+  "datum": "2026-07-10",
+  "povzetek": "Jutranji pregled finančnih trgov 10. julija 2026 kaže na pretežno pozitivno razpoloženje, ki ga poganjajo močni rezultati čez noč v ZDA in Aziji. Ameriški indeks S&P 500 je zaključil z rastjo 0,81 % pri 7544 točkah, tehnološko usmerjeni Nasdaq 100 pa je poskočil za 1,62 % na 29727 točk. Tudi azijski trgi so sledili temu trendu, saj je Nikkei 225 pridobil 1,20 % in dosegel 68558 točk. Evropa danes pričakuje odprtje trgov v luči teh globalnih gibanj, pri čemer je DAX včeraj zaključil z rahlo rastjo 0,22 % pri 25174 točkah. Med ključnimi novicami izstopa rekordna javna ponudba delnic južnokorejskega SK Hynix v ZDA, ki je zbrala 26,5 milijarde dolarjev, ter prevzemna vojna za letalsko družbo easyJet, kjer je Apollo s ponudbo 5,7 milijarde funtov prekosil Castlelake. Geopolitične napetosti med ZDA in Iranom ostajajo v ospredju, kar vpliva na cene nafte, medtem ko se Brent nafta giblje pri 75,55 USD/sod. Vlagatelji bodo ta teden pozorno spremljali prihajajočo objavo podatkov o inflaciji v evroobmočju, ki bo ključna za oceno prihodnjih potez Evropske centralne banke.",
   "novice": [
     {
-      "naslov": "Ameriški napadi na iranske železniške mostove stopnjujejo regionalne napetosti",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Združene države Amerike so izvedle napade na iranske železniške mostove na poti do mesta Mashhad, kjer naj bi bil pokopan pokojni vrhovni vodja. Ta vojaška akcija prihaja v času že tako povišanih napetosti med ZDA in Iranom. Napadi so bili usmerjeni na ključno infrastrukturo, ki bi lahko imela strateški pomen. Dogodek se je zgodil 9. julija 2026 in je bil objavljen s strani Financial Timesa. Čeprav podrobnosti o obsegu škode niso navedene, dejanje pomeni jasno eskalacijo konflikta v regiji.",
-      "analiza": "Ozadje tega dogodka je dolgotrajna napetost med ZDA in Iranom, ki se je v zadnjem času še povečala. Ameriški napadi na iransko infrastrukturo so neposredna vojaška intervencija, ki bi lahko sprožila povračilne ukrepe in destabilizirala celotno regijo Bližnjega vzhoda. To je relevantno zdaj, saj se globalni trgi vedno odzivajo na geopolitične konflikte, še posebej tiste, ki vključujejo ključne proizvajalke nafte. Mehanizem vpliva je predvsem strah pred motnjami v dobavi nafte iz regije, kar običajno povzroči rast cen. Vendar pa so danes cene nafte WTI in Brent padle za 2.34 % oziroma 2.61 %, kar lahko kaže na to, da trgi ocenjujejo, da bo konflikt ostal omejen, ali pa so v ospredju pomisleki glede globalnega povpraševanja. Posledice za delnice so lahko negativne za podjetja, odvisna od stabilne dobave energentov, medtem ko bi lahko obveznice služile kot varno zatočišče, kar se odraža v padcu donosnosti 10-letne ameriške državne obveznice za 0.83 %. Zgodovinsko gledano so podobni konflikti v regiji pogosto povzročili kratkoročne skoke cen nafte, vendar dolgoročni vpliv je odvisen od obsega in trajanja konflikta. Za slovenskega dolgoročnega vlagatelja to pomeni povečano negotovost in potrebo po spremljanju razvoja dogodkov, saj lahko vplivajo na globalno gospodarsko rast in inflacijo.",
-      "vpliv": [
-        "Povečana geopolitična negotovost",
-        "Padec cen nafte WTI (-2.34 %) in Brent (-2.61 %)",
-        "Padec donosnosti 10-letne ameriške državne obveznice (-0.83 %)",
-        "Rast cene zlata (+1.42 %)"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/4b1df8e8-cc24-4991-a900-cde0d25f0f68",
-      "objavljeno": "2026-07-09T14:11:15.000Z"
-    },
-    {
-      "naslov": "Cene nepremičnin v ZDA dosegle nov rekord, poslabšujejo dostopnost",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Cene nepremičnin v Združenih državah Amerike so dosegle nov, vseh časov najvišji nivo, kar še poglablja težave z dostopnostjo stanovanj. To se dogaja kljub umiku kupcev s trga, kot kažejo sveži podatki Nacionalnega združenja nepremičninskih posrednikov (National Association of Realtors). Poročilo MarketWatcha z dne 9. julija 2026 poudarja, da se cene še naprej vzpenjajo. Visoke cene in morebitne visoke hipotekarne obrestne mere ustvarjajo pritisk na potencialne kupce, kar vpliva na celoten nepremičninski trg in širšo ekonomijo.",
-      "analiza": "Ozadje te novice je dolgotrajno pomanjkanje ponudbe na nepremičninskem trgu v ZDA, ki se srečuje z močnim povpraševanjem, kljub rastočim obrestnim meram. Relevantnost je v tem, da visoke cene nepremičnin in s tem povezana nedostopnost močno vplivajo na kupno moč potrošnikov in splošno gospodarsko rast. Mehanizem vpliva na finančne trge je večplasten: visoke cene nepremičnin lahko omejujejo potrošniško porabo na drugih področjih, kar vpliva na dobičkonosnost podjetij. Prav tako lahko vplivajo na inflacijo, kar bi lahko centralno banko prisililo k nadaljnjemu zaostrovanju monetarne politike. Posledice za delnice so lahko negativne za sektorje, odvisne od diskrecijske porabe, medtem ko bi lahko banke, ki so izpostavljene hipotekarnim posojilom, občutile pritisk. Zgodovinski primeri kažejo, da so nepremičninski baloni lahko predhodniki gospodarskih recesij, čeprav trenutna situacija ni nujno primerljiva z letom 2008. Kaj velja opazovati naprej so gibanja obrestnih mer in morebitne spremembe v ponudbi in povpraševanju. Za slovenskega dolgoročnega vlagatelja to pomeni, da je zdravje ameriškega nepremičninskega trga ključni indikator splošnega gospodarskega zdravja, ki posredno vpliva na globalne naložbe.",
-      "vpliv": [
-        "Povečan pritisk na kupno moč potrošnikov",
-        "Potencialni vpliv na inflacijo",
-        "Negativni vpliv na sektorje, odvisne od diskrecijske porabe",
-        "Zaskrbljenost glede stabilnosti nepremičninskega trga"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/home-prices-hit-a-new-all-time-high-this-summer-2808d1a3?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-09T16:31:00.000Z"
-    },
-    {
-      "naslov": "Delavci Volkswagna protestirajo v Nemčiji proti načrtovanim odpuščanjem",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Delavci Volkswagna so v Nemčiji protestirali proti predlaganim odpuščanjem do 100.000 delovnih mest in zapiranju tovarn, kar je del radikalnega načrta preoblikovanja podjetja. Sindikat IG Metall je organiziral demonstracije na 18 lokacijah, vključno s sedežem podjetja, in sporočil izvršnemu direktorju Oliverju Blumeju, da ne more prelagati odgovornosti za pretekle neuspehe na delovno silo. Novica je bila objavljena s strani The Guardiana 9. julija 2026, ko je bil predlog formalno predstavljen nadzornemu odboru največjega evropskega proizvajalca avtomobilov.",
-      "analiza": "Ozadje te novice je strukturno preoblikovanje avtomobilske industrije, ki se sooča s prehodom na električna vozila, digitalizacijo in avtomatizacijo, kar pogosto vodi do potrebe po optimizaciji stroškov in delovne sile. Relevantnost je v tem, da Volkswagen ni le ključni igralec v nemškem gospodarstvu, temveč tudi barometer za celotno evropsko industrijo. Mehanizem vpliva na finančne trge je večplasten: obsežna odpuščanja lahko vplivajo na potrošniško zaupanje in porabo v Nemčiji, kar se odraža na širšem evropskem gospodarstvu. Hkrati pa lahko zmanjšanje stroškov dela izboljša dolgoročno konkurenčnost podjetja, čeprav kratkoročno povzroča socialne nemire. Posledice za delnice Volkswagna so lahko mešane – kratkoročno pritisk zaradi protestov, dolgoročno pa potencialna rast zaradi izboljšane učinkovitosti. Za širši trg pa to pomeni opozorilo o izzivih, s katerimi se sooča tradicionalna industrija. Zgodovinsko gledano so velika prestrukturiranja v avtomobilski industriji pogosto povzročila kratkoročne pretrese, a so bila nujna za dolgoročno preživetje. Za slovenskega dolgoročnega vlagatelja to pomeni, da je politična stabilnost v jedrnih državah EU ključna za stabilnost evroobmočja in s tem za vrednost naložb v evropska podjetja in obveznice. Spremljanje francoskih volitev bo bistvenega pomena.",
-      "vpliv": [
-        "Potencialno zmanjšanje potrošniškega zaupanja v Nemčiji",
-        "Kratkoročni pritisk na delnice Volkswagna",
-        "Dolgoročno izboljšanje konkurenčnosti podjetja",
-        "Opozorilo o strukturnih spremembah v evropski industriji"
-      ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/2026/jul/09/vw-protests-germany-proposed-job-cuts-factory-closures",
-      "objavljeno": "2026-07-09T16:19:26.000Z"
-    },
-    {
-      "naslov": "Sumljivo trgovanje pred prevzemi v Združenem kraljestvu doseglo rekord",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Letni podatki britanskega regulatorja FCA (Financial Conduct Authority) kažejo, da je sumljivo trgovanje pred 41 % prevzemov v Združenem kraljestvu doseglo nov rekord. To se dogaja sredi 'prevzemne mrzlice' britanskih podjetij, kar je bilo objavljeno v Financial Timesu 9. julija 2026. Abnormalno trgovanje, ki pogosto nakazuje na trgovanje z notranjimi informacijami, je doseglo nove vrhunce. To sproža resne pomisleke glede integritete trga in poštenosti poslovanja v finančnem sektorju Združenega kraljestva.",
-      "analiza": "Ozadje te novice je povečana aktivnost prevzemov in združitev (M&A) v Združenem kraljestvu, ki je privabila tako strateške kot finančne kupce. Relevantnost je v tem, da sumljivo trgovanje z notranjimi informacijami spodkopava zaupanje v finančne trge in poštenost kapitalizma. Mehanizem vpliva na finančne trge je predvsem povečana regulativna negotovost in morebitne strožje kontrole, kar lahko vpliva na privlačnost britanskega trga za tuje investitorje. Posledice za delnice so lahko povečana previdnost vlagateljev pri prevzemnih tarčah in morebitne kazni za vpletene posameznike ali institucije. Za širši finančni sektor to pomeni pritisk na izboljšanje notranjih kontrol in etičnih standardov. Zgodovinsko gledano so obdobja visoke M&A aktivnosti pogosto spremljali primeri trgovanja z notranjimi informacijami, kar je vodilo do strožjih regulativnih ukrepov. Za slovenskega dolgoročnega vlagatelja to poudarja pomen transparentnosti in regulacije na razvitih trgih ter opozarja na tveganja, povezana z nepoštenimi praksami, ki lahko vplivajo na vrednost naložb.",
-      "vpliv": [
-        "Povečana regulativna negotovost v Združenem kraljestvu",
-        "Zmanjšano zaupanje v integriteto trga",
-        "Potencialne strožje kontrole in kazni",
-        "Vpliv na privlačnost britanskega trga za investitorje"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/2478afc6-e7af-4ebe-8d87-e7bf0f4f3052",
-      "objavljeno": "2026-07-09T17:06:27.000Z"
-    },
-    {
-      "naslov": "Delnice Microna poskočile zaradi večmilijardne ameriške naložbe v proizvodnjo",
+      "naslov": "SK Hynix z rekordno 26,5 milijardno ponudbo delnic v ZDA",
       "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Delnice podjetja Micron Technology so poskočile po objavi večmilijardne naložbe v ameriško proizvodnjo polprevodnikov. Gigant na področju pomnilniških čipov je s tem obrnil svoj nedavni padec in povečal svoje naložbe v ameriško dobavno verigo polprevodnikov. Novica, objavljena na MarketWatchu 9. julija 2026, poudarja prizadevanja ZDA za krepitev domače proizvodnje čipov in zmanjšanje odvisnosti od tujih dobaviteljev, kar je ključno za nacionalno varnost in gospodarsko stabilnost.",
-      "analiza": "Ozadje te novice je globalno pomanjkanje čipov in strateška prizadevanja vlad, zlasti v ZDA, za spodbujanje domače proizvodnje polprevodnikov. To je relevantno zdaj, saj je sektor polprevodnikov ključen za praktično vse sodobne industrije, od avtomobilske do umetne inteligence. Mehanizem vpliva na finančne trge je neposreden: vladne subvencije in naložbe zmanjšujejo tveganje za podjetja, kot je Micron, in povečujejo njihovo potencialno dobičkonosnost. To pozitivno vpliva na ceno delnic, saj investitorji pričakujejo večje prihodke in stabilnejše poslovanje. Posledice za delnice Microna so očitne – rast tečaja. Za širši tehnološki sektor to pomeni nadaljnjo krepitev ameriške pozicije v proizvodnji čipov, kar lahko dolgoročno zmanjša tveganja v dobavni verigi. Zgodovinsko gledano so vladne spodbude in zaščitne politike pogosto imele pomemben vpliv na razvoj ključnih industrij. Za slovenskega dolgoročnega vlagatelja to poudarja pomen spremljanja vladnih politik in subvencij, saj lahko te močno vplivajo na donosnost določenih sektorjev, še posebej v visoko tehnoloških panogah, ki so ključne za prihodnost.",
+      "intenziteta": 3,
+      "povzetek": "Južnokorejski proizvajalec čipov SK Hynix je v ZDA uspešno zaključil javno ponudbo delnic (IPO), s katero je zbral rekordnih 26,5 milijarde dolarjev. To je največji prvenec tuje družbe na ameriškem trgu doslej, saj je presegel celo IPO Alibabe iz leta 2014. Delnice SK Hynix naj bi začele kotirati na borzi Nasdaq v petek, kar ameriškim vlagateljem omogoča neposreden dostop do hitro rastočega trga pomnilniških čipov. Uspeh ponudbe poudarja močno povpraševanje po polprevodnikih, ki so ključni za razvoj umetne inteligence in drugih naprednih tehnologij. Podjetje je s tem utrdilo svoj položaj v globalni industriji čipov in pridobilo znatna sredstva za nadaljnje investicije in širitev.",
+      "analiza": "Uspešna javna ponudba delnic SK Hynix v višini 26,5 milijarde dolarjev predstavlja pomemben mejnik za tehnološki sektor in globalne finančne trge. Ta rekordna transakcija poudarja izjemno moč in povpraševanje po polprevodnikih, še posebej pomnilniških čipih, ki so gonilna sila razvoja umetne inteligence in podatkovnih centrov. Vlagatelji vidijo v podjetjih, kot je SK Hynix, ključne igralce v prihodnji digitalni ekonomiji, kar se odraža v visoki vrednosti zbranega kapitala. Mehanizem vpliva na trge je večplasten: pozitivno vpliva na delnice podjetij v sektorju polprevodnikov in tehnologije, saj kaže na robustno rast in optimizem vlagateljev. Hkrati pa lahko tako velika IPO preusmeri kapital iz drugih delov trga. Za obveznice in valute je vpliv posreden, saj močan tehnološki sektor podpira gospodarsko rast in s tem lahko vpliva na pričakovanja glede obrestnih mer. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor polprevodnikov in umetne inteligence še naprej privlačen, vendar je pomembno upoštevati visoke vrednotenja in morebitno volatilnost. Diversifikacija portfelja ostaja ključna, a trend rasti v tehnologiji je očitno močan in dolgoročen.",
       "vpliv": [
-        "Rast delnic Microna",
-        "Krepitev ameriške dobavne verige polprevodnikov",
-        "Zmanjšanje tveganj v globalni dobavni verigi čipov",
-        "Spodbujanje naložb v tehnološki sektor"
+        "Pozitiven vpliv na delnice tehnoloških podjetij, še posebej v sektorju polprevodnikov.",
+        "Povečanje likvidnosti za SK Hynix za nadaljnje investicije in razvoj.",
+        "Potencialna preusmeritev kapitala iz drugih delov trga v tehnološki sektor.",
+        "Potrditev močnega povpraševanja po čipih, ključnih za AI."
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/microns-stock-surges-on-multibillion-dollar-u-s-manufacturing-push-b1e63834?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-09T16:13:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-10T07:28:00.000Z"
     },
     {
-      "naslov": "Ali ima francoska skrajna desnica najboljšo priložnost za prevzem oblasti?",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Sodna odločba je odprla pot Marine Le Pen, da kandidira za predsednico Francije prihodnje leto, kar sproža vprašanja, ali ima francoska skrajna desničarska stranka, Nacionalni zbor (National Rally), najboljšo priložnost za prevzem oblasti. Novica, objavljena na Al Jazeeri 9. julija 2026, poudarja, da je Le Penova, čeprav je bila obsojena zaradi poneverbe sredstev EU, napovedala svoje načrte za kandidaturo leta 2027 po uspešni pritožbi. To predstavlja pomemben politični razvoj v eni ključnih držav Evropske unije.",
-      "analiza": "Ozadje te novice je dolgotrajen vzpon populističnih in skrajno desničarskih gibanj po Evropi, ki izkoriščajo nezadovoljstvo volivcev z obstoječimi političnimi elitami in rešujejo vprašanja, kot so priseljevanje, gospodarstvo in suverenost. Relevantnost je v tem, da bi morebitna zmaga Marine Le Pen v Franciji imela daljnosežne posledice za Evropsko unijo, njeno kohezijo in prihodnjo usmeritev. Mehanizem vpliva na finančne trge je predvsem povečana politična negotovost v evroobmočju. Morebitna zmaga stranke, ki je zgodovinsko kritična do EU in evra, bi lahko povzročila nestabilnost na trgih obveznic in valut, še posebej za evro. Posledice za delnice bi lahko bile negativne za podjetja, ki so močno odvisna od stabilnosti in integracije EU. Donosnosti obveznic držav evroobmočja, zlasti Francije, bi se lahko povečale zaradi povečanega tveganja. Zgodovinsko gledano so politični preobrati v velikih evropskih državah vedno povzročili pretrese na trgih, kot je bil primer Brexita. Za slovenskega dolgoročnega vlagatelja to pomeni, da je politična stabilnost v jedrnih državah EU ključna za stabilnost evroobmočja in s tem za vrednost naložb v evropska podjetja in obveznice. Spremljanje francoskih volitev bo bistvenega pomena.",
+      "naslov": "Apollo prekašal Castlelake z 5,7 milijardno ponudbo za easyJet",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Letalska družba easyJet je sprejela prevzemno ponudbo ameriškega podjetja Apollo v vrednosti 5,7 milijarde funtov, s čimer je Apollo prekosil predhodno ponudbo konkurenčnega sklada Castlelake. Uprava easyJeta je izjavila, da Apollina ponudba 'prinaša boljši izid za delničarje easyJeta'. S tem se je razvila prevzemna vojna za britanskega nizkocenovnega prevoznika, kar kaže na povečano zanimanje zasebnih kapitalskih skladov za letalski sektor. Ta poteza bi lahko pomenila pomembno spremembo v lastništvu in strateški usmeritvi easyJeta, ki je eden vodilnih nizkocenovnih prevoznikov v Evropi.",
+      "analiza": "Prevzemna vojna za easyJet, ki je dosegla vrhunec z Apollino ponudbo v višini 5,7 milijarde funtov, je pomemben dogodek v sektorju letalskih prevoznikov in zasebnega kapitala. To kaže na močno zanimanje investicijskih skladov za podjetja, ki so se v zadnjih letih soočala z izzivi, a imajo močno blagovno znamko in potencial za rast. Mehanizem vpliva je neposreden na delnice easyJeta, ki so se verjetno odzvale s povišanjem vrednosti zaradi višje prevzemne cene. Širše gledano, to signalizira, da se sektor letalstva, ki je bil močno prizadet med pandemijo, ponovno krepi in postaja privlačen za investitorje. Povečana aktivnost zasebnega kapitala na trgu M&A (združitev in prevzemov) lahko spodbudi tudi druge prevzeme in konsolidacijo v panogi. Za slovenske dolgoročne vlagatelje to pomeni, da so podjetja v sektorjih, ki so bili v preteklosti pod pritiskom, lahko zanimiva tarča za prevzeme, kar lahko prinese dobičke delničarjem. Vendar je pomembno prepoznati podjetja z dobrimi temelji in potencialom za okrevanje, saj vsi prevzemi niso enako uspešni. Ta dogodek poudarja tudi vlogo zasebnega kapitala pri preoblikovanju korporativne pokrajine.",
       "vpliv": [
-        "Povečana politična negotovost v evroobmočju",
-        "Potencialna nestabilnost na trgih obveznic in valut (EUR/USD +0.16 % danes, vendar tveganje raste)",
-        "Negativni vpliv na delnice podjetij, odvisnih od stabilnosti EU",
-        "Povečano tveganje za kohezijo Evropske unije"
+        "Pozitiven vpliv na delnice easyJeta zaradi višje prevzemne cene.",
+        "Signalizira okrevanje in privlačnost letalskega sektorja za investitorje.",
+        "Povečana aktivnost M&A v letalski industriji.",
+        "Potencialne spremembe v strateški usmeritvi easyJeta pod novim lastnikom."
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/inside-story/2026/7/9/is-this-frances-far-right-national-rallys-best-chance-to-take-power?traffic_source=rss",
-      "objavljeno": "2026-07-09T16:53:21.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/7a6d7e59-a040-41cf-a8b5-2aafcaa1731b",
+      "objavljeno": "2026-07-10T07:43:58.000Z"
+    },
+    {
+      "naslov": "OpenAI in Google prodajata modele AI kitajskim skupinam na črni listi",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Ameriški tehnološki velikani OpenAI in Google naj bi prodajali storitve umetne inteligence singapurskim podružnicam kitajskih podjetij, kot so Alibaba, Baidu in Tencent, ki so na črni listi ZDA. To razkritje Financial Timesa odpira vprašanja o učinkovitosti ameriških sankcij in nadzora nad izvozom občutljivih tehnologij. Prodaja AI modelov podjetjem, ki so povezana s kitajskimi tehnološkimi giganti, bi lahko imela geopolitične posledice in vplivala na odnose med ZDA in Kitajsko. Dogovor o razveljavitvi Metinega prevzema podjetja Manus, kjer bo Tencent postal največji delničar, dodatno poudarja prepletenost teh tehnoloških in geopolitičnih interesov.",
+      "analiza": "Razkritje, da OpenAI in Google dobavljata storitve umetne inteligence podružnicam kitajskih podjetij na ameriški črni listi, je pomembna novica z geopolitičnega in tehnološkega vidika. To poudarja izzive pri uveljavljanju izvoznih kontrol in sankcij v globaliziranem svetu, še posebej pri nematerialnih sredstvih, kot so programski modeli AI. Mehanizem vpliva je kompleksen: na kratki rok lahko to povzroči preiskave in morebitne kazni za vpletena ameriška podjetja, kar bi lahko vplivalo na njihove delnice. Dolgoročno pa to lahko zaostri tehnološko vojno med ZDA in Kitajsko, kar bi lahko privedlo do strožjih regulacij in omejitev, kar bi oviralo globalno sodelovanje v razvoju AI. Posledice se lahko kažejo v povečani negotovosti za tehnološka podjetja, ki poslujejo na obeh trgih, in potencialno vplivajo na vrednotenja delnic. Za slovenske dolgoročne vlagatelje to pomeni, da je pomembno spremljati regulativno okolje in geopolitične napetosti v tehnološkem sektorju. Investicije v podjetja, ki so močno izpostavljena tako ameriškim kot kitajskim trgom, lahko nosijo dodatno regulativno tveganje, ki ga je treba upoštevati pri ocenjevanju dolgoročne stabilnosti in rasti.",
+      "vpliv": [
+        "Potencialne regulativne preiskave in kazni za OpenAI in Google.",
+        "Zaostrovanje tehnološke vojne med ZDA in Kitajsko.",
+        "Povečana negotovost za tehnološka podjetja, ki poslujejo globalno.",
+        "Možen vpliv na vrednotenja delnic tehnoloških podjetij."
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f",
+      "objavljeno": "2026-07-10T04:00:19.000Z"
+    },
+    {
+      "naslov": "HSBC išče kupce za tvegana posojila nepremičnin v Hongkongu",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "HSBC, ena največjih britanskih bank, išče kupce za tvegana posojila, vezana na nepremičnine v Hongkongu. Ta nameravana prodaja dolga hčerinske banke Hang Seng, ki je bila letos privatizirana, je znak, kako bo britanska banka preoblikovala poslovanje z maloprodajnimi posojili. Poteza kaže na previdnost banke glede izpostavljenosti hongkonškemu nepremičninskemu trgu, ki se v zadnjem času sooča z izzivi. To bi lahko bil tudi pokazatelj širših trendov v bančnem sektorju glede upravljanja tveganj v azijskih nepremičninskih trgih.",
+      "analiza": "Odločitev HSBC, da išče kupce za tvegana posojila, vezana na nepremičnine v Hongkongu, je pomemben signal za finančni sektor, še posebej za banke z izpostavljenostjo azijskim trgom. Hongkong se v zadnjih letih sooča z gospodarskimi in političnimi izzivi, kar se odraža tudi na nepremičninskem trgu. Banke, kot je HSBC, se preventivno odzivajo na morebitna tveganja in poskušajo zmanjšati svojo izpostavljenost. Mehanizem vpliva je tak, da takšne poteze lahko povečajo previdnost vlagateljev glede bančnega sektorja, še posebej tistih bank, ki imajo veliko izpostavljenost nepremičninskim trgom v Aziji. To lahko vpliva na delnice bank, saj vlagatelji ocenjujejo njihovo sposobnost obvladovanja tveganj in morebitne izgube. Hkrati pa lahko takšna prodaja dolga sprosti kapital za HSBC in omogoči boljše upravljanje bilance stanja. Za slovenske dolgoročne vlagatelje to pomeni, da je pomembno spremljati zdravje globalnega bančnega sistema in nepremičninskih trgov, še posebej v regijah, ki so pod pritiskom. Izpostavljenost finančnim institucijam z velikimi mednarodnimi operacijami nosi specifična tveganja, ki jih je treba upoštevati pri diversifikaciji portfelja.",
+      "vpliv": [
+        "Povečana previdnost vlagateljev glede bančnega sektorja, še posebej v Aziji.",
+        "Potencialen pritisk na delnice bank z izpostavljenostjo hongkonškim nepremičninam.",
+        "HSBC zmanjšuje tveganja in izboljšuje bilanco stanja.",
+        "Signalizira morebitne izzive na hongkonškem nepremičninskem trgu."
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/1faf3134-933f-4526-a790-b15dbc3210eb",
+      "objavljeno": "2026-07-10T04:00:26.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-09T17:44:08.551Z",
+    "posodobljenoOb": "2026-07-10T07:51:18.469Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7544.68,
-        "sprememba_pct": 0.83
+        "vrednost": 7543.64,
+        "sprememba_pct": 0.81
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29756.195,
-        "sprememba_pct": 1.72
+        "vrednost": 29727.098,
+        "sprememba_pct": 1.62
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25118.27,
-        "sprememba_pct": 0.89
+        "vrednost": 25174,
+        "sprememba_pct": 0.22
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 67743.85,
-        "sprememba_pct": 1.38
+        "vrednost": 68557.73,
+        "sprememba_pct": 1.2
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4140.3,
-        "sprememba_pct": 1.42,
+        "vrednost": 4119.5,
+        "sprememba_pct": -0.51,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 71.8,
-        "sprememba_pct": -2.34,
+        "vrednost": 71.41,
+        "sprememba_pct": -0.93,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 75.98,
-        "sprememba_pct": -2.61,
+        "vrednost": 75.55,
+        "sprememba_pct": -0.98,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +130,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.144,
-        "sprememba_pct": 0.16
+        "vrednost": 1.1444,
+        "sprememba_pct": 0.09
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.531,
-        "sprememba_pct": -0.83,
+        "vrednost": 4.539,
+        "sprememba_pct": -0.66,
         "enota": "%"
       }
     ],
@@ -181,16 +147,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 62954.5,
-        "sprememba_pct": 1.16,
+        "vrednost": 63922,
+        "sprememba_pct": 1.17,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16,
-      "sprememba_pct": -5.33
+      "vrednost": 16.05,
+      "sprememba_pct": 1.33
     }
   }
 }
