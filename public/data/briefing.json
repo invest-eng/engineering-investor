@@ -1,116 +1,95 @@
 {
-  "generiranoOb": "2026-07-12T16:41:29.620Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-07-13T07:36:46.557Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-07-12",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanimi občutki, medtem ko so ameriški indeksi po dveh urah trgovanja kazali rahlo rast. Nemški DAX je dan zaključil z rahlim padcem za 0,20 % pri 25.067 točkah, medtem ko sta v ZDA S&P 500 in Nasdaq 100 pridobila 0,42 % oziroma 0,33 %, dosegljši 7575 in 29825 točk. Na trgu surovin je prišlo do umika, saj se je cena nafte WTI znižala za 0,93 % na 71,41 USD/sod, Brent pa za 0,38 % na 76,01 USD/sod, kljub poročilom o izmenjavi udarcev med ZDA in Iranom. Zlato je prav tako izgubilo 0,65 % vrednosti in se je trgovalo pri 4113,70 USD/oz. Donosnost 10-letne ameriške obveznice se je zvišala za 0,66 % na 4,57 %, kar kaže na pritisk na obvezniške trge. Volatilnost trga, merjena z indeksom VIX, se je zmanjšala za 5,11 % na 15,03, kar nakazuje na večjo umirjenost med vlagatelji. Ta teden bodo vlagatelji pozorno spremljali objave četrtletnih rezultatov velikih ameriških bank, ki se začenjajo danes.",
+  "datum": "2026-07-13",
+  "povzetek": "Jutranji pregled finančnih trgov kaže na mešano sliko, ki jo močno zaznamujejo geopolitične napetosti. Ameriški borzni indeksi so noč zaključili v zelenem, kjer je S&P 500 zrasel za 0,42 % na 7575 točk, Nasdaq 100 pa za 0,33 % na 29825 točk. Evropski DAX je medtem že v rdečem, padel je za 0,18 % na 25021 točk, azijski trgi pa so bili pod močnim pritiskom, saj je Nikkei 225 upadel za 1,92 % na 67243 točk. Cene nafte so občutno poskočile, WTI nafta za 3,72 % na 74,07 USD/sod in Brent nafta za 3,78 % na 78,88 USD/sod, kar je neposredna posledica eskalacije konflikta v Hormuški ožini. Zlato je medtem padlo za 1,19 % na 4064,80 USD/oz, medtem ko je donosnost na 10-letno ameriško obveznico zrasla na 4,57 %. Vlagatelji bodo ta teden pozorno spremljali morebitne objave o inflaciji v evroobmočju, ki bi lahko vplivale na monetarno politiko Evropske centralne banke.",
   "novice": [
     {
-      "naslov": "ZDA in Iran si izmenjujeta udarce v bitki za Hormuško ožino",
+      "naslov": "Globalni delniški trgi padajo, cene nafte pa rastejo zaradi geopolitičnih napetosti",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Financial Times poroča, da sta ZDA in Iran ponovno izmenjala udarce v sporu glede Hormuške ožine. Ameriški predsednik Trump trdi, da je plovna pot odprta, medtem ko Teheran vztraja, da bo ostala zaprta do 'nadaljnjega obvestila'. Ta razvoj dogodkov sledi iranski stavi, da bodo ZDA prve popustile v tej visoko tvegani igri. Iranska revolucionarna garda (IRGC) je objavila tudi video posnetke povračilnih raketnih napadov, kar poudarja resnost situacije.",
-      "analiza": "Ozadje teh dogodkov je dolgotrajna napetost med ZDA in Iranom, ki se je v zadnjem času stopnjevala, zlasti glede iranskega jedrskega programa in vpliva v regiji. Hormuška ožina je ključna pomorska pot, skozi katero poteka približno petina svetovne nafte, zato so kakršnekoli motnje v tej regiji izjemno pomembne za globalne energetske trge. Trenutna izmenjava udarcev in nasprotujoče si izjave o statusu ožine povečujejo negotovost. Mehanizem vpliva je direkten: povečana geopolitična tveganja v regiji, ki je vitalna za oskrbo z nafto, običajno povzročijo rast cen nafte. Danes pa so cene nafte WTI in Brent kljub temu padle za 0,93 % na 71,41 USD/sod oziroma za 0,38 % na 76,01 USD/sod, kar bi lahko kazalo na to, da trgi morda še ne verjamejo v dolgotrajno zaporo ožine ali pa so že vključili določeno stopnjo tveganja. V preteklosti so podobne napetosti, kot je bila kriza v Perzijskem zalivu v 80. letih, povzročile znatne skoke cen nafte. Za delniške trge to pomeni povečano tveganje, zlasti za podjetja, ki so odvisna od stabilnih cen energije in globalnih dobavnih verig. Obveznice bi lahko služile kot varno zatočišče, kar bi znižalo njihove donosnosti, čeprav je donosnost 10-letne ameriške obveznice danes zrasla za 0,66 %. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati razvoj dogodkov, saj lahko eskalacija konflikta močno vpliva na globalno gospodarstvo in s tem na donosnost naložb, zlasti tistih, ki so izpostavljene energetskemu sektorju.",
+      "povzetek": "Globalni delniški trgi so zabeležili padce, medtem ko so cene nafte občutno poskočile, kar je posledica zaostrovanja razmer v Hormuški ožini. Azijski proizvajalci pomnilniških čipov so bili med največjimi poraženci, saj so vlagatelji prešli v način 'risk-off'. Konflikti v regiji so sprožili zaskrbljenost glede oskrbe z nafto, kar je pognalo cene navzgor. Indeks Nikkei 225 je upadel za 1,92 % na 67243 točk, kar kaže na močan odziv azijskih trgov. Povečana nestabilnost v regiji, ki je ključna za globalno trgovino z nafto, je povzročila zaskrbljenost glede širših gospodarskih posledic. Vlagatelji se umikajo iz bolj tveganih naložb in iščejo varno zatočišče, kar se odraža v gibanju trga.",
+      "analiza": "Eskalacija konflikta v Hormuški ožini, ki je ključna pomorska pot za globalno trgovino z nafto, predstavlja pomemben geopolitični dejavnik. Predhodni dogodki vključujejo poročila o napadih ZDA na Iran in iranskih napadih na ameriške vojaške baze, kar je povzročilo zaprtje ožine. To je izjemno pomembno, saj skozi to ožino potuje približno petina svetovne nafte. Mehanizem vpliva je direkten: zmanjšana dobava ali tveganje zmanjšane dobave nafte takoj dvigne cene. Posledice so vidne v rasti cen WTI nafte za 3,72 % na 74,07 USD/sod in Brent nafte za 3,78 % na 78,88 USD/sod. Hkrati se povečuje splošna negotovost, kar vodi do umika kapitala iz delniških trgov, zlasti v Aziji, kjer je Nikkei 225 padel za 1,92 %. VIX, indeks volatilnosti, je poskočil za 9,12 % na 16,40, kar kaže na povečano nervozo. Zlato, ki velja za varno zatočišče, je presenetljivo padlo za 1,19 %, kar bi lahko bilo povezano z likvidacijo pozicij za pokrivanje izgub drugje. Za slovenskega dolgoročnega vlagatelja to pomeni povečano volatilnost in morebitne višje stroške energentov, kar lahko vpliva na dobičkonosnost podjetij in inflacijo. Pomembno je spremljati nadaljnji razvoj dogodkov v regiji in odzive svetovnih sil.",
       "vpliv": [
-        "Povečana geopolitična tveganja",
-        "Negativni pritisk na cene nafte",
-        "Potencialna motnja globalnih dobavnih verig",
-        "Povečana negotovost na delniških trgih"
+        "WTI nafta +3.72% na 74.07 USD/sod",
+        "Brent nafta +3.78% na 78.88 USD/sod",
+        "Nikkei 225 -1.92% na 67243",
+        "VIX +9.12% na 16.40"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
-      "objavljeno": "2026-07-12T14:21:49.000Z"
+      "vir_url": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734",
+      "objavljeno": "2026-07-13T07:28:47.000Z"
     },
     {
-      "naslov": "Citigroup v središču pozornosti ob objavi rezultatov petih velikih ameriških bank",
-      "sektor": "Finance",
+      "naslov": "SpaceX IPO: Ali je podjetje po mesecu dni izgubilo začetni zagon?",
+      "sektor": "Tehnologija & AI",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "MarketWatch poroča, da bo danes pet velikih ameriških bank objavilo svoje četrtletne poslovne rezultate. Med njimi je Citigroup banka, ki ji analitiki pripisujejo največje pričakovano izboljšanje po eni pomembni meri. Kljub temu ima Citigroup še dolgo pot do doseganja lastnih zastavljenih ciljev glede uspešnosti. Začetek sezone objav poslovnih rezultatov je ključen za oceno zdravja finančnega sektorja in širšega gospodarstva.",
-      "analiza": "Začetek sezone objav poslovnih rezultatov je vedno pomemben dogodek za finančne trge, saj ponuja vpogled v dejansko stanje podjetij in gospodarstva. Banke so še posebej pomembne, saj so barometer gospodarskega zdravja; njihovi rezultati odražajo stanje kreditnega trga, potrošnje in poslovnih investicij. Pričakovano izboljšanje pri Citigroupu, čeprav še vedno pod lastnimi cilji, bi lahko signaliziralo optimizem glede prihodnjih dobičkov in učinkovitosti. Vendar pa je pomembno upoštevati, da so pričakovanja glede dobičkov v zadnjem času sledila nenavadnemu vzorcu, saj so se ocene dejansko povečale pred objavami, namesto da bi se znižale, kar je delno posledica sektorjev energije in tehnologije. Pozitivni rezultati bank bi lahko podprli delniške trge, medtem ko bi slabši rezultati lahko povzročili prodajo, zlasti v finančnem sektorju. Višje donosnosti obveznic, kot je danes zabeležena rast 10-letne ameriške obveznice za 0,66 %, lahko vplivajo na dobičkonosnost bank, saj vplivajo na stroške financiranja in obrestne marže. Za slovenskega dolgoročnega vlagatelja je ključno spremljati te objave, saj so banke pogosto sestavni del globalnih indeksov in njihova uspešnost vpliva na širšo gospodarsko stabilnost in zaupanje vlagateljev.",
+      "povzetek": "Mesec dni po zgodovinskem vstopu podjetja SpaceX na borzo se zdi, da se jasneje kaže realnost, kako podjetje trenutno ustvarja dobiček. Čeprav je IPO povzročil veliko navdušenja in pritegnil pozornost vlagateljev, se zdaj pregledujejo dolgoročne finančne perspektive. Analitiki preučujejo, ali je začetni zagon, ki ga je ustvaril vstop na borzo, že popustil. Fokus je na tem, kako SpaceX monetizira svoje storitve, kot so izstrelitve satelitov in internet Starlink, in ali so ti tokovi prihodkov dovolj robustni za dolgoročno rast. Vprašanje je, ali so visoka pričakovanja vlagateljev realna glede na trenutno poslovanje in prihodnje projekte podjetja.",
+      "analiza": "Vstop SpaceX-a na borzo je bil eden izmed najbolj pričakovanih dogodkov v tehnološkem in finančnem sektorju. Podjetje, ki ga vodi Elon Musk, je znano po inovacijah v vesoljski industriji in ambicioznih projektih, kot sta Starlink in medplanetarna potovanja. Po začetnem navdušenju, ki pogosto spremlja IPO-je visokoprofilnih tehnoloških podjetij, se zdaj vlagatelji osredotočajo na temelje poslovanja. To je ključnega pomena, saj se ocenjuje, ali so visoke valuacije upravičene z dejanskimi prihodki in dobički. Mehanizem vpliva na trge je dvojen: po eni strani lahko uspešen IPO in nadaljnja rast podjetja dvigneta celoten tehnološki sektor, po drugi strani pa morebitno razočaranje lahko povzroči umik kapitala iz podobnih inovativnih, a tveganih naložb. Za delnice SpaceX-a bi to lahko pomenilo stabilizacijo po začetni volatilnosti ali pa morebiten popravek, če se pričakovanja ne uresničijo. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so tovrstne naložbe visoko tvegane in zahtevajo poglobljeno analizo poslovnega modela in dolgoročnih obetov, ne zgolj sledenje začetnemu 'hypeu'.",
       "vpliv": [
-        "Vpliv na delnice finančnega sektorja",
-        "Indikator zdravja gospodarstva",
-        "Vpliv na obrestne marže bank",
-        "Smer tržnega sentimenta"
+        "Povečana pozornost na finančne temelje tehnoloških IPO-jev",
+        "Možna stabilizacija ali popravek vrednosti delnic SpaceX",
+        "Vpliv na sentiment v sektorju vesoljske tehnologije"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-12T15:30:00.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-13T07:19:57.000Z"
     },
     {
-      "naslov": "Sirski parlament se je prvič sestal po odstavitvi al-Assada",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Al Jazeera poroča, da se je sirski parlament prvič sestal po odstavitvi predsednika al-Assada. Novi predsednik Ahmed Al-Sharaa je poudaril, da sta izboljšanje gospodarstva in krepitev javnih storitev ključni prioriteti. Ta dogodek predstavlja pomemben preobrat v sirski politiki in širši regiji, saj se država poskuša stabilizirati po dolgih letih konflikta.",
-      "analiza": "Odstranitev al-Assada in prvo zasedanje novega sirskega parlamenta predstavljata dramatičen geopolitični premik v Bližnjem vzhodu. Sirija je bila desetletje v državljanski vojni, ki je imela daljnosežne posledice za regionalno stabilnost, migracijske tokove in mednarodne odnose. Prehod na novo vlado pod vodstvom Ahmeda Al-Sharae, z obljubami o izboljšanju gospodarstva in javnih storitev, bi lahko prinesel obdobje obnove in stabilizacije. To bi lahko imelo pozitivne učinke na regionalne trge, zmanjšalo geopolitična tveganja in potencialno odprlo nove investicijske priložnosti v prihodnosti, čeprav je pot do stabilnosti dolga in negotova. Vpliv na cene nafte je lahko posreden, saj stabilizacija regije zmanjšuje tveganja za dobavne verige, kar bi lahko prispevalo k umiritvi cen, kot je bilo videti danes z padcem cen WTI in Brent nafte. Za delniške trge to pomeni zmanjšanje splošnega geopolitičnega tveganja, kar je običajno pozitivno za globalni sentiment. Obveznice bi lahko izgubile nekaj privlačnosti kot varno zatočišče, če se tveganja zmanjšajo. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da stabilizacija v tako pomembni regiji zmanjšuje sistemska tveganja, kar ustvarja bolj predvidljivo globalno gospodarsko okolje, čeprav so neposredni vplivi na slovensko gospodarstvo omejeni.",
-      "vpliv": [
-        "Zmanjšanje geopolitičnih tveganj v regiji",
-        "Potencial za obnovo in investicije",
-        "Posreden vpliv na cene nafte",
-        "Sprememba regionalne politične dinamike"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/12/syrian-parliament-convenes-for-first-time-following-al-assads-overthrow?traffic_source=rss",
-      "objavljeno": "2026-07-12T15:38:36.000Z"
-    },
-    {
-      "naslov": "Umrl republikanski senator Lindsey Graham, vplivna figura ameriške politike",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Financial Times poroča o smrti republikanskega senatorja Lindseyja Grahama, ki je umrl v starosti 71 let. Graham je bil veteran in zagovornik ameriške moči, znan po svojih jastrebovskih pogledih na obrambno in zunanjo politiko ZDA. Sprva je bil kritik Donalda Trumpa, kasneje pa je postal eden njegovih najvplivnejših zagovornikov. Njegova smrt je sprožila odzive svetovnih voditeljev in ameriških politikov.",
-      "analiza": "Smrt prominentnega senatorja, kot je bil Lindsey Graham, ima lahko pomembne, čeprav posredne, posledice za ameriško politiko in s tem za globalno geopolitično sceno. Graham je bil ključna figura v zunanji politiki ZDA, še posebej v času Trumpove administracije, kjer je bil vpliven glas glede uporabe ameriške vojaške sile v tujini. Njegova odsotnost bi lahko spremenila dinamiko v senatu in vplivala na prihodnje odločitve glede obrambnega proračuna, mednarodnih sporazumov in odzivov na globalne krize, kot so trenutne napetosti z Iranom ali situacija v Ukrajini. Čeprav ne gre za neposreden ekonomski dogodek, lahko spremembe v zunanji politiki ZDA vplivajo na stabilnost trgov, cene surovin (npr. nafte) in mednarodne trgovinske odnose. V preteklosti so smrti ključnih političnih osebnosti, kot je bil John McCain, prav tako povzročile razmisleke o prihodnji smeri ameriške politike. Za delniške trge to pomeni povečano negotovost glede prihodnje smeri ameriške zunanje politike, kar lahko vpliva na določene sektorje, kot je obrambna industrija. Za obveznice to morda nima neposrednega vpliva, razen če bi spremembe v politiki vodile do večje nestabilnosti. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati, kako se bo zapolnilo to politično praznino in kakšen bo vpliv na ameriško zunanjo politiko, saj ima ta globalne implikacije.",
-      "vpliv": [
-        "Potencialna sprememba smeri ameriške zunanje politike",
-        "Vpliv na obrambni sektor",
-        "Povečana politična negotovost v ZDA",
-        "Posreden vpliv na globalno stabilnost"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/2855aa69-7bce-4921-9c80-66e0f78d2575",
-      "objavljeno": "2026-07-12T16:09:47.000Z"
-    },
-    {
-      "naslov": "Zelenski odstavil ukrajinsko premierko v preureditvi vlade",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Financial Times in Al Jazeera poročata, da je ukrajinski predsednik Volodimir Zelenski odstavil ukrajinsko premierko Julijo Sviridenko v okviru obsežne preureditve vlade. To je že druga večja preureditev vlade v manj kot letu dni. Cilj preureditve je prednostna obravnava zunanje politike in varnostnih ciljev, kar kaže na nadaljnje izzive, s katerimi se sooča država.",
-      "analiza": "Odstavitev premierke in obsežna preureditev ukrajinske vlade poudarjata notranjo politično nestabilnost v državi, ki se še vedno sooča z vojno. Takšne spremembe lahko povzročijo negotovost med mednarodnimi partnerji in vlagatelji, saj lahko vplivajo na kontinuiteto politike, zlasti glede gospodarskih reform in obrambnih strategij. Prednostna obravnava zunanje politike in varnostnih ciljev s strani Zelenskega kaže na nadaljnjo osredotočenost na konflikt in iskanje mednarodne podpore. To lahko vpliva na voljo mednarodnih donatorjev in investitorjev, ki iščejo stabilnost. V preteklosti so politične preureditve v državah v konfliktu pogosto povzročile kratkoročno negotovost na finančnih trgih. Za delniške trge to pomeni povečano geopolitično tveganje v Evropi, kar lahko vpliva na sektorje, ki so izpostavljeni regiji, in na splošni sentiment. Obveznice držav v regiji so lahko pod pritiskom, saj se povečuje tveganje. Valutni tečaji, zlasti EUR/USD, so lahko občutljivi na takšne novice, saj politična nestabilnost v Evropi lahko vpliva na moč evra, čeprav je danes EUR/USD padel le za 0,13 %. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati politični razvoj v Ukrajini, saj ima ta neposredne posledice za stabilnost v Evropi in širše, kar posredno vpliva na gospodarsko okolje in naložbe.",
-      "vpliv": [
-        "Povečana politična nestabilnost v Ukrajini",
-        "Negotovost za mednarodne partnerje",
-        "Vpliv na evropske delniške trge",
-        "Potencialni vpliv na valute"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/db48418a-f906-4afd-86a2-1ab08004bd13",
-      "objavljeno": "2026-07-12T14:14:04.000Z"
-    },
-    {
-      "naslov": "Ocene dobičkov podjetij kažejo nenavaden vzorec z rastjo pričakovanj",
+      "naslov": "Umetna inteligenca ne bo ustavila upada kitajskega gospodarstva",
       "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "MarketWatch poroča, da so ocene dobičkov podjetij tokrat sledile nenavadnemu vzorcu. Analitiki običajno znižujejo svoje ocene v mesecih pred objavo rezultatov, vendar so se tokrat pričakovanja dejansko povečala. Ta rast je predvsem posledica sektorjev energije in tehnologije, ki sta prispevala k višjim pričakovanjem pred objavami rezultatov za drugo četrtletje.",
-      "analiza": "Ta nenavaden trend v ocenah dobičkov je ključen za razumevanje trenutnega tržnega sentimenta in pričakovanj vlagateljev. Običajno analitiki pred objavami rezultatov previdno znižujejo ocene, da bi podjetja lažje presegla pričakovanja. Dejstvo, da so se ocene tokrat povečale, kaže na močno zaupanje v določene sektorje, zlasti v energetiko in tehnologijo. To je v skladu z novico, da se rast delniškega trga zdaj bolj opira na AI kot na nafto, kar poudarja vlogo tehnološkega sektorja. Povečana pričakovanja pomenijo, da bodo podjetja morala objaviti resnično močne rezultate, da bi izpolnila ali presegla te višje standarde. Če podjetja ne bodo izpolnila teh povišanih pričakovanj, bi to lahko povzročilo razočaranje in morebitno korekcijo na trgu. Vpliv na delniške trge je lahko mešan: optimizem zaradi višjih pričakovanj, a tudi večje tveganje za razočaranje. S&P 500 in Nasdaq 100 sta danes zrasla za 0,42 % oziroma 0,33 %, kar kaže na prevladujoč optimizem. Za obveznice in valute je vpliv posreden, saj splošno zdravje podjetij vpliva na makroekonomske obete. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so trenutna tržna pričakovanja visoka, zlasti v tehnološkem in energetskem sektorju. To pomeni, da je ključno biti selektiven in pozoren na dejanske rezultate podjetij, saj lahko prevelik optimizem vodi do volatilnosti, če se pričakovanja ne uresničijo.",
+      "povzetek": "Članek v Financial Timesu opozarja, da umetna inteligenca (AI) sama po sebi ne bo zadostovala za zaustavitev upada kitajskega gospodarstva. Obstajajo namreč drugi, močnejši dejavniki, ki obremenjujejo državno ekonomijo. Čeprav Kitajska močno investira v AI in se pozicionira kot globalni vodja na tem področju, se sooča z izzivi, kot so demografske spremembe, visoka zadolženost in geopolitične napetosti. Ti strukturni problemi so po mnenju analitikov preveliki, da bi jih lahko rešila zgolj tehnološka inovacija. Dolgoročni trendi, kot je staranje prebivalstva in zmanjševanje delovne sile, predstavljajo resne ovire za trajnostno rast. To pomeni, da kljub napredku v AI, Kitajska potrebuje širše ekonomske in socialne reforme.",
+      "analiza": "Kitajsko gospodarstvo se že nekaj časa sooča s strukturnimi izzivi, ki presegajo zgolj kratkoročna nihanja. Zgodovinsko gledano je Kitajska dosegala izjemno rast, vendar se zdaj sooča z realnostjo zrelejšega gospodarstva, ki ga bremenijo demografske spremembe, kot je staranje prebivalstva in upad rodnosti. Poleg tega so visoka zadolženost v nepremičninskem sektorju in lokalnih vladah ter trgovinske napetosti z ZDA pomembni dejavniki. Poudarek na AI, čeprav pomemben za modernizacijo in produktivnost, ne more sam po sebi rešiti teh globokih problemov. Mehanizem vpliva na globalne trge je pomemben, saj je Kitajska druga največja ekonomija na svetu in pomemben motor globalne rasti. Upad kitajskega gospodarstva lahko zmanjša globalno povpraševanje po surovinah in izdelkih, kar vpliva na podjetja po vsem svetu. To lahko pomeni nižje dobičke za izvoznike in povečano tveganje za globalno recesijo. Za slovenskega dolgoročnega vlagatelja to pomeni, da je izpostavljenost kitajskemu trgu in podjetjem, ki so močno odvisna od kitajskega povpraševanja, lahko bolj tvegana. Diverzifikacija portfelja in spremljanje makroekonomskih trendov na Kitajskem sta ključna.",
       "vpliv": [
-        "Visoka pričakovanja za dobičke podjetij",
-        "Ključna vloga energetike in tehnologije",
-        "Potencial za tržno volatilnost",
-        "Vpliv na splošni tržni sentiment"
+        "Zmanjšano globalno povpraševanje",
+        "Povečano tveganje za podjetja, odvisna od Kitajske",
+        "Vpliv na cene surovin"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/earnings-estimates-have-been-following-an-unusual-pattern-this-time-around-fbebfb62?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-12T14:00:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/0dbbef33-059b-4ec9-b504-31f37a0c4053",
+      "objavljeno": "2026-07-13T04:00:18.000Z"
+    },
+    {
+      "naslov": "Jamie Dimon pod pritiskom zaradi lobiranja vlade Združenega kraljestva glede Epsteinovih nasvetov",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Ameriška senatorka Elizabeth Warren je zahtevala, da predsednik uprave JPMorgan, Jamie Dimon, pojasni morebitne povezave s pedofilom Jeffreyjem Epsteinom glede predlaganega davka na bonuse bankirjev. Dimon je pod pritiskom, da razkrije, ali je lobiral pri vladi Združenega kraljestva na podlagi Epsteinovih nasvetov. Ta preiskava ponovno odpira vprašanja o etiki in transparentnosti v finančnem sektorju. Povezave z Epsteinovim škandalom imajo lahko resne posledice za ugled in poslovanje JPMorgan Chase. Dogodek poudarja pomen korporativnega upravljanja in tveganja, povezana z neprimernimi povezavami v finančnem svetu.",
+      "analiza": "Škandal Jeffreyja Epsteina še naprej odmeva v poslovnem in političnem svetu, in sedaj se dotika tudi vodstva ene največjih bank na svetu, JPMorgan Chase. Predhodno je banka že plačala visoke poravnave v zvezi z Epsteinovimi dejavnostmi. Sedanja preiskava, ki jo vodi senatorka Elizabeth Warren, je pomembna, saj se osredotoča na morebitno neprimerno lobiranje in vpliv na politiko. Mehanizem vpliva na finančne trge je predvsem prek ugleda in regulativnega tveganja. Negativna publiciteta in morebitne nadaljnje preiskave ali kazni lahko vplivajo na ceno delnic JPMorgan Chase. Poleg tega lahko takšni dogodki sprožijo širše razprave o regulaciji finančnega sektorja in korporativnem upravljanju, kar lahko vpliva na celoten bančni sektor. V preteklosti so podobni škandali povzročili znatne padce vrednosti delnic in stroge regulativne ukrepe. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pri naložbah v finančni sektor ključnega pomena ne le finančna uspešnost, temveč tudi kakovost korporativnega upravljanja in etični standardi podjetij. Tveganja ugleda in regulativna tveganja so lahko pomemben dejavnik pri dolgoročni vrednosti naložbe.",
+      "vpliv": [
+        "Potencialni pritisk na delnice JPMorgan Chase",
+        "Povečano regulativno tveganje za bančni sektor",
+        "Vprašanja o korporativnem upravljanju in etiki"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/4f4940cb-5ab4-4c65-bb2c-1503ed4734c1",
+      "objavljeno": "2026-07-13T04:01:02.000Z"
+    },
+    {
+      "naslov": "Gibraltar vstopa v novo obdobje z odpravo 118-letnih mejnih kontrol s Španijo",
+      "sektor": "Makro & Centralne banke",
+      "smer": "pozitivno",
+      "intenziteta": 1,
+      "povzetek": "Gibraltar vstopa v novo obdobje z odpravo 118-letnih mejnih kontrol s Španijo. Upamo, da bo prost pretok med britanskim ozemljem in Španijo zagotovil gospodarsko spodbudo. Ta zgodovinska sprememba, ki je bila dolgo pričakovana, naj bi olajšala trgovino, turizem in pretok ljudi med obema stranema meje. Odprava kontrol je rezultat dolgotrajnih pogajanj in predstavlja pomemben korak k izboljšanju regionalnega sodelovanja. Pričakuje se, da bo to pozitivno vplivalo na lokalno gospodarstvo Gibraltarja in sosednjih španskih regij, saj bo zmanjšalo birokratske ovire in povečalo učinkovitost.",
+      "analiza": "Odprava mejnih kontrol med Gibraltarjem in Španijo po 118 letih je pomemben politični in gospodarski dogodek, ki sledi dolgotrajnim pogajanjem, zlasti v luči Brexita. Zgodovinsko gledano so mejne kontrole predstavljale oviro za gospodarski razvoj in vsakodnevno življenje prebivalcev. Ta poteza je pomembna, ker simbolizira izboljšanje odnosov med Združenim kraljestvom in Španijo ter odpravlja eno izmed zapuščin preteklosti. Mehanizem vpliva na gospodarstvo je direkten: prost pretok ljudi in blaga zmanjšuje transakcijske stroške, pospešuje turizem in trgovino ter spodbuja naložbe. To lahko vodi do rasti BDP v Gibraltarju in sosednjih španskih regijah. Za delnice podjetij, ki poslujejo na tem območju, zlasti v sektorjih, kot so turizem, logistika in maloprodaja, to pomeni potencialno rast. Čeprav je vpliv na globalne finančne trge omejen, je to pozitiven signal za regionalno gospodarsko integracijo. Za slovenskega dolgoročnega vlagatelja je to primer, kako lahko politične odločitve in izboljšanje mednarodnih odnosov ustvarijo konkretne gospodarske priložnosti na regionalni ravni, kar je pomembno pri iskanju diverzifikacijskih naložb.",
+      "vpliv": [
+        "Gospodarska spodbuda za Gibraltar in sosednje španske regije",
+        "Povečan turizem in trgovina",
+        "Zmanjšanje transakcijskih stroškov"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-12T23:29:06.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-12T16:40:36.679Z",
+    "posodobljenoOb": "2026-07-13T07:36:06.913Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -127,36 +106,36 @@
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25067.09,
-        "sprememba_pct": -0.2
+        "vrednost": 25020.74,
+        "sprememba_pct": -0.18
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 68557.73,
-        "sprememba_pct": 1.2
+        "vrednost": 67242.73,
+        "sprememba_pct": -1.92
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4113.7,
-        "sprememba_pct": -0.65,
+        "vrednost": 4064.8,
+        "sprememba_pct": -1.19,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 71.41,
-        "sprememba_pct": -0.93,
+        "vrednost": 74.07,
+        "sprememba_pct": 3.72,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 76.01,
-        "sprememba_pct": -0.38,
+        "vrednost": 78.88,
+        "sprememba_pct": 3.78,
         "enota": "USD/sod"
       }
     ],
@@ -165,7 +144,7 @@
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
         "vrednost": 1.1419,
-        "sprememba_pct": -0.13
+        "sprememba_pct": 0
       }
     ],
     "obveznice": [
@@ -181,16 +160,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 64076.22,
-        "sprememba_pct": 0.47,
+        "vrednost": 62999.02,
+        "sprememba_pct": -1.17,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.03,
-      "sprememba_pct": -5.11
+      "vrednost": 16.4,
+      "sprememba_pct": 9.12
     }
   }
 }
