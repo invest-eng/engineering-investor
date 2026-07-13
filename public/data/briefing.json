@@ -1,128 +1,128 @@
 {
-  "generiranoOb": "2026-07-13T17:31:50.335Z",
+  "generiranoOb": "2026-07-13T17:47:41.422Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-07-13",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanimi občutki, medtem ko so ameriški trgi v popoldanskih urah beležili padce. Nemški indeks DAX je dan zaključil z rahlo rastjo (+0.19 %) pri 25114 točkah, medtem ko sta ameriška indeksa S&P 500 in Nasdaq 100 po dveh urah trgovanja kazala negativno smer, S&P 500 je padel za -0.69 % na 7523 točk, Nasdaq 100 pa za -1.75 % na 29304 točk. Glavni dejavnik nestabilnosti je bil ponovni vzpon geopolitičnih napetosti na Bližnjem vzhodu, ki je pognal cene nafte WTI in Brent za kar +6.26 % na 75.88 USD/sod oziroma 80.77 USD/sod. Hkrati so se okrepili strahovi pred morebitnim dvigom obrestnih mer s strani ameriške centralne banke, kar je povzročilo rast donosnosti 10-letnih ameriških državnih obveznic za +1.03 % na 4.62 % in padec cene zlata za -2.57 % na 4007.80 USD/oz. Vlagatelji so se umikali iz tveganih naložb, kar je vidno tudi pri padcu Bitcoina za -2.54 % na 62129 USD in skoku indeksa volatilnosti VIX za +10.65 % na 16.63. Ta teden bodo vlagatelji pozorno spremljali objavo podatkov o inflaciji v ZDA in poročila o dobičkih velikih ameriških bank, vključno z JPMorganom.",
+  "povzetek": "Evropski trgi so danes zaključili z mešanim sentimentom, medtem ko so ameriški indeksi po dveh urah trgovanja beležili padce. Nemški DAX je zrasel za 0,19 % na 25114 točk, medtem ko sta ameriška S&P 500 in Nasdaq 100 padla za 0,66 % na 7525 oziroma 1,76 % na 29300 točk. Glavni dejavnik dneva je bila geopolitična napetost, saj so cene nafte WTI in Brent poskočile za skoraj 7 % na 76,39 USD/sod oziroma 81,40 USD/sod, po izjavah o nadzoru nad Hormuško ožino. Tehnološki sektor je bil pod pritiskom zaradi padca azijskih proizvajalcev čipov, kar se odraža v padcu Nasdaq 100. Dodatno negotovost so vnesle izjave visokega uradnika Feda o morebitnem dvigu obrestnih mer v primeru visoke inflacije. Donosnost 10-letne ameriške državne obveznice je porasla za 0,94 % na 4,61 %, medtem ko je VIX, indeks volatilnosti, poskočil za 11,04 % na 16.69. Vlagatelji bodo ta teden pozorno spremljali prihajajoče podatke o inflaciji v ZDA, ki bi lahko vplivali na prihodnje odločitve centralne banke.",
   "novice": [
     {
-      "naslov": "Fedov Waller opozarja na morebiten dvig obrestnih mer zaradi inflacije",
+      "naslov": "Trump napoveduje 20-odstotno pristojbino za ladje v Hormuški ožini",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Ameriški predsednik Donald Trump je izjavil, da bodo ZDA prevzele vlogo 'varuha' Hormuške ožine in zaračunale 20-odstotno pristojbino ladjam za prehod. Ta poteza naj bi Washingtonu povrnila stroške zagotavljanja varnosti plovil v tej ključni pomorski poti. Izjave prihajajo v času stopnjevanja sovražnosti med ZDA in Iranom, kar je že sprožilo zaskrbljenost na globalnih trgih. Cene nafte so se po teh novicah močno zvišale, saj Hormuška ožina predstavlja vitalno pot za prevoz nafte. Trump je dejal, da bodo ZDA 'prevzele' ožino in zahtevale povračilo za zagotavljanje varnosti plovil.",
+      "analiza": "Hormuška ožina je ena najpomembnejših pomorskih poti za prevoz nafte na svetu, skozi katero poteka približno petina globalne oskrbe z nafto. Trumpova izjava o prevzemu nadzora in uvedbi 20-odstotne pristojbine pomeni drastično spremembo v geopolitičnem ravnovesju in predstavlja neposredno grožnjo stabilnosti oskrbe z energijo. To je izjemno relevantno zdaj, saj se napetosti med ZDA in Iranom že stopnjujejo, kar se odraža v povišani volatilnosti na trgih. Mehanizem vpliva je direkten: povečana negotovost glede oskrbe in morebitni dodatni stroški prevoza se takoj prenesejo v cene nafte. Posledično sta ceni WTI in Brent nafte poskočili za 6,97 % na 76,39 USD/sod oziroma 7,09 % na 81,40 USD/sod. To povišanje cen nafte bo verjetno povzročilo višje stroške za podjetja in potrošnike po vsem svetu, kar lahko prispeva k inflacijskim pritiskom. Zgodovinsko gledano so podobne geopolitične napetosti v regiji vedno povzročile skoke cen nafte. Vlagatelji bodo morali pozorno spremljati nadaljnji razvoj dogodkov med ZDA in Iranom ter morebitne odzive drugih držav, ki so odvisne od te pomorske poti. Za slovenskega dolgoročnega vlagatelja to pomeni morebitno povišanje inflacije, kar lahko vpliva na kupno moč in donose naložb, še posebej v sektorjih, ki so odvisni od energije.",
+      "vpliv": [
+        "Cene WTI nafte +6.97% na 76.39 USD/sod",
+        "Cene Brent nafte +7.09% na 81.40 USD/sod",
+        "Povečana geopolitična tveganja",
+        "Potencialni inflacijski pritiski"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/b1ab6ab2-b893-4605-b2b1-571ba9f46bd1",
+      "objavljeno": "2026-07-13T16:22:51.000Z"
+    },
+    {
+      "naslov": "Visoki uradnik Feda opozarja, da lahko 'vroča' inflacija sproži dvig obrestnih mer",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Guverner ameriške centralne banke (Fed) Christopher Waller je v ponedeljek izjavil, da obstaja možnost, da bo Fed kmalu moral zvišati obrestne mere, če bodo odčitki inflacije ta teden razočarali. Njegova izjava je bila objavljena 13. julija 2026 ob 17:10 UTC in je prišla v času, ko trgi že kažejo znake nervoze. Wallerjevo opozorilo poudarja občutljivost Feda na prihajajoče makroekonomske podatke, še posebej glede inflacije, ki ostaja ključna skrb za centralne bankirje. Morebiten dvig obrestnih mer bi bil odziv na vztrajno visoko inflacijo, ki bi lahko spodkopala kupno moč in gospodarsko stabilnost.",
-      "analiza": "Ozadje Wallerjeve izjave je globalna inflacijska dinamika, ki je v zadnjem obdobju predstavljala izziv za centralne banke po svetu. Fed je v preteklosti že izvajal agresivne dvige obrestnih mer za zajezitev inflacije, vendar so se v zadnjem času pojavljala pričakovanja o morebitnem premoru ali celo znižanju obrestnih mer. Wallerjeva izjava ponovno postavlja v ospredje možnost nadaljnjega zaostrovanja monetarne politike, kar je pomembno za finančne trge. Mehanizem vpliva je direkten: višje obrestne mere povečujejo stroške zadolževanja za podjetja in potrošnike, kar lahko upočasni gospodarsko rast. Za delnice to pomeni pritisk na dobičkonosnost podjetij, še posebej tistih z visoko zadolženostjo ali rastnih podjetij, ki so odvisna od poceni kapitala. Vidimo, da so danes ameriški indeksi S&P 500 in Nasdaq 100 padli za -0.69 % oziroma -1.75 %. Donosnosti obveznic, kot je 10-letna ameriška državna obveznica, so se zvišale za +1.03 % na 4.62 %, saj vlagatelji zahtevajo višje donose za kompenzacijo inflacije in tveganja dviga obrestnih mer. Valute, kot je ameriški dolar, se običajno okrepijo ob pričakovanjih dviga obrestnih mer, kar se kaže v padcu EUR/USD za -0.25 % na 1.1391. Zlato, ki velja za varno zatočišče, je paradoksalno padlo za -2.57 %, kar lahko kaže na moč dolarja ali pa na likvidnostne pritiske. Za slovenskega dolgoročnega vlagatelja to pomeni, da je obdobje višjih obrestnih mer verjetno pred nami, kar zahteva previdnost pri naložbah v delnice, še posebej v visoko vrednotene tehnološke delnice. Pomembno je spremljati prihajajoče podatke o inflaciji in izjave Feda, saj bodo ti ključni za določanje smeri trga v prihodnjih mesecih.",
+      "povzetek": "Christopher Waller, visoki uradnik Federal Reserve, je opozoril, da bi 'vroča' inflacija lahko sprožila dvig obrestnih mer. Povedal je, da bi nadaljnje povišane odčitke inflacije lahko centralno banko spodbudile k zaostrovanju monetarne politike. To opozorilo prihaja pred ključnimi objavami podatkov o inflaciji ta teden, ki jih vlagatelji pozorno spremljajo. Trgi so zaskrbljeni, da bi morebiten dvig obrestnih mer lahko upočasnil gospodarsko rast. Waller je dejal, da obstaja možnost, da bo Fed kmalu moral zvišati obrestne mere, če bodo odčitki inflacije ta teden razočarali.",
+      "analiza": "Izjave Christopherja Wallerja so ključne, saj prihajajo od vplivnega člana Odbora za odprti trg (FOMC) Federal Reserve, ki določa monetarno politiko ZDA. Njegovo opozorilo poudarja, da Fed ostaja na preži glede inflacije in je pripravljen ukrepati, če se cenovni pritiski ne umirijo. To je še posebej relevantno zdaj, saj se vlagatelji že dlje časa sprašujejo o prihodnji smeri obrestnih mer in vplivu na gospodarsko rast. Mehanizem vpliva je tak, da pričakovanja o višjih obrestnih merah običajno vodijo do višjih donosov obveznic, kar se je danes že pokazalo z donosnostjo 10-letne ameriške državne obveznice pri 4,61 %, kar je 0,94 % več. Višje obrestne mere lahko negativno vplivajo na delniške trge, še posebej na rastna podjetja, saj zmanjšujejo privlačnost prihodnjih dobičkov. Valutni trgi so prav tako občutljivi, saj višje obrestne mere v ZDA lahko okrepijo dolar, kar se je danes odrazilo v padcu EUR/USD za 0,23 % na 1.1393. Vlagatelji bodo pozorno spremljali prihajajoče podatke o inflaciji in morebitne nadaljnje izjave uradnikov Feda. Za slovenskega dolgoročnega vlagatelja to pomeni, da lahko višje obrestne mere vplivajo na globalno gospodarsko rast in s tem na donosnost naložb v delnice in obveznice, hkrati pa lahko močnejši dolar vpliva na vrednost evrskih naložb.",
       "vpliv": [
-        "Padec S&P 500 za -0.69 %",
-        "Padec Nasdaq 100 za -1.75 %",
-        "Rast donosnosti 10-letne US Treasury na 4.62 %",
-        "Okrepitev USD (EUR/USD padec za -0.25 %)"
+        "Donosnost 10-letne US Treasury +0.94% na 4.61%",
+        "EUR/USD -0.23% na 1.1393",
+        "Negativni pritisk na delniške trge",
+        "Povečana negotovost glede monetarne politike"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/a-hot-inflation-reading-this-week-could-mean-a-rate-hike-soon-feds-waller-says-15acf7a2?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-13T17:10:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/74ced145-3cc2-42f7-873a-84d2764b0b4d",
+      "objavljeno": "2026-07-13T17:23:38.000Z"
     },
     {
-      "naslov": "Cene nafte skočile po Trumpovi ponovni blokadi ožine Hormuz",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Globalne cene nafte so močno poskočile, potem ko je predsednik Donald Trump ponovno uvedel pomorsko blokado ožine Hormuz in napovedal 20-odstotno pristojbino za tovor, ki potuje skozi to strateško pomembno vodno pot. Novica, objavljena 13. julija 2026 ob 15:18 UTC, navaja, da se ZDA nameravajo postaviti kot 'varuh' ožine in zaračunavati nadomestilo za zagotavljanje varnosti plovil. Ta poteza je sprožila nove napetosti med ZDA in Iranom, ki je pred tem že izjavil, da ne bo sprejel nobenega ameriškega nadzora nad ožino. Posledično sta ceni nafte WTI in Brent danes zrasli za +6.26 %, dosežeč 75.88 USD/sod oziroma 80.77 USD/sod.",
-      "analiza": "Ožina Hormuz je ključna pomorska pot, skozi katero poteka približno petina svetovne oskrbe z nafto. Vsaka motnja v tej regiji ima takojšen in dramatičen vpliv na globalne cene nafte. Trumpova odločitev za ponovno uvedbo blokade in zaračunavanje pristojbin je eskalacija napetosti z Iranom, kar povečuje tveganje za prekinitev dobav. Mehanizem vpliva je jasen: zmanjšana ponudba ali povečana negotovost glede prihodnjih dobav nafte povzroči rast cen. To se je danes odrazilo v skoku cen nafte WTI in Brent za +6.26 %. Višje cene nafte imajo široke posledice: povečujejo stroške za podjetja (transport, proizvodnja) in potrošnike (gorivo, ogrevanje), kar lahko prispeva k inflaciji in upočasni gospodarsko rast. Za delnice to pomeni pritisk na sektorje, ki so odvisni od nafte, kot so letalski prevozniki in logistika, medtem ko so energetske družbe lahko kratkoročno na dobičku. Donosnosti obveznic se lahko zvišajo zaradi inflacijskih pritiskov, valute držav uvoznic nafte pa lahko oslabijo. Zlato, ki je običajno varno zatočišče v časih geopolitične negotovosti, je danes padlo, kar je morda posledica močnega dolarja ali likvidnostnih pritiskov. Za slovenskega dolgoročnega vlagatelja to pomeni povečano volatilnost na energetskih trgih in morebitne inflacijske pritiske, ki lahko vplivajo na kupno moč in stroške poslovanja podjetij. Spremljanje razvoja dogodkov v Hormuški ožini bo ključno za oceno prihodnjih gibanj cen nafte.",
-      "vpliv": [
-        "Rast WTI nafte za +6.26 % na 75.88 USD/sod",
-        "Rast Brent nafte za +6.26 % na 80.77 USD/sod",
-        "Povečani inflacijski pritiski",
-        "Povečana geopolitična negotovost"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-13T15:18:00.000Z"
-    },
-    {
-      "naslov": "Države vložile tožbo za blokado združitve Paramount in WBD",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Skupina dvanajstih ameriških zveznih držav, vključno s Kalifornijo, je vložila tožbo za blokado združitve med medijskima velikanoma Paramount in Warner Bros. Discovery (WBD). Tožba, objavljena 13. julija 2026 ob 16:21 UTC, trdi, da bi združitev v vrednosti 110 milijard dolarjev škodovala konkurenci, povzročila višje cene za potrošnike in vodila do izgube na tisoče delovnih mest. Koalicijo vodi kalifornijski državni tožilec Rob Bonta, ki je bil že od februarja, ko je bil dogovor o združitvi dosežen, oster kritik. Ta pravni izziv predstavlja pomembno oviro za dokončanje ene največjih združitev v medijski industriji.",
-      "analiza": "Ozadje te tožbe leži v vse večji zaskrbljenosti regulatorjev glede konsolidacije v medijski industriji in njenega vpliva na konkurenco in potrošnike. Združitev Paramounta in WBD bi ustvarila enega največjih medijskih konglomeratov, kar bi lahko zmanjšalo izbiro za potrošnike in povečalo njihove stroške za storitve pretakanja in vsebine. Mehanizem vpliva na finančne trge je takšen, da tožba ustvarja negotovost glede prihodnosti obeh podjetij. Delnice Paramounta in WBD bi lahko bile pod pritiskom, saj se zmanjšuje verjetnost uspešne združitve. To lahko povzroči padec vrednosti delnic, saj vlagatelji ocenjujejo povečana tveganja in stroške, povezane s pravnimi bitkami. V preteklosti so podobne protimonopolne tožbe že blokirale ali bistveno spremenile velike združitve, kar je imelo pomembne posledice za vpletena podjetja. Posledice se kažejo v splošni previdnosti v sektorju medijev in zabave, saj regulatorji kažejo, da bodo aktivno posegali v poskuse konsolidacije. Za slovenskega dolgoročnega vlagatelja, ki ima naložbe v medijski sektor, to pomeni, da je treba biti pozoren na regulatorna tveganja in morebitne dolgotrajne pravne postopke, ki lahko vplivajo na vrednost podjetij. Uspešnost združitve bo odvisna od izida te tožbe, kar bo določilo prihodnjo konkurenčno pokrajino v medijski industriji.",
-      "vpliv": [
-        "Povečana negotovost za delnice Paramount in WBD",
-        "Potencialno zmanjšanje konkurence v medijski industriji",
-        "Višje cene za potrošnike",
-        "Tveganje za izgubo delovnih mest"
-      ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/media/2026/jul/13/paramount-warner-bros-merger-lawsuit",
-      "objavljeno": "2026-07-13T16:21:01.000Z"
-    },
-    {
-      "naslov": "Volkswagen načrtuje ukinitev do 100.000 delovnih mest po svetu",
-      "sektor": "Potrošniki",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Avtomobilski velikan Volkswagen Group, ki vključuje tudi znamke Porsche in Audi, načrtuje ukinitev do 100.00enskih delovnih mest po vsem svetu. Novica, objavljena 13. julija 2026 ob 16:19 UTC, navaja, da se skupina sooča z ostrim padcem dobička in močno konkurenco, zlasti s Kitajske. To je del širših prizadevanj za zmanjšanje stroškov in povečanje učinkovitosti v luči izzivov, ki jih prinaša prehod na električna vozila in spremenjene globalne dobavne verige. Takšna obsežna odpuščanja bi imela pomemben vpliv na zaposlene in gospodarstva v regijah, kjer ima Volkswagen proizvodne obrate.",
-      "analiza": "Ozadje te odločitve je transformacija avtomobilske industrije, ki se sooča z izjemnimi pritiski. Prehod na električna vozila zahteva ogromne naložbe v raziskave in razvoj, hkrati pa se tradicionalni proizvajalci, kot je Volkswagen, srečujejo z naraščajočo konkurenco s strani novih igralcev, predvsem iz Kitajske. Padec dobička in potreba po prestrukturiranju sta ključna dejavnika. Mehanizem vpliva na finančne trge je mešan: kratkoročno lahko napoved odpuščanj povzroči zaskrbljenost med vlagatelji zaradi socialnih in političnih posledic, kar lahko pritisne na delnice podjetja. Dolgoročno pa lahko drastični ukrepi za zmanjšanje stroškov izboljšajo dobičkonosnost in konkurenčnost podjetja, če so uspešno izvedeni. V preteklosti so podobna prestrukturiranja v velikih industrijskih podjetjih pogosto povzročila začasen padec delnic, ki pa so si kasneje opomogle. Za delnice Volkswagna bi to lahko pomenilo nadaljnjo volatilnost. Širše, to kaže na izzive, s katerimi se sooča celotna avtomobilska industrija, in potrebo po prilagajanju na nove tržne razmere. Za slovenskega dolgoročnega vlagatelja, ki ima izpostavljenost do avtomobilskega sektorja, to pomeni, da je treba biti pozoren na sposobnost podjetij za učinkovito prestrukturiranje in prilagajanje na spremembe. Odpuščanja so boleča, vendar so včasih nujna za dolgoročno preživetje in konkurenčnost podjetja v hitro spreminjajočem se globalnem gospodarstvu.",
-      "vpliv": [
-        "Potencialen padec delnic Volkswagen Group",
-        "Povečana negotovost v avtomobilski industriji",
-        "Vpliv na zaposlovanje v globalnem merilu",
-        "Prizadevanja za izboljšanje dobičkonosnosti"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-07-13T16:19:15.000Z"
-    },
-    {
-      "naslov": "Tehnološke delnice Wall Streeta padajo po razprodaji azijskih proizvajalcev čipov",
+      "naslov": "Tehnološke delnice Wall Streeta padajo po udarcu azijskih proizvajalcev čipov",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Tehnološke delnice na Wall Streetu so danes padle, potem ko so bili azijski proizvajalci čipov, zlasti SK Hynix, močno prizadeti. Novica, objavljena 13. julija 2026 ob 16:01 UTC, navaja, da je indeks čipov SOX doživljal splošno razprodajo, saj je delnica SK Hynix zabeležila najslabši dan v zadnjih 18 letih na južnokorejskem trgu. Ta 'uvožena volatilnost' je povzročila bolečino tudi pri ameriških podjetjih, kot je Micron. Padec je bil del širšega 'risk-off' razpoloženja na trgih, ki ga je delno poglobila eskalacija sovražnosti med ZDA in Iranom, kar je povzročilo tudi rast cen nafte.",
-      "analiza": "Ozadje tega padca leži v visoki medsebojni povezanosti globalnih dobavnih verig in finančnih trgih, še posebej v sektorju polprevodnikov. Azijski proizvajalci čipov so ključni dobavitelji za globalno tehnološko industrijo, zato imajo njihove težave takojšen vpliv na podjetja po vsem svetu. Padec delnic SK Hynix, ki je eden največjih proizvajalcev pomnilniških čipov, je sprožil verižno reakcijo. Mehanizem vpliva je psihološki in fundamentalen: slabše poslovanje ključnih dobaviteljev napoveduje morebitne težave v celotni industriji, kar zmanjšuje zaupanje vlagateljev in vodi v razprodajo. Za delnice tehnoloških podjetij, še posebej tistih v sektorju polprevodnikov, to pomeni padec vrednosti, kar se odraža v padcu Nasdaq 100 za -1.75 %. Povečana volatilnost (VIX +10.65 %) kaže na splošno nervozo na trgu. V preteklosti so bili sektorji, ki so močno odvisni od globalnih dobavnih verig, pogosto izpostavljeni takšnim 'uvoženim' šokom. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja ključna. Kljub dolgoročnim pozitivnim trendom v tehnologiji, so kratkoročna nihanja lahko izjemno močna, še posebej ob geopolitičnih napetostih in težavah v dobavnih verigah. Pomembno je spremljati poročila o dobičkih podjetij v sektorju čipov, saj bodo ta dala boljši vpogled v dejansko stanje industrije.",
+      "povzetek": "Tehnološke delnice na Wall Streetu so danes padle, potem ko so azijski proizvajalci čipov doživeli močne padce. Indeks SOX, ki sledi proizvajalcem čipov, je bil priča splošni razprodaji, potem ko je delnica SK Hynix v Južni Koreji zabeležila najslabši dan v zadnjih 18 letih. To je povzročilo 'uvoženo volatilnost' na ameriške trge, saj so vlagatelji zaskrbljeni zaradi globalnega povpraševanja po polprevodnikih. Nasdaq 100 je danes padel za 1,76 % na 29300 točk, S&P 500 pa za 0,66 % na 7525 točk.",
+      "analiza": "Tehnološki sektor, še posebej industrija polprevodnikov, je globalno povezan in izjemno občutljiv na spremembe v povpraševanju in dobavnih verigah. Padec azijskih proizvajalcev čipov, kot je SK Hynix, ki je zabeležil najslabši dan v 18 letih, je neposredno vplival na sentiment na Wall Streetu. To je relevantno zdaj, saj je tehnološki sektor v zadnjih letih poganjal rast trgov in je ključen za splošno uspešnost indeksov, kot je Nasdaq 100. Mehanizem vpliva je psihološki in fundamentalen: slabše poslovanje ključnih igralcev v Aziji sproži zaskrbljenost glede prihodnjih prihodkov in dobičkov tudi za ameriška podjetja v sektorju. Posledično je Nasdaq 100 danes padel za 1,76 % na 29300 točk, medtem ko je S&P 500 padel za 0,66 % na 7525 točk, kar kaže na prelivanje negativnega sentimenta. Povečana volatilnost trga je bila očitna, saj je indeks VIX poskočil za 11,04 % na 16.69. Vlagatelji bodo pozorno spremljali prihajajoča poročila o dobičkih podjetij s področja polprevodnikov, kot je TSMC, ki je sicer poročal o rekordnih prihodkih v juniju, a je splošni sentiment negativen. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja ključna, saj so posamezni sektorji, kot je tehnologija, lahko izpostavljeni hitrim in močnim nihanjem, ki se širijo globalno.",
       "vpliv": [
-        "Padec Nasdaq 100 za -1.75 %",
-        "Razprodaja delnic proizvajalcev čipov (npr. Micron)",
-        "Povečana volatilnost trga (VIX +10.65 %)",
-        "Negativen vpliv na globalne dobavne verige"
+        "Nasdaq 100 -1.76% na 29300",
+        "S&P 500 -0.66% na 7525",
+        "VIX +11.04% na 16.69",
+        "Povečana zaskrbljenost glede globalnega povpraševanja po čipih"
       ],
       "vir": "Financial Times",
       "vir_url": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734",
       "objavljeno": "2026-07-13T16:01:36.000Z"
     },
     {
-      "naslov": "EU razkriva milijardo dolarjev vreden sklad za obnovo Gaze",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 1,
-      "povzetek": "Evropska unija je razkrila načrt za ustanovitev sklada v višini milijarde dolarjev, namenjenega obnovi Gaze po vojni. Novica, objavljena 13. julija 2026 ob 16:28 UTC, poudarja, da ta shema kritično zaostaja za ocenjenimi 71 milijardami dolarjev, ki naj bi bile potrebne za obnovo Gaze v naslednjih 10 letih. Kljub temu je to pomemben korak mednarodne skupnosti za pomoč pri stabilizaciji regije, ki je bila močno prizadeta zaradi konflikta. Sklad je namenjen reševanju humanitarne krize in zagotavljanju osnovnih pogojev za življenje po uničenju.",
-      "analiza": "Ozadje te novice je dolgotrajni konflikt na Bližnjem vzhodu in uničujoče posledice vojne v Gazi. Mednarodna skupnost se sooča z izzivom stabilizacije regije in zagotavljanja humanitarne pomoči. Milijarda dolarjev s strani EU je pomemben prispevek, čeprav je daleč od celotnih potreb, kar kaže na obseg uničenja in dolgoročne izzive. Mehanizem vpliva na finančne trge je posreden: takšni skladi lahko kratkoročno zagotovijo določeno stabilnost in zmanjšajo tveganje za nadaljnje eskalacije, kar je lahko rahlo pozitivno za splošno razpoloženje na trgu. Vendar pa obseg potreb in pomanjkanje sredstev kažejo na dolgotrajno negotovost v regiji, kar ohranja geopolitična tveganja. Za surovine, kot je nafta, to pomeni, da se tveganje za motnje v dobavah, čeprav se zmanjša, ne odpravi. Za valute, kot je evro, lahko takšne naložbe pomenijo določeno finančno breme, vendar tudi krepijo vlogo EU kot globalnega akterja. Za slovenskega dolgoročnega vlagatelja je to opomin na geopolitična tveganja, ki lahko vplivajo na globalno gospodarstvo in finančne trge. Čeprav je neposreden vpliv na posamezne delnice omejen, je stabilnost na Bližnjem vzhodu ključna za globalno trgovino in cene energentov. Spremljanje nadaljnjih diplomatskih in finančnih prizadevanj za rešitev konflikta bo pomembno.",
+      "naslov": "Paramount in WBD tarča tožbe 12 zveznih držav za blokiranje združitve",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Skupina dvanajstih ameriških zveznih držav, vključno s Kalifornijo, je vložila tožbo za blokiranje združitve med podjetjema Paramount in Warner Bros. Discovery (WBD). Tožba trdi, da bi združitev v vrednosti 110 milijard dolarjev škodovala konkurenci, povzročila višje cene za potrošnike in vodila do tisočev izgubljenih delovnih mest. Kalifonijski generalni tožilec Rob Bonta, ki je vodil koalicijo, je bil že prej glasen kritik te združitve, ki je bila dogovorjena februarja po licitacijski vojni.",
+      "analiza": "Združitev med Paramountom in Warner Bros. Discovery bi ustvarila enega največjih medijskih konglomeratov, kar bi imelo daljnosežne posledice za industrijo zabave in medijev. Tožba 12 zveznih držav, ki trdijo, da bi združitev škodovala konkurenci in potrošnikom, je pomembna regulatorna ovira. To je relevantno zdaj, saj se industrija medijev sooča z intenzivno konsolidacijo in bojem za tržni delež v dobi pretočnih storitev. Mehanizem vpliva je, da pravni izzivi in regulatorne ovire ustvarjajo negotovost okoli zaključka posla, kar običajno povzroči pritisk na delnice vpletenih podjetij. Čeprav specifičnih podatkov o gibanju delnic Paramounta in WBD ni v snapshotu, je splošna posledica takšnih novic negativen vpliv na vrednost delnic podjetij, ki so vključena v prevzem, saj se zmanjša verjetnost uspešnega zaključka. To lahko vpliva tudi na širši sektor medijev, saj bi morebitna blokada združitve lahko ohladila apetit za podobne transakcije. Vlagatelji bodo pozorno spremljali izid te tožbe in morebitne odločitve sodišč. Za slovenskega dolgoročnega vlagatelja to pomeni, da so naložbe v podjetja, ki so vključena v velike združitve, lahko izpostavljene regulatornim tveganjem, ki lahko močno vplivajo na njihovo vrednost.",
       "vpliv": [
-        "Delna finančna pomoč za obnovo Gaze",
-        "Zmanjšanje humanitarne krize",
-        "Ohranjanje geopolitičnih tveganj na Bližnjem vzhodu",
-        "Prikaz dolgoročnih potreb po financiranju"
+        "Povečana regulatorna tveganja za združitve",
+        "Negotovost za delnice Paramount in WBD",
+        "Potencialno zmanjšanje konkurence v medijskem sektorju",
+        "Tisoči izgubljenih delovnih mest"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/13/eu-unveils-1bn-fund-for-gaza-war-recovery?traffic_source=rss",
-      "objavljeno": "2026-07-13T16:28:52.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html",
+      "objavljeno": "2026-07-13T17:40:05.000Z"
+    },
+    {
+      "naslov": "Volkswagen načrtuje ukinitev do 100.000 delovnih mest po vsem svetu",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Skupina Volkswagen, ki vključuje tudi znamki Porsche in Audi, načrtuje ukinitev do 100.000 delovnih mest po vsem svetu. Ta drastičen ukrep je posledica strmega padca dobička in močne konkurence, predvsem s strani kitajskih proizvajalcev. Podjetje se sooča z izzivi pri prehodu na električna vozila in optimizaciji stroškov poslovanja. Zmanjšanje števila zaposlenih je del širše strategije za izboljšanje konkurenčnosti in prilagoditev na spreminjajoče se tržne razmere.",
+      "analiza": "Volkswagen je eden največjih avtomobilskih proizvajalcev na svetu in pomemben del evropskega gospodarstva. Načrtovano zmanjšanje števila zaposlenih za do 100.000 ljudi po vsem svetu kaže na resne strukturne izzive, s katerimi se sooča avtomobilska industrija, še posebej v luči prehoda na električna vozila in naraščajoče konkurence iz Kitajske. To je relevantno zdaj, saj se podjetja po vsem svetu trudijo optimizirati poslovanje in se prilagoditi novim tržnim razmeram. Mehanizem vpliva je dvojni: na eni strani lahko zmanjšanje stroškov dela izboljša dolgoročno dobičkonosnost podjetja, na drugi strani pa tako obsežno odpuščanje signalizira širše gospodarske težave in lahko negativno vpliva na potrošniško zaupanje in splošno gospodarsko rast. Čeprav ni neposrednih podatkov o delnicah Volkswagna v snapshotu, takšne novice običajno povzročijo začetno zaskrbljenost, a lahko dolgoročno, če so del uspešne preobrazbe, podprejo ceno delnice. Za širše gospodarstvo pa to pomeni potencialno povečanje brezposelnosti. Vlagatelji bodo spremljali, kako bo Volkswagen izvedel te reze in ali bodo prinesli želene rezultate pri izboljšanju konkurenčnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno razumeti tveganja in priložnosti v tradicionalnih industrijskih sektorjih, ki so pod pritiskom strukturnih sprememb in globalne konkurence.",
+      "vpliv": [
+        "Potencialno izboljšanje dolgoročne dobičkonosnosti Volkswagna",
+        "Povečana zaskrbljenost glede brezposelnosti v avtomobilski industriji",
+        "Odziv na močno konkurenco iz Kitajske",
+        "Strukturni izzivi v avtomobilskem sektorju"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-13T16:19:15.000Z"
+    },
+    {
+      "naslov": "UK in Švica dosegli dogovor o odpravi roaminga in uporabi e-vrat",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 1,
+      "povzetek": "Združeno kraljestvo in Švica sta podpisali nov sporazum o storitvah, ki naj bi letno povečal izvoz Združenega kraljestva za 5,2 milijarde funtov 'na dolgi rok'. Sporazum vključuje odpravo stroškov gostovanja (roaming charges) za britanske državljane v Švici in jim omogoča uporabo avtomatiziranih potnih kontrol (e-gates) na švicarskih letališčih. To je del širših prizadevanj Združenega kraljestva za sklepanje novih trgovinskih sporazumov po Brexitu. Dogovor bo tudi omogočil britanskim potnikom uporabo avtomatiziranih potnih vrat na švicarskih letališčih.",
+      "analiza": "Ta sporazum med Združenim kraljestvom in Švico je primer prizadevanj Združenega kraljestva za krepitev trgovinskih vezi po izstopu iz Evropske unije. Odprava stroškov gostovanja in uporaba e-vrat sta konkretna ukrepa, ki neposredno koristita potrošnikom in poslovnežem, ki potujejo med državama. To je relevantno zdaj, saj Združeno kraljestvo išče nove gospodarske priložnosti in partnerstva. Mehanizem vpliva je pozitiven, saj zmanjšuje ovire za trgovino s storitvami in potovanja, kar lahko spodbudi gospodarsko aktivnost. Pričakuje se, da bo sporazum dolgoročno povečal izvoz Združenega kraljestva za 5,2 milijarde funtov letno. Čeprav ne vpliva neposredno na globalne borzne indekse ali surovine, je to pomemben korak za regionalno gospodarstvo in lahko posredno vpliva na podjetja, ki poslujejo v obeh državah. Za valute, kot je britanski funt, lahko takšni sporazumi nudijo določeno podporo, saj izboljšujejo gospodarske obete. Vlagatelji bodo spremljali, kako se bo ta sporazum odrazil v dejanskih številkah trgovine in ali bo spodbudil podobne dogovore z drugimi državami. Za slovenskega dolgoročnega vlagatelja to pomeni, da so mednarodni trgovinski sporazumi pomembni za stabilnost in rast določenih sektorjev in regij, čeprav morda nimajo takojšnjega globalnega vpliva na trge.",
+      "vpliv": [
+        "Povečanje izvoza Združenega kraljestva za 5.2 milijarde GBP letno",
+        "Odprava roaming stroškov",
+        "Poenostavljena potovanja med UK in Švico",
+        "Podpora britanskemu gospodarstvu po Brexitu"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-13T16:05:13.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-13T17:30:47.707Z",
+    "posodobljenoOb": "2026-07-13T17:46:44.461Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7523.11,
-        "sprememba_pct": -0.69
+        "vrednost": 7525.09,
+        "sprememba_pct": -0.66
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29303.807,
-        "sprememba_pct": -1.75
+        "vrednost": 29299.89,
+        "sprememba_pct": -1.76
       },
       {
         "simbol": "^GDAXI",
@@ -141,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4007.8,
-        "sprememba_pct": -2.57,
+        "vrednost": 4006.8,
+        "sprememba_pct": -2.6,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 75.88,
-        "sprememba_pct": 6.26,
+        "vrednost": 76.39,
+        "sprememba_pct": 6.97,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 80.77,
-        "sprememba_pct": 6.26,
+        "vrednost": 81.4,
+        "sprememba_pct": 7.09,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1391,
-        "sprememba_pct": -0.25
+        "vrednost": 1.1393,
+        "sprememba_pct": -0.23
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.616,
-        "sprememba_pct": 1.03,
+        "vrednost": 4.612,
+        "sprememba_pct": 0.94,
         "enota": "%"
       }
     ],
@@ -181,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 62129.31,
-        "sprememba_pct": -2.54,
+        "vrednost": 62070.75,
+        "sprememba_pct": -2.63,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16.63,
-      "sprememba_pct": 10.65
+      "vrednost": 16.69,
+      "sprememba_pct": 11.04
     }
   }
 }
