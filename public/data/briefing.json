@@ -1,145 +1,156 @@
 {
-  "generiranoOb": "2026-07-14T06:25:47.581Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-07-14T16:47:43.972Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-07-14",
-  "povzetek": "Jutranja izdaja, 14. julij 2026, prinaša mešano sliko globalnih trgov po nočnih dogodkih. Ameriški indeksi so trgovanje zaključili v rdečem, kjer je S&P 500 padel za 0.79 % na 7515 točk, tehnološko obarvan Nasdaq 100 pa je zabeležil še večji padec, za 1.88 % na 29264 točk. Azijski trgi so medtem pokazali odpornost, saj je Nikkei 225 zrasel za 0.63 % na 67663 točk, medtem ko je evropski DAX že v zgodnjem trgovanju pridobil 0.19 % in dosegel 25114 točk. Glavna tema ostaja zaostrovanje napetosti med ZDA in Iranom, kar je pognalo cene nafte Brent na 84.68 USD/sod, kar predstavlja 1.66 % rast, in WTI na 79.52 USD/sod, kar je 1.77 % rast. Zlato se je prav tako podražilo za 0.80 % na 4037.80 USD/oz, kar kaže na iskanje varnih zatočišč. Povečana volatilnost trga, merjena z indeksom VIX, je zrasla za 14.17 % na 17.16. Vlagatelji naj bodo pozorni na prihajajoče objave inflacijskih podatkov ali morebitne izjave centralnih bankirjev, ki bi lahko vplivale na pričakovanja glede obrestnih mer.",
+  "povzetek": "Evropski trgi so danes zaključili z zmernimi do močnimi dobički, medtem ko so ameriški indeksi nadaljevali rast v popoldanskem trgovanju. Indeks S&P 500 je pri 7538 (+0,30 %), Nasdaq 100 pa beleži močno rast pri 29595 (+1,13 %), kar kaže na nadaljnji optimizem v tehnološkem sektorju. Evropski DAX je dan zaključil pri 25147 (+0,13 %). Na trgih so prevladovale novice o močnih dobičkih bank na Wall Streetu, ki so jih poganjali razcvet trgovanja z delnicami in AI mrzlica, medtem ko je IBM zabeležil strm padec delnic za 25 % zaradi preusmeritve porabe strank k AI. Cene nafte so poskočile, Brent nafta je pri 84,80 USD/sod (+1,80 %), zaradi stopnjevanja napetosti na Bližnjem vzhodu, kar je vplivalo tudi na zlato, ki je zraslo na 4067,60 USD/oz (+1,55 %). Kljub temu, da so nižje cene plina v ZDA pomagale znižati inflacijo, ostaja negotovost glede trajnosti tega trenda. Vlagatelji naj bodo pozorni na četrtkovo objavo zapisnika zasedanja Federal Reserve, ki bo ponudila vpogled v razmišljanje centralne banke glede prihodnje monetarne politike.",
   "novice": [
     {
-      "naslov": "ZDA izvajajo zračne napade, medtem ko Iran cilja tankerje in Trump zahteva pristojbine",
-      "sektor": "Geopolitika",
+      "naslov": "IBM-ove delnice strmo padle zaradi preusmeritve porabe k umetni inteligenci",
+      "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Ameriške sile so izvedle nove zračne napade, medtem ko je Iran s križarskimi raketami napadel tankerje v Perzijskem zalivu. Predsednik ZDA Donald Trump je ob tem napovedal uvedbo 20-odstotne pristojbine za tovor, ki prehaja skozi strateško pomembno Hormuško ožino. Ta poteza je del širšega zaostrovanja konflikta med Washingtonom in Teheranom, ki vključuje tudi blokado ožine. Napadi so se zgodili tretjo zaporedno noč, kar kaže na stopnjevanje napetosti v regiji. Združeni arabski emirati so obsodili iranski napad na tankerje, v katerem je bil ubit en človek.",
-      "analiza": "Ozadje dogajanja je dolgotrajno rivalstvo med ZDA in Iranom, ki se je v zadnjih dneh močno zaostrilo z neposrednimi vojaškimi akcijami. Hormuška ožina je ključna pomorska pot za svetovno trgovino z nafto, saj skozi njo poteka približno petina globalne dobave. Trumpova zahteva po 20-odstotni pristojbini in blokada ožine predstavljata resno grožnjo za stabilnost dobavnih verig in globalno gospodarstvo. Mehanizem vpliva na finančne trge je neposreden: povečana geopolitična tveganja v regiji, ki je ključna za energente, vodijo do rasti cen nafte in zlata, saj vlagatelji iščejo varna zatočišča. Posledično so cene nafte Brent zrasle na 84.68 USD/sod (+1.66 %), WTI na 79.52 USD/sod (+1.77 %), zlato pa na 4037.80 USD/oz (+0.80 %). Delniški indeksi, kot sta S&P 500 (-0.79 %) in Nasdaq 100 (-1.88 %), so se odzvali negativno zaradi povečane negotovosti in strahu pred širšim konfliktom. Obveznice bi lahko doživele povečano povpraševanje kot varno zatočišče, donosnost 10-letnih ameriških obveznic pa je zrasla za 0.88 % na 4.61 %, kar lahko kaže na pričakovanja inflacije ali pa na splošno višje obrestne mere. Za slovenskega dolgoročnega vlagatelja to pomeni povečano volatilnost na trgih, zlasti pri delnicah in surovinah, ter potrebo po spremljanju razvoja dogodkov v Perzijskem zalivu, saj imajo ti lahko dolgotrajen vpliv na globalno gospodarstvo in inflacijo.",
+      "povzetek": "IBM-ove delnice so danes strmo padle za 25 %, kar je bil najhujši padec v zgodovini podjetja, po objavi, da stranke preusmerjajo svoje izdatke k rešitvam na področju umetne inteligence. Glavni izvršni direktor Arvind Krishna je priznal, da je podjetje 'omahovalo', saj so stranke hitro kupovale strežnike in pomnilniške rešitve, povezane z AI. To kaže na izzive, s katerimi se soočajo tradicionalni tehnološki velikani pri prilagajanju hitrim spremembam in rastočemu povpraševanju po AI tehnologijah. Padec je bil nepričakovan in je močno vplival na tržno vrednost podjetja.",
+      "analiza": "Ozadje: IBM, nekoč vodilni v tehnološki industriji, se že dlje časa trudi preoblikovati svoje poslovanje in se osredotočiti na storitve v oblaku ter umetno inteligenco, da bi ostal konkurenčen. Relevantnost: Padec delnic za 25 % v enem dnevu je izjemno pomemben in poudarja, kako hitro se spreminjajo prioritete podjetij v luči razvoja umetne inteligence. Mehanizem vpliva: Podjetja, ki ne uspejo hitro inovirati in se prilagoditi novim tehnološkim trendom, kot je AI, tvegajo izgubo tržnega deleža in zaupanja vlagateljev, kar se odraža v padcu vrednosti delnic. Posledice: Negativno za delnice IBM-a in potencialno za druge tradicionalne tehnološke družbe, ki se soočajo s podobnimi izzivi pri prehodu na AI. Pozitivno pa za podjetja, ki so v ospredju razvoja AI in ponujajo ustrezne rešitve (npr. proizvajalci čipov, ponudniki AI storitev). Obveznice in valute niso neposredno prizadete, razen splošnega sentimenta. Zgodovinski primer: Podobne pretrese so doživela podjetja v preteklosti ob prehodih na internet ali mobilne tehnologije, ko so se morala hitro prilagoditi novim paradigmam. Kaj opazovati: Ali bo IBM uspel hitro preusmeriti svojo strategijo in povrniti zaupanje vlagateljev z novimi AI rešitvami. Za slovenskega dolgoročnega vlagatelja: Ta dogodek poudarja pomen diverzifikacije in razumevanja dolgoročnih tehnoloških trendov ter tveganj, povezanih s podjetji, ki se ne morejo hitro prilagoditi inovacijam.",
       "vpliv": [
-        "Rast cen nafte (Brent +1.66%, WTI +1.77%)",
-        "Rast cene zlata (+0.80%)",
-        "Padec ameriških delniških indeksov (S&P 500 -0.79%, Nasdaq 100 -1.88%)",
-        "Povečana volatilnost trga (VIX +14.17%)"
+        "Delnice IBM-a padle za 25 %",
+        "Povečan pritisk na tradicionalne tehnološke družbe",
+        "Rast povpraševanja po AI rešitvah"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c",
-      "objavljeno": "2026-07-14T05:15:27.000Z"
+      "vir_url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
+      "objavljeno": "2026-07-14T16:27:28.000Z"
     },
     {
-      "naslov": "Kitajska rast pod pritiskom: slabost maloprodaje in investicij",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Kitajsko gospodarstvo se sooča z naraščajočimi pritiski, saj mesečni kazalniki kažejo šibkost na področju maloprodaje in investicij. To se dogaja pred objavo podatkov za drugo četrtletje, ki bi lahko potrdili upočasnjevanje rasti. Analitiki opozarjajo na pet ključnih dejavnikov, ki jih je treba spremljati, da bi razumeli prihodnjo smer kitajskega gospodarstva. Ti vključujejo notranje povpraševanje, nepremičninski sektor in geopolitična tveganja. Kljub temu, da se gospodarstvo sooča z izzivi, je Kitajska zabeležila rekordni izvoz avtomobilov.",
-      "analiza": "Kitajska, kot druga največja ekonomija na svetu, ima pomemben vpliv na globalno gospodarsko rast. Šibkost v maloprodaji in investicijah kaže na zmanjšano notranje povpraševanje in morebitne strukturne probleme v gospodarstvu. To je relevantno, saj je Kitajska v preteklosti pogosto delovala kot motor globalne rasti, in njeno upočasnjevanje lahko vpliva na svetovno trgovino in povpraševanje po surovinah. Mehanizem vpliva na finančne trge je večplasten: šibkejša kitajska rast lahko zmanjša povpraševanje po izvoznih izdelkih iz drugih držav, kar vpliva na dobičke multinacionalnih podjetij in posledično na delniške trge. Prav tako lahko zmanjša povpraševanje po industrijskih surovinah, kar vpliva na cene kovin in energentov. Vpliv na valute je lahko viden skozi oslabitev kitajskega juana in valut držav, ki so močno odvisne od izvoza na Kitajsko. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da upočasnjevanje kitajske rasti lahko vpliva na globalne dobavne verige in povpraševanje po izdelkih, kar posredno vpliva tudi na evropska podjetja. Spremljanje kitajskih makroekonomskih podatkov je ključno za ocenjevanje globalnih gospodarskih obetov.",
-      "vpliv": [
-        "Potencialno zmanjšanje globalne rasti",
-        "Zmanjšano povpraševanje po surovinah",
-        "Vpliv na dobičke multinacionalnih podjetij",
-        "Morebitna oslabitev valut, odvisnih od kitajskega izvoza"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/c21b8869-6539-414b-8fe2-255b329b8688",
-      "objavljeno": "2026-07-14T04:31:07.000Z"
-    },
-    {
-      "naslov": "Kitajski mesečni izvoz avtomobilov prvič presegel milijon vozil",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Kitajska je zabeležila pomemben mejnik, saj je njen mesečni izvoz avtomobilov prvič presegel milijon vozil. Ta podatek kaže na močan zagon v kitajskem zunanjetrgovinskem sektorju. Peking ob tem poudarja, da je država postala tudi drugi največji uvoznik na svetu, kar nakazuje na splošno rast trgovine. Skupni obseg trgovine je močno narasel, kar je pomemben pokazatelj gospodarske aktivnosti. To se dogaja kljub šibkosti na področju maloprodaje in investicij v državi.",
-      "analiza": "Ta novica dopolnjuje sliko kitajskega gospodarstva, ki je sicer pod pritiskom na notranjem trgu, a kaže izjemno moč na področju izvoza, zlasti v avtomobilski industriji. Povečanje izvoza avtomobilov nad milijon enot mesečno poudarja konkurenčnost kitajskih proizvajalcev in njihovo širjenje na globalne trge. To je relevantno, saj kaže na preusmeritev kitajske gospodarske strategije in njeno sposobnost, da kljub notranjim izzivom ostaja ključen igralec v svetovni trgovini. Mehanizem vpliva na finančne trge je pozitiven za kitajska podjetja in tiste, ki so vključeni v dobavne verige avtomobilske industrije. Hkrati pa to lahko pomeni povečano konkurenco za proizvajalce avtomobilov v drugih državah. Rast skupne trgovine, kjer je Kitajska tudi drugi največji uvoznik, kaže na globalno povezanost in pomen Kitajske za svetovno gospodarstvo. To lahko stabilizira cene nekaterih surovin in podpira globalno logistiko. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba spremljati kitajsko izvozno moč, saj lahko vpliva na konkurenčnost evropskih industrij in globalne trgovinske tokove. Močan izvoz lahko tudi pomaga ublažiti nekatere notranje gospodarske pritiske na Kitajskem.",
-      "vpliv": [
-        "Povečana konkurenca v avtomobilski industriji",
-        "Podpora globalnim trgovinskim tokovom",
-        "Potencialno stabiliziranje cen nekaterih surovin",
-        "Vpliv na dobičke kitajskih izvoznih podjetij"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/37324f66-7167-4083-a28e-6ffc505c4cda",
-      "objavljeno": "2026-07-14T03:53:57.000Z"
-    },
-    {
-      "naslov": "Dobički Rothschild padli kljub višjim provizijam zaradi bančnih bonusov",
+      "naslov": "Banke na Wall Streetu dosegajo rekordne dobičke zaradi razcveta trgovanja",
       "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Dobički investicijske banke Rothschild so padli, kljub temu da so se prihodki od transakcijskih provizij povečali. Razlog za padec dobička so visoki bančni bonusi, ki so pojedli večji del višjih prihodkov. Dolgo pričakovano okrevanje na področju združitev in prevzemov (M&A) je sicer dvignilo prihodke britanskega dela investicijskega bančništva, vendar je hkrati povzročilo tudi rast stroškov za plače. To kaže na izzive pri upravljanju stroškov v finančnem sektorju.",
-      "analiza": "Ta novica osvetljuje dinamiko v sektorju investicijskega bančništva. Okrevanje trga združitev in prevzemov (M&A) je običajno pozitiven znak za finančni sektor, saj kaže na povečano gospodarsko aktivnost in zaupanje podjetij. Vendar pa primer Rothschild kaže, da se povečani prihodki ne prevedejo nujno v višje dobičke, če so stroški, zlasti bonusi, visoki. To je relevantno, saj poudarja izzive, s katerimi se soočajo finančne institucije pri upravljanju stroškov in ohranjanju dobičkonosnosti v konkurenčnem okolju. Mehanizem vpliva na finančne trge je predvsem sektorski: slabši rezultati pomembne investicijske banke lahko vplivajo na sentiment v celotnem finančnem sektorju. To lahko povzroči pritisk na delnice drugih finančnih institucij, saj vlagatelji preverjajo, ali se podobni trendi pojavljajo tudi drugje. Na splošno pa okrevanje M&A trga ostaja pozitiven signal za širše gospodarstvo. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so dobički finančnih institucij odvisni od številnih dejavnikov, vključno z aktivnostjo na kapitalskih trgih in stroškovno disciplino. Spremljanje rezultatov ključnih igralcev v finančnem sektorju lahko ponudi vpogled v širše gospodarske trende.",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Vodilne banke na Wall Streetu, vključno z JPMorgan, Goldman Sachs, Citigroup in Bank of America, so poročale o rekordnih dobičkih, ki jih je poganjal razcvet trgovanja z delnicami. Ti izjemni zaslužki so bili okrepljeni z 'AI mrzlico' in uspešnim IPO-jem podjetja SpaceX. Jamie Dimon, izvršni direktor JPMorgan, je izjavil, da so 'cvetoči' trgi in 'dober' potrošnik prispevali k izjemnim rezultatom. To kaže na močno aktivnost na kapitalskih trgih in optimističen pogled vodilnih finančnikov na stanje ameriškega gospodarstva.",
+      "analiza": "Ozadje: Finančne institucije so v zadnjih letih izboljšale svoje bilance stanja, vendar so se pogosto soočale z izzivi zaradi nizkih obrestnih mer in regulacije. Relevantnost: Rekordni dobički bank kažejo na robustno aktivnost na kapitalskih trgih, še posebej pri trgovanju z delnicami, kar je lahko posledica povečanega zanimanja za tehnološka podjetja in umetno inteligenco. Mehanizem vpliva: Povečano trgovanje in IPO-ji ustvarjajo višje provizije in prihodke za investicijske banke. Močni rezultati bank lahko signalizirajo splošno dobro stanje gospodarstva in zaupanje vlagateljev, kar se odraža v pozitivnem sentimentu na trgu. Posledice: Pozitivno za delnice finančnega sektorja, saj močni zaslužki povečujejo privlačnost delnic in lahko prispevajo k splošnemu pozitivnemu sentimentu na trgu. Obveznice so manj neposredno prizadete, valute pa lahko odražajo zaupanje v ameriško gospodarstvo. Zgodovinski primer: Obdobja močnega IPO trga in tehnoloških boomov so v preteklosti prav tako poganjala dobičke bank, kar kaže na ciklično naravo finančne industrije. Kaj opazovati: Ali se bo trend močnega trgovanja nadaljeval in ali bodo banke uspele ohraniti rast dobičkov v prihodnje, še posebej ob morebitnih spremembah v monetarni politiki. Za slovenskega dolgoročnega vlagatelja: Močni rezultati bank lahko kažejo na splošno zdravje gospodarstva, kar je pomemben dejavnik pri odločanju o naložbah v delnice, saj se dobičkonosnost podjetij pogosto zrcali v širšem gospodarskem okolju.",
       "vpliv": [
-        "Pritisk na dobičkonosnost finančnih institucij",
-        "Potencialen vpliv na delnice finančnega sektorja",
-        "Povečani stroški dela v investicijskem bančništvu",
-        "Okrevanje M&A trga kot pozitiven signal"
+        "Rast delnic finančnega sektorja",
+        "Povečana aktivnost na kapitalskih trgih",
+        "Pozitiven sentiment na trgu"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/af4c9b10-fa12-4645-b1d3-5a8648faf41d",
-      "objavljeno": "2026-07-14T04:00:20.000Z"
+      "vir_url": "https://www.ft.com/content/137efc01-087f-4b1d-b2a4-e18ea61197f2",
+      "objavljeno": "2026-07-14T16:23:20.000Z"
     },
     {
-      "naslov": "Strokovnjaki opozarjajo na nujnost priprave na vpliv umetne inteligence",
-      "sektor": "Tehnologija & AI",
+      "naslov": "Cene nafte poskočile zaradi stopnjevanja napetosti na Bližnjem vzhodu",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Cene nafte so danes poskočile na štiritedenske vrhunce, saj so se napetosti na Bližnjem vzhodu stopnjevale z napadi med Washingtonom in Teheranom ter ponovno uvedbo pomorske blokade Irana s strani ZDA. Cena nafte Brent je poskočila za 4,55 % oziroma 3,79 dolarja na sod, doseglajoč 87,08 dolarja za sod, kar je najvišja cena od 12. junija. Analitiki opozarjajo, da kljub pričakovanju umiritve razmer, tveganja za cene nafte ostajajo povišana, kar bi lahko cene držalo v razponu med 85 in 90 dolarji za sod. To povišanje cen nafte ima širše gospodarske posledice.",
+      "analiza": "Ozadje: Bližnji vzhod je ključna regija za svetovno oskrbo z nafto, vsakršne geopolitične napetosti pa imajo takojšen in močan vpliv na cene te ključne surovine. Relevantnost: Ponovna eskalacija konflikta med ZDA in Iranom ter pomorska blokada neposredno ogrožata dobavne poti skozi Hormuško ožino, ki je vitalna za svetovno trgovino z nafto, in zmanjšujeta zaupanje v stabilnost oskrbe. Mehanizem vpliva: Zmanjšana ponudba ali strah pred njo, skupaj s povečano geopolitično premijo, dviguje cene nafte. Višje cene nafte se nato prenesejo na potrošnike v obliki dražjih goriv in energije, kar lahko pospeši inflacijo in zmanjša kupno moč. Posledice: Pozitivno za delnice energetskih podjetij (naftne in plinske družbe), saj se povečajo njihovi prihodki. Negativno pa za letalske družbe, transportna podjetja in potrošnike zaradi višjih stroškov. Povišane cene nafte lahko prispevajo k inflacijskim pritiskom, kar bi lahko vplivalo na politiko centralnih bank, ki bi bile prisiljene k zaostrovanju. Donosnosti obveznic se lahko zvišajo zaradi inflacijskih pričakovanj. Zgodovinski primer: Naftni šoki v 70. letih ali ob invaziji na Kuvajt so pokazali, kako močno geopolitika vpliva na cene nafte in svetovno gospodarstvo. Kaj opazovati: Nadaljnji razvoj dogodkov na Bližnjem vzhodu in morebitne prekinitve dobavnih poti, ki bi lahko še dodatno destabilizirale trg. Za slovenskega dolgoročnega vlagatelja: Povišane cene energentov lahko vplivajo na dobičkonosnost podjetij v različnih sektorjih in na kupno moč, zato je pomembno spremljati gibanje cen surovin in njihov vpliv na inflacijo ter prilagoditi naložbene strategije glede na te makroekonomske dejavnike.",
+      "vpliv": [
+        "Cena nafte Brent zrasla na 84,80 USD/sod (+1,80 %)",
+        "Povišani inflacijski pritiski",
+        "Rast delnic energetskih podjetij"
+      ],
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/live/2026/jul/14/oil-prices-rise-2-middle-east-strikes-chinas-exports-surge-ai-boom-live-updates",
+      "objavljeno": "2026-07-14T14:07:04.000Z"
+    },
+    {
+      "naslov": "Nižje cene plina znižale inflacijo v ZDA, a tveganja ostajajo",
+      "sektor": "Makro & Centralne banke",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Več kot 200 ekonomistov in raziskovalcev umetne inteligence (AI) poziva svetovne voditelje k takojšnji pripravi na obsežne gospodarske motnje, ki jih bo prinesla umetna inteligenca. Opozorilo, objavljeno 13. julija 2026, poudarja potrebo po proaktivnem ukrepanju za obvladovanje potencialnih izzivov, kot so spremembe na trgu dela, neenakost in potreba po novih socialnih politikah. Strokovnjaki poudarjajo, da bo vpliv AI na gospodarstvo daljnosežen in transformativen, kar zahteva takojšnje ukrepanje.",
-      "analiza": "Razvoj umetne inteligence predstavlja eno največjih tehnoloških in gospodarskih revolucij našega časa. Opozorilo več kot 200 strokovnjakov poudarja, da AI ni le tehnološka novost, temveč dejavnik, ki bo korenito preoblikoval trge dela, produktivnost in družbeno strukturo. To je relevantno, ker vpliv AI ne bo omejen le na tehnološki sektor, ampak bo imel daljnosežne posledice za vsa podjetja in države. Mehanizem vpliva na finančne trge je kompleksen: na eni strani AI prinaša ogromne priložnosti za rast in inovacije v podjetjih, ki jo uspešno implementirajo, kar se odraža v rasti delnic tehnoloških podjetij. Po drugi strani pa lahko povzroči motnje v tradicionalnih industrijah, izgubo delovnih mest in potrebo po velikih investicijah v prekvalifikacijo delovne sile, kar lahko povzroči socialne in ekonomske izzive. Vpliv na obveznice je lahko posreden, preko vpliva na gospodarsko rast in inflacijo, medtem ko valute lahko reagirajo na spremembe v konkurenčnosti držav. Za slovenskega dolgoročnega vlagatelja to pomeni, da je ključno spremljati razvoj in implementacijo AI tehnologij ter prepoznati podjetja, ki so na to pripravljena. Hkrati je pomembno zavedanje o širših družbenih in ekonomskih izzivih, ki jih AI prinaša, saj lahko ti vplivajo na stabilnost trgov in dolgoročne naložbene strategije.",
+      "povzetek": "Medtem ko se je stopnja inflacije v ZDA junija znižala, predvsem zaradi nižjih cen plina, ostajajo pomisleki glede ponovnega zvišanja cen. Glavni razlog za zaskrbljenost je obnovljen konflikt na Bližnjem vzhodu, ki bi lahko ponovno dvignil cene energentov. Čeprav je znižanje cen plina pomagalo pri umirjanju inflacije, je dolgoročna stabilnost cen negotova zaradi geopolitičnih tveganj. To postavlja vprašanje o trajnosti trenutnega trenda dezinflacije in vplivu na prihodnje odločitve centralnih bank.",
+      "analiza": "Ozadje: Inflacija je bila v zadnjih letih globalni problem, centralne banke pa so se borile z njo z dvigovanjem obrestnih mer, kar je vplivalo na gospodarstvo in finančne trge. Relevantnost: Nižje cene plina so pomagale znižati skupno inflacijo v ZDA, kar je pozitivno za potrošnike in lahko zmanjša pritisk na Federal Reserve, da nadaljuje z zaostrovanjem monetarne politike. Mehanizem vpliva: Cene energentov so ključna komponenta inflacijskih indeksov. Njihovo znižanje neposredno zmanjša stroške življenja in poslovanja. Vendar pa geopolitična tveganja, kot je konflikt na Bližnjem vzhodu, lahko hitro obrnejo ta trend, saj vplivajo na dobavne verige in cene surovin. Posledice: Morebitno nadaljnje zniževanje inflacije bi lahko podprlo delniške trge in zmanjšalo pritisk na obvezniške donosnosti. Vendar pa tveganje za ponoven dvig cen energentov ohranja negotovost glede prihodnjih odločitev centralnih bank, kar lahko povzroči nihanje na trgih. Valute so občutljive na inflacijske razlike med državami. Zgodovinski primer: Obdobja po naftnih šokih so pogosto pokazala, kako hitro se lahko inflacija ponovno pospeši, če se dobavne verige in geopolitične razmere poslabšajo. Kaj opazovati: Gibanje cen nafte in plina ter nadaljnje objave inflacijskih podatkov, ki bodo ključni za oceno prihodnje monetarne politike. Za slovenskega dolgoročnega vlagatelja: Inflacija vpliva na realno vrednost naložb in kupno moč, zato je razumevanje dejavnikov, ki jo poganjajo, ključno za zaščito premoženja in sprejemanje informiranih naložbenih odločitev.",
       "vpliv": [
-        "Potencialne obsežne gospodarske motnje",
-        "Spremembe na trgu dela",
-        "Rast delnic podjetij, ki razvijajo AI",
-        "Izzivi za tradicionalne industrije"
+        "Znižanje inflacije v ZDA (začasno)",
+        "Negotovost glede prihodnjih cen energentov",
+        "Vpliv na monetarno politiko centralnih bank"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-warn-the-world-must-prepare-now-for-ais-impact?traffic_source=rss",
-      "objavljeno": "2026-07-13T23:54:32.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-14T16:05:16.000Z"
+    },
+    {
+      "naslov": "Ukrajina z brezprimernim napadom z droni ciljala ruski ladijski promet",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Ukrajina je v zadnjem tednu izvedla 'brezprimerni' napad z droni na ruske ladje v Azovskem morju, in sicer s hitrostjo, ki presega tisto med iransko-iraškimi tankerji vojnami v 80. letih. Ti napadi so del širše strategije Kijeva za oslabitev ruske mornarice in motenje pomorskih poti. Povečana intenzivnost napadov kaže na eskalacijo konflikta na morju in ima potencialne posledice za regionalno pomorsko varnost in trgovino. To lahko vpliva na dobavne verige in cene zavarovanj.",
+      "analiza": "Ozadje: Vojna v Ukrajini traja že dlje časa, pri čemer se obe strani poskušata prilagoditi in najti nove načine za pridobivanje prednosti, vključno z napadi na pomorsko infrastrukturo. Relevantnost: Napadi na ladijski promet v Azovskem morju predstavljajo pomembno eskalacijo, saj neposredno vplivajo na ruske dobavne verige in vojaške zmogljivosti, hkrati pa povečujejo tveganje za civilno plovbo. Mehanizem vpliva: Motnje v pomorskem prometu lahko povzročijo višje stroške prevoza, podaljšane dobavne roke in povišane cene zavarovanja za ladje, kar vpliva na globalno trgovino, še posebej za blago, ki potuje skozi to regijo. To lahko tudi poveča geopolitično tveganje v širši črnomorski regiji. Posledice: Potencialno negativno za delnice ladjarskih podjetij, ki poslujejo v regiji, in za podjetja, ki so odvisna od dobavnih verig, ki potekajo skozi to območje. Lahko vpliva na cene nekaterih surovin, če se motijo dobavne poti. Obveznice in valute so posredno prizadete zaradi povečane negotovosti in tveganja. Zgodovinski primer: Konflikti, ki motijo ključne pomorske poti (npr. Sueški prekop, Hormuška ožina), so v preteklosti povzročili globalne gospodarske motnje in povišanje cen. Kaj opazovati: Nadaljnjo dinamiko pomorskega konflikta in morebitne širše posledice za mednarodno trgovino in varnost, vključno z odzivi mednarodne skupnosti. Za slovenskega dolgoročnega vlagatelja: Geopolitična tveganja v Evropi lahko vplivajo na stabilnost trgov in dobavnih verig, kar je pomembno upoštevati pri dolgoročnem načrtovanju naložb in diverzifikaciji portfelja.",
+      "vpliv": [
+        "Povečana geopolitična tveganja v vzhodni Evropi",
+        "Motnje v pomorskem prometu",
+        "Potencialni vpliv na globalne dobavne verige"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/6d5e952f-eb03-4277-a8b4-caae478a02d9",
+      "objavljeno": "2026-07-14T14:43:45.000Z"
+    },
+    {
+      "naslov": "Paramount kljub tožbi vztraja pri združitvi z Warner Bros. Discovery",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Paramount še vedno načrtuje zaključiti prevzem podjetja Warner Bros. Discovery do konca septembra, kljub izzivu tožbe s strani državnih tožilcev. To kaže na odločenost podjetja, da izpelje to pomembno združitev v medijski industriji. Tožba s strani državnih tožilcev predstavlja regulatorno oviro, saj dvomijo o konkurenčnosti, vendar Paramount ostaja optimističen glede izvedbe transakcije. Uspešna združitev bi ustvarila enega največjih medijskih konglomeratov.",
+      "analiza": "Ozadje: Konsolidacija v medijski industriji je pogost pojav, saj podjetja iščejo sinergije, večjo tržno moč in konkurenčno prednost proti pretočnim velikanom. Relevantnost: Združitev Paramounta in Warner Bros. Discovery bi ustvarila enega največjih medijskih konglomeratov, kar bi imelo pomembne posledice za konkurenco, ponudbo vsebin in potrošnike. Mehanizem vpliva: Tožbe s strani regulatorjev lahko upočasnijo ali celo preprečijo združitve, kar vpliva na cene delnic vpletenih podjetij zaradi negotovosti. Če se združitev izvede, lahko to povzroči spremembe v tržnem deležu, ponudbi vsebin in cenah za potrošnike. Posledice: Negotovost glede združitve lahko povzroči nihanje delnic obeh podjetij. Uspešna združitev bi lahko imela pozitivne dolgoročne učinke na dobičkonosnost in tržno moč, medtem ko bi neuspeh povzročil razočaranje in morebiten padec delnic. Širše gledano, to vpliva na konkurenčno pokrajino v medijskem sektorju. Zgodovinski primer: Številne velike združitve v medijih (npr. Disney-Fox, AT&T-Time Warner) so se soočale z regulatornimi izzivi in so imele daljnosežne posledice za industrijo. Kaj opazovati: Odločitev sodišča glede tožbe in napredek pri zaključku združitve, saj bo to določilo prihodnjo strukturo podjetij. Za slovenskega dolgoročnega vlagatelja: Spremljanje M&A aktivnosti v sektorjih, v katere vlagamo, je pomembno, saj lahko združitve bistveno spremenijo konkurenčno okolje, vrednost podjetij in dolgoročne perspektive naložb.",
+      "vpliv": [
+        "Nihanje delnic Paramounta in WBD",
+        "Regulatorni izzivi za M&A",
+        "Konsolidacija v medijski industriji"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/07/14/paramount-wbd-merger-lawsuit.html",
+      "objavljeno": "2026-07-14T15:36:24.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-14T06:23:57.180Z",
+    "posodobljenoOb": "2026-07-14T16:46:39.178Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7515.34,
-        "sprememba_pct": -0.79
+        "vrednost": 7538.11,
+        "sprememba_pct": 0.3
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29264.104,
-        "sprememba_pct": -1.88
+        "vrednost": 29595.352,
+        "sprememba_pct": 1.13
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25114.25,
-        "sprememba_pct": 0.19
+        "vrednost": 25147.03,
+        "sprememba_pct": 0.13
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 67663.48,
-        "sprememba_pct": 0.63
+        "vrednost": 67743.5,
+        "sprememba_pct": 0.74
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4037.8,
-        "sprememba_pct": 0.8,
+        "vrednost": 4067.6,
+        "sprememba_pct": 1.55,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 79.52,
-        "sprememba_pct": 1.77,
+        "vrednost": 79.08,
+        "sprememba_pct": 1.2,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 84.68,
-        "sprememba_pct": 1.66,
+        "vrednost": 84.8,
+        "sprememba_pct": 1.8,
         "enota": "USD/sod"
       }
     ],
@@ -147,16 +158,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1391,
-        "sprememba_pct": 0.04
+        "vrednost": 1.1435,
+        "sprememba_pct": 0.42
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.609,
-        "sprememba_pct": 0.88,
+        "vrednost": 4.585,
+        "sprememba_pct": -0.52,
         "enota": "%"
       }
     ],
@@ -164,16 +175,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 62608.85,
-        "sprememba_pct": 0.56,
+        "vrednost": 64735.31,
+        "sprememba_pct": 3.98,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 17.16,
-      "sprememba_pct": 14.17
+      "vrednost": 16.65,
+      "sprememba_pct": -2.97
     }
   }
 }
