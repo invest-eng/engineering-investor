@@ -1,111 +1,128 @@
 {
-  "generiranoOb": "2026-07-14T16:59:24.440Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-07-15T06:28:28.802Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-07-14",
-  "povzetek": "Evropski trgi so danes zaključili z zmerno rastjo, medtem ko so ameriški kazali močnejšo začetno smer. Indeks DAX je dan zaključil pri 25147 točkah z rastjo 0.13 %, Nikkei 225 pa je pridobil 0.74 % in dosegel 67744 točk. Na ameriških trgih, ki so odprti že dve uri, je S&P 500 pri 7542 točkah z rastjo 0.36 %, tehnološki Nasdaq 100 pa je poskočil za 1.21 % na 29617 točk, kljub močnemu padcu delnic IBM-a. Cene nafte so se zvišale, Brent nafta je pridobila 2.08 % in se ustalila pri 85.03 USD na sod, kar odraža naraščajoče geopolitične napetosti na Bližnjem vzhodu. Zlato je prav tako raslo za 1.48 % na 4065.00 USD/oz, kar kaže na iskanje varnih zatočišč. Donosnost 10-letne ameriške državne obveznice je padla za 0.56 % na 4.58 %, medtem ko je Bitcoin zabeležil impresivno rast 3.91 % na 64691 USD. Vlagatelji bodo ta teden pozorno spremljali nadaljnje objave o inflaciji in morebitne odzive centralnih bank.",
+  "datum": "2026-07-15",
+  "povzetek": "Jutranji pregled finančnih trgov 15. julija 2026 kaže mešano sliko, kjer so ameriški in azijski trgi zaključili v pozitivnem območju, medtem ko Evropa pričakuje odprtje. Indeks S&P 500 je zrasel za 0,38 % na 7544 točk, tehnološki Nasdaq 100 pa je bil še močnejši z rastjo 1,10 % na 29586 točk. Azijski Nikkei 225 je sledil trendu z rastjo 1,41 % na 68701 točk, medtem ko je nemški DAX zaključil z minimalno rastjo 0,13 % pri 25147 točkah. Cene nafte so se zvišale, WTI nafta za 0,55 % na 79,78 USD/sod in Brent nafta za 0,83 % na 85,43 USD/sod, kar odraža naraščajoče geopolitične napetosti med ZDA in Iranom, ki grozijo z novim dvigom cen goriva. Medtem ko podjetje ASML napoveduje močno rast zaradi povpraševanja po čipih za umetno inteligenco, kar poganja optimizem v tehnološkem sektorju, je kitajsko gospodarstvo zabeležilo eno najnižjih stopenj rasti v desetletjih, kar vzbuja zaskrbljenost glede globalne gospodarske stabilnosti. Vlagatelji bodo ta teden pozorno spremljali prihajajočo objavo podatkov o inflaciji v ZDA, ki bo ključna za oceno prihodnjih potez centralnih bank.",
   "novice": [
     {
-      "naslov": "Delnice IBM-a strmoglavile za 25 % zaradi preusmeritve strank k umetni inteligenci",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Delnice IBM-a so danes zabeležile izjemen padec, saj so strmoglavile za 25 %. To se je zgodilo po predhodni objavi rezultatov, ki so bili precej pod pričakovanji analitikov glede dobička in prihodkov. Glavni izvršni direktor Arvind Krishna je priznal, da je podjetje \"opešalo\", saj so se stranke hitro preusmerile v nakup strežnikov in pomnilniških rešitev, povezanih z umetno inteligenco. Ta premik v porabi strank je močno vplival na poslovanje IBM-a, kar je povzročilo najslabši dan za delnico v skoraj 40 letih. Vlagatelji so zaskrbljeni zaradi sposobnosti podjetja, da se hitro prilagodi novim tržnim trendom.",
-      "analiza": "Padec delnic IBM-a za 25 % v enem dnevu poudarja izzive, s katerimi se soočajo uveljavljena tehnološka podjetja v obdobju hitrih inovacij, še posebej na področju umetne inteligence. Ozadje dogodka je hitra rast povpraševanja po rešitvah AI, ki zahtevajo specifično strojno opremo in infrastrukturo. IBM, ki je tradicionalno močan na področju podjetniških IT rešitev in storitev, očitno ni uspel dovolj hitro kapitalizirati na tem valu. To je relevantno, ker kaže na strukturne spremembe v porabi podjetij, kjer se proračuni preusmerjajo iz tradicionalnih IT naložb v visoko zmogljive računalniške sisteme za AI. Mehanizem vpliva na finančne trge je neposreden: investitorji kaznujejo podjetja, ki ne sledijo ključnim tehnološkim trendom, kar povzroča odlive kapitala. Posledice so vidne v padcu delnic IBM-a, kar lahko sproži previdnost tudi pri drugih \"starih\" tehnoloških velikanih, ki se niso dovolj hitro preusmerili. Kljub temu, da je Nasdaq 100 danes zrasel za 1.21 %, padec IBM-a kaže na selektivnost trga. Za slovenskega dolgoročnega vlagatelja to pomeni, da je ključnega pomena spremljati, kako se podjetja prilagajajo na prelomne tehnologije, kot je AI, saj lahko to bistveno vpliva na njihovo dolgoročno vrednost in konkurenčnost.",
-      "vpliv": [
-        "Delnice IBM-a padle za 25 %",
-        "Preusmeritev investicij v AI infrastrukturo",
-        "Povečan pritisk na tradicionalna IT podjetja"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
-      "objavljeno": "2026-07-14T16:27:28.000Z"
-    },
-    {
-      "naslov": "Cene nafte in plina poskočile zaradi stopnjevanja napetosti na Bližnjem vzhodu",
-      "sektor": "Energetika & Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Cene nafte so danes dosegle štiritedenske vrhunce, saj so se geopolitične napetosti na Bližnjem vzhodu ponovno zaostrile. Brent nafta je poskočila za 2.08 % na 85.03 USD na sod, medtem ko je vir The Guardian poročal o skoku za 4.55 % na 87.08 USD na sod, kar je najvišja cena po 12. juniju. To se je zgodilo po novih napadih med ZDA in Iranom ter ponovni pomorski blokadi iranskega ladijskega prometa. Predhodno sta ZDA in Iran 17. junija podpisala memorandum o razumevanju za prekinitev spopadov in se pogajala o trajnem mirovnem sporazumu, vendar se zdi, da je prekinitev ognja krhka. Poročila opozarjajo, da bi se cene nafte lahko gibale med 85 in 90 USD, če se motnje v dobavi nadaljujejo.",
-      "analiza": "Ponovno stopnjevanje napetosti na Bližnjem vzhodu, zlasti med ZDA in Iranom, ima takojšen in pomemben vpliv na globalne energetske trge. Ozadje je krhka prekinitev ognja, ki je bila dogovorjena 17. junija, in ponovna eskalacija, ki vključuje napade in pomorsko blokado iranskega ladijskega prometa v strateško pomembni Hormuški ožini. To je relevantno, ker Hormuška ožina predstavlja ključno tranzitno pot za velik del svetovne nafte, zato vsaka motnja tam neposredno vpliva na globalno ponudbo in cene. Mehanizem vpliva je preprost: povečana negotovost glede dobave nafte povzroči rast cen, saj trgovci in države kopičijo zaloge ali se pripravljajo na morebitne motnje. Posledice so vidne v rasti cen Brent nafte za 2.08 % na 85.03 USD/sod (po našem snapshotu) in WTI nafte za 1.56 % na 79.36 USD/sod. Rast cen nafte lahko povzroči višjo inflacijo, kar bi lahko vplivalo na politiko centralnih bank in donosnost obveznic. Zlato, ki velja za varno zatočišče, je prav tako zraslo za 1.48 % na 4065.00 USD/oz, kar kaže na povečano negotovost na trgu. Za slovenskega dolgoročnega vlagatelja to pomeni, da so geopolitična tveganja še vedno pomemben dejavnik, ki lahko vpliva na cene surovin in s tem na inflacijo ter donosnost naložb v različne sektorje.",
-      "vpliv": [
-        "Cene Brent nafte zrasle za 2.08 % na 85.03 USD/sod",
-        "Cene WTI nafte zrasle za 1.56 % na 79.36 USD/sod",
-        "Rast cen zlata za 1.48 %",
-        "Povečana geopolitična tveganja na Bližnjem vzhodu",
-        "Potencial za višjo inflacijo"
-      ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/live/2026/jul/14/oil-prices-rise-2-middle-east-strikes-chinas-exports-surge-ai-boom-live-updates",
-      "objavljeno": "2026-07-14T14:07:04.000Z"
-    },
-    {
-      "naslov": "Cene plina znižujejo inflacijo v ZDA, a obstaja zaskrbljenost glede prihodnosti",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Stopnja inflacije v ZDA je v juniju padla, predvsem zaradi nižjih cen plina. Kljub temu pa ostaja zaskrbljenost, da bi se lahko cene ponovno zvišale, predvsem zaradi obnovljenega konflikta na Bližnjem vzhodu. Padec inflacije je bil pozitiven signal, ki bi lahko centralni banki Federal Reserve omogočil več manevrskega prostora pri morebitnih odločitvah o obrestnih merah. Vendar pa so trenutne rasti cen nafte, kot je skok Brent nafte za 2.08 % na 85.03 USD/sod, že pokazatelj, da bi se trend lahko obrnil. Vlagatelji so pozorni na to, ali bo znižanje inflacije trajalo ali pa bo kratkotrajno.",
-      "analiza": "Novica o padcu inflacije v ZDA v juniju, ki jo poganjajo nižje cene plina, je pomemben makroekonomski podatek. Ozadje je prizadevanje centralnih bank po vsem svetu za obvladovanje inflacije, ki je v preteklih letih dosegala visoke ravni. Padec cen energentov je ključen dejavnik pri zniževanju celotne inflacije. To je relevantno, ker nižja inflacija lahko zmanjša pritisk na Federal Reserve, da nadaljuje z zaostrovanjem monetarne politike, kar bi lahko pozitivno vplivalo na gospodarstvo in delniške trge. Mehanizem vpliva je, da nižje inflacijske številke lahko vodijo do pričakovanj o stabilnejših obrestnih merah ali celo morebitnem znižanju v prihodnosti, kar običajno podpira rast delnic in zmanjšuje donose obveznic. Donosnost 10-letne ameriške državne obveznice je danes padla za 0.56 % na 4.58 %, kar lahko delno odraža ta pričakovanja. Vendar pa obstaja pomemben \"ampak\": obnovljeni konflikti na Bližnjem vzhodu že povzročajo rast cen nafte (Brent +2.08 %), kar bi lahko ponovno spodbudilo inflacijske pritiske. Za slovenskega dolgoročnega vlagatelja to pomeni, da je inflacijsko okolje še vedno nestabilno in da je treba biti pozoren na globalne dogodke, ki lahko vplivajo na cene energentov in s tem na kupno moč ter donosnost naložb.",
-      "vpliv": [
-        "Padec inflacije v ZDA v juniju",
-        "Potencial za stabilnejše obrestne mere",
-        "Rast cen nafte ogroža nadaljnje zniževanje inflacije",
-        "Donosnost 10-letne ameriške obveznice padla za 0.56 %"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-07-14T16:05:16.000Z"
-    },
-    {
-      "naslov": "Ukrajina z brezpilotnimi letali napada ruske ladje v Azovskem morju",
+      "naslov": "Eskalacija konflikta med ZDA in Iranom: napadi in grožnje z bombardiranjem",
       "sektor": "Geopolitika",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Ukrajina je v zadnjem tednu izvedla \"brezprimerno\" serijo napadov z brezpilotnimi letali na ruske ladje v Azovskem morju. Kijev je napadel plovila s hitrostjo, ki presega tisto med iransko-iraškimi tankerjevskimi vojnami v 80. letih prejšnjega stoletja. Ti napadi predstavljajo pomembno eskalacijo v konfliktu in kažejo na ukrajinsko sposobnost, da doseže ruske pomorske cilje globoko v Azovskem morju. Dogajanje ima lahko resne posledice za ruski ladijski promet in logistiko, kar vpliva na regionalno stabilnost in globalne dobavne verige.",
-      "analiza": "Napadi Ukrajine na ruske ladje v Azovskem morju z brezpilotnimi letali predstavljajo pomembno eskalacijo v dolgotrajnem konfliktu. Ozadje je iskanje asimetričnih načinov, kako Ukrajina lahko pritisne na Rusijo, zlasti na njene pomorske in logistične zmogljivosti. Azovsko morje je ključno za ruski izvoz in vojaško oskrbo. To je relevantno, ker takšni napadi neposredno vplivajo na varnost pomorskih poti in lahko povzročijo motnje v dobavnih verigah, kar ima širše ekonomske posledice. Mehanizem vpliva je povečanje tveganja za pomorski promet v regiji, kar lahko dvigne stroške zavarovanja in prevoza. Posledice so predvsem geopolitične, saj kažejo na nadaljevanje in stopnjevanje konflikta, kar prispeva k splošni negotovosti na evropskih trgih. Čeprav neposrednega vpliva na globalne indekse danes ni bilo, dolgoročno takšni dogodki lahko vplivajo na cene surovin (npr. žita, kovine), ki se prevažajo po Črnem in Azovskem morju, ter na obrambne proračune evropskih držav. Za slovenskega dolgoročnega vlagatelja je pomembno zavedanje o trajajočih geopolitičnih tveganjih v Evropi, ki lahko vplivajo na stabilnost trgov in specifične industrije, kot so ladijski promet in obramba.",
+      "intenziteta": 3,
+      "povzetek": "Ameriške sile so izvedle nove napade na iranska območja, medtem ko Iranska revolucionarna garda (IRGC) trdi, da je povzročila škodo na ameriških bazah v Zalivu. Ameriški predsednik Donald Trump je izjavil, da se bodo napadi nadaljevali, dokler ne bo dosežen dogovor, in opozoril, da so iranski mostovi in elektrarne možne tarče. Te grožnje so bile izrečene v času, ko sta državi že četrti dan zapored izmenjevali ogenj, ZDA pa so ponovno vzpostavile blokado iranskih pristanišč. Dogajanje kaže na hitro stopnjevanje konflikta, ki ima potencial za širše regionalne in globalne posledice.",
+      "analiza": "Konflikt med ZDA in Iranom se je v zadnjih dneh močno zaostril, kar predstavlja ključno geopolitično tveganje za globalne finančne trge. Ozadje dogajanja je dolgotrajna napetost med državama, ki se je ponovno razplamtela z ameriškimi napadi in iranskimi povračilnimi ukrepi. Grožnje predsednika Trumpa z bombardiranjem civilne infrastrukture, kot so mostovi in elektrarne, predstavljajo resno eskalacijo, ki bi lahko vodila v obsežnejši konflikt. Mehanizem vpliva na finančne trge je večplasten: neposredno vpliva na cene nafte in plina zaradi strahu pred motnjami v dobavi skozi Hormuško ožino, ki je ključna pomorska pot za transport nafte. Posledično se povečujejo premije za tveganje, kar se kaže v rasti cen nafte Brent na 85,43 USD/sod (+0,83 %) in WTI na 79,78 USD/sod (+0,55 %). Hkrati se povečuje povpraševanje po varnih zatočiščih, kot sta zlato in ameriške državne obveznice, čeprav je zlato danes zabeležilo padec za 0,91 % na 4032,60 USD/oz, kar kaže na kompleksnost tržnih odzivov. Dolgoročni vlagatelji morajo biti pozorni na morebitno nadaljnje širjenje konflikta, ki bi lahko povzročilo globalno gospodarsko nestabilnost in inflacijske pritiske.",
       "vpliv": [
-        "Eskalacija konflikta v Ukrajini",
-        "Povečana tveganja za pomorski promet v Azovskem morju",
-        "Potencialne motnje v dobavnih verigah",
-        "Vpliv na cene surovin in obrambne proračune"
+        "Rast cen nafte (Brent na 85,43 USD/sod)",
+        "Povečana geopolitična tveganja",
+        "Možnost motenj v dobavi energentov",
+        "Povečana volatilnost na trgih"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/6d5e952f-eb03-4277-a8b4-caae478a02d9",
-      "objavljeno": "2026-07-14T14:43:45.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss",
+      "objavljeno": "2026-07-15T00:00:15.000Z"
     },
     {
-      "naslov": "Ameriške socialne dajatve se lahko zvišajo za 74 dolarjev mesečno v letu 2027",
-      "sektor": "Potrošniki & Makro",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Prejemniki socialnih dajatev v ZDA bi lahko v letu 2027 prejeli povišanje v višini 74 dolarjev na mesec. To povišanje je posledica prilagoditve življenjskih stroškov (COLA), ki bi lahko znašala 3.8 %. Novica prihaja v času, ko inflacija v ZDA kaže znake ohlajanja, kar omogoča takšne prilagoditve. Povišanje bi izboljšalo kupno moč upokojencev in drugih prejemnikov socialnih dajatev, kar bi lahko pozitivno vplivalo na potrošnjo v gospodarstvu.",
-      "analiza": "Potencialno povišanje socialnih dajatev v ZDA za 74 dolarjev na mesec v letu 2027, s prilagoditvijo življenjskih stroškov (COLA) v višini 3.8 %, je pomemben podatek za ameriške potrošnike in širše gospodarstvo. Ozadje je mehanizem prilagoditve socialnih dajatev inflaciji, ki zagotavlja, da kupna moč prejemnikov ne erodira. To je relevantno, ker povišanje dajatev neposredno vpliva na razpoložljivi dohodek velikega dela prebivalstva, predvsem upokojencev, kar lahko spodbudi potrošnjo. Mehanizem vpliva na finančne trge je posreden: povečana potrošnja lahko podpira rast podjetij v sektorjih, kot so maloprodaja in storitve, kar se odraža v boljših poslovnih rezultatih in posledično v rasti delnic. Kljub temu, da inflacija kaže znake ohlajanja (kot je bilo omenjeno v novici o cenah plina), je napovedana prilagoditev COLA še vedno precejšnja in kaže na vztrajnost določenih inflacijskih pritiskov v preteklosti. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da stabilna in naraščajoča potrošnja v velikih gospodarstvih, kot so ZDA, podpira globalno gospodarsko rast, vendar je treba biti pozoren tudi na dolgoročno vzdržnost takšnih socialnih programov in njihov vpliv na javne finance.",
+      "naslov": "Kitajsko gospodarstvo beleži eno najnižjih stopenj rasti v zadnjih desetletjih",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Kitajsko gospodarstvo je v drugem četrtletju zabeležilo eno najnižjih stopenj rasti v zadnjih desetletjih, pri čemer je številka BDP padla pod letni ciljni razpon. To kaže na naraščajoče gospodarske pritiske v državi, ki se sooča s šibkim domačim povpraševanjem. Dodatno breme predstavljajo vplivi vojne v Iranu na cene nafte, ki so zasenčili sicer močan izvoz države. Poročilo poudarja izzive, s katerimi se sooča Kitajska pri ohranjanju visoke gospodarske rasti.",
+      "analiza": "Upad gospodarske rasti Kitajske na eno najnižjih ravni v desetletjih je pomemben signal za globalno gospodarstvo, saj je Kitajska drugi največji ekonomski akter na svetu. Ozadje te upočasnitve vključuje strukturne izzive, kot so problemi v nepremičninskem sektorju, visoka zadolženost lokalnih vlad in demografski pritiski. Trenutno je to še posebej relevantno, saj šibko domače povpraševanje in vpliv zunanjih dejavnikov, kot so visoke cene nafte zaradi konflikta v Iranu, dodatno bremenijo rast. Mehanizem vpliva na finančne trge je, da upočasnjena rast Kitajske zmanjšuje globalno povpraševanje po surovinah in industrijskih izdelkih, kar lahko vpliva na podjetja, ki so močno izpostavljena kitajskemu trgu. To lahko vodi do padca cen surovin (čeprav so nafta danes zrasla zaradi geopolitike) in pritiska na dobičkonosnost globalnih podjetij. Za delnice to pomeni povečano negotovost, še posebej za tiste, ki so odvisne od kitajskega izvoza ali uvoza. Dolgoročni vlagatelji morajo spremljati, kako se bo kitajska vlada odzvala s fiskalnimi in monetarnimi spodbudami, ter kakšen bo vpliv na globalne dobavne verige.",
       "vpliv": [
-        "Povišanje socialnih dajatev za 74 USD/mesec v 2027",
-        "Prilagoditev življenjskih stroškov za 3.8 %",
-        "Potencialno povečanje potrošnje",
-        "Podpora kupni moči upokojencev"
+        "Zmanjšano globalno povpraševanje",
+        "Pritiski na globalna podjetja",
+        "Negotovost na trgih surovin",
+        "Možna deflacija v globalni ekonomiji"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab",
+      "objavljeno": "2026-07-15T05:53:35.000Z"
+    },
+    {
+      "naslov": "ASML dviguje napovedi zaradi razcveta umetne inteligence in povpraševanja po čipih",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Podjetje ASML, ključni dobavitelj opreme za izdelavo čipov, je dvignilo svoje napovedi, saj razcvet umetne inteligence (AI) poganja močno povpraševanje po čipih. Podjetje namerava povečati proizvodne zmogljivosti svojih najnaprednejših litografskih strojev, kar kaže na optimistične obete za celotno industrijo polprevodnikov. To poudarja, da je sektor umetne inteligence še naprej močan gonilnik rasti v tehnološkem svetu.",
+      "analiza": "Povišanje napovedi s strani ASML, ki je eden najpomembnejših akterjev v industriji polprevodnikov, je izjemno pomembno za tehnološki sektor in širše trge. ASML je praktično monopolni dobavitelj naprednih litografskih strojev, ki so nujni za proizvodnjo najsodobnejših čipov. Ozadje te rasti je eksponentno povečanje povpraševanja po čipih, ki poganjajo razvoj in delovanje umetne inteligence, od podatkovnih centrov do končnih naprav. To je ključno za razumevanje trenutnih trendov, saj AI ostaja eden glavnih investicijskih tem. Mehanizem vpliva je direkten: povečano povpraševanje po ASML-ovih strojih pomeni, da se celotna veriga dobave polprevodnikov, vključno s proizvajalci čipov kot so TSMC, Samsung in Intel, pripravlja na povečano proizvodnjo. To se odraža v pozitivnem razpoloženju na delniških trgih, še posebej v tehnološkem sektorju, kjer je Nasdaq 100 danes zrasel za 1,10 % na 29586 točk. Za dolgoročnega slovenskega vlagatelja to pomeni, da sektor umetne inteligence in polprevodnikov ostaja privlačen, vendar je pomembno upoštevati visoke vrednotenja in morebitno cikličnost industrije.",
+      "vpliv": [
+        "Rast delnic v tehnološkem sektorju",
+        "Povečano povpraševanje po polprevodnikih",
+        "Optimizem glede razvoja AI",
+        "Povečanje proizvodnih zmogljivosti"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/731ec5ef-e9e1-40f5-b0bd-09e71787a938",
+      "objavljeno": "2026-07-15T05:54:42.000Z"
+    },
+    {
+      "naslov": "Grožnja ponovnega dviga cen goriva na 4 dolarje zaradi napetosti med ZDA in Iranom",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Američani so v zadnjih tednih občutili olajšanje pri cenah goriva, kar je pomagalo upočasniti inflacijo, vendar se to morda ne bo nadaljevalo. Napetosti med ZDA in Iranom, ki se borita za nadzor nad Hormuško ožino, grozijo z novim dvigom cen goriva, morda celo na 4 dolarje za galono. Poročilo poudarja, da se je prekinitev padca cen na črpalkah morda končala, kar bi lahko imelo pomembne posledice za potrošnike in širšo ekonomijo.",
+      "analiza": "Grožnja ponovnega dviga cen goriva na 4 dolarje za galono je neposredna posledica stopnjevanja konflikta med ZDA in Iranom, ki vpliva na globalne cene nafte. Hormuška ožina je ključna točka za svetovni transport nafte, in morebitne motnje v tej regiji imajo takojšen in dramatičen vpliv na cene. Ozadje je, da so se cene nafte v zadnjih tednih umirile, kar je prispevalo k upočasnitvi inflacije v ZDA, vendar je sedanja geopolitična situacija to ravnotežje porušila. Mehanizem vpliva je preprost: strah pred motnjami v dobavi nafte dviguje cene, kar se že kaže v rasti cen nafte Brent na 85,43 USD/sod in WTI na 79,78 USD/sod. Višje cene goriva neposredno vplivajo na kupno moč potrošnikov, povečujejo stroške transporta za podjetja in lahko ponovno pospešijo inflacijo, kar bi centralne banke prisililo k morebitnemu zaostrovanju monetarne politike. Za delnice to pomeni pritisk na podjetja z visokimi transportnimi stroški in na diskrecijsko potrošnjo. Dolgoročni vlagatelji morajo biti pozorni na vpliv cen energentov na inflacijo in odzive centralnih bank, saj to lahko vpliva na obrestne mere in vrednotenja vseh razredov sredstev.",
+      "vpliv": [
+        "Povečani inflacijski pritiski",
+        "Zmanjšana kupna moč potrošnikov",
+        "Višji stroški za podjetja",
+        "Možna zaostritev monetarne politike"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-by-74-a-month-next-year-58877142?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-14T15:20:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-15T00:28:00.000Z"
+    },
+    {
+      "naslov": "Kitajski proizvajalec čipov CXMT išče 10 milijard dolarjev v največji IPO od leta 2010",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Kitajska skupina CXMT, proizvajalec čipov, si prizadeva zbrati 10 milijard dolarjev v največji javni ponudbi delnic (IPO) na Kitajskem od leta 2010. Podjetje izkorišča razcvet povpraševanja po pomnilniških čipih za umetno inteligenco, kar kaže na ambicije Kitajske, da zmanjša odvisnost od tuje tehnologije. Ta poteza poudarja strateški pomen industrije polprevodnikov za Kitajsko kljub širšim gospodarskim izzivom.",
+      "analiza": "Javna ponudba delnic (IPO) kitajskega proizvajalca čipov CXMT v višini 10 milijard dolarjev je izjemno pomembna, saj gre za največjo IPO na Kitajskem v več kot desetletju. Ozadje te poteze je strateška usmeritev Kitajske k samozadostnosti v proizvodnji polprevodnikov, še posebej v luči geopolitičnih napetosti in omejitev izvoza napredne tehnologije s strani ZDA. Trenutno je to relevantno, saj podjetje kapitalizira na globalnem razcvetu povpraševanja po pomnilniških čipih, ki so ključni za razvoj in delovanje umetne inteligence. Mehanizem vpliva na finančne trge je, da takšna IPO kaže na močno domačo kapitalsko aktivnost in zaupanje v kitajski tehnološki sektor, kljub širši upočasnitvi kitajskega gospodarstva. Za delnice to pomeni, da se vlagatelji še vedno osredotočajo na specifične sektorje z visoko rastjo, kot je AI in polprevodniki. Uspešna IPO bi lahko spodbudila tudi druge kitajske tehnološke družbe k podobnim potezam. Za slovenskega dolgoročnega vlagatelja to poudarja pomen diverzifikacije in iskanja priložnosti tudi na trgih v razvoju, vendar z zavedanjem o povezanih geopolitičnih in regulativnih tveganjih.",
+      "vpliv": [
+        "Velika kapitalska injekcija v kitajski tehnološki sektor",
+        "Poudarek na samozadostnosti Kitajske v čipih",
+        "Rast povpraševanja po AI pomnilniških čipih",
+        "Potencial za druge kitajske IPO"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/fcfbcbc0-181f-49ce-bda8-c4133e09695c",
+      "objavljeno": "2026-07-15T04:55:25.000Z"
+    },
+    {
+      "naslov": "Indijsko-britanski trgovinski sporazum: vpliv na potrošnike in gospodarstvi",
+      "sektor": "Makro & Centralne banke",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Prosti trgovinski sporazum med Indijo in Združenim kraljestvom, petim in šestim največjim gospodarstvom na svetu, je stopil v veljavo. Sporazum naj bi prinesel koristi potrošnikom v obeh državah, saj bo znižal carine na širok spekter izdelkov, od brisač z Wimbledona do škotskega viskija. Cilj je okrepiti trgovinske vezi in spodbuditi gospodarsko rast obeh partneric.",
+      "analiza": "Vstop v veljavo prostotrgovinskega sporazuma med Indijo in Združenim kraljestvom je pomemben dogodek v mednarodni trgovini, ki lahko ima dolgoročne pozitivne učinke. Ozadje tega sporazuma je prizadevanje Združenega kraljestva po Brexitu za sklepanje novih trgovinskih partnerstev po vsem svetu, Indija pa išče dostop do novih trgov. Trenutno je to relevantno, saj sporazum med petim in šestim največjim gospodarstvom na svetu odpira nove priložnosti za podjetja in potrošnike. Mehanizem vpliva je znižanje carinskih ovir, kar zmanjšuje stroške uvoza in izvoza, s tem pa potencialno znižuje cene za potrošnike in povečuje konkurenčnost podjetij. To lahko pospeši gospodarsko rast v obeh državah. Za delnice to pomeni potencialno rast za podjetja, ki poslujejo med UK in Indijo, še posebej v sektorjih, ki so bili prej obremenjeni z visokimi carinami (npr. avtomobilska industrija, tekstil, alkoholne pijače). Za valute bi dolgoročno lahko pomenilo stabilizacijo in krepitev GBP in INR zaradi povečanega trgovinskega toka. Dolgoročni vlagatelji naj spremljajo, kako se bo sporazum odražal v konkretnih trgovinskih številkah in ali bo spodbudil podobne sporazume med drugimi državami.",
+      "vpliv": [
+        "Znižanje carinskih ovir",
+        "Spodbujanje gospodarske rasti",
+        "Potencialno nižje cene za potrošnike",
+        "Krepitev trgovinskih vezi med UK in Indijo"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-14T22:17:43.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-14T16:58:17.991Z",
+    "posodobljenoOb": "2026-07-15T06:27:25.486Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7542.13,
-        "sprememba_pct": 0.36
+        "vrednost": 7543.59,
+        "sprememba_pct": 0.38
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29616.816,
-        "sprememba_pct": 1.21
+        "vrednost": 29586.287,
+        "sprememba_pct": 1.1
       },
       {
         "simbol": "^GDAXI",
@@ -116,30 +133,30 @@
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 67743.5,
-        "sprememba_pct": 0.74
+        "vrednost": 68700.64,
+        "sprememba_pct": 1.41
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4065,
-        "sprememba_pct": 1.48,
+        "vrednost": 4032.6,
+        "sprememba_pct": -0.91,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 79.36,
-        "sprememba_pct": 1.56,
+        "vrednost": 79.78,
+        "sprememba_pct": 0.55,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 85.03,
-        "sprememba_pct": 2.08,
+        "vrednost": 85.43,
+        "sprememba_pct": 0.83,
         "enota": "USD/sod"
       }
     ],
@@ -147,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1435,
-        "sprememba_pct": 0.42
+        "vrednost": 1.1447,
+        "sprememba_pct": 0.19
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.583,
-        "sprememba_pct": -0.56,
+        "vrednost": 4.585,
+        "sprememba_pct": -0.52,
         "enota": "%"
       }
     ],
@@ -164,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 64690.72,
-        "sprememba_pct": 3.91,
+        "vrednost": 64940.57,
+        "sprememba_pct": -0.05,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16.47,
-      "sprememba_pct": -4.02
+      "vrednost": 16.5,
+      "sprememba_pct": -3.85
     }
   }
 }
