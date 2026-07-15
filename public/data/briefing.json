@@ -1,162 +1,145 @@
 {
-  "generiranoOb": "2026-07-15T06:28:28.802Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-07-15T16:52:48.933Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-07-15",
-  "povzetek": "Jutranji pregled finančnih trgov 15. julija 2026 kaže mešano sliko, kjer so ameriški in azijski trgi zaključili v pozitivnem območju, medtem ko Evropa pričakuje odprtje. Indeks S&P 500 je zrasel za 0,38 % na 7544 točk, tehnološki Nasdaq 100 pa je bil še močnejši z rastjo 1,10 % na 29586 točk. Azijski Nikkei 225 je sledil trendu z rastjo 1,41 % na 68701 točk, medtem ko je nemški DAX zaključil z minimalno rastjo 0,13 % pri 25147 točkah. Cene nafte so se zvišale, WTI nafta za 0,55 % na 79,78 USD/sod in Brent nafta za 0,83 % na 85,43 USD/sod, kar odraža naraščajoče geopolitične napetosti med ZDA in Iranom, ki grozijo z novim dvigom cen goriva. Medtem ko podjetje ASML napoveduje močno rast zaradi povpraševanja po čipih za umetno inteligenco, kar poganja optimizem v tehnološkem sektorju, je kitajsko gospodarstvo zabeležilo eno najnižjih stopenj rasti v desetletjih, kar vzbuja zaskrbljenost glede globalne gospodarske stabilnosti. Vlagatelji bodo ta teden pozorno spremljali prihajajočo objavo podatkov o inflaciji v ZDA, ki bo ključna za oceno prihodnjih potez centralnih bank.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, medtem ko so ameriški indeksi v zgodnjem popoldanskem trgovanju kazali mešano sliko. Nemški DAX je dan zaključil pri 25000 točkah z -0.59 % padcem, medtem ko je S&P 500 pri 7541 točkah beležil minimalen padec za -0.03 %, tehnološki Nasdaq 100 pa je bil v rdečem za -0.98 % pri 29298 točkah. Na surovinskih trgih se je cena zlata znižala za -0.81 % na 4036.90 USD/oz, medtem ko je WTI nafta minimalno pridobila na 79.38 USD/sod (+0.05 %), Brent nafta pa je padla za -0.13 % na 84.62 USD/sod. Devizni par EUR/USD je pridobil 0.16 % in se giblje pri 1.1443. Med ključnimi novicami izstopa poročilo o potencialnem trojnem povečanju dobičkov ameriških rafinerij zaradi vojne v Iranu, imenovanje novega britanskega finančnega ministra ter poročila o zanimanju za prevzem PayPala, kar je povzročilo rast delnic podjetja. Vlagatelji bodo ta teden pozorno spremljali prihajajočo objavo podatkov o inflaciji v ZDA, ki bo ključna za oceno prihodnjih potez centralne banke.",
   "novice": [
     {
-      "naslov": "Eskalacija konflikta med ZDA in Iranom: napadi in grožnje z bombardiranjem",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Ameriške sile so izvedle nove napade na iranska območja, medtem ko Iranska revolucionarna garda (IRGC) trdi, da je povzročila škodo na ameriških bazah v Zalivu. Ameriški predsednik Donald Trump je izjavil, da se bodo napadi nadaljevali, dokler ne bo dosežen dogovor, in opozoril, da so iranski mostovi in elektrarne možne tarče. Te grožnje so bile izrečene v času, ko sta državi že četrti dan zapored izmenjevali ogenj, ZDA pa so ponovno vzpostavile blokado iranskih pristanišč. Dogajanje kaže na hitro stopnjevanje konflikta, ki ima potencial za širše regionalne in globalne posledice.",
-      "analiza": "Konflikt med ZDA in Iranom se je v zadnjih dneh močno zaostril, kar predstavlja ključno geopolitično tveganje za globalne finančne trge. Ozadje dogajanja je dolgotrajna napetost med državama, ki se je ponovno razplamtela z ameriškimi napadi in iranskimi povračilnimi ukrepi. Grožnje predsednika Trumpa z bombardiranjem civilne infrastrukture, kot so mostovi in elektrarne, predstavljajo resno eskalacijo, ki bi lahko vodila v obsežnejši konflikt. Mehanizem vpliva na finančne trge je večplasten: neposredno vpliva na cene nafte in plina zaradi strahu pred motnjami v dobavi skozi Hormuško ožino, ki je ključna pomorska pot za transport nafte. Posledično se povečujejo premije za tveganje, kar se kaže v rasti cen nafte Brent na 85,43 USD/sod (+0,83 %) in WTI na 79,78 USD/sod (+0,55 %). Hkrati se povečuje povpraševanje po varnih zatočiščih, kot sta zlato in ameriške državne obveznice, čeprav je zlato danes zabeležilo padec za 0,91 % na 4032,60 USD/oz, kar kaže na kompleksnost tržnih odzivov. Dolgoročni vlagatelji morajo biti pozorni na morebitno nadaljnje širjenje konflikta, ki bi lahko povzročilo globalno gospodarsko nestabilnost in inflacijske pritiske.",
-      "vpliv": [
-        "Rast cen nafte (Brent na 85,43 USD/sod)",
-        "Povečana geopolitična tveganja",
-        "Možnost motenj v dobavi energentov",
-        "Povečana volatilnost na trgih"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss",
-      "objavljeno": "2026-07-15T00:00:15.000Z"
-    },
-    {
-      "naslov": "Kitajsko gospodarstvo beleži eno najnižjih stopenj rasti v zadnjih desetletjih",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Kitajsko gospodarstvo je v drugem četrtletju zabeležilo eno najnižjih stopenj rasti v zadnjih desetletjih, pri čemer je številka BDP padla pod letni ciljni razpon. To kaže na naraščajoče gospodarske pritiske v državi, ki se sooča s šibkim domačim povpraševanjem. Dodatno breme predstavljajo vplivi vojne v Iranu na cene nafte, ki so zasenčili sicer močan izvoz države. Poročilo poudarja izzive, s katerimi se sooča Kitajska pri ohranjanju visoke gospodarske rasti.",
-      "analiza": "Upad gospodarske rasti Kitajske na eno najnižjih ravni v desetletjih je pomemben signal za globalno gospodarstvo, saj je Kitajska drugi največji ekonomski akter na svetu. Ozadje te upočasnitve vključuje strukturne izzive, kot so problemi v nepremičninskem sektorju, visoka zadolženost lokalnih vlad in demografski pritiski. Trenutno je to še posebej relevantno, saj šibko domače povpraševanje in vpliv zunanjih dejavnikov, kot so visoke cene nafte zaradi konflikta v Iranu, dodatno bremenijo rast. Mehanizem vpliva na finančne trge je, da upočasnjena rast Kitajske zmanjšuje globalno povpraševanje po surovinah in industrijskih izdelkih, kar lahko vpliva na podjetja, ki so močno izpostavljena kitajskemu trgu. To lahko vodi do padca cen surovin (čeprav so nafta danes zrasla zaradi geopolitike) in pritiska na dobičkonosnost globalnih podjetij. Za delnice to pomeni povečano negotovost, še posebej za tiste, ki so odvisne od kitajskega izvoza ali uvoza. Dolgoročni vlagatelji morajo spremljati, kako se bo kitajska vlada odzvala s fiskalnimi in monetarnimi spodbudami, ter kakšen bo vpliv na globalne dobavne verige.",
-      "vpliv": [
-        "Zmanjšano globalno povpraševanje",
-        "Pritiski na globalna podjetja",
-        "Negotovost na trgih surovin",
-        "Možna deflacija v globalni ekonomiji"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab",
-      "objavljeno": "2026-07-15T05:53:35.000Z"
-    },
-    {
-      "naslov": "ASML dviguje napovedi zaradi razcveta umetne inteligence in povpraševanja po čipih",
-      "sektor": "Tehnologija & AI",
+      "naslov": "Ameriške rafinerije nafte pričakujejo trojno rast dobičkov zaradi iranske vojne",
+      "sektor": "Energetika",
       "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "Podjetje ASML, ključni dobavitelj opreme za izdelavo čipov, je dvignilo svoje napovedi, saj razcvet umetne inteligence (AI) poganja močno povpraševanje po čipih. Podjetje namerava povečati proizvodne zmogljivosti svojih najnaprednejših litografskih strojev, kar kaže na optimistične obete za celotno industrijo polprevodnikov. To poudarja, da je sektor umetne inteligence še naprej močan gonilnik rasti v tehnološkem svetu.",
-      "analiza": "Povišanje napovedi s strani ASML, ki je eden najpomembnejših akterjev v industriji polprevodnikov, je izjemno pomembno za tehnološki sektor in širše trge. ASML je praktično monopolni dobavitelj naprednih litografskih strojev, ki so nujni za proizvodnjo najsodobnejših čipov. Ozadje te rasti je eksponentno povečanje povpraševanja po čipih, ki poganjajo razvoj in delovanje umetne inteligence, od podatkovnih centrov do končnih naprav. To je ključno za razumevanje trenutnih trendov, saj AI ostaja eden glavnih investicijskih tem. Mehanizem vpliva je direkten: povečano povpraševanje po ASML-ovih strojih pomeni, da se celotna veriga dobave polprevodnikov, vključno s proizvajalci čipov kot so TSMC, Samsung in Intel, pripravlja na povečano proizvodnjo. To se odraža v pozitivnem razpoloženju na delniških trgih, še posebej v tehnološkem sektorju, kjer je Nasdaq 100 danes zrasel za 1,10 % na 29586 točk. Za dolgoročnega slovenskega vlagatelja to pomeni, da sektor umetne inteligence in polprevodnikov ostaja privlačen, vendar je pomembno upoštevati visoke vrednotenja in morebitno cikličnost industrije.",
+      "povzetek": "Poročilo MarketWatcha navaja, da bi lahko ameriške rafinerije nafte več kot potrojile svoje dobičke. To je posledica vojne v Iranu, ki povzroča obsežne motnje v dobavi. Industrija izkorišča te motnje, kar vodi v zgodovinski porast dobičkov. Poročilo je bilo objavljeno 15. julija 2026 ob 16:14:00Z.",
+      "analiza": "Konflikt med Iranom in ZDA, ki ga omenjajo tudi druge novice, ustvarja geopolitično nestabilnost na Bližnjem vzhodu, kar neposredno vpliva na globalne energetske trge. Motnje v dobavi nafte, še posebej iz regije Hormuz, kjer je Iran ključni akter, zmanjšujejo ponudbo in dvigujejo cene surove nafte. Čeprav se cene WTI in Brent nafte danes gibljejo mešano (WTI +0.05 % na 79.38 USD/sod, Brent -0.13 % na 84.62 USD/sod), je dolgoročni trend ob takšnih napetostih običajno rast cen. Rafinerije, ki imajo dostop do nafte in jo lahko predelajo v končne izdelke, kot so bencin in dizel, lahko v takšnih razmerah dosežejo višje marže, saj se povpraševanje po gorivu ohranja, ponudba pa je omejena. To pomeni, da lahko delnice podjetij v sektorju rafiniranja nafte, kot so ExxonMobil, Chevron ali Marathon Petroleum, doživijo rast. Za slovenskega dolgoročnega vlagatelja to pomeni, da so naložbe v energetski sektor, še posebej v podjetja, ki so odporna na motnje v dobavi in imajo močne rafinerijske zmogljivosti, lahko privlačne v obdobjih geopolitičnih napetosti. Vendar pa je treba upoštevati tudi tveganja, povezana z visoko volatilnostjo cen nafte in morebitnimi spremembami v geopolitični situaciji.",
       "vpliv": [
-        "Rast delnic v tehnološkem sektorju",
-        "Povečano povpraševanje po polprevodnikih",
-        "Optimizem glede razvoja AI",
-        "Povečanje proizvodnih zmogljivosti"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/731ec5ef-e9e1-40f5-b0bd-09e71787a938",
-      "objavljeno": "2026-07-15T05:54:42.000Z"
-    },
-    {
-      "naslov": "Grožnja ponovnega dviga cen goriva na 4 dolarje zaradi napetosti med ZDA in Iranom",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Američani so v zadnjih tednih občutili olajšanje pri cenah goriva, kar je pomagalo upočasniti inflacijo, vendar se to morda ne bo nadaljevalo. Napetosti med ZDA in Iranom, ki se borita za nadzor nad Hormuško ožino, grozijo z novim dvigom cen goriva, morda celo na 4 dolarje za galono. Poročilo poudarja, da se je prekinitev padca cen na črpalkah morda končala, kar bi lahko imelo pomembne posledice za potrošnike in širšo ekonomijo.",
-      "analiza": "Grožnja ponovnega dviga cen goriva na 4 dolarje za galono je neposredna posledica stopnjevanja konflikta med ZDA in Iranom, ki vpliva na globalne cene nafte. Hormuška ožina je ključna točka za svetovni transport nafte, in morebitne motnje v tej regiji imajo takojšen in dramatičen vpliv na cene. Ozadje je, da so se cene nafte v zadnjih tednih umirile, kar je prispevalo k upočasnitvi inflacije v ZDA, vendar je sedanja geopolitična situacija to ravnotežje porušila. Mehanizem vpliva je preprost: strah pred motnjami v dobavi nafte dviguje cene, kar se že kaže v rasti cen nafte Brent na 85,43 USD/sod in WTI na 79,78 USD/sod. Višje cene goriva neposredno vplivajo na kupno moč potrošnikov, povečujejo stroške transporta za podjetja in lahko ponovno pospešijo inflacijo, kar bi centralne banke prisililo k morebitnemu zaostrovanju monetarne politike. Za delnice to pomeni pritisk na podjetja z visokimi transportnimi stroški in na diskrecijsko potrošnjo. Dolgoročni vlagatelji morajo biti pozorni na vpliv cen energentov na inflacijo in odzive centralnih bank, saj to lahko vpliva na obrestne mere in vrednotenja vseh razredov sredstev.",
-      "vpliv": [
-        "Povečani inflacijski pritiski",
-        "Zmanjšana kupna moč potrošnikov",
-        "Višji stroški za podjetja",
-        "Možna zaostritev monetarne politike"
+        "Potencialno trojno povečanje dobičkov rafinerij",
+        "Rast delnic energetskih podjetij",
+        "Povečana volatilnost cen nafte",
+        "Vpliv geopolitike na dobavne verige"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-15T00:28:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/americas-oil-refiners-could-more-than-triple-profits-as-iran-war-sparks-massive-boom-c3ad5d33?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-15T16:14:00.000Z"
     },
     {
-      "naslov": "Kitajski proizvajalec čipov CXMT išče 10 milijard dolarjev v največji IPO od leta 2010",
+      "naslov": "Delnice PayPala močno poskočile zaradi poročil o prevzemnem zanimanju",
       "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Kitajska skupina CXMT, proizvajalec čipov, si prizadeva zbrati 10 milijard dolarjev v največji javni ponudbi delnic (IPO) na Kitajskem od leta 2010. Podjetje izkorišča razcvet povpraševanja po pomnilniških čipih za umetno inteligenco, kar kaže na ambicije Kitajske, da zmanjša odvisnost od tuje tehnologije. Ta poteza poudarja strateški pomen industrije polprevodnikov za Kitajsko kljub širšim gospodarskim izzivom.",
-      "analiza": "Javna ponudba delnic (IPO) kitajskega proizvajalca čipov CXMT v višini 10 milijard dolarjev je izjemno pomembna, saj gre za največjo IPO na Kitajskem v več kot desetletju. Ozadje te poteze je strateška usmeritev Kitajske k samozadostnosti v proizvodnji polprevodnikov, še posebej v luči geopolitičnih napetosti in omejitev izvoza napredne tehnologije s strani ZDA. Trenutno je to relevantno, saj podjetje kapitalizira na globalnem razcvetu povpraševanja po pomnilniških čipih, ki so ključni za razvoj in delovanje umetne inteligence. Mehanizem vpliva na finančne trge je, da takšna IPO kaže na močno domačo kapitalsko aktivnost in zaupanje v kitajski tehnološki sektor, kljub širši upočasnitvi kitajskega gospodarstva. Za delnice to pomeni, da se vlagatelji še vedno osredotočajo na specifične sektorje z visoko rastjo, kot je AI in polprevodniki. Uspešna IPO bi lahko spodbudila tudi druge kitajske tehnološke družbe k podobnim potezam. Za slovenskega dolgoročnega vlagatelja to poudarja pomen diverzifikacije in iskanja priložnosti tudi na trgih v razvoju, vendar z zavedanjem o povezanih geopolitičnih in regulativnih tveganjih.",
+      "intenziteta": 3,
+      "povzetek": "Delnice PayPala, podjetja za obdelavo plačil, so danes doživele največjo rast v zgodovini. To se je zgodilo po objavi poročila, da se tekmec Stripe združuje s skupino zasebnega kapitala Advent International za prevzemno ponudbo. Novica je bila objavljena 15. julija 2026 ob 14:35:00Z.",
+      "analiza": "Poročila o morebitnem prevzemu vedno močno vplivajo na ceno delnic tarčnega podjetja, še posebej, če gre za podjetje velikosti PayPala, ki se je v zadnjem času soočalo z izzivi. Zanimanje s strani podjetja Stripe in Advent International signalizira, da trg prepoznava potencialno podcenjenost PayPala in sinergije, ki bi jih lahko prinesla združitev. Takšna novica običajno povzroči skok cene delnice, saj vlagatelji pričakujejo prevzemno premijo. To lahko sproži tudi špekulacije o drugih morebitnih ponudnikih. Za širši tehnološki sektor to kaže na nadaljnjo konsolidacijo in iskanje vrednosti v podjetjih, ki so morda precenjena ali podcenjena. Vpliv na širše indekse, kot je Nasdaq 100, ki je danes padel za -0.98 %, je lahko omejen, vendar pa takšni dogodki kažejo na aktivnost na trgu združitev in prevzemov. Za slovenskega dolgoročnega vlagatelja, ki ima delnice PayPala, to pomeni potencialno hitro rast vrednosti naložbe. Vendar pa je treba biti previden, saj se prevzemni posli lahko tudi izjalovijo, kar bi lahko povzročilo padec delnice nazaj na prejšnje ravni.",
       "vpliv": [
-        "Velika kapitalska injekcija v kitajski tehnološki sektor",
-        "Poudarek na samozadostnosti Kitajske v čipih",
-        "Rast povpraševanja po AI pomnilniških čipih",
-        "Potencial za druge kitajske IPO"
+        "Rekordna rast delnic PayPala",
+        "Povečana aktivnost na trgu združitev in prevzemov",
+        "Potencialne sinergije med podjetji",
+        "Špekulacije o drugih ponudnikih"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/fcfbcbc0-181f-49ce-bda8-c4133e09695c",
-      "objavljeno": "2026-07-15T04:55:25.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/a-53-billion-lifeline-stripe-and-advent-reportedly-team-up-to-bid-for-battered-paypal-3bc6fcc2?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-15T14:35:00.000Z"
     },
     {
-      "naslov": "Indijsko-britanski trgovinski sporazum: vpliv na potrošnike in gospodarstvi",
-      "sektor": "Makro & Centralne banke",
+      "naslov": "Trg obveznic postaja privlačen za kupce, kljub nezanimanju velikih vlagateljev",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "MarketWatch poroča, da so obveznice trenutno \"iz mode\" pri velikih institucionalnih vlagateljih. Kljub temu pa to ustvarja zanimivo naložbeno priložnost za ostale vlagatelje. Novica je bila objavljena 15. julija 2026 ob 16:16:00Z.",
+      "analiza": "Izjava, da je \"kupčev trg za obveznice\", se nanaša na situacijo, ko cene obveznic padajo (in s tem donosnosti rastejo), kar jih dela privlačnejše za nove kupce. Donosnost 10-letne ameriške državne obveznice je danes pri 4.55 %, kar je -0.74 % manj kot včeraj, kar kaže na rahlo rast cen obveznic. Vendar pa širši kontekst, kjer so obveznice \"iz mode\" pri velikih vlagateljih, lahko pomeni, da so bile v preteklosti donosnosti višje ali pa da obstaja splošno pričakovanje rasti obrestnih mer. To je pomembno, saj obveznice tradicionalno veljajo za varnejše naložbe in so ključen del uravnoteženega portfelja. Ko so obveznice podcenjene ali ponujajo visoke donosnosti, lahko predstavljajo privlačno alternativo delnicam, še posebej v obdobjih negotovosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je morda pravi čas za pregled portfelja in morebitno povečanje deleža obveznic, saj lahko ponujajo stabilen dohodek in potencialno kapitalsko rast, če se donosnosti v prihodnosti znižajo. Vendar pa je ključno razumeti razmerje med tveganjem in donosnostjo ter lastne naložbene cilje.",
+      "vpliv": [
+        "Potencialno privlačne naložbene priložnosti v obveznicah",
+        "Rast donosnosti obveznic v preteklosti",
+        "Povečano zanimanje malih vlagateljev",
+        "Vpliv na uravnoteženost portfeljev"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/its-a-buyers-market-for-bonds-aeba3adc?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-15T16:16:00.000Z"
+    },
+    {
+      "naslov": "BlackRock beleži rekordni začetek leta z dvojno rastjo naložb in dobička",
+      "sektor": "Finance",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Prosti trgovinski sporazum med Indijo in Združenim kraljestvom, petim in šestim največjim gospodarstvom na svetu, je stopil v veljavo. Sporazum naj bi prinesel koristi potrošnikom v obeh državah, saj bo znižal carine na širok spekter izdelkov, od brisač z Wimbledona do škotskega viskija. Cilj je okrepiti trgovinske vezi in spodbuditi gospodarsko rast obeh partneric.",
-      "analiza": "Vstop v veljavo prostotrgovinskega sporazuma med Indijo in Združenim kraljestvom je pomemben dogodek v mednarodni trgovini, ki lahko ima dolgoročne pozitivne učinke. Ozadje tega sporazuma je prizadevanje Združenega kraljestva po Brexitu za sklepanje novih trgovinskih partnerstev po vsem svetu, Indija pa išče dostop do novih trgov. Trenutno je to relevantno, saj sporazum med petim in šestim največjim gospodarstvom na svetu odpira nove priložnosti za podjetja in potrošnike. Mehanizem vpliva je znižanje carinskih ovir, kar zmanjšuje stroške uvoza in izvoza, s tem pa potencialno znižuje cene za potrošnike in povečuje konkurenčnost podjetij. To lahko pospeši gospodarsko rast v obeh državah. Za delnice to pomeni potencialno rast za podjetja, ki poslujejo med UK in Indijo, še posebej v sektorjih, ki so bili prej obremenjeni z visokimi carinami (npr. avtomobilska industrija, tekstil, alkoholne pijače). Za valute bi dolgoročno lahko pomenilo stabilizacijo in krepitev GBP in INR zaradi povečanega trgovinskega toka. Dolgoročni vlagatelji naj spremljajo, kako se bo sporazum odražal v konkretnih trgovinskih številkah in ali bo spodbudil podobne sporazume med drugimi državami.",
+      "povzetek": "MarketWatch poroča, da je BlackRock, največji upravitelj premoženja na svetu, zabeležil najboljši začetek leta doslej. To je posledica močnih prilivov v sklade, s katerimi se trguje na borzi (ETF), in živahnih trgov, kar je pripomoglo k preseganju pričakovanj Wall Streeta glede četrtletnih zaslužkov. Delnice BlackRocka so danes rasle. Novica je bila objavljena 15. julija 2026 ob 15:10:00Z.",
+      "analiza": "Izjemni rezultati BlackRocka so močan indikator zdravja širšega finančnega sektorja in zaupanja vlagateljev v trge. Povečani prilivi v ETF-e kažejo na nadaljnjo popularnost pasivnega investiranja in na splošno pozitivno razpoloženje med vlagatelji, ki so pripravljeni vlagati v različne razrede sredstev. Rast dobičkov največjega upravitelja premoženja pomeni, da so se trgi v prvem delu leta dobro odrezali, kar je ustvarilo ugodne pogoje za rast premoženja pod upravljanjem. To lahko posredno vpliva na delnice finančnih institucij, ki so odvisne od uspešnosti trgov in prilivov kapitala. Čeprav so indeksi, kot sta S&P 500 (-0.03 %) in Nasdaq 100 (-0.98 %), danes beležili rahle padce, dolgoročni uspeh BlackRocka kaže na robustnost finančnega sistema. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub kratkoročnim nihanjem trga širši trend v finančnem sektorju pozitiven, kar lahko zagotavlja stabilnost in rast naložb v ETF-e ali vzajemne sklade, ki jih upravljajo podobne institucije.",
       "vpliv": [
-        "Znižanje carinskih ovir",
-        "Spodbujanje gospodarske rasti",
-        "Potencialno nižje cene za potrošnike",
-        "Krepitev trgovinskih vezi med UK in Indijo"
+        "Rekordni dobički BlackRocka",
+        "Močni prilivi v ETF-e",
+        "Pozitivno razpoloženje v finančnem sektorju",
+        "Rast delnic finančnih institucij"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-07-14T22:17:43.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/blackrock-profits-jump-as-assets-under-management-hit-a-record-15-trillion-8e6fd54b?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-15T15:10:00.000Z"
+    },
+    {
+      "naslov": "Poročilo: Trojno povečanje članstva v sindikatih ZDA bi delavcem prineslo 1.2 bilijona USD",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Poročilo Economic Policy Institute (EPI) navaja, da bi potrojitev članstva v sindikatih v ZDA letno prenesla 1.2 bilijona USD k delavcem. To bi pomenilo 14.5 % povišanje plače za povprečnega ameriškega delavca in bi zmanjšalo rasne plačne vrzeli. Stopnja sindikalne gostote je v petdesetih letih prejšnjega stoletja znašala več kot 30 %, leta 2025 pa je padla na 10 %. Novica je bila objavljena 15. julija 2026 ob 14:37:02Z.",
+      "analiza": "Poročilo EPI izpostavlja pomemben makroekonomski trend in potencialni strukturni premik v ameriškem gospodarstvu. Povečanje moči sindikatov in posledično rast plač bi imelo daljnosežne posledice. Na eni strani bi to povečalo kupno moč delavcev, kar bi lahko spodbudilo potrošnjo in gospodarsko rast. Po drugi strani pa bi višji stroški dela lahko zmanjšali dobičkonosnost podjetij, kar bi lahko vplivalo na cene delnic, še posebej v delovno intenzivnih sektorjih. Poročilo tudi poudarja, da bi večja sindikalna gostota zmanjšala neenakost v bogastvu, kar je dolgoročni družbeni in ekonomski cilj. Vpliv na inflacijo je lahko mešan; višje plače lahko prispevajo k inflacijskim pritiskom, vendar bi povečana produktivnost in učinkovitost, ki jo sindikati lahko spodbujajo, lahko te pritiske ublažila. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti te strukturne spremembe v ameriškem gospodarstvu, saj lahko vplivajo na naložbe v ameriške delnice in obveznice, še posebej na sektorje, ki so občutljivi na stroške dela.",
+      "vpliv": [
+        "1.2 bilijona USD letno prenesenih k delavcem",
+        "14.5 % povišanje plače za povprečnega delavca",
+        "Zmanjšanje rasnih plačnih vrzeli",
+        "Potencialni vpliv na dobičkonosnost podjetij"
+      ],
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/us-news/2026/jul/15/union-membership-rates",
+      "objavljeno": "2026-07-15T14:37:02.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-15T06:27:25.486Z",
+    "posodobljenoOb": "2026-07-15T16:51:58.850Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7543.59,
-        "sprememba_pct": 0.38
+        "vrednost": 7541.23,
+        "sprememba_pct": -0.03
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29586.287,
-        "sprememba_pct": 1.1
+        "vrednost": 29297.771,
+        "sprememba_pct": -0.98
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25147.03,
-        "sprememba_pct": 0.13
+        "vrednost": 24999.53,
+        "sprememba_pct": -0.59
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 68700.64,
-        "sprememba_pct": 1.41
+        "vrednost": 68751.51,
+        "sprememba_pct": 1.49
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4032.6,
-        "sprememba_pct": -0.91,
+        "vrednost": 4036.9,
+        "sprememba_pct": -0.81,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 79.78,
-        "sprememba_pct": 0.55,
+        "vrednost": 79.38,
+        "sprememba_pct": 0.05,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 85.43,
-        "sprememba_pct": 0.83,
+        "vrednost": 84.62,
+        "sprememba_pct": -0.13,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +147,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1447,
-        "sprememba_pct": 0.19
+        "vrednost": 1.1443,
+        "sprememba_pct": 0.16
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.585,
-        "sprememba_pct": -0.52,
+        "vrednost": 4.551,
+        "sprememba_pct": -0.74,
         "enota": "%"
       }
     ],
@@ -181,16 +164,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 64940.57,
-        "sprememba_pct": -0.05,
+        "vrednost": 64963.48,
+        "sprememba_pct": -0.02,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16.5,
-      "sprememba_pct": -3.85
+      "vrednost": 16.55,
+      "sprememba_pct": 0.3
     }
   }
 }
