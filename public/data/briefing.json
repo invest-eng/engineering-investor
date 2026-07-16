@@ -1,125 +1,128 @@
 {
-  "generiranoOb": "2026-07-15T17:01:30.283Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-07-16T06:31:52.716Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-07-15",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, pri čemer je nemški indeks DAX padel za 0,59 % na 25000 točk. Ameriški trgi, ki so odprti že dve uri, kažejo mešano sliko: indeks S&P 500 je ostal nespremenjen pri 7544 točkah (+0,00 %), medtem ko je tehnološki Nasdaq 100 padel za 0,92 % na 29313 točk. Na azijskih trgih je Nikkei 225 zrasel za 1,49 % na 68752 točk. Surovine so bile razdeljene, saj je zlato padlo za 0,66 % na 4042,90 USD/oz, medtem ko je cena nafte Brent rahlo upadla (-0,13 % na 84,62 USD/sod), WTI pa se je minimalno zvišala (+0,05 % na 79,38 USD/sod). Donosnost 10-letne ameriške državne obveznice se je znižala za 0,65 % na 4,55 %, kar kaže na povečano povpraševanje po obveznicah. Med ključnimi novicami izstopajo pričakovani visoki dobički ameriških rafinerij zaradi vojne v Iranu, prevzemno zanimanje za PayPal, ki je pognalo njegove delnice, in rekordni rezultati BlackRocka. Vlagatelji bodo ta teden pozorno spremljali prihajajoče objave četrtletnih rezultatov podjetij, ki lahko dajo nadaljnje vpoglede v zdravje gospodarstva.",
+  "datum": "2026-07-16",
+  "povzetek": "Jutranja izdaja, 16. julij 2026, prinaša mešane signale s svetovnih trgov. Ameriški indeks S&P 500 je noč zaključil z rastjo za 0,38 % pri 7572 točkah, medtem ko je tehnološki Nasdaq 100 zabeležil padec za 0,28 % na 29503 točk. Evropski DAX je že včeraj padel za 0,59 % na 25000 točk, azijski trgi pa so bili pod pritiskom, zlasti Nikkei 225, ki je strmoglavil za 2,76 % na 66856 točk. Surovine so se gibale v ozkem razponu, z zlatom pri 4033,90 USD/oz (-0,44 %) in Brent nafto pri 84,72 USD/sod (-0,27 %), medtem ko je EUR/USD rahlo pridobil na 1,1472. Geopolitične napetosti med ZDA in Iranom se stopnjujejo z novimi napadi, kar vpliva na cene nafte in globalno negotovost. Pozitivna novica prihaja iz Združenega kraljestva, kjer je gospodarstvo maja zabeležilo 0,1-odstotno rast, vendar pa nacionalizacija British Steel in politična negotovost pred prihodom novega premierja vnašata previdnost. Vlagatelji bodo v prihodnjih dneh pozorno spremljali objave inflacije in morebitne odločitve centralnih bank.",
   "novice": [
     {
-      "naslov": "Ameriške rafinerije nafte pričakujejo velik porast dobička zaradi vojne v Iranu",
-      "sektor": "Energetika",
-      "smer": "mešano",
+      "naslov": "Stopnjevanje napetosti med ZDA in Iranom: napadi na tanker in regijo",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Poročilo MarketWatch navaja, da bi ameriške rafinerije nafte lahko več kot potrojile svoje dobičke. To je posledica motenj v dobavnih verigah, ki jih je povzročila vojna v Iranu, kar ustvarja zgodovinski porast dobičkov za industrijo. Članek, objavljen 15. julija 2026 ob 16:14:00 UTC, poudarja, kako geopolitični konflikti neposredno vplivajo na določene sektorje gospodarstva. Pričakuje se, da bodo rafinerije izkoristile trenutne razmere na trgu. Ta situacija kaže na kompleksno medsebojno povezanost med geopolitiko in energetskimi trgi.",
-      "analiza": "Geopolitične napetosti na Bližnjem vzhodu, še posebej morebiten konflikt z Iranom, imajo tradicionalno velik vpliv na svetovne cene nafte in dobavne verige. Iran je ključen igralec v regiji in nadzoruje pomembne pomorske poti za transport nafte. Trenutne razmere, opisane kot 'vojna v Iranu', so povzročile motnje v dobavi, kar je zvišalo cene surove nafte in marže za rafinerije. To je pomembno, saj kaže na neposreden ekonomski vpliv geopolitičnih dogodkov. Ko se dobava nafte zmanjša ali postane negotova zaradi konflikta, cene nafte običajno narastejo. Rafinerije, ki imajo dostop do nafte, lahko nato prodajajo rafinirane izdelke (bencin, dizel) po višjih cenah, kar poveča njihove dobičke. Delnice ameriških rafinerij bi lahko doživele rast zaradi pričakovanih visokih dobičkov. Cene nafte (WTI pri 79,38 USD/sod, Brent pri 84,62 USD/sod) so že pod vplivom, dolgoročno bi se lahko cene nafte zvišale. Povečana negotovost in višje cene nafte lahko okrepijo valute držav izvoznic nafte in oslabijo valute držav uvoznic. Višje cene energentov prispevajo k inflacijskim pritiskom, kar lahko vpliva na politiko centralnih bank. Zgodovina je pokazala, da so konflikti na Bližnjem vzhodu vedno povzročili skoke cen nafte in preoblikovali energetski trg. Nadaljnji razvoj dogodkov v Iranu in morebitne spremembe v svetovnih dobavnih verigah bodo ključni za spremljanje. Slovenski dolgoročni vlagatelj naj razume, da geopolitični dogodki lahko bistveno vplivajo na cene surovin in dobičkonosnost določenih sektorjev, kar posredno vpliva na širše gospodarstvo in inflacijo.",
+      "povzetek": "Iranski mediji poročajo o eksplozijah na otoku Qeshm, v Bandar Abbasu in Chabaharju, medtem ko so v Bahrajnu in Kuvajtu sprožili sirene za zračni napad. ZDA so napadle iranski naftni tanker, Iran pa je odgovoril z napadi na Kuvajt in Jordanijo. Ti dogodki predstavljajo nadaljnje stopnjevanje konflikta med ZDA in Iranom, ki se je v zadnjih dneh intenziviral. Nočni napadi so najhujši po podpisu Memoranduma o soglasju (MOU).",
+      "analiza": "Ozadje teh dogodkov je dolgotrajen spor med ZDA in Iranom, ki se je v zadnjem obdobju zaostril, kar potrjujejo tudi izjave nekdanjega ameriškega obrambnega ministra Marka Esperja, da samo bombardiranje ne bo spremenilo iranskega vedenja. Trenutno stopnjevanje, vključno z napadom na iranski naftni tanker in iranskimi povračilnimi napadi na Kuvajt in Jordanijo, kaže na nevarno širitev konflikta v regiji. To je relevantno, ker neposredno vpliva na stabilnost Bližnjega vzhoda, ključne regije za globalno oskrbo z nafto. Mehanizem vpliva na finančne trge je predvsem preko cen surovin; povečana negotovost v regiji, ki je domovina velikih proizvajalk nafte, običajno povzroči rast cen nafte zaradi strahu pred motnjami v dobavi. Posledično se lahko poveča tudi povpraševanje po varnih zatočiščih, kot sta zlato in ameriški državni dolg. Trenutno je Brent nafta pri 84,72 USD/sod, WTI nafta pri 79,53 USD/sod, kar kaže na relativno umirjenost, a lahko hitro eskalira. Za delnice to pomeni povečano volatilnost in morebitne padce, še posebej v sektorjih, ki so odvisni od stabilnih cen energentov, kot so letalski prevozniki (npr. United Airlines, ki se sooča s 6 milijardami dolarjev dodatnih stroškov za gorivo). Obveznice bi lahko pridobile na vrednosti zaradi bega v varnost, medtem ko bi zlato, ki je danes pri 4033,90 USD/oz, lahko doživelo rast. Slovenski dolgoročni vlagatelj naj bo pozoren na morebitne posredne vplive na globalno gospodarsko rast in inflacijo, ki bi lahko vplivali na donose naložb.",
       "vpliv": [
-        "Povečani dobički ameriških rafinerij",
-        "Potencialno višje cene nafte",
-        "Inflacijski pritiski",
-        "Negotovost na globalnih trgih"
+        "Rast cen nafte zaradi motenj v dobavi",
+        "Povečana volatilnost delniških trgov",
+        "Rast povpraševanja po varnih zatočiščih (zlato, obveznice)",
+        "Negativen vpliv na letalski in transportni sektor"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/americas-oil-refiners-could-more-than-triple-profits-as-iran-war-sparks-massive-boom-c3ad5d33?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-15T16:14:00.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
+      "objavljeno": "2026-07-16T00:00:48.000Z"
     },
     {
-      "naslov": "Delnice PayPala močno poskočile zaradi govoric o prevzemnem zanimanju",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Delnice PayPala so zabeležile največjo rast v zgodovini, potem ko je poročilo razkrilo, da se tekmec Stripe združuje z zasebnim kapitalskim skladom Advent International za morebitno prevzemno ponudbo. PayPal, ki se je v zadnjem času soočal z izzivi, je tako dobil pomembno spodbudo. Novica je bila objavljena 15. julija 2026 ob 14:35:00 UTC na MarketWatch. To kaže na močno reakcijo trga na potencialno združitev. Poročilo je sprožilo val optimizma med vlagatelji. Takšni dogodki lahko bistveno spremenijo dinamiko podjetja in celotnega sektorja.",
-      "analiza": "PayPal je bil v preteklosti vodilni na področju spletnih plačil, vendar se je v zadnjih letih soočal z naraščajočo konkurenco in vprašanji glede rasti. Njegove delnice so bile 'pretepene', kar kaže na nezadovoljstvo vlagateljev. Poročilo o prevzemnem zanimanju s strani Stripe in Advent International je ključnega pomena, saj lahko signalizira preobrat za podjetje in potencialno visoko premijo za delničarje. Takšne novice pogosto povzročijo močno rast delnic tarčnega podjetja. Ko se pojavi prevzemna ponudba, kupci običajno ponudijo ceno, ki je višja od trenutne tržne vrednosti delnic, da bi prepričali delničarje k prodaji. To povzroči skok cene delnice. Delnice PayPala so doživele 'rekordno' rast, kar kaže na močno pozitivno reakcijo trga. Novica lahko sproži špekulacije o drugih morebitnih prevzemih v sektorju fintech, kar lahko vpliva na delnice podobnih podjetij. Večji prevzemi lahko vplivajo na valutne tečaje, če vključujejo čezmejne transakcije, vendar v tem primeru ni neposrednih informacij o tem. Prevzemi in združitve (M&A) so pogosto katalizatorji za rast delnic, še posebej za podjetja, ki so pod pritiskom. Uradna potrditev prevzemne ponudbe, pogoji ponudbe in morebitne protiponudbe bodo ključni za spremljanje. Slovenski dolgoročni vlagatelj naj razume, da so prevzemi in združitve pomemben dejavnik na kapitalskih trgih, ki lahko ustvarijo znatne kratkoročne premike v vrednosti delnic, še posebej pri podjetjih, ki so podcenjena ali se soočajo z izzivi.",
-      "vpliv": [
-        "Rekordna rast delnic PayPala",
-        "Povečana aktivnost M&A v fintech sektorju",
-        "Potencialna preoblikovanje trga spletnih plačil"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/a-53-billion-lifeline-stripe-and-advent-reportedly-team-up-to-bid-for-battered-paypal-3bc6fcc2?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-15T14:35:00.000Z"
-    },
-    {
-      "naslov": "Obveznice so trenutno privlačna naložbena priložnost za kupce",
+      "naslov": "Britansko gospodarstvo se je maja vrnilo k rasti po prejšnjem krčenju",
       "sektor": "Makro & Centralne banke",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "MarketWatch poroča, da so obveznice trenutno 'iz mode' pri velikih vlagateljih, kar pa jih dela zanimivo naložbeno priložnost za ostale. Članek, objavljen 15. julija 2026 ob 16:16:00 UTC, nakazuje, da je zdaj pravi čas za nakup obveznic. To je posledica njihove potencialne podcenjenosti na trgu. Poudarja se, da obveznice ponujajo privlačne donose. Takšna situacija omogoča vlagateljem, da razmislijo o diverzifikaciji svojih portfeljev. Trenutno znižanje donosnosti 10-letnih ameriških državnih obveznic na 4,55 % podpira to tezo.",
-      "analiza": "V zadnjem obdobju so obveznice morda izgubile privlačnost zaradi rasti delniških trgov ali zaradi pričakovanj o višjih obrestnih merah, ki znižujejo cene obstoječih obveznic. Vendar pa trenutno znižanje donosnosti 10-letnih ameriških državnih obveznic na 4,55 % (-0,65 %) kaže na povečano povpraševanje, kar dviguje njihove cene. Članek poudarja, da je trg obveznic morda podcenjen in ponuja privlačne donose, še posebej v primerjavi z drugimi naložbami. To je pomembno za diverzifikacijo portfelja in iskanje stabilnih donosov. Ko se donosnost obveznic zniža, to pomeni, da se njihova cena zvišuje (obratno sorazmerje). Če so obveznice 'iz mode', to pomeni, da so bile morda v preteklosti podprodane, kar zdaj ponuja priložnost za nakup po ugodnejših cenah in potencialno višjih donosih v prihodnosti. Povečano zanimanje za obveznice lahko povzroči nadaljnje znižanje donosnosti in rast cen. Preusmeritev kapitala iz delnic v obveznice bi lahko umirila rast delniških trgov, še posebej, če vlagatelji iščejo varnejše naložbe. Povečano povpraševanje po državnih obveznicah določene države lahko okrepi njeno valuto. Znižanje donosnosti obveznic lahko zniža stroške zadolževanja za podjetja in države, kar lahko spodbudi gospodarsko rast. Obveznice so tradicionalno služile kot varno zatočišče v času negotovosti in kot orodje za ohranjanje kapitala. Gibanje donosnosti obveznic, inflacijska pričakovanja in odločitve centralnih bank glede obrestnih mer bodo ključni za spremljanje. Slovenski dolgoročni vlagatelj naj razmisli o vlogi obveznic v svojem portfelju, še posebej v obdobjih, ko trg ponuja privlačne donose. Obveznice lahko služijo kot stabilizator in vir dohodka, še posebej v času negotovosti na delniških trgih.",
+      "povzetek": "Britansko gospodarstvo je maja zabeležilo skromno rast, s čimer je prekinilo blago krčenje, ki je bilo opaženo prejšnji mesec. Rast je znašala 0,1 %, kar je pomemben podatek, saj nakazuje na okrevanje po prejšnjem padcu. Ta podatek prihaja v času, ko se Andy Burnham pripravlja na prevzem položaja premierja, kar dodaja kontekst političnim in gospodarskim pričakovanjem.",
+      "analiza": "Po obdobju blagega krčenja v preteklem mesecu je 0,1-odstotna rast britanskega gospodarstva maja pomemben signal. To kaže na odpornost gospodarstva in morebitno stabilizacijo po nedavnih izzivih. Rast je relevantna, saj lahko vpliva na odločitve Banke Anglije glede obrestnih mer in na splošno zaupanje vlagateljev v britansko gospodarstvo. Mehanizem vpliva na finančne trge je preko pričakovanj o monetarni politiki in privlačnosti britanskih sredstev. Pozitivna gospodarska rast običajno podpira valuto, v tem primeru funt, in lahko zmanjša donose obveznic, saj se zmanjša potreba po varnih naložbah. Za delniške trge v Združenem kraljestvu to pomeni potencialno podporo, saj se izboljšajo obeti za dobičkonosnost podjetij. Vendar pa je rast skromna, kar pomeni, da so vlagatelji še vedno previdni. Dolgoročno je to korak v pravo smer, a je potreben nadaljnji napredek za trajnejše okrevanje. Slovenski dolgoročni vlagatelj naj spremlja, kako se bo ta trend razvijal, saj lahko vpliva na globalno gospodarsko stabilnost in s tem posredno na donose naložb v mednarodne sklade ali podjetja, ki poslujejo z Združenim kraljestvom.",
       "vpliv": [
-        "Povečano povpraševanje po obveznicah",
-        "Znižanje donosnosti obveznic (npr. 10Y US Treasury na 4.55%)",
-        "Potencialna preusmeritev kapitala iz delnic"
+        "Potencialna podpora britanskemu funtu",
+        "Zmanjšanje donosov britanskih obveznic",
+        "Pozitiven signal za britanske delniške trge",
+        "Izboljšanje zaupanja vlagateljev v UK gospodarstvo"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/its-a-buyers-market-for-bonds-aeba3adc?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-15T16:16:00.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/c8xnllq944go?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-16T06:17:01.000Z"
     },
     {
-      "naslov": "Delnice SpaceX-a padle pod ceno prve javne ponudbe",
-      "sektor": "Tehnologija & AI",
+      "naslov": "Britanska vlada prevzela lastništvo nad British Steel v Scunthorpu",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Jeklarna Scunthorpe, del British Steel, je bila uradno nacionalizirana na podlagi novih vladnih pooblastil, sprejetih ta teden. Ta poteza pomeni, da je vlada prevzela nadzor nad podjetjem, kar je pomemben korak v industrijski politiki Združenega kraljestva. Nacionalizacija je bila izvedena, da bi se rešila jeklarna in ohranila delovna mesta, kar je pogosto argument za takšne intervencije.",
+      "analiza": "Nacionalizacija British Steel v Scunthorpu je pomemben politični in ekonomski dogodek, ki odraža širše trende vladnih intervencij v gospodarstvo, še posebej v strateških panogah. Ozadje je verjetno povezano z dolgotrajnimi težavami v jeklarski industriji, ki se sooča z globalno konkurenco in visokimi stroški. Relevantno je, ker kaže na pripravljenost vlade, da uporabi nova pooblastila za zaščito industrijskih sredstev in delovnih mest. Mehanizem vpliva na finančne trge je kompleksen: po eni strani lahko nacionalizacija stabilizira določeno industrijo in prepreči propad, kar je lahko kratkoročno pozitivno za delovna mesta in lokalno gospodarstvo. Po drugi strani pa lahko takšne poteze vlagatelje prestrašijo, saj se zmanjšuje zaupanje v svobodno tržno gospodarstvo in se povečuje tveganje za podobne intervencije v drugih sektorjih. To lahko vpliva na privlačnost britanskih delnic in neposrednih tujih naložb. Posledice za delnice so lahko negativne za sorodna podjetja, saj se povečuje negotovost glede prihodnjih vladnih politik. Za obveznice bi lahko to pomenilo povečanje tveganja, če bi se nacionalizacije financirale z zadolževanjem. Slovenski dolgoročni vlagatelj naj bo pozoren na morebitne spremembe v investicijskem okolju Združenega kraljestva in na širše implikacije za sektorje, ki so lahko tarča vladnih intervencij.",
+      "vpliv": [
+        "Povečana negotovost za tuje investicije v UK",
+        "Potencialno zmanjšanje zaupanja vlagateljev v UK trg",
+        "Stabilizacija jeklarske industrije na kratki rok",
+        "Možni vplivi na kreditno oceno države"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-16T06:26:44.000Z"
+    },
+    {
+      "naslov": "Trumpov kandidat za obveščevalnega šefa se izogiba potrditvi Bidenove zmage 2020",
+      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Financial Times poroča, da so delnice SpaceX-a, podjetja za umetno inteligenco in rakete, padle pod ceno 135 dolarjev, kar je prvič po njihovem debiju na Wall Streetu junija. To pomeni, da so delnice zdrsnile pod ceno prve javne ponudbe. Novica je bila objavljena 15. julija 2026 ob 16:15:30 UTC. Ta padec kaže na morebitno spremembo vlagateljskega sentimenta. Visoko profilno podjetje se sooča z izzivi na trgu. Padec pod IPO ceno je pomemben signal za vlagatelje.",
-      "analiza": "SpaceX, pod vodstvom Elona Muska, je visoko profilno podjetje, znano po inovacijah v vesoljski industriji in umetni inteligenci. Njegov debi na Wall Streetu junija je bil verjetno visoko pričakovan. Padec pod IPO ceno je pomemben signal. Padec delnic pod IPO ceno je pogosto znak, da trg dvomi v začetno vrednotenje podjetja ali pa se sooča z novimi izzivi. To lahko vpliva na zaupanje vlagateljev v celoten sektor visokotehnoloških podjetij, še posebej tistih z visokimi vrednotenji. Ko delnice podjetja, ki je bilo visoko cenjeno, začnejo padati, to lahko sproži prodajo s strani vlagateljev, ki so kupili delnice po višji ceni, kar ustvarja dodaten pritisk na ceno. Delnice SpaceX-a so padle pod 135 dolarjev, kar je negativen signal za obstoječe vlagatelje. Padec lahko povzroči previdnost pri vlaganju v druga visoko cenjena tehnološka podjetja ali podjetja v fazi rasti. Lahko vpliva na splošno razpoloženje vlagateljev glede tveganih naložb in novih IPO-jev. Padec delnic pod IPO ceno ni redek pojav, vendar je pri tako profiliranem podjetju, kot je SpaceX, bolj opazen in lahko sproži širše razprave o vrednotenjih. Razlogi za padec (npr. operativni rezultati, konkurenca, makroekonomski dejavniki) in morebitne izjave vodstva podjetja bodo ključni za spremljanje. Slovenski dolgoročni vlagatelj naj bo pozoren na vrednotenja podjetij, še posebej tistih v hitro rastočih sektorjih. Visoka pričakovanja in visoke cene ob IPO ne zagotavljajo vedno nadaljnje rasti, in padec pod IPO ceno je lahko opozorilni znak.",
+      "povzetek": "Jay Clayton, kandidat predsednika ZDA Trumpa za vodilnega obveščevalnega uradnika, se je izognil neposredni izjavi, da je Joe Biden zmagal na volitvah leta 2020. Ta izjava prihaja v času, ko Bela hiša ponovno preučuje volitve leta 2020 in si prizadeva za nove volilne omejitve. To kaže na nadaljnje politične napetosti in polarizacijo v Združenih državah.",
+      "analiza": "Ozadje te novice je dolgotrajna politična polarizacija v ZDA in ponavljajoči se dvomi o legitimnosti volitev leta 2020, ki jih spodbuja nekdanji in sedanji predsednik Trump. Relevantno je, ker takšne izjave s strani visokih vladnih kandidatov lahko spodkopljejo zaupanje v demokratične institucije in povečajo politično negotovost, kar je ključnega pomena za stabilnost finančnih trgih. Mehanizem vpliva na finančne trge je predvsem preko vpliva na zaupanje vlagateljev in povečane negotovosti. Politična nestabilnost običajno vodi do bega kapitala iz bolj tveganih naložb v varnejša zatočišča, kot so ameriške državne obveznice (čeprav so danes 10-letne obveznice US Treasury zabeležile padec donosa za 0,87 % na 4,54 %, kar kaže na povpraševanje) in zlato. Posledice za delnice so lahko povečana volatilnost in previdnost pri investiranju, še posebej v sektorjih, ki so občutljivi na regulativne spremembe. Valutni trgi lahko doživijo nihanja, saj se vlagatelji odzivajo na spremenjeno politično pokrajino. Dolgoročno lahko takšna retorika vpliva na mednarodni ugled ZDA in s tem na privlačnost ameriških naložb. Slovenski dolgoročni vlagatelj naj bo pozoren na morebitne širše politične posledice, ki lahko vplivajo na globalno gospodarsko stabilnost in s tem posredno na donose naložb.",
       "vpliv": [
-        "Padec delnic SpaceX-a pod $135",
-        "Zmanjšano zaupanje vlagateljev v visoko cenjena tehnološka podjetja",
-        "Potencialni pritisk na druge IPO-je"
+        "Povečana politična negotovost v ZDA",
+        "Možna povečana volatilnost delniških trgov",
+        "Rast povpraševanja po varnih zatočiščih",
+        "Vpliv na mednarodni ugled ZDA"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede",
-      "objavljeno": "2026-07-15T16:15:30.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_trumps-intel-nominee-wont-say-biden-won-160726?traffic_source=rss",
+      "objavljeno": "2026-07-16T05:01:36.000Z"
     },
     {
-      "naslov": "Poročilo: Sindikalizacija v ZDA bi lahko povečala plače za 1,2 bilijona dolarjev",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Poročilo Economic Policy Institute (EPI), objavljeno 15. julija 2026 ob 14:37:02 UTC, navaja, da bi potrojitev članstva v sindikatih v ZDA letno prenesla 1,2 bilijona dolarjev na delavce. To bi pomenilo 14,5-odstotno povišanje za povprečnega ameriškega delavca in zmanjšalo rasne plačne vrzeli. Poročilo opozarja, da je sindikalna gostota v 50. letih prejšnjega stoletja znašala več kot 30 %, do leta 2025 pa je padla na 10 %. Povečana sindikalizacija bi lahko bistveno preoblikovala trg dela. To bi imelo daljnosežne posledice za potrošnjo in gospodarstvo.",
-      "analiza": "Stopnja članstva v sindikatih v ZDA je v zadnjih desetletjih močno upadla, kar je po mnenju nekaterih prispevalo k povečanju neenakosti v dohodkih. Poročilo EPI poudarja potencialne koristi ponovnega vzpona sindikalizacije. To je pomembna makroekonomska novica, ki kaže na potencialno preoblikovanje trga dela v ZDA. Povečanje plač za delavce bi imelo daljnosežne posledice za potrošnjo, inflacijo in dobičkonosnost podjetij. Močnejši sindikati imajo večjo pogajalsko moč, kar jim omogoča doseganje višjih plač in boljših delovnih pogojev za svoje člane. Povečanje plač bi neposredno vplivalo na razpoložljivi dohodek potrošnikov. Povečan dohodek za delavce bi verjetno spodbudil potrošnjo, kar bi pozitivno vplivalo na podjetja, ki so odvisna od domačega povpraševanja. Višje plače lahko prispevajo k inflacijskim pritiskom, saj podjetja morda prenesejo višje stroške dela na potrošnike. To bi lahko vplivalo na politiko centralnih bank. Podjetja z visoko intenzivnostjo dela, zlasti v sektorjih z nizkimi maržami, bi se lahko soočala z zmanjšanjem dobičkov. Podjetja, ki prodajajo potrošniško blago, pa bi lahko imela koristi od povečane kupne moči. V preteklosti so močni sindikati igrali ključno vlogo pri oblikovanju delovnih pogojev in razdelitvi bogastva. Politične pobude za spodbujanje sindikalizacije, dejanska gibanja v članstvu sindikatov in odziv podjetij na morebitne višje stroške dela bodo ključni za spremljanje. Slovenski dolgoročni vlagatelj naj razume, da so spremembe v dinamiki trga dela, kot je morebiten porast sindikalizacije, pomemben dejavnik, ki lahko vpliva na makroekonomsko okolje, inflacijo in dobičkonosnost podjetij, še posebej v ZDA.",
-      "vpliv": [
-        "Povečan dohodek za ameriške delavce (1,2 bilijona USD letno)",
-        "Potencialno povečana potrošnja",
-        "Inflacijski pritiski",
-        "Vpliv na dobičkonosnost podjetij"
-      ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/us-news/2026/jul/15/union-membership-rates",
-      "objavljeno": "2026-07-15T14:37:02.000Z"
-    },
-    {
-      "naslov": "BlackRock beleži najboljši začetek leta z rekordnimi prilivi in dobički",
-      "sektor": "Finance",
+      "naslov": "Umetna inteligenca postaja neizogibna za vlagatelje na vseh trgih",
+      "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "MarketWatch poroča, da je BlackRock, največji upravljavec premoženja na svetu, zabeležil najboljši začetek leta doslej. Prilivi naložb so se podvojili, dobički pa so močno poskočili, kar je pomagalo podjetju preseči pričakovanja Wall Streeta za zadnje četrtletje. Delnice BlackRocka so se v sredo močno okrepile. Novica je bila objavljena 15. julija 2026 ob 15:10:00 UTC. To kaže na robustno povpraševanje po naložbenih produktih. Rekordni rezultati so odraz splošnega optimizma na trgih. Povečano premoženje pod upravljanjem je ključno za njihov uspeh.",
-      "analiza": "BlackRock je globalni gigant na področju upravljanja premoženja, znan po svojih ETF-ih in drugih naložbenih produktih. Njegovi rezultati so pogosto barometer za širše razpoloženje na trgu in zdravje finančne industrije. Izjemno močni rezultati BlackRocka kažejo na robustno povpraševanje po naložbenih produktih in na splošno pozitivno razpoloženje na kapitalskih trgih ('buoyant markets'). To je pomemben signal, da vlagatelji aktivno vlagajo in da je zaupanje visoko. Povečani prilivi v sklade, še posebej v ETF-e, in rast trgov pomenijo večje premoženje pod upravljanjem (AUM), kar BlackRocku prinaša višje provizije in s tem večje dobičke. Delnice BlackRocka so se močno okrepile, kar kaže na pozitivno reakcijo vlagateljev. Dobri rezultati BlackRocka lahko pozitivno vplivajo na celoten sektor upravljanja premoženja, saj nakazujejo ugodno naložbeno okolje. Rekordni prilivi v ETF-e in 'živahni trgi' so znak splošnega optimizma in aktivnosti vlagateljev, kar je pozitivno za delniške trge. V obdobjih močne rasti trgov in visokega zaupanja vlagateljev, upravljavci premoženja običajno beležijo izjemne rezultate. Nadaljnji trendi prilivov v sklade, gibanje globalnih delniških trgov in morebitne spremembe v regulaciji finančne industrije bodo ključni za spremljanje. Slovenski dolgoročni vlagatelj naj razume, da so rezultati velikih finančnih institucij, kot je BlackRock, pomemben indikator zdravja in smeri globalnih finančnih trgih. Močni prilivi in dobički kažejo na aktivno sodelovanje vlagateljev in splošno pozitivno razpoloženje.",
+      "povzetek": "Izpostavljenost razcvetu umetne inteligence je za vlagatelje postala praktično neizogibna. Ta tema ni zajela le delniškega trga, temveč je sistematično zajela tudi podjetniške obveznice in tvegani kapital. To kaže na globoko integracijo umetne inteligence v različne segmente finančnih trgov in gospodarstva.",
+      "analiza": "Razcvet umetne inteligence (AI) je postal prevladujoč trend, ki presega zgolj tehnološki sektor in se širi na celotno gospodarstvo. Ozadje je hiter razvoj in implementacija AI tehnologij, ki obljubljajo preoblikovanje industrije in povečanje produktivnosti. Relevantno je, ker to pomeni, da AI ni več nišna naložba, temveč strukturna sprememba, ki vpliva na širok spekter podjetij in finančnih instrumentov. Mehanizem vpliva na finančne trge je v preusmerjanju kapitala in ustvarjanju novih priložnosti. Podjetja, ki so v ospredju razvoja AI, doživljajo močno rast vrednosti delnic, kar se odraža tudi v širših indeksih, kot je S&P 500, ki je danes zrasel za 0,38 %. Vendar pa ta trend prinaša tudi tveganja, kot je precenjenost določenih delnic in morebitni \"mehurčki\". Posledice za delnice so predvsem nadaljnja rast v tehnološkem sektorju in podjetjih, ki uspešno implementirajo AI. Za obveznice to pomeni, da podjetja, povezana z AI, lažje pridobivajo financiranje. Kripto trgi, kot je Bitcoin pri 64773 USD, so lahko posredno pod vplivom, saj se inovacije in tehnološki napredek pogosto prelivajo med sektorji. Slovenski dolgoročni vlagatelj naj razmisli o diverzifikaciji in izpostavljenosti podjetjem, ki so ključna za razvoj in implementacijo AI, vendar naj bo previden pred pretiranim navdušenjem in morebitnimi korekcijami na trgu.",
       "vpliv": [
-        "Rast delnic BlackRocka",
-        "Povečani prilivi v naložbene sklade",
-        "Indikator splošnega optimizma na trgih",
-        "Rast premoženja pod upravljanjem"
+        "Nadaljnja rast tehnoloških delnic",
+        "Povečano zanimanje za podjetniške obveznice v AI sektorju",
+        "Priložnosti za tvegani kapital",
+        "Potencialna precenjenost določenih delnic"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/blackrock-profits-jump-as-assets-under-management-hit-a-record-15-trillion-8e6fd54b?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-15T15:10:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/ai-is-so-big-its-now-impossible-for-investors-to-avoid-9271e03f?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-16T00:59:00.000Z"
+    },
+    {
+      "naslov": "United Airlines se sooča s 6 milijardami dolarjev dodatnih stroškov goriva",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Vlagatelji so se osredotočili na potencialno višji račun za letalsko gorivo družbe United Airlines, saj letalska družba pričakuje skoraj 6 milijard dolarjev dodatnih stroškov goriva za leto. To je pomemben udarec za dobičkonosnost podjetja in celoten letalski sektor.",
+      "analiza": "Novica o 6 milijardah dolarjev dodatnih stroškov goriva za United Airlines poudarja neposreden vpliv nihanj cen energentov na poslovanje podjetij, še posebej v energetsko intenzivnih sektorjih, kot je letalski promet. Ozadje je splošna nestabilnost na trgu nafte, ki jo še dodatno zaostrujejo geopolitične napetosti, kot so napadi med ZDA in Iranom. Relevantno je, ker visoki stroški goriva neposredno zmanjšujejo marže letalskih družb in lahko vodijo do višjih cen letalskih kart, kar vpliva na potrošnike in turizem. Mehanizem vpliva na finančne trge je vpliv na dobičkonosnost podjetij in s tem na vrednost njihovih delnic. Ko se stroški goriva povečajo, se pričakujejo nižji dobički, kar običajno povzroči padec cene delnic letalskih družb. Posledice za delnice so negativne za United Airlines in druge letalske prevoznike, saj se zmanjšujejo njihovi dobički. To lahko vpliva tudi na širši indeks S&P 500, čeprav je danes zrasel za 0,38 %. Cene nafte, kot sta WTI pri 79,53 USD/sod in Brent pri 84,72 USD/sod, so ključne za ta sektor. Slovenski dolgoročni vlagatelj naj bo previden pri naložbah v letalski sektor v obdobjih visoke volatilnosti cen nafte in razmisli o podjetjih, ki so bolje zaščitena pred takšnimi šoki.",
+      "vpliv": [
+        "Negativen vpliv na delnice letalskih družb",
+        "Zmanjšanje dobičkonosnosti letalskega sektorja",
+        "Potencialno višje cene letalskih kart",
+        "Povečana občutljivost sektorja na cene nafte"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/united-airlines-gets-hit-by-a-6-billion-added-fuel-cost-headwind-dacb07b6?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-16T00:25:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-15T17:00:19.073Z",
+    "posodobljenoOb": "2026-07-16T06:30:47.455Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7543.61,
-        "sprememba_pct": 0
+        "vrednost": 7572.4,
+        "sprememba_pct": 0.38
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29313.08,
-        "sprememba_pct": -0.92
+        "vrednost": 29502.596,
+        "sprememba_pct": -0.28
       },
       {
         "simbol": "^GDAXI",
@@ -130,30 +133,30 @@
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 68751.51,
-        "sprememba_pct": 1.49
+        "vrednost": 66855.5,
+        "sprememba_pct": -2.76
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4042.9,
-        "sprememba_pct": -0.66,
+        "vrednost": 4033.9,
+        "sprememba_pct": -0.44,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 79.38,
-        "sprememba_pct": 0.05,
+        "vrednost": 79.53,
+        "sprememba_pct": -0.09,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 84.62,
-        "sprememba_pct": -0.13,
+        "vrednost": 84.72,
+        "sprememba_pct": -0.27,
         "enota": "USD/sod"
       }
     ],
@@ -161,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1446,
-        "sprememba_pct": 0.18
+        "vrednost": 1.1472,
+        "sprememba_pct": 0.03
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.555,
-        "sprememba_pct": -0.65,
+        "vrednost": 4.545,
+        "sprememba_pct": -0.87,
         "enota": "%"
       }
     ],
@@ -178,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 65074.6,
-        "sprememba_pct": 0.15,
+        "vrednost": 64773.12,
+        "sprememba_pct": 0.08,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16.41,
-      "sprememba_pct": -0.55
+      "vrednost": 15.67,
+      "sprememba_pct": -5.03
     }
   }
 }
