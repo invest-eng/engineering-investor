@@ -1,108 +1,108 @@
 {
-  "generiranoOb": "2026-07-16T16:51:16.133Z",
+  "generiranoOb": "2026-07-16T16:59:10.685Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-07-16",
-  "povzetek": "Evropski trgi so danes, 16. julija 2026, zaključili trgovanje v negativnem območju, medtem ko so ameriški indeksi po dveh urah trgovanja prav tako kazali padce. Nemški DAX je dan zaključil pri 24.915 točkah z -0.34 % padcem, medtem ko sta v ZDA S&P 500 in Nasdaq 100 beležila -0.36 % oziroma -1.42 % padca, pri čemer je S&P 500 pri 7545 točkah in Nasdaq 100 pri 29084 točkah. Volatilnost trga, merjena z indeksom VIX, je zrasla za 4.08 % na 16.31, kar kaže na povečano negotovost. Na trgu surovin je zlato padlo za 1.40 % na 3995.10 USD/oz, medtem ko sta ceni nafte WTI in Brent zabeležili manjše padce, na 78.87 USD/sod in 84.92 USD/sod. Donosnost 10-letne ameriške državne obveznice se je povečala za 0.77 % na 4.58 %, evro pa je oslabel proti dolarju, saj je par EUR/USD padel za 0.24 % na 1.1440. Medtem ko se v Ukrajini nadaljujejo geopolitične napetosti z odpuščanjem obrambnega ministra in grožnjami ruskih napadov na izvoz žita, so v ZDA zaskrbljenost vzbudili najvišji hipotekarni obrestni tečaji v letu 2026, kar vpliva na nepremičninski trg. Vlagatelji bodo v prihodnjih dneh pozorno spremljali nadaljevanje sezone objav četrtletnih rezultatov podjetij, vključno z današnjo objavo Netflixa.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, podobno pa se je začelo tudi trgovanje v ZDA. Nemški indeks DAX je padel za 0,34 % na 24915 točk, medtem ko je ameriški S&P 500 po dveh urah trgovanja beležil padec za 0,24 % na 7554 točk, tehnološki Nasdaq 100 pa je bil v precej večjem minusu, in sicer za 1,22 % pri 29142 točkah. Splošno negativno razpoloženje je sovpadalo z rastjo donosnosti 10-letnih ameriških državnih obveznic, ki so se zvišale za 0,77 % na 4,58 %, kar je najvišja raven hipotekarnih obrestnih mer v letu 2026, in s povečanjem indeksa volatilnosti VIX za 4,34 % na 16,35. Med ključnimi novicami izstopajo napovedi ZDA o uvedbi novih carin na brazilske izdelke, ruski napadi na ukrajinsko žitno trgovino v Črnem morju, ki so povzročili skok cen pšenice, ter poročila o domnevnih visokih stroških za ameriške potrošnike zaradi sprememb v regulaciji finančnih storitev. Vlagatelji bodo pozorno spremljali objavo četrtletnih rezultatov podjetja Netflix, ki bo objavljena po zaprtju ameriških trgov. ",
   "novice": [
     {
-      "naslov": "Odpustitev ukrajinskega obrambnega ministra povzroča politične pretrese v Kijevu",
+      "naslov": "ZDA uvajajo 25-odstotne carine na nekatere brazilske uvoze zaradi nepoštenih praks",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Združene države Amerike so napovedale uvedbo novih 25-odstotnih carin na določene brazilske uvoze. Ta poteza je odgovor na domnevne nepoštene trgovinske prakse Brazilije, ki so povzročile napetosti med državama. Kljub splošni uvedbi carin so bili nekateri ključni brazilski proizvodi, kot so govedina, kava in redke zemeljske kovine, izvzeti iz novih dajatev. Odločitev je bila objavljena 16. julija 2026 in predstavlja pomemben korak v zunanjetrgovinski politiki ZDA.",
+      "analiza": "Uvedba carin s strani ZDA na brazilske uvoze odraža naraščajoče globalne trgovinske napetosti in trend protekcionizma. V preteklosti so podobne poteze pogosto sprožile povračilne ukrepe, kar lahko vodi v širše trgovinske vojne in motnje v globalnih dobavnih verigah. Mehanizem vpliva na finančne trge je večplasten: lahko povzroči padec vrednosti brazilske valute (BRL) v primerjavi z ameriškim dolarjem (EUR/USD je danes padel za 0,25 % na 1.1439, kar kaže na splošno moč dolarja), zmanjša dobičke brazilskih izvoznikov in poveča stroške za ameriške potrošnike, kar bi lahko prispevalo k inflaciji. Posledice za delniške trge vključujejo morebiten padec delnic podjetij, ki so močno odvisna od trgovine med ZDA in Brazilijo, ter splošno negotovost, ki se odraža v indeksih, kot je S&P 500, ki je danes padel za 0,24 %. Za slovenskega dolgoročnega vlagatelja to pomeni posreden vpliv prek globalnih dobavnih verig in morebitnega višjega inflacijskega pritiska, kar lahko vpliva na donosnost naložb v mednarodna podjetja.",
+      "vpliv": [
+        "25-odstotne carine na nekatere brazilske uvoze",
+        "Povečane trgovinske napetosti med ZDA in Brazilijo",
+        "Možna depreciacija brazilske valute",
+        "Potencialni inflacijski pritiski v ZDA"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/7/16/us-to-impose-new-25-percent-tariffs-on-some-brazilian-imports?traffic_source=rss",
+      "objavljeno": "2026-07-16T16:27:44.000Z"
+    },
+    {
+      "naslov": "Ruski napadi ogrožajo ukrajinsko trgovino z žitom v Črnem morju",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Ukrajinski predsednik Volodimir Zelenski se je bil prisiljen umakniti po odločitvi o odstavitvi priljubljenega obrambnega ministra, kar je sprožilo javno in politično neodobravanje. Ta poteza je povzročila nemire v vladi in nakazuje na notranje politične izzive v Kijevu. Odpustitev ministra je bila sprejeta po močnem odzivu javnosti in političnih krogov, kar kaže na občutljivost ukrajinske politične scene med vojno. Dogodek poudarja pritisk, pod katerim deluje ukrajinsko vodstvo, in morebitne delitve znotraj vladajoče elite.",
-      "analiza": "Odpustitev obrambnega ministra v času vojne je pomemben dogodek, ki kaže na notranjo politično nestabilnost v Ukrajini. Takšni pretresi lahko oslabijo zaupanje mednarodnih partnerjev in vplivajo na vojaško strategijo ter sposobnost države za učinkovito obrambo. V kontekstu dolgotrajnega konflikta z Rusijo, kjer so ruski napadi na ukrajinski izvoz žita (novica št. 13) že povzročili motnje, notranja nestabilnost še dodatno zapleta situacijo. Za finančne trge to pomeni povečano geopolitično tveganje, ki se lahko odrazi v višjih cenah surovin, zlasti energentov in kmetijskih proizvodov, zaradi strahu pred nadaljnjimi motnjami v dobavnih verigah. Vlagatelji v delnice, zlasti v evropskih regijah, so lahko bolj previdni, kar se kaže v današnjem padcu DAX indeksa za 0.34 % na 24.915 točk. Povečana negotovost lahko vodi tudi do iskanja varnih zatočišč, kar bi lahko vplivalo na gibanje zlata, čeprav je danes padlo za 1.40 % na 3995.10 USD/oz. Donosnosti obveznic se lahko povečajo, saj vlagatelji zahtevajo višje premije za tveganje. Slovenski dolgoročni vlagatelj mora biti pozoren na morebitno nadaljnje stopnjevanje geopolitičnih tveganj, ki lahko vplivajo na globalne dobavne verige in cene energentov, kar posredno vpliva na inflacijo in gospodarsko rast v Evropi.",
+      "povzetek": "Ruski napadi na ukrajinsko infrastrukturo v Črnem morju resno ogrožajo izvoz žita iz Ukrajine. Zaradi teh napadov so cene pšenice že močno poskočile, kar povzroča zaskrbljenost glede globalne preskrbe s hrano. Ukrajina je eden ključnih svetovnih izvoznikov žita, zato motnje v njenem izvozu neposredno vplivajo na mednarodne trge. Novica, objavljena 16. julija 2026, poudarja resnost situacije in njen potencialni vpliv na svetovno gospodarstvo.",
+      "analiza": "Nadaljevanje ruskih napadov na ukrajinsko žitno infrastrukturo v Črnem morju predstavlja kritično geopolitično tveganje za globalno prehransko varnost. Ukrajina je zgodovinsko pomemben dobavitelj pšenice in drugih žitaric, zato vsaka motnja v njenem izvozu neposredno vpliva na svetovne cene surovin. Mehanizem vpliva je direkten: zmanjšana ponudba žita na svetovnih trgih povzroči rast cen, kar se je že pokazalo s 'poskočenjem cen pšenice'. To prispeva k inflacijskim pritiskom po svetu in lahko poslabša prehransko krizo v revnejših državah. Na finančnih trgih to pomeni rast cen kmetijskih surovin, kar lahko pozitivno vpliva na delnice podjetij v kmetijskem sektorju, hkrati pa negativno na potrošnike in podjetja, ki so odvisna od teh surovin. Povečana negotovost se odraža tudi v širših tržnih indeksih, kot je DAX, ki je danes padel za 0,34 %. Za slovenskega dolgoročnega vlagatelja je to pomembno zaradi posrednega vpliva na inflacijo in stroške življenja, pa tudi zaradi morebitnih naložb v podjetja, ki so izpostavljena cenam surovin.",
       "vpliv": [
-        "Povečana geopolitična negotovost",
-        "Potencialno višje cene surovin (energenti, žito)",
-        "Pritisk na evropske delniške trge (DAX -0.34 %)",
-        "Povečana donosnost obveznic zaradi tveganja"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/06865b90-5b62-46c5-ae8d-147842b41cd0?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-16T16:34:27.000Z"
-    },
-    {
-      "naslov": "Chevron in Irak načrtujeta naftovod skozi Sirijo za obvoz Hormuške ožine",
-      "sektor": "Energetika",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Konzorcij, ki ga podpirata Chevron in Irak, si prizadeva za izgradnjo naftovoda skozi Sirijo, da bi obšel Hormuško ožino. Projekt vključuje tudi sirsko-katarsko skupino in podjetje iz Los Angelesa z vezmi do zaveznika Donalda Trumpa, Toma Barracka. Cilj je diverzifikacija poti za izvoz nafte in zmanjšanje odvisnosti od strateško občutljive Hormuške ožine, ki je ključna točka za globalni pretok nafte. Ta poteza bi lahko imela dolgoročne posledice za globalno energetsko varnost in geopolitično ravnovesje v regiji.",
-      "analiza": "Načrtovanje naftovoda, ki bi obšel Hormuško ožino, je strateško pomemben dogodek v energetskem sektorju. Hormuška ožina je ena najpomembnejših pomorskih poti za prevoz nafte na svetu, in morebitne motnje v njej lahko dramatično vplivajo na globalne cene nafte. Poskusi diverzifikacije dobavnih poti so odraz želje po zmanjšanju geopolitičnih tveganj in zagotavljanju stabilnejše oskrbe z energijo. Čeprav so cene nafte WTI in Brent danes zabeležile manjše padce (WTI -0.32 % na 78.87 USD/sod, Brent -0.04 % na 84.92 USD/sod), bi takšen projekt dolgoročno lahko prispeval k stabilizaciji cen. Vendar pa je izgradnja naftovoda skozi Sirijo, državo, ki je še vedno vpletena v konflikt, polna izzivov in tveganj. To vključuje tako varnostna kot politična tveganja, saj je regija izjemno nestabilna. Vpliv na delnice energetskih podjetij, kot je Chevron, bi bil dolgoročno pozitiven, saj bi zmanjšal operativna tveganja in stroške prevoza. Za obveznice in valute bi lahko zmanjšanje tveganja v dobavnih verigah pomenilo manjšo premijo za tveganje. Slovenski dolgoročni vlagatelj mora razumeti, da takšni projekti, čeprav dolgotrajni, pomembno vplivajo na globalno energetsko varnost in lahko zmanjšajo volatilnost cen nafte v prihodnosti, kar je koristno za stabilnost gospodarstva.",
-      "vpliv": [
-        "Diverzifikacija globalnih poti za izvoz nafte",
-        "Potencialno zmanjšanje geopolitičnih tveganj za oskrbo z nafto",
-        "Dolgoročno stabilizacijski vpliv na cene nafte",
-        "Pozitiven vpliv na delnice energetskih podjetij"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/eb6e0b25-6682-46bc-a879-136a38d1d7d6?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-16T16:14:17.000Z"
-    },
-    {
-      "naslov": "Hipotekarne obrestne mere v ZDA dosegle najvišjo raven leta 2026",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Hipotekarne obrestne mere v Združenih državah Amerike so poskočile na najvišjo raven v letu 2026, kar predstavlja nov udarec za nepremičninski trg. Ta skok obrestnih mer dodatno otežuje dostopnost stanovanj in lahko upočasni aktivnost na trgu nepremičnin. Povečanje obrestnih mer je pogosto odraz pričakovanj glede prihodnjih potez centralne banke in inflacijskih pritiskov. Višje obrestne mere neposredno vplivajo na stroške zadolževanja za kupce nepremičnin, kar zmanjšuje njihovo kupno moč.",
-      "analiza": "Skok hipotekarnih obrestnih mer na najvišjo raven v letu 2026 je ključen makroekonomski dogodek, ki neposredno vpliva na nepremičninski trg in širše gospodarstvo. Višje obrestne mere pomenijo dražje zadolževanje za potrošnike, kar zmanjšuje povpraševanje po stanovanjih in lahko vodi do upočasnitve rasti cen nepremičnin ali celo do padcev. To se vpenja v širši trend zaostrovanja monetarne politike, kjer centralne banke poskušajo obvladati inflacijo. Donosnost 10-letne ameriške državne obveznice, ki je danes zrasla za 0.77 % na 4.58 %, pogosto služi kot referenca za dolgoročne obrestne mere, vključno s hipotekarnimi. Povečanje obrestnih mer negativno vpliva na delnice podjetij, povezanih z nepremičninami (gradbeništvo, banke, nepremičninski skladi), in na splošno na potrošniško porabo, saj imajo gospodinjstva manj razpoložljivega dohodka. Na valutnih trgih lahko višje obrestne mere v ZDA podprejo dolar, kar se kaže v današnjem padcu EUR/USD za 0.24 % na 1.1440. Slovenski dolgoročni vlagatelj mora biti pozoren na gibanje obrestnih mer, saj te vplivajo na vrednotenje vseh vrst naložb, od delnic do obveznic, in na globalno gospodarsko rast. Višje obrestne mere lahko pomenijo tudi višje stroške zadolževanja za podjetja in države.",
-      "vpliv": [
-        "Negativen vpliv na nepremičninski trg in gradbeništvo",
-        "Zmanjšanje kupne moči potrošnikov",
-        "Potencialna podpora ameriškemu dolarju (EUR/USD -0.24 %)",
-        "Povečana donosnost obveznic (10Y US Treasury +0.77 %)"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/mortgage-rates-jump-to-the-highest-level-of-2026-7a35f79e?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-16T16:04:00.000Z"
-    },
-    {
-      "naslov": "Američani potrebujejo 1,2 milijona dolarjev za upokojitev, a jih ovirajo dolgovi",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Več kot 80 % Američanov skrbi, da jim bo zmanjkalo denarja v pokoju, saj menijo, da potrebujejo 1,2 milijona dolarjev za udobno upokojitev. Kljub temu jih večina ne bo dosegla tega cilja zaradi prevelike zadolženosti. Ta zaskrbljenost \"jim resnično ne da spati\", kar poudarja globino problema osebnega dolga in nezadostnih prihrankov za pokojnino. To kaže na širši problem finančne varnosti gospodinjstev in pomanjkanje dolgoročnega finančnega načrtovanja.",
-      "analiza": "Podatek, da večina Američanov potrebuje 1,2 milijona dolarjev za upokojitev, a jih ovira dolg, je pomemben pokazatelj stanja potrošniških financ in dolgoročne ekonomske stabilnosti. Visoka zadolženost gospodinjstev in nezadostni prihranki za pokojnino predstavljajo sistemsko tveganje za gospodarstvo, saj lahko v prihodnosti zmanjšajo potrošnjo in povečajo socialne obremenitve. Ta novica se navezuje na širše makroekonomske trende, kot so inflacija, ki zmanjšuje kupno moč prihrankov, in naraščajoče obrestne mere (kot je razvidno iz skoka hipotekarnih obrestnih mer), ki povečujejo stroške servisiranja dolgov. Na delniške trge lahko to vpliva negativno, saj dolgoročno zmanjšuje potencialno potrošnjo in s tem dobičke podjetij. Na obvezniških trgih lahko povečana zadolženost in socialne obremenitve vplivajo na bonitetne ocene držav. Za slovenske dolgoročne vlagatelje ta novica poudarja univerzalno pomembnost zgodnjega in discipliniranega varčevanja za pokojnino ter obvladovanja dolgov. Čeprav se nanaša na ZDA, so podobni izzivi prisotni tudi v Evropi, zato je diverzifikacija naložb in premišljeno finančno načrtovanje ključnega pomena.",
-      "vpliv": [
-        "Povečana zaskrbljenost glede finančne varnosti potrošnikov",
-        "Potencialno zmanjšanje dolgoročne potrošnje",
-        "Pritisk na socialne sisteme v prihodnosti",
-        "Poudarek na pomembnosti osebnega finančnega načrtovanja"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/americans-say-they-need-1-2-million-to-retire-most-are-too-deep-in-debt-to-get-there-689c683b?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-16T16:41:00.000Z"
-    },
-    {
-      "naslov": "Ruski napadi ogrožajo ukrajinsko trgovino z žitom prek Črnega morja",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Ruski napadi resno ogrožajo ukrajinsko trgovino z žitom prek Črnega morja, kar je povzročilo skok cen pšenice. Težki napadi motijo pošiljke in povzročajo negotovost na globalnih trgih s hrano. Ukrajina je ključna izvoznica žita, in motnje v njenem izvozu imajo globalne posledice za prehransko varnost in inflacijo. To je del širše ruske strategije za oslabitev ukrajinskega gospodarstva in vpliv na globalne dobavne verige.",
-      "analiza": "Ruski napadi na ukrajinsko trgovino z žitom prek Črnega morja so kritičen geopolitični in ekonomski dogodek. Ukrajina je eden največjih svetovnih izvoznikov pšenice in drugih žit, zato kakršnekoli motnje v njenem izvozu neposredno vplivajo na globalne cene hrane. Novica navaja, da so cene pšenice že poskočile, kar je neposredna posledica teh napadov. To se vpenja v širši kontekst konflikta v Ukrajini, kjer je destabilizacija gospodarstva ključni del vojaške strategije. Na trgih surovin takšni dogodki povzročajo volatilnost in inflacijske pritiske, saj se zmanjša ponudba ključnih dobrin. Čeprav zlato danes beleži padec za 1.40 % na 3995.10 USD/oz, bi dolgoročno lahko takšna negotovost podprla cene varnih zatočišč. Povečane cene hrane prispevajo k inflaciji, kar lahko prisili centralne banke k nadaljnjemu zaostrovanju monetarne politike, kar se odraža v višjih donosnostih obveznic (10-letna ameriška obveznica +0.77 % na 4.58 %). Na delniških trgih lahko to negativno vpliva na podjetja v prehrambni industriji in na splošno na potrošniško porabo. Slovenski dolgoročni vlagatelj mora biti pozoren na vpliv geopolitičnih dogodkov na cene surovin, saj ti neposredno vplivajo na inflacijo in kupno moč, kar se odraža tudi v donosnosti naložb.",
-      "vpliv": [
-        "Skok cen pšenice in drugih žit",
-        "Povečani globalni inflacijski pritiski",
-        "Povečana geopolitična negotovost",
-        "Potencialen vpliv na monetarno politiko centralnih bank"
+        "Skok cen pšenice",
+        "Povečani inflacijski pritiski",
+        "Motnje v globalnih dobavnih verigah s hrano",
+        "Povečana geopolitična tveganja"
       ],
       "vir": "Financial Times",
       "vir_url": "https://www.ft.com/content/5c64e7a5-fe26-4f14-8d77-1d0f1d8a30d3?syn-25a6b1a6=1",
       "objavljeno": "2026-07-16T15:53:19.000Z"
     },
     {
-      "naslov": "Netflix objavlja četrtletne rezultate: pričakovanja vlagateljev glede rasti in oglaševanja",
+      "naslov": "Chevron in Irak načrtujeta naftovod skozi Sirijo za obvoz Hormuške ožine",
+      "sektor": "Energetika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Koncern Chevron in Irak si prizadevata za izgradnjo naftovoda skozi Sirijo, da bi obšla strateško pomembno Hormuško ožino. Konzorcij, ki stoji za projektom, vključuje tudi sirsko-katarsko skupino in podjetje LA venture firm z vezmi na Toma Barracka, zaveznika Donalda Trumpa. Cilj projekta je diverzifikacija naftnih poti in zmanjšanje odvisnosti od Hormuške ožine, ki je pogosto vir geopolitičnih napetosti. Novica je bila objavljena 16. julija 2026.",
+      "analiza": "Načrt Chevrone in Iraka za izgradnjo naftovoda skozi Sirijo, ki bi obšel Hormuško ožino, ima dolgoročne strateške in energetske implikacije. Hormuška ožina je ključna točka za globalni transport nafte, zato njeno obvoženje zmanjšuje tveganja, povezana z morebitnimi geopolitičnimi konflikti v regiji. Mehanizem vpliva na trge je kompleksen: na eni strani bi dolgoročno lahko prispeval k večji stabilnosti dobave nafte in s tem k stabilizaciji cen, na drugi strani pa lahko sama izgradnja in vpletenost različnih akterjev (vključno s sirsko-katarsko skupino in povezavami s Trumpovim zaveznikom) povzroči nove geopolitične napetosti v Siriji in širši regiji. Cene nafte WTI in Brent so danes sicer zabeležile manjše padce (WTI -0,44 % na 78,77 USD/sod, Brent -0,24 % na 84,75 USD/sod), vendar ta novica vpliva predvsem na dolgoročna pričakovanja. Posledice za delnice bi lahko bile pozitivne za vpletena energetska podjetja, vendar bi lahko morebitna nestabilnost v regiji vplivala na širši trg. Za slovenskega dolgoročnega vlagatelja to pomeni posreden vpliv na globalne cene energentov in geopolitično stabilnost, kar lahko vpliva na donosnost naložb v energetski sektor in širše trge.",
+      "vpliv": [
+        "Diverzifikacija globalnih naftnih poti",
+        "Zmanjšanje odvisnosti od Hormuške ožine",
+        "Potencialne nove geopolitične napetosti v Siriji",
+        "Dolgoročni vpliv na stabilnost cen nafte"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/eb6e0b25-6682-46bc-a879-136a38d1d7d6?syn-25a6b1a6=1",
+      "objavljeno": "2026-07-16T16:14:17.000Z"
+    },
+    {
+      "naslov": "Hipotekarne obrestne mere v ZDA dosegle najvišjo raven v letu 2026",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Hipotekarne obrestne mere v Združenih državah Amerike so poskočile na najvišjo raven v letu 2026, kar predstavlja nov udarec za stanovanjski trg. Ta rast obrestnih mer dodatno obremenjuje kupce nepremičnin in zmanjšuje njihovo kupno moč. Novica, objavljena 16. julija 2026, poudarja nadaljnje zaostrovanje pogojev na trgu nepremičnin, kar lahko vpliva na širše gospodarsko okrevanje. Rast je sovpadala z rastjo donosnosti 10-letnih ameriških državnih obveznic, ki so se zvišale za 0,77 % na 4,58 %.",
+      "analiza": "Rast hipotekarnih obrestnih mer na najvišjo raven v letu 2026 je pomemben makroekonomski signal, ki odraža splošno zaostrovanje denarne politike in pričakovanja glede inflacije. Ta trend je pogosto povezan z rastjo donosnosti državnih obveznic, kot je danes zabeležena rast 10-letnih ameriških obveznic za 0,77 % na 4,58 %. Mehanizem vpliva je direkten: višje obrestne mere zmanjšujejo dostopnost posojil, kar ohlaja povpraševanje na stanovanjskem trgu, zmanjšuje gradbeno aktivnost in lahko vodi v padec cen nepremičnin. To ima posledice za potrošniško porabo, saj so lastniki nepremičnin pogosto manj pripravljeni trošiti, če se vrednost njihovega premoženja zmanjšuje. Na delniških trgih to negativno vpliva na delnice gradbenih podjetij, bank in vseh sektorjev, ki so povezani s stanovanjskim trgom. Širše gledano, lahko takšna rast obrestnih mer upočasni gospodarsko rast in poveča tveganje za recesijo, kar se odraža tudi v splošnem padcu indeksov, kot je S&P 500 (-0,24 %). Za slovenskega dolgoročnega vlagatelja to pomeni posreden vpliv na globalno gospodarsko rast in morebitno zmanjšanje dobičkov podjetij, ki so izpostavljena ameriškemu trgu nepremičnin, ter potencialno višje stroške zadolževanja tudi v Evropi.",
+      "vpliv": [
+        "Hipotekarne obrestne mere najvišje v letu 2026",
+        "Negativen udarec za stanovanjski trg ZDA",
+        "Zmanjšana kupna moč potrošnikov",
+        "Rast donosnosti 10-letnih ameriških obveznic na 4,58 %"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/mortgage-rates-jump-to-the-highest-level-of-2026-7a35f79e?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-16T16:04:00.000Z"
+    },
+    {
+      "naslov": "Senatorka Warren trdi, da so spremembe CFPB stale Američane 26,5 milijarde dolarjev",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Senatorka Elizabeth Warren je izjavila, da je razveljavitev pravil in zmanjšanje uveljavljanja s strani Trumpove administracije pri Uradu za finančno zaščito potrošnikov (CFPB) stalo Američane do 26,5 milijarde dolarjev. Ta ocena poudarja pomemben vpliv regulativnih sprememb na finančno blaginjo potrošnikov. Novica, objavljena 16. julija 2026, odpira vprašanja o učinkovitosti in pomembnosti finančne regulacije ter zaščite potrošnikov v ZDA.",
+      "analiza": "Izjava senatorke Elizabeth Warren o domnevnih stroških, ki so jih imeli ameriški potrošniki zaradi sprememb v CFPB, poudarja nenehno politično in regulativno razpravo o obsegu in vlogi finančne regulacije. CFPB je bil ustanovljen za zaščito potrošnikov v finančnem sektorju, zato vsako 'razveljavitev pravil in zmanjšanje uveljavljanja' lahko pomeni manj zaščite in potencialno večje stroške za posameznike. Mehanizem vpliva na finančne trge je posreden, vendar pomemben: manj stroga regulacija lahko kratkoročno koristi finančnim institucijam z zmanjšanjem stroškov skladnosti, vendar lahko dolgoročno poveča sistemska tveganja in tveganja za potrošnike. To lahko vpliva na delnice bank in drugih finančnih podjetij, saj se spreminja njihovo operativno okolje. Poročilo o stroških v višini 26,5 milijarde dolarjev za potrošnike lahko sproži pozive k ponovni vzpostavitvi strožjih regulativnih okvirov, kar bi lahko vplivalo na prihodnje poslovanje finančnega sektorja. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati regulativno okolje v ZDA, saj lahko vpliva na stabilnost in donosnost naložb v ameriške finančne institucije, ki so del globalnih portfeljev.",
+      "vpliv": [
+        "Domnevni stroški za ameriške potrošnike do 26,5 milijarde dolarjev",
+        "Razprava o finančni regulaciji in zaščiti potrošnikov",
+        "Vpliv na poslovanje finančnih institucij",
+        "Potencialne prihodnje regulativne spremembe"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html",
+      "objavljeno": "2026-07-16T16:36:23.000Z"
+    },
+    {
+      "naslov": "Netflix bo poročal o četrtletnih rezultatih: pričakovanja glede oglaševanja in M&A",
       "sektor": "Tehnologija & AI",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Vlagatelji nestrpno pričakujejo objavo četrtletnih rezultatov Netflixa po zaprtju borze. Pozornost bo usmerjena na posodobitve glede poslovanja, podprtega z oglaševanjem, metrike angažiranosti uporabnikov in morebitne načrte za združitve in prevzeme. Netflix je ključni igralec v industriji pretočnih vsebin, in njegovi rezultati pogosto služijo kot barometer za širši tehnološki sektor in potrošniško porabo. Pričakuje se, da bo podjetje razkrilo, kako se spopada s konkurenco in spreminjajočimi se navadami gledalcev.",
-      "analiza": "Objava četrtletnih rezultatov Netflixa je pomemben dogodek za tehnološki sektor in širše trge, saj je Netflix velika tehnološka družba in pionir v pretočnih vsebinah. Vlagatelji bodo pozorni na rast števila naročnikov, uspešnost oglaševalskega modela in morebitne signale o prihodnjih strategijah, kot so združitve in prevzemi. Rezultati Netflixa lahko vplivajo na celoten sektor pretočnih vsebin in podjetja, ki so odvisna od potrošniške porabe za zabavo. Danes je Nasdaq 100, ki močno vključuje tehnološka podjetja, zabeležil padec za 1.42 % na 29084 točk, kar morda odraža splošno previdnost pred objavami rezultatov. Pozitivni rezultati bi lahko podprli tehnološke delnice, medtem ko bi razočaranje lahko povzročilo nadaljnje padce. Vpliv na obveznice in valute je posreden, preko splošnega sentimenta na delniških trgih. V času, ko se vlagatelji soočajo z višjimi obrestnimi merami in inflacijo, je sposobnost podjetij za rast in dobičkonosnost še toliko bolj pod drobnogledom. Slovenski dolgoročni vlagatelj, ki ima izpostavljenost do tehnološkega sektorja, naj spremlja, kako se podjetja prilagajajo na spremenjene ekonomske razmere in konkurenčno okolje, saj to vpliva na dolgoročno vrednost njihovih naložb.",
+      "povzetek": "Podjetje Netflix bo po zaprtju ameriških trgov poročalo o svojih četrtletnih rezultatih poslovanja. Vlagatelji bodo pozorno spremljali posodobitve glede poslovanja, ki ga podpira oglaševanje, metrike angažiranosti uporabnikov in morebitne načrte za združitve in prevzeme (M&A). Pričakuje se, da bodo ti podatki dali vpogled v prihodnjo strategijo in rast pretočnega velikana. Novica, objavljena 16. julija 2026, poudarja pomembnost te objave za tehnološki sektor.",
+      "analiza": "Poročilo o zaslužkih podjetja Netflix, ki bo objavljeno po zaprtju borze, je ključen dogodek za tehnološki sektor in širši trg. Netflix je vodilni akter v industriji pretočnih vsebin, zato njegovi rezultati pogosto služijo kot barometer za celotno panogo in razpoloženje v tehnološkem sektorju. Vlagatelji so še posebej osredotočeni na uspeh oglaševalskega modela, ki predstavlja novo pot do prihodkov, ter na metrike angažiranosti, ki kažejo na zvestobo in rast uporabnikov. Morebitne omembe združitev in prevzemov (M&A) bi lahko prav tako sprožile pomembne premike. Mehanizem vpliva je direkten: pozitivni rezultati in optimistične napovedi lahko dvignejo ceno delnice Netflixa in pozitivno vplivajo na celoten tehnološki indeks Nasdaq 100, ki je danes padel za 1,22 %. Negativni rezultati pa bi lahko povzročili padec delnice in širše negativno razpoloženje v sektorju. Za slovenskega dolgoročnega vlagatelja, ki ima naložbe v globalne tehnološke sklade ali posamezne delnice, je ta objava pomembna za oceno zdravja in prihodnjih obetov enega ključnih igralcev v digitalni ekonomiji.",
       "vpliv": [
-        "Vpliv na delnice Netflixa in celoten sektor pretočnih vsebin",
-        "Indikator zdravja tehnološkega sektorja (Nasdaq 100 -1.42 %)",
-        "Vpliv na sentiment vlagateljev glede potrošniške porabe",
-        "Pokazatelj uspešnosti oglaševalskih modelov v pretočnih storitvah"
+        "Vpliv na ceno delnice Netflixa",
+        "Kazalnik zdravja industrije pretočnih vsebin",
+        "Vpliv na širši tehnološki sektor (Nasdaq 100 je padel za 1,22 %)",
+        "Smernice za oglaševalski model in M&A"
       ],
       "vir": "CNBC",
       "vir_url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
@@ -110,19 +110,19 @@
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-16T16:49:28.471Z",
+    "posodobljenoOb": "2026-07-16T16:58:28.022Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7545.05,
-        "sprememba_pct": -0.36
+        "vrednost": 7554.06,
+        "sprememba_pct": -0.24
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29084.105,
-        "sprememba_pct": -1.42
+        "vrednost": 29141.65,
+        "sprememba_pct": -1.22
       },
       {
         "simbol": "^GDAXI",
@@ -141,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 3995.1,
-        "sprememba_pct": -1.4,
+        "vrednost": 3995.6,
+        "sprememba_pct": -1.39,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 78.87,
-        "sprememba_pct": -0.32,
+        "vrednost": 78.77,
+        "sprememba_pct": -0.44,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 84.92,
-        "sprememba_pct": -0.04,
+        "vrednost": 84.75,
+        "sprememba_pct": -0.24,
         "enota": "USD/sod"
       }
     ],
@@ -164,8 +164,8 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.144,
-        "sprememba_pct": -0.24
+        "vrednost": 1.1439,
+        "sprememba_pct": -0.25
       }
     ],
     "obveznice": [
@@ -181,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 64385.28,
-        "sprememba_pct": -0.52,
+        "vrednost": 64454.82,
+        "sprememba_pct": -0.41,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16.31,
-      "sprememba_pct": 4.08
+      "vrednost": 16.35,
+      "sprememba_pct": 4.34
     }
   }
 }
