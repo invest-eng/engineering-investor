@@ -1,116 +1,133 @@
 {
-  "generiranoOb": "2026-07-18T06:18:32.302Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-07-18T16:28:58.769Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-07-18",
-  "povzetek": "Jutranji pregled finančnih trgov 18. julija 2026 kaže na pretežno negativno razpoloženje, predvsem na azijskih in ameriških borzah. Ameriški indeks S&P 500 je zaključil pri 7458 točkah z -1.01 % padcem, medtem ko je tehnološki Nasdaq 100 zabeležil še večji padec, -1.49 %, na 28593 točk. Azijski trgi so sledili temu trendu, saj je Nikkei 225 strmoglavil za -4.03 % na 64141 točk, kar kaže na zaskrbljenost glede globalnega gospodarskega okolja. Evropski DAX je bil nekoliko bolj odporen z -0.34 % padcem na 24831 točk. Na trgu surovin je prišlo do znatnega dviga cen nafte, saj je WTI nafta poskočila za +4.47 % na 81.78 USD/sod, Brent pa za +4.59 % na 88.10 USD/sod, kar je verjetno odraz eskalacije konflikta na Bližnjem vzhodu, kjer so poročali o napadih na Kuvajt, Bahrajn in Jordanijo. Zlato je medtem zraslo za +0.67 % na 4018.80 USD/oz, kar kaže na iskanje varnih zatočišč, medtem ko je indeks volatilnosti VIX poskočil za +12.19 % na 18.77. Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v evroobmočju, ki bi lahko vplivala na prihodnje odločitve Evropske centralne banke.",
+  "povzetek": "Evropski trgi so danes zaključili z mešanim do negativnim sentimentom, saj je nemški indeks DAX padel za 0.34 % na 24831. Na drugi strani Atlantika so ameriški trgi po dveh urah trgovanja prav tako beležili padce, pri čemer je S&P 500 znašal 7458 (-1.01 %), tehnološki Nasdaq 100 pa 28593 (-1.49 %). Povečana geopolitična tveganja na Bližnjem vzhodu, zlasti iranski napadi na Kuvajt, so povzročila občuten dvig cen nafte; WTI nafta je poskočila za 4.47 % na 81.78 USD/sod, Brent nafta pa za 4.59 % na 88.10 USD/sod. Zlato, tradicionalno varno zatočišče, je pridobilo 0.67 % in se povzpelo na 4018.80 USD/oz, medtem ko je donosnost 10-letne ameriške državne obveznice padla za 0.61 % na 4.54 %. Indeks volatilnosti VIX je zrasel za 12.19 % na 18.77, kar odraža povečano negotovost na trgih. Ta teden bodo vlagatelji pozorno spremljali objavo indeksa cen življenjskih potrebščin (CPI) v ZDA, ki bo ključna za oceno prihodnjih odločitev centralnih bank. ",
   "novice": [
     {
-      "naslov": "Bližnjevzhodni konflikt se širi, napadi na Kuvajt, Bahrajn in Jordanijo",
+      "naslov": "Iranski napadi na Kuvajt povzročajo dim in dvigujejo cene nafte",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Al Jazeera poroča o sedmi zaporedni noči intenzivnih spopadov med ZDA in Iranom, pri čemer so se ameriški napadi premaknili globlje v iransko notranjost. V zadnjih napadih so bili tarča tudi Kuvajt, Bahrajn in Jordanija, kar nakazuje na širjenje konflikta po regiji. Iranski uradnik Mohsen Rezaee je opozoril, da je politika pogajanj med vojno končana in da bo Teheran stopnjeval svoj odziv v obsežno vojno, če bodo ZDA nadaljevale z bombardiranjem Irana. Poročila navajajo, da so bili tarča napadov mostovi in energetska infrastruktura, kar kaže na strateški premik v ameriški vojaški kampanji.",
-      "analiza": "Eskalacija konflikta na Bližnjem vzhodu, kjer so ZDA in Iran vpleteni v sedmo zaporedno noč spopadov, predstavlja pomembno geopolitično tveganje. Širjenje napadov na Kuvajt, Bahrajn in Jordanijo kaže na regionalno nestabilnost, ki bi lahko imela daljnosežne posledice. V preteklosti so podobni konflikti v regiji pogosto vodili do znatnih nihanj na trgu surovin. Mehanizem vpliva je neposreden: morebitne motnje v dobavi nafte iz Perzijskega zaliva, ki je ključna za globalno oskrbo, povzročijo rast cen. To se že odraža v današnjem skoku cen nafte, saj je WTI nafta zrasla za +4.47 % na 81.78 USD/sod, Brent pa za +4.59 % na 88.10 USD/sod. Za delniške trge to pomeni povečano negotovost in umik kapitala iz tveganih naložb, kar se kaže v padcih indeksov, kot sta S&P 500 (-1.01 %) in Nasdaq 100 (-1.49 %), ter v rasti indeksa volatilnosti VIX (+12.19 % na 18.77). Vlagatelji se zatekajo k varnim zatočiščem, kot je zlato, ki je zraslo za +0.67 % na 4018.80 USD/oz. Za slovenskega dolgoročnega vlagatelja to pomeni, da je v obdobju povečane geopolitične nestabilnosti pomembno ohranjati diverzificiran portfelj in biti pripravljen na morebitna nihanja, saj višje cene energentov lahko vplivajo na inflacijo in gospodarsko rast.",
+      "povzetek": "Al Jazeera poroča, da so se nad Kuvajtom dvigali visoki stebri dima po ponavljajočih se iranskih napadih, ki so prizadeli več lokacij v Mangafu. Ti dogodki se odvijajo v času, ko se stopnjujejo napetosti na Bližnjem vzhodu. Poročila kažejo na nadaljevanje konflikta, ki se je zaostril po tem, ko je ameriški predsednik Donald Trump pred desetimi dnevi razglasil konec mirovnega dogovora z Iranom. Napadi so sprožili zaskrbljenost glede regionalne stabilnosti in varnosti dobav nafte. Konflikt se je zaostril, saj Iran obtožuje ZDA napadov na kritično infrastrukturo, poročila pa omenjajo 50 ubitih v ameriških napadih julija.",
+      "analiza": "Ozadje teh napadov je zaostritev konflikta med Iranom in ZDA, ki se je začela z razveljavitvijo mirovnega dogovora. Ponavljajoči se napadi na kritično infrastrukturo v regiji, kot so naftne lokacije v Kuvajtu, neposredno vplivajo na globalne energetske trge. Kuvajt je pomemben proizvajalec nafte in vsaka motnja v njegovi proizvodnji ali izvozu ima takojšen vpliv na cene. Mehanizem vpliva je preprost: povečana geopolitična tveganja v regiji, ki je ključna za svetovne dobave nafte, povzročajo strah pred motnjami v oskrbi. To vodi do špekulativnega nakupovanja nafte in posledično do rasti cen. Danes smo videli, da je cena WTI nafte poskočila za 4.47 % na 81.78 USD/sod, Brent nafta pa za 4.59 % na 88.10 USD/sod. Takšna rast cen nafte lahko negativno vpliva na delnice podjetij, ki so odvisna od nizkih cen energentov (npr. letalske družbe, transportna podjetja), medtem ko lahko koristi delnicam energetskih podjetij. Obvezniški trgi lahko reagirajo z iskanjem varnih zatočišč, kar bi lahko znižalo donosnosti, kot je danes pri 10-letni ameriški obveznici, ki je padla za 0.61 % na 4.54 %. Zlato, tradicionalno varno zatočišče, je prav tako pridobilo 0.67 % in se povzpelo na 4018.80 USD/oz. Vlagatelji bodo morali pozorno spremljati razvoj dogodkov v regiji, saj bi nadaljnja eskalacija lahko imela daljnosežne posledice za globalno gospodarstvo in finančne trge. Za slovenskega dolgoročnega vlagatelja to pomeni, da so portfelji, ki so izpostavljeni energetskemu sektorju, lahko bolj volatilni, medtem ko so naložbe v varne valute ali zlato lahko bolj odporne v obdobjih geopolitične negotovosti.",
       "vpliv": [
-        "Rast cen nafte (WTI +4.47 % na 81.78 USD/sod, Brent +4.59 % na 88.10 USD/sod)",
-        "Povečana geopolitična negotovost",
-        "Padec delniških indeksov (S&P 500 -1.01 %, Nasdaq 100 -1.49 %)",
-        "Rast cene zlata (+0.67 %)"
+        "WTI nafta +4.47 % na 81.78 USD/sod",
+        "Brent nafta +4.59 % na 88.10 USD/sod",
+        "Zlato +0.67 % na 4018.80 USD/oz",
+        "Povečana geopolitična tveganja"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-us-and-iran-exchange-attacks-for-7th-consecutive-night?traffic_source=rss",
-      "objavljeno": "2026-07-18T00:00:00.000Z"
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks?traffic_source=rss",
+      "objavljeno": "2026-07-18T15:35:23.000Z"
     },
     {
-      "naslov": "Podeželski prebivalci podpirajo načrt za zaščito cen kurilnega olja",
-      "sektor": "Energetika",
-      "smer": "mešano",
+      "naslov": "Belgija prepoveduje uvoz iz izraelskih naselbin v okupirani Palestini",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Prebivalci podeželja v Združenem kraljestvu, ki so odvisni od kurilnega olja kot vira goriva, pozivajo k boljši regulaciji cen. Novica, ki jo je objavil BBC Business 18. julija 2026 ob 06:10:45 UTC, poudarja potrebo po zaščitnem načrtu za gospodinjstva. Ta gospodinjstva se soočajo z izzivi zaradi nihanja cen in pomanjkanja konkurence na trgu kurilnega olja. Zahteve po regulaciji so se pojavile v času, ko so globalne cene nafte, vključno z WTI in Brent, znatno porasle, kar neposredno vpliva na stroške ogrevanja.",
-      "analiza": "Pozivi k regulaciji cen kurilnega olja v Združenem kraljestvu so neposredna posledica naraščajočih stroškov energentov in ranljivosti gospodinjstev, ki so odvisna od tega vira. V kontekstu današnjega znatnega dviga cen nafte (WTI +4.47 % na 81.78 USD/sod, Brent +4.59 % na 88.10 USD/sod) je ta tema še posebej aktualna. Mehanizem vpliva je dvojen: po eni strani višje cene nafte zvišujejo stroške življenja za potrošnike, kar lahko zmanjša diskrecijsko porabo in upočasni gospodarsko rast. Po drugi strani pa morebitna vladna regulacija ali zaščitni načrti lahko ublažijo pritisk na potrošnike, vendar lahko hkrati vplivajo na marže dobaviteljev energentov in na tržno dinamiko. V preteklosti so vlade pogosto posegale v trg energentov v obdobjih visokih cen, kar je imelo mešane rezultate. Za delniške trge to pomeni, da bi lahko podjetja v energetskem sektorju, še posebej dobavitelji kurilnega olja, čutila pritisk na dobičkonosnost, če bo regulacija uvedena. Hkrati pa bi lahko ukrepi za zaščito potrošnikov pozitivno vplivali na potrošniško zaupanje na dolgi rok. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so energetske politike in regulacije ključni dejavniki, ki vplivajo na sektor energentov in širše gospodarstvo, ter da je diverzifikacija portfelja ključna za obvladovanje tveganj, povezanih s sektorskimi spremembami.",
+      "povzetek": "Belgija je prepovedala uvoz blaga iz izraelskih naselbin v okupirani Palestini, poroča Al Jazeera. Ta poteza prihaja v času, ko zunanji ministri Evropske unije ostajajo v pat poziciji glede prepovedi trgovanja z nezakonitimi naselbinami na ravni celotne unije. Odločitev Belgije odraža naraščajoč pritisk znotraj EU za strožji odnos do izraelske politike naseljevanja. Prepoved lahko vpliva na bilateralne trgovinske odnose in sproži širše razprave o trgovinski politiki EU. To je pomemben korak za državo članico EU, ki lahko služi kot precedens.",
+      "analiza": "Ozadje te odločitve je dolgotrajni mednarodni spor glede zakonitosti izraelskih naselbin na okupiranih palestinskih ozemljih, ki jih večina mednarodne skupnosti, vključno z EU, obravnava kot nezakonite po mednarodnem pravu. Poteza Belgije je pomembna, saj gre za enostransko odločitev države članice EU, ki bi lahko spodbudila podobne ukrepe drugih držav ali okrepila pritisk za skupno politiko EU. Mehanizem vpliva na finančne trge je predvsem posreden, preko vpliva na trgovinske odnose in morebitne širše geopolitične napetosti. Neposredni vpliv na delnice izraelskih podjetij, ki poslujejo v naselbinah, je negativen, saj izgubljajo dostop do belgijskega trga. Dolgoročno bi lahko takšne prepovedi vplivale na investicijsko klimo v regiji in na vrednost podjetij, ki so odvisna od trgovanja z EU. Za valute, kot je evro, bi lahko takšne odločitve pomenile povečano politično tveganje, čeprav je neposredni vpliv na EUR/USD, ki je danes pri 1.1446 (+0.02 %), verjetno minimalen. Vlagatelji bodo morali spremljati, ali bodo druge države EU sledile belgijskemu zgledu in kako se bo razvijala širša trgovinska politika EU do Izraela. Za slovenskega dolgoročnega vlagatelja je to opomin na geopolitična tveganja, ki lahko vplivajo na globalne dobavne verige in trgovinske partnerje, kar zahteva diverzifikacijo portfelja in pozorno spremljanje mednarodnih odnosov.",
       "vpliv": [
-        "Pritisk na marže dobaviteljev energentov",
-        "Potencialno zmanjšanje diskrecijske porabe potrošnikov",
-        "Možnost vladne regulacije cen",
-        "Povečana pozornost na energetsko revščino"
+        "Negativen vpliv na podjetja v izraelskih naselbinah",
+        "Potencialne širše trgovinske napetosti",
+        "Povečano politično tveganje v EU"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/clyry0ky6vno?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-07-18T06:10:45.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss",
+      "objavljeno": "2026-07-18T16:06:06.000Z"
     },
     {
-      "naslov": "Kitajski AI model Kimi K3 dohiteva vodilne v dirki umetne inteligence",
+      "naslov": "Trgovci stavijo proti delnicam SpaceX le nekaj tednov po IPO",
       "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Kitajski AI model Kimi K3 podjetja Moonshot AI hitro dohiteva vodilne igralce, kot sta Anthropic in OpenAI, kar sproža vprašanja o prihodnosti dirke v umetni inteligenci. Novica, objavljena na MarketWatch 18. julija 2026 ob 01:17:00 UTC, poudarja naraščajočo konkurenco na področju AI. Ta razvoj kaže na globalno naravo inovacij v umetni inteligenci in na to, da se vodilni položaj v tem sektorju nenehno spreminja.",
-      "analiza": "Pojav novega kitajskega AI modela Kimi K3, ki se hitro približuje zmogljivostim vodilnih zahodnih podjetij, kot sta Anthropic in OpenAI, poudarja intenzivno globalno dirko v umetni inteligenci. Ta novica, objavljena na MarketWatch, je pomembna, saj kaže na decentralizacijo inovacij in potencialno erozijo tržnega deleža za uveljavljene igralce. Mehanizem vpliva na finančne trge je predvsem prek tehnološkega sektorja: povečana konkurenca lahko zniža marže in pritisne na cene delnic podjetij, ki so trenutno dominantna na področju AI. Hkrati pa lahko spodbudi hitrejše inovacije in širšo uporabo AI tehnologij, kar bi dolgoročno lahko bilo pozitivno za celotno gospodarstvo. V preteklosti smo že videli, kako so novi igralci hitro preoblikovali tehnološke trge, na primer v sektorju pametnih telefonov ali iskalnikov. Za delniške trge to pomeni, da vlagatelji morajo biti pozorni na konkurenčno dinamiko v AI sektorju. Čeprav azijske AI stave poganjajo rekordne prihodke za banke na Wall Streetu (kot je omenjeno v drugi novici), se lahko ta dinamika hitro spremeni. Za slovenskega dolgoročnega vlagatelja to pomeni, da je ključno spremljati globalne trende v tehnologiji in diverzificirati naložbe, namesto da bi se preveč osredotočal na enega samega \"zmagovalca\" v hitro razvijajočem se sektorju AI.",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Financial Times poroča, da se trgovci vse bolj odločajo za stave proti delnicam SpaceX, le nekaj tednov po začetni javni ponudbi (IPO). Delnice podjetja Elona Muska, ki se ukvarja z raketami in umetno inteligenco, so prvič po uvrstitvi na borzo padle pod svojo izklicno ceno. MarketWatch dodaja, da skoraj polovica večjih IPO-jev pade pod svojo ponudbeno ceno in tam ostane več let, kar kaže, da SpaceX ni izjema. To kaže na precejšen skepticizem vlagateljev glede kratkoročnega potenciala rasti podjetja kljub njegovemu inovativnemu statusu. Povečano število kratkih pozicij signalizira, da trg pričakuje nadaljnji padec vrednosti delnic.",
+      "analiza": "Ozadje te novice je nedavni IPO podjetja SpaceX, ki je bil deležen velikega pričakovanja zaradi inovativne narave podjetja in povezave z Elonom Muskom. Vendar pa zgodovina IPO-jev kaže, da veliko podjetij po začetnem navdušenju pade pod svojo izklicno ceno, kar se je zgodilo tudi pri Meti (prej Facebook). To je pogosto posledica precenjenosti v začetni fazi ali pa preprosto prilagoditve trga realni vrednosti. Mehanizem vpliva na finančne trge je predvsem psihološki in likvidnostni. Povečano število kratkih pozicij (stave proti delnici) ustvarja dodaten prodajni pritisk in lahko pospeši padec cene delnice. To lahko vpliva na celoten sektor tehnoloških delnic, saj lahko zmanjša apetit vlagateljev po tveganih naložbah v mlada, hitro rastoča podjetja. Indeksi, kot sta S&P 500 in Nasdaq 100, ki sta danes padla za 1.01 % oziroma 1.49 %, so lahko občutljivi na takšne trende, saj imajo tehnološka podjetja veliko težo v teh indeksih. Za obveznice in valute je neposredni vpliv manjši, vendar lahko splošno poslabšanje sentimenta do tveganih naložb povzroči premik kapitala v varnejša sredstva. Vlagatelji bodo opazovali, ali se bo SpaceXu uspelo stabilizirati in ali bo podjetje lahko izpolnilo visoka pričakovanja. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub privlačnosti inovativnih podjetij pomembno biti previden pri naložbah v IPO-je in se zavedati, da začetni optimizem pogosto ne odraža dolgoročne realnosti. Diverzifikacija in temeljita analiza sta ključni.",
       "vpliv": [
-        "Povečana konkurenca v sektorju AI",
-        "Potencialni pritisk na marže vodilnih AI podjetij",
-        "Spodbujanje hitrejših inovacij v AI",
-        "Povečana globalna prisotnost kitajskih tehnoloških podjetij"
+        "Delnice SpaceX pod izklicno ceno",
+        "Povečan prodajni pritisk na delnice SpaceX",
+        "Potencialen negativen vpliv na sentiment v tehnološkem sektorju",
+        "S&P 500 -1.01 %",
+        "Nasdaq 100 -1.49 %"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-18T01:17:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5?syn-25a6b1a6=1",
+      "objavljeno": "2026-07-18T11:00:02.000Z"
     },
     {
-      "naslov": "Finančni časi opozarjajo: trgi ignorirajo grožnje, optimizem je pretiran",
+      "naslov": "Japonski jen opozarja na tveganja za delniške portfelje v ZDA",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Članek v Financial Timesu z naslovom \"The next crash: why this time might not be different\", objavljen 18. julija 2026 ob 04:00:11 UTC, opozarja, da delniški trgi ignorirajo očitne grožnje in so prežeti z ekstremnim optimizmom. Avtorji trdijo, da kljub zgodovinskim opozorilom in trenutnim tveganjem, kot so geopolitična nestabilnost in inflacijski pritiski, vlagatelji ostajajo pretirano samozavestni. To razmišljanje nakazuje na morebitno precenjenost trga in povečano tveganje za korekcijo.",
-      "analiza": "Opozorilo Financial Timesa o \"naslednjem zlomu\" in pretiranem optimizmu na delniških trgih je ključno za razumevanje trenutnega makroekonomskega razpoloženja. Kljub padcem indeksov, kot sta S&P 500 (-1.01 %) in Nasdaq 100 (-1.49 %), članek poudarja, da so trgi morda še vedno precenjeni in ignorirajo širše grožnje. Mehanizem vpliva je psihološki in sistemski: pretiran optimizem lahko vodi do napihovanja cen premoženja, kar poveča ranljivost trga za ostre korekcije ob vsakem negativnem šoku. Geopolitična tveganja, kot je konflikt na Bližnjem vzhodu, in inflacijski pritiski, ki se kažejo v rasti cen nafte (WTI +4.47 %, Brent +4.59 %), so primeri takšnih groženj. Zgodovinsko gledano so obdobja \"iracionalne evforije\" pogosto sledila z znatnimi padci, kot je bil dot-com balon ali finančna kriza leta 2008. Visok indeks volatilnosti VIX (+12.19 % na 18.77) sicer kaže na povečano negotovost, a članek opozarja, da to morda ni dovolj za preprečitev večjega padca. Za obvezniške trge bi morebiten zlom pomenil iskanje varnosti in padec donosnosti, medtem ko bi valute, kot je EUR/USD (trenutno 1.1446), lahko doživele nihanja glede na status varnega zatočišča. Za slovenskega dolgoročnega vlagatelja to pomeni, da je v takšnih razmerah ključnega pomena previdnost, redno preverjanje valuacij naložb in ohranjanje discipliniranega pristopa k diverzifikaciji, da se zmanjša izpostavljenost morebitnim tržnim korekcijam.",
+      "povzetek": "MarketWatch opozarja, da je portfelj delnic vlagateljev vezan na japonski jen, pri čemer bližajoča se intervencija na deviznem trgu signalizira pomembno opozorilo. Povezava med jenom in ameriškimi delnicami pomeni, da bi morebitna intervencija Japonske centralne banke (BoJ) za krepitev jena lahko imela širše posledice. Zgodovinsko gledano je šibak jen podpiral izvozno usmerjena japonska podjetja, vendar pa lahko prekomerna šibkost sproži nestabilnost. Opozorilo se nanaša na vpliv, ki ga lahko imajo valutna gibanja in odločitve centralnih bank na globalne delniške trge, še posebej na tehnološke delnice. To je še en opozorilni znak, ki prihaja izven ZDA.",
+      "analiza": "Ozadje te novice je dolgotrajna politika Japonske centralne banke (BoJ) o ohranjanju nizkih obrestnih mer, kar je povzročilo znatno depreciacijo jena v primerjavi z drugimi glavnimi valutami. Šibak jen tradicionalno koristi japonskim izvoznikom, vendar prekomerna šibkost lahko povzroči inflacijske pritiske in nestabilnost. Opozorilo o intervenciji pomeni, da bi BoJ lahko posegla na devizni trg z nakupom jena, da bi ga okrepila. Mehanizem vpliva na finančne trge je kompleksen: močnejši jen bi lahko zmanjšal konkurenčnost japonskih izvoznikov, kar bi negativno vplivalo na njihove delnice. Poleg tega je jen pogosto uporabljen kot 'valuta financiranja' pri 'carry trade' strategijah, kjer vlagatelji si sposodijo jen po nizkih obrestnih merah in investirajo v sredstva z višjimi donosi drugod. Močnejši jen bi lahko sprožil zapiranje teh pozicij, kar bi povzročilo prodajo tveganih sredstev, vključno z ameriškimi delnicami. To bi lahko prispevalo k padcem indeksov, kot sta S&P 500 (-1.01 %) in Nasdaq 100 (-1.49 %). Vpliv na obveznice bi bil verjetno omejen, saj bi vlagatelji iskali varnejša zatočišča. Valutni par EUR/USD je danes pri 1.1446 (+0.02 %), vendar bi morebitna intervencija BoJ lahko povzročila širša nihanja na deviznih trgih. Vlagatelji bodo morali pozorno spremljati poteze BoJ in morebitne znake intervencije. Za slovenskega dolgoročnega vlagatelja to poudarja medsebojno povezanost globalnih finančnih trgov; dogodki v eni regiji, kot so odločitve centralne banke na Japonskem, lahko imajo pomembne posledice za portfelje po vsem svetu, kar zahteva globalno perspektivo in razumevanje makroekonomskih dejavnikov.",
       "vpliv": [
-        "Povečano tveganje za tržno korekcijo",
-        "Precenjenost delniških trgov",
-        "Iskanje varnih zatočišč (npr. zlato, obveznice)",
-        "Povečana previdnost vlagateljev"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/de2978b0-481c-4af5-9e77-9e34650fb20f?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-18T04:00:11.000Z"
-    },
-    {
-      "naslov": "SpaceX preložil izstrelitev, delnice padle pod ceno IPO",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "SpaceX je preložil ključno izstrelitev, kar je povzročilo, da so delnice podjetja drugi dan zapored zaključile pod ceno IPO. MarketWatch je 17. julija 2026 ob 22:55:00 UTC poročal, da so delnice SpaceX-a v predtrgovanju upadle za približno 4 % po neuspešni misiji. Ta dogodek poudarja občutljivost trga na operativne neuspehe tudi pri visoko cenjenih tehnoloških podjetjih in vpliv na zaupanje vlagateljev.",
-      "analiza": "Preložitev ključne izstrelitve SpaceX-a in posledičen padec delnic pod ceno IPO že drugi dan zapored, kot poroča MarketWatch, odraža občutljivost vlagateljev na operativne izzive v visokotehnološkem sektorju. SpaceX, kot vodilno podjetje v vesoljski industriji, je simbol inovacij in rasti, vendar takšni dogodki opozarjajo na inherentna tveganja, povezana z razvojem in izvajanjem kompleksnih tehnologij. Mehanizem vpliva je neposreden: operativni neuspehi lahko povzročijo zamude pri prihodkih, povečanje stroškov in zmanjšanje zaupanja vlagateljev, kar se odraža v padcu cene delnic. To ni le specifičen problem SpaceX-a, ampak širši signal za celoten sektor rastočih tehnoloških podjetij, ki so pogosto visoko vrednotena na podlagi prihodnjih pričakovanj. V preteklosti so številna tehnološka podjetja doživela znatne padce vrednosti po neuspešnih projektih ali zamudah. Za delniške trge to pomeni povečano previdnost pri ocenjevanju tveganj v sektorju vesoljske tehnologije in drugih visokotehnoloških panogah. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da tudi najbolj inovativna podjetja niso imuna na operativne težave in da je temeljita analiza tveganj ključna pri vlaganju v hitro rastoče, a tvegane sektorje.",
-      "vpliv": [
-        "Padec cene delnic SpaceX (-4 % v predtrgovanju)",
-        "Zmanjšano zaupanje vlagateljev v visokotehnološki sektor",
-        "Poudarek na operativnih tveganjih v vesoljski industriji",
-        "Vpliv na vrednotenje rastočih tehnoloških podjetij"
+        "Potencialna intervencija BoJ za krepitev jena",
+        "Negativen vpliv na japonske izvoznike",
+        "Možna prodaja tveganih sredstev (npr. ameriških delnic)",
+        "Povečana volatilnost na deviznih trgih"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/spacex-postponed-a-crucial-launch-now-its-stock-is-set-to-slide-even-further-below-the-ipo-price-143adfe0?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-17T22:55:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-18T15:14:00.000Z"
     },
     {
-      "naslov": "Trump grozi Kanadi z višjimi carinami zaradi dima gozdnih požarov",
+      "naslov": "Venezuela: število žrtev potresa presega 5.000, IMF sprošča pomoč",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Al Jazeera poroča, da je število smrtnih žrtev potresa v Venezueli preseglo 5.000, kar kaže na obsežno humanitarno katastrofo. Mednarodni denarni sklad (IMF) je v odgovor na krizo sprostil 346 milijonov funtov (približno 400 milijonov USD) nujnih sredstev. Novi podatki razkrivajo podrobnosti o odzivu na katastrofo, ki poudarjajo resnost situacije in potrebo po mednarodni pomoči. Ta sredstva so namenjena podpori prizadevanjem za okrevanje in lajšanju trpljenja prebivalstva. Potres je povzročil obsežno uničenje in izzive za že tako obremenjeno venezuelsko gospodarstvo.",
+      "analiza": "Ozadje te novice je uničujoč potres v Venezueli, ki je povzročil ogromno izgubo življenj in materialno škodo. Venezuela se že pred potresom sooča z globoko gospodarsko in politično krizo, zato je sposobnost države za samostojno obvladovanje takšne katastrofe omejena. Sprostitev nujnih sredstev s strani IMF je ključnega pomena za humanitarno pomoč in začetno fazo okrevanja. Mehanizem vpliva na finančne trge je predvsem posreden. Čeprav je neposredni vpliv na globalne trge minimalen, takšni dogodki poudarjajo tveganja, povezana z naložbami v države z visoko geopolitično in ekonomsko nestabilnostjo. IMF-ova pomoč lahko kratkoročno stabilizira situacijo, vendar dolgoročno reševanje venezuelske krize ostaja izziv. Za obvezniške trge bi lahko takšni dogodki povečali tveganje neplačila suverenega dolga, čeprav je Venezuela že dolgo v težavah. Za valute, kot je venezuelski bolivar, je vpliv verjetno negativen, saj se gospodarska situacija še poslabšuje. Globalni indeksi, kot so S&P 500 (-1.01 %) in DAX (-0.34 %), ne bodo neposredno prizadeti, vendar lahko širša nestabilnost vpliva na sentiment. Vlagatelji bodo spremljali, kako se bodo sredstva IMF porabila in ali bo to pripomoglo k dolgoročni stabilizaciji države. Za slovenskega dolgoročnega vlagatelja je to opomin na pomen diverzifikacije portfelja in izogibanja preveliki izpostavljenosti posameznim državam z visokim tveganjem, še posebej v luči naravnih katastrof in politične nestabilnosti.",
+      "vpliv": [
+        "IMF sprošča 346 milijonov funtov nujnih sredstev",
+        "Povečana humanitarna kriza v Venezueli",
+        "Povečano tveganje neplačila suverenega dolga",
+        "Negativen vpliv na venezuelsko gospodarstvo"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/7/18/venezuela-quake-death-toll-tops-5000-as-imf-releases-emergency-aid?traffic_source=rss",
+      "objavljeno": "2026-07-18T15:35:54.000Z"
+    },
+    {
+      "naslov": "Irak podpisal 48 poslov z ameriškimi podjetji med obiskom v Washingtonu",
+      "sektor": "Energetika",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Al Jazeera poroča, da je Irak podpisal 48 poslov z ameriškimi podjetji med obiskom iraškega predsednika vlade v Washingtonu. Ti posli vključujejo ponovno izgradnjo dolgo neaktivnega naftovoda Irak-Sirija, ki bi lahko obšel Hormuško ožino. Dogovori so pomemben korak k okrepitvi gospodarskih vezi med državama in diverzifikaciji iraške energetske infrastrukture. Poleg naftovoda so bili podpisani tudi drugi posli, ki zajemajo različne sektorje, kar kaže na širše sodelovanje. Ti posli predstavljajo pomembno investicijo v iraško gospodarstvo in energetsko varnost.",
+      "analiza": "Ozadje te novice je prizadevanje Iraka za stabilizacijo in razvoj gospodarstva po letih konfliktov, pa tudi za okrepitev strateških partnerstev. Obisk iraškega predsednika vlade v Washingtonu in podpis 48 poslov z ameriškimi podjetji signalizira močno zavezanost k gospodarskemu sodelovanju med državama. Najpomembnejši je dogovor o ponovni izgradnji naftovoda Irak-Sirija, ki bi omogočil Iraku izvoz nafte, ne da bi bil odvisen od Hormuške ožine, ki je strateška, a ranljiva točka. Mehanizem vpliva na finančne trge je večplasten: za energetski sektor je to pozitivno, saj povečuje zanesljivost dobav nafte in zmanjšuje geopolitična tveganja, povezana s Hormuško ožino. To lahko dolgoročno prispeva k stabilizaciji cen nafte, čeprav so danes cene WTI nafte (+4.47 % na 81.78 USD/sod) in Brent nafte (+4.59 % na 88.10 USD/sod) poskočile zaradi drugih geopolitičnih napetosti. Za ameriška podjetja, ki so vključena v te posle, to pomeni nove priložnosti in potencialno rast prihodkov. Za delniške trge bi to lahko pomenilo pozitivno novico za podjetja v sektorju energetike in infrastrukture. Obvezniški trgi in valute ne bodo neposredno prizadeti, vendar bi lahko dolgoročna stabilizacija Iraka in diverzifikacija dobavnih poti pozitivno vplivala na globalno gospodarsko stabilnost. Vlagatelji bodo spremljali napredek pri izvajanju teh projektov in njihov vpliv na regionalno stabilnost. Za slovenskega dolgoročnega vlagatelja to poudarja pomen diverzifikacije energetskih virov in poti, kar lahko zmanjša tveganje motenj v globalni oskrbi in prispeva k bolj stabilnim cenam energentov, kar posredno vpliva na stroške poslovanja in inflacijo po svetu.",
+      "vpliv": [
+        "Ponovna izgradnja naftovoda Irak-Sirija",
+        "Povečana energetska varnost Iraka",
+        "Nove poslovne priložnosti za ameriška podjetja",
+        "Potencialna dolgoročna stabilizacija cen nafte"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss",
+      "objavljeno": "2026-07-18T14:23:33.000Z"
+    },
+    {
+      "naslov": "Kitajska opozarja Združeno kraljestvo glede nacionalizacije British Steel",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Ameriški predsednik Donald Trump je zagrozil Kanadi z višjimi carinskimi stroški zaradi dima od gozdnih požarov, ki se širi v ZDA. Al Jazeera je 17. julija 2026 ob 22:47:31 UTC poročala, da Trump pogosto širi napačne trditve, ki za velike gozdne požare krivijo slabo upravljanje rivalskih politikov. Ta grožnja nakazuje na morebitno zaostrovanje trgovinskih odnosov med ZDA in Kanado, kar bi lahko imelo gospodarske posledice.",
-      "analiza": "Grožnja predsednika Trumpa Kanadi z višjimi carinami zaradi dima od gozdnih požarov, kot poroča Al Jazeera, predstavlja pomembno geopolitično in trgovinsko tveganje. Čeprav je utemeljitev nenavadna in temelji na spornih trditvah, je mehanizem vpliva na finančne trge jasen: uvedba carin ali zaostrovanje trgovinskih odnosov med dvema velikima gospodarstvoma, kot sta ZDA in Kanada, lahko ovira mednarodno trgovino, poveča stroške za podjetja in potrošnike ter zmanjša gospodarsko rast. V preteklosti so trgovinske vojne, kot so bile tiste med ZDA in Kitajsko, povzročile znatno negotovost na trgih in vplivale na globalne dobavne verige. Za delniške trge bi to pomenilo pritisk na podjetja, ki poslujejo čezmejno med ZDA in Kanado, še posebej v sektorjih, ki bi bili tarča carin. Valutni pari, kot je USD/CAD, bi lahko doživeli nihanja zaradi morebitnih trgovinskih napetosti. Za obvezniške trge bi povečana negotovost lahko pomenila iskanje varnosti v državnih obveznicah. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj mednarodnih trgovinskih odnosov, saj lahko protekcionistične politike vplivajo na globalno gospodarsko okolje in s tem na donosnost naložb v mednarodno izpostavljena podjetja.",
+      "povzetek": "Al Jazeera poroča, da je Kitajska opozorila Združeno kraljestvo glede nacionalizacije British Steel in zahteva pošteno rešitev. Kitajsko podjetje Jingye, ki je lastnik British Steel, zahteva odškodnino po potezi Združenega kraljestva, da v celoti nacionalizira British Steel, pri čemer se sklicuje na varnostna tveganja. Ta poteza poudarja naraščajoče napetosti v trgovinskih in investicijskih odnosih med Združenim kraljestvom in Kitajsko. Nacionalizacija podjetja v tuji lasti zaradi varnostnih razlogov je občutljivo vprašanje, ki lahko sproži širše diplomatske in ekonomske posledice. Jingye išče odškodnino za izgubo naložbe.",
+      "analiza": "Ozadje te novice je odločitev Združenega kraljestva, da nacionalizira British Steel, ki je v lasti kitajskega podjetja Jingye, zaradi domnevnih varnostnih tveganj. To je del širšega trenda, kjer zahodne države pregledujejo tuje naložbe v kritično infrastrukturo in strateške industrije, še posebej tiste iz Kitajske. Poteza Združenega kraljestva je pomembna, saj gre za poseg v tuje lastništvo, kar lahko sproži diplomatske in trgovinske spore. Mehanizem vpliva na finančne trge je predvsem preko vpliva na mednarodne investicije in trgovinske odnose. Kitajsko opozorilo in zahteva po odškodnini kažeta na morebitno zaostrovanje odnosov, kar bi lahko vplivalo na podjetja, ki poslujejo med Združenim kraljestvom in Kitajsko. Za delniške trge bi to lahko pomenilo povečano negotovost za podjetja z mednarodno izpostavljenostjo, še posebej tista v strateških sektorjih. Indeksi, kot sta DAX (-0.34 %) in S&P 500 (-1.01 %), so občutljivi na takšne geopolitične napetosti, saj lahko vplivajo na globalne dobavne verige in dobičkonosnost podjetij. Za valute, kot sta britanski funt in evro, bi lahko takšni spori pomenili povečano nestabilnost. Vlagatelji bodo pozorno spremljali, kako se bo reševala zahteva po odškodnini in ali bo to sprožilo širše trgovinske povračilne ukrepe. Za slovenskega dolgoročnega vlagatelja to poudarja pomen razumevanja geopolitičnih tveganj in vpliva državnih intervencij na mednarodne naložbe. Pomembno je upoštevati, da se lahko politične odločitve hitro odrazijo na vrednosti podjetij in celotnih sektorjev, kar zahteva skrbno analizo in diverzifikacijo portfelja.",
       "vpliv": [
-        "Potencialno zaostrovanje trgovinskih odnosov med ZDA in Kanado",
-        "Povečani stroški za podjetja in potrošnike",
-        "Negativni vpliv na mednarodno trgovino",
-        "Nihanja valutnih tečajev (npr. USD/CAD)"
+        "Zaostrovanje odnosov med Združenim kraljestvom in Kitajsko",
+        "Negativni vpliv na mednarodne investicije",
+        "Povečana negotovost za podjetja z mednarodno izpostavljenostjo",
+        "Potencialni trgovinski spori"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke?traffic_source=rss",
-      "objavljeno": "2026-07-17T22:47:31.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/7/18/china-warns-uk-over-british-steel-nationalisation-demands-fair-resolution?traffic_source=rss",
+      "objavljeno": "2026-07-18T14:04:05.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-18T06:17:36.608Z",
+    "posodobljenoOb": "2026-07-18T16:28:11.140Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -181,8 +198,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63919.25,
-        "sprememba_pct": 0.05,
+        "vrednost": 64094.55,
+        "sprememba_pct": 0.32,
         "enota": "USD"
       }
     ],
