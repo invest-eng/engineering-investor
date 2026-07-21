@@ -1,128 +1,111 @@
 {
-  "generiranoOb": "2026-07-20T17:13:29.401Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-07-21T06:41:16.080Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-07-20",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z rahlimi dobitki, medtem ko so ameriški indeksi po dveh urah trgovanja beležili zmerno rast. Nemški DAX je dan zaprl pri 24847 točkah z minimalno rastjo +0.06 %, medtem ko sta v ZDA S&P 500 dosegel 7468 točk (+0.14 %), Nasdaq 100 pa 28767 točk (+0.61 %), kar kaže na nadaljnjo moč tehnološkega sektorja. Na azijskih trgih je Nikkei 225 zabeležil precejšen padec za -4.03 % na 64141 točk. Cene nafte so bile mešane, Brent nafta je zrasla za +0.53 % na 88.57 USD za sod, kar je bilo delno pod vplivom predloga o premirju med ZDA in Iranom ter pomorske blokade Savdske Arabije s strani jemenski Hutijev. Evro je oslabel proti ameriškemu dolarju, saj je par EUR/USD padel za -0.26 % na 1.1416. Med ključnimi novicami dneva izstopa imenovanje Andyja Burnhama za britanskega premierja, rekordna kazen EU za AliExpress v višini 550 milijonov evrov in načrti za 25 milijard dolarjev vreden plinovod v Zahodni Afriki. Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v ZDA (CPI), ki bi lahko vplivala na pričakovanja glede prihodnjih odločitev Federal Reserve.",
+  "datum": "2026-07-21",
+  "povzetek": "Danes, 21. julija 2026, se evropski trgi odpirajo po mešanem dogajanju v ZDA in močni rasti v Aziji. Ameriški indeks S&P 500 je noč zaključil z rahlim padcem za -0.19 % pri 7443 točkah, medtem ko je Nasdaq 100 zabeležil minimalno rast za +0.04 % na 28604. V Aziji je Nikkei 225 poskočil za impresivnih +3.00 % na 66068. Evropski DAX je danes zjutraj pri 24847, kar predstavlja rast za +0.06 %. Na trgu surovin je zlato zraslo za +1.52 % na 4076.80 USD/oz, kar kaže na iskanje varnih zatočišč, medtem ko sta nafta WTI in Brent zabeležili padec za -0.68 % oziroma -1.04 % na 81.92 USD/sod in 88.29 USD/sod. Geopolitične napetosti ostajajo v ospredju, zlasti po uvedbi 50-odstotnih carin ZDA na kanadsko blago in nadaljevanju ameriških napadov na Iran, kar vpliva na globalno trgovino in cene energentov. Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v evroobmočju, ki bi lahko vplivala na prihodnje odločitve Evropske centralne banke glede obrestnih mer.",
   "novice": [
     {
-      "naslov": "Nafta pod pritiskom zaradi predloga premirja in blokade Savdske Arabije",
+      "naslov": "ZDA uvajajo 50-odstotne carine na kanadsko blago, krepitev trgovinskih napetosti",
       "sektor": "Geopolitika",
-      "smer": "mešano",
+      "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Globalne cene nafte so danes zabeležile nihanja, saj so se sprva znižale pod 87 dolarjev za sod po poročilih o predlogu 10-dnevnega premirja med ZDA in Iranom. Ta novica je sprožila oster padec cen energije, ki pa so se kasneje delno opomogle. Izgube so bile omejene zaradi napovedi jemenske skupine Hutijev o pomorski blokadi Savdske Arabije, kar je ustvarilo dodatno negotovost glede dobav nafte. Iranski vojaški predstavnik je sicer potrdil nadaljevanje diplomatskih prizadevanj prek posrednikov, medtem ko se bo boj z ZDA nadaljeval, dokler ne bo doseženo odvračanje od nadaljnjih napadov. V času poročanja je Brent nafta zrasla za +0.53 % na 88.57 USD/sod, WTI nafta pa za +0.10 % na 81.86 USD/sod.",
-      "analiza": "Geopolitične napetosti na Bližnjem vzhodu, zlasti med ZDA in Iranom ter vpletenost Hutijev, so ključni dejavnik, ki vpliva na globalne cene nafte. Predlog premirja med ZDA in Iranom bi lahko sicer umiril trge in zmanjšal premijo za tveganje, kar bi vodilo v padec cen nafte. Vendar pa napoved Hutijev o blokadi Savdske Arabije, ki je pomemben proizvajalec nafte, ustvarja nasprotni pritisk in ohranja cene na višjih ravneh zaradi skrbi glede motenj v dobavnih verigah. Takšni dogodki neposredno vplivajo na delnice energetskih podjetij, saj nihanja cen nafte vplivajo na njihovo dobičkonosnost. Višje cene nafte lahko prispevajo k inflacijskim pritiskom, kar posledično vpliva na politiko centralnih bank in donosnost obveznic. Za slovenskega dolgoročnega vlagatelja to pomeni, da so naložbe v energetska podjetja izpostavljene geopolitičnim tveganjem, ki lahko povzročijo hitra nihanja vrednosti. Spremljanje razvoja dogodkov v regiji je ključno za razumevanje širših ekonomskih trendov.",
+      "povzetek": "Administracija ZDA je v ponedeljek napovedala uvedbo 50-odstotnih carin na določene izdelke, uvožene iz Kanade, vključno z vinom, hokejskimi palicami in cementom. Ta poteza, ki jo je napovedal predsednik Trump, je odgovor na domnevne diskriminatorne trgovinske prakse Ottawe proti ameriški avtomobilski, mlečni in alkoholni industriji. Kanadski premier Carney je obljubil 'intenziviranje' trgovinskih pogovorov, vendar so carine že sprožile strahove pred stopnjevanjem trgovinske vojne med sosedama. To predstavlja pomembno zaostritev trgovinskih odnosov med Severnoameriškima državama. Carine so začele veljati danes, 21. julija 2026.",
+      "analiza": "Ozadje te novice so dolgotrajni trgovinski spori med ZDA in Kanado, ki so se v preteklosti že kazali v različnih sektorjih. Poteza Washingtona, da uvede visoke carine, kaže na agresiven pristop k reševanju trgovinskih nesoglasij, kar lahko dolgoročno destabilizira globalne dobavne verige. Mehanizem vpliva na finančne trge je večplasten: neposredno vpliva na podjetja, ki uvažajo ali izvažajo prizadete izdelke, saj se jim povečajo stroški. To lahko vodi do višjih cen za potrošnike v ZDA in zmanjšanja dobičkonosnosti kanadskih izvoznikov. Posledice vključujejo morebitno depreciacijo kanadskega dolarja (CAD) glede na ameriški dolar (USD), saj se zmanjša povpraševanje po kanadskem blagu. Delnice podjetij v avtomobilski, mlečni in alkoholni industriji na obeh straneh meje so lahko pod pritiskom. Zgodovinski primeri trgovinskih vojn kažejo, da so takšne poteze pogosto povzročile splošno negotovost in upočasnitev gospodarske rasti. Za slovenskega dolgoročnega vlagatelja to pomeni povečano globalno negotovost, ki lahko vpliva na delniške trge in cene surovin, čeprav je neposreden vpliv na slovensko gospodarstvo omejen.",
       "vpliv": [
-        "Cene Brent nafte +0.53 % na 88.57 USD/sod",
-        "Cene WTI nafte +0.10 % na 81.86 USD/sod",
-        "Povečana geopolitična negotovost",
-        "Potencialni inflacijski pritiski"
+        "Depreciacija kanadskega dolarja",
+        "Povečanje stroškov za ameriške uvoznike",
+        "Zmanjšanje dobičkonosnosti kanadskih izvoznikov",
+        "Negativen vpliv na delnice avtomobilske, mlečne in alkoholne industrije"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-20T15:57:00.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-21T00:34:47.000Z"
     },
     {
-      "naslov": "Pet delnic S&P 500, ki tiho vlagajo v umetno inteligenco",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Medtem ko se pozornost vlagateljev pogosto osredotoča na velikane, kot je Nvidia, se na trgu pojavljajo nova podjetja, ki se intenzivno posvečajo razvoju umetne inteligence. MarketWatch poroča o petih delnicah iz indeksa S&P 500, ki 'tiho' vlagajo v AI in bi lahko predstavljale naslednje priložnosti za ostre vlagatelje. Članek poudarja, da se je skupina 'Mag Seven' (sedem največjih tehnoloških podjetij) morda preoblikovala v 'Bag Seven', kar nakazuje na morebitno precenjenost in iskanje novih, manj očitnih AI naložb. To kaže na širjenje investicij v AI zunaj že uveljavljenih igralcev, kar odpira nove možnosti za rast.",
-      "analiza": "Razmah umetne inteligence je eden najpomembnejših tehnoloških trendov desetletja, ki presega zgolj nekaj največjih podjetij. Članek poudarja, da se investicije v AI širijo na širši spekter podjetij znotraj indeksa S&P 500, kar kaže na diverzifikacijo in zrelost trga. To je pomembno, saj zmanjšuje koncentracijsko tveganje, ki bi ga predstavljala odvisnost celotnega sektorja od uspešnosti peščice podjetij. Za delnice to pomeni, da se potencial za rast ne omejuje le na 'očitne' zmagovalce, temveč se širi na podjetja, ki AI integrirajo v svoje obstoječe poslovanje. Dolgoročno to lahko vodi do bolj robustne rasti celotnega tehnološkega sektorja in s tem širšega trga. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno razmišljati o širši izpostavljenosti AI prek diverzificiranih skladov ali iskanja podjetij, ki so posredno vključena v razvoj in uporabo AI, ne le neposrednih proizvajalcev čipov ali programske opreme.",
-      "vpliv": [
-        "Širjenje investicij v AI",
-        "Potencialna rast delnic izven 'Mag Seven'",
-        "Diverzifikacija tehnološkega sektorja",
-        "Dolgoročna rast trga"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-20T17:05:00.000Z"
-    },
-    {
-      "naslov": "Andy Burnham novi britanski premier obljublja konec politične nestabilnosti",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
+      "naslov": "ZDA že deseto zaporedno noč napadajo Iran, stopnjevanje regionalnih napetosti",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Andy Burnham je danes prisegel kot novi britanski premier, s čimer je postal sedmi predsednik vlade v zadnjem desetletju. Ob prevzemu položaja je obljubil konec politične nestabilnosti in napovedal velike spremembe, da bi se zoperstavil populističnim silam, ki v zadnjem času pridobivajo veliko podpore. Njegova prva poteza je bila obljuba, da bo preučil možnosti za zvišanje praga za plačilo davka, čeprav je priznal, da bi bila implementacija takšne spremembe težavna. Financial Times in BBC Business poročata o Burnhamovih 'velikih idejah' in 'praznem čeku', ki mu ga je izročila Laburistična stranka, kar kaže na visoka pričakovanja, a tudi negotovost glede konkretnih stroškov in izvedbe njegovih programov.",
-      "analiza": "Politična stabilnost je ključnega pomena za zaupanje vlagateljev in gospodarsko rast. Dolgotrajna politična nestabilnost v Združenem kraljestvu je v preteklih letih negativno vplivala na britanski funt (GBP), donosnost državnih obveznic in privlačnost britanskih delnic za tuje vlagatelje. Imenovanje novega premierja, ki obljublja stabilnost, bi lahko sprva prineslo optimizem, vendar pa bodo trgi pozorno spremljali konkretne politične poteze in njihove ekonomske posledice. Morebitne spremembe davčne politike, kot je zvišanje davčnega praga, bi lahko vplivale na potrošniško porabo in inflacijo, kar bi imelo posledice za monetarno politiko Bank of England. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da politične spremembe v velikih gospodarstvih, kot je Združeno kraljestvo, lahko vplivajo na globalne trge in valute. Morebitna stabilizacija britanske politike bi lahko dolgoročno pozitivno vplivala na naložbe v britanska podjetja in funt, vendar bo ključna transparentnost in izvedljivost napovedanih reform.",
+      "povzetek": "Ameriška vojska je že deseto zaporedno noč izvedla napade na Iran, kar je potrdilo Poveljstvo ZDA (CENTCOM) z objavo posnetkov. Washington se maščuje za žrtve med ameriškimi vojaki, medtem ko Iran trdi, da napada ameriške lokacije po regiji. Poročajo o eksplozijah v iranskih mestih Bandar Abbas, Qeshm Island, Chabahar in Konarak. Iran je prav tako sporočil, da sta v Hormuški ožini v plamenih dva tankerja. Ta zaostritev konflikta se dogaja 21. julija 2026 in kaže na kritično stopnjevanje napetosti na Bližnjem vzhodu.",
+      "analiza": "Ozadje teh dogodkov je dolgotrajna geopolitična nestabilnost na Bližnjem vzhodu in neposredno stopnjevanje konflikta med ZDA in Iranom. Deseta zaporedna noč napadov kaže na vztrajno in resno zaostritev, ki ima potencial za širši regionalni konflikt. Mehanizem vpliva na finančne trge je predvsem preko cen energentov in splošne negotovosti. Poročila o napadih in požarih tankerjev v Hormuški ožini, ključni pomorski poti za nafto, takoj vplivajo na cene nafte. WTI nafta je danes padla za -0.68 % na 81.92 USD/sod, Brent pa za -1.04 % na 88.29 USD/sod, kar je lahko posledica kratkoročnega umika od tveganja ali špekulacij. Vendar pa dolgoročno takšne napetosti običajno povzročijo rast cen nafte zaradi strahu pred motnjami v dobavi. Zlato, ki velja za varno zatočišče, je zraslo za +1.52 % na 4076.80 USD/oz, kar odraža povečano negotovost. Delniški trgi so lahko pod pritiskom zaradi splošnega 'risk-off' sentimenta. Za slovenskega dolgoročnega vlagatelja to pomeni povečano volatilnost na trgih surovin, zlasti nafte, in morebiten pritisk na globalne delniške indekse, kar zahteva previdnost pri izpostavljenosti tveganim naložbam.",
       "vpliv": [
-        "Potencialna stabilizacija GBP",
-        "Vpliv na britanske delnice (FTSE)",
-        "Spremembe davčne politike",
-        "Vpliv na zaupanje vlagateljev"
+        "Povečana volatilnost cen nafte (WTI, Brent)",
+        "Rast cene zlata kot varnega zatočišča",
+        "Povečana geopolitična tveganja",
+        "Negativen vpliv na globalne delniške trge"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-pledges-end-to-political-instability-as-he-becomes-uk-pm?traffic_source=rss",
-      "objavljeno": "2026-07-20T14:53:02.000Z"
+      "vir_url": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
+      "objavljeno": "2026-07-21T00:00:00.000Z"
     },
     {
-      "naslov": "AliExpress kaznovan z rekordno globo 550 milijonov evrov s strani EU",
+      "naslov": "Združeno kraljestvo bo oktobra znižalo DDV na račune za elektriko gospodinjstvom",
+      "sektor": "Makro & Centralne banke",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Nova vlada Združenega kraljestva, pod vodstvom premierja Andyja Burnhama, je napovedala znižanje davka na dodano vrednost (DDV) na račune za elektriko gospodinjstvom, ki bo začelo veljati oktobra. Ta ukrep naj bi gospodinjstvom prihranil okoli 45 funtov letno. Napoved je bila podana na prvi polni dan Burnhama kot predsednika vlade, kar kaže na prioriteto reševanja stroškov življenja. Cilj je pomagati gospodinjstvom pri obvladovanju visokih stroškov energije in podpreti kupno moč prebivalstva. Novica je bila objavljena 21. julija 2026.",
+      "analiza": "Ozadje te novice so visoki stroški življenja in energetska kriza, ki že dlje časa obremenjujejo gospodinjstva v Združenem kraljestvu. Nova vlada s tem ukrepom poskuša ublažiti pritisk na potrošnike in izpolniti predvolilne obljube. Mehanizem vpliva na finančne trge je predvsem preko povečanja razpoložljivega dohodka gospodinjstev, kar lahko spodbudi potrošnjo in s tem rast gospodarstva. Znižanje DDV bo kratkoročno vplivalo na inflacijo, saj bo neposredno znižalo cene električne energije. To lahko zmanjša pritisk na Bank of England za nadaljnje zviševanje obrestnih mer. Posledice vključujejo potencialno rast delnic podjetij v sektorju potrošniškega blaga in storitev, saj se pričakuje povečana potrošnja. Vpliv na britanski funt (GBP) je lahko mešan; na eni strani fiskalna spodbuda, na drugi pa morebitno povečanje javnega dolga. Zgodovinski primeri kažejo, da so tovrstni fiskalni ukrepi lahko učinkoviti pri kratkoročnem spodbujanju gospodarstva. Za slovenskega dolgoročnega vlagatelja to pomeni, da je Združeno kraljestvo aktivno pri reševanju makroekonomskih izzivov, kar lahko vpliva na stabilnost britanskega trga in posredno na globalne trge, če se trendi prenesejo.",
+      "vpliv": [
+        "Povečanje razpoložljivega dohodka gospodinjstev v Združenem kraljestvu",
+        "Kratkoročno znižanje inflacije v Združenem kraljestvu",
+        "Potencialna rast delnic potrošniškega sektorja",
+        "Mešan vpliv na britanski funt"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-21T06:23:16.000Z"
+    },
+    {
+      "naslov": "General Motors objavlja četrtletne rezultate, Wall Street pričakuje 3,20 USD EPS",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "General Motors (GM) naj bi danes, 21. julija 2026, pred odprtjem borze objavil svoje četrtletne poslovne rezultate. Analitiki Wall Streeta pričakujejo prilagojen dobiček na delnico (EPS) v višini 3,20 USD in prihodke v višini 47,01 milijarde USD. Ta objava je ključnega pomena za oceno zdravja avtomobilske industrije in širšega gospodarstva. Rezultati bodo pokazali, kako se podjetje spopada z izzivi, kot so dobavne verige, inflacija in povpraševanje potrošnikov po novih vozilih. Objava je bila napovedana ob 04:01:01 UTC.",
+      "analiza": "Ozadje te novice je trenutno stanje avtomobilske industrije, ki se sooča z nenehnimi izzivi, kot so pomanjkanje čipov, visoke cene surovin in spreminjajoče se preference potrošnikov, zlasti glede prehoda na električna vozila. Objava rezultatov GM je pomemben indikator ne le za avtomobilski sektor, temveč tudi za celotno gospodarstvo, saj je GM eden največjih proizvajalcev na svetu. Mehanizem vpliva na finančne trge je neposreden: če bodo rezultati presegli pričakovanja analitikov, lahko to pozitivno vpliva na delnico GM in celoten avtomobilski sektor. Nasprotno, slabši rezultati bi lahko povzročili padec delnice in negativno razpoloženje v sektorju. Posledice se lahko razširijo tudi na dobavitelje avtomobilskih delov in druge povezane industrije. Vpliv na širše trge je odvisen od tega, ali bodo rezultati GM razumljeni kot znak splošnega gospodarskega zdravja ali le specifičnega izziva v avtomobilskem sektorju. Za slovenskega dolgoročnega vlagatelja to pomeni, da je spremljanje rezultatov velikih korporacij, kot je GM, ključno za razumevanje širših gospodarskih trendov in morebitno prilagoditev naložbenih strategij v sektorjih, ki so odvisni od avtomobilske industrije.",
+      "vpliv": [
+        "Neposreden vpliv na delnico General Motors",
+        "Indikator zdravja avtomobilske industrije",
+        "Vpliv na delnice dobaviteljev avtomobilskih delov",
+        "Vpliv na splošno razpoloženje na trgu"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html",
+      "objavljeno": "2026-07-21T04:01:01.000Z"
+    },
+    {
+      "naslov": "Stroški zdravstvenega varstva v pokoju lahko dosežejo 185.500 USD, brez dolgotrajne oskrbe",
       "sektor": "Potrošniki",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Evropska unija je danes AliExpressu, kitajskemu spletnemu trgovcu, naložila rekordno globo v višini 550 milijonov evrov. Razlog za kazen je bilo dovoljevanje prodaje nezakonitega blaga, vključno z nevarnimi igračami in ponarejenimi oblačili, na svoji platformi. EU je poudarila, da je AliExpress kršil predpise o varnosti potrošnikov in boju proti ponarejenim izdelkom. Ta poteza kaže na vse strožji regulativni nadzor nad velikimi spletnimi platformami, ki so odgovorne za vsebino in izdelke, ki se prodajajo prek njihovih storitev. Kazen je del širših prizadevanj EU za zaščito potrošnikov in zagotavljanje poštenega trga v digitalnem prostoru.",
-      "analiza": "Regulativni pritisk na velike tehnološke in e-trgovinske platforme se v Evropski uniji in drugod po svetu krepi. Visoka globa za AliExpress je jasen signal, da regulatorji ne bodo tolerirali kršitev pravil, zlasti na področju varnosti izdelkov in zaščite potrošnikov. Takšne kazni neposredno vplivajo na finančno poslovanje podjetij, saj zmanjšujejo dobičkonosnost in zahtevajo dodatne investicije v skladnost s predpisi. Dolgoročno lahko to pomeni višje operativne stroške za e-trgovce, kar se lahko odrazi v višjih cenah za potrošnike ali manjših maržah. Za delnice podjetij, kot je AliExpress (če bi bile javno kotirane), bi to pomenilo negativen vpliv na ceno. Širše gledano, ta dogodek poudarja tveganja, povezana z naložbami v podjetja, ki so izpostavljena strogim regulativnim okvirom. Za slovenskega dolgoročnega vlagatelja je pomembno upoštevati regulativna tveganja pri ocenjevanju naložb v sektor e-trgovine in tehnologije, saj lahko visoke kazni in strogi predpisi pomembno vplivajo na vrednost podjetij.",
+      "povzetek": "Nove projekcije kažejo, da bi stroški zdravstvenega varstva v pokoju lahko dosegli 185.500 USD, pri čemer ta številka ne vključuje stroškov dolgotrajne oskrbe. Naraščajoče cene zdravstvenih storitev in obvladovanje kroničnih bolezni so glavni dejavniki, ki so prispevali k tej povišani napovedi. To predstavlja pomemben finančni izziv za posameznike, ki načrtujejo upokojitev, saj morajo v svoje prihranke vključiti bistveno višje zneske. Novica je bila objavljena 21. julija 2026 ob 04:01:00 UTC.",
+      "analiza": "Ozadje te novice je demografska sprememba, staranje prebivalstva in nenehna rast stroškov zdravstvenega varstva, ki je že desetletja trend v razvitih državah. Povišana napoved poudarja naraščajoče finančno breme za posameznike v pokoju. Mehanizem vpliva na finančne trge je večplasten: po eni strani to pomeni, da bodo posamezniki morali več varčevati, kar lahko vpliva na potrošnjo v drugih sektorjih. Po drugi strani pa to ustvarja povečano povpraševanje po zdravstvenih storitvah, zdravilih in zavarovalnih produktih, kar lahko pozitivno vpliva na delnice podjetij v zdravstvenem in zavarovalniškem sektorju. Povečani stroški lahko vplivajo tudi na obvezniške trge, saj se lahko poveča povpraševanje po varnih naložbah za dolgoročno varčevanje. Posledice vključujejo pritisk na pokojninske sisteme in potrebo po inovativnih finančnih produktih za pokrivanje zdravstvenih stroškov. Za slovenskega dolgoročnega vlagatelja je to opozorilo o pomembnosti zgodnjega in zadostnega varčevanja za pokojnino, vključno z upoštevanjem naraščajočih zdravstvenih stroškov. Prav tako lahko to pomeni priložnosti za naložbe v globalna podjetja v sektorju zdravstvenega varstva in farmacije, ki so dolgoročno odporna na gospodarske cikle.",
       "vpliv": [
-        "Finančna kazen v višini 550 milijonov evrov",
-        "Povečani regulativni stroški za e-trgovce",
-        "Negativen vpliv na dobičkonosnost",
-        "Poudarek na varnosti potrošnikov"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-07-20T15:22:54.000Z"
-    },
-    {
-      "naslov": "Zahodna Afrika potrdila 25 milijard dolarjev vreden mega plinovod",
-      "sektor": "Energetika",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Države Zahodne Afrike so potrdile načrte za izgradnjo mega plinovoda v vrednosti 25 milijard dolarjev. Projekt predvideva 6.000 kilometrov dolg plinovod, ki bo potekal vzdolž atlantske obale in povezoval 14 držav. Gradnja naj bi se začela leta 2028. Ta ambiciozni projekt je namenjen izboljšanju energetske varnosti in dostopa do energije v regiji, hkrati pa bo omogočil izkoriščanje bogatih zalog zemeljskega plina. Pričakuje se, da bo plinovod spodbudil gospodarski razvoj in ustvaril nova delovna mesta v vseh sodelujočih državah, kar predstavlja pomembno investicijo v regionalno infrastrukturo.",
-      "analiza": "Veliki infrastrukturni projekti, kot je ta plinovod, imajo daljnosežne ekonomske in geopolitične posledice. Za energetski sektor to pomeni dolgoročno stabilizacijo dobav plina in potencialno zmanjšanje odvisnosti od uvoza, kar je pozitivno za regionalno energetsko varnost. Investicija v višini 25 milijard dolarjev bo spodbudila gradbeno industrijo, ustvarila povpraševanje po materialih in delovni sili ter privabila tuje investicije v regijo. To lahko pozitivno vpliva na delnice podjetij, ki so vključena v gradnjo in upravljanje energetske infrastrukture, ter na obveznice držav, ki sodelujejo pri projektu. Vendar pa so takšni projekti pogosto povezani z izzivi, kot so financiranje, politična stabilnost in okoljski vplivi. Kljub temu, dolgoročno takšna infrastruktura podpira gospodarsko rast in razvoj. Za slovenskega dolgoročnega vlagatelja to pomeni, da so naložbe v energetske in infrastrukturne projekte v regijah v razvoju lahko priložnost za diverzifikacijo, vendar je treba upoštevati tudi povezana tveganja, kot so politična nestabilnost in izvedba projekta.",
-      "vpliv": [
-        "Investicija v višini 25 milijard dolarjev",
-        "Izboljšana energetska varnost v Zahodni Afriki",
-        "Spodbujanje gospodarskega razvoja",
-        "Potencialna rast delnic infrastrukturnih podjetij"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cwyr5rpglngo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-07-20T15:52:55.000Z"
-    },
-    {
-      "naslov": "SpaceX nadaljuje upad tržne vrednosti, pod Meta Platforms",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "SpaceX, podjetje Elona Muska, se sooča z nadaljnjim upadom tržne vrednosti, saj je od svojega vrhunca izgubilo že več kot 1 bilijon dolarjev. Ta padec je bil tako izrazit, da je podjetje za kratek čas padlo pod Meta Platforms na lestvici tržne kapitalizacije. Čeprav podrobnosti o razlogih za ta padec niso navedene v novici, je to pomemben pokazatelj spremenjenega sentimenta do nekaterih prej visoko vrednotenih zasebnih tehnoloških podjetij. Izguba tako velike vrednosti kaže na morebitne izzive pri financiranju, konkurenci ali splošnem vrednotenju v sektorju vesoljske industrije in naprednih tehnologij.",
-      "analiza": "Vrednotenje zasebnih tehnoloških podjetij je pogosto predmet špekulacij in se lahko hitro spreminja. Padec tržne vrednosti SpaceX-a za več kot 1 bilijon dolarjev od vrha in padec pod Meta Platforms je pomemben dogodek, ki odraža morebitno pregrevanje trga v preteklosti ali pa specifične izzive, s katerimi se podjetje sooča. Takšni dogodki lahko vplivajo na celoten sektor tveganega kapitala in zasebnih naložb, saj zmanjšujejo apetit vlagateljev po visokorizičnih, a potencialno visoko donosnih naložbah. Čeprav SpaceX ni javno kotirano podjetje, njegov padec vpliva na širši tehnološki sektor in na vlagatelje, ki so posredno izpostavljeni prek skladov tveganega kapitala ali drugih investicijskih instrumentov. Zgodovinsko gledano, so obdobja hitre rasti in visokih vrednotenj pogosto sledila obdobja korekcij, ko se trg prilagodi bolj realističnim pričakovanjem. Za slovenskega dolgoročnega vlagatelja je to opomin, da so naložbe v visoko rastna tehnološka podjetja, še posebej tista v zasebni lasti, lahko zelo volatilna in nosijo visoko tveganje. Diverzifikacija in previdnost pri ocenjevanju vrednosti sta ključni.",
-      "vpliv": [
-        "Izguba več kot 1 bilijon dolarjev tržne vrednosti",
-        "Padec pod Meta Platforms na lestvici tržne kapitalizacije",
-        "Spremenjen sentiment do zasebnih tehnoloških podjetij",
-        "Potencialni vpliv na tvegani kapital"
+        "Povečan pritisk na pokojninske prihranke posameznikov",
+        "Potencialno povečano povpraševanje po zdravstvenih in zavarovalnih storitvah",
+        "Možna rast delnic v zdravstvenem in zavarovalniškem sektorju",
+        "Vpliv na potrošniško porabo v drugih sektorjih"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/spacex-flirts-with-a-further-decline-down-the-market-cap-ranks-e539799e?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-20T16:47:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/your-healthcare-could-now-cost-185-500-in-retirement-and-that-doesnt-include-long-term-care-5f4f6da8?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-21T04:01:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-20T17:12:44.024Z",
+    "posodobljenoOb": "2026-07-21T06:40:32.838Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7467.86,
-        "sprememba_pct": 0.14
+        "vrednost": 7443.28,
+        "sprememba_pct": -0.19
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 28766.568,
-        "sprememba_pct": 0.61
+        "vrednost": 28604.234,
+        "sprememba_pct": 0.04
       },
       {
         "simbol": "^GDAXI",
@@ -133,30 +116,30 @@
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 64141.12,
-        "sprememba_pct": -4.03
+        "vrednost": 66067.91,
+        "sprememba_pct": 3
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4015,
-        "sprememba_pct": -0.09,
+        "vrednost": 4076.8,
+        "sprememba_pct": 1.52,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 81.86,
-        "sprememba_pct": 0.1,
+        "vrednost": 81.92,
+        "sprememba_pct": -0.68,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 88.57,
-        "sprememba_pct": 0.53,
+        "vrednost": 88.29,
+        "sprememba_pct": -1.04,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +147,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1416,
-        "sprememba_pct": -0.26
+        "vrednost": 1.1423,
+        "sprememba_pct": 0.08
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.604,
-        "sprememba_pct": 1.39,
+        "vrednost": 4.598,
+        "sprememba_pct": 1.26,
         "enota": "%"
       }
     ],
@@ -181,16 +164,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 65438.62,
-        "sprememba_pct": 1.17,
+        "vrednost": 65893.31,
+        "sprememba_pct": 1.04,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 17.95,
-      "sprememba_pct": -4.37
+      "vrednost": 18.65,
+      "sprememba_pct": -0.64
     }
   }
 }
