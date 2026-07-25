@@ -1,99 +1,116 @@
 {
-  "generiranoOb": "2026-07-25T06:29:14.757Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-07-25T16:28:52.853Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-07-25",
-  "povzetek": "Jutranji pregled finančnih trgov 25. julija 2026 kaže mešano sliko po nočnem trgovanju. Ameriški indeks S&P 500 je zaključil s skromno rastjo 0,05 % pri 7412, medtem ko je tehnološki Nasdaq 100 zabeležil padec za 1,15 % in se ustavil pri 28128. V Evropi je DAX pridobil 1,36 % in dosegel 25099, medtem ko so azijski trgi, kot je Nikkei 225, padli za 2,73 % na 64611. Na trgu surovin je cena zlata zrasla za 0,51 % na 4070,80 USD/oz, medtem ko sta ceni nafte WTI in Brent padli za 3,12 % na 89,31 USD/sod oziroma za 3,88 % na 96,78 USD/sod. Med ključnimi dogodki izstopajo opozorilo Moody's o tveganjih za bonitetno kakovost tehnoloških velikanov zaradi izdatkov za AI, grožnje predsednika Trumpa EU po kazni Googlu in širjenje gozdnih požarov v Franciji in Španiji, ki so povzročili evakuacijo 200.000 ljudi. Geopolitične napetosti so se povečale z izjavo Trumpa o \"pripravljenosti\" ZDA glede Irana, medtem ko so potrošniki pod pritiskom zaradi stroškov počitniške logistike. Analitiki opozarjajo tudi na morebitno nepripravljenost trga na 6-odstotni donos 30-letne ameriške obveznice, kar bi imelo pomembne posledice za delniške trge. Najpomembnejši ekonomski dogodek, ki ga vlagatelji morajo imeti na radarju ta teden, je prihajajoča objava inflacijskih podatkov, ki bo vplivala na pričakovanja glede monetarne politike.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z rastjo, kjer je nemški indeks DAX pridobil 1,36 % in dosegel 25099 točk. Medtem so ameriški trgi, dve uri po odprtju, kazali mešano sliko: indeks S&P 500 je bil pri 7412 točkah z minimalno rastjo 0,05 %, medtem ko je tehnološko usmerjeni Nasdaq 100 padel za 1,15 % na 28128 točk. Na surovinskih trgih je cena nafte WTI upadla za 3,12 % na 89,31 USD za sod, Brent pa za 3,88 % na 96,78 USD za sod, kljub nadaljevanju pogovorov med Iranom in ZDA glede spora v Hormuški ožini. Zlato je medtem zraslo za 0,51 % na 4070,80 USD za unčo, medtem ko je donosnost 10-letne ameriške državne obveznice padla za 0,51 % na 4,68 %. Vlagatelji so pozorni na morebitne spremembe davčne zakonodaje za pokojninske račune v ZDA, opozorila o rastočih hipotekarnih obrestnih merah, ki bi lahko dosegle 7 %, in pričakovana nihanja delnic tehnoloških velikanov. Ta teden bo ključna objava podatkov o inflaciji v ZDA, ki bo vplivala na pričakovanja glede monetarne politike.",
   "novice": [
     {
-      "naslov": "Trump opozarja na \"pripravljenost\" ZDA, medtem ko išče pogovore z Iranom",
+      "naslov": "Iran krivi ZDA za spor v Hormuški ožini, pogovori se nadaljujejo",
       "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Iran je danes obtožil ZDA za spor v Hormuški ožini, medtem ko sta obe strani potrdili nadaljevanje pogovorov. Poročajo, da v noči na soboto, prvič po dveh tednih, ni bilo novih ameriških napadov. Ta razvoj dogodkov nakazuje na kompleksno dinamiko v regiji, kjer se vojaške aktivnosti prepletajo z diplomatskimi prizadevanji. Hormuška ožina je ključna pomorska pot za globalni transport nafte, zato so dogodki tam izjemno pomembni za energetske trge. Zmanjšanje vojaških aktivnosti, čeprav začasno, lahko prinese kratkoročno olajšanje. Vendar pa obtožbe in nadaljevanje pogovorov poudarjajo dolgotrajno naravo konflikta.",
+      "analiza": "Ozadje spora v Hormuški ožini je dolgotrajno rivalstvo med Iranom in ZDA, ki se je v zadnjih dveh tednih stopnjevalo z ameriškimi napadi. Hormuška ožina je strateško pomembna, saj skozi njo poteka približno petina svetovne nafte, kar jo postavlja v središče geopolitičnih napetosti. Relevantnost dogodka je v tem, da kljub iranskim obtožbam obstajajo tudi potrditve o nadaljevanju pogovorov, kar nakazuje na kompleksno situacijo, kjer se vojaška deeskalacija prepleta z diplomatskimi prizadevanji. Mehanizem vpliva na finančne trge je neposreden: napetosti v regiji običajno povzročijo rast cen nafte zaradi strahu pred motnjami v dobavi. Vendar pa so danes cene nafte WTI in Brent kljub temu padle za 3,12 % oziroma 3,88 %, kar kaže, da trgi morda že vključujejo pričakovanja o deeskalaciji ali pa so pod vplivom drugih dejavnikov, kot je povpraševanje. Posledice za surovine so običajno povišane cene nafte in zlata, ki služi kot varno zatočišče, danes je zlato zraslo za 0,51 % na 4070,80 USD/oz. Za delnice to pomeni povečano volatilnost, še posebej za podjetja, odvisna od energentov. Za slovenskega dolgoročnega vlagatelja to pomeni, da je geopolitična stabilnost ključna za predvidljivost energetskih trgov, kar vpliva na stroške poslovanja in potrošnje.",
+      "vpliv": [
+        "Zmanjšanje vojaških napadov v Hormuški ožini",
+        "Padec cen nafte WTI za 3,12 % in Brent za 3,88 %",
+        "Rast cene zlata za 0,51 %",
+        "Povečana volatilnost na delniških trgih"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss",
+      "objavljeno": "2026-07-25T12:49:06.000Z"
+    },
+    {
+      "naslov": "Predlagana zakonodaja bi omejila davčne ugodnosti bogatih pri pokojninskih računih",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Več kot 200 posameznikov v ZDA ima skupno več kot 85 milijard dolarjev v davčno zaščitenih pokojninskih računih, kot so 401(k) in IRA, ki jih uporabljajo za izogibanje davkom na milijone dolarjev. Predlagana zakonodaja si prizadeva omejiti to prakso in preprečiti, da bi super bogati posamezniki te račune izkoriščali za dolgoročno davčno optimizacijo. Cilj je zmanjšati davčne vrzeli, ki omogočajo akumulacijo ogromnih zneskov sredstev brez plačila tekočih davkov. Takšna sprememba bi lahko imela pomembne posledice za strategije premoženja in načrtovanje upokojitve za premožnejše posameznike. Gre za poskus izboljšanja davčne pravičnosti in potencialnega povečanja davčnih prihodkov države.",
+      "analiza": "Ozadje te novice je dolgotrajna razprava o davčni pravičnosti in izkoriščanju davčnih vrzeli s strani premožnih posameznikov. Pokojninski računi, kot so 401(k) in IRA, so bili prvotno zasnovani za spodbujanje varčevanja za upokojitev za širšo populacijo, vendar so se razvili v orodje za davčno optimizacijo za super bogate. Relevantnost je v tem, da predlagana zakonodaja neposredno cilja na to prakso, kar bi lahko spremenilo dinamiko upravljanja premoženja. Mehanizem vpliva na finančne trge bi bil v morebitnem preusmerjanju kapitala iz teh davčno zaščitenih računov v druge naložbene oblike, če bi omejitve postale prestroge. To bi lahko povzročilo povečano trgovanje ali spremembe v povpraševanju po določenih vrstah naložb. Posledice za delnice bi lahko bile mešane, saj bi nekateri vlagatelji morda morali prodati določena sredstva, drugi pa bi iskali nove naložbene priložnosti. Za obveznice in valute bi bil vpliv verjetno manj neposreden, razen če bi prišlo do zelo velikih preusmeritev kapitala. Dolgoročno bi lahko to vplivalo na obseg sredstev, ki se upravljajo v pokojninskih skladih. Za slovenskega dolgoročnega vlagatelja je to opomin, da se davčna zakonodaja lahko spreminja in vpliva na naložbene strategije, tudi posredno preko globalnih kapitalskih tokov.",
+      "vpliv": [
+        "Potencialno preusmerjanje 85 milijard USD iz pokojninskih računov",
+        "Spremembe v strategijah upravljanja premoženja",
+        "Možna povečana volatilnost v določenih delniških sektorjih",
+        "Dolgoročen vpliv na obseg pokojninskih skladov"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-super-rich-use-401-k-s-and-iras-to-sidestep-taxes-on-millions-of-dollars-this-proposed-law-would-cut-them-off-04b37e9a?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-25T15:30:00.000Z"
+    },
+    {
+      "naslov": "Trg obveznic opozarja na morebitne 7-odstotne hipotekarne obrestne mere",
+      "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Ameriški predsednik Donald Trump je izjavil, da so ZDA \"zaklenjene in naložene\" (locked and loaded), medtem ko si prizadevajo za diplomatske pogovore s Teheranom. Ta izjava prihaja v času povečanih napetosti med državama. Al Jazeera poroča o Trumpovih komentarjih, ki nakazujejo na dvojni pristop – pripravljenost na ukrepanje, a hkrati odprtost za dialog. Njegove besede poudarjajo občutljivo ravnovesje med grožnjo in diplomacijo v mednarodnih odnosih.",
-      "analiza": "Ozadje teh napetosti sega v dolgoletne spore glede iranskega jedrskega programa in vloge Irana v regiji Bližnjega vzhoda. Trumpova administracija je v preteklosti že izstopila iz jedrskega sporazuma z Iranom in uvedla stroge sankcije. Njegova trenutna izjava je pomembna, saj signalizira tako vojaško pripravljenost kot tudi željo po diplomatski rešitvi, kar ustvarja negotovost na trgih. Mehanizem vpliva na finančne trge je predvsem preko cen nafte in zlata. Povečane geopolitične napetosti na Bližnjem vzhodu, ključni regiji za proizvodnjo nafte, običajno povzročijo rast cen nafte zaradi strahu pred motnjami v dobavi. Vendar pa so danes cene WTI nafte padle za 3,12 % na 89,31 USD/sod, Brent nafte pa za 3,88 % na 96,78 USD/sod, kar kaže na to, da trg morda bolj upošteva splošne makroekonomske skrbi ali pa Trumpovo izjavo razume kot poskus pogajanj, ne nujno kot neposredno grožnjo. Zlato, tradicionalno varno zatočišče, je zraslo za 0,51 % na 4070,80 USD/oz, kar odraža določeno stopnjo previdnosti. Posledice za delnice so lahko negativne zaradi povečane negotovosti, medtem ko bi obveznice, še eno varno zatočišče, lahko pridobile. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitične dogodke, saj lahko hitro vplivajo na cene surovin in splošno razpoloženje na trgih, kar se odraža v volatilnosti portfelja.",
+      "povzetek": "Trg ameriških državnih obveznic kaže opozorilne znake, ki bi lahko vodili do 7-odstotnih hipotekarnih obrestnih mer. 30-letna fiksna hipotekarna obrestna mera je letos že dosegla najvišjo raven v letu 2026. To bi pomenilo znatno povišanje stroškov zadolževanja za kupce nepremičnin, kar bi lahko ohladilo nepremičninski trg. Donosnost 10-letne ameriške državne obveznice, ki služi kot referenca za hipotekarne obrestne mere, je danes sicer padla za 0,51 % na 4,68 %, vendar splošni trend in pričakovanja kažejo na pritisk navzgor. Takšne obrestne mere bi močno vplivale na dostopnost stanovanj in potrošniško porabo.",
+      "analiza": "Ozadje te novice je trenutno makroekonomsko okolje, zaznamovano z inflacijskimi pritiski in odzivi centralnih bank, ki so v preteklosti dvigovale obrestne mere. Čeprav je danes donosnost 10-letne ameriške državne obveznice padla na 4,68 %, splošna pričakovanja na trgu obveznic kažejo na morebitno nadaljnje povišanje dolgoročnih obrestnih mer. Relevantnost je v neposrednem vplivu na nepremičninski trg in potrošniško moč. Mehanizem vpliva je preprost: višje obrestne mere pomenijo dražja posojila, kar zmanjšuje povpraševanje po nepremičninah in s tem ohlaja trg. To lahko vpliva tudi na širšo ekonomijo, saj je nepremičninski sektor pomemben del BDP. Posledice za delnice bi se kazale v upadu delnic gradbenih podjetij, bank in podjetij, povezanih z opremljanjem domov. Za obveznice to pomeni, da vlagatelji pričakujejo višje donosnosti, kar lahko povzroči padec cen obstoječih obveznic. Za valute bi lahko višje obrestne mere v ZDA okrepile dolar, čeprav je danes EUR/USD padel za 0,06 % na 1.1375. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so obrestne mere ključni dejavnik za oceno vrednosti naložb, še posebej tistih, ki so občutljive na zadolževanje in potrošnjo.",
       "vpliv": [
-        "Povečana geopolitična negotovost",
-        "Potencialni vpliv na cene nafte",
-        "Rast cene zlata za 0,51 %",
-        "Možna volatilnost delniških trgov"
+        "Zvišanje stroškov zadolževanja za kupce nepremičnin",
+        "Ohladitev nepremičninskega trga",
+        "Potencialni padec delnic gradbenih in bančnih podjetij",
+        "Vpliv na potrošniško porabo"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
-      "objavljeno": "2026-07-25T00:00:00.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-25T14:08:00.000Z"
     },
     {
-      "naslov": "Moody's opozarja, da poraba za AI ogroža bonitetno kakovost tehnoloških velikanov",
+      "naslov": "S&P 500 kaže prodajne signale, pričakovane so nihanja delnic tehnoloških velikanov",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Bonitetna agencija Moody's je opozorila, da \"brezprimerna\" poraba za umetno inteligenco (AI) ogroža bonitetno kakovost podjetij, kot so Amazon, Meta in Alphabet. Agencija navaja, da so tudi najbolj likvidna podjetja prisiljena močno se zanašati na dolg, prodajo delnic in izvenbilančne poteze za financiranje teh naložb. To kaže na obsežnost in stroškovno intenzivnost trenutnega vala investicij v AI, ki zahteva ogromne kapitalske izdatke.",
-      "analiza": "Ozadje te novice je globalna dirka v razvoju in implementaciji umetne inteligence, ki zahteva ogromne kapitalske naložbe v strojno opremo (čipi), razvoj programske opreme in raziskave. Podjetja želijo ostati konkurenčna, kar jih sili v hitro in obsežno investiranje. Moody's opozorilo je relevantno, ker bonitetne ocene vplivajo na stroške zadolževanja podjetij. Mehanizem vpliva je, da višji dolg in morebitno znižanje bonitetne ocene lahko povečata finančno tveganje za ta podjetja, kar se lahko odrazi v nižjih cenah delnic. Čeprav so to nekatera izmed največjih in najbogatejših podjetij na svetu, so obseg in hitrost teh naložb brez primere. Posledice za delnice tehnoloških podjetij, kot so Amazon, Meta in Alphabet, so lahko negativne, saj vlagatelji postanejo previdnejši glede njihovega dolgoročnega finančnega zdravja. Nasdaq 100, ki je močno obremenjen s tehnološkimi delnicami, je danes že padel za 1,15 % na 28128, kar bi lahko deloma odražalo tovrstne skrbi. Obveznice teh podjetij bi lahko postale tveganejše, kar bi zahtevalo višje donose. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da tudi vodilna podjetja v hitro rastočih sektorjih niso imuna na finančna tveganja, povezana z agresivnimi investicijami, in da je diverzifikacija ključna.",
+      "intenziteta": 3,
+      "povzetek": "Indeks S&P 500 kaže prodajne signale, medtem ko se trgovci z opcijami pripravljajo na velika nihanja delnic tehnoloških gigantov, kot so Apple, Meta in Microsoft. Živčni vlagatelji ustvarjajo pogoje za masivne premike po objavi četrtletnih rezultatov teh največjih podjetij na Wall Streetu. To kaže na povečano negotovost in pričakovanje pomembnih sprememb v vrednosti teh delnic. Kljub temu, da je S&P 500 danes zrasel za 0,05 % na 7412 točk, je Nasdaq 100, ki je močno obremenjen s tehnološkimi delnicami, padel za 1,15 % na 28128 točk, kar odraža to negotovost. Indeks volatilnosti VIX je padel za 0,64 % na 18,58, kar pa ne odpravlja pričakovanj po individualnih nihanjih.",
+      "analiza": "Ozadje te novice je sezona objave četrtletnih poslovnih rezultatov, ki je ključna za oceno uspešnosti podjetij in določanje smeri trka. Tehnološki velikani, kot so Apple, Meta in Microsoft, imajo izjemno veliko težo v indeksih, kot sta S&P 500 in Nasdaq 100, zato njihovi rezultati močno vplivajo na celoten trg. Relevantnost je v tem, da prodajni signali in pričakovana nihanja kažejo na povečano tveganje in morebitno korekcijo v sektorju, ki je v preteklosti poganjal rast. Mehanizem vpliva je preko trgovanja z opcijami, kjer se vlagatelji pozicionirajo za velike premike, kar lahko samo po sebi poveča volatilnost. Posledice za delnice bi bile neposredne: morebitni padci cen delnic omenjenih podjetij bi lahko povzročili širši padec v tehnološkem sektorju in na celotnem trgu. Za obveznice in valute bi bil vpliv posreden, preko splošnega sentimenta na trgu in morebitnega bega v varna zatočišča. Zgodovinski primeri kažejo, da so objave rezultatov tehnoloških velikanov pogosto katalizatorji za pomembne tržne premike. Za slovenskega dolgoročnega vlagatelja to poudarja pomen diverzifikacije in previdnosti pri naložbah v visoko vrednotena tehnološka podjetja.",
       "vpliv": [
-        "Potencialno znižanje bonitetnih ocen tehnoloških velikanov",
-        "Povečani stroški zadolževanja za podjetja z AI investicijami",
-        "Negativen pritisk na delnice tehnološkega sektorja",
-        "Padec Nasdaq 100 za 1,15 %"
+        "Pričakovana velika nihanja delnic Apple, Meta in Microsoft",
+        "Povečana negotovost v tehnološkem sektorju",
+        "Potencialni pritisk na indeks Nasdaq 100 (danes -1,15 %)",
+        "Povečano tveganje za širši delniški trg"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-25T14:21:00.000Z"
+    },
+    {
+      "naslov": "Skladovni menedžer napoveduje \"generacijsko priložnost\" v TIPS obveznicah",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Bob Elliott, menedžer hedge sklada, je sprožil razburjenje z izjavo o \"generacijski nakupni priložnosti\" v obveznicah TIPS (Treasury Inflation-Protected Securities). Trdi, da te obveznice trenutno ponujajo zajamčeno donosnost, ki presega inflacijo za 3 % letno. TIPS so državne obveznice, katerih glavnica se prilagaja inflaciji, kar vlagateljem zagotavlja zaščito pred izgubo kupne moči. Elliott poudarja, da so TIPS trenutno podcenjene in predstavljajo privlačno naložbo v okolju, kjer so inflacijski pritiski še vedno prisotni. To bi lahko pritegnilo vlagatelje, ki iščejo zaščito pred inflacijo in stabilne realne donose.",
+      "analiza": "Ozadje te izjave je trenutno makroekonomsko okolje, ki ga zaznamujejo visoke inflacijske stopnje v zadnjih letih in negotovost glede prihodnje inflacije. TIPS obveznice so bile zasnovane prav za takšne razmere, saj njihova vrednost raste z inflacijo. Relevantnost je v tem, da izjava uglednega menedžerja hedge sklada lahko vpliva na tržno razpoloženje in preusmeritev kapitala. Mehanizem vpliva na finančne trge je v povečanem povpraševanju po TIPS obveznicah, kar bi lahko dvignilo njihove cene in znižalo njihove donosnosti. Posledice za obveznice bi bile, da bi se TIPS obveznice lahko izkazale za privlačno alternativo tradicionalnim obveznicam, še posebej za vlagatelje, ki so zaskrbljeni zaradi inflacije. Za delnice bi to lahko pomenilo, da bi se del kapitala, ki bi sicer šel v delnice, preusmeril v TIPS, če bi vlagatelji iskali varnejše in inflacijsko zaščitene donose. Za valute in surovine bi bil vpliv manj neposreden. Zgodovinsko gledano so TIPS obveznice pridobile na popularnosti v obdobjih visoke inflacije. Za slovenskega dolgoročnega vlagatelja to poudarja pomen razumevanja različnih naložbenih instrumentov in njihove vloge pri zaščiti premoženja pred inflacijo, še posebej v času negotovosti.",
+      "vpliv": [
+        "Povečano zanimanje za TIPS obveznice",
+        "Potencialno zvišanje cen TIPS obveznic",
+        "Preusmeritev kapitala iz drugih naložb v TIPS",
+        "Zaščita pred inflacijo za vlagatelje"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/a-generational-buying-opportunity-guarantees-inflation-plus-3-a-year-says-this-hedge-fund-manager-eb4cd29c?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-25T14:32:00.000Z"
+    },
+    {
+      "naslov": "Logistični velikani se prilagajajo zdravstvenemu razcvetu in povpraševanju po hladni verigi",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Velika logistična podjetja, kot so UPS, FedEx in DHL, se intenzivno vključujejo v rastoči trg zdravstvenega varstva. Razcvet zdravstvene industrije, še posebej zaradi zdravil GLP-1 (npr. za hujšanje in diabetes), poudarja kritično potrebo po hladni verigi in temperaturno nadzorovanih skladiščih ter prevozu. Ta podjetja širijo svoje zmogljivosti in storitve, da bi zadostila naraščajočemu povpraševanju po transportu in shranjevanju občutljivih farmacevtskih izdelkov. To predstavlja pomembno priložnost za rast in diverzifikacijo prihodkov za logistične velikane, ki se prilagajajo novim tržnim nišam.",
+      "analiza": "Ozadje te novice je globalni trend staranja prebivalstva in inovacije v farmacevtski industriji, ki vodijo do razvoja novih, pogosto bioloških zdravil, ki zahtevajo specifične pogoje shranjevanja in transporta. Zdravila GLP-1 so le eden izmed primerov, ki poganjajo to povpraševanje. Relevantnost je v tem, da ta trend ustvarja novo in rastočo priložnost za logistični sektor, ki se mora hitro prilagoditi. Mehanizem vpliva na finančne trge je v povečanih prihodkih in dobičkih za logistična podjetja, ki uspešno razvijajo te specializirane storitve. To bi lahko povzročilo rast delnic podjetij, kot so UPS, FedEx in DHL, ki so v ospredju tega razvoja. Posledice za delnice so pozitivne za logistična podjetja, ki vlagajo v hladno verigo, in posredno tudi za farmacevtska podjetja, saj učinkovita logistika omogoča širšo distribucijo njihovih izdelkov. Za obveznice, valute in surovine bi bil vpliv manj neposreden. Ta trend kaže na strukturno rast v določenih sektorjih, ki je neodvisna od kratkoročnih makroekonomskih nihanj. Za slovenskega dolgoročnega vlagatelja je to primer, kako demografske spremembe in tehnološki napredek v medicini ustvarjajo dolgoročne naložbene priložnosti v podpornih industrijah.",
+      "vpliv": [
+        "Povečani prihodki logističnih podjetij",
+        "Rast delnic UPS, FedEx, DHL",
+        "Razvoj specializiranih storitev hladne verige",
+        "Povečana odpornost logističnega sektorja na splošne ekonomske cikle"
       ],
       "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-      "objavljeno": "2026-07-24T22:43:56.000Z"
-    },
-    {
-      "naslov": "Nepredvidljivi požari v Franciji in Španiji prisilili v evakuacijo 200.000 ljudi",
-      "sektor": "Energetika / Okolje",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Francija in Španija sta evakuirali 200.000 ljudi zaradi \"brezprimernih\" gozdnih požarov, ki se hitro širijo. Ekstremna vročina in močan veter poganjata hitro premikajoče se požare, medtem ko se oblasti v obeh državah borijo za njihovo zajezitev. Dogodek poudarja naraščajoče izzive, povezane s podnebnimi spremembami in njihovimi neposrednimi vplivi na prebivalstvo in gospodarstvo, še posebej v turistično pomembnih regijah.",
-      "analiza": "Ozadje te novice so ponavljajoči se valovi vročine in suše v južni Evropi, ki ustvarjajo idealne pogoje za izbruh in hitro širjenje gozdnih požarov. Takšni dogodki so postali pogostejši in intenzivnejši v zadnjih letih. Novica je relevantna, saj poleg neposredne človeške tragedije in uničenja premoženja, požari povzročajo tudi znatne gospodarske stroške. Mehanizem vpliva na finančne trge je večplasten: povečanje stroškov zavarovalnic zaradi odškodnin, motnje v turistični industriji, uničenje kmetijskih površin in infrastrukture. Dolgoročno to poudarja tveganja, povezana s podnebnimi spremembami, ki lahko vplivajo na naložbe v določene sektorje in regije. Posledice za delnice zavarovalnic so lahko negativne, medtem ko bi delnice podjetij, ki se ukvarjajo z gašenjem požarov ali obnovitvijo, lahko doživele rast. Turistični sektor v prizadetih regijah se bo soočal z izzivi. Na splošno lahko takšni dogodki povečajo negotovost in vplivajo na regionalno gospodarsko rast. Za slovenskega dolgoročnega vlagatelja je pomembno upoštevati tveganja, povezana s podnebnimi spremembami, pri ocenjevanju dolgoročne vzdržnosti naložb, še posebej v sektorjih, ki so neposredno izpostavljeni vremenskim vplivom.",
-      "vpliv": [
-        "Povečani stroški za zavarovalnice",
-        "Motnje v turistični industriji",
-        "Uničenje infrastrukture in kmetijskih površin",
-        "Povečana negotovost glede regionalne gospodarske rasti"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-25T06:04:19.000Z"
-    },
-    {
-      "naslov": "Starši pod pritiskom usklajevanja počitniške logistike in stroškov varstva otrok",
-      "sektor": "Potrošniki",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Starši poročajo, da so poletne počitnice težje zaradi stroškov varstva otrok, neplačanega dopusta in vrzeli pri podpori za otroke s posebnimi potrebami (SEND). BBC Business navaja, da se mnogi počutijo pod pritiskom, ko poskušajo uskladiti počitniško logistiko. To poudarja širši problem stroškov življenja in obremenitve gospodinjstev, kar vpliva na njihovo finančno stabilnost in razpoložljivo dohodke.",
-      "analiza": "Ozadje te novice je naraščajoči stroški življenja, ki vplivajo na gospodinjstva po vsem svetu, vključno z Združenim kraljestvom, kjer je novica nastala. Visoka inflacija in stagnacija plač zmanjšujeta kupno moč, kar se še posebej pozna pri sezonskih stroških, kot so poletne počitnice in varstvo otrok. Novica je relevantna, ker neposredno vpliva na potrošniško zaupanje in potrošnjo, ki sta ključna dejavnika gospodarske rasti. Mehanizem vpliva na finančne trge je preko zmanjšane diskrecijske porabe. Če se gospodinjstva borijo s pokrivanjem osnovnih stroškov in stroškov varstva otrok, bodo manj verjetno porabljala za nepotrebne dobrine in storitve. To lahko negativno vpliva na podjetja v sektorjih, kot so maloprodaja, turizem in zabava. Posledice za delnice so lahko negativne za podjetja, ki so odvisna od potrošniške porabe. Splošno zmanjšanje potrošniškega zaupanja lahko vpliva tudi na širše trge. Za slovenskega dolgoročnega vlagatelja je pomembno opazovati trende v potrošniški porabi in zaupanju, saj so ti kazalniki zdravja gospodarstva in lahko vplivajo na dobičkonosnost podjetij, v katera vlagajo.",
-      "vpliv": [
-        "Zmanjšana diskrecijska potrošnja",
-        "Negativen vpliv na maloprodajni in turistični sektor",
-        "Povečan pritisk na gospodinjstva",
-        "Potencialno zmanjšanje potrošniškega zaupanja"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c7vg3gnzn6mo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-07-25T06:16:46.000Z"
-    },
-    {
-      "naslov": "Trump grozi EU z \"visoko ceno\" po kazni Googlu v višini milijarde dolarjev",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Ameriški predsednik Donald Trump je zagrozil, da bo Evropska unija plačala \"visoko ceno\", potem ko je Bruselj Googlu naložil kazen v višini 1 milijarde dolarjev. EU obtožuje ameriškega tehnološkega velikana, da je v rezultatih iskanja favoriziral lastne storitve. Trumpova izjava kaže na naraščajoče trgovinske in regulativne napetosti med ZDA in EU, kar bi lahko imelo širše gospodarske posledice.",
-      "analiza": "Ozadje te novice so dolgotrajni spori med Evropsko unijo in ameriškimi tehnološkimi velikani glede protimonopolne zakonodaje in regulacije digitalnih trhov. EU si prizadeva omejiti prevlado velikih tehnoloških podjetij in zagotoviti pošteno konkurenco. Trumpova reakcija je relevantna, saj nakazuje na morebitno eskalacijo trgovinskih napetosti med ZDA in EU, podobno kot v prejšnjih obdobjih njegovega predsedovanja. Mehanizem vpliva na finančne trge je večplasten: kazni neposredno vplivajo na dobičkonosnost podjetij, kot je Google (Alphabet), medtem ko trgovinske grožnje lahko povzročijo negotovost, ki vpliva na globalne dobavne verige in mednarodno trgovino. Posledice za delnice podjetja Alphabet (matičnega podjetja Googla) so lahko negativne zaradi kazni in morebitnih prihodnjih regulativnih ukrepov. Širše, morebitna trgovinska vojna med ZDA in EU bi lahko negativno vplivala na globalno gospodarsko rast in povzročila volatilnost na delniških in valutnih trgih. EUR/USD je danes že padel za 0,06 % na 1,1375, kar bi lahko deloma odražalo tovrstne skrbi. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj mednarodnih trgovinskih odnosov in regulativnih politik, saj lahko te močno vplivajo na poslovanje multinacionalnih podjetij in stabilnost globalnih trgov.",
-      "vpliv": [
-        "Neposreden finančni udarec za Google (Alphabet)",
-        "Povečane trgovinske napetosti med ZDA in EU",
-        "Potencialna volatilnost valutnih trgov",
-        "Negativni vpliv na globalno gospodarsko rast"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss",
-      "objavljeno": "2026-07-25T01:09:01.000Z"
+      "vir_url": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
+      "objavljeno": "2026-07-25T12:00:02.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-25T06:28:20.457Z",
+    "posodobljenoOb": "2026-07-25T16:26:44.394Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -164,8 +181,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63939.37,
-        "sprememba_pct": -0.24,
+        "vrednost": 64064.43,
+        "sprememba_pct": -0.04,
         "enota": "USD"
       }
     ],
