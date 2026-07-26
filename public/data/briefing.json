@@ -1,122 +1,63 @@
 {
-  "generiranoOb": "2026-07-26T10:16:53.670Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-07-26T16:31:26.482Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-07-26",
-  "povzetek": "Jutranji pregled trga 26. julija 2026 kaže mešano sliko po nočnem trgovanju. Ameriški indeksi so se gibali različno, saj je S&P 500 zabeležil minimalno rast za +0.05 % na 7412 točk, medtem ko je tehnološko usmerjen Nasdaq 100 padel za -1.15 % na 28128 točk. Azijski trgi so bili pod pritiskom, Nikkei 225 je upadel za -2.73 % na 64611 točk, medtem ko je evropski DAX že v zgodnjem trgovanju pridobil +1.36 % in dosegel 25099 točk. Surova nafta WTI in Brent sta doživeli precejšen padec, in sicer za -3.12 % na 89.31 USD/sod oziroma -3.88 % na 96.78 USD/sod, kljub eskalaciji konflikta med ZDA in Iranom ter napadom Hutijev na savdske naftne objekte. Zlato je medtem zraslo za +0.51 % na 4070.80 USD/oz, kar kaže na iskanje varnih zatočišč. Evropa danes pričakuje nadaljnjo volatilnost, saj se v ospredje postavljajo geopolitične napetosti na Bližnjem vzhodu in vpliv ekstremnih vremenskih pojavov, kot je tajfun Noul na Kitajskem. Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v evroobmočju, ki bo ključna za smerovanje monetarne politike Evropske centralne banke.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, pri čemer je nemški indeks DAX zrasel za 1.36 % na 25099 točk. Na drugi strani Atlantika so ameriški trgi po dveh urah trgovanja kazali mešano sliko; indeks S&P 500 je bil v rahlem plusu za 0.05 % pri 7412 točkah, medtem ko je tehnološki Nasdaq 100 padel za 1.15 % na 28128 točk. Ključna novica dneva je bila prekinitev ameriških napadov na Iran in diplomatska prizadevanja Omana za stabilizacijo Hormuške ožine, kar je povzročilo občuten padec cen nafte WTI za 3.12 % na 89.31 USD/sod in Brenta za 3.88 % na 96.78 USD/sod. Donosnost 10-letne ameriške državne obveznice je prav tako padla za 0.51 % na 4.68 %, kar kaže na zmanjšanje inflacijskih pričakovanj ali povpraševanje po varnih naložbah. Medtem ko se v ZDA razpravlja o regulaciji umetne inteligence, Evropo pestijo obsežni požari v Franciji in Španiji, ki so zahtevali evakuacijo več kot 360.000 ljudi. Vlagatelji bodo v prihodnjem tednu pozorno spremljali najintenzivnejši del sezone objav četrtletnih poslovnih rezultatov. ",
   "novice": [
     {
-      "naslov": "Eskalacija konflikta med ZDA in Iranom ter napadi Hutijev na savdske naftne objekte",
+      "naslov": "ZDA ustavile napade na Iran, Oman posreduje za dogovor o Hormuški ožini",
       "sektor": "Geopolitika",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Združene države Amerike so prekinile napade na Iran, kar je že drugo zaporedno noč brez napadov. Oman aktivno posreduje med stranema, da bi dosegel dogovor o tranzitu skozi strateško pomembno Hormuško ožino. Cilj diplomatskih prizadevanj je preprečiti ponovno eskalacijo v polno vojno v regiji. To dogajanje sledi predhodnim napetostim in napadom, ki so povzročili zaskrbljenost glede globalne oskrbe z nafto. Mediacijska prizadevanja so ključna za regionalno stabilnost in zmanjšanje geopolitičnih tveganj.",
+      "analiza": "Napetosti med ZDA in Iranom so se v zadnjem času močno zaostrile, z obojestranskimi napadi, ki so grozili s širšo regionalno vojno, še posebej po dogajanju v Gazi. Hormuška ožina je ključna pomorska pot za globalno trgovino z nafto, skozi katero poteka velik del svetovnih pošiljk nafte. Prekinitev napadov in diplomatska prizadevanja Omana so pomemben korak k morebitni deeskalaciji konflikta, ki je v zadnjih tednih močno vplival na cene energentov. Zmanjšanje geopolitičnega tveganja v ključni regiji za oskrbo z nafto neposredno vpliva na cene surovin, saj manjša verjetnost motenj v dobavi vodi v padec cen. Posledično je cena WTI nafte padla za 3.12 % na 89.31 USD/sod, Brent nafte pa za 3.88 % na 96.78 USD/sod. To zmanjšuje inflacijske pritiske, kar je lahko pozitivno za obveznice (donos 10-letne ameriške državne obveznice je padel za 0.51 % na 4.68 %) in delnice, saj zmanjšuje potrebo po agresivnem zaostrovanju monetarne politike. Valute lahko doživijo manjše nihanje, saj se zmanjšuje povpraševanje po varnih zatočiščih. Podobne deeskalacije v preteklosti, npr. po zalivskih vojnah, so prav tako vodile do umirjanja cen nafte in povečanja zaupanja vlagateljev. Ključno bo spremljati napredek v pogajanjih, morebitne izjave vpletenih strani in dejansko spoštovanje premirja. Za slovenskega dolgoročnega vlagatelja to pomeni zmanjšanje enega izmed glavnih virov globalne negotovosti, kar lahko prispeva k stabilnejšemu investicijskemu okolju, čeprav so geopolitična tveganja v regiji še vedno prisotna.",
+      "vpliv": [
+        "WTI nafta padec za 3.12 %",
+        "Brent nafta padec za 3.88 %",
+        "10Y US Treasury donos padec za 0.51 %",
+        "Zmanjšanje inflacijskih pritiskov"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11?syn-25a6b1a6=1",
+      "objavljeno": "2026-07-26T14:11:25.000Z"
+    },
+    {
+      "naslov": "Trg ameriških državnih obveznic opozarja Fed glede obrestnih mer",
+      "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Konflikt med ZDA in Iranom se je razširil, saj so jemenski Hutiji napadli savdske naftne objekte ob Rdečem morju, kar je nova fronta v širši regionalni napetosti. Hkrati se je konflikt razširil tudi na Kaspijsko jezero, kjer je Teheran obtožil Ukrajino smrtonosnega napada na iransko plovilo, pri čemer je bil ubit en mornar in ranjen drugi. Ameriška vojska je prav tako onesposobila tanker, obtožen kršenja iranske blokade, kar kaže na aktivno vpletenost. Jemenski Hutiji so potrdili, da so ciljali na naftne objekte v lasti Aramca v Savdski Arabiji. Iran je obsodil ukrajinski napad kot kriminalno dejanje in poklical ukrajinskega diplomata.",
-      "analiza": "Ozadje tega dogodka je dolgotrajna napetost med Iranom in ZDA ter njunimi zavezniki v regiji, ki se je v zadnjem času stopnjevala. Napadi Hutijev na savdske naftne objekte so pomembni, saj Savdska Arabija velja za ključnega globalnega dobavitelja nafte, vsaka motnja v njeni proizvodnji ali transportu pa lahko močno vpliva na svetovne cene energentov. Razširitev konflikta na Kaspijsko jezero z obtožbami Irana proti Ukrajini dodatno zapleta geopolitično sliko in kaže na širjenje proxy konfliktov. Mehanizem vpliva na finančne trge je neposreden: povečana geopolitična tveganja običajno vodijo do rasti cen nafte zaradi strahu pred motnjami v dobavi, medtem ko se vlagatelji umikajo v varnejša zatočišča, kot je zlato. Kljub temu sta danes WTI in Brent nafta padli za -3.12 % na 89.31 USD/sod oziroma -3.88 % na 96.78 USD/sod, kar je lahko posledica drugih dejavnikov, kot so splošni strahovi pred recesijo ali povečana ponudba, medtem ko je zlato zraslo za +0.51 % na 4070.80 USD/oz. Povečana nestabilnost lahko negativno vpliva na delnice podjetij, odvisnih od stabilnih dobavnih verig, in poveča volatilnost na trgih obveznic. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitična tveganja, saj lahko vplivajo na cene energentov in s tem na inflacijo ter dobičkonosnost podjetij, v katere vlagajo.",
+      "povzetek": "Trg ameriških državnih obveznic pošilja jasno opozorilo predsedniku Feda Kevinu Warshu glede obrestnih mer. Naraščajoče donosnosti obveznic so pokazale, kako močno je trg zaskrbljen zaradi inflacije. Vlagatelji se sprašujejo, ali bo Federal Reserve podprl svoje odločne izjave z dejanji. To kaže na pričakovanja trga glede morebitnega zaostrovanja monetarne politike ali pa na splošno negotovost glede gospodarske prihodnosti. Opozorilo je pomembno za prihodnje odločitve centralne banke.",
+      "analiza": "V zadnjem obdobju so se pojavile zaskrbljenosti glede vztrajne inflacije, kar je prisililo centralne banke, vključno z ameriškim Fedom, k razmisleku o morebitnem nadaljnjem zaostrovanju monetarne politike. Donosnosti državnih obveznic so ključen indikator pričakovanj trga glede inflacije in prihodnjih obrestnih mer. Ko donosnosti rastejo, to običajno kaže na pričakovanje višjih obrestnih mer ali povečano inflacijo. Vendar pa je danes donosnost 10-letne ameriške državne obveznice padla za 0.51 % na 4.68 %, kar bi lahko nakazovalo na zmanjšanje inflacijskih pritiskov (delno zaradi padca cen nafte) ali pa na povečano povpraševanje po varnih naložbah zaradi splošne negotovosti. Mehanizem vpliva je direkten: višje donosnosti obveznic pomenijo dražje zadolževanje za podjetja in potrošnike, kar lahko upočasni gospodarsko rast in negativno vpliva na delniške trge. Nižje donosnosti, kot danes, lahko na kratki rok razbremenijo delnice, vendar lahko dolgoročno signalizirajo tudi šibkejše gospodarske obete. Zgodovinsko gledano so trgi obveznic pogosto napovedovali spremembe v monetarni politiki. Vlagatelji bodo pozorno spremljali prihodnje izjave Feda in makroekonomske podatke, še posebej inflacijske. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da gibanje obrestnih mer v ZDA vpliva na globalne kapitalske tokove in stroške financiranja, kar posredno vpliva tudi na evropske trge in vrednost naložb.",
       "vpliv": [
-        "Povečana geopolitična tveganja",
-        "Potencialna rast cen nafte",
-        "Rast cene zlata (+0.51 %)",
-        "Padec cen WTI (-3.12 %) in Brent (-3.88 %) nafte",
-        "Povečana volatilnost na trgih"
+        "10Y US Treasury donos padec za 0.51 %",
+        "Zmanjšanje inflacijskih pričakovanj",
+        "Potencialno manj agresivna monetarna politika Feda"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
-      "objavljeno": "2026-07-26T04:40:17.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-26T12:30:00.000Z"
     },
     {
-      "naslov": "Kitajska povečuje financiranje zelenih energetskih projektov zaradi iranske vojne",
-      "sektor": "Energetika",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Kitajska močno povečuje financiranje projektov zelene energije, kar je neposreden odziv na vpliv iranske vojne na povpraševanje po nafti in cene. V okviru pobude Pas in pot (Belt and Road Initiative) Peking izkorišča naraščajoče zanimanje za obnovljive vire energije, saj se konflikt na Bližnjem vzhodu nadaljuje. Ta strategija omogoča Kitajski, da zmanjša svojo odvisnost od fosilnih goriv in hkrati krepi svoj vpliv na globalnem trgu zelene tehnologije. Povečane investicije so usmerjene v sončno, vetrno in hidroenergijo, tako doma kot v partnerskih državah.",
-      "analiza": "Ozadje te novice je globalna energetska tranzicija, ki jo pospešujejo geopolitične napetosti, kot je iranska vojna, in potreba po zmanjšanju odvisnosti od nestabilnih dobaviteljev nafte. Kitajska, kot največji porabnik energije in velik uvoznik nafte, je še posebej ranljiva za motnje v dobavi in cenovne šoke. Zato je njena strategija preusmeritve v zeleno energijo dolgoročna in strateška. Mehanizem vpliva na finančne trge je večplasten: povečano financiranje s strani Kitajske bo verjetno spodbudilo rast v sektorju obnovljivih virov energije, kar bo pozitivno vplivalo na delnice podjetij, ki delujejo na tem področju. Hkrati lahko zmanjšanje povpraševanja po nafti s strani Kitajske dolgoročno vpliva na stabilizacijo ali celo padec cen nafte, čeprav so kratkoročno geopolitični dejavniki močnejši. Ta trend lahko vpliva tudi na trge obveznic, saj se bodo izdajale \"zelene\" obveznice za financiranje teh projektov. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor zelene energije privlačen za investicije, saj ga podpirajo strateške odločitve velikih gospodarstev, kot je Kitajska, in globalni trendi k dekarbonizaciji.",
-      "vpliv": [
-        "Spodbujanje rasti sektorja obnovljivih virov energije",
-        "Potencialno dolgoročno zmanjšanje povpraševanja po nafti",
-        "Povečane investicije v zelene tehnologije",
-        "Vpliv na cene energentov",
-        "Rast delnic podjetij v sektorju zelene energije"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/221aac60-807e-4bdd-b76d-dd451255e685?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-26T04:00:07.000Z"
-    },
-    {
-      "naslov": "Britanski premier Burnham načrtuje reindustrializacijo s čipi in droni",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Novi britanski premier Burnham namerava reindustrializirati državo s poudarkom na tehnologijah, kot so polprevodniki (čipi) in droni. Minister za umetno inteligenco, Kanishka Narayan, je za Financial Times povedal, da premier vidi tehnologijo kot ključno za ponovno oživitev britanskega gospodarstva. Ta strategija je del širšega načrta za povečanje domače proizvodnje in zmanjšanje odvisnosti od tujih dobavnih verig. Cilj je postaviti Veliko Britanijo v ospredje globalne tehnološke inovacije in proizvodnje.",
-      "analiza": "Ozadje te politike je želja Združenega kraljestva po krepitvi svoje ekonomske neodvisnosti in konkurenčnosti po Brexitu ter v luči globalnih napetosti, ki poudarjajo pomen domače proizvodnje ključnih komponent. Poudarek na čipih in dronih ni naključen, saj gre za strateško pomembni industriji z velikim potencialom rasti in vplivom na obrambo ter civilne sektorje. Mehanizem vpliva na finančne trge je, da takšne vladne iniciative lahko privabijo investicije v specifične sektorje, kar spodbuja rast delnic podjetij, ki delujejo na področju polprevodnikov, robotike in umetne inteligence v Združenem kraljestvu. Hkrati lahko dolgoročno prispevajo k močnejšemu BDP in stabilnejši valuti (GBP). Povečana domača proizvodnja lahko zmanjša ranljivost države za globalne motnje v dobavnih verigah. Za slovenskega dolgoročnega vlagatelja je pomembno, da spremlja vladne politike, ki spodbujajo rast določenih sektorjev, saj lahko te ustvarijo priložnosti za investicije v inovativna podjetja in diverzifikacijo portfelja.",
-      "vpliv": [
-        "Spodbujanje investicij v britanski tehnološki sektor",
-        "Potencialna rast delnic podjetij s področja čipov in dronov",
-        "Krepitev britanskega gospodarstva",
-        "Zmanjšanje odvisnosti od tujih dobavnih verig",
-        "Vpliv na vrednost britanskega funta"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/5b789a38-c9ca-4b23-8e61-8f9e2e589396?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-26T04:00:15.000Z"
-    },
-    {
-      "naslov": "Zakaj delavci pogrešajo življenje pred umetno inteligenco in njene izzive",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Mnogi strokovnjaki v pisarniških poklicih izražajo nostalgijo po časih pred široko uporabo umetne inteligence, saj jih skrbi, da ta tehnologija zavira ustvarjalnost in pogosto povzroča napake. Članek v Financial Timesu poudarja, da se delavci soočajo z izzivi, kot so avtomatizacija rutinskih nalog, kar lahko zmanjša občutek smisla in inovativnosti pri delu. Poleg tega se pojavljajo pomisleki glede zanesljivosti in etičnosti AI sistemov, ki lahko vplivajo na kakovost dela in odločanja.",
-      "analiza": "Ozadje te novice je hitra integracija umetne inteligence v delovne procese po vsem svetu, kar prinaša tako obljube o povečani učinkovitosti kot tudi pomisleke o njenem vplivu na človeški kapital. Čeprav AI lahko avtomatizira ponavljajoče se naloge in optimizira procese, se pojavljajo vprašanja o njenem vplivu na ustvarjalnost, kritično mišljenje in splošno zadovoljstvo zaposlenih. Mehanizem vpliva na finančne trge je kompleksen: na eni strani lahko AI poveča produktivnost in dobičkonosnost podjetij, kar je pozitivno za delnice tehnoloških in avtomatiziranih podjetij. Na drugi strani pa lahko nezadovoljstvo delavcev, morebitne napake AI in potreba po prekvalifikaciji povzročijo stroške in socialne napetosti, kar lahko vpliva na stabilnost delovne sile in dolgoročno rast. Povečana odvisnost od AI lahko prinese tudi kibernetska tveganja. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da je vpliv AI na gospodarstvo dvorezen meč; ključno je opazovati, kako se podjetja prilagajajo tem izzivom in ali uspejo izkoristiti prednosti AI, hkrati pa obvladati njene slabosti.",
-      "vpliv": [
-        "Vpliv na produktivnost in ustvarjalnost delavcev",
-        "Potencialni stroški prekvalifikacije delovne sile",
-        "Povečana odvisnost od AI tehnologij",
-        "Vpliv na delnice tehnoloških podjetij",
-        "Etični in zanesljivostni izzivi AI"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/2ddef625-df80-4690-9475-f3ce86171593?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-26T04:00:08.000Z"
-    },
-    {
-      "naslov": "Obrambni velikani rekordno podpirajo vojaške start-upe ob preobrazbi bojišča",
+      "naslov": "Rast dobičkov S&P 500 poganja eno podjetje pred sezono objav",
       "sektor": "Finance",
-      "smer": "pozitivno",
+      "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Tradicionalna obrambna podjetja se vse bolj obnašajo kot tvegani kapitalisti, saj rekordno financirajo vojaške start-upe. To se dogaja v času, ko droni in avtonomni sistemi korenito spreminjajo bojišče in zahtevajo hitre inovacije. Cilj je integracija naprednih tehnologij, kot so umetna inteligenca, robotika in kibernetska varnost, v obrambne sisteme. Ta trend kaže na preusmeritev v obrambni industriji, kjer se poudarek premika od velikih, dolgotrajnih projektov k hitrejšemu razvoju in implementaciji novih rešitev.",
-      "analiza": "Ozadje te novice je globalna geopolitična nestabilnost in hitra tehnološka preobrazba vojskovanja, ki zahteva nenehne inovacije. Obrambni velikani se zavedajo, da morajo ostati konkurenčni in prilagodljivi, zato se obračajo k agilnosti start-upov. Mehanizem vpliva na finančne trge je, da ta trend ustvarja nove investicijske priložnosti v obrambnem in tehnološkem sektorju. Povečano financiranje start-upov lahko spodbudi rast manjših, inovativnih podjetij, ki razvijajo ključne tehnologije. To lahko pozitivno vpliva na delnice obrambnih podjetij, ki uspešno integrirajo te inovacije, in na delnice start-upov, ki prejmejo to podporo. Hkrati se povečuje tudi privlačnost sektorja za tvegani kapital. Za slovenskega dolgoročnega vlagatelja to pomeni, da je obrambni sektor, še posebej tisti del, ki se osredotoča na tehnološke inovacije, lahko zanimiv za diverzifikacijo portfelja, saj je podprt z dolgoročnimi trendi varnostnih potreb in tehnološkega napredka.",
+      "povzetek": "Rast dobičkov indeksa S&P 500 je 'ponorela' predvsem zaradi enega samega podjetja. To poudarja koncentracijo dobičkov v določenih sektorjih ali pri posameznih velikanih. Trgi se pripravljajo na najbolj obremenjen teden sezone objav poslovnih rezultatov za drugo četrtletje. Takšna koncentracija lahko pomeni, da je splošna slika gospodarstva manj rožnata, kot kažejo skupni dobički indeksa. Vlagatelji bodo pozorno spremljali širino rasti dobičkov.",
+      "analiza": "V zadnjih letih smo priča naraščajoči koncentraciji tržne kapitalizacije in dobičkov v rokah peščice velikih tehnoloških podjetij, kar pogosto vpliva na celoten indeks S&P 500. Čeprav je S&P 500 danes zrasel za 0.05 % na 7412 točk, novica opozarja, da je ta rast morda ozka in jo poganja zgolj eno podjetje. To lahko ustvarja vtis močnega trga, medtem ko širši spekter podjetij morda ne dosega enake rasti. Mehanizem vpliva je v tem, da vlagatelji, ki iščejo diverzifikacijo, lahko postanejo previdni, saj je indeks bolj izpostavljen tveganjem posameznega podjetja. Če to eno podjetje doživi upočasnitev ali ne izpolni pričakovanj, lahko to močno vpliva na celoten indeks. Posledice za delnice so lahko mešane: medtem ko imajo velika podjetja močan vpliv na indeks, lahko manjša podjetja in drugi sektorji zaostajajo. Za obveznice in valute je vpliv posreden, saj šibkejša širina trga lahko signalizira splošno gospodarsko negotovost. Zgodovinsko gledano so obdobja visoke koncentracije dobičkov včasih predhodila večjim tržnim korekcijam. V prihodnje bo ključno spremljati objave dobičkov drugih podjetij, da se oceni širina gospodarske rasti. Za slovenskega dolgoročnega vlagatelja je pomembno, da razume, da indeks S&P 500 morda ne odraža vedno celotnega stanja ameriškega gospodarstva in da je diverzifikacija portfelja še vedno ključna.",
       "vpliv": [
-        "Povečane investicije v vojaške start-upe",
-        "Spodbujanje inovacij v obrambnem sektorju",
-        "Rast delnic obrambnih in tehnoloških podjetij",
-        "Preusmeritev v obrambni industriji k agilnosti",
-        "Povečana privlačnost za tvegani kapital"
+        "S&P 500 rast za 0.05 %",
+        "Koncentracija dobičkov v enem podjetju",
+        "Povečana tveganja za indeks v primeru slabih rezultatov ključnega podjetja"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-26T04:00:15.000Z"
-    },
-    {
-      "naslov": "Tajfun Noul dosegel Kitajsko, evakuiranih na stotine tisoč ljudi",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Tajfun Noul je dosegel južno kitajsko provinco Guangdong in sosednji Hongkong, prinašajoč močan veter in obilne padavine. Zaradi tajfuna je bilo evakuiranih na stotine tisoč ljudi, kar kaže na resnost vremenskega pojava. Pričakuje se, da bo Noul povzročil obsežno materialno škodo in motnje v prometu ter gospodarstvu regije. Kitajske oblasti so sprejele nujne ukrepe za zaščito prebivalstva in infrastrukture.",
-      "analiza": "Ozadje te novice so ekstremni vremenski pojavi, ki postajajo vse pogostejši in intenzivnejši po vsem svetu, kar ima pomembne ekonomske posledice. Provinca Guangdong je ključno industrijsko in proizvodno središče Kitajske, zato imajo naravne katastrofe v tej regiji lahko širok vpliv na globalne dobavne verige. Mehanizem vpliva na finančne trge je neposreden: uničenje infrastrukture in prekinitev proizvodnje lahko povzročita padec dobičkov podjetij, ki delujejo v regiji, kar se odraža v padcu njihovih delnic. Povečajo se lahko tudi stroški zavarovalnic zaradi izplačil odškodnin. Motnje v dobavnih verigah lahko vplivajo na globalno inflacijo in razpoložljivost izdelkov. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati tveganja, povezana s podnebnimi spremembami in ekstremnimi vremenskimi pojavi, pri investiranju v podjetja, ki imajo proizvodne obrate ali pomembne dobavne verige v ranljivih regijah.",
-      "vpliv": [
-        "Motnje v globalnih dobavnih verigah",
-        "Potencialna materialna škoda in stroški zavarovalnic",
-        "Vpliv na dobičkonosnost podjetij v regiji",
-        "Povečana inflacija zaradi motenj v dobavi",
-        "Vpliv na delnice podjetij z izpostavljenostjo Kitajski"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated?traffic_source=rss",
-      "objavljeno": "2026-07-26T05:29:14.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-s-p-500s-earnings-growth-has-gone-bonkers-thanks-to-one-company-1c45b2ba?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-26T14:00:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-26T10:16:01.548Z",
+    "posodobljenoOb": "2026-07-26T16:30:35.105Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -187,8 +128,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 64447.09,
-        "sprememba_pct": 0.21,
+        "vrednost": 64748.94,
+        "sprememba_pct": 0.68,
         "enota": "USD"
       }
     ],
