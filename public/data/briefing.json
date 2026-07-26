@@ -1,100 +1,122 @@
 {
-  "generiranoOb": "2026-07-25T16:42:30.782Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-07-26T10:16:53.670Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-07-25",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanimi občutki, medtem ko ameriški trgi kažejo začetno smer po dveh urah trgovanja. Nemški indeks DAX je dan zaključil z rastjo za 1,36 % in dosegel 25099 točk, kar kaže na optimizem v evroobmočju. Nasprotno, ameriški tehnološki indeks Nasdaq 100 je zabeležil padec za 1,15 % na 28128 točk, medtem ko je širši indeks S&P 500 ostal skoraj nespremenjen z minimalno rastjo 0,05 % pri 7412 točkah. Na trgu surovin je prišlo do občutnega padca cen nafte, saj je WTI nafta upadla za 3,12 % na 89,31 USD za sod, Brent nafta pa za 3,88 % na 96,78 USD za sod, medtem ko je zlato pridobilo 0,51 % in se giblje pri 4070,80 USD za unčo. Donosnost 10-letne ameriške državne obveznice se je znižala za 0,51 % na 4,68 %, kar nakazuje na povečano povpraševanje po varnih naložbah ali pričakovanja nižjih obrestnih mer. Med ključnimi novicami dneva izstopajo razprave o prihodnosti umetne inteligence onkraj Nvidie, opozorila o umirjenosti trga obveznic in geopolitične napetosti v Hormuški ožini, ki vplivajo na cene nafte. Na radarju vlagateljev ostaja prihajajoča objava inflacijskih podatkov za evroobmočje, ki bo vplivala na pričakovanja glede ukrepov Evropske centralne banke.",
+  "datum": "2026-07-26",
+  "povzetek": "Jutranji pregled trga 26. julija 2026 kaže mešano sliko po nočnem trgovanju. Ameriški indeksi so se gibali različno, saj je S&P 500 zabeležil minimalno rast za +0.05 % na 7412 točk, medtem ko je tehnološko usmerjen Nasdaq 100 padel za -1.15 % na 28128 točk. Azijski trgi so bili pod pritiskom, Nikkei 225 je upadel za -2.73 % na 64611 točk, medtem ko je evropski DAX že v zgodnjem trgovanju pridobil +1.36 % in dosegel 25099 točk. Surova nafta WTI in Brent sta doživeli precejšen padec, in sicer za -3.12 % na 89.31 USD/sod oziroma -3.88 % na 96.78 USD/sod, kljub eskalaciji konflikta med ZDA in Iranom ter napadom Hutijev na savdske naftne objekte. Zlato je medtem zraslo za +0.51 % na 4070.80 USD/oz, kar kaže na iskanje varnih zatočišč. Evropa danes pričakuje nadaljnjo volatilnost, saj se v ospredje postavljajo geopolitične napetosti na Bližnjem vzhodu in vpliv ekstremnih vremenskih pojavov, kot je tajfun Noul na Kitajskem. Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v evroobmočju, ki bo ključna za smerovanje monetarne politike Evropske centralne banke.",
   "novice": [
     {
-      "naslov": "Pet delnic S&P 500 tiho vstopa v umetno inteligenco onkraj Nvidie",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Članek MarketWatch z dne 25. julija 2026 ob 16:29:00Z poudarja, da se vlagatelji, ki iščejo priložnosti v umetni inteligenci, obračajo stran od 'Mag Seven' delnic, kot je Nvidia. Namesto tega se osredotočajo na pet drugih delnic iz indeksa S&P 500, ki tiho, a intenzivno vlagajo v razvoj in implementacijo AI tehnologij. Te delnice naj bi predstavljale naslednji val rasti v sektorju umetne inteligence. To kaže na širjenje investicijskega fokusa znotraj tehnološkega sektorja, saj se potencial rasti ne omejuje več na peščico vodilnih. Vlagatelji iščejo podjetja, ki so ključna za implementacijo AI rešitev v različnih panogah.",
-      "analiza": "V zadnjih letih je Nvidia postala sinonim za naložbe v umetno inteligenco, kar je poganjalo njen izjemen vzpon in rast indeksov, kot je Nasdaq 100. Vendar pa trenutni trend, ki ga opisuje MarketWatch, nakazuje na dozorevanje in diverzifikacijo AI trga. Vlagatelji iščejo podjetja, ki morda niso neposredni proizvajalci čipov, a so ključna za implementacijo AI rešitev v različnih panogah. Ta premik pomeni, da se potencial rasti AI ne omejuje več na peščico velikanov, temveč se širi na širši spekter podjetij znotraj indeksa S&P 500. Za delniške trge to pomeni potencialno širšo rast in zmanjšanje koncentracijskega tveganja, ki je bilo prisotno pri prekomerni odvisnosti od nekaj 'Mag Seven' delnic. To lahko vodi do bolj uravnotežene rasti in manjše volatilnosti v celotnem tehnološkem sektorju. Za dolgoročnega slovenskega vlagatelja to poudarja pomen raziskovanja in razumevanja širšega ekosistema umetne inteligence ter diverzifikacije portfelja, namesto osredotočanja na le enega ali dva vodilna igralca, kar lahko zmanjša tveganje in poveča dolgoročni potencial.",
-      "vpliv": [
-        "Potencialna rast za širši spekter delnic S&P 500",
-        "Zmanjšanje koncentracijskega tveganja v tehnološkem sektorju",
-        "Nasdaq 100 lahko doživi premik fokusa vlagateljev",
-        "Povečano zanimanje za podjetja, ki AI implementirajo"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-25T16:29:00.000Z"
-    },
-    {
-      "naslov": "Iran krivi ZDA za spor v Hormuzu, potekajo pogovori za rešitev",
+      "naslov": "Eskalacija konflikta med ZDA in Iranom ter napadi Hutijev na savdske naftne objekte",
       "sektor": "Geopolitika",
-      "smer": "mešano",
+      "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Al Jazeera je 25. julija 2026 ob 12:49:06Z poročala, da Iran krivi ZDA za spor v Hormuški ožini, vendar obe strani potrjujeta, da potekajo pogovori. Poročajo, da v zadnjih dveh tednih ni bilo novih ameriških napadov čez noč, kar je prvič v tem obdobju. To nakazuje na morebitno umiritev napetosti, čeprav ostaja situacija občutljiva in polna tveganj. Hormuška ožina je ključna pomorska pot za globalno dobavo nafte, skozi katero poteka velik del svetovnega pomorskega prometa z energenti. Nadaljnji pogovori so ključni za stabilizacijo regije.",
-      "analiza": "Geopolitične napetosti v regiji Hormuške ožine imajo neposreden in pomemben vpliv na globalne energetske trge. Skozi to ožino poteka velik del svetovne dobave nafte, zato vsaka grožnja stabilnosti v regiji takoj vpliva na cene nafte. Poročilo, da ni bilo novih ameriških napadov v zadnjih dveh tednih in da potekajo pogovori, je lahko interpretirano kot pozitiven znak za umiritev razmer, kar bi lahko preprečilo nadaljnje skoke cen nafte. Vendar pa iranske obtožbe na račun ZDA kažejo na globoko zakoreninjene spore, ki lahko hitro eskalirajo. Danes so cene nafte WTI in Brent že padle za 3,12 % na 89,31 USD za sod oziroma za 3,88 % na 96,78 USD za sod, kar bi lahko bilo delno odraz teh novic o pogovorih in pomanjkanju novih napadov. Morebitna eskalacija bi lahko povzročila ponoven dvig cen nafte, kar bi vplivalo na inflacijo in stroške poslovanja podjetij po vsem svetu, s tem pa tudi na delniške trge in valute. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj dogodkov v tej regiji, saj imajo lahko neposreden vpliv na cene energentov in s tem na makroekonomsko stabilnost ter dobičkonosnost podjetij.",
+      "povzetek": "Konflikt med ZDA in Iranom se je razširil, saj so jemenski Hutiji napadli savdske naftne objekte ob Rdečem morju, kar je nova fronta v širši regionalni napetosti. Hkrati se je konflikt razširil tudi na Kaspijsko jezero, kjer je Teheran obtožil Ukrajino smrtonosnega napada na iransko plovilo, pri čemer je bil ubit en mornar in ranjen drugi. Ameriška vojska je prav tako onesposobila tanker, obtožen kršenja iranske blokade, kar kaže na aktivno vpletenost. Jemenski Hutiji so potrdili, da so ciljali na naftne objekte v lasti Aramca v Savdski Arabiji. Iran je obsodil ukrajinski napad kot kriminalno dejanje in poklical ukrajinskega diplomata.",
+      "analiza": "Ozadje tega dogodka je dolgotrajna napetost med Iranom in ZDA ter njunimi zavezniki v regiji, ki se je v zadnjem času stopnjevala. Napadi Hutijev na savdske naftne objekte so pomembni, saj Savdska Arabija velja za ključnega globalnega dobavitelja nafte, vsaka motnja v njeni proizvodnji ali transportu pa lahko močno vpliva na svetovne cene energentov. Razširitev konflikta na Kaspijsko jezero z obtožbami Irana proti Ukrajini dodatno zapleta geopolitično sliko in kaže na širjenje proxy konfliktov. Mehanizem vpliva na finančne trge je neposreden: povečana geopolitična tveganja običajno vodijo do rasti cen nafte zaradi strahu pred motnjami v dobavi, medtem ko se vlagatelji umikajo v varnejša zatočišča, kot je zlato. Kljub temu sta danes WTI in Brent nafta padli za -3.12 % na 89.31 USD/sod oziroma -3.88 % na 96.78 USD/sod, kar je lahko posledica drugih dejavnikov, kot so splošni strahovi pred recesijo ali povečana ponudba, medtem ko je zlato zraslo za +0.51 % na 4070.80 USD/oz. Povečana nestabilnost lahko negativno vpliva na delnice podjetij, odvisnih od stabilnih dobavnih verig, in poveča volatilnost na trgih obveznic. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitična tveganja, saj lahko vplivajo na cene energentov in s tem na inflacijo ter dobičkonosnost podjetij, v katere vlagajo.",
       "vpliv": [
-        "Potencialna umiritev cen nafte",
-        "Zmanjšano geopolitično tveganje za dobavo nafte",
-        "Vpliv na inflacijska pričakovanja",
-        "Padec cen WTI nafte za 3,12 % na 89,31 USD/sod",
-        "Padec cen Brent nafte za 3,88 % na 96,78 USD/sod"
+        "Povečana geopolitična tveganja",
+        "Potencialna rast cen nafte",
+        "Rast cene zlata (+0.51 %)",
+        "Padec cen WTI (-3.12 %) in Brent (-3.88 %) nafte",
+        "Povečana volatilnost na trgih"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss",
-      "objavljeno": "2026-07-25T12:49:06.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
+      "objavljeno": "2026-07-26T04:40:17.000Z"
     },
     {
-      "naslov": "Opozorilo trga zakladnic: ali se bližajo 7-odstotne hipotekarne obrestne mere?",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "MarketWatch je 25. julija 2026 ob 14:08:00Z poročal, da trg zakladnic kaže opozorilne znake za kupce stanovanj, saj se 30-letna fiksna hipotekarna obrestna mera približuje najvišji ravni v letu 2026. To sproža vprašanja o morebitnem doseganju 7-odstotnih hipotekarnih obrestnih mer. Donosnost 10-letne ameriške državne obveznice, ki je ključni dejavnik za hipotekarne obrestne mere, je danes sicer padla za 0,51 % na 4,68 %, vendar dolgoročni trendi in pričakovanja ostajajo pod pritiskom. Opozorilo nakazuje na morebitno nadaljnje zaostrovanje pogojev na nepremičninskem trgu.",
-      "analiza": "Hipotekarne obrestne mere so tesno povezane z donosnostjo dolgoročnih državnih obveznic, saj so te referenčne točke za določanje stroškov zadolževanja. Dvig hipotekarnih obrestnih mer na 7 % bi imel pomembne posledice za nepremičninski trg in širše gospodarstvo. Višje obrestne mere zmanjšujejo kupno moč potencialnih kupcev, saj se povečajo mesečni obroki, kar lahko zmanjša povpraševanje po nepremičninah in upočasni rast cen. To bi lahko vplivalo na gradbeništvo, banke in potrošniško porabo, kar bi se odrazilo tudi na delniških trgih. Čeprav je donosnost 10-letne ameriške zakladnice danes padla, opozorilo MarketWatcha kaže na dolgoročnejše trende in pričakovanja, ki bi lahko vodila do višjih obrestnih mer, še posebej ob morebitnem vztrajanju inflacije. Zgodovinsko gledano so visoke obrestne mere pogosto ohladile pregrete nepremičninske trge in prispevale k gospodarskemu upočasnjevanju. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti pozoren na gibanje obrestnih mer, saj lahko vplivajo na naložbe v nepremičnine, delnice podjetij v gradbeništvu in bančnem sektorju ter na splošno gospodarsko rast, tudi posredno prek globalnih trendov.",
-      "vpliv": [
-        "Potencialni dvig hipotekarnih obrestnih mer na 7 %",
-        "Zmanjšanje kupne moči kupcev stanovanj",
-        "Upočasnitev rasti cen nepremičnin",
-        "Negativen vpliv na gradbeništvo in bančni sektor"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-25T14:08:00.000Z"
-    },
-    {
-      "naslov": "Predlagana zakonodaja bi preprečila bogatim izogibanje davkom prek pokojninskih računov",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "MarketWatch je 25. julija 2026 ob 15:30:00Z objavil novico o predlagani zakonodaji, ki bi omejila možnost super bogatim posameznikom, da se izognejo plačilu davkov na milijone dolarjev prek pokojninskih računov 401(k) in IRA. Več kot 200 posameznikov naj bi imelo skupaj več kot 85 milijard dolarjev v davčno zaščitenih pokojninskih računih. Cilj zakona je preprečiti zlorabo teh mehanizmov, ki so bili prvotno namenjeni spodbujanju varčevanja za upokojitev širšega prebivalstva. Sprejetje takšnega zakona bi lahko pomenilo pomembno spremembo v davčni politiki in upravljanju premoženja.",
-      "analiza": "Pokojninski računi, kot so 401(k) in IRA v ZDA, so bili zasnovani za spodbujanje dolgoročnega varčevanja z davčnimi ugodnostmi. Vendar pa je z leti prišlo do primerov, ko so izjemno bogati posamezniki te račune izkoriščali za kopičenje ogromnih vsot denarja, daleč presegačih običajne potrebe za upokojitev, s čimer so se izognili plačilu znatnih davkov. Predlagana zakonodaja, če bo sprejeta, bi lahko imela pomembne posledice za upravljanje premoženja in davčno načrtovanje za premožnejše posameznike. To bi lahko sprožilo premike kapitala iz teh računov v druge oblike naložb, kar bi lahko vplivalo na nekatere segmente finančnih trgov, kot so investicijski skladi, povezani s pokojninskimi računi. Hkrati bi lahko povečalo davčne prihodke države, kar bi vplivalo na javne finance. Za delniške trge bi to lahko pomenilo manjši pritok kapitala v določene investicijske sklade, ki so povezani s pokojninskimi računi, in potencialno preusmeritev v druge naložbene produkte. Za slovenskega dolgoročnega vlagatelja je to opomin, da se davčne politike lahko spreminjajo in vplivajo na strategije varčevanja in naložb, tudi posredno prek globalnih trgov in podjetij, ki upravljajo premoženje.",
-      "vpliv": [
-        "Omejitev davčnih ugodnosti za bogate",
-        "Potencialni premiki kapitala iz pokojninskih računov",
-        "Povečani davčni prihodki države",
-        "Vpliv na upravljanje premoženja"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-super-rich-use-401-k-s-and-iras-to-sidestep-taxes-on-millions-of-dollars-this-proposed-law-would-cut-them-off-04b37e9a?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-25T15:30:00.000Z"
-    },
-    {
-      "naslov": "Logistični velikani se prilagajajo zdravstvenemu razcvetu in potrebi po hladilnicah",
-      "sektor": "Potrošniki",
+      "naslov": "Kitajska povečuje financiranje zelenih energetskih projektov zaradi iranske vojne",
+      "sektor": "Energetika",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "CNBC je 25. julija 2026 ob 12:00:02Z poročal, da se logistična podjetja, kot so UPS, FedEx in DHL, pospešeno prilagajajo rastočemu trgu zdravstvenega varstva. Posebej je izpostavljena potreba po hladilnih verigah in temperaturno nadzorovanih objektih, kar je še posebej pomembno zaradi naraščajočega povpraševanja po zdravilih GLP-1. Ta zdravila, ki se uporabljajo za zdravljenje sladkorne bolezni in debelosti, zahtevajo strogo temperaturno kontrolo med transportom in skladiščenjem. To ustvarja nove poslovne priložnosti in spodbuja investicije v specializirano logistično infrastrukturo.",
-      "analiza": "Zdravstveni sektor doživlja pomemben razcvet, deloma zaradi napredka v farmaciji, kot so zdravila GLP-1. Ta trend ustvarja nove in specifične zahteve za logistično industrijo, predvsem na področju hladilnih verig. Logistični velikani, kot so UPS, FedEx in DHL, se odzivajo na to povpraševanje z investicijami v specializirano infrastrukturo in storitve. To pomeni rast za podjetja v logističnem sektorju, ki so sposobna zagotoviti te visoko specializirane storitve. Hkrati pa to nakazuje na širši vpliv zdravstvenih inovacij na gospodarstvo, saj se ustvarjajo nove poslovne priložnosti in delovna mesta v povezanih panogah. Za delniške trge to pomeni potencialno rast za delnice logističnih podjetij, ki se osredotočajo na zdravstveni sektor, in za podjetja, ki razvijajo in proizvajajo zdravila, kot so GLP-1. Ta trend poudarja tudi pomen inovacij in prilagodljivosti podjetij na spreminjajoče se tržne potrebe. Za slovenskega dolgoročnega vlagatelja je to primer, kako specifični industrijski trendi, kot je razvoj novih zdravil, lahko ustvarijo naložbene priložnosti v povezanih sektorjih, kot je logistika, in poudarja pomen spremljanja demografskih in zdravstvenih trendov za prepoznavanje prihodnjih priložnosti.",
+      "povzetek": "Kitajska močno povečuje financiranje projektov zelene energije, kar je neposreden odziv na vpliv iranske vojne na povpraševanje po nafti in cene. V okviru pobude Pas in pot (Belt and Road Initiative) Peking izkorišča naraščajoče zanimanje za obnovljive vire energije, saj se konflikt na Bližnjem vzhodu nadaljuje. Ta strategija omogoča Kitajski, da zmanjša svojo odvisnost od fosilnih goriv in hkrati krepi svoj vpliv na globalnem trgu zelene tehnologije. Povečane investicije so usmerjene v sončno, vetrno in hidroenergijo, tako doma kot v partnerskih državah.",
+      "analiza": "Ozadje te novice je globalna energetska tranzicija, ki jo pospešujejo geopolitične napetosti, kot je iranska vojna, in potreba po zmanjšanju odvisnosti od nestabilnih dobaviteljev nafte. Kitajska, kot največji porabnik energije in velik uvoznik nafte, je še posebej ranljiva za motnje v dobavi in cenovne šoke. Zato je njena strategija preusmeritve v zeleno energijo dolgoročna in strateška. Mehanizem vpliva na finančne trge je večplasten: povečano financiranje s strani Kitajske bo verjetno spodbudilo rast v sektorju obnovljivih virov energije, kar bo pozitivno vplivalo na delnice podjetij, ki delujejo na tem področju. Hkrati lahko zmanjšanje povpraševanja po nafti s strani Kitajske dolgoročno vpliva na stabilizacijo ali celo padec cen nafte, čeprav so kratkoročno geopolitični dejavniki močnejši. Ta trend lahko vpliva tudi na trge obveznic, saj se bodo izdajale \"zelene\" obveznice za financiranje teh projektov. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor zelene energije privlačen za investicije, saj ga podpirajo strateške odločitve velikih gospodarstev, kot je Kitajska, in globalni trendi k dekarbonizaciji.",
       "vpliv": [
-        "Rast logističnih podjetij s specializacijo v zdravstvu",
-        "Povečano povpraševanje po hladilnih verigah",
-        "Investicije v specializirano logistično infrastrukturo",
-        "Potencialna rast delnic farmacevtskih in logističnih podjetij"
+        "Spodbujanje rasti sektorja obnovljivih virov energije",
+        "Potencialno dolgoročno zmanjšanje povpraševanja po nafti",
+        "Povečane investicije v zelene tehnologije",
+        "Vpliv na cene energentov",
+        "Rast delnic podjetij v sektorju zelene energije"
       ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
-      "objavljeno": "2026-07-25T12:00:02.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/221aac60-807e-4bdd-b76d-dd451255e685?syn-25a6b1a6=1",
+      "objavljeno": "2026-07-26T04:00:07.000Z"
+    },
+    {
+      "naslov": "Britanski premier Burnham načrtuje reindustrializacijo s čipi in droni",
+      "sektor": "Makro & Centralne banke",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Novi britanski premier Burnham namerava reindustrializirati državo s poudarkom na tehnologijah, kot so polprevodniki (čipi) in droni. Minister za umetno inteligenco, Kanishka Narayan, je za Financial Times povedal, da premier vidi tehnologijo kot ključno za ponovno oživitev britanskega gospodarstva. Ta strategija je del širšega načrta za povečanje domače proizvodnje in zmanjšanje odvisnosti od tujih dobavnih verig. Cilj je postaviti Veliko Britanijo v ospredje globalne tehnološke inovacije in proizvodnje.",
+      "analiza": "Ozadje te politike je želja Združenega kraljestva po krepitvi svoje ekonomske neodvisnosti in konkurenčnosti po Brexitu ter v luči globalnih napetosti, ki poudarjajo pomen domače proizvodnje ključnih komponent. Poudarek na čipih in dronih ni naključen, saj gre za strateško pomembni industriji z velikim potencialom rasti in vplivom na obrambo ter civilne sektorje. Mehanizem vpliva na finančne trge je, da takšne vladne iniciative lahko privabijo investicije v specifične sektorje, kar spodbuja rast delnic podjetij, ki delujejo na področju polprevodnikov, robotike in umetne inteligence v Združenem kraljestvu. Hkrati lahko dolgoročno prispevajo k močnejšemu BDP in stabilnejši valuti (GBP). Povečana domača proizvodnja lahko zmanjša ranljivost države za globalne motnje v dobavnih verigah. Za slovenskega dolgoročnega vlagatelja je pomembno, da spremlja vladne politike, ki spodbujajo rast določenih sektorjev, saj lahko te ustvarijo priložnosti za investicije v inovativna podjetja in diverzifikacijo portfelja.",
+      "vpliv": [
+        "Spodbujanje investicij v britanski tehnološki sektor",
+        "Potencialna rast delnic podjetij s področja čipov in dronov",
+        "Krepitev britanskega gospodarstva",
+        "Zmanjšanje odvisnosti od tujih dobavnih verig",
+        "Vpliv na vrednost britanskega funta"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/5b789a38-c9ca-4b23-8e61-8f9e2e589396?syn-25a6b1a6=1",
+      "objavljeno": "2026-07-26T04:00:15.000Z"
+    },
+    {
+      "naslov": "Zakaj delavci pogrešajo življenje pred umetno inteligenco in njene izzive",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Mnogi strokovnjaki v pisarniških poklicih izražajo nostalgijo po časih pred široko uporabo umetne inteligence, saj jih skrbi, da ta tehnologija zavira ustvarjalnost in pogosto povzroča napake. Članek v Financial Timesu poudarja, da se delavci soočajo z izzivi, kot so avtomatizacija rutinskih nalog, kar lahko zmanjša občutek smisla in inovativnosti pri delu. Poleg tega se pojavljajo pomisleki glede zanesljivosti in etičnosti AI sistemov, ki lahko vplivajo na kakovost dela in odločanja.",
+      "analiza": "Ozadje te novice je hitra integracija umetne inteligence v delovne procese po vsem svetu, kar prinaša tako obljube o povečani učinkovitosti kot tudi pomisleke o njenem vplivu na človeški kapital. Čeprav AI lahko avtomatizira ponavljajoče se naloge in optimizira procese, se pojavljajo vprašanja o njenem vplivu na ustvarjalnost, kritično mišljenje in splošno zadovoljstvo zaposlenih. Mehanizem vpliva na finančne trge je kompleksen: na eni strani lahko AI poveča produktivnost in dobičkonosnost podjetij, kar je pozitivno za delnice tehnoloških in avtomatiziranih podjetij. Na drugi strani pa lahko nezadovoljstvo delavcev, morebitne napake AI in potreba po prekvalifikaciji povzročijo stroške in socialne napetosti, kar lahko vpliva na stabilnost delovne sile in dolgoročno rast. Povečana odvisnost od AI lahko prinese tudi kibernetska tveganja. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da je vpliv AI na gospodarstvo dvorezen meč; ključno je opazovati, kako se podjetja prilagajajo tem izzivom in ali uspejo izkoristiti prednosti AI, hkrati pa obvladati njene slabosti.",
+      "vpliv": [
+        "Vpliv na produktivnost in ustvarjalnost delavcev",
+        "Potencialni stroški prekvalifikacije delovne sile",
+        "Povečana odvisnost od AI tehnologij",
+        "Vpliv na delnice tehnoloških podjetij",
+        "Etični in zanesljivostni izzivi AI"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/2ddef625-df80-4690-9475-f3ce86171593?syn-25a6b1a6=1",
+      "objavljeno": "2026-07-26T04:00:08.000Z"
+    },
+    {
+      "naslov": "Obrambni velikani rekordno podpirajo vojaške start-upe ob preobrazbi bojišča",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Tradicionalna obrambna podjetja se vse bolj obnašajo kot tvegani kapitalisti, saj rekordno financirajo vojaške start-upe. To se dogaja v času, ko droni in avtonomni sistemi korenito spreminjajo bojišče in zahtevajo hitre inovacije. Cilj je integracija naprednih tehnologij, kot so umetna inteligenca, robotika in kibernetska varnost, v obrambne sisteme. Ta trend kaže na preusmeritev v obrambni industriji, kjer se poudarek premika od velikih, dolgotrajnih projektov k hitrejšemu razvoju in implementaciji novih rešitev.",
+      "analiza": "Ozadje te novice je globalna geopolitična nestabilnost in hitra tehnološka preobrazba vojskovanja, ki zahteva nenehne inovacije. Obrambni velikani se zavedajo, da morajo ostati konkurenčni in prilagodljivi, zato se obračajo k agilnosti start-upov. Mehanizem vpliva na finančne trge je, da ta trend ustvarja nove investicijske priložnosti v obrambnem in tehnološkem sektorju. Povečano financiranje start-upov lahko spodbudi rast manjših, inovativnih podjetij, ki razvijajo ključne tehnologije. To lahko pozitivno vpliva na delnice obrambnih podjetij, ki uspešno integrirajo te inovacije, in na delnice start-upov, ki prejmejo to podporo. Hkrati se povečuje tudi privlačnost sektorja za tvegani kapital. Za slovenskega dolgoročnega vlagatelja to pomeni, da je obrambni sektor, še posebej tisti del, ki se osredotoča na tehnološke inovacije, lahko zanimiv za diverzifikacijo portfelja, saj je podprt z dolgoročnimi trendi varnostnih potreb in tehnološkega napredka.",
+      "vpliv": [
+        "Povečane investicije v vojaške start-upe",
+        "Spodbujanje inovacij v obrambnem sektorju",
+        "Rast delnic obrambnih in tehnoloških podjetij",
+        "Preusmeritev v obrambni industriji k agilnosti",
+        "Povečana privlačnost za tvegani kapital"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3?syn-25a6b1a6=1",
+      "objavljeno": "2026-07-26T04:00:15.000Z"
+    },
+    {
+      "naslov": "Tajfun Noul dosegel Kitajsko, evakuiranih na stotine tisoč ljudi",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Tajfun Noul je dosegel južno kitajsko provinco Guangdong in sosednji Hongkong, prinašajoč močan veter in obilne padavine. Zaradi tajfuna je bilo evakuiranih na stotine tisoč ljudi, kar kaže na resnost vremenskega pojava. Pričakuje se, da bo Noul povzročil obsežno materialno škodo in motnje v prometu ter gospodarstvu regije. Kitajske oblasti so sprejele nujne ukrepe za zaščito prebivalstva in infrastrukture.",
+      "analiza": "Ozadje te novice so ekstremni vremenski pojavi, ki postajajo vse pogostejši in intenzivnejši po vsem svetu, kar ima pomembne ekonomske posledice. Provinca Guangdong je ključno industrijsko in proizvodno središče Kitajske, zato imajo naravne katastrofe v tej regiji lahko širok vpliv na globalne dobavne verige. Mehanizem vpliva na finančne trge je neposreden: uničenje infrastrukture in prekinitev proizvodnje lahko povzročita padec dobičkov podjetij, ki delujejo v regiji, kar se odraža v padcu njihovih delnic. Povečajo se lahko tudi stroški zavarovalnic zaradi izplačil odškodnin. Motnje v dobavnih verigah lahko vplivajo na globalno inflacijo in razpoložljivost izdelkov. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati tveganja, povezana s podnebnimi spremembami in ekstremnimi vremenskimi pojavi, pri investiranju v podjetja, ki imajo proizvodne obrate ali pomembne dobavne verige v ranljivih regijah.",
+      "vpliv": [
+        "Motnje v globalnih dobavnih verigah",
+        "Potencialna materialna škoda in stroški zavarovalnic",
+        "Vpliv na dobičkonosnost podjetij v regiji",
+        "Povečana inflacija zaradi motenj v dobavi",
+        "Vpliv na delnice podjetij z izpostavljenostjo Kitajski"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated?traffic_source=rss",
+      "objavljeno": "2026-07-26T05:29:14.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-25T16:40:45.856Z",
+    "posodobljenoOb": "2026-07-26T10:16:01.548Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -165,8 +187,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 64132.95,
-        "sprememba_pct": 0.06,
+        "vrednost": 64447.09,
+        "sprememba_pct": 0.21,
         "enota": "USD"
       }
     ],

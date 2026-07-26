@@ -1,128 +1,112 @@
 {
-  "generiranoOb": "2026-07-24T17:18:39.171Z",
+  "generiranoOb": "2026-07-25T16:42:30.782Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-07-24",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanimi občutki, medtem ko so se ameriški trgi odprli z rahlo negotovostjo. Nemški indeks DAX je dan zaključil z rastjo za 1,36 % pri 25099 točkah, kar kaže na optimizem v Evropi. Na drugi strani Atlantika pa je indeks S&P 500 po dveh urah trgovanja beležil skromno rast za 0,35 % pri 7434 točkah, medtem ko je tehnološki Nasdaq 100 padel za 0,53 % na 28304 točk. Surovine so bile pod pritiskom, saj sta ceni nafte WTI in Brent padli za 4,23 % na 88,29 USD/sod oziroma za 4,71 % na 95,95 USD/sod, kar je morda odraz zaskrbljenosti glede povpraševanja ali geopolitičnih dogodkov v Rdečem morju. Zlato je medtem zraslo za 0,44 % na 4068,10 USD/oz, kar kaže na iskanje varnejših naložb. Donosnost 10-letne ameriške državne obveznice je padla za 0,77 % na 4,67 %, kar bi lahko nakazovalo na pričakovanja nižjih obrestnih mer ali povečano povpraševanje po obveznicah. Vlagatelji bodo v prihodnjih dneh pozorno spremljali petkovo objavo indeksa cen življenjskih potrebščin (CPI) v ZDA, ki bo ključna za oceno prihodnjih potez centralnih bank.",
+  "datum": "2026-07-25",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanimi občutki, medtem ko ameriški trgi kažejo začetno smer po dveh urah trgovanja. Nemški indeks DAX je dan zaključil z rastjo za 1,36 % in dosegel 25099 točk, kar kaže na optimizem v evroobmočju. Nasprotno, ameriški tehnološki indeks Nasdaq 100 je zabeležil padec za 1,15 % na 28128 točk, medtem ko je širši indeks S&P 500 ostal skoraj nespremenjen z minimalno rastjo 0,05 % pri 7412 točkah. Na trgu surovin je prišlo do občutnega padca cen nafte, saj je WTI nafta upadla za 3,12 % na 89,31 USD za sod, Brent nafta pa za 3,88 % na 96,78 USD za sod, medtem ko je zlato pridobilo 0,51 % in se giblje pri 4070,80 USD za unčo. Donosnost 10-letne ameriške državne obveznice se je znižala za 0,51 % na 4,68 %, kar nakazuje na povečano povpraševanje po varnih naložbah ali pričakovanja nižjih obrestnih mer. Med ključnimi novicami dneva izstopajo razprave o prihodnosti umetne inteligence onkraj Nvidie, opozorila o umirjenosti trga obveznic in geopolitične napetosti v Hormuški ožini, ki vplivajo na cene nafte. Na radarju vlagateljev ostaja prihajajoča objava inflacijskih podatkov za evroobmočje, ki bo vplivala na pričakovanja glede ukrepov Evropske centralne banke.",
   "novice": [
     {
-      "naslov": "Zavarovalnice omejujejo kritje za savdske tovore v Rdečem morju zaradi napadov",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Ladijske zavarovalnice so začele omejevati vojno kritje za tovore, namenjene v Savdsko Arabijo ali iz nje, ki prečkajo Rdeče morje. Ta odločitev prihaja kot odgovor na naraščajoče grožnje in napade jemenskih upornikov Hutijev, ki jih podpira Iran. Omejitve kritja se nanašajo na ladje, ki plujejo v savdska pristanišča ali iz njih. Poteza zavarovalnic grozi z nadaljnjimi motnjami v globalnih dobavah nafte. Povečuje se tveganje za pomorski promet v eni ključnih svetovnih pomorskih poti.",
-      "analiza": "Ozadje te odločitve so ponavljajoči se napadi jemenskih Hutijev na ladijski promet v Rdečem morju, ki so se okrepili v zadnjih mesecih. Ti napadi so del širšega regionalnega konflikta in predstavljajo resno grožnjo za mednarodno trgovino, še posebej za prevoz nafte. Omejevanje vojnega kritja je pomembno, saj neposredno zvišuje stroške prevoza in tveganje za ladjarje, kar lahko povzroči preusmeritev poti ali višje cene. Za finančne trge to pomeni potencialno rast cen nafte, saj se povečujejo stroški in negotovost dobavnih verig; danes sta sicer ceni nafte WTI in Brent padli za 4,23 % na 88,29 USD/sod oziroma za 4,71 % na 95,95 USD/sod, kar kaže na kompleksnost tržnih dejavnikov, a dolgoročno tveganje ostaja. Povečana premija za zavarovanje tovorov v regiji vpliva na marže podjetij, ki so odvisna od pomorskega prometa. Posledično lahko to vpliva na inflacijo in potrošniško moč. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti pozoren na podjetja, ki so močno izpostavljena globalnim dobavnim verigam in cenam energentov, saj lahko ta tveganja vplivajo na njihovo dobičkonosnost.",
-      "vpliv": [
-        "Višji stroški pomorskega prevoza",
-        "Potencialna rast cen nafte",
-        "Povečana inflacijska tveganja",
-        "Negativni vpliv na marže podjetij"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/52aa89e9-f014-498e-8415-2c435a1c858d?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-24T16:38:36.000Z"
-    },
-    {
-      "naslov": "Romunsko lovsko letalo sestrelilo domnevni ruski dron, zaskrbljenost NATO",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Romunsko lovsko letalo je sestrelilo domnevni ruski dron, ki naj bi kršil romunski zračni prostor. Incident se je zgodil v bližini meje z Ukrajino, kar je sprožilo dodatno zaskrbljenost v regiji. Romunija je članica Nata, zato dogodek povečuje tveganje, da bi se vojna v Ukrajini razširila na sosednje države članice zavezništva. Moskva se na incident še ni odzvala, vendar ta dogodek poudarja napetosti med Rusijo in Natom. Incident je bil objavljen 24. julija 2026 ob 16:53:55 UTC.",
-      "analiza": "Ta incident se dogaja v kontekstu nenehne ruske agresije v Ukrajini in ponavljajočih se opozoril, da bi se konflikt lahko razširil. Romunija kot članica Nata ima kolektivno obrambno zavezo po 5. členu, kar pomeni, da bi napad na Romunijo sprožil odziv celotnega zavezništva. Sestrelitev drona, čeprav morda nenamerna kršitev, povečuje geopolitično tveganje v Evropi. Na finančne trge takšni dogodki običajno vplivajo negativno, saj povečujejo negotovost in zmanjšujejo apetit po tveganju. To se lahko odrazi v padcu delniških indeksov, kot je danes Nikkei 225, ki je padel za 2,73 %, in iskanju varnih zatočišč, kot je zlato, ki je zraslo za 0,44 % na 4068,10 USD/oz. Valute držav, ki so blizu konfliktu, lahko oslabijo, medtem ko se lahko poveča povpraševanje po stabilnejših valutah. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj dogodkov v vzhodni Evropi, saj lahko eskalacija konflikta vpliva na stabilnost evroobmočja in s tem na gospodarsko okolje ter naložbene priložnosti v regiji.",
-      "vpliv": [
-        "Povečana geopolitična tveganja v Evropi",
-        "Potencialen padec delniških trgov",
-        "Rast cen varnih zatočišč (zlato)",
-        "Oslabelost valut v bližini konflikta"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss",
-      "objavljeno": "2026-07-24T16:53:55.000Z"
-    },
-    {
-      "naslov": "Trumpova trgovinska vojna se spreminja iz izsiljevanja v trajno utrditev",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Trumpova administracija spreminja svojo strategijo trgovinske vojne, prehajajoč od začasnih pritiskov k trajnejšim ukrepom. Cilj je zagotoviti, da ZDA 'dobijo plačilo' za storitve velesile, ki jih zagotavljajo svetu. To vključuje utrjevanje povišanih carin za 60 gospodarstev, kar je bil velik premik v četrtek zvečer. Nova faza trgovinske politike kaže na dolgoročno usmeritev k protekcionizmu. ZDA želijo s tem zagotoviti, da se ameriški interesi postavijo v ospredje globalne trgovine.",
-      "analiza": "Ozadje te spremembe je dolgotrajna trgovinska politika, ki jo je Trumpova administracija začela z uvedbo carin proti različnim državam, predvsem Kitajski in Evropski uniji. Sprva so bili ti ukrepi pogosto predstavljeni kot pogajalska taktika za dosego boljših trgovinskih sporazumov. Sedanja strategija pa nakazuje, da gre za globljo, strukturno spremembo v ameriški trgovinski politiki, ki si prizadeva za trajno prerazporeditev globalnih trgovinskih tokov v korist ZDA. To ima pomembne posledice za globalne dobavne verige, saj lahko podjetja, ki so odvisna od mednarodne trgovine, pričakujejo višje stroške in večjo negotovost. Na delniške trge lahko to vpliva negativno, še posebej na multinacionalna podjetja, ki so izpostavljena carinam. Valute držav, ki so tarča carin, lahko oslabijo, medtem ko se lahko poveča povpraševanje po ameriškem dolarju kot varnem zatočišču. Za slovenskega dolgoročnega vlagatelja je ključno razumeti, da se globalno trgovinsko okolje spreminja, kar lahko vpliva na konkurenčnost slovenskih izvozno usmerjenih podjetij in s tem na njihovo vrednost.",
-      "vpliv": [
-        "Višji stroški za mednarodna podjetja",
-        "Potencialni padec delnic multinacionalk",
-        "Oslabelost valut trgovinskih partnerjev",
-        "Povečana negotovost globalnih dobavnih verig"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/38341bcb-0c45-432a-bd04-fa0b9f2b790a",
-      "objavljeno": "2026-07-24T12:53:56.000Z"
-    },
-    {
-      "naslov": "Delnice Verizona rastejo po objavi dobička in vstopu v AI poslovanje",
+      "naslov": "Pet delnic S&P 500 tiho vstopa v umetno inteligenco onkraj Nvidie",
       "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Delnice Verizona so zrasle po objavi pozitivnih poslovnih rezultatov. Podjetje je presenetilo trge z napovedjo vstopa v novo poslovno področje, povezano z umetno inteligenco (AI). Finančni direktor Verizona je dejal, da imajo zahvaljujoč dogovoru o 'temnih vlaknih' z Googlom 'nov vir prihodkov, ki je nad našim osnovnim poslovanjem'. To kaže na diverzifikacijo poslovanja in izkoriščanje obstoječe infrastrukture za nove priložnosti. Novica je bila objavljena 24. julija 2026 ob 16:55:00 UTC.",
-      "analiza": "Vstop Verizona v AI poslovanje prek obstoječe infrastrukture 'temnih vlaken' z Googlom je pomemben korak za telekomunikacijskega velikana. V času, ko se rast v tradicionalnih telekomunikacijskih storitvah upočasnjuje, podjetja iščejo nove vire prihodkov. Umetna inteligenca predstavlja eno najhitreje rastočih področij, in izkoriščanje obstoječih sredstev, kot so optična vlakna, za podporo AI storitvam, je strateška poteza. To lahko pozitivno vpliva na delnice podjetja, kot je bilo videti danes. Širše, to poudarja pomen infrastrukture za razvoj AI in potencialne sinergije med različnimi sektorji. Za obveznice in valute neposrednega vpliva ni, posredno pa lahko uspešna diverzifikacija podjetja izboljša njegovo bonitetno oceno. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati, kako velika podjetja, tudi iz tradicionalnih sektorjev, vključujejo AI v svoje poslovanje, saj to lahko določa njihovo dolgoročno konkurenčnost in rast.",
+      "povzetek": "Članek MarketWatch z dne 25. julija 2026 ob 16:29:00Z poudarja, da se vlagatelji, ki iščejo priložnosti v umetni inteligenci, obračajo stran od 'Mag Seven' delnic, kot je Nvidia. Namesto tega se osredotočajo na pet drugih delnic iz indeksa S&P 500, ki tiho, a intenzivno vlagajo v razvoj in implementacijo AI tehnologij. Te delnice naj bi predstavljale naslednji val rasti v sektorju umetne inteligence. To kaže na širjenje investicijskega fokusa znotraj tehnološkega sektorja, saj se potencial rasti ne omejuje več na peščico vodilnih. Vlagatelji iščejo podjetja, ki so ključna za implementacijo AI rešitev v različnih panogah.",
+      "analiza": "V zadnjih letih je Nvidia postala sinonim za naložbe v umetno inteligenco, kar je poganjalo njen izjemen vzpon in rast indeksov, kot je Nasdaq 100. Vendar pa trenutni trend, ki ga opisuje MarketWatch, nakazuje na dozorevanje in diverzifikacijo AI trga. Vlagatelji iščejo podjetja, ki morda niso neposredni proizvajalci čipov, a so ključna za implementacijo AI rešitev v različnih panogah. Ta premik pomeni, da se potencial rasti AI ne omejuje več na peščico velikanov, temveč se širi na širši spekter podjetij znotraj indeksa S&P 500. Za delniške trge to pomeni potencialno širšo rast in zmanjšanje koncentracijskega tveganja, ki je bilo prisotno pri prekomerni odvisnosti od nekaj 'Mag Seven' delnic. To lahko vodi do bolj uravnotežene rasti in manjše volatilnosti v celotnem tehnološkem sektorju. Za dolgoročnega slovenskega vlagatelja to poudarja pomen raziskovanja in razumevanja širšega ekosistema umetne inteligence ter diverzifikacije portfelja, namesto osredotočanja na le enega ali dva vodilna igralca, kar lahko zmanjša tveganje in poveča dolgoročni potencial.",
       "vpliv": [
-        "Rast delnic Verizona",
-        "Diverzifikacija prihodkov podjetja",
-        "Povečan pomen infrastrukture za AI",
-        "Potencialno izboljšanje bonitetne ocene"
+        "Potencialna rast za širši spekter delnic S&P 500",
+        "Zmanjšanje koncentracijskega tveganja v tehnološkem sektorju",
+        "Nasdaq 100 lahko doživi premik fokusa vlagateljev",
+        "Povečano zanimanje za podjetja, ki AI implementirajo"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/verizons-stock-rises-as-earnings-show-the-company-is-no-longer-a-hunting-ground-f63476b6?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-24T16:55:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-25T16:29:00.000Z"
     },
     {
-      "naslov": "Opozorilo trga obveznic: Ali sledijo 7-odstotne hipotekarne obrestne mere?",
-      "sektor": "Finance",
+      "naslov": "Iran krivi ZDA za spor v Hormuzu, potekajo pogovori za rešitev",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Al Jazeera je 25. julija 2026 ob 12:49:06Z poročala, da Iran krivi ZDA za spor v Hormuški ožini, vendar obe strani potrjujeta, da potekajo pogovori. Poročajo, da v zadnjih dveh tednih ni bilo novih ameriških napadov čez noč, kar je prvič v tem obdobju. To nakazuje na morebitno umiritev napetosti, čeprav ostaja situacija občutljiva in polna tveganj. Hormuška ožina je ključna pomorska pot za globalno dobavo nafte, skozi katero poteka velik del svetovnega pomorskega prometa z energenti. Nadaljnji pogovori so ključni za stabilizacijo regije.",
+      "analiza": "Geopolitične napetosti v regiji Hormuške ožine imajo neposreden in pomemben vpliv na globalne energetske trge. Skozi to ožino poteka velik del svetovne dobave nafte, zato vsaka grožnja stabilnosti v regiji takoj vpliva na cene nafte. Poročilo, da ni bilo novih ameriških napadov v zadnjih dveh tednih in da potekajo pogovori, je lahko interpretirano kot pozitiven znak za umiritev razmer, kar bi lahko preprečilo nadaljnje skoke cen nafte. Vendar pa iranske obtožbe na račun ZDA kažejo na globoko zakoreninjene spore, ki lahko hitro eskalirajo. Danes so cene nafte WTI in Brent že padle za 3,12 % na 89,31 USD za sod oziroma za 3,88 % na 96,78 USD za sod, kar bi lahko bilo delno odraz teh novic o pogovorih in pomanjkanju novih napadov. Morebitna eskalacija bi lahko povzročila ponoven dvig cen nafte, kar bi vplivalo na inflacijo in stroške poslovanja podjetij po vsem svetu, s tem pa tudi na delniške trge in valute. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj dogodkov v tej regiji, saj imajo lahko neposreden vpliv na cene energentov in s tem na makroekonomsko stabilnost ter dobičkonosnost podjetij.",
+      "vpliv": [
+        "Potencialna umiritev cen nafte",
+        "Zmanjšano geopolitično tveganje za dobavo nafte",
+        "Vpliv na inflacijska pričakovanja",
+        "Padec cen WTI nafte za 3,12 % na 89,31 USD/sod",
+        "Padec cen Brent nafte za 3,88 % na 96,78 USD/sod"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss",
+      "objavljeno": "2026-07-25T12:49:06.000Z"
+    },
+    {
+      "naslov": "Opozorilo trga zakladnic: ali se bližajo 7-odstotne hipotekarne obrestne mere?",
+      "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Trg državnih obveznic v ZDA kaže opozorilne znake za kupce stanovanj, saj se postavlja vprašanje, ali so na poti 7-odstotne hipotekarne obrestne mere. 30-letna fiksna hipotekarna obrestna mera se je v letu 2026 povzpela na najvišjo raven. Donosnost 10-letne ameriške državne obveznice je danes padla za 0,77 % na 4,67 %, kar je sicer v nasprotju z dolgoročnim trendom rasti, vendar je splošno gibanje na trgu obveznic zaskrbljujoče. To nakazuje na morebitno nadaljnje zaostrovanje pogojev za zadolževanje.",
-      "analiza": "Ozadje te novice je splošno zviševanje obrestnih mer s strani centralnih bank v boju proti inflaciji, kar se odraža tudi na trgu državnih obveznic. Donosnost obveznic je ključni dejavnik, ki vpliva na hipotekarne obrestne mere. Ko donosnost raste, se zvišajo tudi stroški zadolževanja za posojila, vključno s hipotekami. Čeprav je donosnost 10-letne ameriške državne obveznice danes padla na 4,67 %, je splošni trend v letu 2026 rast, kar je že povzročilo, da je 30-letna fiksna hipotekarna obrestna mera dosegla najvišjo raven. Višje hipotekarne obrestne mere zmanjšujejo kupno moč prebivalstva, ohladijo nepremičninski trg in lahko vplivajo na potrošniško porabo, kar ima širše makroekonomske posledice. Za delniške trge to pomeni pritisk na podjetja v gradbeništvu in nepremičninskem sektorju. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati gibanje obrestnih mer v ZDA, saj to pogosto služi kot indikator za globalne trende, ki se lahko kasneje odrazijo tudi v evroobmočju in vplivajo na cene nepremičnin in stroške zadolževanja v Sloveniji.",
+      "povzetek": "MarketWatch je 25. julija 2026 ob 14:08:00Z poročal, da trg zakladnic kaže opozorilne znake za kupce stanovanj, saj se 30-letna fiksna hipotekarna obrestna mera približuje najvišji ravni v letu 2026. To sproža vprašanja o morebitnem doseganju 7-odstotnih hipotekarnih obrestnih mer. Donosnost 10-letne ameriške državne obveznice, ki je ključni dejavnik za hipotekarne obrestne mere, je danes sicer padla za 0,51 % na 4,68 %, vendar dolgoročni trendi in pričakovanja ostajajo pod pritiskom. Opozorilo nakazuje na morebitno nadaljnje zaostrovanje pogojev na nepremičninskem trgu.",
+      "analiza": "Hipotekarne obrestne mere so tesno povezane z donosnostjo dolgoročnih državnih obveznic, saj so te referenčne točke za določanje stroškov zadolževanja. Dvig hipotekarnih obrestnih mer na 7 % bi imel pomembne posledice za nepremičninski trg in širše gospodarstvo. Višje obrestne mere zmanjšujejo kupno moč potencialnih kupcev, saj se povečajo mesečni obroki, kar lahko zmanjša povpraševanje po nepremičninah in upočasni rast cen. To bi lahko vplivalo na gradbeništvo, banke in potrošniško porabo, kar bi se odrazilo tudi na delniških trgih. Čeprav je donosnost 10-letne ameriške zakladnice danes padla, opozorilo MarketWatcha kaže na dolgoročnejše trende in pričakovanja, ki bi lahko vodila do višjih obrestnih mer, še posebej ob morebitnem vztrajanju inflacije. Zgodovinsko gledano so visoke obrestne mere pogosto ohladile pregrete nepremičninske trge in prispevale k gospodarskemu upočasnjevanju. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti pozoren na gibanje obrestnih mer, saj lahko vplivajo na naložbe v nepremičnine, delnice podjetij v gradbeništvu in bančnem sektorju ter na splošno gospodarsko rast, tudi posredno prek globalnih trendov.",
       "vpliv": [
-        "Višje hipotekarne obrestne mere",
-        "Ohladitev nepremičninskega trga",
-        "Zmanjšana kupna moč prebivalstva",
-        "Pritisk na delnice nepremičninskih podjetij"
+        "Potencialni dvig hipotekarnih obrestnih mer na 7 %",
+        "Zmanjšanje kupne moči kupcev stanovanj",
+        "Upočasnitev rasti cen nepremičnin",
+        "Negativen vpliv na gradbeništvo in bančni sektor"
       ],
       "vir": "MarketWatch",
       "vir_url": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-24T16:20:00.000Z"
+      "objavljeno": "2026-07-25T14:08:00.000Z"
     },
     {
-      "naslov": "Meta se sooča z višjimi stroški zadolževanja za 12 milijard dolarjev podatkovnih centrov",
+      "naslov": "Predlagana zakonodaja bi preprečila bogatim izogibanje davkom prek pokojninskih računov",
       "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Podjetje Meta se sooča z višjimi stroški zadolževanja pri svojem najnovejšem financiranju v višini 12 milijard dolarjev za podatkovne centre. Posel, ki ga vodi BlackRock, se srečuje z zaskrbljenostjo vlagateljev glede naraščajoče izpostavljenosti umetni inteligenci (AI). To kaže na spremenjeno okolje financiranja za velika tehnološka podjetja, kljub njihovi močni bilanci. Novica je bila objavljena 24. julija 2026 ob 15:08:12 UTC.",
-      "analiza": "Povečani stroški zadolževanja za Meto odražajo širši trend na trgu obveznic, kjer se vlagatelji soočajo z višjimi obrestnimi merami in povečano previdnostjo, še posebej pri velikih naložbah v infrastrukturo, kot so podatkovni centri za AI. Čeprav je Meta finančno močno podjetje, zaskrbljenost vlagateljev glede 'naraščajoče izpostavljenosti AI' kaže na morebitne dvome o dolgoročni donosnosti teh ogromnih investicij ali o tveganjih, povezanih s hitrim razvojem in konkurenco v sektorju AI. Višji stroški financiranja lahko zmanjšajo dobičkonosnost prihodnjih projektov in potencialno vplivajo na rast podjetja. To lahko vpliva na delnice Mete in širšega tehnološkega sektorja, saj višji stroški kapitala zmanjšujejo privlačnost naložb. Za obveznice to pomeni, da vlagatelji zahtevajo višje donose za prevzemanje tveganja. Za slovenskega dolgoročnega vlagatelja je pomembno, da razume, da tudi velika in uveljavljena tehnološka podjetja niso imuna na spremembe v makroekonomskem okolju in da so stroški kapitala ključni dejavnik pri ocenjevanju dolgoročne vrednosti naložb.",
+      "povzetek": "MarketWatch je 25. julija 2026 ob 15:30:00Z objavil novico o predlagani zakonodaji, ki bi omejila možnost super bogatim posameznikom, da se izognejo plačilu davkov na milijone dolarjev prek pokojninskih računov 401(k) in IRA. Več kot 200 posameznikov naj bi imelo skupaj več kot 85 milijard dolarjev v davčno zaščitenih pokojninskih računih. Cilj zakona je preprečiti zlorabo teh mehanizmov, ki so bili prvotno namenjeni spodbujanju varčevanja za upokojitev širšega prebivalstva. Sprejetje takšnega zakona bi lahko pomenilo pomembno spremembo v davčni politiki in upravljanju premoženja.",
+      "analiza": "Pokojninski računi, kot so 401(k) in IRA v ZDA, so bili zasnovani za spodbujanje dolgoročnega varčevanja z davčnimi ugodnostmi. Vendar pa je z leti prišlo do primerov, ko so izjemno bogati posamezniki te račune izkoriščali za kopičenje ogromnih vsot denarja, daleč presegačih običajne potrebe za upokojitev, s čimer so se izognili plačilu znatnih davkov. Predlagana zakonodaja, če bo sprejeta, bi lahko imela pomembne posledice za upravljanje premoženja in davčno načrtovanje za premožnejše posameznike. To bi lahko sprožilo premike kapitala iz teh računov v druge oblike naložb, kar bi lahko vplivalo na nekatere segmente finančnih trgov, kot so investicijski skladi, povezani s pokojninskimi računi. Hkrati bi lahko povečalo davčne prihodke države, kar bi vplivalo na javne finance. Za delniške trge bi to lahko pomenilo manjši pritok kapitala v določene investicijske sklade, ki so povezani s pokojninskimi računi, in potencialno preusmeritev v druge naložbene produkte. Za slovenskega dolgoročnega vlagatelja je to opomin, da se davčne politike lahko spreminjajo in vplivajo na strategije varčevanja in naložb, tudi posredno prek globalnih trgov in podjetij, ki upravljajo premoženje.",
       "vpliv": [
-        "Višji stroški financiranja za Meto",
-        "Potencialen pritisk na dobičkonosnost AI projektov",
-        "Zaskrbljenost vlagateljev glede AI izpostavljenosti",
-        "Vpliv na delnice tehnološkega sektorja"
+        "Omejitev davčnih ugodnosti za bogate",
+        "Potencialni premiki kapitala iz pokojninskih računov",
+        "Povečani davčni prihodki države",
+        "Vpliv na upravljanje premoženja"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-24T15:08:12.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-super-rich-use-401-k-s-and-iras-to-sidestep-taxes-on-millions-of-dollars-this-proposed-law-would-cut-them-off-04b37e9a?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-25T15:30:00.000Z"
+    },
+    {
+      "naslov": "Logistični velikani se prilagajajo zdravstvenemu razcvetu in potrebi po hladilnicah",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "CNBC je 25. julija 2026 ob 12:00:02Z poročal, da se logistična podjetja, kot so UPS, FedEx in DHL, pospešeno prilagajajo rastočemu trgu zdravstvenega varstva. Posebej je izpostavljena potreba po hladilnih verigah in temperaturno nadzorovanih objektih, kar je še posebej pomembno zaradi naraščajočega povpraševanja po zdravilih GLP-1. Ta zdravila, ki se uporabljajo za zdravljenje sladkorne bolezni in debelosti, zahtevajo strogo temperaturno kontrolo med transportom in skladiščenjem. To ustvarja nove poslovne priložnosti in spodbuja investicije v specializirano logistično infrastrukturo.",
+      "analiza": "Zdravstveni sektor doživlja pomemben razcvet, deloma zaradi napredka v farmaciji, kot so zdravila GLP-1. Ta trend ustvarja nove in specifične zahteve za logistično industrijo, predvsem na področju hladilnih verig. Logistični velikani, kot so UPS, FedEx in DHL, se odzivajo na to povpraševanje z investicijami v specializirano infrastrukturo in storitve. To pomeni rast za podjetja v logističnem sektorju, ki so sposobna zagotoviti te visoko specializirane storitve. Hkrati pa to nakazuje na širši vpliv zdravstvenih inovacij na gospodarstvo, saj se ustvarjajo nove poslovne priložnosti in delovna mesta v povezanih panogah. Za delniške trge to pomeni potencialno rast za delnice logističnih podjetij, ki se osredotočajo na zdravstveni sektor, in za podjetja, ki razvijajo in proizvajajo zdravila, kot so GLP-1. Ta trend poudarja tudi pomen inovacij in prilagodljivosti podjetij na spreminjajoče se tržne potrebe. Za slovenskega dolgoročnega vlagatelja je to primer, kako specifični industrijski trendi, kot je razvoj novih zdravil, lahko ustvarijo naložbene priložnosti v povezanih sektorjih, kot je logistika, in poudarja pomen spremljanja demografskih in zdravstvenih trendov za prepoznavanje prihodnjih priložnosti.",
+      "vpliv": [
+        "Rast logističnih podjetij s specializacijo v zdravstvu",
+        "Povečano povpraševanje po hladilnih verigah",
+        "Investicije v specializirano logistično infrastrukturo",
+        "Potencialna rast delnic farmacevtskih in logističnih podjetij"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
+      "objavljeno": "2026-07-25T12:00:02.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-24T17:17:35.817Z",
+    "posodobljenoOb": "2026-07-25T16:40:45.856Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7434.48,
-        "sprememba_pct": 0.35
+        "vrednost": 7411.98,
+        "sprememba_pct": 0.05
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 28303.54,
-        "sprememba_pct": -0.53
+        "vrednost": 28128.342,
+        "sprememba_pct": -1.15
       },
       {
         "simbol": "^GDAXI",
@@ -141,22 +125,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4068.1,
-        "sprememba_pct": 0.44,
+        "vrednost": 4070.8,
+        "sprememba_pct": 0.51,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 88.29,
-        "sprememba_pct": -4.23,
+        "vrednost": 89.31,
+        "sprememba_pct": -3.12,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 95.95,
-        "sprememba_pct": -4.71,
+        "vrednost": 96.78,
+        "sprememba_pct": -3.88,
         "enota": "USD/sod"
       }
     ],
@@ -172,8 +156,8 @@
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.667,
-        "sprememba_pct": -0.77,
+        "vrednost": 4.679,
+        "sprememba_pct": -0.51,
         "enota": "%"
       }
     ],
@@ -181,16 +165,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63925.97,
-        "sprememba_pct": -1.72,
+        "vrednost": 64132.95,
+        "sprememba_pct": 0.06,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 17.94,
-      "sprememba_pct": -4.06
+      "vrednost": 18.58,
+      "sprememba_pct": -0.64
     }
   }
 }
