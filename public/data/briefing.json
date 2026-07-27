@@ -1,134 +1,129 @@
 {
-  "generiranoOb": "2026-07-27T07:50:17.991Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-07-27T17:20:02.048Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-07-27",
-  "povzetek": "Jutranji pregled 27. julija 2026 kaže na mešano sliko na svetovnih finančnih trgih. Ameriški indeks S&P 500 je noč zaključil z minimalno rastjo pri 7412 (+0.05 %), medtem ko je tehnološko usmerjen Nasdaq 100 zabeležil padec za 1.15 % na 28128. Evropski DAX je pokazal moč z rastjo 1.23 % na 25408, japonski Nikkei 225 pa je zrasel za 0.50 % na 64931. Najbolj opazna sprememba je bil padec cen nafte, saj je WTI nafta padla za 5.70 % na 84.22 USD/sod, Brent nafta pa za 6.02 % na 90.95 USD/sod, kar je posledica umiritve napetosti med ZDA in Iranom. Zlato se je podražilo na 4101.00 USD/oz (+0.74 %), medtem ko je Bitcoin zabeležil rahel padec na 65238 USD (-0.15 %). Vlagatelji bodo ta teden pozorno spremljali zasedanje ameriške centralne banke Federal Reserve in objave poslovnih rezultatov velikih tehnoloških podjetij.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, medtem ko so ameriški indeksi po dveh urah trgovanja beležili padec. Nemški DAX je zrasel za 1,04 % na 25361 točk, medtem ko je ameriški S&P 500 padel za 0,39 % na 7383 točk, tehnološki Nasdaq 100 pa je zabeležil še večji padec, in sicer za 1,05 % na 27834 točk. Japonski Nikkei 225 je dan zaključil z rastjo 0,50 % na 64931 točk. Najbolj opazna sprememba na trgih surovin je bil dramatičen padec cen nafte, saj se je WTI nafta znižala za 7,47 % na 82,64 USD/sod, Brent nafta pa za 7,95 % na 89,09 USD/sod, kar je posledica umiritve napetosti med ZDA in Iranom. Zlato je medtem rahlo pridobilo na vrednosti (+0,15 % na 4076,90 USD/oz), medtem ko je Bitcoin padel za 0,72 % na 64865 USD. V ospredju so bile tudi novice o padcu delnic SpaceX kljub uspešnemu poletu Starshipa, kar kaže na preizkušanje valuacij v zasebnem sektorju, ter poročilo o realnem padcu povprečnih dohodkov. Vlagatelji bodo pozorno spremljali prihajajoče poročilo o zaslužkih podjetja SpaceX, ki je napovedano za prihodnji teden.",
   "novice": [
     {
-      "naslov": "Cene nafte padle za več kot 7 % po umiritvi napetosti med ZDA in Iranom",
+      "naslov": "Cene nafte strmo padle po prekinitvi napadov med ZDA in Iranom",
       "sektor": "Energetika",
       "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Cene nafte so dramatično padle, saj sta ZDA in Iran začasno prekinila napade v strateško pomembni ožini Hormuz. Brent nafta je padla za več kot 6 % na 90.95 USD za sod, medtem ko je WTI nafta zabeležila padec za 5.70 % na 84.22 USD za sod. Ta padec sledi dvema tednoma stopnjevanja nasilja, ki je cene nafte potisnilo nad 100 dolarjev za sod. Umiritev konflikta je povzročila olajšanje na trgih, saj se zmanjšuje tveganje za motnje v globalni dobavi nafte. Prekinitev napadov je prišla po tem, ko so ZDA ustavile svojo dvotedensko kampanjo bombardiranja Irana, kar je spodbudilo Teheran k prekinitvi povračilnih napadov.",
-      "analiza": "Ozadje dogodka je dvotedensko stopnjevanje konflikta med ZDA in Iranom, ki je vplivalo na globalno dobavo nafte in povzročilo precejšen dvig cen. Ožina Hormuz je ključna pomorska pot za transport nafte, skozi katero poteka približno petina svetovne porabe nafte, zato so kakršnekoli napetosti v regiji izjemno pomembne za energetske trge. Sedanja umiritev napetosti je relevantna, ker zmanjšuje geopolitično tveganje in s tem tveganje za motnje v dobavi, kar neposredno vpliva na cene nafte. Mehanizem vpliva je preprost: zmanjšanje tveganja dobavnih šokov vodi v padec cen. Posledice za delnice so mešane: naftne družbe in podjetja v energetskem sektorju lahko doživijo pritisk na svoje delnice zaradi nižjih cen, medtem ko imajo podjetja, ki so veliki porabniki energije (npr. letalske družbe, transportna podjetja), koristi od nižjih stroškov. Za obveznice padec cen nafte pomeni zmanjšanje inflacijskih pritiskov, kar lahko vodi do stabilnejših donosov. Valute, kot je EUR/USD, so se odzvale z rahlo rastjo evra (+0.25 % na 1.1404), saj se zmanjšuje globalna negotovost. Kriptovalute, kot je Bitcoin, so zabeležile manjši padec (-0.15 % na 65238 USD), kar kaže na omejen neposreden vpliv, a so posredno povezane z globalnim sentimentom. Zgodovinsko gledano so podobne geopolitične umiritve v regiji vedno povzročile padec cen nafte, kot smo videli po koncu Zalivske vojne ali ob umiritvi napetosti v preteklosti. Vlagatelji naj v prihodnje spremljajo morebitno ponovno stopnjevanje konflikta ali dolgoročnejše dogovore. Za slovenskega dolgoročnega vlagatelja to pomeni potencialno nižje stroške goriva in energije, kar lahko pozitivno vpliva na kupno moč in podjetja, ki so odvisna od energentov, hkrati pa je pomembno zavedanje o volatilnosti, ki jo prinašajo geopolitična tveganja.",
+      "povzetek": "Cene nafte so danes strmo padle, saj so se ZDA in Iran dogovorili za prekinitev napadov, kar je zmanjšalo geopolitične napetosti v regiji. WTI nafta se je znižala za 7,47 % na 82,64 USD na sod, medtem ko je Brent nafta padla za 7,95 % na 89,09 USD na sod. Ta padec sledi prejšnjemu tednu, ko so cene Brent nafte dosegle 100 USD na sod po napadih Hutijev na savdske naftne tankerje v Rdečem morju. ZDA so sporočile, da so napadi na Iran ustavljeni, da bi omogočili \"prostor za pogovore\", kar je spodbudilo upanje na rešitev konflikta. Trgovci so optimistični, da bo prekinitev napadov preprečila nadaljnjo eskalacijo, ki bi lahko omejila globalno ponudbo nafte.",
+      "analiza": "Geopolitične napetosti na Bližnjem vzhodu, še posebej med ZDA in Iranom ter v Rdečem morju, so v zadnjem času močno vplivale na cene nafte. Prejšnji teden so napadi Hutijev na tankerje povzročili skok cen Brent nafte na 100 USD za sod, saj so se vlagatelji bali motenj v dobavi skozi Hormuško ožino. Današnja novica o prekinitvi napadov s strani ZDA, da bi omogočili diplomatske pogovore, je bistveno zmanjšala to tveganje. Mehanizem vpliva je neposreden: zmanjšanje tveganja za motnje v dobavi pomeni večjo verjetnost stabilne ponudbe, kar ob nespremenjenem povpraševanju vodi v padec cen. Posledice so vidne na trgu surovin, kjer sta WTI in Brent nafta zabeležili močan padec. Za delnice to pomeni negativno za naftne in plinske družbe, saj se zmanjšujejo njihovi pričakovani prihodki, medtem ko je pozitivno za podjetja, ki so veliki porabniki energije, kot so letalski prevozniki in transportna podjetja. Padec cen nafte lahko tudi zmanjša inflacijske pritiske, kar je pozitivno za obveznice in lahko vpliva na odločitve centralnih bank. Za slovenskega dolgoročnega vlagatelja to pomeni, da se zmanjšuje tveganje za višje cene goriv in transporta, kar lahko posredno vpliva na stroške življenja in poslovanja podjetij.",
       "vpliv": [
-        "Padec WTI nafte za 5.70 % na 84.22 USD/sod",
-        "Padec Brent nafte za 6.02 % na 90.95 USD/sod",
+        "WTI nafta padec za 7,47 % na 82,64 USD/sod",
+        "Brent nafta padec za 7,95 % na 89,09 USD/sod",
         "Zmanjšanje inflacijskih pritiskov",
-        "Potencialno nižji stroški za podjetja in potrošnike"
+        "Negativen vpliv na delnice naftnih družb"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-27T07:18:05.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-27T15:08:37.000Z"
     },
     {
-      "naslov": "Kitajski proizvajalec čipov ob debiju na borzi zrasel za 470 %",
+      "naslov": "Padec delnic proizvajalcev čipov zaradi kitajskega preboja v industriji",
       "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Delnice kitajskega proizvajalca čipov so ob svojem borznem debiju poskočile za izjemnih 470 %. Ta izjemen skok odraža močno povpraševanje po čipih, ki ga poganja razcvet umetne inteligence (AI). Podjetje CXMT je s tem kratkotrajno postalo najvrednejše uvrščeno podjetje na celinski Kitajski. To je bil tudi največji IPO na celinski Kitajski po letu 2010. Uspeh poudarja globalni pomen industrije polprevodnikov in kitajske ambicije na tem področju.",
-      "analiza": "Ozadje te novice je globalni tehnološki razcvet, še posebej na področju umetne inteligence, ki ustvarja ogromno povpraševanje po naprednih polprevodnikih. Kitajska si prizadeva za samozadostnost v proizvodnji čipov zaradi geopolitičnih napetosti in omejitev izvoza s strani ZDA, kar daje domačim podjetjem, kot je CXMT, strateški pomen in podporo. Relevantnost dogodka je v tem, da kaže na izjemno močan optimizem vlagateljev glede prihodnosti AI in kitajske tehnološke industrije. Mehanizem vpliva je neposreden: močno povpraševanje in vlaganje v AI tehnologije poganjata vrednost podjetij, ki so ključna za to industrijo. Posledice za delnice so očitne: delnice v sektorju polprevodnikov in AI tehnologij so pod velikim pritiskom navzgor, kar se odraža v rasti indeksa Nikkei 225 za 0.50 % na 64931, ki vključuje mnoga tehnološka podjetja. Nasdaq 100 je sicer padel za 1.15 % na 28128, kar kaže na morebitno preusmeritev kapitala ali splošno previdnost na ameriškem trgu kljub AI optimizmu. Za obveznice in valute je vpliv posreden, saj splošni optimizem v tehnološkem sektorju lahko podpira rast in s tem vpliva na inflacijska pričakovanja in monetarno politiko. Kriptovalute so imele minimalen odziv. Zgodovinsko gledano so podobni \"boomi\" v novih tehnologijah, kot je bil internetni boom v 90. letih, povzročili izjemne rasti delnic, vendar tudi opozarjajo na morebitno pregrevanje trga. Vlagatelji naj spremljajo trajnost povpraševanja po AI čipih in morebitne regulativne spremembe v kitajskem tehnološkem sektorju. Za slovenskega dolgoročnega vlagatelja to pomeni, da je tehnološki sektor, še posebej AI, še vedno vir potencialnih visokih donosov, vendar je potrebna previdnost zaradi visoke volatilnosti in specifičnih tveganj, povezanih s kitajskim trgom.",
-      "vpliv": [
-        "Rast delnic kitajskega proizvajalca čipov za 470 %",
-        "Povečano zanimanje za sektor polprevodnikov in AI",
-        "Potencialno pregrevanje tehnološkega trga",
-        "Kitajska postaja ključni igralec v proizvodnji čipov"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-07-27T07:34:59.000Z"
-    },
-    {
-      "naslov": "Nemčija močno povečala izvozna dovoljenja za orožje Izraelu",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Nemčija je dramatično povečala število izvoznih dovoljenj za orožje Izraelu, s posebnim poudarkom na projektu podmornic. Ta porast izvoznih dovoljenj predstavlja najnovejšo spremembo v nemškem pristopu do zaveznika Izraela. Povečanje izvoza orožja je pomemben signal o nadaljnji podpori Izraelu s strani Nemčije. To lahko vpliva na dinamiko regionalnih konfliktov in obrambno industrijo.",
-      "analiza": "Ozadje te novice je dolgotrajno in kompleksno geopolitično stanje na Bližnjem vzhodu ter zgodovinske vezi med Nemčijo in Izraelom. Nemčija je tradicionalno eden ključnih dobaviteljev vojaške opreme Izraelu, še posebej na področju podmornic. Relevantnost dogodka je v tem, da se povečanje izvoza orožja dogaja v času visoke geopolitične nestabilnosti v regiji, kar lahko dodatno zaostri razmere. Mehanizem vpliva na finančne trge je večplasten: neposredno koristi obrambni industriji, saj se povečujejo naročila in prihodki proizvajalcev orožja, kar se lahko odrazi v rasti delnic v tem sektorju. Posredno pa lahko povečanje oboroževanja v regiji poveča geopolitična tveganja, kar lahko vpliva na cene surovin (npr. nafte, kot smo videli v preteklih tednih), valute in splošno zaupanje vlagateljev. Povečana nestabilnost lahko vodi tudi do bega kapitala v varnejša zatočišča, kot sta zlato (ki je danes zraslo za 0.74 % na 4101.00 USD/oz) in obveznice. Zgodovinsko gledano so konflikti in oboroževalne tekme na Bližnjem vzhodu pogosto povzročili volatilnost na energetskih trgih in trgih plemenitih kovin. Vlagatelji naj spremljajo nadaljnji razvoj dogodkov v regiji in morebitne odzive drugih držav. Za slovenskega dolgoročnega vlagatelja to pomeni, da je geopolitično tveganje stalen dejavnik, ki lahko vpliva na globalne trge, zato je diverzifikacija portfelja ključna za blaženje morebitnih šokov.",
-      "vpliv": [
-        "Povečanje prihodkov za nemško obrambno industrijo",
-        "Potencialno povečanje geopolitičnih tveganj na Bližnjem vzhodu",
-        "Vpliv na cene surovin (nafta, zlato)",
-        "Povečana volatilnost na trgih"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/27/german-arms-export-licences-for-israel-surge-with-focus-on-sub-project?traffic_source=rss",
-      "objavljeno": "2026-07-27T07:20:07.000Z"
-    },
-    {
-      "naslov": "Britanske banke obtožujejo Bank of England ignoriranja kapitalske prednosti Wall Streeta",
-      "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Britanski posojilodajalci obtožujejo Bank of England (BoE), da ignorira kapitalsko prednost, ki jo imajo banke na Wall Streetu. Študija ocenjuje, da razlike v regulaciji pomenijo, da britanske banke nosijo dodatno kapitalsko breme v višini 22.5 milijarde funtov v primerjavi z ameriškimi tekmeci. To ustvarja neenake konkurenčne pogoje in ovira rast britanskega finančnega sektorja. Obtožbe prihajajo v času, ko se Združeno kraljestvo po Brexitu trudi ohraniti svoj status globalnega finančnega centra.",
-      "analiza": "Ozadje te novice je post-Brexit regulativno okolje v Združenem kraljestvu in globalna prizadevanja za uskladitev bančnih predpisov (npr. Basel III). Britanske banke se soočajo z višjimi kapitalskimi zahtevami v primerjavi z ameriškimi, kar naj bi izhajalo iz različnih interpretacij in implementacij mednarodnih standardov. Relevantnost dogodka je v tem, da vpliva na konkurenčnost britanskega finančnega sektorja in njegovo sposobnost privabljanja kapitala in talentov. Mehanizem vpliva je neposreden: višje kapitalske zahteve pomenijo, da morajo banke zadržati več kapitala, kar zmanjšuje njihovo sposobnost posojanja, investiranja in izplačevanja dividend. To lahko negativno vpliva na profitabilnost in vrednost delnic britanskih bank. Posledice za delnice so potencialno negativne za britanske finančne institucije, saj se povečujejo njihovi stroški poslovanja in zmanjšujejo donosi. Za obveznice in valute je vpliv posreden: šibkejši finančni sektor lahko vpliva na splošno gospodarsko rast in s tem na monetarno politiko Bank of England (BoE naj bi kljub skoku cen nafte zadržala obrestne mere, kot navaja druga novica). Zgodovinsko gledano so regulativne razlike pogosto povzročile premike v globalnih finančnih centrih, kot smo videli pri selitvi nekaterih operacij iz Londona v EU po Brexitu. Vlagatelji naj spremljajo odziv BoE in morebitne poskuse harmonizacije predpisov. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da regulativno okolje močno vpliva na dolgoročno uspešnost finančnih institucij, zato je pri investiranju v ta sektor ključno upoštevati specifične pogoje poslovanja v različnih jurisdikcijah.",
+      "povzetek": "Delnice podjetij za proizvodnjo čipov, vključno z Micronom, so danes padle, saj je kitajsko podjetje CXMT doživelo močan javni prvenec v Šanghaju. Vlagatelji zdaj pretehtajo možnost proizvodnega preboja, ki bi lahko kitajsko industrijo čipov naredil bolj konkurenčno na globalnem trgu. Ta razvoj dogodkov kaže na naraščajočo konkurenco in morebitno prerazporeditev moči v sektorju polprevodnikov. Padec delnic odraža zaskrbljenost glede prihodnjih tržnih deležev in dobičkonosnosti uveljavljenih zahodnih proizvajalcev.",
+      "analiza": "Globalna industrija polprevodnikov je strateškega pomena in je v zadnjih letih podvržena intenzivni geopolitični tekmi, še posebej med ZDA in Kitajsko. ZDA so poskušale omejiti kitajski dostop do napredne tehnologije čipov, da bi upočasnile njihov razvoj. Novica o močnem debiju kitajskega podjetja CXMT in morebitnem proizvodnem preboju signalizira, da Kitajska morda uspešno premošča te ovire in razvija lastno konkurenčno industrijo. Mehanizem vpliva je povezan s pričakovanji o tržnem deležu in cenovni moči. Če Kitajska postane samozadostna in konkurenčna, se bo pritisk na cene in marže zahodnih proizvajalcev, kot je Micron, povečal. To se neposredno odraža v padcu delnic teh podjetij. Posledice so negativne za delnice zahodnih proizvajalcev čipov, saj se zmanjšujejo njihove prihodnje rasti in dobičkonosnosti. Dolgoročno bi to lahko vodilo do bolj razpršene in konkurenčne globalne dobavne verige čipov. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati razvoj dogodkov v tehnološkem sektorju, še posebej v luči geopolitičnih napetosti in prizadevanj za tehnološko neodvisnost.",
       "vpliv": [
-        "Dodatno kapitalsko breme za britanske banke v višini 22.5 milijarde funtov",
-        "Zmanjšana konkurenčnost britanskega finančnega sektorja",
-        "Potencialen pritisk na delnice britanskih bank",
-        "Vpliv na sposobnost posojanja in investiranja"
+        "Padec delnic podjetij za proizvodnjo čipov (npr. Micron)",
+        "Povečana konkurenca na globalnem trgu čipov",
+        "Potencialni premik v globalnih dobavnih verigah"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/f65c90f0-1cef-451e-a899-dc9fac55ac2c?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-27T04:00:14.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-fall-as-china-steals-the-spotlight-cff9d73c?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-27T16:17:00.000Z"
     },
     {
-      "naslov": "Shein zabeležil 99 milijonov dolarjev izgube zaradi Trumpovih carin",
-      "sektor": "Potrošniki",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Podjetje Shein, velikan hitre mode, je zabeležilo izgubo v višini 99 milijonov dolarjev, saj so Trumpove carine močno prizadele njegovo prodajo. Ta objava prihaja v času, ko se podjetje pripravlja na borzni debi v Hongkongu. Izguba poudarja občutljivost globalnih podjetij na spremembe v trgovinski politiki in geopolitične napetosti. Carine so povečale stroške poslovanja in zmanjšale konkurenčnost Sheinovih izdelkov na ključnih trgih.",
-      "analiza": "Ozadje te novice so nadaljevanje trgovinskih napetosti med ZDA in Kitajsko, ki so se ponovno zaostrile pod administracijo Donalda Trumpa. Carine so bile uvedene z namenom zaščite domače industrije in pritiska na kitajska podjetja. Relevantnost dogodka je v tem, da Shein, kot globalni igralec v e-trgovini in hitri modi, predstavlja barometer vpliva teh carin na potrošniški sektor. Mehanizem vpliva je neposreden: carine povečajo uvozne stroške, kar zmanjša marže podjetja ali pa se stroški prenesejo na potrošnike, kar zmanjša povpraševanje. Oboje vodi v zmanjšanje prihodkov in profitabilnosti. Posledice za delnice so negativne za podjetja, ki so močno izpostavljena trgovinskim carinam, še posebej tista s proizvodnjo na Kitajskem in prodajo v ZDA. To lahko vpliva na vrednotenje Sheina pred IPO in na širši sentiment v sektorju e-trgovine in mode. Za obveznice in valute je vpliv posreden, saj trgovinske vojne in carine lahko upočasnijo globalno gospodarsko rast in povzročijo negotovost, kar lahko sproži beg v varnejša sredstva. Zgodovinsko gledano so trgovinske vojne vedno imele negativen vpliv na globalno trgovino in profitabilnost podjetij, ki so odvisna od mednarodnih dobavnih verig. Vlagatelji naj spremljajo razvoj trgovinskih politik in morebitne spremembe v carinskih tarifah. Za slovenskega dolgoročnega vlagatelja to pomeni, da so globalne dobavne verige in trgovinske politike pomemben dejavnik tveganja, ki lahko vpliva na profitabilnost mednarodnih podjetij, zato je pri investiranju v takšna podjetja ključno upoštevati geopolitična tveganja.",
-      "vpliv": [
-        "Izguba Sheina v višini 99 milijonov dolarjev",
-        "Povečani stroški poslovanja zaradi carin",
-        "Negativni vpliv na prodajo in profitabilnost",
-        "Negotovost pred borznim debijem Sheina"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-07-27T02:08:36.000Z"
-    },
-    {
-      "naslov": "Francija dvomi o sodelovanju Združenega kraljestva v 5 milijard evrov vrednem EU skladu za start-upe",
+      "naslov": "Realni povprečni dohodek upadel po raziskavi gospodinjskih izdatkov",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Francija izraža dvome glede sodelovanja Združenega kraljestva v 5 milijard evrov vrednem skladu Evropske unije za tehnološka start-up podjetja. Razprava o britanski vlogi kaže na napete odnose med Združenim kraljestvom in EU med pogajanji o \"ponovnem zagonu\" odnosov po Brexitu. To lahko omeji dostop britanskih podjetij do pomembnih evropskih virov financiranja. Vprašanje poudarja kompleksnost post-Brexit sodelovanja na področju inovacij.",
-      "analiza": "Ozadje te novice so zapleteni odnosi med Združenim kraljestvom in Evropsko unijo po Brexitu, kjer se obe strani trudita najti nove oblike sodelovanja, hkrati pa varujeta lastne interese. Sklad v vrednosti 5 milijard evrov je pomemben vir financiranja za tehnološke start-upe v Evropi. Relevantnost dogodka je v tem, da odraža nadaljnje napetosti in pomanjkanje jasnosti glede prihodnjega sodelovanja med UK in EU, kar lahko vpliva na inovacijsko okolje in pretok kapitala. Mehanizem vpliva je neposreden: če Združeno kraljestvo ne bo sodelovalo v skladu, bodo britanski start-upi izgubili dostop do pomembnega vira financiranja, kar lahko upočasni njihov razvoj in rast. To lahko negativno vpliva na delnice tehnoloških podjetij v Združenem kraljestvu in na privlačnost Londona kot tehnološkega vozlišča. Posledice za delnice so potencialno negativne za britanski tehnološki sektor, medtem ko bi lahko evropski start-upi, ki niso v Združenem kraljestvu, imeli koristi od večjega deleža sredstev. Za valute, kot je funt, to pomeni nadaljnjo negotovost, ki lahko vpliva na njegovo vrednost. Zgodovinsko gledano so politične odločitve o sodelovanju v mednarodnih programih imele pomemben vpliv na gospodarsko rast in inovacije posameznih držav. Vlagatelji naj spremljajo napredek v pogajanjih med Združenim kraljestvom in EU ter morebitne alternativne vire financiranja za britanske start-upe. Za slovenskega dolgoročnega vlagatelja to pomeni, da politična tveganja in mednarodni odnosi lahko pomembno vplivajo na investicijske priložnosti, še posebej v sektorjih, ki so odvisni od javnega financiranja in mednarodnega sodelovanja.",
+      "povzetek": "Rezultati raziskave o izdatkih gospodinjstev za obdobje 2023/24 kažejo, da se je povprečni dohodek v realnem smislu zmanjšal. To pomeni, da kupna moč posameznikov in gospodinjstev upada, saj rast dohodkov ni sledila inflaciji ali pa je bila celo negativna. Poročilo poudarja izzive, s katerimi se soočajo potrošniki, in lahko vpliva na širšo gospodarsko sliko. Zmanjšanje realnih dohodkov običajno vodi v zmanjšanje potrošnje in varčevanja.",
+      "analiza": "Padec realnih dohodkov je ključen makroekonomski indikator, ki neposredno vpliva na življenjski standard prebivalstva in gospodarsko aktivnost. V kontekstu inflacijskih pritiskov, ki so bili prisotni v zadnjih letih, je zmanjšanje realne kupne moči zaskrbljujoč trend. Mehanizem vpliva je preprost: manjši realni dohodek pomeni manj denarja za diskrecijsko potrošnjo, kar se odraža v zmanjšanju povpraševanja po blagu in storitvah. To lahko upočasni gospodarsko rast in poveča tveganje za recesijo. Posledice so negativne za delnice podjetij, ki so odvisna od potrošniške porabe, še posebej tistih v sektorjih, kot so maloprodaja, gostinstvo in turizem. Centralne banke lahko takšne podatke upoštevajo pri svojih odločitvah o obrestnih merah, saj padec povpraševanja lahko zmanjša inflacijske pritiske. Za obveznice bi to lahko pomenilo, da se zmanjšajo pričakovanja o prihodnji inflaciji, kar je lahko pozitivno za dolgoročne obveznice. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da splošni ekonomski trendi, kot je kupna moč prebivalstva, vplivajo na dobičkonosnost podjetij in s tem na vrednost delnic.",
       "vpliv": [
-        "Omejen dostop britanskih start-upov do 5 milijard evrov EU sredstev",
-        "Napeti odnosi med Združenim kraljestvom in EU",
-        "Potencialno upočasnjena rast britanskega tehnološkega sektorja",
-        "Negotovost za funt"
+        "Zmanjšanje kupne moči potrošnikov",
+        "Potencialno zmanjšanje potrošniške porabe",
+        "Vpliv na odločitve centralnih bank glede obrestnih mer"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cvgjqd9zz33o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-27T16:47:30.000Z"
+    },
+    {
+      "naslov": "Delnica SpaceX dosega novo dno kljub uspešnemu poletu Starshipa",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Delnica podjetja SpaceX je padla na novo najnižjo raven, kljub temu da je podjetje uspešno izvedlo skoraj brezhiben polet svojega vesoljskega plovila Starship. Ta padec se dogaja pred poročilom o zaslužkih podjetja, ki je napovedano za prihodnji teden. Pričakuje se, da bi poročilo lahko sprožilo dodaten val prodaje, saj bodo nekateri notranji delničarji kmalu lahko prodali svoje delnice. Novica o padcu delnice prihaja tudi v luči vprašanj o valuaciji podjetja na zasebnem trgu.",
+      "analiza": "SpaceX je eno izmed najbolj prepoznavnih in visoko vrednotenih zasebnih podjetij, ki ga pogosto omenjajo kot potencialnega kandidata za IPO. Njegova valuacija je bila v zadnjih letih izjemno visoka, kar je odražalo optimizem glede vesoljske industrije in inovacij. Kljub uspešnemu tehničnemu dosežku, kot je polet Starshipa, padec delnice kaže na preobrat v sentimentu vlagateljev. Mehanizem vpliva je večplasten: po eni strani gre za morebitno pregreto valuacijo na zasebnem trgu, po drugi pa za pričakovanja pred objavo zaslužkov, ki lahko razkrijejo finančno stanje podjetja. Dodatni pritisk prihaja od notranjih delničarjev, ki bodo morda želeli unovčiti svoje naložbe, kar poveča ponudbo delnic. Posledice so negativne za delničarje SpaceX in lahko vplivajo na splošno dojemanje valuacij v zasebnem tehnološkem sektorju. To lahko tudi odloži morebitno IPO podjetja. Za širši trg to pomeni, da se vlagatelji morda bolj osredotočajo na temeljne finančne podatke in dobičkonosnost, tudi pri inovativnih podjetjih. Za slovenskega dolgoročnega vlagatelja to poudarja pomen temeljite analize in previdnosti pri naložbah v visoko vrednotena podjetja, še posebej tista na zasebnem trgu.",
+      "vpliv": [
+        "Padec delnice SpaceX na novo dno",
+        "Pričakovan val prodaje s strani notranjih delničarjev",
+        "Vprašanja o valuaciji zasebnih tehnoloških podjetij"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/spacexs-stock-falls-to-a-new-low-despite-a-near-flawless-starship-flight-034a99ab?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-27T16:36:00.000Z"
+    },
+    {
+      "naslov": "Amazon s satelitsko konstelacijo Project Kuiper izziva Starlink",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Tehnološki velikan Amazon je vložil zahtevo za izstrelitev več kot 5.000 satelitov, s čimer namerava zagotoviti globalne mobilne storitve in neposredno konkurirati Muskovi družbi Starlink. Ta poteza kaže na stopnjevanje konkurence v sektorju satelitskega interneta in mobilnih komunikacij. Amazonov projekt, znan kot Project Kuiper, si prizadeva ponuditi širokopasovni internet po vsem svetu, kar bi lahko spremenilo dostopnost in cene storitev.",
+      "analiza": "Trg satelitskega interneta, ki ga je pionirsko razvijal Starlink (del SpaceX), postaja vse bolj privlačen za velike tehnološke igralce. Amazonov Project Kuiper predstavlja neposredno in močno konkurenco, saj ima Amazon ogromne finančne in logistične vire. Kontekst je globalna potreba po dostopnem internetu, še posebej v oddaljenih in slabo pokritih območjih. Mehanizem vpliva je povezan s povečanjem ponudbe in konkurenčnosti, kar lahko zniža cene storitev in poveča inovacije. Posledice so mešane: pozitivne za potrošnike, ki bodo imeli večjo izbiro in potencialno nižje cene, ter za podjetja, ki se bodo lahko povezala v oddaljenih lokacijah. Za Starlink (in posredno SpaceX) to pomeni povečan konkurenčni pritisk, kar lahko vpliva na njihove prihodnje prihodke in dobičkonosnost. Za delnice Amazona bi to lahko bil dolgoročen vir rasti, čeprav so začetne naložbe v satelitske konstelacije ogromne. Za slovenskega dolgoročnega vlagatelja to poudarja pomen spremljanja strateških potez velikih tehnoloških podjetij in njihovega vpliva na konkurenčno okolje v hitro rastočih sektorjih.",
+      "vpliv": [
+        "Povečana konkurenca na trgu satelitskega interneta",
+        "Potencialno nižje cene in večja dostopnost mobilnih storitev",
+        "Dolgoročni vir rasti za Amazon, pritisk na Starlink"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/c9b1bdd5-a994-4a4a-b462-89aa486c2508?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-27T04:00:14.000Z"
+      "vir_url": "https://www.ft.com/content/83e93ce0-1ebd-4b04-a70c-82ff7b64a5f4?syn-25a6b1a6=1",
+      "objavljeno": "2026-07-27T15:57:14.000Z"
+    },
+    {
+      "naslov": "Diorjev preporod poganja rast modnega segmenta luksuznega velikana LVMH",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Modni posel luksuznega velikana LVMH se je vrnil k rasti, k čemur je pomembno prispeval preporod blagovne znamke Dior. To je prvič po skoraj dveh letih, da je ključni oddelek za modo in usnjene izdelke LVMH-ja zabeležil rast. Novica kaže na okrevanje povpraševanja po luksuznih izdelkih in na uspešnost strateških potez podjetja. Rast v luksuznem sektorju pogosto služi kot barometer za splošno potrošniško zaupanje med premožnejšimi segmenti prebivalstva.",
+      "analiza": "Luksuzni sektor je bil v zadnjih letih pod pritiskom zaradi globalnih gospodarskih negotovosti in spremenjenih potrošniških navad. LVMH, kot največji igralec v tem sektorju, je pomemben pokazatelj njegovega zdravja. Preporod Diorja in rast v modnem segmentu po skoraj dveh letih stagnacije ali padca je pomemben signal. Mehanizem vpliva je povezan s potrošniškim zaupanjem in diskrecijsko porabo. Rast v luksuznem segmentu kaže, da premožnejši potrošniki ponovno povečujejo svojo porabo, kar je lahko pozitiven znak za širše gospodarstvo, čeprav z zamikom. Posledice so pozitivne za delnice LVMH in drugih luksuznih podjetij, saj se izboljšujejo njihovi prihodki in dobičkonosnost. To lahko tudi nakazuje na splošno izboljšanje gospodarskih razmer v določenih segmentih trga. Za slovenskega dolgoročnega vlagatelja to pomeni, da je spremljanje luksuznega sektorja lahko koristen indikator zdravja globalnega gospodarstva, saj so luksuzni izdelki pogosto med prvimi, ki jih potrošniki opustijo v slabih časih in ponovno kupujejo v dobrih.",
+      "vpliv": [
+        "Rast modnega in usnjenega segmenta LVMH",
+        "Pozitiven vpliv na delnice LVMH",
+        "Indikator okrevanja potrošniškega zaupanja v luksuznem segmentu"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/7b1c40ef-4a21-47f3-a9dc-5d1444ec726a?syn-25a6b1a6=1",
+      "objavljeno": "2026-07-27T15:50:11.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-27T07:49:13.594Z",
+    "posodobljenoOb": "2026-07-27T17:18:33.831Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7411.98,
-        "sprememba_pct": 0.05
+        "vrednost": 7383.06,
+        "sprememba_pct": -0.39
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 28128.342,
-        "sprememba_pct": -1.15
+        "vrednost": 27834.285,
+        "sprememba_pct": -1.05
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25408.26,
-        "sprememba_pct": 1.23
+        "vrednost": 25361.03,
+        "sprememba_pct": 1.04
       },
       {
         "simbol": "^N225",
@@ -141,22 +136,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4101,
-        "sprememba_pct": 0.74,
+        "vrednost": 4076.9,
+        "sprememba_pct": 0.15,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 84.22,
-        "sprememba_pct": -5.7,
+        "vrednost": 82.64,
+        "sprememba_pct": -7.47,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 90.95,
-        "sprememba_pct": -6.02,
+        "vrednost": 89.09,
+        "sprememba_pct": -7.95,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +159,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1404,
-        "sprememba_pct": 0.25
+        "vrednost": 1.1377,
+        "sprememba_pct": 0.02
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.679,
-        "sprememba_pct": -0.51,
+        "vrednost": 4.647,
+        "sprememba_pct": -0.68,
         "enota": "%"
       }
     ],
@@ -181,16 +176,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 65238,
-        "sprememba_pct": -0.15,
+        "vrednost": 64864.91,
+        "sprememba_pct": -0.72,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 17.72,
-      "sprememba_pct": -4.63
+      "vrednost": 19.69,
+      "sprememba_pct": 5.97
     }
   }
 }
