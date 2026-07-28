@@ -1,110 +1,128 @@
 {
-  "generiranoOb": "2026-07-27T17:26:26.036Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-07-28T06:40:24.357Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-07-27",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, medtem ko so ameriški indeksi po dveh urah trgovanja beležili padec. DAX je zrasel za 1,04 % in dosegel 25361 točk, medtem ko je S&P 500 padel za 0,34 % na 7387 točk, Nasdaq 100 pa je izgubil 0,99 % in se ustavil pri 27851 točkah. Ključna novica dneva je bil močan padec cen nafte, saj sta WTI nafta in Brent nafta izgubili 7,42 % oziroma 7,83 %, kar je posledica premora v napadih med ZDA in Iranom, kar je zmanjšalo geopolitične napetosti. Na drugi strani je sektor umetne inteligence še naprej gonilna sila rasti, čeprav se pojavljajo znaki povečane konkurence s Kitajske na področju čipov. Medtem ko je LVMH zabeležil rast v luksuznem segmentu, pa je raziskava pokazala realni padec povprečnih dohodkov, kar bi lahko vplivalo na potrošniško porabo. Vlagatelji bodo ta teden pozorno spremljali nadaljnje makroekonomske objave, še posebej tiste, ki se nanašajo na inflacijo in potrošniško porabo.",
+  "datum": "2026-07-28",
+  "povzetek": "Jutranja izdaja, 28. julij 2026, prinaša mešano sliko s svetovnih trgov. Ameriški indeks S&P 500 je noč zaključil z minimalno rastjo pri 7413 točkah (+0.02 %), medtem ko je tehnološki Nasdaq 100 zabeležil rahel padec na 28039 točk (-0.32 %). Azijski trgi so bili pod pritiskom, še posebej japonski Nikkei 225, ki je padel za 4.09 % na 62276 točk, kar odraža zaskrbljenost glede delnic čiparskih podjetij. Evropski DAX je medtem pokazal odpornost in zrasel za 1.04 % na 25361 točk. Cene nafte so se znižale, Brent nafta je pri 87.66 USD/sod (-0.79 %), zlato pa je izgubilo 0.72 % in se giblje pri 4047.50 USD/oz. Geopolitične napetosti na Bližnjem vzhodu in pogovori med ZDA in Iranom ostajajo v ospredju, medtem ko se Kitajska sooča z izzivi pri svojem gospodarskem modelu. Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v evroobmočju za julij, ki bo ključna za oceno prihodnjih potez Evropske centralne banke.",
   "novice": [
     {
-      "naslov": "Cene nafte strmo padle po premoru v napadih med ZDA in Iranom",
-      "sektor": "Geopolitika & Energetika",
+      "naslov": "Globok padec delnic čiparskih podjetij zaradi zaskrbljenosti glede umetne inteligence",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Delnice čiparskih podjetij so doživele močan padec, kar je poglobilo razprodajo v sektorju umetne inteligence. To je povzročilo, da so delnice podjetij SK Hynix in Samsung Electronics močno padle, kar je južnokorejski indeks Kospi potisnilo navzdol za več kot 10 %. Trgovanje na indeksu Kospi je bilo v torek zjutraj celo začasno ustavljeno po začetnem padcu za 8 %. Vlagatelji so zaskrbljeni zaradi morebitnega pregrevanja trga z umetno inteligenco in morebitnega upočasnjevanja povpraševanja po čipih. Padec kaže na naraščajočo nervozo glede vrednotenj v sektorju, ki je bil v zadnjem času eden glavnih gonil rasti.",
+      "analiza": "Ozadje tega dogodka je izjemna rast delnic podjetij, povezanih z umetno inteligenco, predvsem proizvajalcev čipov, v zadnjih letih. Ta rast je bila poganjana z optimizmom glede prihodnjih aplikacij in dobičkov, kar je nekatere delnice potisnilo do zgodovinsko visokih vrednotenj. Sedanja razprodaja je relevantna, saj nakazuje morebitno spremembo sentimenta in preizkus vzdržnosti teh visokih vrednotenj. Mehanizem vpliva je neposreden: zaskrbljenost vlagateljev glede pregrevanja trga AI in morebitnega prekomernega povpraševanja po čipih vodi do prodaje delnic, kar znižuje cene in povzroča širše padce indeksov, kot je Kospi. Posledice so vidne v padcu delnic tehnoloških podjetij, kar vpliva na celotne delniške trge, še posebej v Aziji, kjer so proizvajalci čipov ključni. Padec Nasdaqa 100 za 0.32 % je verjetno povezan s tem. V preteklosti so podobne razprodaje v hitro rastočih sektorjih, kot je bil internetni balon leta 2000, kazale na prekomerno špekulacijo. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub privlačnosti sektorja AI potrebna previdnost pri visokih vrednotenjih in diverzifikacija portfelja. Vlagatelji naj opazujejo poročila o dobičkih podjetij in morebitne znake upočasnjevanja povpraševanja po čipih.",
+      "vpliv": [
+        "Padec delnic SK Hynix in Samsung",
+        "Indeks Kospi padel za več kot 10 %",
+        "Zaskrbljenost glede vrednotenj AI sektorja",
+        "Negativen vpliv na tehnološke delnice globalno"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1",
+      "objavljeno": "2026-07-28T05:16:35.000Z"
+    },
+    {
+      "naslov": "Trump napoveduje pogovore z Iranom, srečanje z Netanjahujem v ZDA",
+      "sektor": "Geopolitika",
       "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Cene nafte so danes doživele oster padec, saj so ZDA sporočile, da so prekinile napade na Iran, da bi omogočile prostor za pogovore. To je sprožilo upanje na rešitev konflikta in zmanjšalo tveganje za motnje v globalni oskrbi. Brent nafta, mednarodno merilo, je padla za 7,83 % na 89,20 USD za sod, medtem ko je WTI nafta zabeležila padec za 7,42 % na 82,68 USD za sod. Ta padec sledi preteklim tednom, ko so cene poskočile proti 100 USD za sod zaradi napadov Hutijev na savdske tankerje v Rdečem morju. Zmanjšanje geopolitičnih napetosti je ključno za stabilizacijo energetskih trgov.",
-      "analiza": "Ozadje tega dogodka so nedavni napadi Hutijev na tankerje v Rdečem morju, ki so povzročili precejšnje povečanje cen nafte in strah pred širšo eskalacijo konflikta na Bližnjem vzhodu. Premor v napadih ZDA in Iranu zmanjšuje tveganje za motnje v dobavnih verigah, še posebej v Hormuški ožini, ki je ključna za globalni transport nafte. Mehanizem vpliva na finančne trge je neposreden: zmanjšano geopolitično tveganje odstrani 'premijo za tveganje' iz cen nafte, kar povzroči padec. To ima več posledic: nižje cene nafte so pozitivne za potrošnike in podjetja, saj zmanjšujejo stroške goriva in transporta, kar lahko ublaži inflacijske pritiske. Po drugi strani pa to negativno vpliva na delnice naftnih in energetskih podjetij, ki so odvisne od visokih cen nafte. V preteklosti so podobni dogodki, kot so dogovori o jedrskem programu Irana ali prekinitve sovražnosti, vedno povzročili hitre odzive na trgu nafte. Za slovenskega dolgoročnega vlagatelja to pomeni potencialno nižje stroške energije, kar lahko posredno koristi podjetjem v panogah, ki so odvisne od transporta in energije. Pri naložbah v energetski sektor je pomembno upoštevati geopolitična tveganja in njihovo hitro spreminjanje.",
+      "povzetek": "Ameriški predsednik Donald Trump je sporočil, da potekajo pogovori z Iranom med premorom v ameriških vojaških napadih, hkrati pa se bo srečal z izraelskim premierjem Netanjahujem v Washingtonu, DC. Iran trdi, da se ZDA \"borijo\" za končanje petmesečne vojne, kar kaže na kompleksnost in napetost v regiji. Ti dogodki se odvijajo v luči nedavnega napada Ukrajine na iransko plovilo v Kaspijskem morju in glasovanja ameriškega senata o sankcijah proti Rusiji. Srečanje med Trumpom in Netanjahujem je ključno za razpravo o regionalni varnosti in stabilnosti.",
+      "analiza": "Geopolitične napetosti na Bližnjem vzhodu so že dolgo pomemben dejavnik za globalne finančne trge, še posebej za cene nafte in zlata. Petmesečna vojna, ki jo omenja Iran, in pogovori med ZDA in Iranom, ki jih napoveduje Trump, predstavljata mešan signal. Na eni strani možnost pogovorov nakazuje deeskalacijo, na drugi pa nadaljevanje konflikta ohranja negotovost. Mehanizem vpliva je predvsem preko cen surovin: morebitna eskalacija bi lahko prekinila dobavne verige nafte in plina, kar bi dvignilo cene, medtem ko deeskalacija prinaša stabilnost. Zlato pogosto služi kot varno zatočišče v časih geopolitične negotovosti, vendar je danes izgubilo 0.72 % na 4047.50 USD/oz, kar bi lahko kazalo na prevladujoč optimizem glede pogovorov ali druge dejavnike. Cene nafte WTI in Brent so padle za 0.69 % oziroma 0.79 %, kar bi lahko bilo posledica upanja na umiritev razmer. Posledice se kažejo v nihanjih cen nafte in zlata, vplivajo pa tudi na obrambne delnice in splošno zaupanje vlagateljev. Slovenski dolgoročni vlagatelj mora biti pozoren na stabilnost regije, saj ima ta posredne vplive na globalno gospodarstvo in s tem na donosnost naložb.",
       "vpliv": [
-        "Cene nafte Brent padle za 7,83 % na 89,20 USD/sod",
-        "Cene WTI nafte padle za 7,42 % na 82,68 USD/sod",
-        "Nižje inflacijske projekcije in stroški transporta",
-        "Pritisk na delnice energetskega sektorja"
+        "Nihanje cen nafte (WTI -0.69%, Brent -0.79%)",
+        "Vpliv na ceno zlata (-0.72%)",
+        "Negotovost na globalnih trgih",
+        "Potencialna deeskalacija napetosti"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-07-27T15:08:37.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
+      "objavljeno": "2026-07-28T00:00:00.000Z"
     },
     {
-      "naslov": "Delnice SpaceX padle na novo dno kljub brezhibnemu letu Starshipa",
-      "sektor": "Finance & Tehnologija",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Delnice podjetja SpaceX so padle na novo najnižjo raven, kljub skoraj brezhibnemu letu njihovega plovila Starship. To se dogaja v pričakovanju objave zaslužkov podjetja naslednji teden, ki bi lahko sprožila dodaten val prodaje, saj bodo nekateri insajderji kmalu lahko prodali svoje delnice. Vlagatelji pogosto prejmejo le majhen del delnic, ki jih zahtevajo pri IPO, če sploh kaj, kar poudarja ekskluzivnost in povpraševanje po delnicah SpaceX v preteklosti. Vendar pa trenutni padec kaže na morebitno prevrednotenje trga ali zaskrbljenost glede prihodnjih rezultatov.",
-      "analiza": "Padec delnic SpaceX, kljub tehničnemu uspehu Starshipa, poudarja razkorak med operativnimi dosežki in tržnim vrednotenjem, še posebej v zasebnih trgih, kjer so delnice pogosto visoko cenjene na podlagi pričakovanj. Prihajajoča objava zaslužkov in možnost, da bodo insajderji prodali svoje delnice, ustvarja pritisk na ceno. To je pogost pojav pri podjetjih, ki prehajajo iz zasebnega v javno lastništvo ali ko se sprostijo omejitve prodaje za zgodnje vlagatelje. Visoko povpraševanje po IPO alokacijah v preteklosti kaže na optimizem, vendar se trg zdaj sooča z realnostjo. Posledice vključujejo povečano volatilnost delnic SpaceX in morebitno previdnost vlagateljev pri ocenjevanju zasebnih tehnoloških podjetij. Zgodovinsko gledano so številna podjetja po IPO doživela padce, ko so se sprostile omejitve prodaje. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno biti previden pri naložbah v visoko rastna podjetja, ki so bila dolgo časa na zasebnem trgu, in razumeti, da so tržne dinamike lahko nepredvidljive, tudi ob uspešnih operativnih dosežkih.",
-      "vpliv": [
-        "Padec delnic SpaceX na novo dno",
-        "Pričakovan pritisk ob objavi rezultatov in sprostitvi prodaje delnic insajderjem",
-        "Opozorilo o tveganjih pri IPO alokacijah in vrednotenju zasebnih podjetij"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/spacexs-stock-falls-to-a-new-low-despite-a-near-flawless-starship-flight-034a99ab?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-27T16:36:00.000Z"
-    },
-    {
-      "naslov": "Povprečni dohodek se je v realnem smislu zmanjšal, kaže raziskava",
+      "naslov": "Kitajska potrebuje nov model gospodarske rasti za prihodnost",
       "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
+      "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Objavljeni so bili rezultati raziskave o izdatkih gospodinjstev za obdobje 2023/24, ki kažejo, da se je povprečni dohodek v realnem smislu zmanjšal. To pomeni, da je kupna moč posameznikov in gospodinjstev upadla, saj so se cene blaga in storitev povišale hitreje kot dohodki. Takšen trend ima lahko pomembne posledice za potrošniško porabo, ki je ključna komponenta gospodarske rasti. Zmanjšanje realnih dohodkov lahko vodi v previdnejše potrošniške navade in zmanjšanje diskrecijske porabe.",
-      "analiza": "Zmanjšanje povprečnih dohodkov v realnem smislu je neposredna posledica inflacije, ki je v preteklih obdobjih erodirala kupno moč. Ta makroekonomski podatek je izjemno pomemben, saj potrošniška poraba predstavlja velik del bruto domačega proizvoda (BDP) v večini razvitih gospodarstev. Če imajo ljudje manj denarja za porabo po upoštevanju inflacije, se lahko upočasni gospodarska rast. To lahko vpliva na podjetja v različnih sektorjih, še posebej na tista, ki so močno odvisna od potrošniške porabe, kot so trgovina na drobno, gostinstvo in turizem. Centralne banke pozorno spremljajo takšne podatke, saj lahko vplivajo na njihove odločitve glede obrestnih mer. Zmanjšana kupna moč lahko dolgoročno vpliva tudi na varčevanje in naložbe. V preteklosti so obdobja zmanjšanja realnih dohodkov pogosto sovpadala z gospodarskimi upočasnitvami. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da je treba biti pozoren na podjetja, ki so izpostavljena cikličnim gibanjem potrošniške porabe, in razmisliti o naložbah v sektorje, ki so bolj odporni na nihanja v kupni moči, ali pa imajo močno cenovno moč.",
+      "povzetek": "Kitajska se sooča z nujno potrebo po preoblikovanju svojega gospodarskega modela rasti, kar je ključnega pomena tako za stabilnost Pekinga kot za globalno gospodarstvo. Dolgoletni model, ki je temeljil na izvozu in investicijah v infrastrukturo, kaže znake izčrpanosti in ustvarja notranja neravnovesja. Prehod na model, ki bi bil bolj usmerjen v domačo potrošnjo in inovacije, je nujen za trajnostno rast. Ta sprememba je pomembna, saj Kitajska ostaja druga največja ekonomija na svetu in njen razvoj močno vpliva na mednarodne trge.",
+      "analiza": "Kitajska je v zadnjih desetletjih doživela izjemno gospodarsko rast, ki je temeljila na masovni proizvodnji, izvozu in obsežnih državnih investicijah. Ta model je pripeljal do hitre urbanizacije in dviga življenjskega standarda, vendar tudi do prekomernega zadolževanja, nepremičninskih balonov in okoljskih problemov. Potreba po novem modelu je relevantna, saj se Kitajska sooča z demografskimi izzivi, naraščajočimi trgovinskimi napetostmi in željo po tehnološki avtonomiji. Mehanizem vpliva na finančne trge je večplasten: upočasnjevanje kitajske rasti vpliva na globalno povpraševanje po surovinah, kar se lahko odrazi v cenah nafte (WTI -0.69 %, Brent -0.79 %) in drugih industrijskih kovin. Preusmeritev na domačo potrošnjo bi lahko pomenila manjši pritisk na globalne dobavne verige in morebitno zmanjšanje inflacijskih pritiskov. Za delnice to pomeni, da so podjetja, ki so močno odvisna od kitajskega izvoza ali povpraševanja, lahko izpostavljena tveganjem. Slovenski dolgoročni vlagatelj mora razumeti, da je Kitajska ključni akter v svetovnem gospodarstvu in da spremembe v njenem modelu rasti vplivajo na globalne trge, vključno z evropskimi podjetji, ki so povezana s Kitajsko.",
       "vpliv": [
-        "Zmanjšana kupna moč potrošnikov",
-        "Potencialno upočasnjevanje gospodarske rasti",
-        "Pritisk na podjetja s potrošniško usmeritvijo",
-        "Vpliv na odločitve centralnih bank glede obrestnih mer"
+        "Vpliv na globalno povpraševanje po surovinah",
+        "Spremembe v globalnih dobavnih verigah",
+        "Tveganja za podjetja, odvisna od kitajskega trga",
+        "Potencialno zmanjšanje inflacijskih pritiskov"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cvgjqd9zz33o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-07-27T16:47:30.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/a6801e59-3a71-4752-8456-86691e3e163f",
+      "objavljeno": "2026-07-28T04:00:15.000Z"
     },
     {
-      "naslov": "Diorjev preporod pomaga LVMH modnemu poslu k rasti",
+      "naslov": "Johnson & Johnson ponuja do 5,5 milijarde dolarjev za poravnavo tožb",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Farmacevtski velikan Johnson & Johnson je ponudil do 5,5 milijarde dolarjev za poravnavo skoraj 70.000 tožb v ZDA, ki podjetje obtožujejo, da so njegovi izdelki na osnovi smukca, vključno z otroškim pudrom, povzročali raka. Ta predlagana poravnava je namenjena končanju večletne pravne bitke, ki je močno obremenjevala podjetje. Cilj je rešiti obtožbe, da so izdelki iz smukca povzročali raka na jajčnikih. To bi podjetju omogočilo, da se osredotoči na svoje glavne dejavnosti in zmanjša pravno negotovost.",
+      "analiza": "Dolgotrajne pravne bitke, kot je ta, predstavljajo veliko finančno in ugledno tveganje za velika podjetja. V primeru Johnson & Johnson so obtožbe glede smukca povzročile milijardne stroške in negotovost glede prihodnjih obveznosti. Ponudba poravnave v višini do 5,5 milijarde dolarjev je relevantna, saj kaže na prizadevanja podjetja, da to poglavje zaključi in odstrani pomembno tveganje. Mehanizem vpliva na finančne trge je pozitiven za delnice J&J, saj odpravlja veliko negotovost, ki je visela nad podjetjem. Čeprav je znesek poravnave visok, je predvidljivost stroškov za vlagatelje pogosto boljša kot odprta pravna tveganja. Posledice so lahko stabilizacija ali celo rast delnic podjetja J&J, saj se zmanjša tveganje za nepričakovane sodne odločitve. Vpliv na širše trge je omejen, vendar takšne novice poudarjajo pomen korporativnega upravljanja in obvladovanja tveganj. Za slovenskega dolgoročnega vlagatelja, ki ima delnice J&J v portfelju, ta poravnava pomeni zmanjšanje tveganja in morebitno izboljšanje dolgoročne vrednosti naložbe, saj se podjetje lahko osredotoči na poslovanje.",
+      "vpliv": [
+        "Zmanjšanje pravne negotovosti za J&J",
+        "Potencialna stabilizacija/rast delnic J&J",
+        "Visoki enkratni stroški poravnave",
+        "Poudarek na pomembnosti korporativnega upravljanja"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-28T01:53:58.000Z"
+    },
+    {
+      "naslov": "New York uvaja 30-odstotne popuste za boj proti draginji",
       "sektor": "Potrošniki",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Diorjev preporod je pomagal ključnemu oddelku za modo in usnjene izdelke luksuznega velikana LVMH, da se je vrnil k rasti, prvič po skoraj dveh letih. Ta novica je pomembna, saj kaže na odpornost luksuznega sektorja in sposobnost blagovnih znamk, da se prilagodijo tržnim razmeram. Rast v tem segmentu je ključna za celotno poslovanje LVMH, ki je eden največjih igralcev v industriji luksuznih dobrin. Uspeh Diorja kaže na uspešne strategije blagovne znamke in povpraševanje po visokokakovostnih izdelkih med premožnejšimi potrošniki.",
-      "analiza": "Luksuzni sektor pogosto velja za kazalnik zaupanja premožnejših potrošnikov in je lahko bolj odporen na splošne gospodarske upočasnitve kot masovni potrošniški trg. LVMH-jev povratek k rasti v segmentu mode in usnjenih izdelkov, ki je bil v zadnjih dveh letih pod pritiskom, je pomemben znak okrevanja. To kaže na uspešnost Diorjevih marketinških in produktnih strategij ter na splošno okrevanje povpraševanja po luksuznih dobrinah po pandemiji. Mehanizem vpliva je pozitiven sentiment za celoten luksuzni sektor in podjetja, ki proizvajajo visoko kakovostne, premium izdelke. Pomeni tudi, da imajo podjetja z močnimi blagovnimi znamkami in zvesto bazo strank večjo odpornost. V preteklosti so luksuzne blagovne znamke pokazale sposobnost hitrega okrevanja po krizah, pogosto zaradi globalne baze strank in močnega pozicioniranja. Za slovenskega dolgoročnega vlagatelja to pomeni, da je luksuzni sektor lahko zanimiv za diverzifikacijo portfelja, saj ponuja določeno mero odpornosti in potencial za rast, še posebej pri podjetjih z dokazano močjo blagovne znamke in globalno prisotnostjo.",
+      "povzetek": "Župan New Yorka, Zohran Mamdani, je napovedal nov načrt za boj proti krizi življenjskih stroškov, ki vključuje prodajo diskontnih košaric z živili v mestnih trgovinah s 30-odstotnim popustom. Ta pobuda je namenjena neposredni pomoči prebivalcem, ki se soočajo z visokimi cenami osnovnih življenjskih potrebščin. Cilj je zmanjšati finančno breme za gospodinjstva in izboljšati dostopnost hrane. Ukrep poudarja resnost problema draginje v velikih mestih in odziv lokalnih oblasti.",
+      "analiza": "Kriza življenjskih stroškov in visoka inflacija sta globalna problema, ki močno vplivata na kupno moč potrošnikov in s tem na celotno gospodarstvo. Pobuda župana Mamdanija v New Yorku je relevantna, saj predstavlja neposreden poskus lokalne vlade, da ublaži pritisk na prebivalce. Mehanizem vpliva na finančne trge je posreden: izboljšanje kupne moči prebivalcev New Yorka lahko kratkoročno spodbudi lokalno potrošnjo, kar bi lahko imelo pozitiven vpliv na nekatere sektorje maloprodaje. Vendar pa takšni ukrepi običajno niso dovolj veliki, da bi imeli makroekonomski vpliv na celotno državo ali globalne trge. Posledice so predvsem socialne, saj se izboljša dostopnost hrane za ranljive skupine. Za širše trge pa to pomeni, da so vlade še vedno pod pritiskom, da rešujejo problem draginje, kar lahko vpliva na fiskalne politike. Slovenski dolgoročni vlagatelj mora razumeti, da so tovrstni ukrepi odraz širših ekonomskih trendov in da lahko vplivajo na lokalno potrošnjo, vendar imajo omejen neposreden vpliv na globalne naložbe.",
       "vpliv": [
-        "Rast v segmentu mode in usnjenih izdelkov za LVMH",
-        "Izboljšanje sentimenta v luksuznem sektorju",
-        "Pokazatelj odpornosti potrošnikov z visoko kupno močjo",
-        "Potencialno okrevanje širšega potrošniškega diskrecijskega sektorja"
+        "Neposredna pomoč potrošnikom v New Yorku",
+        "Potencialno povečanje lokalne potrošnje",
+        "Omejen makroekonomski vpliv",
+        "Poudarek na vplivu draginje na prebivalstvo"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/7b1c40ef-4a21-47f3-a9dc-5d1444ec726a?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-27T15:50:11.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/mamdani-tackles-cost-of-living-crisis-in-new-york-with-30-discounts?traffic_source=rss",
+      "objavljeno": "2026-07-28T05:00:05.000Z"
     },
     {
-      "naslov": "Konsolidacija živilskih dobavnih verig lahko poslabša izbruhe ciklosporoze",
-      "sektor": "Potrošniki",
-      "smer": "negativno",
-      "intenziteta": 1,
-      "povzetek": "Strokovnjaki opozarjajo, da bi konsolidacija v živilski industriji lahko poslabšala izbruhe ciklosporoze, saj omogoča, da se kontaminirani pridelki razširijo na širše območje. Ko je dobavna veriga visoko centralizirana, lahko ena sama točka kontaminacije hitro prizadene veliko število potrošnikov in geografskih regij. To predstavlja tveganje za javno zdravje in lahko povzroči obsežne odpoklice izdelkov, kar ima finančne posledice za podjetja v živilski industriji. Poudarja tudi ranljivost sodobnih, globaliziranih dobavnih verig.",
-      "analiza": "Konsolidacija v živilski industriji, kjer nekaj velikih podjetij nadzoruje pomemben del proizvodnje in distribucije, prinaša učinkovitost, vendar tudi povečuje sistemska tveganja. V primeru kontaminacije, kot je izbruh ciklosporoze, se lahko problem hitro razširi po celotni dobavni verigi, kar je težje obvladati kot v bolj fragmentiranem sistemu. Mehanizem vpliva na finančne trge je posreden, vendar pomemben: potencialni odpoklici izdelkov lahko povzročijo znatne finančne izgube za proizvajalce in trgovce na drobno, vključno s stroški odpoklica, izgubo prodaje in poškodovanim ugledom blagovne znamke. Poleg tega lahko takšni dogodki sprožijo strožje regulativne ukrepe in povečan nadzor, kar poveča operativne stroške. V preteklosti so izbruhi bolezni, povezani s hrano, kot so E. coli ali salmonela, povzročili milijonske izgube in trajne spremembe v praksah industrije. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pri naložbah v živilski sektor pomembno oceniti ne le finančno uspešnost podjetij, temveč tudi njihove protokole za varnost hrane, upravljanje dobavne verige in sposobnost obvladovanja kriz. Diverzifikacija znotraj sektorja je priporočljiva.",
+      "naslov": "Nepričakovani zmagovalci kitajske odmevne IPO čiparskih podjetij",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Kljub širšemu padcu delnic čiparskih podjetij so nekateri deležniki v kitajskem sektorju čipov zabeležili izjemne dobičke. Skladi, ki jih upravlja lokalna vlada mesta Hefei, so ustvarili kar 5.000-odstotne dobičke z uvrstitvijo podjetja CXMT (ChangXin Memory Technologies) na borzo. To poudarja strateški pomen, ki ga Kitajska pripisuje razvoju domače industrije čipov in njenim prizadevanjem za tehnološko avtonomijo. Uspeh te IPO kaže na močno podporo države in potencial za visoke donose v specifičnih segmentih kitajskega tehnološkega sektorja.",
+      "analiza": "Medtem ko globalni trgi čipov doživljajo razprodajo zaradi \"AI jitters\", ta novica ponuja kontrastno sliko o specifičnih uspehih v kitajskem sektorju. Ozadje je strateška odločitev Kitajske, da zmanjša odvisnost od zahodnih tehnologij, še posebej na področju polprevodnikov, kar je pospešilo domače investicije in razvoj. Uspešna IPO podjetja CXMT in izjemni dobički hefejskih skladov so relevantni, saj kažejo na učinkovitost državne podpore in potencial za visoke donose v specifičnih, strateško pomembnih sektorjih. Mehanizem vpliva je, da državna podpora in strateške investicije ustvarjajo zaščiteno okolje za rast domačih podjetij, kar lahko privede do izjemnih donosov za zgodnje vlagatelje. Posledice so vidne v rasti delnic kitajskih čiparskih podjetij, ki so deležna te podpore, kar pa ne pomeni nujno globalnega trenda. To lahko tudi poveča konkurenco na globalnem trgu čipov dolgoročno. Za slovenskega dolgoročnega vlagatelja to poudarja pomen razumevanja lokalnih politik in strateških prioritet držav, ki lahko ustvarijo specifične priložnosti ali tveganja, ne glede na širše globalne trende.",
       "vpliv": [
-        "Povečano tveganje za izbruhe bolezni zaradi konsolidacije v živilski industriji",
-        "Potencialni odpoklici izdelkov in stroški za podjetja v živilski verigi",
-        "Morebiten vpliv na zaupanje potrošnikov in ugled blagovnih znamk",
-        "Možnost strožjih regulativnih ukrepov"
+        "5000-odstotni dobički za hefejske sklade",
+        "Poudarek na kitajski tehnološki avtonomiji",
+        "Potencial za visoke donose v strateških sektorjih",
+        "Povečana konkurenca na globalnem trgu čipov"
       ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/07/27/cyclospora-outbreak-food-industry-consolidation.html",
-      "objavljeno": "2026-07-27T17:19:29.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/d6439cb3-5a9e-4f6e-b5d6-b0e5621567c4?syn-25a6b1a6=1",
+      "objavljeno": "2026-07-28T05:35:45.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-27T17:25:31.343Z",
+    "posodobljenoOb": "2026-07-28T06:39:29.770Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7386.63,
-        "sprememba_pct": -0.34
+        "vrednost": 7413.18,
+        "sprememba_pct": 0.02
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 27850.514,
-        "sprememba_pct": -0.99
+        "vrednost": 28039.21,
+        "sprememba_pct": -0.32
       },
       {
         "simbol": "^GDAXI",
@@ -115,30 +133,30 @@
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 64931.19,
-        "sprememba_pct": 0.5
+        "vrednost": 62276.27,
+        "sprememba_pct": -4.09
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4074.4,
-        "sprememba_pct": 0.09,
+        "vrednost": 4047.5,
+        "sprememba_pct": -0.72,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 82.68,
-        "sprememba_pct": -7.42,
+        "vrednost": 82.04,
+        "sprememba_pct": -0.69,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 89.2,
-        "sprememba_pct": -7.83,
+        "vrednost": 87.66,
+        "sprememba_pct": -0.79,
         "enota": "USD/sod"
       }
     ],
@@ -146,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1373,
-        "sprememba_pct": -0.02
+        "vrednost": 1.1374,
+        "sprememba_pct": -0.01
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.647,
-        "sprememba_pct": -0.68,
+        "vrednost": 4.641,
+        "sprememba_pct": -0.81,
         "enota": "%"
       }
     ],
@@ -163,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 64969.09,
-        "sprememba_pct": -0.56,
+        "vrednost": 63484.61,
+        "sprememba_pct": -0.35,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 19.62,
-      "sprememba_pct": 5.6
+      "vrednost": 18.67,
+      "sprememba_pct": 0.48
     }
   }
 }

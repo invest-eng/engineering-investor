@@ -1,162 +1,144 @@
 {
-  "generiranoOb": "2026-07-26T16:42:46.653Z",
+  "generiranoOb": "2026-07-27T17:26:26.036Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-07-26",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, medtem ko so se ameriški indeksi v prvih dveh urah trgovanja gibali mešano. Nemški DAX je dan zaključil z rastjo za 1,36 % in dosegel 25099 točk. Na drugi strani Atlantika je širši indeks S&P 500 zabeležil minimalno rast za 0,05 % in se ustavil pri 7412 točkah, medtem ko je tehnološko usmerjeni Nasdaq 100 padel za 1,15 % na 28128 točk. Surovine so bile pod pritiskom, saj je cena nafte WTI padla za 3,12 % na 89,31 USD/sod, Brent pa za 3,88 % na 96,78 USD/sod, kljub novicam o posredovanju Omana za prekinitev napadov med ZDA in Iranom. Zlato je medtem pridobilo 0,51 % in se giblje pri 4070,80 USD/oz. Donosnost 10-letne ameriške državne obveznice je danes upadla za 0,51 % na 4,68 %, medtem ko je evro v primerjavi z dolarjem (EUR/USD) rahlo oslabel za 0,06 % na 1,1375. Bitcoin je zabeležil skromno rast za 0,72 % na 64775 USD, indeks volatilnosti VIX pa je padel za 0,64 % na 18,58. Vlagatelji bodo v prihodnjem tednu pozorno spremljali objave četrtletnih poslovnih rezultatov ključnih podjetij in morebitne izjave centralnih bank glede inflacije.",
+  "datum": "2026-07-27",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, medtem ko so ameriški indeksi po dveh urah trgovanja beležili padec. DAX je zrasel za 1,04 % in dosegel 25361 točk, medtem ko je S&P 500 padel za 0,34 % na 7387 točk, Nasdaq 100 pa je izgubil 0,99 % in se ustavil pri 27851 točkah. Ključna novica dneva je bil močan padec cen nafte, saj sta WTI nafta in Brent nafta izgubili 7,42 % oziroma 7,83 %, kar je posledica premora v napadih med ZDA in Iranom, kar je zmanjšalo geopolitične napetosti. Na drugi strani je sektor umetne inteligence še naprej gonilna sila rasti, čeprav se pojavljajo znaki povečane konkurence s Kitajske na področju čipov. Medtem ko je LVMH zabeležil rast v luksuznem segmentu, pa je raziskava pokazala realni padec povprečnih dohodkov, kar bi lahko vplivalo na potrošniško porabo. Vlagatelji bodo ta teden pozorno spremljali nadaljnje makroekonomske objave, še posebej tiste, ki se nanašajo na inflacijo in potrošniško porabo.",
   "novice": [
     {
-      "naslov": "Oman posreduje: ZDA in Iran prekinili napade, iščejo dogovor o Hormuzu",
-      "sektor": "Geopolitika",
+      "naslov": "Cene nafte strmo padle po premoru v napadih med ZDA in Iranom",
+      "sektor": "Geopolitika & Energetika",
       "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Ameriške sile in Iran so za drugo zaporedno noč prekinili medsebojne napade, medtem ko Oman aktivno posreduje pri iskanju dogovora o tranzitu skozi strateško pomembno ožino Hormuz. Novica, objavljena 2026-07-26T14:11:25.000Z, poudarja diplomatska prizadevanja za preprečitev vrnitve v obsežno vojno. Obe strani se vzdržata napadov, kar kaže na pripravljenost za pogovore. Posredovanje Omana je usmerjeno v vzpostavitev stabilnosti v regiji. Cilj je preprečiti morebitno eskalacijo konflikta, ki bi imela daljnosežne posledice.",
-      "analiza": "Ozadje te novice je dolgotrajen konflikt med ZDA in Iranom, ki je v zadnjem času doživel stopnjevanje napetosti z medsebojnimi napadi. Ožina Hormuz je ključna pomorska pot za svetovni transport nafte, saj skozi njo poteka približno petina svetovne oskrbe. Vsakršna motnja v tej regiji ima takojšen in dramatičen vpliv na cene nafte in globalno gospodarstvo. Trenutna prekinitev napadov, čeprav začasna, zmanjšuje geopolitično tveganje in s tem potencialni pritisk na cene nafte. Danes sta ceni nafte WTI in Brent kljub temu padli, in sicer WTI za 3,12 % na 89,31 USD/sod in Brent za 3,88 % na 96,78 USD/sod, kar bi lahko odražalo širše tržne dejavnike ali predhodno vgrajeno premijo tveganja, ki se zdaj zmanjšuje. Za delniške trge to pomeni zmanjšanje negotovosti, kar je na splošno pozitivno, čeprav je S&P 500 danes pridobil le 0,05 %. Za obveznice bi zmanjšanje geopolitičnih tveganj lahko pomenilo manj povpraševanja po varnih zatočiščih. Slovenski dolgoročni vlagatelj bi moral to novico razumeti kot pomemben dejavnik pri ocenjevanju tveganja v energetskem sektorju in širši geopolitični stabilnosti.",
+      "povzetek": "Cene nafte so danes doživele oster padec, saj so ZDA sporočile, da so prekinile napade na Iran, da bi omogočile prostor za pogovore. To je sprožilo upanje na rešitev konflikta in zmanjšalo tveganje za motnje v globalni oskrbi. Brent nafta, mednarodno merilo, je padla za 7,83 % na 89,20 USD za sod, medtem ko je WTI nafta zabeležila padec za 7,42 % na 82,68 USD za sod. Ta padec sledi preteklim tednom, ko so cene poskočile proti 100 USD za sod zaradi napadov Hutijev na savdske tankerje v Rdečem morju. Zmanjšanje geopolitičnih napetosti je ključno za stabilizacijo energetskih trgov.",
+      "analiza": "Ozadje tega dogodka so nedavni napadi Hutijev na tankerje v Rdečem morju, ki so povzročili precejšnje povečanje cen nafte in strah pred širšo eskalacijo konflikta na Bližnjem vzhodu. Premor v napadih ZDA in Iranu zmanjšuje tveganje za motnje v dobavnih verigah, še posebej v Hormuški ožini, ki je ključna za globalni transport nafte. Mehanizem vpliva na finančne trge je neposreden: zmanjšano geopolitično tveganje odstrani 'premijo za tveganje' iz cen nafte, kar povzroči padec. To ima več posledic: nižje cene nafte so pozitivne za potrošnike in podjetja, saj zmanjšujejo stroške goriva in transporta, kar lahko ublaži inflacijske pritiske. Po drugi strani pa to negativno vpliva na delnice naftnih in energetskih podjetij, ki so odvisne od visokih cen nafte. V preteklosti so podobni dogodki, kot so dogovori o jedrskem programu Irana ali prekinitve sovražnosti, vedno povzročili hitre odzive na trgu nafte. Za slovenskega dolgoročnega vlagatelja to pomeni potencialno nižje stroške energije, kar lahko posredno koristi podjetjem v panogah, ki so odvisne od transporta in energije. Pri naložbah v energetski sektor je pomembno upoštevati geopolitična tveganja in njihovo hitro spreminjanje.",
       "vpliv": [
-        "Zmanjšanje geopolitičnega tveganja v regiji",
-        "Potencialno stabiliziranje cen nafte (WTI -3.12%, Brent -3.88%)",
-        "Zmanjšanje negotovosti za globalne dobavne verige",
-        "Vpliv na delniške trge (S&P 500 +0.05%)"
+        "Cene nafte Brent padle za 7,83 % na 89,20 USD/sod",
+        "Cene WTI nafte padle za 7,42 % na 82,68 USD/sod",
+        "Nižje inflacijske projekcije in stroški transporta",
+        "Pritisk na delnice energetskega sektorja"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-26T14:11:25.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-27T15:08:37.000Z"
     },
     {
-      "naslov": "Rast dobičkov S&P 500 izjemna, a odvisna od enega podjetja",
-      "sektor": "Finance",
-      "smer": "mešano",
+      "naslov": "Delnice SpaceX padle na novo dno kljub brezhibnemu letu Starshipa",
+      "sektor": "Finance & Tehnologija",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Rast dobičkov podjetij v indeksu S&P 500 je v drugem četrtletju izjemna, vendar je ta rast v veliki meri pripisana uspešnosti enega samega podjetja. Novica, objavljena 2026-07-26T14:00:00.000Z, poudarja, da se trgi pripravljajo na najbolj obremenjen teden sezone objav dobičkov. To kaže na močno koncentracijo rasti v določenih segmentih trga. Analitiki opozarjajo na tveganje, ki ga prinaša taka odvisnost od posameznega podjetja.",
-      "analiza": "Ozadje te novice je trenutna sezona objav četrtletnih poslovnih rezultatov, ki je ključna za oceno zdravja podjetij in s tem celotnega delniškega trga. Izjemna rast dobičkov, ki jo poganja eno podjetje, kaže na močno polarizacijo znotraj S&P 500. To je relevantno, ker ustvarja iluzijo široke tržne moči, medtem ko je dejanska rast morda bolj ozka. Mehanizem vpliva je, da takšna koncentracija lahko privede do povečane volatilnosti in tveganja za celoten indeks, saj bi morebitne težave tega ključnega podjetja lahko imele nesorazmeren vpliv. S&P 500 je danes zabeležil rast za 0,05 % na 7412 točk, medtem ko je Nasdaq 100, ki je bolj izpostavljen tehnološkim gigantom, padel za 1,15 % na 28128 točk, kar morda kaže na različno uspešnost znotraj sektorjev. Za obveznice in valute neposrednega vpliva ni, posredno pa lahko močni dobički podpirajo splošno gospodarsko zaupanje. Slovenski dolgoročni vlagatelj bi moral biti pozoren na diverzifikacijo portfelja in ne bi smel precenjevati splošne moči trga, če je ta pogojena z uspešnostjo le nekaj podjetij.",
+      "povzetek": "Delnice podjetja SpaceX so padle na novo najnižjo raven, kljub skoraj brezhibnemu letu njihovega plovila Starship. To se dogaja v pričakovanju objave zaslužkov podjetja naslednji teden, ki bi lahko sprožila dodaten val prodaje, saj bodo nekateri insajderji kmalu lahko prodali svoje delnice. Vlagatelji pogosto prejmejo le majhen del delnic, ki jih zahtevajo pri IPO, če sploh kaj, kar poudarja ekskluzivnost in povpraševanje po delnicah SpaceX v preteklosti. Vendar pa trenutni padec kaže na morebitno prevrednotenje trga ali zaskrbljenost glede prihodnjih rezultatov.",
+      "analiza": "Padec delnic SpaceX, kljub tehničnemu uspehu Starshipa, poudarja razkorak med operativnimi dosežki in tržnim vrednotenjem, še posebej v zasebnih trgih, kjer so delnice pogosto visoko cenjene na podlagi pričakovanj. Prihajajoča objava zaslužkov in možnost, da bodo insajderji prodali svoje delnice, ustvarja pritisk na ceno. To je pogost pojav pri podjetjih, ki prehajajo iz zasebnega v javno lastništvo ali ko se sprostijo omejitve prodaje za zgodnje vlagatelje. Visoko povpraševanje po IPO alokacijah v preteklosti kaže na optimizem, vendar se trg zdaj sooča z realnostjo. Posledice vključujejo povečano volatilnost delnic SpaceX in morebitno previdnost vlagateljev pri ocenjevanju zasebnih tehnoloških podjetij. Zgodovinsko gledano so številna podjetja po IPO doživela padce, ko so se sprostile omejitve prodaje. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno biti previden pri naložbah v visoko rastna podjetja, ki so bila dolgo časa na zasebnem trgu, in razumeti, da so tržne dinamike lahko nepredvidljive, tudi ob uspešnih operativnih dosežkih.",
       "vpliv": [
-        "Pozitivna rast dobičkov za S&P 500 (+0.05%)",
-        "Povečana koncentracija tveganja v indeksu S&P 500",
-        "Potencialna volatilnost na delniških trgih",
-        "Različna uspešnost med sektorji (Nasdaq 100 -1.15%)"
+        "Padec delnic SpaceX na novo dno",
+        "Pričakovan pritisk ob objavi rezultatov in sprostitvi prodaje delnic insajderjem",
+        "Opozorilo o tveganjih pri IPO alokacijah in vrednotenju zasebnih podjetij"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-s-p-500s-earnings-growth-has-gone-bonkers-thanks-to-one-company-1c45b2ba?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-26T14:00:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/spacexs-stock-falls-to-a-new-low-despite-a-near-flawless-starship-flight-034a99ab?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-27T16:36:00.000Z"
     },
     {
-      "naslov": "Trg obveznic opozarja Fed na obrestne mere in inflacijo",
+      "naslov": "Povprečni dohodek se je v realnem smislu zmanjšal, kaže raziskava",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Trg državnih obveznic ZDA pošilja jasno opozorilo predsedniku Feda Kevinu Warshu glede obrestnih mer. Novica, objavljena 2026-07-26T12:30:00.000Z, navaja, da naraščajoči donosi obveznic kažejo, kako \"izjemno zaskrbljen\" je trg glede inflacije. Vlagatelji se sprašujejo, ali bo Fed svoje stroge izjave o inflaciji podprl z dejanskimi ukrepi. To kaže na pričakovanja trga glede morebitnega zaostrovanja monetarne politike.",
-      "analiza": "Ozadje te novice je vztrajna inflacija in negotovost glede prihodnjih potez ameriške centralne banke (Fed). Čeprav je donosnost 10-letne ameriške državne obveznice danes upadla za 0,51 % na 4,68 %, je članek objavljen prej in se nanaša na preteklo \"naraščanje donosov\", ki je trg zaskrbelo. To je relevantno, ker višje obrestne mere pomenijo dražje zadolževanje za podjetja in potrošnike, kar lahko upočasni gospodarsko rast. Mehanizem vpliva je, da pričakovanja glede inflacije in obrestnih mer neposredno vplivajo na vrednotenje delnic, saj višje diskontne stopnje zmanjšujejo sedanjo vrednost prihodnjih denarnih tokov. Za obveznice to pomeni, da so vlagatelji zahtevali višje donose za kompenzacijo inflacijskega tveganja. Za valute bi višje obrestne mere v ZDA lahko podprle dolar, čeprav je EUR/USD danes rahlo padel za 0,06 % na 1,1375. Slovenski dolgoročni vlagatelj mora razumeti, da so poteze Feda ključne za globalne finančne trge in lahko vplivajo na donose v vseh razredih sredstev, še posebej na delnice in obveznice.",
+      "intenziteta": 2,
+      "povzetek": "Objavljeni so bili rezultati raziskave o izdatkih gospodinjstev za obdobje 2023/24, ki kažejo, da se je povprečni dohodek v realnem smislu zmanjšal. To pomeni, da je kupna moč posameznikov in gospodinjstev upadla, saj so se cene blaga in storitev povišale hitreje kot dohodki. Takšen trend ima lahko pomembne posledice za potrošniško porabo, ki je ključna komponenta gospodarske rasti. Zmanjšanje realnih dohodkov lahko vodi v previdnejše potrošniške navade in zmanjšanje diskrecijske porabe.",
+      "analiza": "Zmanjšanje povprečnih dohodkov v realnem smislu je neposredna posledica inflacije, ki je v preteklih obdobjih erodirala kupno moč. Ta makroekonomski podatek je izjemno pomemben, saj potrošniška poraba predstavlja velik del bruto domačega proizvoda (BDP) v večini razvitih gospodarstev. Če imajo ljudje manj denarja za porabo po upoštevanju inflacije, se lahko upočasni gospodarska rast. To lahko vpliva na podjetja v različnih sektorjih, še posebej na tista, ki so močno odvisna od potrošniške porabe, kot so trgovina na drobno, gostinstvo in turizem. Centralne banke pozorno spremljajo takšne podatke, saj lahko vplivajo na njihove odločitve glede obrestnih mer. Zmanjšana kupna moč lahko dolgoročno vpliva tudi na varčevanje in naložbe. V preteklosti so obdobja zmanjšanja realnih dohodkov pogosto sovpadala z gospodarskimi upočasnitvami. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da je treba biti pozoren na podjetja, ki so izpostavljena cikličnim gibanjem potrošniške porabe, in razmisliti o naložbah v sektorje, ki so bolj odporni na nihanja v kupni moči, ali pa imajo močno cenovno moč.",
       "vpliv": [
-        "Zaskrbljenost trga glede inflacije",
-        "Pričakovanja glede morebitnega zaostrovanja monetarne politike Feda",
-        "Vpliv na donosnost obveznic (10Y US Treasury -0.51%)",
-        "Potencialni pritisk na vrednotenje delnic"
+        "Zmanjšana kupna moč potrošnikov",
+        "Potencialno upočasnjevanje gospodarske rasti",
+        "Pritisk na podjetja s potrošniško usmeritvijo",
+        "Vpliv na odločitve centralnih bank glede obrestnih mer"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-26T12:30:00.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cvgjqd9zz33o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-27T16:47:30.000Z"
     },
     {
-      "naslov": "Predlog zakona o \"AI Kill Switch\" v ZDA: Vpliv na tehnološki sektor",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
+      "naslov": "Diorjev preporod pomaga LVMH modnemu poslu k rasti",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Ameriški zakonodajalci so predlagali zakon \"AI Kill Switch Act\", ki bi vladi podelil pooblastila za ukazovanje podjetjem, naj izklopijo \"neobvladljive\" sisteme umetne inteligence. Novica, objavljena 2026-07-26T12:30:28.000Z, razlaga, kako bi ta zakon deloval. Cilj zakona je obvladovanje morebitnih tveganj, ki jih predstavljajo napredni sistemi AI. Takšna regulacija bi lahko imela pomembne posledice za razvoj in komercializacijo tehnologij AI.",
-      "analiza": "Ozadje predloga zakona je naraščajoča zaskrbljenost glede varnosti in etike umetne inteligence, vključno z možnostjo, da bi se napredni sistemi izmaknili nadzoru. To je relevantno, ker uvaja pomembno regulativno tveganje za celoten sektor umetne inteligence, ki je bil v zadnjih letih eden glavnih gonilcev rasti na delniških trgih. Mehanizem vpliva je, da bi takšna zakonodaja lahko povečala stroške razvoja in implementacije AI, upočasnila inovacije ali celo omejila uporabo nekaterih tehnologij. Nasdaq 100, ki močno vključuje podjetja s področja AI, je danes padel za 1,15 % na 28128 točk, kar bi lahko odražalo zaskrbljenost vlagateljev glede regulativnih pritiskov. Za obveznice in surovine neposrednega vpliva ni, posredno pa bi upočasnitev tehnološkega napredka lahko vplivala na gospodarsko rast. Slovenski dolgoročni vlagatelj, ki ima izpostavljenost do tehnološkega sektorja, bi moral biti pozoren na razvoj regulative na področju AI, saj lahko ta bistveno vpliva na prihodnje donose.",
+      "povzetek": "Diorjev preporod je pomagal ključnemu oddelku za modo in usnjene izdelke luksuznega velikana LVMH, da se je vrnil k rasti, prvič po skoraj dveh letih. Ta novica je pomembna, saj kaže na odpornost luksuznega sektorja in sposobnost blagovnih znamk, da se prilagodijo tržnim razmeram. Rast v tem segmentu je ključna za celotno poslovanje LVMH, ki je eden največjih igralcev v industriji luksuznih dobrin. Uspeh Diorja kaže na uspešne strategije blagovne znamke in povpraševanje po visokokakovostnih izdelkih med premožnejšimi potrošniki.",
+      "analiza": "Luksuzni sektor pogosto velja za kazalnik zaupanja premožnejših potrošnikov in je lahko bolj odporen na splošne gospodarske upočasnitve kot masovni potrošniški trg. LVMH-jev povratek k rasti v segmentu mode in usnjenih izdelkov, ki je bil v zadnjih dveh letih pod pritiskom, je pomemben znak okrevanja. To kaže na uspešnost Diorjevih marketinških in produktnih strategij ter na splošno okrevanje povpraševanja po luksuznih dobrinah po pandemiji. Mehanizem vpliva je pozitiven sentiment za celoten luksuzni sektor in podjetja, ki proizvajajo visoko kakovostne, premium izdelke. Pomeni tudi, da imajo podjetja z močnimi blagovnimi znamkami in zvesto bazo strank večjo odpornost. V preteklosti so luksuzne blagovne znamke pokazale sposobnost hitrega okrevanja po krizah, pogosto zaradi globalne baze strank in močnega pozicioniranja. Za slovenskega dolgoročnega vlagatelja to pomeni, da je luksuzni sektor lahko zanimiv za diverzifikacijo portfelja, saj ponuja določeno mero odpornosti in potencial za rast, še posebej pri podjetjih z dokazano močjo blagovne znamke in globalno prisotnostjo.",
       "vpliv": [
-        "Povečano regulativno tveganje za podjetja AI",
-        "Potencialno upočasnitev inovacij v sektorju AI",
-        "Negativen vpliv na tehnološke delnice (Nasdaq 100 -1.15%)",
-        "Povečani stroški razvoja in skladnosti"
+        "Rast v segmentu mode in usnjenih izdelkov za LVMH",
+        "Izboljšanje sentimenta v luksuznem sektorju",
+        "Pokazatelj odpornosti potrošnikov z visoko kupno močjo",
+        "Potencialno okrevanje širšega potrošniškega diskrecijskega sektorja"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/26/what-is-the-ai-kill-switch-act-proposed-in-the-us-and-how-will-it-work?traffic_source=rss",
-      "objavljeno": "2026-07-26T12:30:28.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/7b1c40ef-4a21-47f3-a9dc-5d1444ec726a?syn-25a6b1a6=1",
+      "objavljeno": "2026-07-27T15:50:11.000Z"
     },
     {
-      "naslov": "Izraelski zračni napad v Gazi ubil dva varnostna uradnika Hamasa",
-      "sektor": "Geopolitika",
+      "naslov": "Konsolidacija živilskih dobavnih verig lahko poslabša izbruhe ciklosporoze",
+      "sektor": "Potrošniki",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Izrael je izvedel zračni napad na vozilo v Gazi, pri čemer sta bila ubita dva varnostna uradnika Hamasa. Med mrtvimi je bil tudi vodja notranje varnosti Hamasa v osrednji Gazi. Novica, objavljena 2026-07-26T13:51:53.000Z, poudarja nadaljevanje konflikta v regiji. Takšni napadi prispevajo k stopnjevanju napetosti in nestabilnosti. Dogodek kaže na nadaljevanje vojaških operacij.",
-      "analiza": "Ozadje te novice je dolgotrajen in intenziven konflikt med Izraelom in Hamasom v Gazi. Ta dogodek je relevanten, ker predstavlja nadaljevanje vojaških operacij in prispeva k splošni nestabilnosti v regiji Bližnjega vzhoda. Mehanizem vpliva na finančne trge je predvsem prek povečanja geopolitičnega tveganja, kar lahko vpliva na cene surovin, še posebej nafte, zaradi bližine ključnih naftnih regij. Čeprav so cene nafte danes padle (WTI -3,12 %, Brent -3,88 %), bi lahko nadaljnja eskalacija hitro obrnila ta trend. Povečana nestabilnost lahko povzroči tudi beg kapitala v varnejša zatočišča, kot so zlato (+0,51 % na 4070,80 USD/oz) in nekatere državne obveznice (10Y US Treasury -0,51 % na 4,68 %). Za delniške trge to pomeni povečano negotovost in potencialni pritisk na podjetja, ki so izpostavljena regiji. Slovenski dolgoročni vlagatelj bi moral biti pozoren na razvoj dogodkov na Bližnjem vzhodu, saj imajo ti lahko širše posledice za globalno gospodarstvo in finančne trge.",
+      "intenziteta": 1,
+      "povzetek": "Strokovnjaki opozarjajo, da bi konsolidacija v živilski industriji lahko poslabšala izbruhe ciklosporoze, saj omogoča, da se kontaminirani pridelki razširijo na širše območje. Ko je dobavna veriga visoko centralizirana, lahko ena sama točka kontaminacije hitro prizadene veliko število potrošnikov in geografskih regij. To predstavlja tveganje za javno zdravje in lahko povzroči obsežne odpoklice izdelkov, kar ima finančne posledice za podjetja v živilski industriji. Poudarja tudi ranljivost sodobnih, globaliziranih dobavnih verig.",
+      "analiza": "Konsolidacija v živilski industriji, kjer nekaj velikih podjetij nadzoruje pomemben del proizvodnje in distribucije, prinaša učinkovitost, vendar tudi povečuje sistemska tveganja. V primeru kontaminacije, kot je izbruh ciklosporoze, se lahko problem hitro razširi po celotni dobavni verigi, kar je težje obvladati kot v bolj fragmentiranem sistemu. Mehanizem vpliva na finančne trge je posreden, vendar pomemben: potencialni odpoklici izdelkov lahko povzročijo znatne finančne izgube za proizvajalce in trgovce na drobno, vključno s stroški odpoklica, izgubo prodaje in poškodovanim ugledom blagovne znamke. Poleg tega lahko takšni dogodki sprožijo strožje regulativne ukrepe in povečan nadzor, kar poveča operativne stroške. V preteklosti so izbruhi bolezni, povezani s hrano, kot so E. coli ali salmonela, povzročili milijonske izgube in trajne spremembe v praksah industrije. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pri naložbah v živilski sektor pomembno oceniti ne le finančno uspešnost podjetij, temveč tudi njihove protokole za varnost hrane, upravljanje dobavne verige in sposobnost obvladovanja kriz. Diverzifikacija znotraj sektorja je priporočljiva.",
       "vpliv": [
-        "Povečana geopolitična nestabilnost na Bližnjem vzhodu",
-        "Potencialna rast cen nafte v primeru eskalacije",
-        "Povečano povpraševanje po varnih zatočiščih (zlato +0.51%)",
-        "Negativna percepcija tveganja za globalne trge"
+        "Povečano tveganje za izbruhe bolezni zaradi konsolidacije v živilski industriji",
+        "Potencialni odpoklici izdelkov in stroški za podjetja v živilski verigi",
+        "Morebiten vpliv na zaupanje potrošnikov in ugled blagovnih znamk",
+        "Možnost strožjih regulativnih ukrepov"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss",
-      "objavljeno": "2026-07-26T13:51:53.000Z"
-    },
-    {
-      "naslov": "Obsežni požari v Franciji in Španiji prisilili v evakuacijo 360.000 ljudi",
-      "sektor": "Okolje & Potrošniki",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Več kot 360.000 ljudi je bilo evakuiranih zaradi obsežnih gozdnih požarov, ki divjajo v Franciji in Španiji. Novica, objavljena 2026-07-26T14:49:41.000Z, navaja, da se francoske in španske oblasti trudijo zajeziti požare, ki so delno posledica zaporednih vročinskih valov. Požari povzročajo veliko materialno škodo in ogrožajo življenja. To je pomemben dogodek, ki kaže na vpliv podnebnih sprememb.",
-      "analiza": "Ozadje te novice so ekstremni vremenski pojavi, vključno z vročinskimi valovi, ki so v zadnjih letih postali pogostejši in intenzivnejši, še posebej v južni Evropi. To je relevantno, ker imajo takšni dogodki neposredne in dolgoročne ekonomske posledice. Mehanizem vpliva je večplasten: neposredna škoda na infrastrukturi in premoženju povzroča visoke stroške za zavarovalnice, kar lahko vpliva na njihovo dobičkonosnost in premije. Poleg tega požari negativno vplivajo na turizem, kmetijstvo in lokalna gospodarstva v prizadetih regijah. Za delniške trge to pomeni tveganje za podjetja v sektorjih, kot so zavarovalništvo, turizem in nepremičnine. Za obveznice in valute je vpliv posreden, saj lahko dolgoročni stroški podnebnih sprememb obremenijo javne finance in vplivajo na bonitetne ocene. Slovenski dolgoročni vlagatelj bi moral upoštevati, da so podnebne spremembe in z njimi povezani ekstremni vremenski dogodki vse pomembnejši dejavnik tveganja pri naložbenih odločitvah, zlasti pri podjetjih, ki so izpostavljena takšnim tveganjem.",
-      "vpliv": [
-        "Obsežna evakuacija prebivalstva (360.000 ljudi)",
-        "Visoki stroški za zavarovalnice in javne finance",
-        "Negativen vpliv na turizem in kmetijstvo v regiji",
-        "Povečana ozaveščenost o vplivih podnebnih sprememb"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/26/more-than-360000-evacuated-as-wildfires-rage-in-france-and-spain?traffic_source=rss",
-      "objavljeno": "2026-07-26T14:49:41.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/07/27/cyclospora-outbreak-food-industry-consolidation.html",
+      "objavljeno": "2026-07-27T17:19:29.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-26T16:41:41.939Z",
+    "posodobljenoOb": "2026-07-27T17:25:31.343Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7411.98,
-        "sprememba_pct": 0.05
+        "vrednost": 7386.63,
+        "sprememba_pct": -0.34
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 28128.342,
-        "sprememba_pct": -1.15
+        "vrednost": 27850.514,
+        "sprememba_pct": -0.99
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25099,
-        "sprememba_pct": 1.36
+        "vrednost": 25361.03,
+        "sprememba_pct": 1.04
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 64611.15,
-        "sprememba_pct": -2.73
+        "vrednost": 64931.19,
+        "sprememba_pct": 0.5
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4070.8,
-        "sprememba_pct": 0.51,
+        "vrednost": 4074.4,
+        "sprememba_pct": 0.09,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 89.31,
-        "sprememba_pct": -3.12,
+        "vrednost": 82.68,
+        "sprememba_pct": -7.42,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 96.78,
-        "sprememba_pct": -3.88,
+        "vrednost": 89.2,
+        "sprememba_pct": -7.83,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +146,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1375,
-        "sprememba_pct": -0.06
+        "vrednost": 1.1373,
+        "sprememba_pct": -0.02
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.679,
-        "sprememba_pct": -0.51,
+        "vrednost": 4.647,
+        "sprememba_pct": -0.68,
         "enota": "%"
       }
     ],
@@ -181,16 +163,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 64775,
-        "sprememba_pct": 0.72,
+        "vrednost": 64969.09,
+        "sprememba_pct": -0.56,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 18.58,
-      "sprememba_pct": -0.64
+      "vrednost": 19.62,
+      "sprememba_pct": 5.6
     }
   }
 }
