@@ -1,128 +1,145 @@
 {
-  "generiranoOb": "2026-07-29T16:52:19.344Z",
-  "izdaja": "afternoon",
-  "model": "gemini-2.5-flash",
+  "generiranoOb": "2026-07-29T17:01:37.897Z",
+  "izdaja": "popoldanska",
+  "model": "gemini-2.5-flash-lite",
   "tier": "free",
   "datum": "2026-07-29",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v znamenju previdnosti, medtem ko so ameriški trgi po dveh urah trgovanja kazali izrazit padec, predvsem zaradi zaostrovanja geopolitičnih napetosti in skrbi v tehnološkem sektorju. Nemški indeks DAX je dan zaključil praktično nespremenjen pri 25460 točkah (-0.01 %), medtem ko sta v ZDA S&P 500 in Nasdaq 100 beležila občutnejše padce, in sicer S&P 500 pri 7362 točkah (-0.90 %) ter Nasdaq 100 pri 27396 točkah (-1.32 %). Glavni dejavnik dneva je bil močan skok cen nafte, saj je WTI nafta poskočila za 6.56 % na 84.46 USD/sod, Brent nafta pa za 7.33 % na 90.25 USD/sod, kar je posledica Trumpovih groženj Iranu po napadu na ameriške sile in vstopa Saudove Arabije v vojaške operacije. Povečana negotovost se je odrazila tudi v indeksu volatilnosti VIX, ki je zrasel za 9.83 % na 20.00. Poleg geopolitike so vlagatelje skrbele tudi padajoče tehnološke delnice in regulativna negotovost na trgu kriptovalut, kjer je Bitcoin padel za 0.37 % na 63618 USD. Vlagatelji bodo ta teden pozorno spremljali nadaljnje objave četrtletnih rezultatov podjetij in morebitne izjave centralnih bankirjev glede inflacijskih pritiskov, ki jih prinašajo višje cene energentov.",
+  "povzetek": "Evropski trgi so se danes zaprli z mešanimi rezultati, medtem ko so se ameriški trgi odprli v rdečem. Indeks S&P 500 je zabeležil padec za 0,76 % in se nahaja pri 7373 točkah, medtem ko je Nasdaq 100 padel za 1,09 % na 27460 točk. DAX je ostal skoraj nespremenjen z minimalnim padcem za 0,01 % na 25460 točk. Ključne novice dneva vključujejo poročila o povečanih cenah nafte zaradi napetosti na Bližnjem vzhodu, kjer so ZDA in Savdska Arabija izvedle napade na milice, ki jih podpira Iran, medtem ko je Iran napadel ameriške sile v Jordaniji. Te napetosti so povzročile rast cen nafte Brent za 7,53 % na 90,42 USD za sod. V ZDA so tehnološke delnice pod pritasom, saj se pojavljajo skrbi glede morebitnega ohlajanja evforije okoli podjetij povezanih z umetno inteligenco. Bitcoin je zabeležil manjši padec za 0,20 % na 63724 USD. Vlagatelji bodo ta teden pozorno spremljali objave rezultatov podjetij in makroekonomske podatke, ki bi lahko vplivali na nadaljnjo smer trgov.",
   "novice": [
     {
-      "naslov": "Cene nafte poskočile nad 88 dolarjev po Trumpovih grožnjah Iranu zaradi napada",
+      "naslov": "Napetosti na Bližnjem vzhodu dvigajo cene nafte, ZDA in Savdska Arabija napadli milice",
       "sektor": "Energetika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Cene nafte so danes močno poskočile, potem ko je ameriški predsednik Donald Trump napovedal \"težke udarce\" kot povračilo za iranski napad z balističnimi raketami na ameriške sile na Bližnjem vzhodu. Cena WTI nafte je zrasla za 6.56 % na 84.46 USD/sod, medtem ko se je Brent nafta podražila za 7.33 % na 90.25 USD/sod. Napad, ki se je zgodil ponoči, je prekinil večdnevni premor v neposrednih zračnih napadih med stranema. Trumpova izjava, objavljena 2026-07-29T16:36:00.000Z, nakazuje na znatno eskalacijo napetosti v regiji.",
-      "analiza": "Ozadje dogajanja je dolgotrajna napetost med ZDA in Iranom, ki je danes dosegla novo stopnjo z iranskim raketnim napadom na ameriške sile. Takšni incidenti so v preteklosti že povzročali nestabilnost na globalnih trgih, še posebej na trgu energentov. Pomen tega dogodka je v neposredni grožnji dobavam nafte iz ključne regije Bližnjega vzhoda, ki je domovina pomembnih proizvajalcev. Mehanizem vpliva je preprost: povečana geopolitična tveganja v regiji, ki je ključna za globalno oskrbo z nafto, povzročijo strah pred motnjami v dobavah. To posledično dvigne cene nafte, saj se trgovci odzovejo na potencialno zmanjšanje ponudbe. Posledice so vidne v močnem skoku cen WTI in Brent nafte, kar povečuje inflacijske pritiske in stroške poslovanja za podjetja ter stroške življenja za potrošnike. Višje cene nafte lahko negativno vplivajo na delnice podjetij, ki so odvisna od transporta in energije, medtem ko lahko koristijo energetskim podjetjem. Obvezniški trgi lahko reagirajo s povečanjem donosnosti, saj se vlagatelji bojijo inflacije. Podoben primer je bil v začetku 2020-ih, ko so napetosti v regiji prav tako povzročile skok cen nafte. Vlagatelji bodo pozorno spremljali nadaljnje izjave in vojaške akcije obeh strani. Za slovenskega dolgoročnega vlagatelja to pomeni povečano negotovost in potencialno višje cene energentov, kar lahko vpliva na dobičkonosnost podjetij v portfelju in inflacijo v evroobmočju.",
+      "povzetek": "Cene nafte so se dvignile nad 88 USD za sod, potem ko je predsednik Donald Trump napovedal povračilne ukrepe ZDA zaradi presenečenja iranskega napada na ameriške sile na Bližnjem vzhodu. Savdska Arabija se je pridružila ameriškim napadom na milice, ki jih podpira Iran, v Iraku. Iran je izstrelil balistične rakete na ameriške sile v Jordaniji, s čimer je prekinil večdnevno premirje v neposrednih letalskih napadih. Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.",
+      "analiza": "Geopolitične napetosti na Bližnjem vzhodu, ki vključujejo Iran, ZDA in Savdsko Arabijo, neposredno vplivajo na globalne dobave nafte. Napadi na ključne pomorske poti, kot sta Hormuška ožina in Bab al-Mandeb, skupaj s situacijo v Črnem morju, lahko resno ogrozijo dobavo in povzročijo dvig cen za potrošnike. Zvišanje cen nafte WTI za 6,70 % na 84,57 USD za sod in Brent za 7,53 % na 90,42 USD za sod odraža neposreden tržni odziv na te dogodke. Ta rast cen energentov lahko povzroči inflacijske pritiske, kar bi lahko vplivalo na potrošniško porabo in poslovanje podjetij, ki so odvisna od transporta. Za slovenske vlagatelje to pomeni potencialno višje stroške energije in povečano inflacijo, kar lahko negativno vpliva na kupno moč in donosnost naložb, zlasti v sektorjih, ki so energetsko intenzivni.",
       "vpliv": [
-        "Cena WTI nafte +6.56 % na 84.46 USD/sod",
-        "Cena Brent nafte +7.33 % na 90.25 USD/sod",
-        "Povečani inflacijski pritiski",
-        "Povečana geopolitična tveganja"
+        "Rast cen nafte WTI in Brent",
+        "Povečana inflacijska tveganja",
+        "Potencialno zmanjšanje potrošniške porabe",
+        "Negativni vpliv na energetske odvisne sektorje"
       ],
       "vir": "MarketWatch",
       "vir_url": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
       "objavljeno": "2026-07-29T16:36:00.000Z"
     },
     {
-      "naslov": "Saudova Arabija se pridružuje ameriškim napadom na milice v Iraku",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Saudova Arabija se je pridružila ameriškim napadom na milice, ki jih podpira Iran v Iraku, kar dodatno zaostruje regionalne napetosti. To dejanje, objavljeno 2026-07-29T16:03:43.000Z, sledi iranskim napadom z balističnimi raketami na ameriške sile v Jordaniji, s čimer se je končal nekajdnevni premor v neposrednih zračnih napadih. Vpletenost Saudove Arabije širi obseg konflikta in kaže na usklajen odziv na iranske akcije. Ta razvoj dogodkov prispeva k splošni nestabilnosti na Bližnjem vzhodu.",
-      "analiza": "Vstop Saudove Arabije v vojaške operacije proti iranskim milicam v Iraku predstavlja pomembno eskalacijo konflikta na Bližnjem vzhodu. Ozadje je dolgotrajno rivalstvo med Saudovo Arabijo in Iranom za regionalno prevlado, ki se pogosto izraža preko posrednih konfliktov. Pomen tega dogodka je v širjenju geografskega obsega konflikta in vpletenosti ključnih regionalnih akterjev, kar povečuje verjetnost za širši regionalni spopad. Mehanizem vpliva je predvsem prek povečanja geopolitičnega tveganja, ki vpliva na cene nafte in globalno gospodarsko stabilnost. Vlagatelji se bojijo motenj v dobavnih verigah in morebitnega vpliva na globalno rast. Posledice so že vidne v rasti cen nafte, kot je bilo omenjeno pri WTI in Brent nafti, ki sta danes zrasli za 6.56 % oziroma 7.33 %. To lahko povzroči beg v varna zatočišča, kot so ameriške državne obveznice (čeprav so donosnosti danes zrasle, kar kaže na inflacijske skrbi), in zlato, čeprav je zlato danes padlo za 0.57 %. Delniški trgi, kot sta S&P 500 (-0.90 %) in Nasdaq 100 (-1.32 %), se odzivajo negativno na povečano negotovost. Podoben scenarij smo videli ob napadih na naftne objekte v Saudovi Arabiji v preteklosti. V prihodnje bo ključno spremljati odzive Irana in morebitno nadaljnjo eskalacijo. Za slovenskega dolgoročnega vlagatelja to pomeni potrebo po oceni tveganj, povezanih z geopolitično nestabilnostjo, ki lahko vpliva na globalne trge in s tem na vrednost naložb.",
-      "vpliv": [
-        "Povečana regionalna nestabilnost na Bližnjem vzhodu",
-        "Dodatni pritisk na cene nafte",
-        "Negativen vpliv na globalno gospodarsko rast",
-        "Povečana negotovost na delniških trgih"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/509a6a94-8342-49c1-965f-66abff88b977?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-29T16:03:43.000Z"
-    },
-    {
-      "naslov": "Tehnološke delnice padajo, vprašanja o prihodnosti revolucije umetne inteligence",
+      "naslov": "Tehnološke delnice padajo, skrbi glede umetne inteligence se povečujejo",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Ostri padci vrednosti proizvajalcev čipov so vlagatelje zaskrbeli, da evforija okoli podjetij, povezanih z umetno inteligenco, popušča. Nasdaq 100, indeks, ki je močno obremenjen s tehnološkimi delnicami, je danes padel za 1.32 % na 27396 točk, medtem ko je S&P 500 upadel za 0.90 % na 7362 točk. Novica, objavljena 2026-07-29T15:32:28.000Z, kaže na morebitno preusmeritev sentimenta vlagateljev, ki so v zadnjem obdobju močno poganjali rast tehnološkega sektorja, še posebej tistih, ki so povezani z AI.",
-      "analiza": "Ozadje trenutnega dogajanja je izjemna rast tehnološkega sektorja v zadnjih letih, ki jo je poganjala predvsem obljuba umetne inteligence in s tem povezano povpraševanje po čipih in infrastrukturi. Pomen današnjih padcev je v tem, da se vlagatelji morda začenjajo spraševati o vzdržnosti teh visokih vrednotenj in o realističnosti kratkoročnih dobičkov iz AI. Mehanizem vpliva je psihološki in fundamentalni: ko se sentiment obrne, vlagatelji hitro prodajajo delnice, ki so bile v preteklosti močno precenjene. Poleg tega lahko morebitno ohlajanje povpraševanja ali povečana konkurenca vplivata na dobičkonosnost podjetij. Posledice so vidne v padcih indeksov, kot sta Nasdaq 100 in S&P 500, kar kaže na širši pritisk na delniške trge. To lahko vpliva tudi na obveznice, saj se lahko vlagatelji preusmerijo v varnejše naložbe, kar bi lahko znižalo donosnosti. Podobne korekcije so se zgodile v preteklosti po obdobjih pretirane evforije, na primer med dot-com balonom. V prihodnje bo ključno spremljati poročila o dobičkih tehnoloških podjetij in morebitne spremembe v napovedih rasti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno ohraniti diverzificiran portfelj in se ne zanašati izključno na en sektor, saj so korekcije na trgu naraven del investicijskega cikla.",
+      "povzetek": "Nekatere tehnološke delnice strmo padajo, kar vzbuja pomisleke vlagateljev, da evforija okoli podjetij povezanih z umetno inteligenco (AI) morda slabi. Ostri padci v vrednosti proizvajalcev čipov so še posebej zaskrbljujoči. Vprašanje je, ali so modeli umetne inteligence sposobni samostojno izvajati hekerske napade, kar nakazuje na novo, potencialno problematično fazo razvoja AI.",
+      "analiza": "Padec vrednosti proizvajalcev čipov in splošno zmanjšanje vrednosti tehnoloških delnic, ki so bile gonilo rasti v zadnjih letih, nakazuje na morebitno korekcijo na trgu. To je lahko posledica zasičenosti trgov, višjih obrestnih mer ali pa preprosto realnejše ocene prihodnjega potenciala podjetij v zvezi z umetno inteligenco. Če se bo ta trend nadaljeval, bi to lahko negativno vplivalo na delniške sklade, ki so močno izpostavljeni tehnološkemu sektorju. Za slovenske vlagatelje to pomeni, da bi lahko njihove naložbe v tehnološke ETF-je ali posamezne delnice doživele zmanjšanje vrednosti. Vendar pa je pomembno ločiti med kratkoročnimi popravki in dolgoročnim trendom, saj AI še vedno predstavlja pomemben razvojni potencial. Vprašanje o zmožnosti AI za samostojne hekerske napade dodaja nov element tveganja in regulativne negotovosti.",
       "vpliv": [
-        "Nasdaq 100 -1.32 %",
-        "S&P 500 -0.90 %",
-        "Zaskrbljenost glede vrednotenj AI podjetij",
-        "Povečana tržna volatilnost (VIX +9.83 %)"
+        "Padec vrednosti tehnoloških delnic",
+        "Zmanjšanje vrednosti proizvajalcev čipov",
+        "Potencialni vpliv na tehnološke ETF-je",
+        "Povečana negotovost glede prihodnosti AI naložb"
       ],
       "vir": "BBC Business",
       "vir_url": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
       "objavljeno": "2026-07-29T15:32:28.000Z"
     },
     {
-      "naslov": "Ključni zakon o kriptovalutah ogrožen zaradi Trumpovih podvigov in bank",
-      "sektor": "Finance",
+      "naslov": "Globalne cene nafte presegajo 88 USD po iranskem napadu na ameriške sile",
+      "sektor": "Energetika",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Napredek zakona Clarity Act, ključnega predpisa za kriptovalute, je ogrožen v Senatu zaradi nasprotovanja bank in vpletenosti Donalda Trumpa v kripto podvige. Napredek tega zakona je maja pomagal dvigniti ceno Bitcoina, vendar se zdaj sooča z ovirami, kot je bilo objavljeno 2026-07-29T16:03:00.000Z. Bitcoin je danes zabeležil rahel padec za 0.37 % na 63618 USD. Neuspeh zakona bi lahko pomenil nadaljnjo regulativno negotovost za kripto trg.",
-      "analiza": "Ozadje te novice je prizadevanje za vzpostavitev jasnega regulativnega okvira za kriptovalute v ZDA, kar je ključno za institucionalno sprejemanje in stabilnost trga. Zakon Clarity Act je bil viden kot pomemben korak v tej smeri. Pomen trenutnega zastoja je v tem, da regulativna negotovost ostaja, kar lahko ovira rast in inovacije v kripto sektorju. Mehanizem vpliva je predvsem prek sentimenta in tveganja: vlagatelji so manj pripravljeni vlagati v sredstva, ki so podvržena nejasnim ali spreminjajočim se predpisom. Poleg tega lahko nasprotovanje bank kaže na lobistične pritiske, ki želijo ohraniti tradicionalni finančni sistem. Posledice so vidne v rahlem padcu Bitcoina, čeprav je trg kriptovalut znan po svoji volatilnosti. Dolgoročno bi pomanjkanje jasne regulacije lahko omejilo sprejemanje kriptovalut s strani večjih finančnih institucij. V preteklosti so regulativne novice pogosto povzročale velike premike na kripto trgih. V prihodnje bo ključno spremljati razprave v Senatu in morebitne kompromise. Za slovenskega dolgoročnega vlagatelja, ki razmišlja o kriptovalutah, to pomeni, da je regulativno tveganje še vedno pomemben dejavnik, ki ga je treba upoštevati pri ocenjevanju naložb v ta razred sredstev.",
+      "intenziteta": 3,
+      "povzetek": "Globalne cene nafte so presegale 88 USD za sod, potem ko je predsednik Donald Trump napovedal povračilne ukrepe ZDA po tem, ko je Iran ponoči napadel ameriške sile na Bližnjem vzhodu z balističnimi raketami. Savdska Arabija se je pridružila ameriškim napadom na milice, ki jih podpira Iran, v Iraku. Iran je izstrelil balistične rakete na ameriške sile v Jordaniji, s čimer je končal večdnevno premirje v neposrednih letalskih napadih.",
+      "analiza": "Eskalacija napetosti med Iranom in ZDA, skupaj s sodelovanjem Savdske Arabije, neposredno vpliva na ceno surove nafte. Napadi na ameriške sile in povračilni ukrepi ustvarjajo negotovost glede stabilnosti dobav nafte iz regije, ki je ključna za globalno oskrbo. Zvišanje cen nafte lahko vodi do višjih stroškov prevoza, proizvodnje in s tem do splošnega dviga cen blaga in storitev. To lahko negativno vpliva na podjetja, ki so odvisna od nizkih cen energije, kot so transportna podjetja, letalski prevozniki in proizvajalci, ki uporabljajo naftne derivate kot surovine. Za slovenske vlagatelje to pomeni potencialno višje stroške energije in inflacijske pritiske, kar lahko zmanjša kupno moč in vpliva na donosnost naložb. Obvezniške donosnosti, kot je 10-letna ameriška obveznica, so se že dvignile za 0,98 % na 4,65 %, kar odraža pričakovanja višje inflacije in morebitne strožje monetarne politike.",
       "vpliv": [
-        "Bitcoin -0.37 %",
-        "Povečana regulativna negotovost za kriptovalute",
-        "Omejen institucionalni sprejem kriptovalut",
-        "Potencialno zmanjšanje inovacij v kripto sektorju"
+        "Rast cen nafte Brent in WTI",
+        "Povečana inflacija",
+        "Višji stroški transporta in proizvodnje",
+        "Negativni vpliv na potrošniško povpraševanje"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/a-key-cryptocurrency-bill-could-flop-because-of-trumps-crypto-ventures-and-banks-objections-76b7445b?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-29T16:03:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-29T16:36:00.000Z"
     },
     {
-      "naslov": "Humana presega ocene, a ohranja napoved dobička, kar razočaralo vlagatelje",
+      "naslov": "Humana presegla pričakovanja, vendar ohranja napovedi dobička",
       "sektor": "Finance",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Podjetje Humana je v drugem četrtletju 2026 preseglo pričakovanja analitikov glede dobička na delnico, medtem ko so medicinski stroški ostali v skladu z napovedmi. Kljub temu je Humana ohranila svojo prilagojeno napoved dobička za leto 2026 pri vsaj 9 dolarjih na delnico, kar so nekateri analitiki označili kot \"razocaranje\" glede na visoka pričakovanja za zavarovalnice. Novica, objavljena 2026-07-29T16:18:04.000Z, kaže na previdnost podjetja glede prihodnjih dobičkov ali pa na to, da trg pričakuje še bolj optimistične rezultate.",
-      "analiza": "Ozadje te novice je sezona objav četrtletnih rezultatov, ki so ključni za oceno zdravja podjetij in celotnega gospodarstva. Humana, kot pomemben akter v zdravstvenem zavarovalništvu, je pod drobnogledom zaradi vpliva medicinskih stroškov in regulativnih sprememb. Pomen objave je v tem, da kljub dobrim rezultatom v tekočem četrtletju, vlagatelji niso bili zadovoljni z ohranjeno napovedjo dobička, saj so pričakovali dvig. To kaže na visoka pričakovanja trga, ki so pogosto vgrajena v ceno delnice. Mehanizem vpliva je prek sentimenta vlagateljev in vrednotenja delnic: če podjetje ne izpolni \"šepetajočih\" pričakovanj, tudi če uradno preseže ocene, se lahko delnica odzove negativno. To lahko vpliva na celoten sektor zdravstvenega zavarovalništva. Posledice so lahko padec cene delnice Humana in morebiten pritisk na druge zavarovalnice, ki bodo objavljale rezultate. Na širše trge vpliv ni neposreden, vendar lahko prispeva k splošni previdnosti vlagateljev. Podobne situacije so pogoste, ko podjetja objavijo \"dobre\" rezultate, a trg vseeno reagira negativno zaradi neizpolnjenih visokih pričakovanj. V prihodnje bo pomembno spremljati komentarje vodstva glede trendov medicinskih stroškov in morebitnih sprememb v regulativi. Za slovenskega dolgoročnega vlagatelja to poudarja pomen razumevanja, da so tržna pričakovanja ključna pri ocenjevanju uspešnosti podjetja, ne le absolutne številke.",
+      "povzetek": "Humana je v zadnjem četrtletju presegla pričakovanja analitikov glede dobička, medtem ko so stroški zdravstvenih storitev ostali v okviru napovedi. Podjetje je ohranilo svojo napoved prilagojenega dobička za leto 2026 v višini najmanj 9 USD na delnico, kar pa nekateri analitiki ocenjujejo kot 'razočaranje' glede na visoka pričakovanja za zavarovalnice.",
+      "analiza": "Rezultati podjetja Humana kažejo na odpornost v zdravstvenem zavarovalnem sektorju, kljub morebitnim pritiskom na stroške. Preseganje napovedi dobička je običajno pozitiven signal za delničarje, vendar ohranitev napovedi za celotno leto, ki jo nekateri ocenjujejo kot 'razočaranje', nakazuje na previdnost podjetja glede prihodnjih razmer. To bi lahko pomenilo, da se kljub trenutnim dobrim rezultatom soočajo z izzivi, kot so naraščajoči zdravstveni stroški ali spremembe v regulativnem okolju. Za slovenske vlagatelje, ki morda vlagajo v globalne sklade ali neposredno v ameriške delnice, je pomembno spremljati zdravstveni sektor, saj lahko uspešnost velikih igralcev, kot je Humana, vpliva na celoten sektor. Zanimivo bo spremljati, ali bodo drugi ponudniki zdravstvenih storitev poročali podobne rezultate in ali se bodo stroški zdravstvenega varstva nadaljevali v tej smeri.",
       "vpliv": [
-        "Razočaranje vlagateljev kljub preseženim ocenam dobička",
-        "Potencialni pritisk na delnico Humana",
-        "Visoka pričakovanja trga za sektor zdravstvenega zavarovalništva",
-        "Opozorilo na pomen 'šepetajočih' pričakovanj"
+        "Potencialno pozitiven vpliv na delnico Humana",
+        "Signal o stabilnosti v zdravstvenem zavarovalništvu",
+        "Skrbi glede prihodnjih stroškov zdravstvenega varstva",
+        "Vpliv na druge zavarovalnice v sektorju"
       ],
       "vir": "CNBC",
       "vir_url": "https://www.cnbc.com/2026/07/29/humana-hum-earnings-q2-2026.html",
       "objavljeno": "2026-07-29T16:18:04.000Z"
     },
     {
-      "naslov": "Cene nepremičnin v Las Vegasu zabeležile največji padec v državi",
-      "sektor": "Makro & Centralne banke",
+      "naslov": "Procter & Gamble zgrešil pričakovanja glede prihodkov, prostornina nespremenjena",
+      "sektor": "Potrošniki",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Med največjimi ameriškimi mesti je Las Vegas zabeležil največji padec cen nepremičnin, medtem ko je Chicago doživel največji porast. Ta podatek, objavljen 2026-07-29T15:45:00.000Z, čeprav specifičen za eno mesto, lahko služi kot indikator širših trendov na ameriškem nepremičninskem trgu. Padec cen v Las Vegasu poudarja regionalne razlike in morebitno ranljivost nekaterih trgov.",
-      "analiza": "Ozadje te novice je trenutno stanje na ameriškem nepremičninskem trgu, ki je pod vplivom višjih obrestnih mer in splošne gospodarske negotovosti. Pomen podatka o Las Vegasu je v tem, da gre za mesto, ki je v preteklosti doživljalo tako hitre rasti kot tudi ostre padce cen nepremičnin, kar ga dela občutljivega na spremembe v gospodarskem ciklu. Mehanizem vpliva je prek zaupanja potrošnikov in investitorjev: padec cen nepremičnin lahko zmanjša premoženje gospodinjstev, kar vpliva na potrošnjo, in povzroči previdnost pri novih investicijah. To lahko vpliva na delnice podjetij, povezanih z gradbeništvom, nepremičninami in hipotekami. Na obvezniške trge lahko vpliva prek pričakovanj o prihodnji monetarni politiki, saj bi šibak nepremičninski trg lahko centralno banko spodbudil k znižanju obrestnih mer. Podoben trend smo videli med finančno krizo leta 2008, ko so nepremičninski trgi igrali ključno vlogo. V prihodnje bo pomembno spremljati širše podatke o cenah nepremičnin v ZDA in odzive Federal Reserve. Za slovenskega dolgoročnega vlagatelja to pomeni, da je zdravje nepremičninskega trga pomemben indikator splošnega gospodarskega zdravja, ki lahko posredno vpliva na globalne delniške in obvezniške trge.",
+      "povzetek": "Procter & Gamble je poročal o četrtletnih rezultatih, ki presegajo pričakovanja glede dobička na delnico, vendar so prihodki pod pričakovanji analitikov, medtem ko je obseg prodaje ostal nespremenjen. Podjetje je sicer preseglo ocene dobička na delnico.",
+      "analiza": "Rezultati Procter & Gamble kažejo na mešano sliko v sektorju potrošniških dobrin. Medtem ko je podjetje uspelo zmanjšati stroške ali izboljšati marže, kar je pripomoglo k preseganju pričakovanj glede dobička na delnico, je zgrešilo pričakovanja glede prihodkov. Nespremenjena prostornina prodaje nakazuje na stagnacijo povpraševanja ali izgubo tržnega deleža v nekaterih segmentih. To je lahko posledica šibkejšega potrošniškega povpraševanja, povečane konkurence ali sprememb v nakupnih navadah potrošnikov. Za slovenske vlagatelje, ki imajo v portfeljih podjetja s področja potrošniških dobrin, je to lahko znak, da se sektor sooča z izzivi. Zanimivo bo spremljati, ali se bodo podobni trendi pokazali tudi pri drugih velikih podjetjih v tem sektorju, kot je na primer Nike, ki je v zadnjem času zabeležil 30% upad prodaje na Kitajskem.",
       "vpliv": [
-        "Največji padec cen nepremičnin v Las Vegasu",
-        "Indikator regionalnih razlik na nepremičninskem trgu ZDA",
-        "Potencialni vpliv na potrošnjo in investicije",
-        "Vpliv na delnice gradbenih in nepremičninskih podjetij"
+        "Negativni vpliv na delnico Procter & Gamble",
+        "Signal o morebitni stagnaciji povpraševanja po potrošniških dobrinah",
+        "Povečana konkurenca v sektorju",
+        "Potencialni vpliv na druge proizvajalce potrošniških dobrin"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html",
+      "objavljeno": "2026-07-29T14:53:03.000Z"
+    },
+    {
+      "naslov": "ZDA prepovedale uvoz kitajskih robotov zaradi varnostnih pomislekov",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Združene države so prepovedale uvoz novih kitajskih robotov zaradi varnostnih pomislekov. Ta ukrep je del širših prizadevanj ZDA za zmanjšanje odvisnosti od kitajske tehnologije. To bi lahko vplivalo na dobavne verige in povečalo stroške za podjetja, ki uporabljajo ali nameravajo uporabljati takšne robote.",
+      "analiza": "Prepoved uvoza kitajskih robotov s strani ZDA je še en znak zaostrovanja trgovinskih in tehnoloških napetosti med dvema največjima svetovnima gospodarstvoma. Ta poteza je del širše strategije ZDA za zmanjšanje odvisnosti od kitajske tehnologije, kar lahko vpliva na dobavne verige in poveča stroške za podjetja. Podobni ukrepi so bili že sprejeti glede polprevodnikov in druge napredne tehnologije. Za slovenske vlagatelje, ki imajo v portfeljih podjetja, ki so del globalnih dobavnih verig ali uporabljajo avtomatizacijo, to pomeni potencialno povečano negotovost in stroške. Povečana odvisnost od domačih ali drugih dobaviteljev lahko vodi do višjih cen in daljših dobavnih rokov. Vendar pa lahko ta premik tudi spodbuja inovacije in razvoj novih tehnologij zunaj Kitajske. Vrednost Bitcoina je danes padla za 0,20 % na 63724 USD, kar nakazuje na splošno previdnost vlagateljev v rizična sredstva, čeprav je vpliv te novice na kripto trge verjetno omejen.",
+      "vpliv": [
+        "Potencialno povečanje stroškov za podjetja",
+        "Motnje v dobavnih verigah",
+        "Spodbujanje domače proizvodnje robotov v ZDA",
+        "Povečana negotovost v mednarodni trgovini s tehnologijo"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/7/29/us-bans-imports-of-new-chinese-robots-over-security-concerns?traffic_source=rss",
+      "objavljeno": "2026-07-29T13:12:43.000Z"
+    },
+    {
+      "naslov": "SpaceX IPO alokacija: sreča ali dobra naložbena poteza?",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 1,
+      "povzetek": "Članek razpravlja o tem, ali je vlagatelj, ki je prejel polno alokacijo delnic v IPO-ju SpaceX, imel srečo ali je to rezultat dobre naložbene strategije. Vlagatelji pogosto prejmejo le majhen delež zahtevanih delnic, če sploh kakšen.",
+      "analiza": "Vprašanje o polni alokaciji delnic v IPO-ju SpaceX poudarja izjemno povpraševanje po delnicah nekaterih visoko rastočih tehnoloških podjetij. V takšnih primerih je pridobitev polne alokacije pogosto posledica sreče ali posebnih odnosov z investicijskimi bankami, ne pa nujno rezultat zgolj naložbene strategije. Uspeh naložbe bo odvisen od prihodnje uspešnosti SpaceX-a, vključno z njegovimi inovacijami, prihodki in splošnim stanjem na trgu. Za slovenske vlagatelje je to opomnik, da so IPO-ji pogosto zelo nestanovitni in da je dostop do njih lahko omejen. Vlaganje v posamezne IPO-je zahteva skrbno analizo in visoko toleranco do tveganja. V primeru SpaceX-a, ki deluje na področju vesoljskih tehnologij in satelitskega interneta, so potenciali visoki, vendar so tudi tveganja znatna. Vprašanje, ali je bila to dobra stava, bo mogoče odgovoriti šele čez čas, ko bodo znani dolgoročni rezultati podjetja.",
+      "vpliv": [
+        "Potencialno visoka donosnost za vlagatelje v SpaceX",
+        "Povečano zanimanje za vesoljske tehnologije",
+        "Omejena dostopnost do IPO-jev za povprečne vlagatelje",
+        "Visoko tveganje povezano z IPO naložbami"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/las-vegas-home-prices-post-largest-drop-in-the-nation-d39d6ecd?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-29T15:45:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-29T16:30:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-29T16:50:38.821Z",
+    "posodobljenoOb": "2026-07-29T17:00:17.199Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7361.64,
-        "sprememba_pct": -0.9
+        "vrednost": 7372.58,
+        "sprememba_pct": -0.76
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 27395.668,
-        "sprememba_pct": -1.32
+        "vrednost": 27460.352,
+        "sprememba_pct": -1.09
       },
       {
         "simbol": "^GDAXI",
@@ -141,22 +158,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4075.3,
-        "sprememba_pct": -0.57,
+        "vrednost": 4076.6,
+        "sprememba_pct": -0.54,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 84.46,
-        "sprememba_pct": 6.56,
+        "vrednost": 84.57,
+        "sprememba_pct": 6.7,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 90.25,
-        "sprememba_pct": 7.33,
+        "vrednost": 90.42,
+        "sprememba_pct": 7.53,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +181,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1387,
-        "sprememba_pct": -0.07
+        "vrednost": 1.1388,
+        "sprememba_pct": -0.06
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.651,
-        "sprememba_pct": 1.02,
+        "vrednost": 4.649,
+        "sprememba_pct": 0.98,
         "enota": "%"
       }
     ],
@@ -181,16 +198,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63618.49,
-        "sprememba_pct": -0.37,
+        "vrednost": 63724.29,
+        "sprememba_pct": -0.2,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 20,
-      "sprememba_pct": 9.83
+      "vrednost": 20.06,
+      "sprememba_pct": 10.16
     }
   }
 }
