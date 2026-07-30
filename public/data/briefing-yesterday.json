@@ -1,142 +1,179 @@
 {
-  "generiranoOb": "2026-07-28T17:15:26.874Z",
-  "izdaja": "afternoon",
-  "model": "gemini-2.5-flash",
+  "generiranoOb": "2026-07-29T17:01:37.897Z",
+  "izdaja": "popoldanska",
+  "model": "gemini-2.5-flash-lite",
   "tier": "free",
-  "datum": "2026-07-28",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanimi občutki, medtem ko so ameriški trgi po dveh urah trgovanja kazali različne smeri. Nemški indeks DAX je zrasel za 0.41 % na 25464 točk, medtem ko je širši ameriški indeks S&P 500 pridobil 0.32 % in dosegel 7437 točk. Nasdaq 100 pa je zabeležil padec za 0.73 % na 27833 točk, kar odraža nadaljevanje razprodaje delnic v sektorju umetne inteligence in čipov. Na surovinskih trgih je prišlo do občutnega padca cen nafte, saj je WTI nafta upadla za 4.93 % na 78.54 USD/sod, Brent nafta pa za 5.59 % na 83.42 USD/sod. Zlato je prav tako izgubilo vrednost, padlo je za 0.93 % na 4039.20 USD/oz. Med pomembnejšimi novicami dneva izstopa preiskava FTC proti Sheinu pred načrtovano IPO, medtem ko je Apple prvič presegel vrednost 5 bilijonov dolarjev. Vlagatelji bodo ta teden pozorno spremljali prihajajoče objave dobičkov velikih tehnoloških podjetij, ki lahko določijo nadaljnjo smer trga.",
+  "datum": "2026-07-29",
+  "povzetek": "Evropski trgi so se danes zaprli z mešanimi rezultati, medtem ko so se ameriški trgi odprli v rdečem. Indeks S&P 500 je zabeležil padec za 0,76 % in se nahaja pri 7373 točkah, medtem ko je Nasdaq 100 padel za 1,09 % na 27460 točk. DAX je ostal skoraj nespremenjen z minimalnim padcem za 0,01 % na 25460 točk. Ključne novice dneva vključujejo poročila o povečanih cenah nafte zaradi napetosti na Bližnjem vzhodu, kjer so ZDA in Savdska Arabija izvedle napade na milice, ki jih podpira Iran, medtem ko je Iran napadel ameriške sile v Jordaniji. Te napetosti so povzročile rast cen nafte Brent za 7,53 % na 90,42 USD za sod. V ZDA so tehnološke delnice pod pritasom, saj se pojavljajo skrbi glede morebitnega ohlajanja evforije okoli podjetij povezanih z umetno inteligenco. Bitcoin je zabeležil manjši padec za 0,20 % na 63724 USD. Vlagatelji bodo ta teden pozorno spremljali objave rezultatov podjetij in makroekonomske podatke, ki bi lahko vplivali na nadaljnjo smer trgov.",
   "novice": [
     {
-      "naslov": "Intenzivirana razprodaja delnic AI in čipov poganja Nasdaq 100 navzdol",
-      "sektor": "Tehnologija & AI",
+      "naslov": "Napetosti na Bližnjem vzhodu dvigajo cene nafte, ZDA in Savdska Arabija napadli milice",
+      "sektor": "Energetika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Razprodaja delnic v sektorju umetne inteligence (AI) se je danes intenzivirala, kar je povzročilo padec južnokorejskega borznega trga na najnižjo raven v treh mesecih. Vlagatelji so nadaljevali z odprodajo delnic proizvajalcev čipov, kot sta Samsung in SK Hynix, ki sta padla za več kot 10 %. Glavni razlog za zaskrbljenost so naraščajoče potrebe po financiranju širitev podatkovnih centrov med podjetji AI, kar povzroča visoko zadolženost. Nasdaq 100 je zaradi tega za kratek čas padel v območje korekcije, kar kaže na povečano previdnost pred prihajajočimi objavami dobičkov velikih tehnoloških podjetij. Alphabet in Tesla sta že občutila pritisk zaradi visokih stroškov AI, kar sproža vprašanja o prihodnosti Microsofta, Mete in Amazona.",
-      "analiza": "Ozadje trenutne razprodaje v sektorju AI in čipov leži v hitri rasti in visokih pričakovanjih, ki so v zadnjem obdobju poganjala vrednotenja teh podjetij. Vendar pa se zdaj pojavljajo pomisleki glede vzdržnosti teh visokih vrednotenj in ogromnih kapitalskih izdatkov, ki so potrebni za razvoj in širitev AI infrastrukture. Ta trend je relevanten, saj kaže na morebitno pregrevanje trga in preusmeritev fokusa vlagateljev od rasti k dobičkonosnosti in finančni stabilnosti. Mehanizem vpliva je neposreden: zaskrbljenost glede zadolženosti in donosnosti preusmerja kapital iz tveganih delnic AI in čipov v bolj varne naložbe. Posledično je Nasdaq 100 padel za 0.73 % na 27833 točk, medtem ko so delnice proizvajalcev čipov, kot sta Samsung in SK Hynix, doživele več kot 10-odstotni padec. To lahko vpliva tudi na obveznice, saj se povečujejo pomisleki glede kreditne sposobnosti podjetij, ki se močno zadolžujejo. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja ključna, saj so sektorji, ki so bili v preteklosti gonilna sila rasti, lahko podvrženi hitrim korekcijam, ko se spremenijo tržna pričakovanja glede dobičkonosnosti in rasti.",
+      "povzetek": "Cene nafte so se dvignile nad 88 USD za sod, potem ko je predsednik Donald Trump napovedal povračilne ukrepe ZDA zaradi presenečenja iranskega napada na ameriške sile na Bližnjem vzhodu. Savdska Arabija se je pridružila ameriškim napadom na milice, ki jih podpira Iran, v Iraku. Iran je izstrelil balistične rakete na ameriške sile v Jordaniji, s čimer je prekinil večdnevno premirje v neposrednih letalskih napadih. Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.",
+      "analiza": "Geopolitične napetosti na Bližnjem vzhodu, ki vključujejo Iran, ZDA in Savdsko Arabijo, neposredno vplivajo na globalne dobave nafte. Napadi na ključne pomorske poti, kot sta Hormuška ožina in Bab al-Mandeb, skupaj s situacijo v Črnem morju, lahko resno ogrozijo dobavo in povzročijo dvig cen za potrošnike. Zvišanje cen nafte WTI za 6,70 % na 84,57 USD za sod in Brent za 7,53 % na 90,42 USD za sod odraža neposreden tržni odziv na te dogodke. Ta rast cen energentov lahko povzroči inflacijske pritiske, kar bi lahko vplivalo na potrošniško porabo in poslovanje podjetij, ki so odvisna od transporta. Za slovenske vlagatelje to pomeni potencialno višje stroške energije in povečano inflacijo, kar lahko negativno vpliva na kupno moč in donosnost naložb, zlasti v sektorjih, ki so energetsko intenzivni.",
       "vpliv": [
-        "Nasdaq 100 padec za 0.73 %",
-        "Padec delnic čipov (Samsung, SK Hynix) za več kot 10 %",
-        "Povečana previdnost vlagateljev",
-        "Možen vpliv na obvezniške trge"
+        "Rast cen nafte WTI in Brent",
+        "Povečana inflacijska tveganja",
+        "Potencialno zmanjšanje potrošniške porabe",
+        "Negativni vpliv na energetske odvisne sektorje"
       ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung",
-      "objavljeno": "2026-07-28T16:43:37.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-29T16:36:00.000Z"
     },
     {
-      "naslov": "Apple dosegel vrednost 5 bilijonov dolarjev, izstopa med padcem AI delnic",
+      "naslov": "Tehnološke delnice padajo, skrbi glede umetne inteligence se povečujejo",
       "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Tehnološki velikan Apple je danes prvič v zgodovini presegel tržno kapitalizacijo 5 bilijonov dolarjev. Ta dosežek je še posebej izjemen v luči splošne razprodaje v sektorju čipov in umetne inteligence, ki je prizadela druge velike tehnološke družbe. Analitiki pripisujejo Applov uspeh predvsem njegovi relativno manjši porabi za razvoj in infrastrukturo AI v primerjavi z nekaterimi konkurenti. Vlagatelji v trenutnem negotornem okolju iščejo varnejša zatočišča, kar je Applu, ki velja za stabilnejše podjetje z močnim denarnim tokom, prineslo dodaten zagon. To kaže na preusmeritev kapitala z visoko tveganih, visoko rastočih AI delnic k podjetjem z bolj uveljavljenimi poslovnimi modeli.",
-      "analiza": "Applov preboj meje 5 bilijonov dolarjev tržne kapitalizacije je pomemben mejnik, ki odraža njegovo dominantno pozicijo v tehnološkem sektorju in zaupanje vlagateljev. V kontekstu trenutne razprodaje delnic AI in čipov, kjer so podjetja kot Alphabet in Tesla pod pritiskom zaradi visokih stroškov AI, Apple izstopa s svojo strategijo, ki ne vključuje enako agresivnih naložb v AI infrastrukturo. To je relevantno, saj nakazuje, da vlagatelji v času negotovosti iščejo podjetja z močnimi bilancami in preverjenimi poslovnimi modeli, ki so manj izpostavljena visokim kapitalskim izdatkom. Mehanizem vpliva je preusmeritev kapitala: ko se vlagatelji umikajo iz tveganih naložb, se zatekajo k podjetjem, ki veljajo za varnejša. Posledično je Apple pridobil vrednost, medtem ko je Nasdaq 100 v celoti padel. To lahko pomeni tudi pritisk na druge delnice, ki so močno vezane na AI. Za slovenskega dolgoročnega vlagatelja to poudarja pomen kakovosti in stabilnosti podjetja v portfelju, še posebej v obdobjih, ko se tržna dinamika spreminja in se vlagatelji osredotočajo na podjetja z robustnimi financami namesto zgolj na obljube o prihodnji rasti.",
+      "povzetek": "Nekatere tehnološke delnice strmo padajo, kar vzbuja pomisleke vlagateljev, da evforija okoli podjetij povezanih z umetno inteligenco (AI) morda slabi. Ostri padci v vrednosti proizvajalcev čipov so še posebej zaskrbljujoči. Vprašanje je, ali so modeli umetne inteligence sposobni samostojno izvajati hekerske napade, kar nakazuje na novo, potencialno problematično fazo razvoja AI.",
+      "analiza": "Padec vrednosti proizvajalcev čipov in splošno zmanjšanje vrednosti tehnoloških delnic, ki so bile gonilo rasti v zadnjih letih, nakazuje na morebitno korekcijo na trgu. To je lahko posledica zasičenosti trgov, višjih obrestnih mer ali pa preprosto realnejše ocene prihodnjega potenciala podjetij v zvezi z umetno inteligenco. Če se bo ta trend nadaljeval, bi to lahko negativno vplivalo na delniške sklade, ki so močno izpostavljeni tehnološkemu sektorju. Za slovenske vlagatelje to pomeni, da bi lahko njihove naložbe v tehnološke ETF-je ali posamezne delnice doživele zmanjšanje vrednosti. Vendar pa je pomembno ločiti med kratkoročnimi popravki in dolgoročnim trendom, saj AI še vedno predstavlja pomemben razvojni potencial. Vprašanje o zmožnosti AI za samostojne hekerske napade dodaja nov element tveganja in regulativne negotovosti.",
       "vpliv": [
-        "Apple presegel 5 bilijonov USD tržne kapitalizacije",
-        "Povečano zanimanje vlagateljev za stabilnejša tehnološka podjetja",
-        "Preusmeritev kapitala iz tveganih AI delnic"
+        "Padec vrednosti tehnoloških delnic",
+        "Zmanjšanje vrednosti proizvajalcev čipov",
+        "Potencialni vpliv na tehnološke ETF-je",
+        "Povečana negotovost glede prihodnosti AI naložb"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/024fb6a1-fb39-4b2d-be3e-2393ed62482a?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-28T14:54:16.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-07-29T15:32:28.000Z"
     },
     {
-      "naslov": "Shein pod preiskavo FTC pred načrtovano IPO v Hong Kongu",
+      "naslov": "Globalne cene nafte presegajo 88 USD po iranskem napadu na ameriške sile",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Globalne cene nafte so presegale 88 USD za sod, potem ko je predsednik Donald Trump napovedal povračilne ukrepe ZDA po tem, ko je Iran ponoči napadel ameriške sile na Bližnjem vzhodu z balističnimi raketami. Savdska Arabija se je pridružila ameriškim napadom na milice, ki jih podpira Iran, v Iraku. Iran je izstrelil balistične rakete na ameriške sile v Jordaniji, s čimer je končal večdnevno premirje v neposrednih letalskih napadih.",
+      "analiza": "Eskalacija napetosti med Iranom in ZDA, skupaj s sodelovanjem Savdske Arabije, neposredno vpliva na ceno surove nafte. Napadi na ameriške sile in povračilni ukrepi ustvarjajo negotovost glede stabilnosti dobav nafte iz regije, ki je ključna za globalno oskrbo. Zvišanje cen nafte lahko vodi do višjih stroškov prevoza, proizvodnje in s tem do splošnega dviga cen blaga in storitev. To lahko negativno vpliva na podjetja, ki so odvisna od nizkih cen energije, kot so transportna podjetja, letalski prevozniki in proizvajalci, ki uporabljajo naftne derivate kot surovine. Za slovenske vlagatelje to pomeni potencialno višje stroške energije in inflacijske pritiske, kar lahko zmanjša kupno moč in vpliva na donosnost naložb. Obvezniške donosnosti, kot je 10-letna ameriška obveznica, so se že dvignile za 0,98 % na 4,65 %, kar odraža pričakovanja višje inflacije in morebitne strožje monetarne politike.",
+      "vpliv": [
+        "Rast cen nafte Brent in WTI",
+        "Povečana inflacija",
+        "Višji stroški transporta in proizvodnje",
+        "Negativni vpliv na potrošniško povpraševanje"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-29T16:36:00.000Z"
+    },
+    {
+      "naslov": "Humana presegla pričakovanja, vendar ohranja napovedi dobička",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Humana je v zadnjem četrtletju presegla pričakovanja analitikov glede dobička, medtem ko so stroški zdravstvenih storitev ostali v okviru napovedi. Podjetje je ohranilo svojo napoved prilagojenega dobička za leto 2026 v višini najmanj 9 USD na delnico, kar pa nekateri analitiki ocenjujejo kot 'razočaranje' glede na visoka pričakovanja za zavarovalnice.",
+      "analiza": "Rezultati podjetja Humana kažejo na odpornost v zdravstvenem zavarovalnem sektorju, kljub morebitnim pritiskom na stroške. Preseganje napovedi dobička je običajno pozitiven signal za delničarje, vendar ohranitev napovedi za celotno leto, ki jo nekateri ocenjujejo kot 'razočaranje', nakazuje na previdnost podjetja glede prihodnjih razmer. To bi lahko pomenilo, da se kljub trenutnim dobrim rezultatom soočajo z izzivi, kot so naraščajoči zdravstveni stroški ali spremembe v regulativnem okolju. Za slovenske vlagatelje, ki morda vlagajo v globalne sklade ali neposredno v ameriške delnice, je pomembno spremljati zdravstveni sektor, saj lahko uspešnost velikih igralcev, kot je Humana, vpliva na celoten sektor. Zanimivo bo spremljati, ali bodo drugi ponudniki zdravstvenih storitev poročali podobne rezultate in ali se bodo stroški zdravstvenega varstva nadaljevali v tej smeri.",
+      "vpliv": [
+        "Potencialno pozitiven vpliv na delnico Humana",
+        "Signal o stabilnosti v zdravstvenem zavarovalništvu",
+        "Skrbi glede prihodnjih stroškov zdravstvenega varstva",
+        "Vpliv na druge zavarovalnice v sektorju"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/07/29/humana-hum-earnings-q2-2026.html",
+      "objavljeno": "2026-07-29T16:18:04.000Z"
+    },
+    {
+      "naslov": "Procter & Gamble zgrešil pričakovanja glede prihodkov, prostornina nespremenjena",
       "sektor": "Potrošniki",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Podjetje Shein, spletni trgovec s hitro modo, je razkrilo, da je pod preiskavo Zvezne trgovinske komisije (FTC) v ZDA, medtem ko se pripravlja na načrtovano javno ponudbo delnic (IPO) v Hong Kongu. Narava preiskave ni natančno pojasnjena, vendar takšna novica običajno povzroči zaskrbljenost med potencialnimi vlagatelji. Preiskave regulatornih organov lahko povzročijo zamude pri IPO, dodatne stroške in morebitne kazni, kar lahko negativno vpliva na vrednotenje podjetja. Shein je bil v preteklosti že pod drobnogledom zaradi delovnih pogojev in okoljskih praks, kar dodaja kompleksnost situaciji.",
-      "analiza": "Novica o preiskavi FTC proti Sheinu je pomembna, saj prihaja v ključnem trenutku, ko se podjetje pripravlja na eno največjih IPO v zadnjem času. Regulatorne preiskave so vedno vir negotovosti za podjetja, še posebej tista, ki so v fazi vstopa na borzo. Ozadje je povezano z naraščajočim nadzorom nad velikimi tehnološkimi in e-trgovinskimi podjetji, ki so pogosto obtožena nepoštenih poslovnih praks ali kršenja predpisov. Mehanizem vpliva je predvsem psihološki in finančni: negotovost glede izida preiskave lahko odvrne vlagatelje, zmanjša povpraševanje po delnicah in posledično zniža vrednotenje IPO. To lahko vpliva na delnice podjetja, ko bodo te na voljo, in na širši trg, če bi preiskava razkrila širše sistemske probleme. Za slovenskega dolgoročnega vlagatelja je to opomin, da je regulatorno tveganje pomemben dejavnik pri ocenjevanju naložb, še posebej pri podjetjih, ki delujejo v hitro rastočih, a pogosto manj reguliranih sektorjih, kot je hitra moda. Pomembno je spremljati izid preiskave in morebitne posledice za poslovni model podjetja.",
+      "povzetek": "Procter & Gamble je poročal o četrtletnih rezultatih, ki presegajo pričakovanja glede dobička na delnico, vendar so prihodki pod pričakovanji analitikov, medtem ko je obseg prodaje ostal nespremenjen. Podjetje je sicer preseglo ocene dobička na delnico.",
+      "analiza": "Rezultati Procter & Gamble kažejo na mešano sliko v sektorju potrošniških dobrin. Medtem ko je podjetje uspelo zmanjšati stroške ali izboljšati marže, kar je pripomoglo k preseganju pričakovanj glede dobička na delnico, je zgrešilo pričakovanja glede prihodkov. Nespremenjena prostornina prodaje nakazuje na stagnacijo povpraševanja ali izgubo tržnega deleža v nekaterih segmentih. To je lahko posledica šibkejšega potrošniškega povpraševanja, povečane konkurence ali sprememb v nakupnih navadah potrošnikov. Za slovenske vlagatelje, ki imajo v portfeljih podjetja s področja potrošniških dobrin, je to lahko znak, da se sektor sooča z izzivi. Zanimivo bo spremljati, ali se bodo podobni trendi pokazali tudi pri drugih velikih podjetjih v tem sektorju, kot je na primer Nike, ki je v zadnjem času zabeležil 30% upad prodaje na Kitajskem.",
       "vpliv": [
-        "Negativni vpliv na načrtovano IPO Sheina",
-        "Povečano regulatorno tveganje za podjetje",
-        "Morebitno zmanjšanje vrednotenja"
+        "Negativni vpliv na delnico Procter & Gamble",
+        "Signal o morebitni stagnaciji povpraševanja po potrošniških dobrinah",
+        "Povečana konkurenca v sektorju",
+        "Potencialni vpliv na druge proizvajalce potrošniških dobrin"
       ],
       "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/07/28/shein-discloses-its-under-investigation-by-the-ftc.html",
-      "objavljeno": "2026-07-28T17:12:52.000Z"
+      "vir_url": "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html",
+      "objavljeno": "2026-07-29T14:53:03.000Z"
     },
     {
-      "naslov": "UPS presegel pričakovanja in dvignil napoved, kljub izzivom v logistiki",
-      "sektor": "Potrošniki",
-      "smer": "pozitivno",
-      "intenziteta": 1,
-      "povzetek": "Podjetje UPS je v drugem četrtletju preseglo pričakovanja Wall Streeta glede dobička in prihodkov ter dvignilo svojo celoletno napoved. Čeprav podjetje pričakuje, da bodo domači prihodki v tretjem četrtletju ostali nespremenjeni, je izvršni direktor za CNBC izjavil, da so prebrodili 'neravnine'. To kaže na odpornost logističnega velikana kljub morebitnim gospodarskim izzivom in spremembam v potrošniških navadah. Uspeh UPS-a je pomemben pokazatelj stanja v sektorju dostave in širše v e-trgovini, saj je podjetje ključni akter v globalni dobavni verigi.",
-      "analiza": "Uspešno poslovanje UPS-a v drugem četrtletju in dvig celoletne napovedi je pozitivna novica, ki odraža moč podjetja in morebitno stabilizacijo v sektorju logistike. V ozadju je povečano povpraševanje po dostavnih storitvah, ki je bilo spodbudeno z rastjo e-trgovine, čeprav se je ta rast v zadnjem času umirila. Izjava izvršnega direktorja o prebroditvi 'neravnin' nakazuje na uspešno prilagajanje na spremenjene tržne pogoje. Mehanizem vpliva je neposreden: dobri poslovni rezultati in optimistična napoved običajno pozitivno vplivajo na delnice podjetja. To lahko služi tudi kot indikator za širše gospodarstvo, saj je UPS barometer potrošniške aktivnosti. Posledično lahko delnice UPS-a pridobijo vrednost, kar lahko vpliva tudi na delnice drugih logističnih in e-trgovinskih podjetij. Za slovenskega dolgoročnega vlagatelja je to signal, da so nekatera podjetja sposobna uspešno krmariti skozi negotove čase in ohranjati rast, kar poudarja pomen analize posameznih podjetij in njihovih poslovnih modelov, ne le splošnih tržnih trendov.",
-      "vpliv": [
-        "Pozitiven vpliv na delnice UPS-a",
-        "Indikator stabilnosti v sektorju logistike in e-trgovine",
-        "Dvig celoletne napovedi podjetja"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
-      "objavljeno": "2026-07-28T16:41:42.000Z"
-    },
-    {
-      "naslov": "Trumpova sprememba drže do Ukrajine in napetosti z Iranom in Izraelom",
+      "naslov": "ZDA prepovedale uvoz kitajskih robotov zaradi varnostnih pomislekov",
       "sektor": "Geopolitika",
-      "smer": "mešano",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Ameriški predsednik Trump je po srečanju z ukrajinskim predsednikom Zelenskim poročal o pozitivnem sestanku v Ovalni pisarni, kar nakazuje na morebitno spremembo njegove drže do Ukrajine in upanje Kijeva na svežo ameriško podporo proti Rusiji. Hkrati pa Trump izraža frustracijo z izraelskim premierjem Netanjahujem pred njunim srečanjem v Beli hiši, čeprav so pogovori z Iranom glede zamrznjenih sredstev napredovali. Iran je medtem zavrnil Trumpov načrt o kompenzaciji ladij iz zamrznjenih iranskih sredstev in opozoril ladje na prepoved tranzita skozi Hormuško ožino. Ta kompleksna geopolitična dinamika vpliva na globalno stabilnost in energetske trge.",
-      "analiza": "Geopolitični razvoj dogodkov, ki vključujejo ZDA, Ukrajino, Rusijo, Iran in Izrael, ima daljnosežne posledice za svetovne finančne trge. Morebitna sprememba Trumpove drže do Ukrajine bi lahko pomenila povečano vojaško in finančno pomoč, kar bi lahko stabiliziralo regijo, a hkrati zaostrilo odnose z Rusijo. To je relevantno, saj geopolitična stabilnost neposredno vpliva na zaupanje vlagateljev in cene surovin. Napetosti z Iranom in opozorila glede Hormuške ožine, ključne pomorske poti za nafto, lahko povzročijo nihanja cen nafte, čeprav so danes cene padle. Mehanizem vpliva je predvsem prek tveganja in negotovosti: povečana geopolitična tveganja običajno vodijo do bega v varnejša sredstva, kot so zlato (ki je danes padlo za 0.93 % na 4039.20 USD/oz, kar je lahko posledica drugih dejavnikov) in ameriške državne obveznice (donosnost 10-letne obveznice je padla za 0.93 % na 4.60 %). Posledično lahko to vpliva na delnice, še posebej v obrambnem in energetskem sektorju, ter na valute. Za slovenskega dolgoročnega vlagatelja je ključno razumeti, da geopolitični dogodki ustvarjajo volatilnost in tveganje, kar zahteva premišljeno diverzifikacijo in spremljanje globalnih političnih trendov, saj lahko ti bistveno vplivajo na vrednost naložb v različnih regijah in sektorjih.",
+      "povzetek": "Združene države so prepovedale uvoz novih kitajskih robotov zaradi varnostnih pomislekov. Ta ukrep je del širših prizadevanj ZDA za zmanjšanje odvisnosti od kitajske tehnologije. To bi lahko vplivalo na dobavne verige in povečalo stroške za podjetja, ki uporabljajo ali nameravajo uporabljati takšne robote.",
+      "analiza": "Prepoved uvoza kitajskih robotov s strani ZDA je še en znak zaostrovanja trgovinskih in tehnoloških napetosti med dvema največjima svetovnima gospodarstvoma. Ta poteza je del širše strategije ZDA za zmanjšanje odvisnosti od kitajske tehnologije, kar lahko vpliva na dobavne verige in poveča stroške za podjetja. Podobni ukrepi so bili že sprejeti glede polprevodnikov in druge napredne tehnologije. Za slovenske vlagatelje, ki imajo v portfeljih podjetja, ki so del globalnih dobavnih verig ali uporabljajo avtomatizacijo, to pomeni potencialno povečano negotovost in stroške. Povečana odvisnost od domačih ali drugih dobaviteljev lahko vodi do višjih cen in daljših dobavnih rokov. Vendar pa lahko ta premik tudi spodbuja inovacije in razvoj novih tehnologij zunaj Kitajske. Vrednost Bitcoina je danes padla za 0,20 % na 63724 USD, kar nakazuje na splošno previdnost vlagateljev v rizična sredstva, čeprav je vpliv te novice na kripto trge verjetno omejen.",
       "vpliv": [
-        "Potencialna sprememba ameriške podpore Ukrajini",
-        "Napetosti z Iranom in grožnje za Hormuško ožino",
-        "Vpliv na cene nafte in zlata",
-        "Padec donosnosti 10Y US Treasury za 0.93 %"
+        "Potencialno povečanje stroškov za podjetja",
+        "Motnje v dobavnih verigah",
+        "Spodbujanje domače proizvodnje robotov v ZDA",
+        "Povečana negotovost v mednarodni trgovini s tehnologijo"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/5dca4c81-be8a-4555-971f-181eebf53e62?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-28T16:45:51.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/7/29/us-bans-imports-of-new-chinese-robots-over-security-concerns?traffic_source=rss",
+      "objavljeno": "2026-07-29T13:12:43.000Z"
+    },
+    {
+      "naslov": "SpaceX IPO alokacija: sreča ali dobra naložbena poteza?",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 1,
+      "povzetek": "Članek razpravlja o tem, ali je vlagatelj, ki je prejel polno alokacijo delnic v IPO-ju SpaceX, imel srečo ali je to rezultat dobre naložbene strategije. Vlagatelji pogosto prejmejo le majhen delež zahtevanih delnic, če sploh kakšen.",
+      "analiza": "Vprašanje o polni alokaciji delnic v IPO-ju SpaceX poudarja izjemno povpraševanje po delnicah nekaterih visoko rastočih tehnoloških podjetij. V takšnih primerih je pridobitev polne alokacije pogosto posledica sreče ali posebnih odnosov z investicijskimi bankami, ne pa nujno rezultat zgolj naložbene strategije. Uspeh naložbe bo odvisen od prihodnje uspešnosti SpaceX-a, vključno z njegovimi inovacijami, prihodki in splošnim stanjem na trgu. Za slovenske vlagatelje je to opomnik, da so IPO-ji pogosto zelo nestanovitni in da je dostop do njih lahko omejen. Vlaganje v posamezne IPO-je zahteva skrbno analizo in visoko toleranco do tveganja. V primeru SpaceX-a, ki deluje na področju vesoljskih tehnologij in satelitskega interneta, so potenciali visoki, vendar so tudi tveganja znatna. Vprašanje, ali je bila to dobra stava, bo mogoče odgovoriti šele čez čas, ko bodo znani dolgoročni rezultati podjetja.",
+      "vpliv": [
+        "Potencialno visoka donosnost za vlagatelje v SpaceX",
+        "Povečano zanimanje za vesoljske tehnologije",
+        "Omejena dostopnost do IPO-jev za povprečne vlagatelje",
+        "Visoko tveganje povezano z IPO naložbami"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-29T16:30:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-28T17:14:31.344Z",
+    "posodobljenoOb": "2026-07-29T17:00:17.199Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7436.56,
-        "sprememba_pct": 0.32
+        "vrednost": 7372.58,
+        "sprememba_pct": -0.76
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 27833.484,
-        "sprememba_pct": -0.73
+        "vrednost": 27460.352,
+        "sprememba_pct": -1.09
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25464.01,
-        "sprememba_pct": 0.41
+        "vrednost": 25460.48,
+        "sprememba_pct": -0.01
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 62364.92,
-        "sprememba_pct": -3.95
+        "vrednost": 61434.19,
+        "sprememba_pct": -1.49
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4039.2,
-        "sprememba_pct": -0.93,
+        "vrednost": 4076.6,
+        "sprememba_pct": -0.54,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 78.54,
-        "sprememba_pct": -4.93,
+        "vrednost": 84.57,
+        "sprememba_pct": 6.7,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 83.42,
-        "sprememba_pct": -5.59,
+        "vrednost": 90.42,
+        "sprememba_pct": 7.53,
         "enota": "USD/sod"
       }
     ],
@@ -144,16 +181,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1397,
-        "sprememba_pct": 0.19
+        "vrednost": 1.1388,
+        "sprememba_pct": -0.06
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.598,
-        "sprememba_pct": -0.93,
+        "vrednost": 4.649,
+        "sprememba_pct": 0.98,
         "enota": "%"
       }
     ],
@@ -161,16 +198,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63740.34,
-        "sprememba_pct": 0.05,
+        "vrednost": 63724.29,
+        "sprememba_pct": -0.2,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 17.94,
-      "sprememba_pct": -3.91
+      "vrednost": 20.06,
+      "sprememba_pct": 10.16
     }
   }
 }
