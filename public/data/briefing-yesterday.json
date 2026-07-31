@@ -1,179 +1,162 @@
 {
-  "generiranoOb": "2026-07-29T17:01:37.897Z",
-  "izdaja": "popoldanska",
-  "model": "gemini-2.5-flash-lite",
+  "generiranoOb": "2026-07-30T17:12:57.996Z",
+  "izdaja": "afternoon",
+  "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-07-29",
-  "povzetek": "Evropski trgi so se danes zaprli z mešanimi rezultati, medtem ko so se ameriški trgi odprli v rdečem. Indeks S&P 500 je zabeležil padec za 0,76 % in se nahaja pri 7373 točkah, medtem ko je Nasdaq 100 padel za 1,09 % na 27460 točk. DAX je ostal skoraj nespremenjen z minimalnim padcem za 0,01 % na 25460 točk. Ključne novice dneva vključujejo poročila o povečanih cenah nafte zaradi napetosti na Bližnjem vzhodu, kjer so ZDA in Savdska Arabija izvedle napade na milice, ki jih podpira Iran, medtem ko je Iran napadel ameriške sile v Jordaniji. Te napetosti so povzročile rast cen nafte Brent za 7,53 % na 90,42 USD za sod. V ZDA so tehnološke delnice pod pritasom, saj se pojavljajo skrbi glede morebitnega ohlajanja evforije okoli podjetij povezanih z umetno inteligenco. Bitcoin je zabeležil manjši padec za 0,20 % na 63724 USD. Vlagatelji bodo ta teden pozorno spremljali objave rezultatov podjetij in makroekonomske podatke, ki bi lahko vplivali na nadaljnjo smer trgov.",
+  "datum": "2026-07-30",
+  "povzetek": "Evropski trgi so zaključili dan z mešanimi občutki, medtem ko so ameriški trgi odprli v pozitivnem tonu. DAX je danes zaključil z rastjo za 0.60 % pri 25612 točkah, medtem ko je S&P 500 po dveh urah trgovanja beležil rast za 1.44 % pri 7421 točkah, Nasdaq 100 pa je poskočil za 3.09 % na 28033 točk, predvsem zaradi močnega nastopa tehnološkega sektorja. Na surovinskih trgih je zlato pridobilo 1.75 % in se giblje pri 4168.80 USD/oz, medtem ko sta ceni nafte WTI in Brent zabeležili manjši padec, WTI na 84.10 USD/sod (-0.43 %) in Brent na 89.72 USD/sod (-1.12 %), kljub naraščajočim geopolitičnim napetostim v zvezi z Iranom in incidentom v Poljski. Evro se je okrepil proti dolarju, EUR/USD je pri 1.1527 (+0.54 %), donosnost 10-letne ameriške obveznice pa je zrasla za 0.80 % na 4.66 %. Indeks volatilnosti VIX je padel za 12.49 % na 18.08, kar kaže na zmanjšanje kratkoročne negotovosti. Vlagatelji bodo ta teden pozorno spremljali nadaljnje objave o inflaciji v evroobmočju.",
   "novice": [
     {
-      "naslov": "Napetosti na Bližnjem vzhodu dvigajo cene nafte, ZDA in Savdska Arabija napadli milice",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Cene nafte so se dvignile nad 88 USD za sod, potem ko je predsednik Donald Trump napovedal povračilne ukrepe ZDA zaradi presenečenja iranskega napada na ameriške sile na Bližnjem vzhodu. Savdska Arabija se je pridružila ameriškim napadom na milice, ki jih podpira Iran, v Iraku. Iran je izstrelil balistične rakete na ameriške sile v Jordaniji, s čimer je prekinil večdnevno premirje v neposrednih letalskih napadih. Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.",
-      "analiza": "Geopolitične napetosti na Bližnjem vzhodu, ki vključujejo Iran, ZDA in Savdsko Arabijo, neposredno vplivajo na globalne dobave nafte. Napadi na ključne pomorske poti, kot sta Hormuška ožina in Bab al-Mandeb, skupaj s situacijo v Črnem morju, lahko resno ogrozijo dobavo in povzročijo dvig cen za potrošnike. Zvišanje cen nafte WTI za 6,70 % na 84,57 USD za sod in Brent za 7,53 % na 90,42 USD za sod odraža neposreden tržni odziv na te dogodke. Ta rast cen energentov lahko povzroči inflacijske pritiske, kar bi lahko vplivalo na potrošniško porabo in poslovanje podjetij, ki so odvisna od transporta. Za slovenske vlagatelje to pomeni potencialno višje stroške energije in povečano inflacijo, kar lahko negativno vpliva na kupno moč in donosnost naložb, zlasti v sektorjih, ki so energetsko intenzivni.",
-      "vpliv": [
-        "Rast cen nafte WTI in Brent",
-        "Povečana inflacijska tveganja",
-        "Potencialno zmanjšanje potrošniške porabe",
-        "Negativni vpliv na energetske odvisne sektorje"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-29T16:36:00.000Z"
-    },
-    {
-      "naslov": "Tehnološke delnice padajo, skrbi glede umetne inteligence se povečujejo",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Nekatere tehnološke delnice strmo padajo, kar vzbuja pomisleke vlagateljev, da evforija okoli podjetij povezanih z umetno inteligenco (AI) morda slabi. Ostri padci v vrednosti proizvajalcev čipov so še posebej zaskrbljujoči. Vprašanje je, ali so modeli umetne inteligence sposobni samostojno izvajati hekerske napade, kar nakazuje na novo, potencialno problematično fazo razvoja AI.",
-      "analiza": "Padec vrednosti proizvajalcev čipov in splošno zmanjšanje vrednosti tehnoloških delnic, ki so bile gonilo rasti v zadnjih letih, nakazuje na morebitno korekcijo na trgu. To je lahko posledica zasičenosti trgov, višjih obrestnih mer ali pa preprosto realnejše ocene prihodnjega potenciala podjetij v zvezi z umetno inteligenco. Če se bo ta trend nadaljeval, bi to lahko negativno vplivalo na delniške sklade, ki so močno izpostavljeni tehnološkemu sektorju. Za slovenske vlagatelje to pomeni, da bi lahko njihove naložbe v tehnološke ETF-je ali posamezne delnice doživele zmanjšanje vrednosti. Vendar pa je pomembno ločiti med kratkoročnimi popravki in dolgoročnim trendom, saj AI še vedno predstavlja pomemben razvojni potencial. Vprašanje o zmožnosti AI za samostojne hekerske napade dodaja nov element tveganja in regulativne negotovosti.",
-      "vpliv": [
-        "Padec vrednosti tehnoloških delnic",
-        "Zmanjšanje vrednosti proizvajalcev čipov",
-        "Potencialni vpliv na tehnološke ETF-je",
-        "Povečana negotovost glede prihodnosti AI naložb"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-07-29T15:32:28.000Z"
-    },
-    {
-      "naslov": "Globalne cene nafte presegajo 88 USD po iranskem napadu na ameriške sile",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Globalne cene nafte so presegale 88 USD za sod, potem ko je predsednik Donald Trump napovedal povračilne ukrepe ZDA po tem, ko je Iran ponoči napadel ameriške sile na Bližnjem vzhodu z balističnimi raketami. Savdska Arabija se je pridružila ameriškim napadom na milice, ki jih podpira Iran, v Iraku. Iran je izstrelil balistične rakete na ameriške sile v Jordaniji, s čimer je končal večdnevno premirje v neposrednih letalskih napadih.",
-      "analiza": "Eskalacija napetosti med Iranom in ZDA, skupaj s sodelovanjem Savdske Arabije, neposredno vpliva na ceno surove nafte. Napadi na ameriške sile in povračilni ukrepi ustvarjajo negotovost glede stabilnosti dobav nafte iz regije, ki je ključna za globalno oskrbo. Zvišanje cen nafte lahko vodi do višjih stroškov prevoza, proizvodnje in s tem do splošnega dviga cen blaga in storitev. To lahko negativno vpliva na podjetja, ki so odvisna od nizkih cen energije, kot so transportna podjetja, letalski prevozniki in proizvajalci, ki uporabljajo naftne derivate kot surovine. Za slovenske vlagatelje to pomeni potencialno višje stroške energije in inflacijske pritiske, kar lahko zmanjša kupno moč in vpliva na donosnost naložb. Obvezniške donosnosti, kot je 10-letna ameriška obveznica, so se že dvignile za 0,98 % na 4,65 %, kar odraža pričakovanja višje inflacije in morebitne strožje monetarne politike.",
-      "vpliv": [
-        "Rast cen nafte Brent in WTI",
-        "Povečana inflacija",
-        "Višji stroški transporta in proizvodnje",
-        "Negativni vpliv na potrošniško povpraševanje"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-29T16:36:00.000Z"
-    },
-    {
-      "naslov": "Humana presegla pričakovanja, vendar ohranja napovedi dobička",
-      "sektor": "Finance",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Humana je v zadnjem četrtletju presegla pričakovanja analitikov glede dobička, medtem ko so stroški zdravstvenih storitev ostali v okviru napovedi. Podjetje je ohranilo svojo napoved prilagojenega dobička za leto 2026 v višini najmanj 9 USD na delnico, kar pa nekateri analitiki ocenjujejo kot 'razočaranje' glede na visoka pričakovanja za zavarovalnice.",
-      "analiza": "Rezultati podjetja Humana kažejo na odpornost v zdravstvenem zavarovalnem sektorju, kljub morebitnim pritiskom na stroške. Preseganje napovedi dobička je običajno pozitiven signal za delničarje, vendar ohranitev napovedi za celotno leto, ki jo nekateri ocenjujejo kot 'razočaranje', nakazuje na previdnost podjetja glede prihodnjih razmer. To bi lahko pomenilo, da se kljub trenutnim dobrim rezultatom soočajo z izzivi, kot so naraščajoči zdravstveni stroški ali spremembe v regulativnem okolju. Za slovenske vlagatelje, ki morda vlagajo v globalne sklade ali neposredno v ameriške delnice, je pomembno spremljati zdravstveni sektor, saj lahko uspešnost velikih igralcev, kot je Humana, vpliva na celoten sektor. Zanimivo bo spremljati, ali bodo drugi ponudniki zdravstvenih storitev poročali podobne rezultate in ali se bodo stroški zdravstvenega varstva nadaljevali v tej smeri.",
-      "vpliv": [
-        "Potencialno pozitiven vpliv na delnico Humana",
-        "Signal o stabilnosti v zdravstvenem zavarovalništvu",
-        "Skrbi glede prihodnjih stroškov zdravstvenega varstva",
-        "Vpliv na druge zavarovalnice v sektorju"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/07/29/humana-hum-earnings-q2-2026.html",
-      "objavljeno": "2026-07-29T16:18:04.000Z"
-    },
-    {
-      "naslov": "Procter & Gamble zgrešil pričakovanja glede prihodkov, prostornina nespremenjena",
-      "sektor": "Potrošniki",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Procter & Gamble je poročal o četrtletnih rezultatih, ki presegajo pričakovanja glede dobička na delnico, vendar so prihodki pod pričakovanji analitikov, medtem ko je obseg prodaje ostal nespremenjen. Podjetje je sicer preseglo ocene dobička na delnico.",
-      "analiza": "Rezultati Procter & Gamble kažejo na mešano sliko v sektorju potrošniških dobrin. Medtem ko je podjetje uspelo zmanjšati stroške ali izboljšati marže, kar je pripomoglo k preseganju pričakovanj glede dobička na delnico, je zgrešilo pričakovanja glede prihodkov. Nespremenjena prostornina prodaje nakazuje na stagnacijo povpraševanja ali izgubo tržnega deleža v nekaterih segmentih. To je lahko posledica šibkejšega potrošniškega povpraševanja, povečane konkurence ali sprememb v nakupnih navadah potrošnikov. Za slovenske vlagatelje, ki imajo v portfeljih podjetja s področja potrošniških dobrin, je to lahko znak, da se sektor sooča z izzivi. Zanimivo bo spremljati, ali se bodo podobni trendi pokazali tudi pri drugih velikih podjetjih v tem sektorju, kot je na primer Nike, ki je v zadnjem času zabeležil 30% upad prodaje na Kitajskem.",
-      "vpliv": [
-        "Negativni vpliv na delnico Procter & Gamble",
-        "Signal o morebitni stagnaciji povpraševanja po potrošniških dobrinah",
-        "Povečana konkurenca v sektorju",
-        "Potencialni vpliv na druge proizvajalce potrošniških dobrin"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html",
-      "objavljeno": "2026-07-29T14:53:03.000Z"
-    },
-    {
-      "naslov": "ZDA prepovedale uvoz kitajskih robotov zaradi varnostnih pomislekov",
+      "naslov": "Natova letala v pripravljenosti po detonaciji ruske rakete na Poljskem",
       "sektor": "Geopolitika",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Združene države so prepovedale uvoz novih kitajskih robotov zaradi varnostnih pomislekov. Ta ukrep je del širših prizadevanj ZDA za zmanjšanje odvisnosti od kitajske tehnologije. To bi lahko vplivalo na dobavne verige in povečalo stroške za podjetja, ki uporabljajo ali nameravajo uporabljati takšne robote.",
-      "analiza": "Prepoved uvoza kitajskih robotov s strani ZDA je še en znak zaostrovanja trgovinskih in tehnoloških napetosti med dvema največjima svetovnima gospodarstvoma. Ta poteza je del širše strategije ZDA za zmanjšanje odvisnosti od kitajske tehnologije, kar lahko vpliva na dobavne verige in poveča stroške za podjetja. Podobni ukrepi so bili že sprejeti glede polprevodnikov in druge napredne tehnologije. Za slovenske vlagatelje, ki imajo v portfeljih podjetja, ki so del globalnih dobavnih verig ali uporabljajo avtomatizacijo, to pomeni potencialno povečano negotovost in stroške. Povečana odvisnost od domačih ali drugih dobaviteljev lahko vodi do višjih cen in daljših dobavnih rokov. Vendar pa lahko ta premik tudi spodbuja inovacije in razvoj novih tehnologij zunaj Kitajske. Vrednost Bitcoina je danes padla za 0,20 % na 63724 USD, kar nakazuje na splošno previdnost vlagateljev v rizična sredstva, čeprav je vpliv te novice na kripto trge verjetno omejen.",
+      "intenziteta": 3,
+      "povzetek": "Al Jazeera poroča, da so se Natova letala dvignila v zrak po detonaciji ruske rakete na Poljskem. Ta incident je del naraščajoče serije kršitev Natovega zračnega prostora, kar povečuje zaskrbljenost, da bi se ruska vojna v Ukrajini lahko stopnjevala. Opis novice ne navaja, ali je šlo za namerno dejanje ali nesrečo, vendar poudarja resnost situacije. Dogodek se je zgodil 30. julija 2026, kar kaže na svežo eskalacijo in potencialno tveganje za širitev konflikta.",
+      "analiza": "Ozadje tega dogodka je dolgotrajna vojna v Ukrajini in napetosti med Rusijo ter Natom. Predhodni incidenti, kot so kršitve zračnega prostora, so že ustvarjali nelagodje, vendar detonacija rakete na ozemlju članice Nata predstavlja pomembno eskalacijo. To je relevantno, ker neposredno vpliva na geopolitično stabilnost v Evropi in potencialno sproži 5. člen Natove pogodbe o kolektivni obrambi. Mehanizem vpliva na finančne trge je predvsem povečanje negotovosti in tveganja. Delniški trgi, zlasti v Evropi, bi lahko občutili pritisk zaradi strahu pred širjenjem konflikta. Vlagatelji se v takih primerih pogosto umikajo v varnejša sredstva, kot so zlato in obveznice. Zlato je danes že zraslo za 1.75 % na 4168.80 USD/oz, kar odraža to iskanje varnosti. Donosnosti obveznic, kot je 10-letna ameriška obveznica, ki je danes zrasla na 4.66 % (+0.80 %), lahko odražajo tudi pričakovanja višje inflacije zaradi morebitnih motenj v dobavnih verigah. Valute držav, ki so geografsko bližje konfliktu, bi lahko oslabela. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitična tveganja, saj lahko vplivajo na globalne trge in s tem tudi na vrednost naložb, še posebej tistih, ki so izpostavljene evropskim delniškim trgom.",
       "vpliv": [
-        "Potencialno povečanje stroškov za podjetja",
-        "Motnje v dobavnih verigah",
-        "Spodbujanje domače proizvodnje robotov v ZDA",
-        "Povečana negotovost v mednarodni trgovini s tehnologijo"
+        "Povečana geopolitična negotovost",
+        "Potencialno iskanje varnih zatočišč (zlato +1.75 %)",
+        "Pritisk na evropske delniške trge",
+        "Možna rast donosnosti obveznic"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/7/29/us-bans-imports-of-new-chinese-robots-over-security-concerns?traffic_source=rss",
-      "objavljeno": "2026-07-29T13:12:43.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss",
+      "objavljeno": "2026-07-30T16:28:51.000Z"
     },
     {
-      "naslov": "SpaceX IPO alokacija: sreča ali dobra naložbena poteza?",
-      "sektor": "Finance",
+      "naslov": "Angleška centralna banka ohranja obrestne mere kljub naraščajočim inflacijskim strahovom",
+      "sektor": "Makro & Centralne banke",
       "smer": "mešano",
-      "intenziteta": 1,
-      "povzetek": "Članek razpravlja o tem, ali je vlagatelj, ki je prejel polno alokacijo delnic v IPO-ju SpaceX, imel srečo ali je to rezultat dobre naložbene strategije. Vlagatelji pogosto prejmejo le majhen delež zahtevanih delnic, če sploh kakšen.",
-      "analiza": "Vprašanje o polni alokaciji delnic v IPO-ju SpaceX poudarja izjemno povpraševanje po delnicah nekaterih visoko rastočih tehnoloških podjetij. V takšnih primerih je pridobitev polne alokacije pogosto posledica sreče ali posebnih odnosov z investicijskimi bankami, ne pa nujno rezultat zgolj naložbene strategije. Uspeh naložbe bo odvisen od prihodnje uspešnosti SpaceX-a, vključno z njegovimi inovacijami, prihodki in splošnim stanjem na trgu. Za slovenske vlagatelje je to opomnik, da so IPO-ji pogosto zelo nestanovitni in da je dostop do njih lahko omejen. Vlaganje v posamezne IPO-je zahteva skrbno analizo in visoko toleranco do tveganja. V primeru SpaceX-a, ki deluje na področju vesoljskih tehnologij in satelitskega interneta, so potenciali visoki, vendar so tudi tveganja znatna. Vprašanje, ali je bila to dobra stava, bo mogoče odgovoriti šele čez čas, ko bodo znani dolgoročni rezultati podjetja.",
+      "intenziteta": 3,
+      "povzetek": "Angleška centralna banka (BoE) je na današnjem zasedanju obrestne mere ohranila pri 3.75 %. Odločitev je bila sprejeta s šestimi glasovi proti trem v Odboru za denarno politiko (MPC). Kot ključni razlog za zadržanost so navedli opozorilo, da bi nadaljnja eskalacija vojne v Iranu lahko inflacijo prihodnje leto povišala nad 4 %, kar bi povečalo stroške življenja za gospodinjstva. Kljub temu, da so nekateri člani MPC bolj prepričani o umirjanju osnovnih cenovnih pritiskov, prevladuje previdnost zaradi nestabilnih razmer na Bližnjem vzhodu. Banka tudi pričakuje večjo gospodarsko rast za to leto, kot je bilo prvotno napovedano, vendar opozarja na negotovosti zaradi iranske vojne.",
+      "analiza": "Ozadje te odločitve je globalna inflacija, ki je v zadnjih letih predstavljala velik izziv za centralne banke. BoE se sooča z dilemo med obvladovanjem inflacije in podpiranjem gospodarske rasti, še posebej v luči geopolitičnih tveganj. Vojna v Iranu in njene potencialne posledice za cene energentov so ključni dejavnik, ki vpliva na inflacijska pričakovanja. Čeprav je danes cena nafte Brent padla za 1.12 % na 89.72 USD/sod, opis novice poudarja, da se je cena nafte povzpela nad 90 dolarjev za sod, kar kaže na preteklo volatilnost in občutljivost trga na dogajanje na Bližnjem vzhodu. Mehanizem vpliva na finančne trge je kompleksen: ohranjanje obrestnih mer lahko kratkoročno pomiri trge, vendar opozorilo o inflaciji zaradi vojne povečuje dolgoročno negotovost. To lahko vpliva na vrednost britanske funt (GBP), ki se lahko sooči s pritiskom, če se inflacijska pričakovanja povečajo, medtem ko obrestne mere ostajajo nespremenjene. Za delniške trge to pomeni, da podjetja, ki so odvisna od nizkih stroškov financiranja, ostajajo pod pritiskom, medtem ko energetska podjetja lahko pridobijo, če se cene nafte zvišajo. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, kako geopolitični dogodki vplivajo na odločitve centralnih bank in s tem na inflacijo ter obrestne mere, kar posredno vpliva na donosnost različnih naložbenih razredov.",
       "vpliv": [
-        "Potencialno visoka donosnost za vlagatelje v SpaceX",
-        "Povečano zanimanje za vesoljske tehnologije",
-        "Omejena dostopnost do IPO-jev za povprečne vlagatelje",
-        "Visoko tveganje povezano z IPO naložbami"
+        "Ohranjanje obrestnih mer pri 3.75 %",
+        "Povečana inflacijska tveganja zaradi vojne v Iranu",
+        "Potencialni pritisk na britanski funt",
+        "Negotovost za podjetja, odvisna od financiranja"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-29T16:30:00.000Z"
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount",
+      "objavljeno": "2026-07-30T15:47:35.000Z"
+    },
+    {
+      "naslov": "Microsoft beleži 15-odstotno rast po odličnih rezultatih in najemih podatkovnih centrov",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Microsoftove delnice so po objavi rezultatov poskočile za impresivnih 15 %. Vlagatelje so razveselili tako močni finančni rezultati kot tudi najemi podatkovnih centrov. Prihodki v segmentu inteligentnega oblaka (intelligent cloud) so se povečali za 32 % na 39.3 milijarde dolarjev. To kaže na nadaljnjo močno rast in povpraševanje po storitvah v oblaku ter rešitvah, povezanih z umetno inteligenco. Novica je bila objavljena 30. julija 2026.",
+      "analiza": "Ozadje te novice je nenehna digitalna transformacija in eksplozivna rast povpraševanja po storitvah v oblaku ter umetni inteligenci. Microsoft je ključni igralec na tem področju, saj ponuja širok spekter storitev, od infrastrukture v oblaku (Azure) do aplikacij in orodij, ki podpirajo AI. Močna rast prihodkov v segmentu inteligentnega oblaka za 32 % na 39.3 milijarde dolarjev poudarja, da podjetja in posamezniki še naprej intenzivno prehajajo na oblačne rešitve. Mehanizem vpliva na finančne trge je neposreden: močni rezultati velikega tehnološkega podjetja, kot je Microsoft, pogosto povlečejo celoten sektor navzgor. Danes je Nasdaq 100, ki je močno obremenjen s tehnološkimi delnicami, zrasel za 3.09 % na 28033 točk, kar kaže na splošno pozitivno razpoloženje v tehnološkem sektorju. To lahko vpliva tudi na druge tehnološke delnice in poveča optimizem vlagateljev glede prihodnjih inovacij in rasti. Za obveznice in valute je vpliv manj neposreden, vendar splošno pozitivno razpoloženje na delniških trgih lahko zmanjša povpraševanje po varnih zatočiščih. Za slovenskega dolgoročnega vlagatelja to pomeni, da je tehnološki sektor še vedno gonilna sila rasti in da so naložbe v vodilna podjetja s stabilnimi prihodki in inovativnimi rešitvami lahko privlačne, vendar je pomembno upoštevati diverzifikacijo.",
+      "vpliv": [
+        "Microsoftove delnice +15 %",
+        "Rast Nasdaq 100 (+3.09 %)",
+        "Povečano zaupanje v tehnološki sektor",
+        "Močna rast prihodkov v oblaku (+32 %)"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1",
+      "objavljeno": "2026-07-30T15:50:00.000Z"
+    },
+    {
+      "naslov": "Rast ameriškega BDP upada zaradi inflacije in trgovinskih primanjkljajev",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Rast ameriškega bruto domačega proizvoda (BDP) se je v drugem četrtletju znižala na 1.5 %, potem ko je v prvem četrtletju znašala 2.1 %. Al Jazeera poroča, da na gospodarstvo pritiskajo inflacija in trgovinski primanjkljaji. To upočasnjevanje rasti kaže na izzive, s katerimi se sooča ameriško gospodarstvo, kljub temu da Federal Reserve ohranja referenčno obrestno mero stabilno. Upočasnitev rasti bi lahko vplivala na prihodnje odločitve centralne banke. Podatki so bili objavljeni 30. julija 2026.",
+      "analiza": "Ozadje te novice je prizadevanje Federal Reserve za obvladovanje inflacije, ki je vplivala na potrošniško moč in poslovne stroške. Upočasnjevanje rasti BDP na 1.5 % v drugem četrtletju, po 2.1 % v prvem, kaže na to, da se gospodarstvo ohlaja, kar je lahko posledica višjih obrestnih mer in inflacijskih pritiskov. Trgovinski primanjkljaji prav tako prispevajo k šibkejši rasti, saj pomenijo, da država uvozi več kot izvozi. Mehanizem vpliva na finančne trge je, da šibkejši podatki o BDP lahko povečajo zaskrbljenost glede recesije, kar bi lahko povzročilo umik vlagateljev iz tveganih sredstev, kot so delnice. Hkrati pa lahko upočasnjevanje rasti zmanjša pritisk na Federal Reserve za dvig obrestnih mer, kar bi lahko dolgoročno podprlo trge. Donosnost 10-letne ameriške obveznice je danes zrasla za 0.80 % na 4.66 %, kar kaže na mešane signale – morda pričakovanje, da bo Fed moral ostati jastrebji zaradi inflacije, ali pa preprosto tržna dinamika. Za valute, kot je USD, šibkejši BDP običajno pomeni pritisk na navzdol, čeprav je danes EUR/USD zrasel (+0.54 % na 1.1527), kar kaže na šibkost dolarja. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati makroekonomske podatke, saj vplivajo na globalno gospodarsko rast in s tem na dobičkonosnost podjetij ter politiko centralnih bank.",
+      "vpliv": [
+        "Upočasnjena rast BDP na 1.5 %",
+        "Povečana zaskrbljenost glede recesije",
+        "Potencialni pritisk na ameriški dolar",
+        "Vpliv na politiko Federal Reserve"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/7/30/us-gdp-growth-dips-as-inflation-and-trade-deficits-pressure-economy?traffic_source=rss",
+      "objavljeno": "2026-07-30T15:52:47.000Z"
+    },
+    {
+      "naslov": "Vojna v Iranu: Faza II, 19. dan, ZDA nadaljujejo bombardiranje",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Al Jazeera poroča, da so ZDA nadaljevale bombardiranje Irana, pri čemer so bili na otoku Qeshm ubiti trije člani družine. To označuje 19. dan druge faze vojne v Iranu in kaže na stopnjevanje konflikta. Pred tem je IRGC objavil video posnetke, ki naj bi prikazovali povračilne napade na ameriške cilje v Jordaniji. Poročila navajajo tudi dim, ki se dviga nad južnim Iranom po obnovljenih napadih ZDA. Novica je bila objavljena 30. julija 2026.",
+      "analiza": "Ozadje te novice je dolgotrajen in stopnjujoč se konflikt na Bližnjem vzhodu, ki ima globalne implikacije. Nadaljevanje bombardiranja in povračilni napadi kažejo na neposredno vojaško konfrontacijo med ZDA in Iranom. To je izjemno relevantno zaradi vpliva na stabilnost regije, ki je ključna za svetovno oskrbo z energijo. Mehanizem vpliva na finančne trge je predvsem preko cen surovin, zlasti nafte. Čeprav sta danes ceni WTI nafte (84.10 USD/sod) in Brent nafte (89.72 USD/sod) zabeležili manjši padec (-0.43 % oziroma -1.12 %), je dolgoročni trend in potencial za motnje v dobavi zaradi konflikta velik. V primeru eskalacije bi lahko cene nafte močno poskočile, kar bi povzročilo globalno inflacijo in upočasnitev gospodarske rasti. Zlato, ki velja za varno zatočišče, je danes že zraslo za 1.75 % na 4168.80 USD/oz, kar odraža povečano negotovost. Delniški trgi so občutljivi na takšne geopolitične šoke, saj lahko vplivajo na dobičkonosnost podjetij in potrošniško zaupanje. Za slovenskega dolgoročnega vlagatelja je ključno zavedanje o tveganjih, ki jih prinašajo geopolitični konflikti, saj lahko povzročijo volatilnost na trgih in vplivajo na vrednost naložb, zlasti tistih, ki so izpostavljene energetskemu sektorju.",
+      "vpliv": [
+        "Stopnjevanje konflikta na Bližnjem vzhodu",
+        "Potencialni skok cen nafte",
+        "Povečano povpraševanje po zlatu (+1.75 %)",
+        "Negativni vpliv na globalno gospodarsko rast"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/war-on-iran-phase-ii-day-19?traffic_source=rss",
+      "objavljeno": "2026-07-30T14:56:59.000Z"
+    },
+    {
+      "naslov": "Ferrari zvišuje napoved za leto 2026 po boljših rezultatih v drugem četrtletju",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Ferrari je po preseganju pričakovanj Wall Streeta v drugem četrtletju zvišal svojo napoved za leto 2026. Podjetje navaja \"zdravo\" povpraševanje po svojih izdelkih kot razlog za optimizem. Kljub kritikam ob predstavitvi električnega vozila Luce, je izvršni direktor Benedetto Vigna izrazil zadovoljstvo z lansiranjem. To kaže na močno pozicijo Ferrarija v segmentu luksuznih avtomobilov in odpornost povpraševanja po visokokakovostnih izdelkih. Novica je bila objavljena 30. julija 2026.",
+      "analiza": "Ozadje te novice je globalno gospodarstvo, ki se sooča z inflacijskimi pritiski in upočasnjevanjem rasti BDP v ZDA (ki je danes upadla na 1.5 %). Kljub temu, da so splošni potrošniki pod pritiskom, segment luksuznih izdelkov pogosto kaže večjo odpornost. Ferrarijevi rezultati in zvišanje napovedi za leto 2026 poudarjajo močno povpraševanje v višjem cenovnem razredu. To je relevantno, ker kaže na razslojenost potrošniškega trga, kjer premožnejši segment ostaja robusten. Mehanizem vpliva na finančne trge je pozitiven za delnice v luksuznem sektorju. Uspešnost Ferrarija lahko služi kot indikator moči premožnejših potrošnikov, kar lahko pozitivno vpliva na zaupanje vlagateljev v podobna podjetja. Čeprav to nima neposrednega vpliva na valute ali obveznice, lahko prispeva k splošnemu optimizmu na delniških trgih, zlasti v sektorjih, ki so manj občutljivi na makroekonomske pretrese. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja pomembna, vključno z razmislekom o podjetjih, ki so odporna na gospodarske cikle zaradi svoje močne blagovne znamke in ciljnega trga.",
+      "vpliv": [
+        "Zvišanje napovedi dobička za Ferrari",
+        "Potrjeno močno povpraševanje v luksuznem segmentu",
+        "Pozitiven signal za delnice luksuznih znamk",
+        "Odpornost premožnejših potrošnikov"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/07/30/ferrari-race-earnings-q2-2026.html",
+      "objavljeno": "2026-07-30T15:14:14.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-29T17:00:17.199Z",
+    "posodobljenoOb": "2026-07-30T17:11:53.837Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7372.58,
-        "sprememba_pct": -0.76
+        "vrednost": 7421.44,
+        "sprememba_pct": 1.44
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 27460.352,
-        "sprememba_pct": -1.09
+        "vrednost": 28033.018,
+        "sprememba_pct": 3.09
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25460.48,
-        "sprememba_pct": -0.01
+        "vrednost": 25612.03,
+        "sprememba_pct": 0.6
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 61434.19,
-        "sprememba_pct": -1.49
+        "vrednost": 61867.43,
+        "sprememba_pct": 0.71
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4076.6,
-        "sprememba_pct": -0.54,
+        "vrednost": 4168.8,
+        "sprememba_pct": 1.75,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 84.57,
-        "sprememba_pct": 6.7,
+        "vrednost": 84.1,
+        "sprememba_pct": -0.43,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 90.42,
-        "sprememba_pct": 7.53,
+        "vrednost": 89.72,
+        "sprememba_pct": -1.12,
         "enota": "USD/sod"
       }
     ],
@@ -181,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1388,
-        "sprememba_pct": -0.06
+        "vrednost": 1.1527,
+        "sprememba_pct": 0.54
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.649,
-        "sprememba_pct": 0.98,
+        "vrednost": 4.659,
+        "sprememba_pct": 0.8,
         "enota": "%"
       }
     ],
@@ -198,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63724.29,
-        "sprememba_pct": -0.2,
+        "vrednost": 64730.36,
+        "sprememba_pct": 1.29,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 20.06,
-      "sprememba_pct": 10.16
+      "vrednost": 18.08,
+      "sprememba_pct": -12.49
     }
   }
 }
