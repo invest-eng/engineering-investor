@@ -1,128 +1,111 @@
 {
-  "generiranoOb": "2026-07-31T17:06:51.508Z",
+  "generiranoOb": "2026-07-31T17:15:06.608Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-07-31",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanimi občutki, medtem ko so ameriški odprti že dve uri in kažejo začetno rast. Nemški indeks DAX je dan zaključil z minimalno rastjo, +0.07 % na 25629 točk. Na drugi strani Atlantika sta S&P 500 in Nasdaq 100 zabeležila zmerno rast, pri čemer je S&P 500 pri 7476 točkah (+0.51 %), Nasdaq 100 pa pri 28275 točkah (+0.60 %). Azijski trgi so bili precej bolj optimistični, saj je Nikkei 225 poskočil za 4.03 % na 64362 točk. Medtem ko so cene nafte WTI in Brent zrasle za 1.40 % na 84.76 USD/sod oziroma za 1.00 % na 89.92 USD/sod, je zlato izgubilo 1.49 % vrednosti in se giblje pri 4098.80 USD/oz. Bitcoin je utrpel padec za 3.00 % na 62785 USD. Glavne novice dneva vključujejo poročila o rekordnih dobičkih velikih naftnih družb, opozorila o padcu delnic Micron Technology zaradi izjav Appla, ter zaskrbljujoče signale s strani korporativnih insajderjev glede prihodnosti trga. Vlagatelji bodo v prihodnjih dneh pozorno spremljali nadaljevanje sezone objav poslovnih rezultatov in morebitne znake inflacijskih pritiskov.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z zmerno rastjo, medtem ko so ameriški indeksi po dveh urah trgovanja kazali močnejšo začetno smer. Nemški DAX je dan zaključil pri 25.629 točkah z minimalno rastjo +0,07 %, medtem ko sta v ZDA S&P 500 dosegel 7476 točk (+0,51 %), Nasdaq 100 pa 28279 točk (+0,61 %). Na trgu surovin je cena nafte WTI zrasla za +1,48 % na 84,83 USD za sod, Brent pa za +1,10 % na 90,01 USD za sod, medtem ko je zlato izgubilo -1,46 % vrednosti in se giblje pri 4099,90 USD za unčo. Kriptovalute so bile pod pritiskom, saj je Bitcoin padel za -2,95 % na 62814 USD. Med ključnimi novicami dneva izstopajo poročila o rekordnih dobičkih velikih naftnih podjetij, opozorila korporativnih insajderjev o medvedjem razpoloženju na delniškem trgu ter padec vrednosti velikega AI hedge sklada. Vlagatelji bodo ta teden pozorno spremljali objava podatkov o inflaciji v evroobmočju, ki lahko vpliva na pričakovanja glede monetarne politike.",
   "novice": [
     {
-      "naslov": "Velike naftne družbe beležijo izjemne dobičke med zgodovinsko krizo ponudbe",
+      "naslov": "Velika naftna podjetja beležijo izjemne dobičke med zgodovinsko krizo ponudbe",
       "sektor": "Energetika",
-      "smer": "mešano",
+      "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "ExxonMobil in Chevron sta v zadnjem četrtletju zabeležila močno rast dobičkov, ki so se skupno početverili. Dobiček ExxonMobila se je več kot podvojil, kar je sicer impresivno, a ni bilo dovolj za nekatere analitike. Boljši rezultati Chevronsa so spodbudili delnice podjetja. Ti izjemni dobički so bili doseženi v času, ko je regijo pretresala vojna v Iranu, kar je prispevalo k zgodovinskemu pomanjkanju ponudbe na trgu. Poročilo MarketWatch poudarja, kako so se velika naftna podjetja okoristila s temi razmerami.",
-      "analiza": "Ozadje teh izjemnih dobičkov leži v geopolitičnih napetostih, zlasti v vojni v Iranu, ki je povzročila motnje v dobavnih verigah in pomanjkanje nafte na svetovnem trgu. To je posledično dvignilo cene nafte, kar je neposredno koristilo naftnim gigantom. Pomen tega je v tem, da visoke cene energentov, čeprav so ugodne za proizvajalce, predstavljajo breme za potrošnike in industrijo, kar lahko vodi v inflacijske pritiske in upočasnitev gospodarske rasti. Mehanizem vpliva je direkten: višje cene surovin pomenijo višje prihodke in dobičke za naftna podjetja, kar se odraža v rasti njihovih delnic. Posledice za delnice naftnih podjetij so pozitivne, saj so njihovi dobički močno narasli. Za širši trg pa to pomeni višje stroške transporta in proizvodnje, kar lahko vpliva na marže drugih podjetij in kupno moč potrošnikov. Cene nafte WTI in Brent so danes zrasle za 1.40 % na 84.76 USD/sod oziroma za 1.00 % na 89.92 USD/sod, kar odraža nadaljevanje teh trendov. Zgodovinsko gledano, obdobja geopolitičnih kriz pogosto spremljajo skoki cen nafte in s tem povezani dobički energetskih podjetij. Slovenski dolgoročni vlagatelj bi moral razumeti, da so delnice energetskega sektorja lahko ciklične in zelo odvisne od globalnih geopolitičnih dogodkov ter ponudbe in povpraševanja po nafti.",
+      "povzetek": "Poročila kažejo, da so velika naftna podjetja, kot sta ExxonMobil in Chevron, v zadnjem četrtletju izkoristila zgodovinsko pomanjkanje ponudbe na trgu. Dobiček ExxonMobila se je v zadnjem četrtletju več kot podvojil, kar kaže na močno finančno uspešnost. Boljši rezultati Chevrona so prav tako pozitivno vplivali na vrednost delnic podjetja. Ta poročila prihajajo v času, ko se cene nafte WTI gibljejo pri 84,83 USD za sod, Brent pa pri 90,01 USD za sod, kar odraža napete razmere na globalnem energetskem trgu.",
+      "analiza": "Ozadje teh izjemnih dobičkov je globalno pomanjkanje nafte, ki je nastalo zaradi različnih geopolitičnih dejavnikov in omejenih naložb v proizvodnjo v preteklih letih. Konflikti in nestabilnost v ključnih regijah so dodatno zmanjšali dobavo, kar je povzročilo rast cen. To je relevantno zdaj, saj visoke cene nafte neposredno vplivajo na inflacijo in stroške poslovanja v številnih sektorjih. Mehanizem vpliva je preprost: višje cene surovin pomenijo večje prihodke in dobičke za proizvajalce. Za delnice energetskih podjetij to pomeni pozitivno gibanje, kot je bilo vidno pri Chevronu. Po drugi strani visoke cene nafte negativno vplivajo na podjetja v transportnem, proizvodnem in potrošniškem sektorju, saj povečujejo njihove operativne stroške. Za obveznice to lahko pomeni pritisk na centralne banke za zaostrovanje monetarne politike zaradi inflacijskih pritiskov. Valute držav, ki so neto izvoznice nafte, se lahko okrepijo, medtem ko valute uvoznic oslabelijo. Zgodovinsko gledano so obdobja pomanjkanja ponudbe nafte vedno vodila do visokih dobičkov za naftne gigante, kar se je ponovilo tudi v sedanjih razmerah. V prihodnje bo ključno spremljati geopolitične dogodke in odločitve OPEC+, ki lahko vplivajo na dinamiko ponudbe in povpraševanja. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor energetike lahko privlačen v obdobjih visokih cen surovin, vendar je treba upoštevati tudi dolgoročne trende prehoda na zeleno energijo in s tem povezane regulativne rizike.",
       "vpliv": [
-        "Rast dobičkov ExxonMobil in Chevron",
-        "Rast cen WTI nafte za 1.40 % na 84.76 USD/sod",
-        "Rast cen Brent nafte za 1.00 % na 89.92 USD/sod",
-        "Potencialni inflacijski pritiski"
+        "Rast delnic energetskih podjetij",
+        "Povečani inflacijski pritiski",
+        "Rast cen nafte WTI na 84,83 USD/sod",
+        "Rast cen nafte Brent na 90,01 USD/sod"
       ],
       "vir": "MarketWatch",
       "vir_url": "https://www.marketwatch.com/story/exxonmobil-chevrons-combined-profits-quadrupled-in-three-months-as-the-iran-war-raged-a6e8da62?mod=mw_rss_topstories",
       "objavljeno": "2026-07-31T17:03:00.000Z"
     },
     {
-      "naslov": "Delnice Micron Technology padle po izjavi Appla o iskanju več dobaviteljev pomnilnika",
+      "naslov": "AI hedge sklad v vrednosti 45 milijard dolarjev izgubil večino sredstev",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Delnice podjetja Micron Technology so padle, potem ko je Tim Cook, izvršni direktor Appla, izrazil željo po večjem številu dobaviteljev pomnilniških čipov. Ta izjava prihaja v času, ko se tako Apple kot Amazon soočata z višjimi cenami pomnilnika, kar vpliva na njune stroške. Povečana konkurenca ali diverzifikacija dobaviteljev bi lahko zmanjšala pogajalsko moč obstoječih proizvajalcev pomnilnika, kot je Micron. To nakazuje na pritisk na marže v industriji pomnilniških čipov.",
-      "analiza": "Ozadje te novice je v trenutni situaciji na trgu polprevodnikov, kjer so cene pomnilniških čipov visoke, kar povzroča stroškovne pritiske na velike tehnološke igralce, kot sta Apple in Amazon. Izjava Tima Cooka je pomembna, ker Apple velja za enega največjih kupcev pomnilnika na svetu in njegova želja po diverzifikaciji dobaviteljev lahko bistveno spremeni dinamiko trga. Mehanizem vpliva je jasen: večja konkurenca ali zmanjšano povpraševanje s strani ključnih kupcev lahko zniža cene pomnilnika in s tem dobičkonosnost podjetij, kot je Micron. Posledice so negativne za delnice podjetij, ki so močno odvisna od prodaje pomnilniških čipov, kot je Micron, saj se soočajo s potencialnim zmanjšanjem prihodkov in marž. To se odraža tudi v širšem trendu, saj je bil julij najslabši mesec za delnice čipov v zadnjih 24 letih, kot je omenjeno v drugi novici. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da je sektor polprevodnikov zelo cikličen in občutljiv na spremembe v povpraševanju velikih tehnoloških podjetij ter na globalne dobavne verige.",
-      "vpliv": [
-        "Padec delnic Micron Technology",
-        "Pritisk na marže proizvajalcev pomnilniških čipov",
-        "Povečana konkurenca v sektorju polprevodnikov",
-        "Višje cene pomnilnika vplivajo na Apple in Amazon"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/microns-stock-falls-after-apples-tim-cook-expresses-a-desire-for-more-memory-suppliers-a7bc0502?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-31T15:59:00.000Z"
-    },
-    {
-      "naslov": "S&P 500 se sooča s prvim julijskim padcem po letu 2014, čipi vodijo razprodajo",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Indeks S&P 500 je na poti k prvemu julijskemu padcu po letu 2014, kar kaže na preobrat po nestanovitnem koncu meseca. Glavni povzročitelji razprodaje so bile delnice polprevodnikov, ki so zabeležile najslabši mesec v zadnjih 24 letih. Ta trend nakazuje na širšo zaskrbljenost na trgu, zlasti v tehnološkem sektorju. Kljub temu je S&P 500 danes pri 7476 točkah zrasel za 0.51 %, kar kaže na določeno stabilizacijo ali optimizem ob začetku ameriškega trgovanja.",
-      "analiza": "Ozadje te novice je v splošnem tržnem sentimentu, ki je bil v juliju pod pritiskom, še posebej v sektorju polprevodnikov. To je lahko posledica kombinacije dejavnikov, kot so višje obrestne mere, inflacijski pritiski, geopolitične napetosti in morebitno zmanjšanje povpraševanja po elektroniki. Pomen julijskega padca S&P 500 je v tem, da prekinja dolgoletni trend rasti v tem mesecu in lahko signalizira spremembo v širšem tržnem razpoloženju. Mehanizem vpliva je, da padec ključnih sektorjev, kot so polprevodniki, lahko povleče navzdol celoten indeks. Posledice so negativne za delnice, zlasti v tehnološkem sektorju, in lahko povečajo volatilnost trga, kar se odraža tudi v vrednosti VIX, ki je danes pri 16.92 (-0.99 %). Za obveznice bi to lahko pomenilo povečano povpraševanje po varnih naložbah, če se vlagatelji umikajo iz delnic. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so tržni popravki in obdobja padcev normalen del investicijskega cikla in da diverzifikacija ostaja ključna strategija.",
+      "povzetek": "Leopold Aschenbrenner, nekdanji raziskovalec pri OpenAI, ki se je preusmeril v upravljanje hedge skladov, je doživel dramatičen padec svojega AI-osredotočenega sklada Situational Awareness. Sklad, ki je nekoč dosegal vrednost 45 milijard dolarjev, je v samo nekaj dneh izgubil večino svojih sredstev. Ta dogodek poudarja izjemno volatilnost in tveganja, povezana z visoko špekulativnimi naložbami v sektorju umetne inteligence. Padec sklada se je zgodil v tednu, ko so širši ameriški trgi, kot je Nasdaq 100, sicer beležili rast, danes +0,61 % pri 28279 točkah.",
+      "analiza": "Ta novica se nanaša na tveganja, povezana z naložbami v hitro rastoče, a pogosto špekulativne sektorje, kot je umetna inteligenca. Čeprav AI velja za prihodnost, so naložbe v to področje pogosto podvržene ekstremnim nihanjem in visokim tveganjem. Padec tako velikega sklada je relevanten, saj lahko sproži dvome o stabilnosti in trajnosti nekaterih AI naložbenih strategij. Mehanizem vpliva je predvsem psihološki in se kaže v povečani previdnosti vlagateljev do visoko tveganih AI naložb. Za delnice podjetij, ki so močno odvisna od AI tehnologij ali so del AI ekosistema, to lahko pomeni povečano volatilnost in morebitne popravke cen, zlasti pri manjših, manj uveljavljenih podjetjih. Na širši trg, kot je S&P 500 (danes +0,51 % pri 7476 točkah), vpliv ni bil takojšen, vendar lahko dolgoročno vpliva na alokacijo kapitala v tehnološkem sektorju. Obveznice in valute so manj neposredno prizadete, razen če padec povzroči širšo sistemsko nestabilnost. Zgodovinski primeri, kot je pok tehnološkega balona leta 2000, kažejo, da pretirana evforija v določenem sektorju pogosto vodi do ostrih popravkov. V prihodnje bo pomembno opazovati, kako se bo razvijal regulativni okvir za AI in kako bodo podjetja dokazovala resnično vrednost svojih AI rešitev. Za slovenskega dolgoročnega vlagatelja to poudarja pomen diverzifikacije in previdnosti pri naložbah v visoko špekulativne sektorje, kljub njihovemu potencialu za visoke donose.",
       "vpliv": [
-        "S&P 500 na poti k julijskemu padcu po 2014",
-        "Najslabši mesec za delnice čipov v 24 letih",
-        "Povečana tržna volatilnost",
-        "Zaskrbljenost glede tehnološkega sektorja"
+        "Povečana previdnost vlagateljev v AI sektorju",
+        "Potencialna volatilnost delnic AI podjetij",
+        "Zmanjšanje apetita po tveganju",
+        "Padec Bitcoina za -2,95 % na 62814 USD"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-31T16:38:00.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+      "objavljeno": "2026-07-31T14:44:44.000Z"
     },
     {
-      "naslov": "Predlagan triletni načrt za razorožitev Hamasa v Gazi",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Pod predlogom, ki ga podpira ZDA, bi imela Hamas in Izrael 14 dni časa za dokončanje političnega prehoda v Gazi. Ta triletni načrt predvideva razorožitev Hamasa, kar bi lahko prineslo dolgoročno stabilnost v regijo. Novica, objavljena na Al Jazeeri, poudarja pomembnost tega predloga za prihodnost Gaze in širše Bližnjega vzhoda.",
-      "analiza": "Ozadje te novice je v dolgotrajnem konfliktu med Izraelom in Hamasom ter širših geopolitičnih napetostih na Bližnjem vzhodu. Predlog za razorožitev Hamasa, podprt s strani ZDA, predstavlja poskus vzpostavitve trajnega miru in stabilnosti v regiji. Pomen tega je velik, saj bi stabilizacija Gaze lahko zmanjšala tveganje za širjenje konflikta, kar bi imelo pozitivne učinke na globalno gospodarstvo, zlasti na cene nafte in dobavne verige. Mehanizem vpliva na finančne trge je posreden: zmanjšanje geopolitičnih tveganj običajno vodi v večjo pripravljenost vlagateljev za tvegane naložbe in lahko zniža cene surovin, ki so občutljive na nestabilnost. Posledice za surovine, kot je nafta, bi bile potencialno negativne, saj bi se zmanjšala \"premija za tveganje\". Za delnice bi to lahko pomenilo povečan optimizem in rast, zlasti v sektorjih, ki so občutljivi na globalno stabilnost. Vendar pa je izvedba takega načrta izjemno kompleksna in negotova, kar ohranja določeno stopnjo tveganja. Slovenski dolgoročni vlagatelj bi moral biti pozoren na geopolitične dogodke, saj lahko ti hitro vplivajo na cene surovin in globalno tržno razpoloženje.",
-      "vpliv": [
-        "Potencialno zmanjšanje geopolitičnih tveganj na Bližnjem vzhodu",
-        "Možna stabilizacija cen nafte",
-        "Povečan optimizem na delniških trgih",
-        "Negotovost glede izvedbe načrta"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss",
-      "objavljeno": "2026-07-31T16:35:17.000Z"
-    },
-    {
-      "naslov": "Korporativni insajderji pošiljajo opozorilne signale o delniškem trgu",
+      "naslov": "Korporativni insajderji opozarjajo na medvedje razpoloženje na delniškem trgu",
       "sektor": "Finance",
       "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Korporativni insajderji, torej vodstveni delavci in direktorji podjetij, niso bili tako pesimistični glede delniškega trga v več kot 20 letih. To je pomemben opozorilni signal, saj imajo insajderji pogosto najboljši vpogled v dejansko stanje in prihodnje obete svojih podjetij. Njihovo povečano prodajanje delnic ali zmanjšano kupovanje kaže na pomanjkanje zaupanja v prihodnjo rast. Poročilo MarketWatch poudarja, da je takšno obnašanje insajderjev redko in lahko napoveduje tržne preobrate.",
-      "analiza": "Ozadje te novice je v analizi aktivnosti korporativnih insajderjev, ki veljajo za pomemben indikator tržnega sentimenta. Insajderji imajo privilegiran dostop do informacij o poslovanju podjetij in širših gospodarskih trendih, zato njihovo obnašanje pri trgovanju z delnicami lahko služi kot zgodnji opozorilni signal. Pomen trenutnega pesimizma insajderjev je v tem, da nakazuje na morebitno pregrevanje trga ali pričakovanje slabših poslovnih rezultatov v prihodnosti. Mehanizem vpliva je psihološki in informacijski: če insajderji prodajajo, to lahko spodbudi tudi druge vlagatelje k prodaji, kar poveča pritisk na trg. Posledice so potencialno negativne za delniške trge, saj lahko takšni signali vodijo v korekcije ali celo daljše padce. To lahko vpliva na vse razrede delnic, čeprav so lahko bolj ranljivi tisti sektorji, ki so bili v zadnjem času najbolj precenjeni. Za slovenskega dolgoročnega vlagatelja je pomembno, da ne paničari ob takšnih signalih, ampak jih uporabi kot del širše analize. Diverzifikacija in dolgoročna perspektiva sta ključni za prebroditev morebitnih tržnih nihanj.",
+      "intenziteta": 2,
+      "povzetek": "Poročila kažejo, da korporativni insajderji, torej vodilni delavci in direktorji podjetij, izkazujejo izrazito medvedje razpoloženje do delniškega trga. Njihova aktivnost prodaje delnic je dosegla raven, ki je ni bilo že več kot 20 let. To pomeni, da so insajderji, ki imajo najboljši vpogled v poslovanje svojih podjetij in širše gospodarske razmere, izjemno pesimistični glede prihodnjih gibanj. Kljub temu so danes ameriški indeksi, kot sta S&P 500 (+0,51 %) in Nasdaq 100 (+0,61 %), zabeležili rast.",
+      "analiza": "Aktivnost korporativnih insajderjev velja za pomemben indikator tržnega sentimenta, saj njihove odločitve o nakupu ali prodaji delnic pogosto temeljijo na informacijah, ki še niso javno dostopne. Njihovo trenutno izrazito medvedje razpoloženje, najvišje v več kot dveh desetletjih, je relevantno, saj lahko napoveduje morebitno prihodnje ohladitev trga. Mehanizem vpliva je predvsem psihološki in se kaže v povečani previdnosti med institucionalnimi in individualnimi vlagatelji. Čeprav danes S&P 500 raste pri 7476 točkah, lahko takšni signali dolgoročno vplivajo na zaupanje. Za delnice to pomeni potencialno povečanje prodajnih pritiskov, še posebej v sektorjih, kjer je aktivnost insajderjev najbolj izrazita. Na obveznice in valute vpliv ni neposreden, lahko pa posredno vpliva na pričakovanja glede gospodarske rasti in s tem na politiko centralnih bank. VIX indeks, ki meri pričakovano volatilnost trga, je danes sicer padel za -1,46 % na 16,84, kar kaže na trenutno umirjenost, vendar insajderski signali opozarjajo na potencialne turbulence. Zgodovinsko gledano so obdobja visoke insajderske prodaje pogosto sovpadala z vrhovi trga ali predhodila pomembnim korekcijam. V prihodnje bo ključno spremljati, ali se bo ta trend nadaljeval in kako se bo odražal v širših makroekonomskih podatkih. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da je kljub kratkoročnim rastem trga pomembno ostati previden in preveriti diverzifikacijo portfelja.",
       "vpliv": [
-        "Pesimizem korporativnih insajderjev na najvišji ravni v 20 letih",
-        "Potencialni opozorilni signal za delniški trg",
-        "Povečan pritisk na prodajo delnic",
-        "Možnost tržnih korekcij"
+        "Povečana previdnost vlagateljev",
+        "Potencialni prodajni pritiski na delniškem trgu",
+        "Zmanjšanje apetita po tveganju",
+        "Rast donosnosti 10-letne ameriške obveznice na 4,74 % (+1,59 %)"
       ],
       "vir": "MarketWatch",
       "vir_url": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories",
       "objavljeno": "2026-07-31T15:21:00.000Z"
     },
     {
-      "naslov": "Zgodba o propadu 45 milijard dolarjev vrednega AI hedge sklada v nekaj dneh",
+      "naslov": "Delnice Microna padajo po izjavi Applea o želji po več dobaviteljih pomnilnika",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Leopold Aschenbrenner, nekdanji raziskovalec OpenAI, ki je postal upravitelj hedge sklada, je doživel dramatičen padec svojega AI-osredotočenega sklada Situational Awareness ta teden. Sklad, ki je bil vreden 45 milijard dolarjev, je v nekaj dneh izgubil večino svoje vrednosti. To poudarja izjemno volatilnost in tveganja, povezana z naložbami v umetno inteligenco, zlasti v visoko špekulativnih skladih. Novica CNBC opozarja na hitrost in obseg izgube.",
-      "analiza": "Ozadje te novice je v hitri rasti in euforiji okoli umetne inteligence, ki je privabila ogromno kapitala v sektor, vključno z visoko tveganimi hedge skladi. Leopold Aschenbrenner je bil znan po svojem ozadju v OpenAI, kar je verjetno prispevalo k privlačnosti njegovega sklada. Pomen te zgodbe je v tem, da služi kot opozorilo pred prekomernim navdušenjem in špekulativnimi baloni v hitro rastočih sektorjih, kot je AI. Mehanizem vpliva je, da propad tako velikega sklada lahko sproži zaskrbljenost glede stabilnosti celotnega AI sektorja in povzroči umik kapitala iz podobnih, visoko tveganih naložb. Posledice so negativne za delnice AI podjetij, zlasti tistih, ki so precenjena ali so odvisna od špekulativnega kapitala. To lahko povzroči korekcije v sektorju in poveča previdnost vlagateljev. Za kriptovalute, ki so prav tako visoko tvegane, bi to lahko pomenilo dodaten pritisk, saj se vlagatelji umikajo iz tveganih sredstev; Bitcoin je danes padel za 3.00 % na 62785 USD. Slovenski dolgoročni vlagatelj bi moral biti previden pri naložbah v visoko špekulativne sektorje in se osredotočiti na podjetja z močnimi temelji in trajnostnim poslovnim modelom, tudi znotraj AI sektorja.",
+      "intenziteta": 2,
+      "povzetek": "Delnice podjetja Micron so padle, potem ko je Tim Cook, izvršni direktor Applea, izrazil željo po večjem številu dobaviteljev pomnilniških čipov. Ta izjava je prišla v času, ko se Apple in Amazon soočata z višjimi cenami pomnilnika, kar negativno vpliva na njune stroške. Želja po diverzifikaciji dobaviteljev s strani velikih tehnoloških gigantov kaže na pritisk na obstoječe proizvajalce pomnilnika, kot je Micron, da znižajo cene ali se soočijo s povečano konkurenco.",
+      "analiza": "Ta novica poudarja dinamiko dobavnih verig in konkurenčnosti v tehnološkem sektorju, še posebej na trgu polprevodnikov. Visoke cene pomnilnika so vplivale na dobičkonosnost velikih potrošnikov, kot sta Apple in Amazon, kar jih sili k iskanju alternativ. To je relevantno zdaj, saj pomanjkanje čipov in nihanja cen vplivajo na celotno tehnološko industrijo. Mehanizem vpliva je neposreden: izjava ključnega kupca, kot je Apple, lahko sproži prodajo delnic pri dobaviteljih, kot je Micron, zaradi pričakovanj o zmanjšanju povpraševanja ali cenovnih pritiskih. Za delnice podjetij, kot je Micron, to pomeni negativen pritisk, medtem ko bi lahko potencialno koristilo manjšim ali novim dobaviteljem pomnilnika. Na širši tehnološki indeks, kot je Nasdaq 100 (danes +0,61 % pri 28279 točkah), vpliv ni bil sistemski, vendar kaže na specifične izzive v določenih segmentih. Obveznice in valute so manj neposredno prizadete. Zgodovinsko gledano so dobavne verige v tehnološkem sektorju pogosto podvržene cikličnim nihanjem, kjer obdobja pomanjkanja in visokih cen sledijo obdobjem presežne ponudbe in padca cen. V prihodnje bo ključno opazovati naložbe v proizvodne zmogljivosti in razvoj novih tehnologij pomnilnika. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno razumeti dinamiko dobavnih verig in konkurenčnosti v tehnološkem sektorju, saj lahko to vpliva na dolgoročno uspešnost posameznih podjetij.",
       "vpliv": [
-        "Dramatičen padec 45 milijard dolarjev vrednega AI hedge sklada",
-        "Povečana volatilnost in tveganja v AI sektorju",
-        "Potencialne korekcije delnic AI podjetij",
-        "Opozorilo pred špekulativnimi baloni"
+        "Padec delnic Microna",
+        "Povečana konkurenca na trgu pomnilniških čipov",
+        "Pritisk na cene pomnilnika",
+        "Potencialna diverzifikacija dobavnih verig za Apple in Amazon"
       ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-      "objavljeno": "2026-07-31T14:44:44.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/microns-stock-falls-after-apples-tim-cook-expresses-a-desire-for-more-memory-suppliers-a7bc0502?mod=mw_rss_topstories",
+      "objavljeno": "2026-07-31T15:59:00.000Z"
+    },
+    {
+      "naslov": "Španski premier obsoja množičen prihod 60.000 migrantov v Ceuto",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Španski premier Pedro Sánchez je ostro obsodil množičen prihod 60.000 migrantov v špansko enklavo Ceuta, ki meji na Maroko. Sánchez je ta dogodek označil za 'kršitev ozemeljske celovitosti' Španije. Ta izjemen pritok migrantov predstavlja velik humanitarni in varnostni izziv za Španijo in Evropsko unijo. Dogodek poudarja naraščajoče geopolitične in socialne napetosti v regiji.",
+      "analiza": "Množičen prihod migrantov v Ceuto je resen dogodek z daljnosežnimi posledicami za Španijo in celotno Evropsko unijo. Ozadje vključuje kompleksne socialno-ekonomske dejavnike v izvornih državah migrantov ter napetosti v odnosih med Španijo in Marokom. Ta dogodek je relevanten zdaj, saj lahko sproži politične in gospodarske odzive po vsej Evropi, vpliva na notranjo politiko in proračunske izdatke za upravljanje migracij. Mehanizem vpliva na finančne trge je predvsem posreden: lahko poveča politično negotovost, vpliva na zaupanje vlagateljev v stabilnost regije in potencialno povzroči pritisk na javne finance. Za delnice to lahko pomeni povečano volatilnost v sektorjih, ki so občutljivi na politično stabilnost in potrošniško zaupanje v južni Evropi. Na obveznice lahko vpliva povečanje državnega dolga zaradi stroškov upravljanja migracij, kar bi lahko zvišalo donosnosti. Valute, kot je evro (EUR/USD danes -0,03 % pri 1,1525), so lahko pod pritiskom zaradi splošne negotovosti v evroobmočju. Zgodovinsko gledano so migracijske krize v Evropi že povzročile politične pretrese in vplivale na gospodarske politike. V prihodnje bo ključno opazovati odziv EU, morebitne spremembe v migracijskih politikah in stabilnost odnosov med Španijo in Marokom. Za slovenskega dolgoročnega vlagatelja to poudarja pomen spremljanja geopolitičnih in socialnih trendov v Evropi, saj lahko ti vplivajo na širše gospodarsko okolje in s tem na naložbene priložnosti.",
+      "vpliv": [
+        "Povečana politična negotovost v Španiji in EU",
+        "Potencialni pritisk na javne finance",
+        "Vpliv na zaupanje vlagateljev v regijo",
+        "Zmeren padec EUR/USD na 1,1525 (-0,03 %)"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/34917d6f-c8ec-4e13-890a-4d8475806bb7?syn-25a6b1a6=1",
+      "objavljeno": "2026-07-31T17:06:10.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-31T17:05:54.545Z",
+    "posodobljenoOb": "2026-07-31T17:13:57.746Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7475.78,
+        "vrednost": 7475.75,
         "sprememba_pct": 0.51
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 28275.488,
-        "sprememba_pct": 0.6
+        "vrednost": 28279.158,
+        "sprememba_pct": 0.61
       },
       {
         "simbol": "^GDAXI",
@@ -141,22 +124,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4098.8,
-        "sprememba_pct": -1.49,
+        "vrednost": 4099.9,
+        "sprememba_pct": -1.46,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 84.76,
-        "sprememba_pct": 1.4,
+        "vrednost": 84.83,
+        "sprememba_pct": 1.48,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 89.92,
-        "sprememba_pct": 1,
+        "vrednost": 90.01,
+        "sprememba_pct": 1.1,
         "enota": "USD/sod"
       }
     ],
@@ -164,8 +147,8 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1522,
-        "sprememba_pct": -0.06
+        "vrednost": 1.1525,
+        "sprememba_pct": -0.03
       }
     ],
     "obveznice": [
@@ -181,16 +164,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 62784.67,
-        "sprememba_pct": -3,
+        "vrednost": 62814.42,
+        "sprememba_pct": -2.95,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16.92,
-      "sprememba_pct": -0.99
+      "vrednost": 16.84,
+      "sprememba_pct": -1.46
     }
   }
 }
