@@ -1,133 +1,116 @@
 {
-  "generiranoOb": "2026-08-01T06:40:34.035Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-08-01T16:30:12.373Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-08-01",
-  "povzetek": "Jutranji pregled finančnih trgov razkriva mešano, a večinoma pozitivno sliko. Ameriški trgi so noč zaključili z rastjo, kjer je S&P 500 pridobil 0,70 % in dosegel 7490 točk, Nasdaq 100 pa je zrasel za 0,60 % na 28274 točk. Azijski trgi so sledili z močnim optimizmom, še posebej Nikkei 225, ki je poskočil za 4,03 % na 64362 točk, medtem ko je evropski DAX ostal skoraj nespremenjen pri 25629 točkah (+0,07 %). Na trgu surovin je cena zlata padla za 1,29 % na 4107,00 USD/oz, medtem ko sta nafta WTI in Brent zrasli za 1,29 % oziroma 1,22 %, na 84,67 USD/sod in 90,12 USD/sod. Donosnost 10-letne ameriške državne obveznice se je povečala za 1,76 % na 4,75 %, kar kaže na določeno negotovost glede obrestnih mer. Geopolitične napetosti med ZDA in Iranom ostajajo v ospredju, medtem ko Evropska unija uvaja nova pravila za označevanje vsebin, ustvarjenih z umetno inteligenco. Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v ZDA, ki lahko vplivajo na prihodnje odločitve Federal Reserve glede obrestnih mer.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z relativno umirjenim gibanjem, medtem ko so ameriški indeksi po dveh urah trgovanja kazali zmerno rast. Nemški DAX je dan zaključil s skromno rastjo +0,07 % pri 25629 točkah, medtem ko je azijski Nikkei 225 zabeležil močno rast +4,03 % pri 64362 točkah. V ZDA sta S&P 500 in Nasdaq 100 po dveh urah trgovanja beležila rast +0,70 % pri 7490 točkah oziroma +0,60 % pri 28274 točkah. Na trgu surovin je cena nafte WTI zrasla za +1,29 % na 84,67 USD/sod, Brent pa za +1,22 % na 90,12 USD/sod, kar je odraz geopolitičnih napetosti, zlasti opozoril Irana glede morebitnih ameriških napadov. Zlato je medtem padlo za -1,29 % na 4107,00 USD/oz, medtem ko je donosnost 10-letne ameriške obveznice zrasla za +1,76 % na 4,75 %. Vlagatelji bodo v prihodnjem tednu pozorno spremljali objavo podatkov o inflaciji v ZDA, ki bo ključna za smer monetarne politike. ",
   "novice": [
     {
-      "naslov": "EU uvaja obvezno označevanje vsebin, ustvarjenih z umetno inteligenco",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Evropska unija je uvedla nova pravila, ki od podjetij zahtevajo obvezno označevanje chatbotov, 'deepfake' vsebin in marketinškega gradiva, ustvarjenega z umetno inteligenco. Ta regulacija je primerjana z uvedbo 'piškotnih pasic' (cookie banners), ki so postale standard na spletu. Cilj je povečati transparentnost in zaupanje uporabnikov v digitalne vsebine. Nova pravila prihajajo v času hitrega razvoja in širjenja umetne inteligence v vseh segmentih družbe. To predstavlja pomemben korak v globalnem urejanju področja AI.",
-      "analiza": "Uvedba obveznega označevanja vsebin, ustvarjenih z umetno inteligenco, s strani Evropske unije predstavlja pomemben regulativni mejnik. V ozadju je hitra rast in vseprisotnost AI tehnologij, ki prinašajo tako priložnosti kot tudi tveganja, kot so širjenje dezinformacij in vprašanja avtentičnosti. Ta poteza je relevantna zdaj, saj se globalno krepi razprava o etičnih in pravnih okvirih za AI, s poudarkom na transparentnosti in odgovornosti. Mehanizem vpliva na finančne trge je večplasten: za podjetja, ki razvijajo in uporabljajo AI, to pomeni dodatne stroške in prilagoditve poslovanja, kar lahko kratkoročno vpliva na njihovo profitabilnost in s tem na cene delnic v tehnološkem sektorju. Dolgoročno pa lahko povečana transparentnost zgradi zaupanje potrošnikov in podjetij v AI, kar bi lahko spodbudilo širšo sprejetost in rast sektorja. Posledice za delnice tehnoloških podjetij, še posebej tistih, ki so močno vpletena v AI, so lahko mešane – nekatera se bodo lažje prilagodila, druga bodo morda potrebovala več časa. Na valute in surovine ne pričakujemo neposrednega vpliva, posredno pa lahko vpliva na gospodarsko rast v EU, kar bi se odrazilo na evru. Podobne regulacije smo v preteklosti videli pri varovanju podatkov (GDPR), kar je prav tako sprva povzročilo stroške, nato pa dolgoročno stabiliziralo trg. Vlagatelji naj spremljajo, kako se bodo velika tehnološka podjetja odzvala na te zahteve in ali bodo podobni predpisi sprejeti tudi drugod po svetu. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno razumeti regulativna tveganja in priložnosti v sektorju umetne inteligence ter iskati podjetja, ki so odporna in inovativna v spreminjajočem se regulativnem okolju.",
-      "vpliv": [
-        "Povečani stroški za podjetja, ki uporabljajo AI",
-        "Potencialno povečano zaupanje potrošnikov v AI tehnologije",
-        "Mešan vpliv na delnice tehnoloških podjetij",
-        "Posreden vpliv na gospodarsko rast v EU in tečaj EUR"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/19ff059b-1d02-4f0e-9b34-ce96edb0cb13?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-01T04:00:05.000Z"
-    },
-    {
-      "naslov": "Združeno kraljestvo napoveduje jesenski proračun s poudarkom na decentralizaciji",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Nova kanclerka Združenega kraljestva, Healey, je napovedala, da bo proračun predstavljen oktobra. Ključna obljuba je premik denarja in moči iz Westminstra v vse dele Velike Britanije. Ta poteza je del širše strategije za zmanjšanje regionalnih razlik in spodbujanje lokalnega razvoja. Napoved proračuna je pomemben dogodek za britansko gospodarstvo in finančne trge, saj bo določil fiskalno politiko vlade za prihodnje obdobje. Pričakuje se, da bo proračun vseboval ukrepe za spodbujanje rasti in obvladovanje inflacije.",
-      "analiza": "Napoved jesenskega proračuna Združenega kraljestva s poudarkom na decentralizaciji je pomemben makroekonomski dogodek. V ozadju je dolgotrajna razprava o regionalnih disparitetah in potrebi po uravnoteženem gospodarskem razvoju po vsej državi. Relevantnost zdaj je v tem, da nova vlada poskuša vzpostaviti svojo fiskalno agendo in se odzvati na gospodarske izzive, kot so inflacija in morebitna upočasnitev rasti. Mehanizem vpliva na finančne trge je predvsem skozi pričakovanja glede javne porabe, davčnih politik in morebitnih investicijskih spodbud. Povečana javna poraba v regijah lahko spodbudi lokalno gospodarstvo, vendar lahko tudi poveča javni dolg. Posledice za delnice podjetij, ki so odvisna od javnih naročil ali lokalnega povpraševanja, so lahko pozitivne. Na obveznice lahko vpliva pričakovana raven zadolževanja države; večje zadolževanje bi lahko dvignilo donosnosti. Na valute, predvsem GBP, lahko vpliva splošno zaupanje v fiskalno politiko vlade in njeno sposobnost obvladovanja javnih financ. Zgodovinsko gledano so proračunske objave pogosto povzročile kratkoročno volatilnost na trgih. Vlagatelji naj pozorno spremljajo podrobnosti proračuna, še posebej glede sektorskih investicij in davčnih sprememb. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da fiskalna politika velikih gospodarstev, kot je Združeno kraljestvo, lahko vpliva na globalno gospodarsko rast in s tem posredno na donosnost mednarodnih naložb. Diverzifikacija portfelja ostaja ključna.",
-      "vpliv": [
-        "Potencialno povečana javna poraba v regijah Združenega kraljestva",
-        "Vpliv na donosnost britanskih državnih obveznic glede na raven zadolževanja",
-        "Volatilnost tečaja GBP ob objavi proračuna",
-        "Vpliv na delnice podjetij, odvisnih od javnih naročil"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-08-01T03:34:26.000Z"
-    },
-    {
-      "naslov": "FIFA opušča načrt prodaje deleža v svetovnem prvenstvu zaradi globalnega odpora",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Mednarodna nogometna zveza FIFA je opustila načrt prodaje 20 milijard dolarjev vrednega deleža v svetovnem prvenstvu po močnem globalnem odzivu in nasprotovanju. Predsednik FIFA, Gianni Infantino, je izjavil, da je bilo 'jasno', da je projekt ustvaril delitve, ki niso bile v interesu organizacije. Ta odločitev sledi obsežnim kritikam iz nogometnega sveta glede komercializacije in morebitnega vpliva na integriteto športa. Načrt je predvideval vstop zasebnih vlagateljev v lastniško strukturo svetovnega prvenstva.",
-      "analiza": "Odločitev FIFA, da opusti načrt prodaje 20 milijard dolarjev vrednega deleža v svetovnem prvenstvu, je pomemben signal o moči javnega mnenja in deležnikov v velikih organizacijah. V ozadju je bil poskus komercializacije in iskanja novih virov financiranja, ki pa je naletel na močan odpor zaradi strahu pred izgubo nadzora in prevelikim vplivom zasebnega kapitala na šport. To je relevantno zdaj, saj kaže na omejitve, s katerimi se soočajo tudi največje globalne organizacije pri iskanju finančnih sredstev, če to ogroža njihovo javno podobo ali temeljne vrednote. Mehanizem vpliva na finančne trge je posreden, vendar pomemben za investicijsko bankirstvo in zasebni kapital. Neuspeh tako velikega posla lahko zmanjša apetit za podobne transakcije v prihodnosti, še posebej v sektorjih z močnim javnim interesom. Posledice za delnice investicijskih bank, ki bi bile vpletene v takšen posel, so lahko negativne zaradi izgubljenih provizij. Na valute, obveznice in surovine ne pričakujemo neposrednega vpliva. Zgodovinsko gledano so podobni primeri, ko so veliki posli propadli zaradi javnega pritiska, pokazali, da ugled in družbena odgovornost postajata vse pomembnejša dejavnika pri ocenjevanju investicij. Vlagatelji naj spremljajo, kako bodo velike športne in kulturne organizacije v prihodnje iskale vire financiranja in ali se bodo odločale za bolj transparentne in vključujoče modele. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pri ocenjevanju naložb v podjetja ali projekte, ki so močno izpostavljeni javnemu mnenju, pomembno upoštevati tudi nematerialna tveganja, kot so ugled in družbena sprejemljivost.",
-      "vpliv": [
-        "Izgubljene potencialne provizije za investicijske banke",
-        "Zmanjšan apetit za podobne velike komercialne transakcije v športu",
-        "Poudarek na pomembnosti javnega mnenja in ugleda pri poslih",
-        "Posreden vpliv na splošno investicijsko sentiment"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-01T01:57:13.000Z"
-    },
-    {
-      "naslov": "Ameriško finančno ministrstvo izvaja zgodovinsko intervencijo na trgu jena",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Ameriško finančno ministrstvo je izvedlo zgodovinsko intervencijo na trgu jena, pri čemer je Newyorška podružnica Federal Reserve prodala evre za nakup jena. Ta poteza sledi nedavnim špekulacijam, da je Tokio že posredoval za podporo japonski valuti. Intervencija je namenjena stabilizaciji jena, ki je bil pod pritiskom zaradi razlik v obrestnih merah med Japonsko in drugimi velikimi gospodarstvi. To je redek primer usklajenega delovanja med centralnimi bankami in finančnimi ministrstvi.",
-      "analiza": "Zgodovinska intervencija ameriškega finančnega ministrstva na trgu jena je ključen dogodek za globalne valute in makroekonomsko politiko. V ozadju je dolgotrajna šibkost jena, ki je posledica izrazito ohlapne monetarne politike Banke Japonske v primerjavi z bolj zaostrenimi politikami drugih centralnih bank, kot je Federal Reserve. To je relevantno zdaj, saj kaže na zaskrbljenost glede prekomerne volatilnosti valutnih tečajev in morebitnih negativnih posledic za globalno gospodarstvo. Mehanizem vpliva je neposreden: prodaja evrov in nakup jena s strani Newyorške podružnice Federal Reserve poveča povpraševanje po jenu, kar ga krepi. Posledice za valute so takojšnje – jen se je okrepil, medtem ko je EUR/USD, ki je že padel za 0,02 % na 1.1527, lahko pod dodatnim pritiskom. Za obveznice lahko stabilizacija jena zmanjša pritisk na japonske državne obveznice, medtem ko bi lahko vplivala na donosnosti ameriških obveznic, če bi se spremenila pričakovanja glede globalnih tokov kapitala. Na delnice lahko vpliva na podjetja, ki so močno izpostavljena japonskemu izvozu ali uvozu. Zgodovinsko gledano so usklajene intervencije na valutnih trgih redke, a pogosto učinkovite pri kratkoročni stabilizaciji. Vlagatelji naj spremljajo nadaljnje odzive Banke Japonske in Federal Reserve ter gibanje tečaja jena. Za slovenskega dolgoročnega vlagatelja to pomeni, da so globalni valutni trgi medsebojno povezani in da so intervencije velikih akterjev lahko močan dejavnik, ki vpliva na vrednost naložb v različne valute in mednarodna podjetja. Razumevanje teh dinamik je ključno za upravljanje tveganj.",
-      "vpliv": [
-        "Okrepitev japonskega jena",
-        "Potencialen pritisk na tečaj EUR/USD",
-        "Vpliv na donosnosti japonskih in ameriških obveznic",
-        "Vpliv na delnice podjetij, izpostavljenih japonskemu trgu"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-31T23:03:56.000Z"
-    },
-    {
-      "naslov": "Citadelova rešitev hedge sklada Situational Awareness umirila trg AI delnic",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Hedge sklad Citadel je s svojo potezo pomagal ustaviti 3 bilijone dolarjev vreden padec delnic, povezanih z umetno inteligenco, ki so ga povzročili problemi sklada Situational Awareness. Leopold Aschenbrenner, ustanovitelj sklada Situational Awareness, je napačno ocenil smer AI delnic in financiral svoje posle z dolgom, kar je privedlo do velikih izgub. Vlagatelji so potezo Citadela pozdravili kot znak pomiritve na trgu tehnoloških delnic. To poudarja tveganja, povezana z visoko zadolženostjo in špekulativnimi naložbami v hitro rastočih sektorjih.",
-      "analiza": "Rešitev hedge sklada Situational Awareness s strani Citadela je ključna novica za finančne trge, še posebej za sektor umetne inteligence. V ozadju je bil velik padec delnic, povezanih z AI, v višini 3 bilijonov dolarjev, ki ga je sprožil napačen položaj sklada Situational Awareness, financiran z dolgom. To je relevantno zdaj, saj kaže na ranljivost visoko cenjenih in špekulativnih sektorjev, kot je AI, ter na pomen likvidnosti in upravljanja tveganj v hedge skladih. Mehanizem vpliva na finančne trge je predvsem psihološki in likvidnostni: intervencija velikega igralca, kot je Citadel, je pomirila trg in preprečila nadaljnjo verižno reakcijo. Posledice za delnice v sektorju AI so pozitivne, saj je bil preprečen nadaljnji padec, kar je pomagalo stabilizirati širše trge. S&P 500 je zrasel za 0,70 % na 7490, Nasdaq 100 pa za 0,60 % na 28274, kar delno odraža to pomiritev. Na obveznice, valute in surovine ne pričakujemo neposrednega vpliva, vendar splošna stabilizacija trga delnic zmanjšuje sistemsko tveganje. Zgodovinsko gledano so primeri propadov hedge skladov, kot je Long-Term Capital Management, pokazali, kako hitro se lahko težave enega subjekta razširijo na celoten sistem. Vlagatelji naj spremljajo nadaljnje gibanje delnic AI in morebitne regulativne odzive na visoko zadolženost v špekulativnih naložbah. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub privlačnosti hitro rastočih sektorjev pomembno biti previden glede pretirane špekulacije in visoke zadolženosti, saj lahko to povzroči veliko volatilnost in tveganja za celoten portfelj. Diverzifikacija in dolgoročna perspektiva sta ključni.",
-      "vpliv": [
-        "Stabilizacija delnic v sektorju umetne inteligence",
-        "Zmanjšanje splošnega tržnega tveganja",
-        "Pozitiven vpliv na delnice S&P 500 (+0,70 %) in Nasdaq 100 (+0,60 %)",
-        "Opozorilo na tveganja visoke zadolženosti v špekulativnih naložbah"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-31T21:46:17.000Z"
-    },
-    {
-      "naslov": "Trump grozi z napadi na Iran, Iran napoveduje odziv v primeru 'nore' akcije ZDA",
+      "naslov": "Iran opozarja na 'plamene vojne' ob grožnjah ZDA z napadi na energetske objekte",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Napetosti med ZDA in Iranom so se ponovno zaostrile, saj je nekdanji predsednik Trump zagrozil z napadi, medtem ko je iranski uradnik, ki ga navaja Tasnim, izjavil, da so pripravljeni celoviti načrti za odziv na morebitne 'nore' ameriške napade. Ta izmenjava groženj kaže na visoko stopnjo geopolitičnega tveganja v regiji. Situacija ostaja izjemno občutljiva in bi lahko imela daljnosežne posledice za globalno stabilnost in gospodarstvo. To je nadaljevanje dolgotrajnih napetosti med državama.",
-      "analiza": "Grožnje z napadi med ZDA in Iranom predstavljajo ključno geopolitično tveganje, ki ima lahko pomembne posledice za globalne finančne trge. V ozadju so dolgotrajne politične in strateške razlike med državama, ki se redno zaostrujejo. Relevantnost zdaj je v tem, da se retorika stopnjuje, kar povečuje verjetnost za morebiten konflikt, ki bi imel globalne razsežnosti. Mehanizem vpliva na finančne trge je predvsem skozi cene surovin, še posebej nafte, saj je regija ključna za globalno oskrbo z energijo. Povečana negotovost in strah pred motnjami v dobavi sta že povzročila rast cen nafte WTI za 1,29 % na 84,67 USD/sod in Brenta za 1,22 % na 90,12 USD/sod. Posledice za delnice so lahko negativne, saj se poveča splošno tveganje in zmanjša apetit po tveganih naložbah, kar lahko povzroči padce indeksov. Obveznice, še posebej ameriške državne obveznice, lahko delujejo kot varno zatočišče, kar bi lahko zmanjšalo njihove donosnosti (čeprav je 10Y US Treasury danes zrasla za 1,76 % na 4,75 %, kar kaže na mešane signale). Na valute lahko vpliva povečano povpraševanje po varnih valutah, kot je ameriški dolar. Zgodovinsko gledano so se geopolitične krize na Bližnjem vzhodu vedno odrazile na cenah nafte in globalni volatilnosti. Vlagatelji naj pozorno spremljajo razvoj dogodkov in morebitne diplomatske pobude. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno biti pozoren na geopolitična tveganja, ki lahko močno vplivajo na cene surovin in splošno tržno razpoloženje. Diverzifikacija portfelja in vlaganje v podjetja, ki so manj izpostavljena takšnim tveganjem, lahko zmanjšata potencialne izgube.",
+      "povzetek": "Iranski mediji poročajo, da je Teheran pripravil načrt za povračilne ukrepe, če bi ZDA uresničile grožnje z napadi na iranske civilne energetske objekte. Opozorilo prihaja po tem, ko so ameriški mediji namigovali na morebitne neposredne napade. Iran je izrecno posvaril pred 'plameni vojne', kar kaže na stopnjevanje napetosti v regiji. Ta razvoj dogodkov se pojavlja v času že tako krhkih odnosov med državama. Obe strani sta v preteklosti že izmenjevali grožnje, vendar so tokratne omembe 'civilnih energetskih objektov' in 'povračilnih ukrepov' še posebej zaskrbljujoče. Situacija ostaja izjemno napeta in zahteva pozorno spremljanje.",
+      "analiza": "Ozadje teh napetosti sega v desetletja rivalstva med ZDA in Iranom, ki se je v zadnjih letih še zaostrilo zaradi jedrskega programa Irana in njegove vloge v regionalnih konfliktih. Grožnje z napadi na energetske objekte so izjemno relevantne, saj Iran velja za pomembnega akterja na svetovnem energetskem trgu. Morebitni napadi ali povračilni ukrepi bi lahko močno motili dobavo nafte iz regije, kar bi imelo globalne posledice. Mehanizem vpliva je neposreden: strah pred motnjami v dobavi nafte običajno povzroči rast cen. Danes sta ceni nafte WTI in Brent že zrasli za +1,29 % na 84,67 USD/sod oziroma za +1,22 % na 90,12 USD/sod, kar kaže na odziv trga. Posledice za delnice bi bile verjetno negativne zaradi splošnega povečanja tveganja in morebitnega vpliva na gospodarsko rast, medtem ko bi se vlagatelji morda zatekli v varnejša sredstva, kot so obveznice, čeprav je donosnost 10-letne ameriške obveznice danes zrasla na 4,75 %. Za slovenskega dolgoročnega vlagatelja to pomeni, da je ključno spremljati geopolitične dogodke, saj lahko imajo pomemben vpliv na cene surovin in splošno stabilnost trgov, kar vpliva na portfelje, tudi če so ti razpršeni.",
       "vpliv": [
-        "Rast cen nafte (WTI +1,29 % na 84,67 USD/sod, Brent +1,22 % na 90,12 USD/sod)",
+        "Rast cen nafte (WTI +1,29 %, Brent +1,22 %)",
         "Povečana geopolitična tveganja",
-        "Potencialen padec delnic zaradi zmanjšanega apetita po tveganju",
-        "Povečano povpraševanje po varnih valutah, kot je USD"
+        "Potencialen padec delniških trgov",
+        "Povečano povpraševanje po varnih zatočiščih"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
-      "objavljeno": "2026-07-31T23:59:40.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
+      "objavljeno": "2026-08-01T12:44:54.000Z"
     },
     {
-      "naslov": "Ameriški senatni zaslišanje Faucija ni razkrilo novih dejstev o izvoru COVID-19",
+      "naslov": "Kriza financiranja socialne varnosti v ZDA: Neopažena grožnja za prihodnost",
       "sektor": "Makro & Centralne banke",
-      "smer": "nevtralno",
-      "intenziteta": 1,
-      "povzetek": "Zaslišanje dr. Anthonyja Faucija pred ameriškim senatom je ponovno odprlo razpravo o izvoru COVID-19, vendar ni razkrilo nobenih novih pomembnih informacij. Zaslišanje je poudarilo dolgoletne strankarske delitve glede tega vprašanja, ki so jih podžigale zavajajoče trditve Bele hiše. Kljub intenzivni razpravi, ki je trajala več ur, ni bilo preboja v razumevanju, kako se je pandemija začela. To kaže na nadaljevanje politične polarizacije okoli znanstvenih vprašanj.",
-      "analiza": "Zaslišanje dr. Anthonyja Faucija pred ameriškim senatom o izvoru COVID-19, ki ni prineslo novih dejstev, je predvsem politični dogodek z omejenim neposrednim vplivom na finančne trge. V ozadju je dolgotrajna in politizirana razprava o izvoru pandemije, ki je v ZDA postala predmet strankarskih delitev. Relevantnost zdaj je v tem, da kljub poskusom razjasnitve ostaja vprašanje odprto, kar lahko prispeva k nadaljnji negotovosti in politični polarizaciji. Mehanizem vpliva na finančne trge je minimalen, saj ni bilo nobenih novih informacij, ki bi spremenile pričakovanja glede pandemije ali gospodarskih posledic. Posledice za delnice so zanemarljive, razen morda za zelo specifična podjetja v farmacevtskem ali biotehnološkem sektorju, ki so povezana z razvojem cepiv ali zdravil. Na obveznice, valute, surovine in kriptovalute ni pričakovati nobenega neposrednega vpliva. Zgodovinsko gledano so dogodki, ki ne prinesejo novih informacij, redko povzročili pomembne premike na trgih. Vlagatelji naj ta dogodek obravnavajo kot politično gledališče in ne kot dejavnik, ki bi bistveno vplival na njihove naložbene odločitve. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno ločevati med političnim hrupom in dejanskimi informacijami, ki imajo potencialni vpliv na finančne trge. Osredotočanje na temeljne dejavnike in dolgoročne trende je bolj produktivno kot odzivanje na vsako politično razpravo.",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "MarketWatch opozarja na prikrito, a pomembno krizo financiranja sistema socialne varnosti v ZDA. Članek poudarja, da medtem ko se razpravlja o večjih fiskalnih izzivih, se manj pozornosti posveča dolgoročni vzdržnosti pokojninskega sistema. Posebej izpostavlja, da odložitev upokojitve do 70. leta starosti sicer prinaša višje mesečno izplačilo, ki pa je sorazmerno povezano tudi z višjimi uskladitvami življenjskih stroškov. To nakazuje na kompleksnost problema in izzive pri zagotavljanju dolgoročne stabilnosti sistema. Financiranje socialne varnosti je ključno za milijone Američanov in morebitna kriza bi imela daljnosežne posledice.",
+      "analiza": "Kriza financiranja socialne varnosti v ZDA je dolgotrajen strukturni problem, ki ga poganjajo demografske spremembe, kot so staranje prebivalstva in nižja rodnost, ter neustrezne reforme. Ta problematika je relevantna zdaj, saj se približujemo točki, ko bi lahko sredstva začela kopneti, kar bi zahtevalo drastične ukrepe, kot so zvišanje davkov, znižanje ugodnosti ali zvišanje upokojitvene starosti. Mehanizem vpliva na finančne trge je posreden, a pomemben: dolgoročna fiskalna nestabilnost lahko vpliva na bonitetno oceno države, poveča stroške zadolževanja in zmanjša zaupanje vlagateljev. To bi lahko vplivalo na obvezniške trge, saj bi se povečalo tveganje za ameriške državne obveznice, kar bi lahko povzročilo rast donosnosti. Za delniške trge bi to pomenilo negotovost in morebitno zmanjšanje potrošnje v prihodnosti. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so makroekonomski izzivi velikih gospodarstev, kot so ZDA, globalno povezani in lahko vplivajo na svetovne trge, tudi na vrednost evra glede na dolar (EUR/USD je danes pri 1.1527).",
       "vpliv": [
-        "Minimalen neposreden vpliv na finančne trge",
-        "Nadaljevanje politične polarizacije v ZDA",
-        "Brez novih informacij o izvoru COVID-19",
-        "Brez vpliva na delnice, obveznice, valute, surovine, kriptovalute"
+        "Dolgoročna fiskalna negotovost ZDA",
+        "Potencialno zvišanje davkov ali znižanje ugodnosti",
+        "Vpliv na bonitetno oceno in stroške zadolževanja ZDA",
+        "Negativni vpliv na zaupanje potrošnikov in delniške trge"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-01T15:45:00.000Z"
+    },
+    {
+      "naslov": "Medicare spreminja program zdravil, kar lahko vpliva na stroške premij",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Medicare, ameriški program zdravstvenega zavarovanja za starejše, je pred spremembo programa zdravil, ki je v preteklosti pomagal zniževati stroške premij. Strokovnjaki opozarjajo, da bi ta sprememba lahko spodbudila več starejših oseb k prehodu na načrte Medicare Advantage. To bi lahko imelo pomemben vpliv na finančno stanje upokojencev in celotnega zdravstvenega sistema. Spremembe v programih zdravstvenega varstva so pogosto kompleksne in imajo daljnosežne posledice za zavarovance in ponudnike storitev. Pričakuje se, da bodo podrobnosti sprememb in njihov vpliv natančneje analizirani v prihodnjih tednih.",
+      "analiza": "Spremembe v programu Medicare niso redkost, vendar so tokratne pomembne, saj se dotikajo mehanizmov, ki so vplivali na stroške premij. V preteklosti so takšni programi pomagali stabilizirati stroške za zavarovance, kar je ključno za milijone starejših Američanov z omejenimi dohodki. Relevantnost teh sprememb je v tem, da lahko neposredno vplivajo na razpoložljivi dohodek upokojencev in s tem na njihovo potrošnjo. Mehanizem vpliva na finančne trge je dvojen: po eni strani lahko povečani stroški za posameznike zmanjšajo potrošnjo, kar bi lahko imelo negativen vpliv na sektor potrošniških dobrin. Po drugi strani pa bi morebitni prehod na načrte Medicare Advantage lahko bil pozitiven za podjetja, ki ponujajo te načrte, saj bi se povečalo število njihovih strank. Posledice za delnice bi bile mešane, odvisno od sektorja. Delnice farmacevtskih podjetij in zdravstvenih zavarovalnic bi lahko bile pod pritiskom ali pa bi pridobile, odvisno od specifik sprememb. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati regulativne spremembe v velikih gospodarstvih, saj lahko vplivajo na celotne sektorje in s tem na globalne delniške indekse, v katere so vložena sredstva.",
+      "vpliv": [
+        "Potencialno višje premije za nekatere zavarovance",
+        "Povečano zanimanje za načrte Medicare Advantage",
+        "Vpliv na potrošnjo starejših",
+        "Spremenjena dinamika v sektorju zdravstvenega varstva"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-01T15:29:00.000Z"
+    },
+    {
+      "naslov": "Ministri EU bodo razpravljali o španski migrantski krizi po kritikah Sáncheza",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Ministri za notranje zadeve Evropske unije se bodo v torek sestali, da bi razpravljali o migrantski krizi v Španiji, saj se napetosti glede imigracijske politike stopnjujejo. To srečanje sledi kritikam španskega premierja Sáncheza, ki je izrazil nezadovoljstvo nad odzivom EU. Kriza je postala še posebej akutna po množičnem pritoku migrantov v špansko enklavo Ceuta, kjer je umrlo 67 ljudi. Španija je sicer sporočila, da se je 50.000 migrantov, ki so vstopili v Ceuto, že vrnilo v Maroko, vendar problem ostaja pereč. Razprave bodo osredotočene na iskanje skupnih rešitev in usklajevanje politik znotraj bloka.",
+      "analiza": "Migrantska kriza je dolgotrajen izziv za Evropsko unijo, ki razkriva razpoke med državami članicami glede delitve bremen in skupne politike. Trenutno stopnjevanje napetosti v Španiji je relevantno, saj lahko vpliva na politično stabilnost v regiji in celotni EU. Neuspešno reševanje migrantskih vprašanj lahko vodi do porasta populističnih gibanj, politične nestabilnosti in morebitnega vpliva na kohezijo EU. Mehanizem vpliva na finančne trge je predvsem preko povečanja političnega tveganja in negotovosti, kar lahko vpliva na vrednost evra. Čeprav je EUR/USD danes ostal relativno stabilen pri 1.1527 (-0,02 %), bi dolgoročno stopnjevanje krize lahko povzročilo pritisk na skupno valuto. Povečana negotovost lahko tudi odvrne tuje investitorje od vlaganja v evropske delnice in obveznice. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati dogajanje v EU, saj stabilnost in kohezija bloka neposredno vplivata na gospodarsko okolje in s tem na vrednost naložb v evroobmočju.",
+      "vpliv": [
+        "Povečana politična nestabilnost v EU",
+        "Potencialni pritisk na vrednost evra",
+        "Vpliv na zaupanje investitorjev v evropske trge",
+        "Razprave o skupni imigracijski politiki EU"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/1b3f09b5-897e-4b7a-9949-2c4d9a32929e?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-01T15:39:41.000Z"
+    },
+    {
+      "naslov": "Novi izvršni direktor Best Buy-a napoveduje strategijo manjših trgovin za rast",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 1,
+      "povzetek": "Jason Bonfig, prihajajoči izvršni direktor podjetja Best Buy, je za CNBC povedal, da se bo osredotočil na širitev dosega podjetja in izboljšanje uporabniške izkušnje z odpiranjem manjših trgovin. Ta strategija je namenjena ohranjanju rasti podjetja v spreminjajočem se maloprodajnem okolju. Bonfig poudarja pomen prilagajanja potrebam strank in optimizacije fizične prisotnosti. S tem želi Best Buy ostati konkurenčen in privlačen za potrošnike, ki vse bolj iščejo priročnost in personalizirane storitve. Sprememba strategije kaže na prilagodljivost podjetja na tržne trende.",
+      "analiza": "Maloprodajni sektor se že vrsto let sooča z izzivi zaradi rasti spletne trgovine in spreminjajočih se navad potrošnikov. Velike trgovine so pogosto drage za vzdrževanje in manj prilagodljive. Strategija manjših trgovin, ki jo napoveduje Best Buy, je odraz širšega trenda v maloprodaji, kjer se podjetja osredotočajo na optimizacijo fizičnega odtisa in integracijo spletne in fizične prodaje. To je relevantno, saj lahko takšne inovativne strategije pomagajo podjetjem ohraniti dobičkonosnost in tržni delež. Mehanizem vpliva na finančne trge je predvsem preko vpliva na delnice podjetja Best Buy in širšega maloprodajnega sektorja. Uspešna implementacija te strategije bi lahko pozitivno vplivala na prihodke in dobiček podjetja, kar bi se odrazilo v rasti delnic. Posledice za delnice Best Buy bi bile pozitivne, če bi se strategija izkazala za uspešno. Za slovenskega dolgoročnega vlagatelja je pomembno, da spremlja, kako se velika podjetja v sektorju potrošnikov prilagajajo novim tržnim razmeram, saj to kaže na njihovo sposobnost preživetja in rasti v prihodnosti. Inovativne strategije lahko prinesejo dolgoročne donose.",
+      "vpliv": [
+        "Potencialna rast delnic Best Buy",
+        "Prilagoditev maloprodajnega sektorja novim trendom",
+        "Izboljšana uporabniška izkušnja",
+        "Optimizacija stroškov poslovanja"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
+      "objavljeno": "2026-08-01T12:00:01.000Z"
+    },
+    {
+      "naslov": "Izraelski napadi v Gazi ubili štiri ljudi in uničili skladišče medicinskih potrebščin",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Izraelski napadi v Gazi so danes povzročili smrt štirih ljudi in uničili skladišče medicinskih potrebščin. Ministrstvo za zdravje v Gazi je obsodilo 'gnusni' napad na skladišča zdravil, ki se je zgodil le nekaj dni po dogovoru o razorožitvi. Uničenje medicinskih zalog dodatno poslabšuje že tako kritične humanitarne razmere v regiji. Ti napadi so del širšega konflikta, ki še naprej povzroča trpljenje civilnega prebivalstva. Mednarodna skupnost poziva k umiritvi razmer in zaščiti civilistov ter humanitarne infrastrukture.",
+      "analiza": "Konflikt na Bližnjem vzhodu, še posebej med Izraelom in Gazo, je dolgotrajen in ima korenine v zgodovinskih, političnih in verskih sporih. Trenutni napadi so relevantni, saj kažejo na nadaljevanje nasilja kljub nedavnim poskusom dogovorov, kar ohranja visoko stopnjo nestabilnosti v regiji. Uničenje medicinskih zalog ima poleg humanitarne katastrofe tudi simbolično težo, saj kaže na krhkost vsakršnih dogovorov. Mehanizem vpliva na finančne trge je predvsem preko povečanja splošnega geopolitičnega tveganja. Čeprav ti specifični dogodki morda nimajo neposrednega vpliva na globalne indekse, kot sta S&P 500 (+0,70 %) ali DAX (+0,07 %), prispevajo k negotovosti, ki lahko vpliva na cene nafte in povpraševanje po varnih zatočiščih, kot je zlato (danes -1,29 % na 4107,00 USD/oz). Posledice za delnice so lahko posredne, saj vlagatelji postanejo bolj previdni. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so regionalni konflikti vir nestabilnosti, ki lahko vpliva na globalno ekonomijo in s tem na naložbe, zlasti tiste, ki so izpostavljene energetskemu sektorju ali regijam z visokim tveganjem.",
+      "vpliv": [
+        "Povečana humanitarna kriza v Gazi",
+        "Stopnjevanje regionalnih napetosti",
+        "Vpliv na cene nafte zaradi splošne negotovosti",
+        "Povečano povpraševanje po varnih zatočiščih"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss",
-      "objavljeno": "2026-07-31T22:10:10.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
+      "objavljeno": "2026-08-01T16:07:10.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-01T06:39:51.123Z",
+    "posodobljenoOb": "2026-08-01T16:29:31.418Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -198,8 +181,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63007.39,
-        "sprememba_pct": 0.29,
+        "vrednost": 62879.32,
+        "sprememba_pct": 0.09,
         "enota": "USD"
       }
     ],
