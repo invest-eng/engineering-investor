@@ -1,111 +1,128 @@
 {
-  "generiranoOb": "2026-07-31T17:15:06.608Z",
+  "generiranoOb": "2026-08-01T16:43:57.334Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-07-31",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z zmerno rastjo, medtem ko so ameriški indeksi po dveh urah trgovanja kazali močnejšo začetno smer. Nemški DAX je dan zaključil pri 25.629 točkah z minimalno rastjo +0,07 %, medtem ko sta v ZDA S&P 500 dosegel 7476 točk (+0,51 %), Nasdaq 100 pa 28279 točk (+0,61 %). Na trgu surovin je cena nafte WTI zrasla za +1,48 % na 84,83 USD za sod, Brent pa za +1,10 % na 90,01 USD za sod, medtem ko je zlato izgubilo -1,46 % vrednosti in se giblje pri 4099,90 USD za unčo. Kriptovalute so bile pod pritiskom, saj je Bitcoin padel za -2,95 % na 62814 USD. Med ključnimi novicami dneva izstopajo poročila o rekordnih dobičkih velikih naftnih podjetij, opozorila korporativnih insajderjev o medvedjem razpoloženju na delniškem trgu ter padec vrednosti velikega AI hedge sklada. Vlagatelji bodo ta teden pozorno spremljali objava podatkov o inflaciji v evroobmočju, ki lahko vpliva na pričakovanja glede monetarne politike.",
+  "datum": "2026-08-01",
+  "povzetek": "Evropski trgi so danes zaključili z rahlo rastjo, medtem ko so ameriški kazali močnejši začetek trgovanja. Nemški indeks DAX je dan zaključil pri 25629 točkah, kar predstavlja skromno rast za 0.07 %. Na drugi strani Atlantika sta ameriška indeksa S&P 500 in Nasdaq 100 po dveh urah trgovanja beležila rast, in sicer S&P 500 pri 7490 točkah (+0.70 %) ter Nasdaq 100 pri 28274 točkah (+0.60 %). Japonski Nikkei 225 je izstopal z izjemno rastjo 4.03 %, dosegel je 64362 točk. Na trgu surovin je cena zlata padla za 1.29 % na 4107.00 USD/oz, medtem ko sta ceni nafte WTI in Brent zrasli za 1.29 % (na 84.67 USD/sod) oziroma 1.22 % (na 90.12 USD/sod), kar je verjetno povezano z geopolitičnimi napetostmi, zlasti opozorili Irana. Donosnost 10-letne ameriške državne obveznice se je povečala za 1.76 % na 4.75 %, medtem ko je evro v primerjavi z dolarjem rahlo oslabel (EUR/USD 1.1527, -0.02 %). Bitcoin je ostal relativno stabilen z rastjo 0.12 % na 62898 USD, indeks volatilnosti VIX pa je padel za 6.44 % na 15.99, kar nakazuje zmanjšanje splošne negotovosti na trgu. Vlagatelji bodo v prihodnjih dneh pozorno spremljali razvoj geopolitičnih razmer in morebitne nadaljnje objave podjetij.",
   "novice": [
     {
-      "naslov": "Velika naftna podjetja beležijo izjemne dobičke med zgodovinsko krizo ponudbe",
-      "sektor": "Energetika",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Poročila kažejo, da so velika naftna podjetja, kot sta ExxonMobil in Chevron, v zadnjem četrtletju izkoristila zgodovinsko pomanjkanje ponudbe na trgu. Dobiček ExxonMobila se je v zadnjem četrtletju več kot podvojil, kar kaže na močno finančno uspešnost. Boljši rezultati Chevrona so prav tako pozitivno vplivali na vrednost delnic podjetja. Ta poročila prihajajo v času, ko se cene nafte WTI gibljejo pri 84,83 USD za sod, Brent pa pri 90,01 USD za sod, kar odraža napete razmere na globalnem energetskem trgu.",
-      "analiza": "Ozadje teh izjemnih dobičkov je globalno pomanjkanje nafte, ki je nastalo zaradi različnih geopolitičnih dejavnikov in omejenih naložb v proizvodnjo v preteklih letih. Konflikti in nestabilnost v ključnih regijah so dodatno zmanjšali dobavo, kar je povzročilo rast cen. To je relevantno zdaj, saj visoke cene nafte neposredno vplivajo na inflacijo in stroške poslovanja v številnih sektorjih. Mehanizem vpliva je preprost: višje cene surovin pomenijo večje prihodke in dobičke za proizvajalce. Za delnice energetskih podjetij to pomeni pozitivno gibanje, kot je bilo vidno pri Chevronu. Po drugi strani visoke cene nafte negativno vplivajo na podjetja v transportnem, proizvodnem in potrošniškem sektorju, saj povečujejo njihove operativne stroške. Za obveznice to lahko pomeni pritisk na centralne banke za zaostrovanje monetarne politike zaradi inflacijskih pritiskov. Valute držav, ki so neto izvoznice nafte, se lahko okrepijo, medtem ko valute uvoznic oslabelijo. Zgodovinsko gledano so obdobja pomanjkanja ponudbe nafte vedno vodila do visokih dobičkov za naftne gigante, kar se je ponovilo tudi v sedanjih razmerah. V prihodnje bo ključno spremljati geopolitične dogodke in odločitve OPEC+, ki lahko vplivajo na dinamiko ponudbe in povpraševanja. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor energetike lahko privlačen v obdobjih visokih cen surovin, vendar je treba upoštevati tudi dolgoročne trende prehoda na zeleno energijo in s tem povezane regulativne rizike.",
-      "vpliv": [
-        "Rast delnic energetskih podjetij",
-        "Povečani inflacijski pritiski",
-        "Rast cen nafte WTI na 84,83 USD/sod",
-        "Rast cen nafte Brent na 90,01 USD/sod"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/exxonmobil-chevrons-combined-profits-quadrupled-in-three-months-as-the-iran-war-raged-a6e8da62?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-31T17:03:00.000Z"
-    },
-    {
-      "naslov": "AI hedge sklad v vrednosti 45 milijard dolarjev izgubil večino sredstev",
-      "sektor": "Tehnologija & AI",
+      "naslov": "Iran opozarja na 'plamene vojne' ob grožnjah ZDA energetskim lokacijam",
+      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Leopold Aschenbrenner, nekdanji raziskovalec pri OpenAI, ki se je preusmeril v upravljanje hedge skladov, je doživel dramatičen padec svojega AI-osredotočenega sklada Situational Awareness. Sklad, ki je nekoč dosegal vrednost 45 milijard dolarjev, je v samo nekaj dneh izgubil večino svojih sredstev. Ta dogodek poudarja izjemno volatilnost in tveganja, povezana z visoko špekulativnimi naložbami v sektorju umetne inteligence. Padec sklada se je zgodil v tednu, ko so širši ameriški trgi, kot je Nasdaq 100, sicer beležili rast, danes +0,61 % pri 28279 točkah.",
-      "analiza": "Ta novica se nanaša na tveganja, povezana z naložbami v hitro rastoče, a pogosto špekulativne sektorje, kot je umetna inteligenca. Čeprav AI velja za prihodnost, so naložbe v to področje pogosto podvržene ekstremnim nihanjem in visokim tveganjem. Padec tako velikega sklada je relevanten, saj lahko sproži dvome o stabilnosti in trajnosti nekaterih AI naložbenih strategij. Mehanizem vpliva je predvsem psihološki in se kaže v povečani previdnosti vlagateljev do visoko tveganih AI naložb. Za delnice podjetij, ki so močno odvisna od AI tehnologij ali so del AI ekosistema, to lahko pomeni povečano volatilnost in morebitne popravke cen, zlasti pri manjših, manj uveljavljenih podjetjih. Na širši trg, kot je S&P 500 (danes +0,51 % pri 7476 točkah), vpliv ni bil takojšen, vendar lahko dolgoročno vpliva na alokacijo kapitala v tehnološkem sektorju. Obveznice in valute so manj neposredno prizadete, razen če padec povzroči širšo sistemsko nestabilnost. Zgodovinski primeri, kot je pok tehnološkega balona leta 2000, kažejo, da pretirana evforija v določenem sektorju pogosto vodi do ostrih popravkov. V prihodnje bo pomembno opazovati, kako se bo razvijal regulativni okvir za AI in kako bodo podjetja dokazovala resnično vrednost svojih AI rešitev. Za slovenskega dolgoročnega vlagatelja to poudarja pomen diverzifikacije in previdnosti pri naložbah v visoko špekulativne sektorje, kljub njihovemu potencialu za visoke donose.",
+      "povzetek": "Iranski mediji poročajo o opozorilih države glede 'plamenov vojne' v regiji, ki so se pojavila po tem, ko so ameriški mediji namignili na morebitne neposredne napade ZDA na iranske energetske objekte. Iran naj bi imel pripravljen načrt za povračilne ukrepe, če bi do takšnih napadov prišlo. To dogajanje sledi predhodnim poročilom, ki so nakazovala možnost ameriških napadov na civilne lokacije, kar je povzročilo povečanje napetosti. Omenjeni razvoj dogodkov se vpenja v širši kontekst dolgotrajnih rivalstev in napačnih izračunov, ki so oblikovali enega najnevarnejših konfliktov današnjega časa. Ameriški predsednik Donald Trump je medtem že posnemal prestrezanje raket Patriot, ko je opisoval sestrelitev iranskih raket s strani ameriške vojske.",
+      "analiza": "Ozadje te novice sega v desetletja trajajoča rivalstva med ZDA in Iranom, ki so se v zadnjem času stopnjevala zaradi jedrskega programa Irana in njegove vloge v regionalnih konfliktih. Grožnje z napadi na energetske objekte so izjemno pomembne, saj bi lahko drastično vplivale na globalno oskrbo z nafto in plinom. Mehanizem vpliva na finančne trge je neposreden: povečana geopolitična tveganja v regiji, ki je ključna za svetovno proizvodnjo nafte, običajno povzročijo rast cen nafte. To se je danes že odrazilo v rasti cen WTI nafte za 1.29 % na 84.67 USD/sod in Brent nafte za 1.22 % na 90.12 USD/sod. Posledice se kažejo tudi v povečani negotovosti, kar lahko vpliva na delniške trge, saj vlagatelji iščejo varnejša zatočišča, kot je zlato, čeprav je danes zlato padlo za 1.29 % na 4107.00 USD/oz. V primeru eskalacije bi lahko pričakovali nadaljnjo rast cen energentov, padec delniških indeksov in morebitno krepitev valute, ki velja za varno zatočišče, kot je ameriški dolar. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitične dogodke, saj lahko imajo velik vpliv na cene energentov in s tem na inflacijo ter gospodarsko rast, kar posredno vpliva na donosnost naložb v delnice in obveznice.",
       "vpliv": [
-        "Povečana previdnost vlagateljev v AI sektorju",
-        "Potencialna volatilnost delnic AI podjetij",
-        "Zmanjšanje apetita po tveganju",
-        "Padec Bitcoina za -2,95 % na 62814 USD"
+        "Cena WTI nafte zrasla za 1.29 % na 84.67 USD/sod",
+        "Cena Brent nafte zrasla za 1.22 % na 90.12 USD/sod",
+        "Povečana geopolitična negotovost",
+        "Potencial za nadaljnjo rast cen energentov"
       ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-      "objavljeno": "2026-07-31T14:44:44.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
+      "objavljeno": "2026-08-01T12:44:54.000Z"
     },
     {
-      "naslov": "Korporativni insajderji opozarjajo na medvedje razpoloženje na delniškem trgu",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Poročila kažejo, da korporativni insajderji, torej vodilni delavci in direktorji podjetij, izkazujejo izrazito medvedje razpoloženje do delniškega trga. Njihova aktivnost prodaje delnic je dosegla raven, ki je ni bilo že več kot 20 let. To pomeni, da so insajderji, ki imajo najboljši vpogled v poslovanje svojih podjetij in širše gospodarske razmere, izjemno pesimistični glede prihodnjih gibanj. Kljub temu so danes ameriški indeksi, kot sta S&P 500 (+0,51 %) in Nasdaq 100 (+0,61 %), zabeležili rast.",
-      "analiza": "Aktivnost korporativnih insajderjev velja za pomemben indikator tržnega sentimenta, saj njihove odločitve o nakupu ali prodaji delnic pogosto temeljijo na informacijah, ki še niso javno dostopne. Njihovo trenutno izrazito medvedje razpoloženje, najvišje v več kot dveh desetletjih, je relevantno, saj lahko napoveduje morebitno prihodnje ohladitev trga. Mehanizem vpliva je predvsem psihološki in se kaže v povečani previdnosti med institucionalnimi in individualnimi vlagatelji. Čeprav danes S&P 500 raste pri 7476 točkah, lahko takšni signali dolgoročno vplivajo na zaupanje. Za delnice to pomeni potencialno povečanje prodajnih pritiskov, še posebej v sektorjih, kjer je aktivnost insajderjev najbolj izrazita. Na obveznice in valute vpliv ni neposreden, lahko pa posredno vpliva na pričakovanja glede gospodarske rasti in s tem na politiko centralnih bank. VIX indeks, ki meri pričakovano volatilnost trga, je danes sicer padel za -1,46 % na 16,84, kar kaže na trenutno umirjenost, vendar insajderski signali opozarjajo na potencialne turbulence. Zgodovinsko gledano so obdobja visoke insajderske prodaje pogosto sovpadala z vrhovi trga ali predhodila pomembnim korekcijam. V prihodnje bo ključno spremljati, ali se bo ta trend nadaljeval in kako se bo odražal v širših makroekonomskih podatkih. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da je kljub kratkoročnim rastem trga pomembno ostati previden in preveriti diverzifikacijo portfelja.",
-      "vpliv": [
-        "Povečana previdnost vlagateljev",
-        "Potencialni prodajni pritiski na delniškem trgu",
-        "Zmanjšanje apetita po tveganju",
-        "Rast donosnosti 10-letne ameriške obveznice na 4,74 % (+1,59 %)"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-31T15:21:00.000Z"
-    },
-    {
-      "naslov": "Delnice Microna padajo po izjavi Applea o želji po več dobaviteljih pomnilnika",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Delnice podjetja Micron so padle, potem ko je Tim Cook, izvršni direktor Applea, izrazil željo po večjem številu dobaviteljev pomnilniških čipov. Ta izjava je prišla v času, ko se Apple in Amazon soočata z višjimi cenami pomnilnika, kar negativno vpliva na njune stroške. Želja po diverzifikaciji dobaviteljev s strani velikih tehnoloških gigantov kaže na pritisk na obstoječe proizvajalce pomnilnika, kot je Micron, da znižajo cene ali se soočijo s povečano konkurenco.",
-      "analiza": "Ta novica poudarja dinamiko dobavnih verig in konkurenčnosti v tehnološkem sektorju, še posebej na trgu polprevodnikov. Visoke cene pomnilnika so vplivale na dobičkonosnost velikih potrošnikov, kot sta Apple in Amazon, kar jih sili k iskanju alternativ. To je relevantno zdaj, saj pomanjkanje čipov in nihanja cen vplivajo na celotno tehnološko industrijo. Mehanizem vpliva je neposreden: izjava ključnega kupca, kot je Apple, lahko sproži prodajo delnic pri dobaviteljih, kot je Micron, zaradi pričakovanj o zmanjšanju povpraševanja ali cenovnih pritiskih. Za delnice podjetij, kot je Micron, to pomeni negativen pritisk, medtem ko bi lahko potencialno koristilo manjšim ali novim dobaviteljem pomnilnika. Na širši tehnološki indeks, kot je Nasdaq 100 (danes +0,61 % pri 28279 točkah), vpliv ni bil sistemski, vendar kaže na specifične izzive v določenih segmentih. Obveznice in valute so manj neposredno prizadete. Zgodovinsko gledano so dobavne verige v tehnološkem sektorju pogosto podvržene cikličnim nihanjem, kjer obdobja pomanjkanja in visokih cen sledijo obdobjem presežne ponudbe in padca cen. V prihodnje bo ključno opazovati naložbe v proizvodne zmogljivosti in razvoj novih tehnologij pomnilnika. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno razumeti dinamiko dobavnih verig in konkurenčnosti v tehnološkem sektorju, saj lahko to vpliva na dolgoročno uspešnost posameznih podjetij.",
-      "vpliv": [
-        "Padec delnic Microna",
-        "Povečana konkurenca na trgu pomnilniških čipov",
-        "Pritisk na cene pomnilnika",
-        "Potencialna diverzifikacija dobavnih verig za Apple in Amazon"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/microns-stock-falls-after-apples-tim-cook-expresses-a-desire-for-more-memory-suppliers-a7bc0502?mod=mw_rss_topstories",
-      "objavljeno": "2026-07-31T15:59:00.000Z"
-    },
-    {
-      "naslov": "Španski premier obsoja množičen prihod 60.000 migrantov v Ceuto",
+      "naslov": "Ministri EU razpravljajo o španski migrantski krizi po kritikah Sáncheza",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Španski premier Pedro Sánchez je ostro obsodil množičen prihod 60.000 migrantov v špansko enklavo Ceuta, ki meji na Maroko. Sánchez je ta dogodek označil za 'kršitev ozemeljske celovitosti' Španije. Ta izjemen pritok migrantov predstavlja velik humanitarni in varnostni izziv za Španijo in Evropsko unijo. Dogodek poudarja naraščajoče geopolitične in socialne napetosti v regiji.",
-      "analiza": "Množičen prihod migrantov v Ceuto je resen dogodek z daljnosežnimi posledicami za Španijo in celotno Evropsko unijo. Ozadje vključuje kompleksne socialno-ekonomske dejavnike v izvornih državah migrantov ter napetosti v odnosih med Španijo in Marokom. Ta dogodek je relevanten zdaj, saj lahko sproži politične in gospodarske odzive po vsej Evropi, vpliva na notranjo politiko in proračunske izdatke za upravljanje migracij. Mehanizem vpliva na finančne trge je predvsem posreden: lahko poveča politično negotovost, vpliva na zaupanje vlagateljev v stabilnost regije in potencialno povzroči pritisk na javne finance. Za delnice to lahko pomeni povečano volatilnost v sektorjih, ki so občutljivi na politično stabilnost in potrošniško zaupanje v južni Evropi. Na obveznice lahko vpliva povečanje državnega dolga zaradi stroškov upravljanja migracij, kar bi lahko zvišalo donosnosti. Valute, kot je evro (EUR/USD danes -0,03 % pri 1,1525), so lahko pod pritiskom zaradi splošne negotovosti v evroobmočju. Zgodovinsko gledano so migracijske krize v Evropi že povzročile politične pretrese in vplivale na gospodarske politike. V prihodnje bo ključno opazovati odziv EU, morebitne spremembe v migracijskih politikah in stabilnost odnosov med Španijo in Marokom. Za slovenskega dolgoročnega vlagatelja to poudarja pomen spremljanja geopolitičnih in socialnih trendov v Evropi, saj lahko ti vplivajo na širše gospodarsko okolje in s tem na naložbene priložnosti.",
+      "povzetek": "Ministri EU za notranje zadeve se bodo v torek sestali, da bi razpravljali o migrantski krizi v Španiji, potem ko je španski premier Sánchez ostro kritiziral odziv EU. Napetosti glede imigracijske politike v Evropski uniji naraščajo. Španija je sporočila, da se migranti umikajo iz Ceute, potem ko je masovni pritok povzročil smrt 67 ljudi. Španski zunanji minister vztraja, da je 'celovitost schengenskega območja absolutno zagotovljena', kljub temu, da je Španija predhodno sporočila, da se je 50.000 migrantov, ki so vstopili v severnoafriško enklavo Ceuta, vrnilo v Maroko. Al Jazeera se sprašuje, ali je Španija kaznovana, pri čemer omenja, da so pro-izraelski glasovi pred krizo v Ceuti izrazito poudarjali vprašanje enklave.",
+      "analiza": "Ozadje te novice je dolgotrajna in kompleksna migrantska kriza v Evropi, ki se je v zadnjih letih še posebej zaostrila na južnih mejah EU. Španska enklava Ceuta je postala žarišče, kar poudarja izzive, s katerimi se soočajo države na zunanjih mejah Unije. Razprava med ministri EU je relevantna, saj lahko vpliva na kohezijo znotraj bloka in na prihodnjo imigracijsko politiko. Mehanizem vpliva na finančne trge je posreden, vendar pomemben: politična nestabilnost in nesoglasja znotraj EU lahko vplivajo na zaupanje v evro in na naložbe v evropske delnice in obveznice. Če se napetosti stopnjujejo, bi to lahko povzročilo pritisk na evro, ki je danes že rahlo oslabel proti dolarju (EUR/USD 1.1527, -0.02 %). Dolgoročno lahko neurejene migracije vplivajo na javne finance držav članic in na trg dela. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati politično stabilnost v EU, saj ta neposredno vpliva na gospodarsko okolje in s tem na vrednost evropskih naložb. Morebitna nadaljnja nesoglasja bi lahko povečala percepcijo tveganja v regiji.",
       "vpliv": [
-        "Povečana politična negotovost v Španiji in EU",
-        "Potencialni pritisk na javne finance",
-        "Vpliv na zaupanje vlagateljev v regijo",
-        "Zmeren padec EUR/USD na 1,1525 (-0,03 %)"
+        "Povečana politična nestabilnost v EU",
+        "Potencialni pritisk na evro",
+        "Vpliv na javne finance držav članic",
+        "Zmanjšano zaupanje v evropske naložbe"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/34917d6f-c8ec-4e13-890a-4d8475806bb7?syn-25a6b1a6=1",
-      "objavljeno": "2026-07-31T17:06:10.000Z"
+      "vir_url": "https://www.ft.com/content/1b3f09b5-897e-4b7a-9949-2c4d9a32929e?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-01T15:39:41.000Z"
+    },
+    {
+      "naslov": "Kriza financiranja Socialne varnosti: spregledana 'miš' v sobi",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Članek MarketWatch opozarja na 'miš', ki jo vsi spregledajo, medtem ko je kriza financiranja Socialne varnosti 'slon v sobi'. Poudarja, da odložitev prejemanja Socialne varnosti do 70. leta prinaša povečano mesečno izplačilo, kar pa s seboj prinaša tudi sorazmerno višje prilagoditve življenjskih stroškov (COLA). To pomeni, da se s podaljšanjem delovne dobe in kasnejšim začetkom prejemanja pokojnine povečujejo tudi dolgoročne obveznosti sistema. Avtorji opozarjajo, da je to pomemben, a pogosto prezrt dejavnik pri ocenjevanju dolgoročne vzdržnosti programa Socialne varnosti v ZDA. Vzporedno se pojavljajo tudi razprave o tem, ali delo po 70. letu pomaga povečati Socialno varnost, kar kaže na širšo zaskrbljenost glede pokojninskih prihodkov.",
+      "analiza": "Ozadje te problematike je demografska sprememba v ZDA in mnogih razvitih državah, kjer se prebivalstvo stara, razmerje med delovno aktivnimi in upokojenci pa se spreminja. Sistem Socialne varnosti, ki deluje po principu 'pay-as-you-go', se sooča z izzivi financiranja, saj je vedno manj prispevkov na vedno več upokojencev. Pomen te novice je v poudarku na dolgoročni vzdržnosti javnih financ in potencialnih fiskalnih tveganjih. Mehanizem vpliva na finančne trge je posreden: dolgoročna nestabilnost sistema Socialne varnosti lahko zmanjša zaupanje potrošnikov, vpliva na njihovo varčevanje in potrošnjo, kar se odraža v gospodarski rasti. Morebitne reforme sistema bi lahko vplivale na obvezniške trge (npr. izdajo državnih obveznic za pokritje primanjkljaja) in na delniške trge, saj bi spremembe v pokojninskih prejemkih vplivale na kupno moč prebivalstva. Povečane obveznosti za COLA lahko dolgoročno prispevajo k inflacijskim pritiskom, kar bi lahko vplivalo na politiko centralnih bank. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so podobni demografski izzivi prisotni tudi v Evropi, in da so dolgoročna vzdržnost pokojninskih sistemov ključna za stabilnost gospodarstva in finančnih trgov. To poudarja pomen diverzifikacije in individualnega varčevanja za starost.",
+      "vpliv": [
+        "Dolgoročna fiskalna tveganja v ZDA",
+        "Potencialni vpliv na potrošniško zaupanje in porabo",
+        "Možni pritiski na obvezniške trge",
+        "Vpliv na inflacijske pritiske"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-01T15:45:00.000Z"
+    },
+    {
+      "naslov": "Prihajajoči izvršni direktor Best Buy-a načrtuje rast z zmanjšanjem velikosti trgovin",
+      "sektor": "Potrošniki",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Jason Bonfig, prihajajoči izvršni direktor podjetja Best Buy, je za CNBC povedal, da se namerava osredotočiti na širitev dosega podjetja in izboljšanje uporabniške izkušnje. Njegova strategija za rast vključuje zmanjšanje velikosti trgovin. To nakazuje na prilagoditev maloprodajnega modela v luči spreminjajočih se potrošniških navad in rasti spletne prodaje. Bonfigova vizija predvideva, da manjše, bolj osredotočene trgovine lahko bolje služijo določenim trgom in hkrati zmanjšajo operativne stroške, kar bi lahko povečalo dobičkonosnost. Ta poteza je del širšega trenda v maloprodaji, kjer se podjetja trudijo optimizirati svojo fizično prisotnost in jo integrirati z digitalnimi kanali.",
+      "analiza": "Ozadje te novice je preoblikovanje maloprodajnega sektorja, ki se sooča z močno konkurenco spletnih trgovcev in spreminjajočimi se pričakovanji potrošnikov. Velike 'big-box' trgovine se vse bolj preoblikujejo v manjše, bolj specializirane formate ali v centre za prevzem spletnih naročil. Strategija zmanjšanja velikosti trgovin, kot jo načrtuje Best Buy, je relevantna, saj kaže na iskanje novih poti za rast in učinkovitost v tradicionalni maloprodaji. Mehanizem vpliva na finančne trge je predvsem na delnice maloprodajnih podjetij: če se strategija izkaže za uspešno, lahko to pozitivno vpliva na dobičkonosnost in vrednost delnic Best Buy-a. Hkrati pa lahko takšni premiki vplivajo na celoten sektor, saj druga podjetja morda sledijo podobnim strategijam. To lahko pomeni tudi spremembe v povpraševanju po komercialnih nepremičninah. Za slovenskega dolgoročnega vlagatelja je pomembno opazovati, kako se podjetja v maloprodaji prilagajajo novim tržnim razmeram. Uspešna prilagoditev lahko pomeni dolgoročno rast, medtem ko neuspešna lahko vodi do upada. To poudarja pomen analize poslovnih modelov in strategij podjetij, v katera vlagamo, zlasti v sektorjih, ki so pod pritiskom strukturnih sprememb.",
+      "vpliv": [
+        "Potencialno povečanje dobičkonosnosti Best Buy-a",
+        "Vpliv na strategije drugih maloprodajnih podjetij",
+        "Spremembe v povpraševanju po komercialnih nepremičninah",
+        "Indikator širših trendov v maloprodaji"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
+      "objavljeno": "2026-08-01T12:00:01.000Z"
+    },
+    {
+      "naslov": "Nizke povišice plač: krivci so visoki stroški zdravstvenih ugodnosti",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Če ste razočarani nad skromno povišico plače, je razlog morda v stroških zdravstvenih ugodnosti, opozarja MarketWatch. Stroški zdravstvenih ugodnosti za podjetja so v zadnjih dveh desetletjih rasli najhitreje. To pomeni, da so podjetja prisiljena nameniti večji del svojega proračuna za kritje zdravstvenih stroškov zaposlenih, kar zmanjšuje sredstva, ki so na voljo za povišanje plač. Rast stroškov zdravstvenega varstva tako neposredno vpliva na kupno moč delavcev in na splošno ekonomsko sliko. Strokovnjaki pravijo, da bi to lahko pomenilo, da se bo več starejših oseb odločilo za prehod na načrte Medicare Advantage, kar kaže na širši pritisk na sisteme zdravstvenega varstva.",
+      "analiza": "Ozadje te problematike je nenehna rast stroškov zdravstvenega varstva v ZDA, ki je znatno presegala rast inflacije in plač. To je dolgoročen trend, ki vpliva tako na posameznike kot na podjetja. Pomen te novice je v razkritju mehanizma, kako visoki stroški zdravstvenih ugodnosti neposredno omejujejo rast plač, kljub morebitni dobri uspešnosti podjetij. Mehanizem vpliva na finančne trge je večplasten: za podjetja to pomeni višje operativne stroške, kar lahko zmanjša dobičkonosnost in s tem vrednost delnic. Za potrošnike to pomeni manjšo razpoložljivo plačo in s tem potencialno zmanjšano potrošnjo, kar vpliva na celotno gospodarstvo. Visoki stroški zdravstvenega varstva so tudi breme za javne finance in lahko prispevajo k inflacijskim pritiskom. Rast teh stroškov lahko vpliva tudi na sektor zdravstvenega varstva, saj se podjetja in posamezniki iščejo stroškovno učinkovitejše rešitve. Za slovenskega dolgoročnega vlagatelja je to opomin, da je treba upoštevati širše ekonomske dejavnike, kot so stroški dela in socialne ugodnosti, saj ti vplivajo na dobičkonosnost podjetij in na splošno gospodarsko rast, kar se posredno odraža v donosnosti naložb. Vpliv na potrošniško moč je ključen za oceno prihodnjih prihodkov podjetij.",
+      "vpliv": [
+        "Omejena rast plač delavcev",
+        "Povečani operativni stroški podjetij",
+        "Potencialno zmanjšana potrošnja",
+        "Vpliv na dobičkonosnost podjetij"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-01T13:30:00.000Z"
+    },
+    {
+      "naslov": "Skrbniki družinskih članov izčrpavajo prihranke, mnogi prenehajo varčevati",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 1,
+      "povzetek": "Služenje kot družinski skrbnik ni le izčrpavajoče, ampak je lahko tudi finančno uničujoče, poroča MarketWatch. Številni skrbniki izčrpajo svoje prihranke in so celo prenehali poskušati varčevati. Članek se sprašuje, ali bi morali biti skrbniki plačani za svoje delo. To poudarja velik finančni in osebni davek, ki ga prevzamejo posamezniki, ki skrbijo za ostarele ali bolne družinske člane. To vprašanje postaja vse bolj pereče v družbah s starajočim se prebivalstvom, kjer je povpraševanje po dolgotrajni oskrbi v porastu, institucionalna podpora pa pogosto nezadostna. Razprava o plačilu skrbnikov kaže na potrebo po sistemskih rešitvah za ta naraščajoči socialni in ekonomski problem.",
+      "analiza": "Ozadje te problematike je demografska sprememba in staranje prebivalstva, ki povzroča povečano potrebo po dolgotrajni oskrbi. V mnogih državah, vključno s Slovenijo, velik del te oskrbe pade na družinske člane, ki pogosto delo opravljajo brez plačila in brez ustrezne podpore. Pomen te novice je v poudarku na skritih stroških in obremenitvah, ki jih nosijo družine, kar ima širše ekonomske posledice. Mehanizem vpliva na finančne trge je posreden: izčrpavanje prihrankov s strani skrbnikov zmanjšuje njihovo kupno moč in sposobnost varčevanja za lastno starost, kar lahko dolgoročno vpliva na potrošnjo in stabilnost finančnih sistemov. To lahko poveča pritisk na javne socialne sisteme v prihodnosti. Morebitne politične rešitve, kot je plačilo skrbnikov ali večja institucionalna podpora, bi lahko imele pomembne fiskalne posledice. Za slovenskega dolgoročnega vlagatelja je pomembno zavedanje o teh socialnih in demografskih trendih, saj lahko vplivajo na dolgoročno gospodarsko rast, javne finance in s tem na naložbeno okolje. Vpliv na individualne prihranke in potrošnjo je ključen za razumevanje širših makroekonomskih gibanj.",
+      "vpliv": [
+        "Zmanjšana kupna moč in varčevanje skrbnikov",
+        "Povečan pritisk na javne socialne sisteme",
+        "Potencialne fiskalne posledice morebitnih reform",
+        "Vpliv na dolgoročno gospodarsko rast"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-01T15:12:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-07-31T17:13:57.746Z",
+    "posodobljenoOb": "2026-08-01T16:42:54.276Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7475.75,
-        "sprememba_pct": 0.51
+        "vrednost": 7489.72,
+        "sprememba_pct": 0.7
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 28279.158,
-        "sprememba_pct": 0.61
+        "vrednost": 28274.195,
+        "sprememba_pct": 0.6
       },
       {
         "simbol": "^GDAXI",
@@ -124,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4099.9,
-        "sprememba_pct": -1.46,
+        "vrednost": 4107,
+        "sprememba_pct": -1.29,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 84.83,
-        "sprememba_pct": 1.48,
+        "vrednost": 84.67,
+        "sprememba_pct": 1.29,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 90.01,
-        "sprememba_pct": 1.1,
+        "vrednost": 90.12,
+        "sprememba_pct": 1.22,
         "enota": "USD/sod"
       }
     ],
@@ -147,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1525,
-        "sprememba_pct": -0.03
+        "vrednost": 1.1527,
+        "sprememba_pct": -0.02
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.737,
-        "sprememba_pct": 1.59,
+        "vrednost": 4.745,
+        "sprememba_pct": 1.76,
         "enota": "%"
       }
     ],
@@ -164,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 62814.42,
-        "sprememba_pct": -2.95,
+        "vrednost": 62897.5,
+        "sprememba_pct": 0.12,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16.84,
-      "sprememba_pct": -1.46
+      "vrednost": 15.99,
+      "sprememba_pct": -6.44
     }
   }
 }
