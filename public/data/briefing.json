@@ -1,108 +1,86 @@
 {
-  "generiranoOb": "2026-08-03T17:27:04.960Z",
+  "generiranoOb": "2026-08-03T17:32:23.025Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-08-03",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, medtem ko so ameriški indeksi nadaljevali rast. Nemški DAX je zrasel za 1,45 % na 26001 točk, medtem ko sta S&P 500 in Nasdaq 100 po dveh urah trgovanja v ZDA beležila rast za 1,39 % (na 7593 točk) oziroma 1,70 % (na 28754 točk). Japonski Nikkei 225 je medtem zabeležil padec za 0,94 % na 63755 točk. Presenetljiv je bil močan padec cen nafte, saj je WTI nafta padla za 5,50 % na 80,01 USD/sod, Brent pa za 4,83 % na 83,68 USD/sod, kljub geopolitičnim napetostim. Zlato je zabeležilo rahel padec za 0,40 % na 4090,60 USD/oz, medtem ko je Bitcoin zrasel za 0,46 % na 63792 USD. Evro je v primerjavi z dolarjem oslabel, saj je par EUR/USD padel za 0,18 % na 1,1506. Vlagatelji bodo ta teden pozorno spremljali objavo najnovejših inflacijskih podatkov iz evroobmočja, ki lahko vplivajo na prihodnje odločitve Evropske centralne banke.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, pri čemer je nemški indeks DAX zrasel za 1.45 % na 26001 točk. Tudi ameriški trgi so nadaljevali z rastjo, saj je S&P 500 trenutno pri 7595 točkah (+1.40 %), Nasdaq 100 pa pri 28762 točkah (+1.73 %). Vendar pa je dan zaznamoval izrazit padec cen nafte, kjer je WTI nafta padla na 80.00 USD/sod (-5.52 %), Brent pa na 83.69 USD/sod (-4.82 %), deloma pod vplivom političnih izjav. Medtem so delnice AstraZenece strmoglavile za 8.9 % zaradi poročil o morebitnih pogovorih o združitvi z Bristol Myers Squibb. Pozitivne novice so prišle iz letalskega sektorja z odobritvijo najmanjšega Boeinga 737 Max in iz finančnega sektorja z Visinim prevzemom podjetja BioCatch. Vlagatelji bodo pozorno spremljali prihajajoče makroekonomske objave, kot je objava podatkov o inflaciji v ZDA, ki bo vplivala na pričakovanja glede obrestnih mer.",
   "novice": [
     {
-      "naslov": "AstraZeneca v pogovorih za mega-združitev z Bristol Myers Squibb, delnice padle",
+      "naslov": "AstraZeneca: Delnice padajo zaradi pogovorov o združitvi z Bristol Myers Squibb",
       "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Delnice britanskega farmacevtskega velikana AstraZeneca so danes padle za 8,9 % po poročilih o morebitnih pogovorih za prevzem ameriškega podjetja Bristol Myers Squibb (BMS). Potencialna združitev, vredna skoraj 400 milijard dolarjev, bi ustvarila četrtega največjega proizvajalca zdravil na svetu. Novica je izbrisala več kot 17 milijard funtov vrednosti AstraZenece, ki je bila pred objavo vredna skoraj 196 milijard funtov. BMS, s sedežem v Princetonu, New Jersey, in znan po zdravilih proti raku, je bil ocenjen na 133 milijard dolarjev. Analitiki in delničarji izražajo pomisleke glede smiselnosti posla, predvsem zaradi iztekanja patentov in protimonopolnih tveganj.",
-      "analiza": "Ozadje te novice je konsolidacija v farmacevtski industriji, kjer podjetja iščejo rast in širitev portfelja pred iztekom patentov za ključna zdravila. AstraZeneca, pod vodstvom dolgoletnega izvršnega direktorja Pascala Soriota, je bila aktivna pri prevzemih, a bi bil ta posel daleč največji. Relevantnost je v tem, da bi takšna mega-združitev bistveno preoblikovala globalno farmacevtsko krajino in ustvarila novega dominantnega igralca. Mehanizem vpliva na finančne trge je v tem, da trg pogosto negativno reagira na novice o velikih prevzemih s strani prevzemnika, saj se pojavijo vprašanja o prevzemni premiji, financiranju, integraciji in morebitnem razredčenju vrednosti za obstoječe delničarje. Posledice so bile takoj vidne na delnicah AstraZenece, ki so padle za 8,9 %, kar kaže na negativen odziv vlagateljev. Morebitno povečanje zadolženosti za financiranje posla bi lahko vplivalo tudi na obveznice podjetja. Za valute ni neposrednega vpliva, razen če bi šlo za obsežno čezmejno financiranje v različnih valutah. Zgodovinski primeri, kot so združitve v farmacevtskem sektorju v preteklosti, so pogosto pokazali, da je doseganje napovedanih sinergij izziv. Vlagatelji bodo v prihodnje pozorno spremljali potrditev ali zanikanje pogovorov, podrobnosti morebitnega posla in odziv regulatorjev. Za slovenskega dolgoročnega vlagatelja, ki ima izpostavljenost do farmacevtskega sektorja, takšne novice poudarjajo tveganja in priložnosti, povezane s konsolidacijo industrije in strateškimi potezami velikih igralcev.",
+      "povzetek": "Delnice britanskega farmacevtskega velikana AstraZeneca so danes padle za 8.9 %, kar je izbrisalo več kot 17 milijard funtov tržne kapitalizacije podjetja. Padec je sledil poročilom o morebitnih pogovorih za prevzem ameriškega podjetja za zdravila proti raku Bristol Myers Squibb. Potencialna združitev bi ustvarila četrtega največjega proizvajalca zdravil na svetu z ocenjeno vrednostjo blizu 400 milijard dolarjev. AstraZeneca, ki jo vodi Pascal Soriot, je bila pred novico vredna skoraj 196 milijard funtov, medtem ko je bil BMS ocenjen na 133 milijard dolarjev.",
+      "analiza": "Poročila o morebitni mega-združitvi med AstraZeneco in Bristol Myers Squibb so povzročila zaskrbljenost med vlagatelji, kar se je odrazilo v znatnem padcu delnic AstraZenece. V farmacevtski industriji so tovrstne združitve pogoste, saj podjetja iščejo sinergije, širijo portfelje zdravil in se pripravljajo na iztekanje patentov. Vendar pa tako velika transakcija prinaša tudi tveganja, kot so morebitne regulatorne ovire zaradi protimonopolne zakonodaje in izzivi pri integraciji dveh velikih podjetij. Vlagatelji se sprašujejo o racionalnosti posla, še posebej glede na bližajočo se 'patentno steno' in morebitne dolgove. Padec delnic AstraZenece kaže na previdnost trga glede obsega in kompleksnosti takšnega prevzema. Za slovenskega dolgoročnega vlagatelja je to opomin, da so tudi velika, stabilna podjetja izpostavljena tveganjem, povezanim z M&A aktivnostmi, ki lahko kratkoročno vplivajo na vrednost naložbe, medtem ko dolgoročni vpliv ostaja odvisen od uspešnosti integracije in izpolnjevanja sinergijskih pričakovanj.",
       "vpliv": [
-        "Delnice AstraZenece padle za 8,9 %",
-        "Izbrisana vrednost 17+ milijard funtov",
-        "Potencialna povečana zadolženost prevzemnika",
-        "Preoblikovanje globalne farmacevtske industrije"
+        "Padec delnic AstraZenece za 8.9 %",
+        "Izbris £17 milijard tržne kapitalizacije",
+        "Potencialna združitev v vrednosti $400 milijard"
       ],
       "vir": "The Guardian",
       "vir_url": "https://www.theguardian.com/business/2026/aug/03/astrazeneca-talks-bristol-myers-squibb-merger-pharmaceuticals",
       "objavljeno": "2026-08-03T16:32:09.000Z"
     },
     {
-      "naslov": "FAA odobril letenje najmanjšega Boeinga 737 Max po letih zamud",
-      "sektor": "Potrošniki",
+      "naslov": "FAA odobrila najmanjši Boeing 737 Max za letenje po letih zamud",
+      "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Ameriška zvezna uprava za letalstvo (FAA) je po večletnih zamudah končno odobrila letenje najmanjše različice letala Boeing 737 Max. Ta odločitev omogoča letalskim družbam, da začnejo certificirati letala in jih vključevati v svoje vozne rede, čeprav bo to verjetno trajalo več mesecev. Odobritev je pomemben korak za Boeing, ki se je soočal z obsežnimi regulativnimi pregledi in izzivi po dveh smrtonosnih nesrečah modela 737 Max v letih 2018 in 2019. Ta novica predstavlja pomemben mejnik za proizvajalca letal in za letalsko industrijo, ki si prizadeva za posodobitev in širitev svojih flot.",
-      "analiza": "Ozadje te novice je dolgoletna saga okoli letal Boeing 737 Max, ki so bila prizemljena po dveh tragičnih nesrečah. Regulativni organi po svetu so zahtevali obsežne varnostne izboljšave in ponovno certificiranje. Odobritev FAA za najmanjšo različico je ključnega pomena, saj signalizira, da so varnostni pomisleki rešeni in da se lahko proizvodnja in dobava nadaljujeta. Relevantnost je v tem, da ta odločitev neposredno vpliva na Boeingovo poslovanje in njegovo sposobnost dobave letal strankam. Mehanizem vpliva na finančne trge je pozitiven za delnice Boeinga, saj se zmanjšuje negotovost in se odpirajo poti za prihodnje prihodke. Prav tako je pozitivno za letalske družbe, ki so naročile ta letala, saj lahko zdaj načrtujejo širitev kapacitet. Posledice vključujejo potencialno rast delnic Boeinga in letalskih družb, ki so odvisne od novih letal. Povečana dobava letal lahko dolgoročno vpliva na cene letalskih vozovnic in konkurenčnost v sektorju. Za obveznice in valute ni neposrednega vpliva, razen splošnega izboljšanja zaupanja v industrijo. Zgodovinsko gledano so regulativne odobritve ključne za letalsko industrijo, saj odpirajo vrata za komercialno izkoriščanje novih tehnologij. Vlagatelji bodo opazovali hitrost, s katero bodo letalske družbe vključile ta letala v svoje flote. Za slovenskega dolgoročnega vlagatelja, ki ima izpostavljenost do letalske ali obrambne industrije, ta novica pomeni zmanjšanje tveganja in potencialno stabilizacijo poslovanja ključnega akterja v sektorju.",
+      "povzetek": "Ameriška zvezna uprava za letalstvo (FAA) je po večletnih zamudah končno odobrila najmanjšo različico letala Boeing 737 Max za letenje. Ta odobritev pomeni, da lahko letalske družbe kmalu začnejo uporabljati ta letala za prevoz potnikov, čeprav bo trajalo več mesecev, da jih vključijo v svoje vozne rede. Certifikacija je pomemben korak za Boeing, ki se je v preteklosti soočal z velikimi izzivi in zamudami pri programu 737 Max.",
+      "analiza": "Odobritev najmanjšega Boeinga 737 Max s strani FAA je pomembna pozitivna novica za Boeing, ki se je v zadnjih letih boril z regulativnimi ovirami in padcem zaupanja po dveh smrtonosnih nesrečah. Ta certifikacija omogoča podjetju, da končno dostavi naročena letala in začne ustvarjati prihodke iz tega segmenta. Za letalske družbe to pomeni, da bodo lahko posodobile svoje flote z energetsko učinkovitejšimi letali, kar lahko dolgoročno zniža operativne stroške. Čeprav bo vključitev letal v vozne rede trajala, je to jasen signal, da se Boeing premika naprej. Pozitivno bo vplivalo na delnice Boeinga in morda tudi na delnice letalskih družb, ki so naročile ta model. Za slovenskega dolgoročnega vlagatelja je to primer, kako regulativni dejavniki in varnostni pomisleki lahko močno vplivajo na poslovanje velikih industrijskih podjetij, vendar pa postopno reševanje teh težav lahko prinese okrevanje in rast.",
       "vpliv": [
-        "Pozitiven vpliv na delnice Boeinga",
-        "Zmanjšana regulativna negotovost",
-        "Omogočena dobava letal letalskim družbam",
-        "Potencialna rast kapacitet letalskih prevoznikov"
+        "Pozitivno za delnice Boeinga",
+        "Povečana operativna zmogljivost letalskih družb",
+        "Zmanjšanje negotovosti za dobavitelje"
       ],
       "vir": "CNBC",
       "vir_url": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
-      "objavljeno": "2026-08-03T17:19:27.000Z"
-    },
-    {
-      "naslov": "ZDA in Japonska skupno intervenirali za krepitev jena",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Ameriško ministrstvo za finance in Federalne rezerve so se združili s svojimi japonskimi kolegi v zgodovinski skupni intervenciji za krepitev japonskega jena. Japonsko ministrstvo za finance je potrdilo to potezo, ki je namenjena dvigu vrednosti jena, ki je bil v zadnjem času pod pritiskom. Ta koordinirana akcija poudarja zaskrbljenost obeh držav glede nestabilnosti valutnih trgov in potencialnega vpliva šibkega jena na globalno gospodarstvo. Intervencija je bila izvedena, da bi se preprečila nadaljnja depreciacija jena, ki bi lahko škodovala japonskemu uvozu in povzročila inflacijske pritiske.",
-      "analiza": "Ozadje te intervencije je dolgotrajna šibkost japonskega jena, ki je bila posledica razhajanj v monetarni politiki med Japonsko in drugimi velikimi gospodarstvi, predvsem ZDA. Medtem ko so druge centralne banke dvigovale obrestne mere, je Japonska banka ohranjala izjemno ohlapno politiko, kar je povzročilo odliv kapitala in depreciacijo jena. Relevantnost je v tem, da je skupna intervencija redka in kaže na visoko stopnjo zaskrbljenosti glede stabilnosti finančnih trgov. Mehanizem vpliva je neposreden: z nakupom jena in prodajo dolarjev na odprtem trgu se poveča povpraševanje po jenu, kar dvigne njegovo vrednost. Posledice so bile takojšnje, saj se je jen okrepil. To je pozitivno za japonske uvoznike in potrošnike, saj zmanjšuje stroške uvoženega blaga in inflacijske pritiske. Po drugi strani pa lahko močnejši jen škoduje japonskim izvoznikom. Za obveznice in delnice je vpliv mešan; stabilizacija valute lahko zmanjša negotovost, vendar močnejši jen lahko zmanjša dobičkonosnost izvoznih podjetij. Zgodovinsko so skupne intervencije pogosto imele le kratkoročen učinek, če niso bile podprte z usklajenimi monetarnimi politikami. Vlagatelji bodo opazovali, ali bo ta intervencija dolgoročno stabilizirala jen in ali bodo sledile spremembe v japonski monetarni politiki. Za slovenskega dolgoročnega vlagatelja, ki ima izpostavljenost do japonskih delnic ali obveznic, je pomembno razumeti, da valutna tveganja ostajajo ključni dejavnik, in da so koordinirane akcije centralnih bank močno orodje, ki lahko vpliva na donose.",
-      "vpliv": [
-        "Jen se je okrepil",
-        "Zmanjšanje inflacijskih pritiskov na Japonskem",
-        "Potencialni pritisk na japonske izvoznike",
-        "Povečana stabilnost valutnih trgov"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-03T15:20:00.000Z"
+      "objavljeno": "2026-08-03T17:27:34.000Z"
     },
     {
       "naslov": "Visa kupuje podjetje za kibernetsko varnost BioCatch za 2,4 milijarde dolarjev",
       "sektor": "Finance",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Visa, globalni velikan na področju plačilnih storitev, bo kupila podjetje za kibernetsko varnost BioCatch za 2,4 milijarde dolarjev. Ta poteza prihaja v času porasta prevar, ki jih poganja umetna inteligenca, in poudarja Visino strategijo širitve poslovanja z dodano vrednostjo. BioCatch je specializiran za zaznavanje goljufij z uporabo biometričnih podatkov obnašanja. Prevzem je najnovejša poteza Vise za krepitev svojega oddelka za storitve z dodano vrednostjo, ki je postal eden najhitreje rastočih delov podjetja. Cilj je izboljšati varnost transakcij in zaščititi potrošnike pred vedno bolj sofisticiranimi spletnimi prevarami.",
-      "analiza": "Ozadje te transakcije je eksponentna rast spletnih prevar, še posebej tistih, ki jih omogoča umetna inteligenca, kar predstavlja resno grožnjo za finančno industrijo in potrošnike. Visa, kot eden največjih procesorjev plačil na svetu, ima ključno vlogo pri zagotavljanju varnosti. Relevantnost prevzema BioCatcha je v tem, da Visa aktivno krepi svoje zmogljivosti na področju kibernetske varnosti in preprečevanja goljufij, kar je bistveno za ohranjanje zaupanja v njen plačilni ekosistem. Mehanizem vpliva na finančne trge je pozitiven za Viso, saj prevzem krepi njeno konkurenčno prednost in potencial za rast v segmentu storitev z dodano vrednostjo. Za BioCatch in njegove vlagatelje je to jasen pozitiven signal. Posledice vključujejo potencialno rast delnic Vise zaradi izboljšane ponudbe storitev in zmanjšanja tveganj, povezanih z goljufijami. Prav tako lahko to spodbudi druga finančna podjetja k podobnim investicijam v tehnologije za kibernetsko varnost. Za obveznice ni neposrednega vpliva, razen če bi prevzem bistveno spremenil finančno strukturo Vise, kar v tem primeru ni pričakovano. Za valute ni neposrednega vpliva. Zgodovinsko gledano so strateški prevzemi tehnoloških podjetij s strani finančnih gigantov pogosti, saj slednji iščejo inovacije in širitev. Vlagatelji bodo opazovali integracijo BioCatcha v Visino poslovanje in učinkovitost novih rešitev pri zmanjševanju prevar. Za slovenskega dolgoročnega vlagatelja, ki ima izpostavljenost do finančnega ali tehnološkega sektorja, ta novica poudarja pomen kibernetske varnosti in umetne inteligence kot ključnih dejavnikov rasti in zaščite v digitalni ekonomiji.",
+      "povzetek": "Podjetje Visa je objavilo, da bo kupilo podjetje za kibernetsko varnost BioCatch za 2,4 milijarde dolarjev. Ta poteza je odgovor na porast prevar, ki jih poganja umetna inteligenca, in predstavlja najnovejšo strategijo Vise za razširitev poslovanja s storitvami z dodano vrednostjo. BioCatch je specializiran za zaznavanje goljufij in preprečevanje kibernetskih napadov, kar bo okrepilo Visine zmogljivosti na področju varnosti transakcij. Poslovanje z dodano vrednostjo je postalo eden najhitreje rastočih oddelkov podjetja Visa.",
+      "analiza": "Nakup BioCatcha s strani Vise za 2,4 milijarde dolarjev poudarja naraščajočo pomembnost kibernetske varnosti v finančnem sektorju, še posebej v luči napredka umetne inteligence, ki omogoča sofisticirane prevare. Za Vise je to strateška poteza, ki krepi njeno ponudbo storitev z dodano vrednostjo, ki je ključna za rast podjetja in ohranjanje konkurenčnosti. Z integracijo tehnologije BioCatch bo Visa lahko svojim strankam ponudila še varnejše in zanesljivejše plačilne rešitve, kar lahko poveča zaupanje in privabi nove uporabnike. To je pozitiven signal za delnice Vise, saj kaže na proaktivno prilagajanje na spreminjajoče se tržne razmere in vlaganje v prihodnjo rast. Za slovenskega dolgoročnega vlagatelja to pomeni, da so podjetja, ki se uspešno prilagajajo tehnološkim trendom in vlagajo v varnost, bolj odporna na tveganja in imajo večji potencial za dolgoročno rast, še posebej v sektorjih, kot so finance in tehnologija.",
       "vpliv": [
-        "Krepitev Visinega poslovanja z dodano vrednostjo",
-        "Izboljšana zaščita pred AI-poganjanimi prevarami",
-        "Potencialna rast delnic Vise",
-        "Spodbuda za investicije v kibernetsko varnost v finančnem sektorju"
+        "Visa krepi poslovanje z dodano vrednostjo",
+        "Povečana varnost transakcij",
+        "Potencial za rast prihodkov Vise"
       ],
       "vir": "CNBC",
       "vir_url": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
       "objavljeno": "2026-08-03T16:44:25.000Z"
     },
     {
-      "naslov": "JPMorganovi strategi napovedujejo umik tehnoloških delnic v drugi polovici 2026",
+      "naslov": "ZDA in Japonska skupaj posredovali na trgu za krepitev jena",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Ministrstvo za finance Japonske je potrdilo, da so se ameriško ministrstvo za finance in Federal Reserve pridružila japonskim kolegom pri zgodovinski skupni intervenciji za krepitev japonskega jena. Ta poteza je bila izvedena z namenom podpore jenu, ki se je v zadnjem času soočal s šibkostjo. Skupno posredovanje je redek dogodek na valutnih trgih in signalizira resno zaskrbljenost obeh držav glede stabilnosti valute in njenega vpliva na gospodarstvo.",
+      "analiza": "Skupna intervencija ZDA in Japonske na valutnem trgu za krepitev jena je pomemben makroekonomski dogodek, ki kaže na resnost situacije. Japonski jen se je v zadnjem obdobju soočal z znatno depreciacijo, kar je vplivalo na japonsko gospodarstvo in globalno trgovino. Intervencije na valutnih trgih so redke in se običajno izvedejo le, ko se ocenjuje, da je depreciacija valute prekomerna in škodljiva. Ta poteza lahko kratkoročno okrepi jen, vendar je dolgoročni uspeh odvisen od temeljnih ekonomskih dejavnikov in politik centralnih bank. Vplivala bo na valutni par EUR/USD, ki je danes že padel za 0.17 % na 1.1507, saj lahko krepitev jena posredno vpliva na dinamiko drugih glavnih valut. Za obvezniške trge bi lahko krepitev jena zmanjšala pritisk na japonske obveznice. Za slovenskega dolgoročnega vlagatelja je to opomin, da so valutni tečaji ključni za globalno ekonomijo in lahko vplivajo na mednarodne naložbe, še posebej tiste, ki so izpostavljene japonskemu trgu ali imajo pomembne trgovinske partnerje na Japonskem.",
+      "vpliv": [
+        "Krepitev japonskega jena",
+        "Vpliv na globalne valutne trge",
+        "Signalizira zaskrbljenost glede ekonomske stabilnosti"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-03T15:20:00.000Z"
+    },
+    {
+      "naslov": "Apple izpodbija zahtevo Združenega kraljestva po dostopu do šifriranih podatkov",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Strategi pri JPMorganu napovedujejo, da bodo tehnološke delnice v drugi polovici leta 2026 verjetno izgubile vodilno vlogo na trgu. Namesto tega pričakujejo dobro uspešnost delnic izven ZDA. Kljub temu, da so tehnološke delnice, kot so S&P 500 (+1.39 %) in Nasdaq 100 (+1.70 %), danes beležile rast, analitiki banke menijo, da se bo trend obrnil. JPMorganovi strategi preferirajo delnice proizvajalcev polprevodnikov pred podjetji, ki ponujajo storitve v oblaku (hyperscalers). To nakazuje na morebitno prerazporeditev kapitala znotraj tehnološkega sektorja in širše na globalnih trgih.",
-      "analiza": "Ozadje te napovedi je izjemna rast tehnološkega sektorja v zadnjih letih, ki je poganjala večino rasti ameriških borznih indeksov. Mnogi vlagatelji so se zatekli k tehnološkim delnicam zaradi njihove inovativnosti in potenciala za visoke donose. Relevantnost te napovedi je v tem, da JPMorgan, kot ena največjih investicijskih bank, s svojimi strategijami vpliva na sentiment in alokacijo kapitala. Mehanizem vpliva na finančne trge je v tem, da takšne napovedi lahko sprožijo prerazporeditev portfeljev. Če vlagatelji sledijo tem priporočilom, bi to lahko pomenilo umik kapitala iz širokega tehnološkega sektorja, še posebej iz velikih podjetij v oblaku, in preusmeritev v delnice izven ZDA ali v specifične podsektorje, kot so polprevodniki. Posledice bi lahko bile umiritev rasti ali celo padec delnic velikih tehnoloških podjetij, medtem ko bi delnice podjetij s polprevodniki in delnice izven ZDA lahko pridobile. To bi lahko vplivalo na celotne indekse, kot sta S&P 500 in Nasdaq 100, ki so močno obremenjeni s tehnološkimi podjetji. Za obveznice in valute ni neposrednega vpliva, razen splošnega vpliva na sentiment do tveganja. Zgodovinsko gledano so se sektorji menjavali v vodilni vlogi, in prekomerna koncentracija v enem sektorju pogosto vodi do korekcije. Vlagatelji bodo opazovali, ali se bodo te napovedi uresničile in ali se bo trend rasti resnično preusmeril. Za slovenskega dolgoročnega vlagatelja, ki ima izpostavljenost do tehnološkega sektorja, ta novica poudarja pomen diverzifikacije in nenehnega preverjanja sektorske alokacije, saj se tržni trendi lahko hitro spreminjajo.",
+      "povzetek": "Apple je vložil pravni izziv proti poskusu Združenega kraljestva, da bi pridobilo dostop do šifriranih uporabniških podatkov. Proizvajalec iPhonov je vložil pritožbo zaradi najnovejše vladne zahteve po povezavi z varnostnimi kopijami v oblaku britanskih uporabnikov. Ta poteza poudarja trajen konflikt med tehnološkimi podjetji, ki poudarjajo zasebnost uporabnikov, in vladami, ki želijo dostop do podatkov zaradi nacionalne varnosti in preprečevanja kriminala.",
+      "analiza": "Pravni spor med Applom in vlado Združenega kraljestva glede dostopa do šifriranih podatkov je del širše globalne debate o ravnotežju med zasebnostjo posameznikov in nacionalno varnostjo. Apple se dosledno postavlja v vlogo zagovornika zasebnosti, kar je ključno za njegovo blagovno znamko in zaupanje uporabnikov. Zahteva britanske vlade po dostopu do šifriranih podatkov bi lahko ustvarila nevaren precedens, ki bi ga lahko sledile tudi druge države, kar bi imelo daljnosežne posledice za celotno tehnološko industrijo. Ta situacija povečuje regulativno negotovost za Apple in druga tehnološka podjetja, ki delujejo na globalni ravni. Čeprav neposreden finančni vpliv morda ni takojšen, lahko dolgoročno vpliva na ugled podjetja in morebitne stroške skladnosti. Za slovenskega dolgoročnega vlagatelja je to opomin, da so tehnološka podjetja izpostavljena ne le tržnim, ampak tudi regulativnim in etičnim tveganjem, ki lahko vplivajo na njihovo poslovanje in vrednost delnic.",
       "vpliv": [
-        "Potencialno upočasnjena rast tehnoloških delnic",
-        "Povečana privlačnost delnic izven ZDA",
-        "Preusmeritev kapitala v delnice polprevodnikov",
-        "Možna prerazporeditev portfeljev vlagateljev"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/why-tech-stocks-are-likely-to-take-a-back-seat-for-the-rest-of-2026-according-to-jpmorgan-strategists-93e1c61f?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-03T15:03:00.000Z"
-    },
-    {
-      "naslov": "Apple sprožil pravni izziv proti zahtevi Združenega kraljestva za dostop do šifriranih podatkov",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Apple je sprožil pravni izziv proti poskusu Združenega kraljestva, da bi pridobil dostop do šifriranih uporabniških podatkov. Proizvajalec iPhonov je vložil pritožbo zoper najnovejšo vladno zahtevo po povezavi z varnostnimi kopijami britanskih uporabnikov v oblaku. Ta poteza poudarja nenehni konflikt med tehnološkimi podjetji, ki zagovarjajo zasebnost uporabnikov, in vladami, ki iščejo dostop do podatkov zaradi nacionalne varnosti in preprečevanja kriminala. Apple je že dolgo znan po svojem stališču glede šifriranja in zasebnosti, kar je ključni del njegove blagovne znamke in zaupanja uporabnikov.",
-      "analiza": "Ozadje te novice je globalna razprava o ravnotežju med zasebnostjo posameznikov in nacionalno varnostjo. Vlade po svetu, vključno z Združenim kraljestvom, si prizadevajo za dostop do šifriranih komunikacij in podatkov, da bi se borile proti terorizmu in organiziranemu kriminalu. Tehnološka podjetja, kot je Apple, pa trdijo, da bi ustvarjanje 'zadnjih vrat' (backdoors) v šifriranih sistemih ogrozilo varnost vseh uporabnikov. Relevantnost je v tem, da ta pravni spor lahko postavi precedens za prihodnje regulacije na področju zasebnosti podatkov in šifriranja, ne le v Združenem kraljestvu, ampak tudi drugod po svetu. Mehanizem vpliva na finančne trge je predvsem na ugled podjetja in zaupanje uporabnikov. Če Apple uspešno ubrani svoje stališče, bi to lahko okrepilo njegovo blagovno znamko in zvestobo strank. Če pa bo prisiljen popustiti, bi to lahko imelo negativne posledice za njegovo podobo in potencialno vplivalo na prodajo. Posledice za delnice Appla so mešane; kratkoročno lahko pravni stroški in negotovost povzročijo nihanja, dolgoročno pa je ključno, kako bo rešitev vplivala na zaupanje potrošnikov. Za obveznice in valute ni neposrednega vpliva. Zgodovinsko gledano so se podobni spori, kot je bil tisti med Applom in FBI v ZDA, pogosto reševali z dolgotrajnimi pravnimi bitkami. Vlagatelji bodo opazovali izid tega pravnega izziva in morebitne širše regulativne spremembe. Za slovenskega dolgoročnega vlagatelja, ki ima izpostavljenost do tehnološkega sektorja, ta novica poudarja pomen regulativnega tveganja in etičnih vprašanj, povezanih z zasebnostjo podatkov, ki lahko dolgoročno vplivajo na poslovanje in vrednotenje podjetij.",
-      "vpliv": [
-        "Povečano regulativno tveganje za Apple",
-        "Vpliv na ugled in zaupanje uporabnikov",
-        "Potencialni precedens za globalno regulacijo zasebnosti",
-        "Nihanja delnic Appla zaradi pravnih stroškov"
+        "Povečana regulativna negotovost za Apple",
+        "Vpliv na ugled podjetij glede zasebnosti",
+        "Potencialni precedens za druge države"
       ],
       "vir": "Financial Times",
       "vir_url": "https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?syn-25a6b1a6=1",
@@ -110,19 +88,19 @@
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-03T17:26:18.134Z",
+    "posodobljenoOb": "2026-08-03T17:31:48.244Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7593.49,
-        "sprememba_pct": 1.39
+        "vrednost": 7594.95,
+        "sprememba_pct": 1.4
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 28754.38,
-        "sprememba_pct": 1.7
+        "vrednost": 28762.213,
+        "sprememba_pct": 1.73
       },
       {
         "simbol": "^GDAXI",
@@ -148,15 +126,15 @@
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 80.01,
-        "sprememba_pct": -5.5,
+        "vrednost": 80,
+        "sprememba_pct": -5.52,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 83.68,
-        "sprememba_pct": -4.83,
+        "vrednost": 83.69,
+        "sprememba_pct": -4.82,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +142,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1506,
-        "sprememba_pct": -0.18
+        "vrednost": 1.1507,
+        "sprememba_pct": -0.17
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.688,
-        "sprememba_pct": -1.2,
+        "vrednost": 4.69,
+        "sprememba_pct": -1.16,
         "enota": "%"
       }
     ],
@@ -181,16 +159,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63792.4,
-        "sprememba_pct": 0.46,
+        "vrednost": 63761.58,
+        "sprememba_pct": 0.42,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.55,
-      "sprememba_pct": -2.75
+      "vrednost": 15.58,
+      "sprememba_pct": -2.56
     }
   }
 }
