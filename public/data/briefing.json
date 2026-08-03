@@ -1,116 +1,116 @@
 {
-  "generiranoOb": "2026-08-02T16:42:38.742Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-08-03T07:46:46.276Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-08-02",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z minimalnimi premiki, medtem ko so ameriški indeksi nadaljevali z rastjo. Nemški DAX je danes pridobil le 0.07 % in se ustavil pri 25629 točkah, medtem ko sta ameriška S&P 500 in Nasdaq 100 po dveh urah trgovanja beležila rast za 0.70 % na 7490 oziroma 0.60 % na 28274 točk. Pozitivno razpoloženje v ZDA je podprto z novicami o 'trdnih' dobičkih največjih ameriških podjetij, ki so na poti k najmočnejšim zaslužkom v zadnjih petih letih, kljub višjim stroškom za potrošnike. Geopolitične napetosti so se nekoliko umirile, saj je predsednik Trump sporočil, da je odpovedal napade na Iran na zahtevo bližnjevzhodnih držav, kar je sicer pozitivno za stabilnost, a cene nafte so kljub temu zrasle (WTI nafta za 1.29 % na 84.67 USD/sod, Brent nafta za 1.22 % na 90.12 USD/sod). V Evropi je vročinski val povzročil zaustavitev največje madžarske jedrske elektrarne, kar poudarja izzive energetske varnosti. Vlagatelji bodo v prihodnjih dneh pozorno spremljali morebitne izjave centralnih bank glede inflacije in obrestnih mer, ki bodo ključne za smer finančnih trgih.",
+  "datum": "2026-08-03",
+  "povzetek": "Jutranja izdaja, 3. avgust 2026. Ameriški borzni indeksi so noč zaključili v zelenem, saj je S&P 500 zrasel za 0.70 % na 7490 točk, Nasdaq 100 pa za 0.60 % na 28274 točk. Tudi evropski DAX je sledil pozitivnemu trendu in pridobil 1.32 %, dosegel je 25967 točk, medtem ko je Nikkei 225 v Aziji padel za 0.94 % na 63755 točk. Glavna novica noči je skupna intervencija ZDA in Japonske za podporo jenu, kar je redka poteza, namenjena stabilizaciji valute. Na trgu surovin je prišlo do občutnega padca cen nafte, saj je WTI nafta upadla za 5.86 % na 79.71 USD/sod, Brent nafta pa za 7.08 % na 83.74 USD/sod, po napovedih predsednika Trumpa o ponovnih pogovorih z Iranom. Zlato je medtem zabeležilo skromno rast za 0.21 % na 4115.60 USD/oz, donosnost 10-letne ameriške obveznice pa je zrasla na 4.75 %. Vlagatelji bodo ta teden pozorno spremljali zasedanje Evropske centralne banke, ki bo ključno za smer monetarne politike v evroobmočju.",
   "novice": [
     {
-      "naslov": "Trump odpovedal napade na Iran na prošnjo bližnjevzhodnih držav",
-      "sektor": "Geopolitika",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Predsednik ZDA Trump je sporočil, da je odpovedal napade na Iran na zahtevo držav Bližnjega vzhoda. Izjava prihaja po tem, ko je pred dnevi grozil z napadi brez primere. Trump trdi, da so bili dogovorjeni 'okvirji dogovora' za končanje konflikta. Ta razvoj dogodkov nakazuje na poskus deeskalacije napetosti v regiji. Poročilo Financial Timesa ne navaja, katere države so prosile za odpoved napadov, vendar poudarja diplomatski poskus umiritve razmer.",
-      "analiza": "Ozadje dogodka so naraščajoče napetosti med ZDA in Iranom, zlasti v zvezi z ožino Hormuz, ključno točko za globalni transport nafte. Predhodne grožnje z vojaškim posredovanjem so povzročale negotovost na trgih, še posebej na trgu nafte. Deeskalacija, ki jo je napovedal Trump, je pomembna za zmanjšanje geopolitičnega tveganja. Mehanizem vpliva na finančne trge je predvsem preko zmanjšanja premije za tveganje, kar lahko pozitivno vpliva na delniške trge in zmanjša povpraševanje po varnih zatočiščih, kot sta zlato in ameriške državne obveznice. Kljub temu, da je Trump napade odpovedal, so cene nafte danes zrasle (WTI nafta za 1.29 % na 84.67 USD/sod, Brent nafta za 1.22 % na 90.12 USD/sod), kar kaže, da trgi nafte še vedno upoštevajo druge dejavnike, kot so ponudba in povpraševanje, ter morebitne dolgoročne motnje. Donosnost 10-letne ameriške obveznice je zrasla za 1.76 % na 4.75 %, kar bi lahko bilo povezano z manjšo potrebo po varnih naložbah ali pričakovanji glede inflacije. Zlato je padlo za 1.29 % na 4107.00 USD/oz, kar je skladno z zmanjšanjem tveganja. Za slovenskega dolgoročnega vlagatelja to pomeni, da se kratkoročna geopolitična tveganja umirjajo, kar lahko prispeva k stabilnejšemu globalnemu gospodarskemu okolju, vendar je regija še vedno vir potencialnih presenečenj.",
-      "vpliv": [
-        "Zmanjšanje geopolitičnega tveganja",
-        "Potencialno znižanje premije za tveganje na trgu nafte",
-        "Padec cene zlata za 1.29 %",
-        "Rast donosnosti 10-letne ameriške obveznice za 1.76 %"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-02T12:28:13.000Z"
-    },
-    {
-      "naslov": "Ameriška podjetja poročajo o trdnih dobičkih kljub visokim stroškom potrošnikov",
+      "naslov": "ZDA in Japonska skupaj intervenirata za podporo jenu na deviznem trgu",
       "sektor": "Makro & Centralne banke",
       "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "Največja ameriška podjetja poročajo o 'trdnih' dobičkih, medtem ko se potrošniki soočajo z višjimi stroški. Skupine S&P 500 so na poti k najmočnejšim zaslužkom v zadnjih petih letih, kot poroča Financial Times. To kaže na odpornost korporativnega sektorja kljub inflacijskim pritiskom in višjim cenam za končne kupce. Podrobnosti o tem, katera podjetja so poročala, niso navedene v opisu, vendar je splošni trend pozitiven in podpira optimizem na trgu.",
-      "analiza": "Ozadje te novice je trenutno makroekonomsko okolje, zaznamovano z inflacijo in zviševanjem obrestnih mer centralnih bank, ki poskušajo zajeziti rast cen. Kljub temu, da se potrošniki soočajo z višjimi stroški, so ameriška podjetja uspela ohraniti ali celo povečati svoje dobičke, kar kaže na močno cenovno moč in učinkovito upravljanje stroškov. To je ključnega pomena za delniške trge, saj dobički podjetij neposredno vplivajo na vrednotenje delnic. Močni dobički lahko podpirajo rast delniških indeksov, kot sta S&P 500, ki je danes zrasel za 0.70 % na 7490, in Nasdaq 100, ki je pridobil 0.60 % na 28274. To lahko tudi zmanjša strahove pred recesijo in krepi zaupanje vlagateljev. Po drugi strani pa 'višji stroški potrošnikov' nakazujejo na nadaljnje inflacijske pritiske, kar bi lahko spodbudilo centralne banke, kot je Federal Reserve, k nadaljnjemu zaostrovanju monetarne politike, kar bi lahko vplivalo na obvezniške donosnosti. Rast donosnosti 10-letne ameriške obveznice za 1.76 % na 4.75 % bi lahko delno odražala ta pričakovanja. Za slovenskega dolgoročnega vlagatelja močni dobički ameriških podjetij pomenijo, da so temelji za rast delniških trgov v ZDA še vedno trdni, vendar je treba spremljati vpliv inflacije na potrošniško moč in odzive centralnih bank.",
+      "povzetek": "Združene države Amerike in Japonska sta izvedli redko skupno intervencijo na deviznem trgu, da bi podprli japonski jen. Obe državi sta potrdili, da ne bosta oklevali z nadaljnjimi skupnimi akcijami, če bo to potrebno za preprečitev 'neurejenih gibanj' valute. Japonska finančna ministrica Satsuki Katayama je potrdila skupno delovanje z Washingtonom. Ameriški predsednik Donald Trump je to potezo označil za znak prijateljstva med državama. Cilj intervencije je stabilizirati jen, ki je bil v zadnjem obdobju pod pritiskom, medtem ko je EUR/USD danes zrasel za 0.02 % na 1.1529.",
+      "analiza": "Ozadje te intervencije je dolgotrajna šibkost jena, ki je posledica razlik v monetarnih politikah med Japonsko in drugimi velikimi gospodarstvi, zlasti ZDA. Medtem ko je Japonska centralna banka (BoJ) ohranjala izjemno ohlapno monetarno politiko, so druge centralne banke zaostrovale. To je povzročilo odliv kapitala iz Japonske in pritisk na jen. Skupna intervencija je pomembna, saj kaže na usklajeno prizadevanje dveh največjih gospodarstev za stabilizacijo globalnih finančnih trgov. Mehanizem vpliva je neposreden: centralni banki prodajata tuje valute (npr. dolarje) in kupujeta jene, kar poveča povpraševanje po jenu in s tem njegovo vrednost. To lahko kratkoročno okrepi jen, dolgoročno pa je odvisno od temeljnih ekonomskih dejavnikov in nadaljnjih monetarnih politik. Za delnice japonskih izvoznikov močnejši jen običajno pomeni zmanjšanje konkurenčnosti, medtem ko uvoznikom koristi. Na obvezniške trge lahko vpliva z zmanjšanjem pritiska na BoJ za morebitno zaostrovanje. Za slovenskega dolgoročnega vlagatelja je to pomemben signal o globalni koordinaciji in prizadevanjih za stabilnost, kar zmanjšuje sistemska tveganja, vendar lahko vpliva na naložbe v podjetja z izpostavljenostjo do japonskega trga ali jena.",
       "vpliv": [
-        "Podpora za delniške trge (S&P 500 +0.70 %, Nasdaq 100 +0.60 %)",
-        "Zmanjšanje strahov pred recesijo",
-        "Potencialni inflacijski pritiski",
-        "Vpliv na monetarno politiko centralnih bank"
+        "Krepitev jena",
+        "Stabilizacija valutnih trgov",
+        "Vpliv na japonske izvoznike",
+        "Zmanjšanje sistemskega tveganja"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/b4f150ea-9ea3-4bb4-b1e0-014cf1f0df26?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-02T16:00:06.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-08-03T07:30:52.000Z"
     },
     {
-      "naslov": "Vročinski val prisilil Madžarsko v zaustavitev največje jedrske elektrarne",
+      "naslov": "Cene nafte padajo po napovedi pogovorov med ZDA in Iranom",
       "sektor": "Energetika",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Madžarska je sporočila, da je vročinski val prisilil v zaustavitev njene največje jedrske elektrarne. Nizka raven Donave, ki se uporablja za hlajenje, je prekinila delovanje elektrarne. To je pomemben dogodek za energetsko stabilnost Madžarske in širše regije, ki se že spopada z rekordno visokimi poletnimi temperaturami. Podrobnosti o trajanju zaustavitve niso bile navedene, vendar takšni dogodki običajno povzročijo pomanjkanje in višje cene električne energije.",
-      "analiza": "Ozadje te novice so ekstremni vremenski pojavi, vključno z rekordnimi vročinskimi valovi po Evropi, ki vplivajo na kritično infrastrukturo. Jedrske elektrarne potrebujejo velike količine vode za hlajenje, in nizka raven rek, kot je Donava, lahko ogrozi njihovo delovanje. To je neposreden primer, kako podnebne spremembe in ekstremno vreme vplivajo na energetsko varnost. Mehanizem vpliva na finančne trge je predvsem preko trga z energijo. Zaustavitev velike jedrske elektrarne zmanjša ponudbo električne energije, kar lahko povzroči rast cen električne energije na veleprodajnih trgih. To posledično vpliva na stroške podjetij in gospodinjstev, kar lahko poveča inflacijske pritiske in zmanjša potrošniško moč. Čeprav današnji podatki o cenah nafte kažejo rast (WTI +1.29 %, Brent +1.22 %), kar je lahko povezano s splošnim povpraševanjem po energiji, ta novica specifično vpliva na evropski trg električne energije. Povečani stroški energije lahko negativno vplivajo na dobičkonosnost podjetij v energetsko intenzivnih sektorjih in na splošno gospodarsko rast v Evropi, kar se lahko odrazi v indeksih, kot je DAX, ki je danes zrasel le za 0.07 % na 25629. Za slovenskega dolgoročnega vlagatelja to pomeni povečano tveganje za energetsko stabilnost in morebitne višje cene energije v Evropi, kar lahko vpliva na naložbe v evropska podjetja in splošno gospodarsko klimo.",
+      "intenziteta": 3,
+      "povzetek": "Cene nafte so občutno padle, potem ko je ameriški predsednik Donald Trump napovedal začetek novih pogovorov z Iranom v ponedeljek. WTI nafta je upadla za 5.86 % na 79.71 USD/sod, medtem ko je Brent nafta zabeležila padec za 7.08 % na 83.74 USD/sod. Teheran je sporočil, da so pogajanja z Omanom o ponovnem odprtju Hormuške ožine za ladijski promet v zaključni fazi. Trump je pred tem odpovedal načrtovane 'množične napade' na Iran, saj so ga zalivski zavezniki in Teheran pozvali k odložitvi. Iranski zunanji minister je sicer izjavil, da trenutno ni pogovorov z ZDA, vendar so pogovori z Omanom v teku.",
+      "analiza": "Ozadje padca cen nafte so zmanjšane geopolitične napetosti med ZDA in Iranom ter možnost diplomatske rešitve, ki bi lahko vodila do povečanja ponudbe nafte na svetovnih trgih. Iran je pomemben proizvajalec nafte, in morebitna odprava sankcij ali ponovno odprtje Hormuške ožine bi lahko sprostilo znatne količine iranske nafte. Zgodovinsko gledano, vsaka novica, ki kaže na zmanjšanje tveganja za motnje v dobavi nafte iz Bližnjega vzhoda, običajno povzroči padec cen. Mehanizem vpliva je zmanjšanje t.i. 'premije za tveganje' v ceni nafte, saj se zmanjša verjetnost motenj v dobavi. Nižje cene nafte so na splošno pozitivne za potrošnike in podjetja, ki so odvisna od energentov, saj zmanjšujejo stroške. Za delnice energetskih podjetij (naftne in plinske družbe) je to negativno, saj zmanjšuje njihove prihodke in dobičke. Na obveznice in valute vpliva posredno, saj nižje cene nafte lahko zmanjšajo inflacijske pritiske, kar daje centralnim bankam več manevrskega prostora. Za slovenskega dolgoročnega vlagatelja to pomeni potencialno nižje stroške goriva in energije, kar lahko pozitivno vpliva na potrošnjo in gospodarstvo, hkrati pa je treba biti pozoren na naložbe v sektor energetike.",
       "vpliv": [
-        "Povečanje cen električne energije v Evropi",
-        "Povečanje inflacijskih pritiskov",
-        "Negativen vpliv na evropska podjetja",
-        "Povečano tveganje za energetsko varnost"
+        "Padec cen WTI nafte za 5.86 %",
+        "Padec cen Brent nafte za 7.08 %",
+        "Zmanjšanje inflacijskih pritiskov",
+        "Negativen vpliv na delnice energetskih podjetij"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss",
-      "objavljeno": "2026-08-02T14:44:34.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/c9bd508c-2915-4b34-a5a5-553bff9548a5?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-03T01:24:32.000Z"
     },
     {
-      "naslov": "Poceni MacBook Neo podjetja Apple sprožil cenovno vojno prenosnikov",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Apple je s svojim poceni MacBookom Neo sprožil cenovno vojno na trgu cenovno dostopnih prenosnikov. Poteza podjetja Apple se obrestuje in sili tekmece k premisleku o lastni ponudbi, poroča MarketWatch. To kaže na strateško spremembo v Applovi ponudbi, ki se tradicionalno osredotoča na višji cenovni razred. Novica ne navaja specifičnih cen ali modelov konkurentov, vendar poudarja intenziviranje konkurence v tehnološkem sektorju.",
-      "analiza": "Ozadje te novice je Applova odločitev, da vstopi na trg cenovno dostopnih prenosnikov, kar je pomemben odmik od njegove običajne strategije premium izdelkov. To je relevantno zdaj, ker se globalno gospodarstvo sooča z inflacijskimi pritiski, kar povečuje povpraševanje po cenovno ugodnejših tehnoloških izdelkih. Mehanizem vpliva na finančne trge je večplasten. Za Apple to lahko pomeni povečanje tržnega deleža in prihodkov, vendar morda z nižjimi maržami na enoto. Za konkurente, kot so proizvajalci osebnih računalnikov z operacijskim sistemom Windows, to pomeni povečan pritisk na cene in dobičkonosnost. To lahko vodi do konsolidacije na trgu ali inovacij za ohranjanje konkurenčnosti. Na delniških trgih lahko to pozitivno vpliva na Applovo delnico, medtem ko lahko delnice tekmecev doživijo pritisk. Tehnološki indeks Nasdaq 100 je danes zrasel za 0.60 % na 28274, kar kaže na splošno pozitivno razpoloženje v tehnološkem sektorju, vendar je vpliv te specifične novice bolj usmerjen na podjetja v sektorju prenosnikov. Za slovenskega dolgoročnega vlagatelja to pomeni, da se tehnološki sektor nenehno razvija in da so podjetja, ki se znajo prilagoditi spreminjajočim se potrebam potrošnikov, lahko uspešna. Vendar pa je treba biti pozoren na morebitno zmanjšanje marž v sektorju zaradi povečane konkurence.",
-      "vpliv": [
-        "Povečana konkurenca na trgu prenosnikov",
-        "Potencialno povečanje Applovega tržnega deleža",
-        "Pritisk na marže proizvajalcev prenosnikov",
-        "Korist za potrošnike zaradi nižjih cen"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/how-apples-cheap-macbook-neo-sparked-a-war-in-budget-laptops-8fbaf839?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-02T13:00:00.000Z"
-    },
-    {
-      "naslov": "Vlagatelji se obračajo k finančnim delnicam, Fedova poteza ključna za rast",
+      "naslov": "AstraZeneca v pogovorih z Bristol Myers Squibb za 400 milijard dolarjev",
       "sektor": "Finance",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Vlagatelji se preusmerjajo v finančne delnice, ki so ta mesec med najboljšimi na trgu. Prihodnja poteza Federal Reserve bo določila, kako daleč se bo ta rast nadaljevala, poroča MarketWatch. To kaže na spremembo v razpoloženju vlagateljev in pričakovanjih glede prihodnje monetarne politike. Finančne delnice pogosto dobro poslujejo v okolju naraščajočih obrestnih mer, saj to poveča njihove dobičkovne marže.",
-      "analiza": "Ozadje te novice je pričakovanje glede monetarne politike Federal Reserve. V okolju, kjer centralne banke zvišujejo obrestne mere za boj proti inflaciji, finančne institucije, kot so banke, običajno beležijo višje neto obrestne marže, saj lahko zaračunavajo več za posojila, medtem ko stroški depozitov rastejo počasneje. To je relevantno zdaj, saj so obrestne mere v ZDA visoke, donosnost 10-letne ameriške obveznice pa je danes zrasla za 1.76 % na 4.75 %, kar kaže na nadaljnje pritiske navzgor. Mehanizem vpliva na finančne trge je neposreden: višje obrestne mere pomenijo boljše poslovanje za banke, kar privablja vlagatelje v finančni sektor. Rotacija v finančne delnice lahko prispeva k rasti širših indeksov, vendar je njihova dolgoročna uspešnost močno odvisna od Fedovih odločitev. Če Fed nadaljuje z zviševanjem obrestnih mer ali jih ohranja visoke, bi to lahko podpiralo finančne delnice. Vendar pa pretirano zaostrovanje lahko upočasni gospodarstvo in poveča tveganje za neplačila, kar bi bilo negativno. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da finančni sektor deluje ciklično in je močno odvisen od makroekonomskih pogojev in monetarne politike. Diverzifikacija portfelja je ključna, saj se sektorji odzivajo različno na spremembe obrestnih mer.",
+      "povzetek": "Farmacevtski gigant AstraZeneca se pogovarja z družbo Bristol Myers Squibb o morebitni združitvi, vredni 400 milijard dolarjev. Ta potencialni posel bi ustvaril četrtega največjega proizvajalca zdravil na svetu po tržni vrednosti. Pogovori so v teku, podrobnosti o morebitni strukturi posla pa še niso znane. Združitev bi pomembno preoblikovala globalno farmacevtsko industrijo in ustvarila močnega igralca na področju raziskav in razvoja zdravil, kar bi lahko vplivalo na konkurenčnost v sektorju.",
+      "analiza": "Ozadje teh pogovorov je konsolidacija v farmacevtski industriji, kjer podjetja iščejo sinergije, razširitev portfelja zdravil in povečanje tržnega deleža za obvladovanje stroškov raziskav in razvoja ter konkurenčnih pritiskov. Posel v vrednosti 400 milijard dolarjev bi bil eden največjih v zgodovini sektorja in bi imel daljnosežne posledice. Mehanizem vpliva na trge je predvsem prek delnic vpletenih podjetij in celotnega farmacevtskega sektorja. Običajno se pričakuje, da bodo delnice prevzetega podjetja zrasle, medtem ko se delnice prevzemnika lahko soočijo z začetnim pritiskom zaradi negotovosti glede financiranja in integracije. Potencialna združitev bi lahko ustvarila sinergije, optimizirala stroške in okrepila položaj na trgu, kar bi dolgoročno lahko bilo pozitivno za delničarje. Vpliv na obvezniške trge bi bil odvisen od načina financiranja prevzema (npr. izdaja novih obveznic). Za slovenskega dolgoročnega vlagatelja, ki ima naložbe v globalne farmacevtske sklade ali posamezne delnice, je to pomemben dogodek, ki lahko vpliva na vrednost portfelja in poudarja pomen spremljanja M&A aktivnosti v sektorjih z visoko rastjo in inovacijami.",
       "vpliv": [
-        "Povečana privlačnost finančnih delnic",
-        "Rast obrestnih marž bank",
-        "Odvisnost od prihodnjih odločitev Federal Reserve",
-        "Vpliv na širše delniške indekse"
+        "Potencialna rast delnic Bristol Myers Squibb",
+        "Vpliv na delnice AstraZenece",
+        "Konsolidacija farmacevtske industrije",
+        "Ustvarjanje 4. največjega proizvajalca zdravil"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-02T12:00:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-02T23:59:40.000Z"
     },
     {
-      "naslov": "Šibek odziv Evrope na špansko migrantsko krizo in humanitarne izzive",
+      "naslov": "Wall Street sprejema blockchain tehnologijo za modernizacijo finančnih trgov",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Finančne družbe na Wall Streetu vse bolj sprejemajo tehnologijo blockchain v upanju, da bo modernizirala trge. Čeprav podjetja vidijo potencial za izboljšanje učinkovitosti in zmanjšanje stroškov, opozarjajo, da sistemska tveganja ostajajo. Uporaba blockchaina se razprostira od poravnav transakcij do izdaje digitalnih sredstev. Kljub temu, da Bitcoin, vodilna kriptovaluta, danes beleži padec za 1.49 % na 62549 USD, je zanimanje tradicionalnih finančnih institucij za osnovno tehnologijo še vedno močno in kaže na dolgoročen trend.",
+      "analiza": "Ozadje naraščajočega zanimanja Wall Streeta za blockchain tehnologijo je iskanje rešitev za povečanje učinkovitosti, transparentnosti in zmanjšanje stroškov v tradicionalnih finančnih sistemih. Blockchain ponuja decentralizirano in varno knjigo transakcij, ki lahko poenostavi kompleksne procese, kot so poravnave, kliring in upravljanje sredstev. To je pomembno, saj lahko dolgoročno preoblikuje strukturo finančnih trgov. Mehanizem vpliva je predvsem prek inovacij in avtomatizacije, ki lahko zmanjšajo operativna tveganja in stroške. Za delnice finančnih podjetij, ki uspešno implementirajo blockchain rešitve, to pomeni potencialno rast in konkurenčno prednost. Za kriptovalute, kot je Bitcoin, to pomeni legitimacijo osnovne tehnologije, čeprav njihova vrednost ni nujno neposredno povezana z institucionalno uporabo blockchaina. Na obvezniške trge in surovine je vpliv posreden, predvsem skozi splošno izboljšanje finančne infrastrukture. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati razvoj tehnologije v finančnem sektorju, saj lahko podjetja, ki so inovativna na tem področju, ponudijo zanimive naložbene priložnosti, hkrati pa se zavedati, da so s to tehnologijo povezana tudi tveganja.",
+      "vpliv": [
+        "Modernizacija finančnih trgov",
+        "Potencialna rast delnic inovativnih finančnih podjetij",
+        "Zmanjšanje operativnih stroškov",
+        "Legitimacija blockchain tehnologije"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/7600731b-4f7f-4d38-a478-3196c565a880?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-03T04:00:04.000Z"
+    },
+    {
+      "naslov": "Vlade opuščajo proračunsko previdnost, trgi obveznic pa jih (še) tolerirajo",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Članek opozarja na trend, da vlade po svetu opuščajo prizadevanja za korekcijo proračunskih primanjkljajev. Kljub temu, da se proračunski primanjkljaji ne zmanjšujejo, trgi obveznic zaenkrat še niso kaznovali držav z višjimi stroški zadolževanja. Donosnost 10-letne ameriške državne obveznice je danes pri 4.75 %, kar predstavlja rast za 1.76 %. To kaže na določeno toleranco vlagateljev, vendar se postavlja vprašanje, do kdaj bo ta toleranca trajala, saj se fiskalna disciplina zmanjšuje.",
+      "analiza": "Ozadje te teme je dolgoročni trend naraščanja javnega dolga in proračunskih primanjkljajev v mnogih razvitih gospodarstvih, pogosto zaradi odzivov na krize (finančna kriza, pandemija) in demografskih pritiskov. V preteklosti so trgi obveznic hitro reagirali na fiskalno neodgovornost z zahtevo po višjih donosih, kar je države prisililo k varčevanju. Trenutna situacija je pomembna, ker kaže na spremenjeno dinamiko, kjer so vlagatelji očitno pripravljeni sprejeti višje ravni dolga, vsaj zaenkrat. Mehanizem vpliva na trge je kompleksen: če vlagatelji izgubijo zaupanje v sposobnost države za odplačilo dolga, zahtevajo višje donose, kar poveča stroške zadolževanja in lahko sproži fiskalno krizo. Višji donosi obveznic lahko tudi odvrnejo investicije od delnic. Zaenkrat so trgi obveznic relativno stabilni, kar je morda posledica nizkih obrestnih mer v preteklosti in pomanjkanja alternativnih varnih naložb. Vendar pa rast donosnosti 10-letne ameriške obveznice za 1.76 % na 4.75 % nakazuje, da se pritisk morda že povečuje. Za slovenskega dolgoročnega vlagatelja je to opozorilo na potencialna tveganja, povezana z javnim dolgom in inflacijo, ki lahko dolgoročno vplivajo na vrednost obveznic in splošno ekonomsko stabilnost.",
+      "vpliv": [
+        "Rast donosnosti 10-letne ameriške obveznice na 4.75 %",
+        "Potencialni inflacijski pritiski",
+        "Povečano tveganje za fiskalno krizo",
+        "Vpliv na stroške zadolževanja držav"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/2d1226d3-48e3-47c8-9a0b-96cbb9ab8a4c?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-03T04:00:13.000Z"
+    },
+    {
+      "naslov": "Digitalna železna zavesa ogroža globalno gospodarstvo in mednarodno trgovino",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Evropska reakcija na migrantsko krizo v Španiji je bila šibka, poroča Financial Times. Pedro Sánchez je bil nepošteno izpostavljen zaradi liberalne imigracijske politike. Novica se nanaša na množičen prehod migrantov v špansko enklavo Ceuta, kjer je umrlo že 72 ljudi, na tisoče pa jih je prečkalo mejo. To poudarja izzive, s katerimi se sooča Evropska unija pri usklajevanju migracijskih politik in odzivanju na humanitarne krize.",
-      "analiza": "Ozadje te novice je dolgotrajna in kompleksna migrantska kriza, ki že leta obremenjuje Evropsko unijo, zlasti države na njenih zunanjih mejah. Množični prehodi v Ceuto in visoko število žrtev poudarjajo humanitarno razsežnost problema in pomanjkanje usklajenega evropskega odziva. To je relevantno zdaj, ker takšne krize lahko povzročijo politično nestabilnost, napetosti med državami članicami EU in obremenitve javnih financ. Mehanizem vpliva na finančne trge je posreden. Politična nestabilnost in pomanjkanje enotnosti v EU lahko negativno vplivata na zaupanje vlagateljev v evropsko gospodarstvo in valuto. To se lahko odrazi v šibkejšem evru (EUR/USD je danes padel za 0.02 % na 1.1527) ali pritiskih na evropske delniške indekse. Čeprav je DAX danes zrasel le za 0.07 % na 25629, kar je skromno v primerjavi z ameriškimi indeksi, je to lahko del širšega trenda. Dolgoročno lahko neurejene migracije vplivajo na demografijo, trg dela in socialno kohezijo, kar ima ekonomske posledice. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba spremljati politično stabilnost in enotnost Evropske unije, saj imajo ti dejavniki pomemben vpliv na gospodarsko okolje in s tem na naložbe v regiji.",
+      "povzetek": "Članek opozarja na grožnjo 'digitalne železne zavese', ki se oblikuje zaradi naraščajočih geopolitičnih ovir in tveganj. Te ovire lahko upočasnijo globalni napredek in mednarodno trgovino. Evropa se v tem kontekstu lahko postavi kot zaupanja vreden povezovalec med različnimi digitalnimi bloki. Naraščajoče delitve v digitalnem prostoru, kot so omejitve pretoka podatkov in tehnološke sankcije, predstavljajo resno tveganje za globalno ekonomijo in stabilnost.",
+      "analiza": "Ozadje te grožnje je naraščajoča geopolitična fragmentacija in tekmovanje med velikimi silami, ki se odraža tudi v digitalni sferi. Države vse bolj uveljavljajo nadzor nad podatki, tehnologijo in internetno infrastrukturo, kar vodi do ustvarjanja ločenih digitalnih ekosistemov. To je pomembno, ker lahko ovira mednarodno trgovino, inovacije in sodelovanje, saj podjetja in posamezniki ne morejo prosto izmenjevati podatkov in storitev prek meja. Mehanizem vpliva na trge je predvsem prek povečanja stroškov poslovanja za multinacionalna podjetja, ki se morajo prilagajati različnim regulativam in standardom. To lahko zmanjša globalno učinkovitost, upočasni rast in poveča tveganja v dobavnih verigah. Za delnice tehnoloških podjetij in podjetij z močno mednarodno prisotnostjo je to lahko negativno, saj omejuje njihov potencial rasti. Na valute in surovine vpliva posredno, saj zmanjšana globalna trgovina in gospodarska rast vplivata na povpraševanje. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati geopolitična tveganja in diverzificirati naložbe, saj lahko 'digitalna železna zavesa' vpliva na globalne dobavne verige in poslovanje podjetij, v katera vlagajo.",
       "vpliv": [
-        "Povečana politična nestabilnost v EU",
-        "Pritisk na zaupanje vlagateljev v evropsko gospodarstvo",
-        "Potencialno šibkejši evro",
-        "Obremenitve javnih financ in socialne kohezije"
+        "Upočasnitev globalne trgovine",
+        "Povečani stroški za multinacionalna podjetja",
+        "Omejen pretok podatkov",
+        "Povečana geopolitična tveganja"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/8faf28df-bb76-49e6-a916-55faa8a5d4a8?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-02T15:53:06.000Z"
+      "vir_url": "https://www.ft.com/content/90550cee-2dd4-437f-8bda-b1ff41317d23",
+      "objavljeno": "2026-08-03T04:00:13.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-02T16:41:44.008Z",
+    "posodobljenoOb": "2026-08-03T07:44:53.236Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -127,36 +127,36 @@
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25629.24,
-        "sprememba_pct": 0.07
+        "vrednost": 25967.17,
+        "sprememba_pct": 1.32
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 64362.02,
-        "sprememba_pct": 4.03
+        "vrednost": 63754.9,
+        "sprememba_pct": -0.94
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4107,
-        "sprememba_pct": -1.29,
+        "vrednost": 4115.6,
+        "sprememba_pct": 0.21,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 84.67,
-        "sprememba_pct": 1.29,
+        "vrednost": 79.71,
+        "sprememba_pct": -5.86,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 90.12,
-        "sprememba_pct": 1.22,
+        "vrednost": 83.74,
+        "sprememba_pct": -7.08,
         "enota": "USD/sod"
       }
     ],
@@ -164,8 +164,8 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1527,
-        "sprememba_pct": -0.02
+        "vrednost": 1.1529,
+        "sprememba_pct": 0.02
       }
     ],
     "obveznice": [
@@ -181,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63145.64,
-        "sprememba_pct": 0.61,
+        "vrednost": 62549.03,
+        "sprememba_pct": -1.49,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.99,
-      "sprememba_pct": -6.44
+      "vrednost": 16.1,
+      "sprememba_pct": 0.69
     }
   }
 }
