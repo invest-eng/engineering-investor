@@ -1,139 +1,139 @@
 {
-  "generiranoOb": "2026-08-04T06:40:41.138Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-08-04T17:15:33.753Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-08-04",
-  "povzetek": "Ameriški delniški trgi so noč zaključili z močno rastjo, saj je S&P 500 dosegel 7601 (+1.48 %), Nasdaq 100 pa 28777 (+1.78 %). Tudi azijski Nikkei 225 je zrasel za 0.32 % na 63960, evropski DAX pa je zabeležil rast za 1.45 % na 26001. Surovine so se podražile, pri čemer je zlato pri 4115.60 USD/oz (+0.61 %), Brent nafta pa pri 84.76 USD/sod (+1.18 %). Medtem ko se geopolitične napetosti v Gazi nadaljujejo kljub dogovoru o razorožitvi Hamasa, kar ohranja negotovost na trgih, je bančni velikan HSBC objavil močne četrtletne dobičke v višini 10,1 milijarde dolarjev in napovedal ponovne odkupne programe delnic. Pomemben premik na valutnih trgih predstavlja ameriška intervencija v podporo jenu, kar kaže na novo obdobje \"valutnega aktivizma\" ZDA. Hkrati se razkriva obsežen finančni mehanizem Googla v vrednosti 200 milijard dolarjev za financiranje umetne inteligence, medtem ko Rusija širi svojo \"floto v senci\" za izvoz LNG, da bi obšla sankcije EU. Vpliv podnebnih sprememb postaja vse bolj opazen, saj vročinski valovi potencialno dražijo živila in vplivajo na potrošniške cene. Vlagatelji bodo v prihodnjih dneh pozorno spremljali morebitne objave ključnih makroekonomskih podatkov ali izjave centralnih bankirjev.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanimi občutki, medtem ko ameriški indeksi po dveh urah trgovanja kažejo močno rast. Nemški DAX je dan zaključil z rastjo 0,77 % pri 26.202 točkah. V ZDA je S&P 500 zrasel za 1,77 % na 7735 točk, tehnološko usmerjeni Nasdaq 100 pa je poskočil za 3,12 % na 29674 točk, kar kaže na optimizem v tehnološkem sektorju. Ključna novica dneva je bil padec cen nafte, saj sta tako WTI nafta kot Brent nafta zabeležili več kot 5-odstotni padec, na 76,07 USD/sod oziroma 79,55 USD/sod, zaradi napredka v pogajanjih za ponovno odprtje Hormuške ožine. Pozitivno so presenetila poročila o dobičku podjetij, kot sta Pfizer in Caterpillar, medtem ko so podatki o zmanjšanju prostih delovnih mest v ZDA nakazali morebitno ohlajanje trga dela. Donosnost 10-letne ameriške državne obveznice je padla za 1,26 % na 4,63 %, kar odraža pričakovanja glede obrestnih mer. Vlagatelji bodo ta teden pozorno spremljali nadaljnja poročila o dobičkih podjetij in morebitne izjave centralnih bank.",
   "novice": [
     {
-      "naslov": "Izrael nadaljuje napade v Gazi kljub dogovoru o razorožitvi Hamasa",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Al Jazeera poroča, da so se izraelski napadi na Gazo okrepili v dneh po dogovoru o razorožitvi Hamasa, ki so ga posredovale ZDA in je bil označen kot \"preboj\". Kljub temu, da je bil dogovor namenjen umiritvi razmer, je Izrael nadaljeval z operacijami, ki so povzročile smrt več deset ljudi. Izraelski \"Board of Peace\" je izjavil, da umik iz Gaze ne bo mogoč, dokler Hamas ne bo popolnoma razorožen. To kaže na globoko zakoreninjene napetosti in kompleksnost implementacije mirovnih sporazumov v regiji.",
-      "analiza": "Konflikt na Bližnjem vzhodu, še posebej v Gazi, je že dolgo vir geopolitične nestabilnosti. Nedavni dogovor, ki so ga posredovale ZDA, je bil viden kot priložnost za deeskalacijo, vendar so nadaljnji napadi pokazali krhkost in nezadostnost takšnih sporazumov. To ima neposreden vpliv na cene nafte, saj regija ostaja ključna za globalno oskrbo z energijo; povečana nestabilnost običajno vodi v rast cen, kot se je zgodilo z Brent nafto, ki je zrasla za 1.18 % na 84.76 USD/sod. Vlagatelji se v takšnih razmerah pogosto zatekajo k varnim zatočiščem, kot je zlato, ki je danes zraslo za 0.61 % na 4115.60 USD/oz. Povečana negotovost lahko vpliva tudi na globalne dobavne verige in povzroči splošno zmanjšanje apetita po tveganju. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitična tveganja, saj lahko imajo daljnosežne posledice na globalne trge in cene surovin, kar posredno vpliva na inflacijo in gospodarsko rast.",
-      "vpliv": [
-        "Povečana geopolitična negotovost",
-        "Rast cen nafte (Brent +1.18 % na 84.76 USD/sod)",
-        "Rast cene zlata (+0.61 % na 4115.60 USD/oz)",
-        "Zmanjšan apetit po tveganju na globalnih trgih"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
-      "objavljeno": "2026-08-04T06:00:10.000Z"
-    },
-    {
-      "naslov": "Ameriška intervencija v jen signalizira novo obdobje valutnega aktivizma ZDA",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Financial Times poroča, da intervencija ZDA v podporo japonski valuti, jenu, pomeni novo obdobje \"valutnega aktivizma\" s strani ZDA. Ta poteza kaže, da so ZDA pripravljene poseči na trge, da bi preprečile trgovanje, ki je v nasprotju z njihovimi interesi. Članek, ki ga je napisal Bessent, poudarja, da je intervencija ZDA usmerjena v \"samoohranitev\" in je odraz širših geopolitičnih in ekonomskih ciljev. To je pomemben odmik od tradicionalne politike, ki je pogosto poudarjala prosti pretok kapitala in minimalne intervencije na valutnih trgih.",
-      "analiza": "Valutne intervencije so redke in običajno označujejo resne ekonomske ali geopolitične napetosti. ZDA so se v preteklosti izogibale neposrednim intervencijam, razen v izjemnih okoliščinah. Sedanja poteza, usmerjena v podporo jenu, ki je bil pod pritiskom zaradi razlik v obrestnih merah med Japonsko in ZDA, kaže na zaskrbljenost Washingtona glede stabilnosti ključnih zaveznikov in morebitnih širših ekonomskih posledic šibkega jena. Takšna intervencija lahko kratkoročno stabilizira jen, vendar dolgoročno odpira vprašanja o prihodnji monetarni politiki in mednarodnem sodelovanju. Vpliv na valute je neposreden, saj lahko spremeni pričakovanja glede prihodnjih tečajev. Za obveznice lahko to pomeni povečano volatilnost, saj se vlagatelji odzivajo na spremenjene obrestne razlike. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da lahko takšne intervencije povečajo negotovost na globalnih valutnih trgih in vplivajo na donose mednarodnih naložb, še posebej tistih, denominiranih v jenih ali dolarjih.",
-      "vpliv": [
-        "Povečana volatilnost na valutnih trgih",
-        "Potencialna stabilizacija jena",
-        "Spremenjena pričakovanja glede monetarne politike",
-        "Vpliv na obrestne mere in donosnost obveznic"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/1be83506-b897-4c26-97cc-445d7354ee6f?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-04T03:35:46.000Z"
-    },
-    {
-      "naslov": "HSBC ob močnem dobičku 10,1 milijarde dolarjev nadaljuje odkup delnic",
+      "naslov": "Pfizer presegel pričakovanja, zvišal napoved prihodkov zaradi uspešnih zdravil.",
       "sektor": "Finance",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Največji evropski posojilodajalec, HSBC, je objavil izjemne četrtletne dobičke v višini 10,1 milijarde dolarjev, kar je preseglo pričakovanja. Dobiček je bil predvsem posledica močnega poslovanja na področju upravljanja premoženja in zavarovalništva v Hongkongu. Kot odziv na te pozitivne rezultate je banka napovedala nadaljevanje programa odkupovanja lastnih delnic. To kaže na robustno finančno stanje banke in zaupanje vodstva v prihodnje poslovanje, kar je običajno dober znak za delničarje.",
-      "analiza": "Rezultati HSBC so pomemben kazalnik zdravja globalnega bančnega sektorja, še posebej v Aziji, kjer ima banka močno prisotnost. Dobiček v višini 10,1 milijarde dolarjev in napoved odkupov delnic signalizirata močno kapitalsko pozicijo in sposobnost ustvarjanja vrednosti za delničarje. To lahko pozitivno vpliva na delnice banke in celotnega finančnega sektorja, saj kaže na odpornost in dobičkonosnost kljub morebitnim makroekonomskim izzivom. Odkupi delnic zmanjšujejo število delnic v obtoku, kar lahko poveča dobiček na delnico in s tem ceno delnice. Vpliv se lahko razširi tudi na obveznice, saj močna bilanca banke zmanjšuje tveganje za imetnike obveznic. Za slovenskega dolgoročnega vlagatelja je to pomembno, saj močni rezultati velikih mednarodnih bank kažejo na splošno stabilnost finančnega sistema in lahko prispevajo k pozitivnemu razpoloženju na globalnih delniških trgih, kar posredno vpliva tudi na slovenske naložbe.",
+      "povzetek": "Farmacevtski velikan Pfizer je objavil rezultate, ki so presegli analitska pričakovanja, in zvišal spodnjo mejo svoje napovedi prihodkov za celotno leto. K temu so prispevali močni rezultati zdravila Eliquis in drugih ključnih zdravil. Kljub temu je podjetje znižalo svojo celoletno napoved prihodkov od izdelkov za Covid na 4 milijarde dolarjev, kar je manj od prejšnjih 5 milijard dolarjev. To kaže na preusmeritev fokusa in prihodkovnih virov podjetja.",
+      "analiza": "Poročila o dobičku so ključna za oceno zdravja podjetij in splošnega trga. Pfizerjevo preseglo pričakovanja in zvišanje napovedi prihodkov, kljub znižanju pričakovanj za Covid izdelke, kaže na robustnost poslovanja in diverzifikacijo portfelja. To je pomembno v kontekstu, kjer se trgi prilagajajo na post-pandemično realnost in zmanjšano povpraševanje po cepivih in zdravilih za Covid-19. Mehanizem vpliva je neposreden: pozitivna poročila o dobičku običajno dvignejo ceno delnice podjetja, kar lahko prispeva k splošnemu optimizmu na trgu, še posebej v sektorju zdravstva. Za delnice Pfizerja to pomeni potencialno rast in zaupanje vlagateljev. Na širše trge, kot je S&P 500 (ki je danes zrasel za 1,77 %), lahko pozitivna poročila velikih podjetij delujejo kot katalizator. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija in sposobnost podjetja, da se prilagodi spreminjajočim se tržnim razmeram, ključna za dolgoročno stabilnost naložbe.",
       "vpliv": [
-        "Rast delnic HSBC in bančnega sektorja",
-        "Povečan dobiček na delnico",
-        "Zaupanje v finančni sektor",
-        "Stabilizacija trga obveznic"
+        "Rast delnice Pfizerja",
+        "Povečano zaupanje v sektor zdravstva",
+        "Prispevek k splošnemu optimizmu na trgu",
+        "Znižana napoved prihodkov od Covid izdelkov"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-04T05:39:16.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html",
+      "objavljeno": "2026-08-04T17:09:37.000Z"
     },
     {
-      "naslov": "Googlov 200 milijard dolarjev vreden finančni stroj za umetno inteligenco",
+      "naslov": "Bessent brani Warsha, trgi se 'razstrupljajo' od preveč smernic Feda.",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Ameriški finančni minister Scott Bessent je branil nekdanjega guvernerja Feda Kevina Warsha in izjavil, da trgi trenutno doživljajo 'razstrupljanje' zaradi prevelike količine smernic s strani Federal Reserve. Bessent je ob tem podvomil v potrebo po zvišanju obrestnih mer. Ta izjava nakazuje na morebitno spremembo v retoriki glede monetarne politike in vloge centralne banke pri vodenju tržnih pričakovanj.",
+      "analiza": "Izjave visokih finančnih uradnikov, kot je finančni minister, imajo pomemben vpliv na tržna pričakovanja glede monetarne politike. Bessentova kritika 'preveč smernic' s strani Feda in dvom o potrebi po zvišanju obrestnih mer se vpenjata v širšo razpravo o neodvisnosti centralnih bank in njihovi komunikacijski strategiji. V preteklosti je Fed pogosto uporabljal 'forward guidance' za usmerjanje trgov, kar je včasih povzročilo odvisnost trgov od teh smernic. Če se trgi 'razstrupljajo', to pomeni večjo volatilnost in potrebo po samostojni oceni ekonomskih podatkov. Mehanizem vpliva je prek pričakovanj glede obrestnih mer in inflacije. Če se zvišanje obrestnih mer zdi manj verjetno, to lahko pozitivno vpliva na delniške trge (kot je danes S&P 500 z rastjo 1,77 %) in negativno na donosnosti obveznic (10-letna ameriška obveznica je padla za 1,26 % na 4,63 %). Za valute, kot je EUR/USD (ki je danes zrasel za 0,10 % na 1,1525), lahko takšne izjave vplivajo na relativno moč dolarja. Vlagatelji morajo biti pripravljeni na morebitno večjo nihajnost in manj predvidljivo monetarno politiko. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati ne le odločitve centralnih bank, temveč tudi retoriko in razpravo o njihovi vlogi, saj to vpliva na širše makroekonomsko okolje.",
+      "vpliv": [
+        "Zmanjšana verjetnost zvišanja obrestnih mer",
+        "Padec donosnosti obveznic (10Y US Treasury -1.26%)",
+        "Potencialna rast delniških trgov",
+        "Povečana nepredvidljivost monetarne politike"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-04T16:25:00.000Z"
+    },
+    {
+      "naslov": "Cene nafte padle po napovedi Bessenta o skorajšnjem odprtju Hormuške ožine.",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Cene nafte so močno padle, potem ko je ameriški finančni minister Scott Bessent napovedal, da je dogovor o ponovnem odprtju Hormuške ožine neizbežen. Ta novica je sledila napredku v pogovorih med iranskimi in omanskimi pogajalci glede začasnega dogovora o ladijskem prometu. WTI nafta je padla za 5,31 % na 76,07 USD/sod, medtem ko je Brent nafta zabeležila padec za 5,04 % na 79,55 USD/sod. Novica je tudi prispevala k rekordno visokim vrednostim ameriških delnic.",
+      "analiza": "Hormuška ožina je ključna pomorska pot za svetovni transport nafte, skozi katero poteka približno petina svetovne oskrbe z nafto. Njeno zaprtje ali grožnja z zaprtjem ima takojšen in dramatičen vpliv na cene nafte zaradi strahu pred motnjami v oskrbi. Novica o skorajšnjem ponovnem odprtju, ki jo je potrdil visoki ameriški uradnik, je takoj sprostila ta pritisk, kar je povzročilo znaten padec cen nafte. Mehanizem vpliva je neposreden: povečana verjetnost stabilne oskrbe zmanjšuje premijo za tveganje, vgrajeno v ceno nafte. Padec cen nafte je na splošno pozitiven za svetovno gospodarstvo, saj zmanjšuje stroške energije za podjetja in potrošnike, kar lahko spodbudi gospodarsko rast in zmanjša inflacijske pritiske. To se odraža v rasti delniških trgov, kot je S&P 500 (+1,77 %). Za valute lahko nižje cene nafte vplivajo na valute držav izvoznic nafte. Za slovenskega dolgoročnega vlagatelja to pomeni zmanjšanje inflacijskih tveganj in potencialno boljše poslovno okolje za podjetja, ki so odvisna od energije. Vendar je geopolitična stabilnost v regiji še vedno krhka, zato je pomembno spremljati nadaljnji razvoj dogodkov.",
+      "vpliv": [
+        "Padec cen WTI nafte (-5.31%)",
+        "Padec cen Brent nafte (-5.04%)",
+        "Zmanjšanje inflacijskih pritiskov",
+        "Podpora delniškim trgom (S&P 500 +1.77%)"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/1ed68c71-e1e8-4ae5-a965-5380cbdeaa22?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-04T16:12:25.000Z"
+    },
+    {
+      "naslov": "Palantir prehiteva tekmece v dirki za umetno inteligenco.",
       "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Financial Times razkriva, da Google uporablja obsežen finančni mehanizem v vrednosti 200 milijard dolarjev za financiranje svojega partnerstva z Anthropicom in širših naložb v umetno inteligenco (AI). Ta model financiranja vključuje zasebne kredite, najem čipov in garancije za podatkovne centre, kar predstavlja nov pristop k porabi za AI. To kaže na izjemno kapitalsko intenzivnost razvoja AI in na inovativne načine, kako tehnološki velikani financirajo svoje ambiciozne projekte.",
-      "analiza": "Financiranje umetne inteligence je postalo ključna tema na tehnoloških trgih. Googlov model, ki vključuje 200 milijard dolarjev sredstev, poudarja ogromne kapitalske zahteve za razvoj in implementacijo naprednih AI rešitev. Uporaba zasebnih kreditov in najema čipov kaže na prilagodljivost in iskanje alternativnih virov financiranja izven tradicionalnih lastniških naložb. To lahko spodbudi rast celotnega sektorja AI, vključno s podjetji, ki proizvajajo čipe, in ponudniki storitev podatkovnih centrov. Za delnice tehnoloških podjetij, še posebej tistih, ki so močno vključena v AI, je to pozitivna novica, saj signalizira nadaljnje naložbe in potencialno rast. Vpliv na obveznice je posreden, saj se lahko poveča povpraševanje po zasebnih kreditih. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor umetne inteligence še vedno v fazi intenzivnih naložb, kar prinaša priložnosti, a tudi tveganja, povezana z visokimi vrednotenji in hitrim razvojem.",
+      "povzetek": "Podjetje Palantir Technologies se po mnenju analitikov oddaljuje od svojih programskih tekmecev v dirki za razvoj in implementacijo umetne inteligence. Njegova osredotočenost na 'suvereno umetno inteligenco' (sovereign AI) naj bi se dobro odzivala pri strankah. To kaže na močno pozicijo podjetja v hitro rastočem sektorju AI in potencial za nadaljnjo rast.",
+      "analiza": "Umetna inteligenca je eden najpomembnejših tehnoloških trendov desetletja, ki preoblikuje industrije in gospodarstva. Palantirjeva strategija 'suverene umetne inteligence', ki se verjetno nanaša na rešitve, ki državam ali velikim organizacijam omogočajo nadzor nad svojimi podatki in AI sistemi, je še posebej privlačna v času naraščajočih geopolitičnih napetosti in skrbi glede varnosti podatkov. Mehanizem vpliva je prek povečanega zanimanja vlagateljev za podjetja, ki so vodilna v inovativnih in rastočih sektorjih. Pozitivne novice o Palantirju lahko dvignejo ceno njegove delnice in prispevajo k splošnemu optimizmu v tehnološkem sektorju, kar se odraža v današnji rasti Nasdaq 100 za 3,12 %. To lahko vpliva tudi na druge tehnološke delnice, ki so povezane z AI. Za obveznice in surovine je vpliv posreden, prek splošnega gospodarskega optimizma. Za slovenskega dolgoročnega vlagatelja to poudarja pomen vlaganja v podjetja, ki so na čelu tehnoloških inovacij in imajo jasno strategijo za izkoriščanje rastočih trendov, kot je AI. Vendar je sektor AI tudi zelo konkurenčen in podvržen hitrim spremembam.",
       "vpliv": [
-        "Spodbujanje rasti AI sektorja",
-        "Povečano povpraševanje po čipih in podatkovnih centrih",
-        "Pozitiven vpliv na delnice tehnoloških velikanov",
-        "Razvoj novih finančnih instrumentov"
+        "Rast delnice Palantirja",
+        "Povečano zaupanje v sektor AI",
+        "Prispevek k rasti Nasdaq 100 (+3.12%)",
+        "Poudarek na 'suvereni AI'"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-04T04:00:16.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/palantir-is-leaving-its-software-peers-behind-in-the-ai-race-45280581?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-04T15:29:00.000Z"
     },
     {
-      "naslov": "Rusija širi floto za LNG, da bi obšla sankcije EU",
-      "sektor": "Energetika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Financial Times poroča, da Rusija širi svojo \"floto v senci\" plovil za prevoz utekočinjenega zemeljskega plina (LNG), da bi se izognila zaostrenim sankcijam Evropske unije, ki naj bi začele veljati naslednje leto. Povečano število ladij bo Moskvi pomagalo nadaljevati izvoz LNG, s čimer se bo poskušala ohraniti pomemben vir prihodkov kljub mednarodnim omejitvam. To kaže na ruske napore za obvladovanje vpliva sankcij in ohranjanje svoje vloge na globalnih energetskih trgih.",
-      "analiza": "Razširitev ruske flote za LNG je neposreden odgovor na zahodne sankcije in poskus ohranjanja energetskih prihodkov. To ima pomembne posledice za globalno energetsko varnost in cene. Če bo Rusiji uspelo učinkovito obiti sankcije, bi to lahko zmanjšalo pritisk na globalne cene plina, saj bi se ohranila oskrba. Po drugi strani pa to zmanjšuje učinkovitost sankcij in lahko povzroči nadaljnje geopolitične napetosti. Vpliv na cene nafte in plina je mešan; medtem ko se Brent nafta danes podražila za 1.18 % na 84.76 USD/sod, je dolgoročni vpliv na cene plina odvisen od uspešnosti ruskih strategij in odziva EU. Za delnice energetskih podjetij bi to lahko pomenilo nadaljnjo volatilnost, odvisno od njihove izpostavljenosti ruskemu trgu ali alternativnim virom energije. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj dogodkov na energetskih trgih, saj lahko imajo neposreden vpliv na cene energentov, inflacijo in s tem na gospodarsko rast v Evropi.",
-      "vpliv": [
-        "Vpliv na učinkovitost sankcij EU",
-        "Potencialna stabilizacija globalnih cen plina",
-        "Geopolitične napetosti v energetskem sektorju",
-        "Volatilnost delnic energetskih podjetij"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/cebc2dfc-1b9e-4119-b1e0-b9b514550d23?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-04T04:00:08.000Z"
-    },
-    {
-      "naslov": "Vročinski valovi lahko podražijo živila in vplivajo na potrošniške cene",
-      "sektor": "Potrošniki",
+      "naslov": "Število prostih delovnih mest v ZDA padlo na trimesečno dno.",
+      "sektor": "Makro & Trg dela",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "BBC Business opozarja, da bi lahko vročinski valovi povzročili višje cene živil. Povišane temperature vplivajo na kmetijsko proizvodnjo, kar zmanjšuje donose in povečuje stroške pridelave. Poleg tega lahko vročina poveča operativne stroške supermarketov, na primer zaradi višje porabe energije za hlajenje. To bi lahko imelo neposreden vpliv na denarnice potrošnikov, saj bi se povečali stroški nakupovanja hrane.",
-      "analiza": "Vpliv podnebnih sprememb, kot so vročinski valovi, na gospodarstvo postaja vse bolj opazen. Povišane temperature ne vplivajo le na udobje, temveč imajo tudi konkretne ekonomske posledice, še posebej na kmetijstvo in dobavne verige. Zmanjšani donosi in povečani stroški pridelave neposredno prispevajo k inflacijskim pritiskom, kar se odraža v višjih cenah živil. To lahko zmanjša kupno moč potrošnikov in vpliva na njihovo potrošnjo. Za delnice podjetij v živilski industriji in maloprodaji to pomeni izzive v smislu marž in povpraševanja. Centralne banke, kot je Evropska centralna banka, pozorno spremljajo inflacijske pritiske, saj lahko ti vplivajo na njihove odločitve o obrestnih merah. Za slovenskega dolgoročnega vlagatelja je pomembno upoštevati, da podnebne spremembe predstavljajo sistemsko tveganje, ki lahko vpliva na različne sektorje gospodarstva in dolgoročno na donosnost naložb, še posebej v sektorjih, ki so odvisni od naravnih virov.",
+      "povzetek": "Po podatkih je število prostih delovnih mest v ZDA padlo na trimesečno dno. To nakazuje, da je ameriški trg dela, po spomladanskem porastu novih delovnih mest in zaposlovanja, morda izgubil nekaj zagona. Takšen razvoj dogodkov lahko vpliva na pričakovanja glede gospodarske rasti in inflacije.",
+      "analiza": "Trg dela je ključen indikator gospodarskega zdravja in ima pomemben vpliv na odločitve centralnih bank glede obrestnih mer. Padec števila prostih delovnih mest lahko pomeni, da se povpraševanje po delovni sili zmanjšuje, kar je lahko znak ohlajanja gospodarstva. To se vpenja v širšo makroekonomsko sliko, kjer centralne banke poskušajo uravnotežiti boj proti inflaciji z ohranjanjem gospodarske rasti. Mehanizem vpliva je prek pričakovanj o monetarni politiki in gospodarski aktivnosti. Če se trg dela ohlaja, se lahko zmanjšajo inflacijski pritiski, kar bi lahko zmanjšalo verjetnost nadaljnjih zvišanj obrestnih mer (kar je v skladu z izjavo ministra Bessenta). To bi lahko bilo pozitivno za delniške trge, saj nižje obrestne mere pomenijo nižje stroške zadolževanja za podjetja. Vendar pa prehitro ohlajanje trga dela lahko pomeni tudi tveganje za recesijo, kar bi bilo negativno. Donosnosti obveznic (10Y US Treasury -1.26%) so se danes znižale, kar lahko odraža pričakovanja o nižjih obrestnih merah. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so podatki o trgu dela ključni za oceno smeri gospodarstva in monetarne politike, kar posredno vpliva na vse razrede sredstev.",
       "vpliv": [
-        "Povečani inflacijski pritiski",
-        "Višje cene živil za potrošnike",
-        "Vpliv na marže živilskih podjetij",
-        "Potencialno zmanjšanje kupne moči"
+        "Ohlajanje trga dela v ZDA",
+        "Zmanjšanje inflacijskih pritiskov",
+        "Potencialno zmanjšanje verjetnosti zvišanja obrestnih mer",
+        "Vpliv na gospodarsko rast"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cp879d2n3yno?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-08-04T05:46:25.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/job-openings-fell-to-a-3-month-low-is-the-labor-market-losing-momentum-05fcbc49?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-04T15:03:00.000Z"
+    },
+    {
+      "naslov": "Delnica Caterpillarja dvignila Dow zaradi rekordnih prihodkov in povpraševanja po podatkovnih centrih.",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Delnica podjetja Caterpillar je močno poskočila in indeksu Dow Jones Industrial Average prispevala 200 točk, potem ko je podjetje objavilo rezultate, ki so presegli pričakovanja analitikov za največ v zadnjih petih letih. Rekordne prihodke je poganjalo močno povpraševanje po gradbeni opremi, še posebej zaradi gradnje podatkovnih centrov. To poudarja vpliv rasti tehnološkega sektorja in umetne inteligence na tradicionalne industrije.",
+      "analiza": "Caterpillar je ključni indikator globalnega gospodarskega zdravja, saj je eden največjih proizvajalcev gradbene in rudarske opreme. Njegovi močni rezultati, še posebej poganjani z gradnjo podatkovnih centrov, kažejo na robustno povpraševanje v določenih segmentih gospodarstva, ki so posredno povezani s tehnološkim razcvetom in AI. To je pomembno v kontekstu, kjer se vlagatelji sprašujejo o trajnosti gospodarske rasti. Mehanizem vpliva je dvojen: neposredno na delnico Caterpillarja in posredno na širši trg. Rast delnice Caterpillarja prispeva k rasti indeksov, kot je Dow Jones, in krepi zaupanje vlagateljev v industrijski sektor. To lahko pozitivno vpliva tudi na druge delnice v industrijskem sektorju. Za obveznice in valute je vpliv posreden, prek splošnega gospodarskega optimizma. Današnja rast S&P 500 za 1,77 % in Nasdaq 100 za 3,12 % kaže na splošno pozitivno razpoloženje, h kateremu prispevajo tudi takšna poročila. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati tudi podjetja iz tradicionalnih sektorjev, ki se uspešno prilagajajo novim trendom in izkoriščajo priložnosti, ki jih prinašajo tehnološke inovacije.",
+      "vpliv": [
+        "Rast delnice Caterpillarja",
+        "Povečanje indeksa Dow Jones",
+        "Rekordni prihodki zaradi povpraševanja po podatkovnih centrih",
+        "Pozitiven signal za industrijski sektor"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/caterpillar-is-killing-it-and-data-center-demand-is-driving-record-revenue-161b84d1?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-04T14:36:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-04T06:39:44.318Z",
+    "posodobljenoOb": "2026-08-04T17:13:41.285Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7600.5,
-        "sprememba_pct": 1.48
+        "vrednost": 7734.68,
+        "sprememba_pct": 1.77
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 28776.803,
-        "sprememba_pct": 1.78
+        "vrednost": 29673.83,
+        "sprememba_pct": 3.12
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 26001.31,
-        "sprememba_pct": 1.45
+        "vrednost": 26202.35,
+        "sprememba_pct": 0.77
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 63959.67,
+        "vrednost": 63957.53,
         "sprememba_pct": 0.32
       }
     ],
@@ -141,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4115.6,
-        "sprememba_pct": 0.61,
+        "vrednost": 4156.3,
+        "sprememba_pct": 1.61,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 80.84,
-        "sprememba_pct": 0.62,
+        "vrednost": 76.07,
+        "sprememba_pct": -5.31,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 84.76,
-        "sprememba_pct": 1.18,
+        "vrednost": 79.55,
+        "sprememba_pct": -5.04,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.151,
-        "sprememba_pct": -0.03
+        "vrednost": 1.1525,
+        "sprememba_pct": 0.1
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.686,
-        "sprememba_pct": -1.24,
+        "vrednost": 4.627,
+        "sprememba_pct": -1.26,
         "enota": "%"
       }
     ],
@@ -181,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63659.76,
-        "sprememba_pct": 0.31,
+        "vrednost": 64030.45,
+        "sprememba_pct": 0.89,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.86,
-      "sprememba_pct": -0.81
+      "vrednost": 16.27,
+      "sprememba_pct": 2.59
     }
   }
 }
