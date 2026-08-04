@@ -1,106 +1,128 @@
 {
-  "generiranoOb": "2026-08-03T17:32:23.025Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-08-04T06:40:41.138Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-08-03",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, pri čemer je nemški indeks DAX zrasel za 1.45 % na 26001 točk. Tudi ameriški trgi so nadaljevali z rastjo, saj je S&P 500 trenutno pri 7595 točkah (+1.40 %), Nasdaq 100 pa pri 28762 točkah (+1.73 %). Vendar pa je dan zaznamoval izrazit padec cen nafte, kjer je WTI nafta padla na 80.00 USD/sod (-5.52 %), Brent pa na 83.69 USD/sod (-4.82 %), deloma pod vplivom političnih izjav. Medtem so delnice AstraZenece strmoglavile za 8.9 % zaradi poročil o morebitnih pogovorih o združitvi z Bristol Myers Squibb. Pozitivne novice so prišle iz letalskega sektorja z odobritvijo najmanjšega Boeinga 737 Max in iz finančnega sektorja z Visinim prevzemom podjetja BioCatch. Vlagatelji bodo pozorno spremljali prihajajoče makroekonomske objave, kot je objava podatkov o inflaciji v ZDA, ki bo vplivala na pričakovanja glede obrestnih mer.",
+  "datum": "2026-08-04",
+  "povzetek": "Ameriški delniški trgi so noč zaključili z močno rastjo, saj je S&P 500 dosegel 7601 (+1.48 %), Nasdaq 100 pa 28777 (+1.78 %). Tudi azijski Nikkei 225 je zrasel za 0.32 % na 63960, evropski DAX pa je zabeležil rast za 1.45 % na 26001. Surovine so se podražile, pri čemer je zlato pri 4115.60 USD/oz (+0.61 %), Brent nafta pa pri 84.76 USD/sod (+1.18 %). Medtem ko se geopolitične napetosti v Gazi nadaljujejo kljub dogovoru o razorožitvi Hamasa, kar ohranja negotovost na trgih, je bančni velikan HSBC objavil močne četrtletne dobičke v višini 10,1 milijarde dolarjev in napovedal ponovne odkupne programe delnic. Pomemben premik na valutnih trgih predstavlja ameriška intervencija v podporo jenu, kar kaže na novo obdobje \"valutnega aktivizma\" ZDA. Hkrati se razkriva obsežen finančni mehanizem Googla v vrednosti 200 milijard dolarjev za financiranje umetne inteligence, medtem ko Rusija širi svojo \"floto v senci\" za izvoz LNG, da bi obšla sankcije EU. Vpliv podnebnih sprememb postaja vse bolj opazen, saj vročinski valovi potencialno dražijo živila in vplivajo na potrošniške cene. Vlagatelji bodo v prihodnjih dneh pozorno spremljali morebitne objave ključnih makroekonomskih podatkov ali izjave centralnih bankirjev.",
   "novice": [
     {
-      "naslov": "AstraZeneca: Delnice padajo zaradi pogovorov o združitvi z Bristol Myers Squibb",
-      "sektor": "Finance",
+      "naslov": "Izrael nadaljuje napade v Gazi kljub dogovoru o razorožitvi Hamasa",
+      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Delnice britanskega farmacevtskega velikana AstraZeneca so danes padle za 8.9 %, kar je izbrisalo več kot 17 milijard funtov tržne kapitalizacije podjetja. Padec je sledil poročilom o morebitnih pogovorih za prevzem ameriškega podjetja za zdravila proti raku Bristol Myers Squibb. Potencialna združitev bi ustvarila četrtega največjega proizvajalca zdravil na svetu z ocenjeno vrednostjo blizu 400 milijard dolarjev. AstraZeneca, ki jo vodi Pascal Soriot, je bila pred novico vredna skoraj 196 milijard funtov, medtem ko je bil BMS ocenjen na 133 milijard dolarjev.",
-      "analiza": "Poročila o morebitni mega-združitvi med AstraZeneco in Bristol Myers Squibb so povzročila zaskrbljenost med vlagatelji, kar se je odrazilo v znatnem padcu delnic AstraZenece. V farmacevtski industriji so tovrstne združitve pogoste, saj podjetja iščejo sinergije, širijo portfelje zdravil in se pripravljajo na iztekanje patentov. Vendar pa tako velika transakcija prinaša tudi tveganja, kot so morebitne regulatorne ovire zaradi protimonopolne zakonodaje in izzivi pri integraciji dveh velikih podjetij. Vlagatelji se sprašujejo o racionalnosti posla, še posebej glede na bližajočo se 'patentno steno' in morebitne dolgove. Padec delnic AstraZenece kaže na previdnost trga glede obsega in kompleksnosti takšnega prevzema. Za slovenskega dolgoročnega vlagatelja je to opomin, da so tudi velika, stabilna podjetja izpostavljena tveganjem, povezanim z M&A aktivnostmi, ki lahko kratkoročno vplivajo na vrednost naložbe, medtem ko dolgoročni vpliv ostaja odvisen od uspešnosti integracije in izpolnjevanja sinergijskih pričakovanj.",
+      "povzetek": "Al Jazeera poroča, da so se izraelski napadi na Gazo okrepili v dneh po dogovoru o razorožitvi Hamasa, ki so ga posredovale ZDA in je bil označen kot \"preboj\". Kljub temu, da je bil dogovor namenjen umiritvi razmer, je Izrael nadaljeval z operacijami, ki so povzročile smrt več deset ljudi. Izraelski \"Board of Peace\" je izjavil, da umik iz Gaze ne bo mogoč, dokler Hamas ne bo popolnoma razorožen. To kaže na globoko zakoreninjene napetosti in kompleksnost implementacije mirovnih sporazumov v regiji.",
+      "analiza": "Konflikt na Bližnjem vzhodu, še posebej v Gazi, je že dolgo vir geopolitične nestabilnosti. Nedavni dogovor, ki so ga posredovale ZDA, je bil viden kot priložnost za deeskalacijo, vendar so nadaljnji napadi pokazali krhkost in nezadostnost takšnih sporazumov. To ima neposreden vpliv na cene nafte, saj regija ostaja ključna za globalno oskrbo z energijo; povečana nestabilnost običajno vodi v rast cen, kot se je zgodilo z Brent nafto, ki je zrasla za 1.18 % na 84.76 USD/sod. Vlagatelji se v takšnih razmerah pogosto zatekajo k varnim zatočiščem, kot je zlato, ki je danes zraslo za 0.61 % na 4115.60 USD/oz. Povečana negotovost lahko vpliva tudi na globalne dobavne verige in povzroči splošno zmanjšanje apetita po tveganju. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitična tveganja, saj lahko imajo daljnosežne posledice na globalne trge in cene surovin, kar posredno vpliva na inflacijo in gospodarsko rast.",
       "vpliv": [
-        "Padec delnic AstraZenece za 8.9 %",
-        "Izbris £17 milijard tržne kapitalizacije",
-        "Potencialna združitev v vrednosti $400 milijard"
+        "Povečana geopolitična negotovost",
+        "Rast cen nafte (Brent +1.18 % na 84.76 USD/sod)",
+        "Rast cene zlata (+0.61 % na 4115.60 USD/oz)",
+        "Zmanjšan apetit po tveganju na globalnih trgih"
       ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/2026/aug/03/astrazeneca-talks-bristol-myers-squibb-merger-pharmaceuticals",
-      "objavljeno": "2026-08-03T16:32:09.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
+      "objavljeno": "2026-08-04T06:00:10.000Z"
     },
     {
-      "naslov": "FAA odobrila najmanjši Boeing 737 Max za letenje po letih zamud",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Ameriška zvezna uprava za letalstvo (FAA) je po večletnih zamudah končno odobrila najmanjšo različico letala Boeing 737 Max za letenje. Ta odobritev pomeni, da lahko letalske družbe kmalu začnejo uporabljati ta letala za prevoz potnikov, čeprav bo trajalo več mesecev, da jih vključijo v svoje vozne rede. Certifikacija je pomemben korak za Boeing, ki se je v preteklosti soočal z velikimi izzivi in zamudami pri programu 737 Max.",
-      "analiza": "Odobritev najmanjšega Boeinga 737 Max s strani FAA je pomembna pozitivna novica za Boeing, ki se je v zadnjih letih boril z regulativnimi ovirami in padcem zaupanja po dveh smrtonosnih nesrečah. Ta certifikacija omogoča podjetju, da končno dostavi naročena letala in začne ustvarjati prihodke iz tega segmenta. Za letalske družbe to pomeni, da bodo lahko posodobile svoje flote z energetsko učinkovitejšimi letali, kar lahko dolgoročno zniža operativne stroške. Čeprav bo vključitev letal v vozne rede trajala, je to jasen signal, da se Boeing premika naprej. Pozitivno bo vplivalo na delnice Boeinga in morda tudi na delnice letalskih družb, ki so naročile ta model. Za slovenskega dolgoročnega vlagatelja je to primer, kako regulativni dejavniki in varnostni pomisleki lahko močno vplivajo na poslovanje velikih industrijskih podjetij, vendar pa postopno reševanje teh težav lahko prinese okrevanje in rast.",
+      "naslov": "Ameriška intervencija v jen signalizira novo obdobje valutnega aktivizma ZDA",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Financial Times poroča, da intervencija ZDA v podporo japonski valuti, jenu, pomeni novo obdobje \"valutnega aktivizma\" s strani ZDA. Ta poteza kaže, da so ZDA pripravljene poseči na trge, da bi preprečile trgovanje, ki je v nasprotju z njihovimi interesi. Članek, ki ga je napisal Bessent, poudarja, da je intervencija ZDA usmerjena v \"samoohranitev\" in je odraz širših geopolitičnih in ekonomskih ciljev. To je pomemben odmik od tradicionalne politike, ki je pogosto poudarjala prosti pretok kapitala in minimalne intervencije na valutnih trgih.",
+      "analiza": "Valutne intervencije so redke in običajno označujejo resne ekonomske ali geopolitične napetosti. ZDA so se v preteklosti izogibale neposrednim intervencijam, razen v izjemnih okoliščinah. Sedanja poteza, usmerjena v podporo jenu, ki je bil pod pritiskom zaradi razlik v obrestnih merah med Japonsko in ZDA, kaže na zaskrbljenost Washingtona glede stabilnosti ključnih zaveznikov in morebitnih širših ekonomskih posledic šibkega jena. Takšna intervencija lahko kratkoročno stabilizira jen, vendar dolgoročno odpira vprašanja o prihodnji monetarni politiki in mednarodnem sodelovanju. Vpliv na valute je neposreden, saj lahko spremeni pričakovanja glede prihodnjih tečajev. Za obveznice lahko to pomeni povečano volatilnost, saj se vlagatelji odzivajo na spremenjene obrestne razlike. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da lahko takšne intervencije povečajo negotovost na globalnih valutnih trgih in vplivajo na donose mednarodnih naložb, še posebej tistih, denominiranih v jenih ali dolarjih.",
       "vpliv": [
-        "Pozitivno za delnice Boeinga",
-        "Povečana operativna zmogljivost letalskih družb",
-        "Zmanjšanje negotovosti za dobavitelje"
+        "Povečana volatilnost na valutnih trgih",
+        "Potencialna stabilizacija jena",
+        "Spremenjena pričakovanja glede monetarne politike",
+        "Vpliv na obrestne mere in donosnost obveznic"
       ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
-      "objavljeno": "2026-08-03T17:27:34.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/1be83506-b897-4c26-97cc-445d7354ee6f?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-04T03:35:46.000Z"
     },
     {
-      "naslov": "Visa kupuje podjetje za kibernetsko varnost BioCatch za 2,4 milijarde dolarjev",
+      "naslov": "HSBC ob močnem dobičku 10,1 milijarde dolarjev nadaljuje odkup delnic",
       "sektor": "Finance",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Podjetje Visa je objavilo, da bo kupilo podjetje za kibernetsko varnost BioCatch za 2,4 milijarde dolarjev. Ta poteza je odgovor na porast prevar, ki jih poganja umetna inteligenca, in predstavlja najnovejšo strategijo Vise za razširitev poslovanja s storitvami z dodano vrednostjo. BioCatch je specializiran za zaznavanje goljufij in preprečevanje kibernetskih napadov, kar bo okrepilo Visine zmogljivosti na področju varnosti transakcij. Poslovanje z dodano vrednostjo je postalo eden najhitreje rastočih oddelkov podjetja Visa.",
-      "analiza": "Nakup BioCatcha s strani Vise za 2,4 milijarde dolarjev poudarja naraščajočo pomembnost kibernetske varnosti v finančnem sektorju, še posebej v luči napredka umetne inteligence, ki omogoča sofisticirane prevare. Za Vise je to strateška poteza, ki krepi njeno ponudbo storitev z dodano vrednostjo, ki je ključna za rast podjetja in ohranjanje konkurenčnosti. Z integracijo tehnologije BioCatch bo Visa lahko svojim strankam ponudila še varnejše in zanesljivejše plačilne rešitve, kar lahko poveča zaupanje in privabi nove uporabnike. To je pozitiven signal za delnice Vise, saj kaže na proaktivno prilagajanje na spreminjajoče se tržne razmere in vlaganje v prihodnjo rast. Za slovenskega dolgoročnega vlagatelja to pomeni, da so podjetja, ki se uspešno prilagajajo tehnološkim trendom in vlagajo v varnost, bolj odporna na tveganja in imajo večji potencial za dolgoročno rast, še posebej v sektorjih, kot so finance in tehnologija.",
+      "povzetek": "Največji evropski posojilodajalec, HSBC, je objavil izjemne četrtletne dobičke v višini 10,1 milijarde dolarjev, kar je preseglo pričakovanja. Dobiček je bil predvsem posledica močnega poslovanja na področju upravljanja premoženja in zavarovalništva v Hongkongu. Kot odziv na te pozitivne rezultate je banka napovedala nadaljevanje programa odkupovanja lastnih delnic. To kaže na robustno finančno stanje banke in zaupanje vodstva v prihodnje poslovanje, kar je običajno dober znak za delničarje.",
+      "analiza": "Rezultati HSBC so pomemben kazalnik zdravja globalnega bančnega sektorja, še posebej v Aziji, kjer ima banka močno prisotnost. Dobiček v višini 10,1 milijarde dolarjev in napoved odkupov delnic signalizirata močno kapitalsko pozicijo in sposobnost ustvarjanja vrednosti za delničarje. To lahko pozitivno vpliva na delnice banke in celotnega finančnega sektorja, saj kaže na odpornost in dobičkonosnost kljub morebitnim makroekonomskim izzivom. Odkupi delnic zmanjšujejo število delnic v obtoku, kar lahko poveča dobiček na delnico in s tem ceno delnice. Vpliv se lahko razširi tudi na obveznice, saj močna bilanca banke zmanjšuje tveganje za imetnike obveznic. Za slovenskega dolgoročnega vlagatelja je to pomembno, saj močni rezultati velikih mednarodnih bank kažejo na splošno stabilnost finančnega sistema in lahko prispevajo k pozitivnemu razpoloženju na globalnih delniških trgih, kar posredno vpliva tudi na slovenske naložbe.",
       "vpliv": [
-        "Visa krepi poslovanje z dodano vrednostjo",
-        "Povečana varnost transakcij",
-        "Potencial za rast prihodkov Vise"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
-      "objavljeno": "2026-08-03T16:44:25.000Z"
-    },
-    {
-      "naslov": "ZDA in Japonska skupaj posredovali na trgu za krepitev jena",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Ministrstvo za finance Japonske je potrdilo, da so se ameriško ministrstvo za finance in Federal Reserve pridružila japonskim kolegom pri zgodovinski skupni intervenciji za krepitev japonskega jena. Ta poteza je bila izvedena z namenom podpore jenu, ki se je v zadnjem času soočal s šibkostjo. Skupno posredovanje je redek dogodek na valutnih trgih in signalizira resno zaskrbljenost obeh držav glede stabilnosti valute in njenega vpliva na gospodarstvo.",
-      "analiza": "Skupna intervencija ZDA in Japonske na valutnem trgu za krepitev jena je pomemben makroekonomski dogodek, ki kaže na resnost situacije. Japonski jen se je v zadnjem obdobju soočal z znatno depreciacijo, kar je vplivalo na japonsko gospodarstvo in globalno trgovino. Intervencije na valutnih trgih so redke in se običajno izvedejo le, ko se ocenjuje, da je depreciacija valute prekomerna in škodljiva. Ta poteza lahko kratkoročno okrepi jen, vendar je dolgoročni uspeh odvisen od temeljnih ekonomskih dejavnikov in politik centralnih bank. Vplivala bo na valutni par EUR/USD, ki je danes že padel za 0.17 % na 1.1507, saj lahko krepitev jena posredno vpliva na dinamiko drugih glavnih valut. Za obvezniške trge bi lahko krepitev jena zmanjšala pritisk na japonske obveznice. Za slovenskega dolgoročnega vlagatelja je to opomin, da so valutni tečaji ključni za globalno ekonomijo in lahko vplivajo na mednarodne naložbe, še posebej tiste, ki so izpostavljene japonskemu trgu ali imajo pomembne trgovinske partnerje na Japonskem.",
-      "vpliv": [
-        "Krepitev japonskega jena",
-        "Vpliv na globalne valutne trge",
-        "Signalizira zaskrbljenost glede ekonomske stabilnosti"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-03T15:20:00.000Z"
-    },
-    {
-      "naslov": "Apple izpodbija zahtevo Združenega kraljestva po dostopu do šifriranih podatkov",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Apple je vložil pravni izziv proti poskusu Združenega kraljestva, da bi pridobilo dostop do šifriranih uporabniških podatkov. Proizvajalec iPhonov je vložil pritožbo zaradi najnovejše vladne zahteve po povezavi z varnostnimi kopijami v oblaku britanskih uporabnikov. Ta poteza poudarja trajen konflikt med tehnološkimi podjetji, ki poudarjajo zasebnost uporabnikov, in vladami, ki želijo dostop do podatkov zaradi nacionalne varnosti in preprečevanja kriminala.",
-      "analiza": "Pravni spor med Applom in vlado Združenega kraljestva glede dostopa do šifriranih podatkov je del širše globalne debate o ravnotežju med zasebnostjo posameznikov in nacionalno varnostjo. Apple se dosledno postavlja v vlogo zagovornika zasebnosti, kar je ključno za njegovo blagovno znamko in zaupanje uporabnikov. Zahteva britanske vlade po dostopu do šifriranih podatkov bi lahko ustvarila nevaren precedens, ki bi ga lahko sledile tudi druge države, kar bi imelo daljnosežne posledice za celotno tehnološko industrijo. Ta situacija povečuje regulativno negotovost za Apple in druga tehnološka podjetja, ki delujejo na globalni ravni. Čeprav neposreden finančni vpliv morda ni takojšen, lahko dolgoročno vpliva na ugled podjetja in morebitne stroške skladnosti. Za slovenskega dolgoročnega vlagatelja je to opomin, da so tehnološka podjetja izpostavljena ne le tržnim, ampak tudi regulativnim in etičnim tveganjem, ki lahko vplivajo na njihovo poslovanje in vrednost delnic.",
-      "vpliv": [
-        "Povečana regulativna negotovost za Apple",
-        "Vpliv na ugled podjetij glede zasebnosti",
-        "Potencialni precedens za druge države"
+        "Rast delnic HSBC in bančnega sektorja",
+        "Povečan dobiček na delnico",
+        "Zaupanje v finančni sektor",
+        "Stabilizacija trga obveznic"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-03T16:59:09.000Z"
+      "vir_url": "https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-04T05:39:16.000Z"
+    },
+    {
+      "naslov": "Googlov 200 milijard dolarjev vreden finančni stroj za umetno inteligenco",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Financial Times razkriva, da Google uporablja obsežen finančni mehanizem v vrednosti 200 milijard dolarjev za financiranje svojega partnerstva z Anthropicom in širših naložb v umetno inteligenco (AI). Ta model financiranja vključuje zasebne kredite, najem čipov in garancije za podatkovne centre, kar predstavlja nov pristop k porabi za AI. To kaže na izjemno kapitalsko intenzivnost razvoja AI in na inovativne načine, kako tehnološki velikani financirajo svoje ambiciozne projekte.",
+      "analiza": "Financiranje umetne inteligence je postalo ključna tema na tehnoloških trgih. Googlov model, ki vključuje 200 milijard dolarjev sredstev, poudarja ogromne kapitalske zahteve za razvoj in implementacijo naprednih AI rešitev. Uporaba zasebnih kreditov in najema čipov kaže na prilagodljivost in iskanje alternativnih virov financiranja izven tradicionalnih lastniških naložb. To lahko spodbudi rast celotnega sektorja AI, vključno s podjetji, ki proizvajajo čipe, in ponudniki storitev podatkovnih centrov. Za delnice tehnoloških podjetij, še posebej tistih, ki so močno vključena v AI, je to pozitivna novica, saj signalizira nadaljnje naložbe in potencialno rast. Vpliv na obveznice je posreden, saj se lahko poveča povpraševanje po zasebnih kreditih. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor umetne inteligence še vedno v fazi intenzivnih naložb, kar prinaša priložnosti, a tudi tveganja, povezana z visokimi vrednotenji in hitrim razvojem.",
+      "vpliv": [
+        "Spodbujanje rasti AI sektorja",
+        "Povečano povpraševanje po čipih in podatkovnih centrih",
+        "Pozitiven vpliv na delnice tehnoloških velikanov",
+        "Razvoj novih finančnih instrumentov"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-04T04:00:16.000Z"
+    },
+    {
+      "naslov": "Rusija širi floto za LNG, da bi obšla sankcije EU",
+      "sektor": "Energetika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Financial Times poroča, da Rusija širi svojo \"floto v senci\" plovil za prevoz utekočinjenega zemeljskega plina (LNG), da bi se izognila zaostrenim sankcijam Evropske unije, ki naj bi začele veljati naslednje leto. Povečano število ladij bo Moskvi pomagalo nadaljevati izvoz LNG, s čimer se bo poskušala ohraniti pomemben vir prihodkov kljub mednarodnim omejitvam. To kaže na ruske napore za obvladovanje vpliva sankcij in ohranjanje svoje vloge na globalnih energetskih trgih.",
+      "analiza": "Razširitev ruske flote za LNG je neposreden odgovor na zahodne sankcije in poskus ohranjanja energetskih prihodkov. To ima pomembne posledice za globalno energetsko varnost in cene. Če bo Rusiji uspelo učinkovito obiti sankcije, bi to lahko zmanjšalo pritisk na globalne cene plina, saj bi se ohranila oskrba. Po drugi strani pa to zmanjšuje učinkovitost sankcij in lahko povzroči nadaljnje geopolitične napetosti. Vpliv na cene nafte in plina je mešan; medtem ko se Brent nafta danes podražila za 1.18 % na 84.76 USD/sod, je dolgoročni vpliv na cene plina odvisen od uspešnosti ruskih strategij in odziva EU. Za delnice energetskih podjetij bi to lahko pomenilo nadaljnjo volatilnost, odvisno od njihove izpostavljenosti ruskemu trgu ali alternativnim virom energije. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj dogodkov na energetskih trgih, saj lahko imajo neposreden vpliv na cene energentov, inflacijo in s tem na gospodarsko rast v Evropi.",
+      "vpliv": [
+        "Vpliv na učinkovitost sankcij EU",
+        "Potencialna stabilizacija globalnih cen plina",
+        "Geopolitične napetosti v energetskem sektorju",
+        "Volatilnost delnic energetskih podjetij"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/cebc2dfc-1b9e-4119-b1e0-b9b514550d23?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-04T04:00:08.000Z"
+    },
+    {
+      "naslov": "Vročinski valovi lahko podražijo živila in vplivajo na potrošniške cene",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "BBC Business opozarja, da bi lahko vročinski valovi povzročili višje cene živil. Povišane temperature vplivajo na kmetijsko proizvodnjo, kar zmanjšuje donose in povečuje stroške pridelave. Poleg tega lahko vročina poveča operativne stroške supermarketov, na primer zaradi višje porabe energije za hlajenje. To bi lahko imelo neposreden vpliv na denarnice potrošnikov, saj bi se povečali stroški nakupovanja hrane.",
+      "analiza": "Vpliv podnebnih sprememb, kot so vročinski valovi, na gospodarstvo postaja vse bolj opazen. Povišane temperature ne vplivajo le na udobje, temveč imajo tudi konkretne ekonomske posledice, še posebej na kmetijstvo in dobavne verige. Zmanjšani donosi in povečani stroški pridelave neposredno prispevajo k inflacijskim pritiskom, kar se odraža v višjih cenah živil. To lahko zmanjša kupno moč potrošnikov in vpliva na njihovo potrošnjo. Za delnice podjetij v živilski industriji in maloprodaji to pomeni izzive v smislu marž in povpraševanja. Centralne banke, kot je Evropska centralna banka, pozorno spremljajo inflacijske pritiske, saj lahko ti vplivajo na njihove odločitve o obrestnih merah. Za slovenskega dolgoročnega vlagatelja je pomembno upoštevati, da podnebne spremembe predstavljajo sistemsko tveganje, ki lahko vpliva na različne sektorje gospodarstva in dolgoročno na donosnost naložb, še posebej v sektorjih, ki so odvisni od naravnih virov.",
+      "vpliv": [
+        "Povečani inflacijski pritiski",
+        "Višje cene živil za potrošnike",
+        "Vpliv na marže živilskih podjetij",
+        "Potencialno zmanjšanje kupne moči"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cp879d2n3yno?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-08-04T05:46:25.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-03T17:31:48.244Z",
+    "posodobljenoOb": "2026-08-04T06:39:44.318Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7594.95,
-        "sprememba_pct": 1.4
+        "vrednost": 7600.5,
+        "sprememba_pct": 1.48
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 28762.213,
-        "sprememba_pct": 1.73
+        "vrednost": 28776.803,
+        "sprememba_pct": 1.78
       },
       {
         "simbol": "^GDAXI",
@@ -111,30 +133,30 @@
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 63754.9,
-        "sprememba_pct": -0.94
+        "vrednost": 63959.67,
+        "sprememba_pct": 0.32
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4090.6,
-        "sprememba_pct": -0.4,
+        "vrednost": 4115.6,
+        "sprememba_pct": 0.61,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 80,
-        "sprememba_pct": -5.52,
+        "vrednost": 80.84,
+        "sprememba_pct": 0.62,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 83.69,
-        "sprememba_pct": -4.82,
+        "vrednost": 84.76,
+        "sprememba_pct": 1.18,
         "enota": "USD/sod"
       }
     ],
@@ -142,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1507,
-        "sprememba_pct": -0.17
+        "vrednost": 1.151,
+        "sprememba_pct": -0.03
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.69,
-        "sprememba_pct": -1.16,
+        "vrednost": 4.686,
+        "sprememba_pct": -1.24,
         "enota": "%"
       }
     ],
@@ -159,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63761.58,
-        "sprememba_pct": 0.42,
+        "vrednost": 63659.76,
+        "sprememba_pct": 0.31,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.58,
-      "sprememba_pct": -2.56
+      "vrednost": 15.86,
+      "sprememba_pct": -0.81
     }
   }
 }

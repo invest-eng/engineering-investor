@@ -1,162 +1,140 @@
 {
-  "generiranoOb": "2026-08-02T16:42:38.742Z",
+  "generiranoOb": "2026-08-03T17:32:23.025Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-08-02",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z minimalnimi premiki, medtem ko so ameriški indeksi nadaljevali z rastjo. Nemški DAX je danes pridobil le 0.07 % in se ustavil pri 25629 točkah, medtem ko sta ameriška S&P 500 in Nasdaq 100 po dveh urah trgovanja beležila rast za 0.70 % na 7490 oziroma 0.60 % na 28274 točk. Pozitivno razpoloženje v ZDA je podprto z novicami o 'trdnih' dobičkih največjih ameriških podjetij, ki so na poti k najmočnejšim zaslužkom v zadnjih petih letih, kljub višjim stroškom za potrošnike. Geopolitične napetosti so se nekoliko umirile, saj je predsednik Trump sporočil, da je odpovedal napade na Iran na zahtevo bližnjevzhodnih držav, kar je sicer pozitivno za stabilnost, a cene nafte so kljub temu zrasle (WTI nafta za 1.29 % na 84.67 USD/sod, Brent nafta za 1.22 % na 90.12 USD/sod). V Evropi je vročinski val povzročil zaustavitev največje madžarske jedrske elektrarne, kar poudarja izzive energetske varnosti. Vlagatelji bodo v prihodnjih dneh pozorno spremljali morebitne izjave centralnih bank glede inflacije in obrestnih mer, ki bodo ključne za smer finančnih trgih.",
+  "datum": "2026-08-03",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, pri čemer je nemški indeks DAX zrasel za 1.45 % na 26001 točk. Tudi ameriški trgi so nadaljevali z rastjo, saj je S&P 500 trenutno pri 7595 točkah (+1.40 %), Nasdaq 100 pa pri 28762 točkah (+1.73 %). Vendar pa je dan zaznamoval izrazit padec cen nafte, kjer je WTI nafta padla na 80.00 USD/sod (-5.52 %), Brent pa na 83.69 USD/sod (-4.82 %), deloma pod vplivom političnih izjav. Medtem so delnice AstraZenece strmoglavile za 8.9 % zaradi poročil o morebitnih pogovorih o združitvi z Bristol Myers Squibb. Pozitivne novice so prišle iz letalskega sektorja z odobritvijo najmanjšega Boeinga 737 Max in iz finančnega sektorja z Visinim prevzemom podjetja BioCatch. Vlagatelji bodo pozorno spremljali prihajajoče makroekonomske objave, kot je objava podatkov o inflaciji v ZDA, ki bo vplivala na pričakovanja glede obrestnih mer.",
   "novice": [
     {
-      "naslov": "Trump odpovedal napade na Iran na prošnjo bližnjevzhodnih držav",
-      "sektor": "Geopolitika",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Predsednik ZDA Trump je sporočil, da je odpovedal napade na Iran na zahtevo držav Bližnjega vzhoda. Izjava prihaja po tem, ko je pred dnevi grozil z napadi brez primere. Trump trdi, da so bili dogovorjeni 'okvirji dogovora' za končanje konflikta. Ta razvoj dogodkov nakazuje na poskus deeskalacije napetosti v regiji. Poročilo Financial Timesa ne navaja, katere države so prosile za odpoved napadov, vendar poudarja diplomatski poskus umiritve razmer.",
-      "analiza": "Ozadje dogodka so naraščajoče napetosti med ZDA in Iranom, zlasti v zvezi z ožino Hormuz, ključno točko za globalni transport nafte. Predhodne grožnje z vojaškim posredovanjem so povzročale negotovost na trgih, še posebej na trgu nafte. Deeskalacija, ki jo je napovedal Trump, je pomembna za zmanjšanje geopolitičnega tveganja. Mehanizem vpliva na finančne trge je predvsem preko zmanjšanja premije za tveganje, kar lahko pozitivno vpliva na delniške trge in zmanjša povpraševanje po varnih zatočiščih, kot sta zlato in ameriške državne obveznice. Kljub temu, da je Trump napade odpovedal, so cene nafte danes zrasle (WTI nafta za 1.29 % na 84.67 USD/sod, Brent nafta za 1.22 % na 90.12 USD/sod), kar kaže, da trgi nafte še vedno upoštevajo druge dejavnike, kot so ponudba in povpraševanje, ter morebitne dolgoročne motnje. Donosnost 10-letne ameriške obveznice je zrasla za 1.76 % na 4.75 %, kar bi lahko bilo povezano z manjšo potrebo po varnih naložbah ali pričakovanji glede inflacije. Zlato je padlo za 1.29 % na 4107.00 USD/oz, kar je skladno z zmanjšanjem tveganja. Za slovenskega dolgoročnega vlagatelja to pomeni, da se kratkoročna geopolitična tveganja umirjajo, kar lahko prispeva k stabilnejšemu globalnemu gospodarskemu okolju, vendar je regija še vedno vir potencialnih presenečenj.",
-      "vpliv": [
-        "Zmanjšanje geopolitičnega tveganja",
-        "Potencialno znižanje premije za tveganje na trgu nafte",
-        "Padec cene zlata za 1.29 %",
-        "Rast donosnosti 10-letne ameriške obveznice za 1.76 %"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-02T12:28:13.000Z"
-    },
-    {
-      "naslov": "Ameriška podjetja poročajo o trdnih dobičkih kljub visokim stroškom potrošnikov",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Največja ameriška podjetja poročajo o 'trdnih' dobičkih, medtem ko se potrošniki soočajo z višjimi stroški. Skupine S&P 500 so na poti k najmočnejšim zaslužkom v zadnjih petih letih, kot poroča Financial Times. To kaže na odpornost korporativnega sektorja kljub inflacijskim pritiskom in višjim cenam za končne kupce. Podrobnosti o tem, katera podjetja so poročala, niso navedene v opisu, vendar je splošni trend pozitiven in podpira optimizem na trgu.",
-      "analiza": "Ozadje te novice je trenutno makroekonomsko okolje, zaznamovano z inflacijo in zviševanjem obrestnih mer centralnih bank, ki poskušajo zajeziti rast cen. Kljub temu, da se potrošniki soočajo z višjimi stroški, so ameriška podjetja uspela ohraniti ali celo povečati svoje dobičke, kar kaže na močno cenovno moč in učinkovito upravljanje stroškov. To je ključnega pomena za delniške trge, saj dobički podjetij neposredno vplivajo na vrednotenje delnic. Močni dobički lahko podpirajo rast delniških indeksov, kot sta S&P 500, ki je danes zrasel za 0.70 % na 7490, in Nasdaq 100, ki je pridobil 0.60 % na 28274. To lahko tudi zmanjša strahove pred recesijo in krepi zaupanje vlagateljev. Po drugi strani pa 'višji stroški potrošnikov' nakazujejo na nadaljnje inflacijske pritiske, kar bi lahko spodbudilo centralne banke, kot je Federal Reserve, k nadaljnjemu zaostrovanju monetarne politike, kar bi lahko vplivalo na obvezniške donosnosti. Rast donosnosti 10-letne ameriške obveznice za 1.76 % na 4.75 % bi lahko delno odražala ta pričakovanja. Za slovenskega dolgoročnega vlagatelja močni dobički ameriških podjetij pomenijo, da so temelji za rast delniških trgov v ZDA še vedno trdni, vendar je treba spremljati vpliv inflacije na potrošniško moč in odzive centralnih bank.",
-      "vpliv": [
-        "Podpora za delniške trge (S&P 500 +0.70 %, Nasdaq 100 +0.60 %)",
-        "Zmanjšanje strahov pred recesijo",
-        "Potencialni inflacijski pritiski",
-        "Vpliv na monetarno politiko centralnih bank"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/b4f150ea-9ea3-4bb4-b1e0-014cf1f0df26?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-02T16:00:06.000Z"
-    },
-    {
-      "naslov": "Vročinski val prisilil Madžarsko v zaustavitev največje jedrske elektrarne",
-      "sektor": "Energetika",
+      "naslov": "AstraZeneca: Delnice padajo zaradi pogovorov o združitvi z Bristol Myers Squibb",
+      "sektor": "Finance",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Madžarska je sporočila, da je vročinski val prisilil v zaustavitev njene največje jedrske elektrarne. Nizka raven Donave, ki se uporablja za hlajenje, je prekinila delovanje elektrarne. To je pomemben dogodek za energetsko stabilnost Madžarske in širše regije, ki se že spopada z rekordno visokimi poletnimi temperaturami. Podrobnosti o trajanju zaustavitve niso bile navedene, vendar takšni dogodki običajno povzročijo pomanjkanje in višje cene električne energije.",
-      "analiza": "Ozadje te novice so ekstremni vremenski pojavi, vključno z rekordnimi vročinskimi valovi po Evropi, ki vplivajo na kritično infrastrukturo. Jedrske elektrarne potrebujejo velike količine vode za hlajenje, in nizka raven rek, kot je Donava, lahko ogrozi njihovo delovanje. To je neposreden primer, kako podnebne spremembe in ekstremno vreme vplivajo na energetsko varnost. Mehanizem vpliva na finančne trge je predvsem preko trga z energijo. Zaustavitev velike jedrske elektrarne zmanjša ponudbo električne energije, kar lahko povzroči rast cen električne energije na veleprodajnih trgih. To posledično vpliva na stroške podjetij in gospodinjstev, kar lahko poveča inflacijske pritiske in zmanjša potrošniško moč. Čeprav današnji podatki o cenah nafte kažejo rast (WTI +1.29 %, Brent +1.22 %), kar je lahko povezano s splošnim povpraševanjem po energiji, ta novica specifično vpliva na evropski trg električne energije. Povečani stroški energije lahko negativno vplivajo na dobičkonosnost podjetij v energetsko intenzivnih sektorjih in na splošno gospodarsko rast v Evropi, kar se lahko odrazi v indeksih, kot je DAX, ki je danes zrasel le za 0.07 % na 25629. Za slovenskega dolgoročnega vlagatelja to pomeni povečano tveganje za energetsko stabilnost in morebitne višje cene energije v Evropi, kar lahko vpliva na naložbe v evropska podjetja in splošno gospodarsko klimo.",
+      "intenziteta": 3,
+      "povzetek": "Delnice britanskega farmacevtskega velikana AstraZeneca so danes padle za 8.9 %, kar je izbrisalo več kot 17 milijard funtov tržne kapitalizacije podjetja. Padec je sledil poročilom o morebitnih pogovorih za prevzem ameriškega podjetja za zdravila proti raku Bristol Myers Squibb. Potencialna združitev bi ustvarila četrtega največjega proizvajalca zdravil na svetu z ocenjeno vrednostjo blizu 400 milijard dolarjev. AstraZeneca, ki jo vodi Pascal Soriot, je bila pred novico vredna skoraj 196 milijard funtov, medtem ko je bil BMS ocenjen na 133 milijard dolarjev.",
+      "analiza": "Poročila o morebitni mega-združitvi med AstraZeneco in Bristol Myers Squibb so povzročila zaskrbljenost med vlagatelji, kar se je odrazilo v znatnem padcu delnic AstraZenece. V farmacevtski industriji so tovrstne združitve pogoste, saj podjetja iščejo sinergije, širijo portfelje zdravil in se pripravljajo na iztekanje patentov. Vendar pa tako velika transakcija prinaša tudi tveganja, kot so morebitne regulatorne ovire zaradi protimonopolne zakonodaje in izzivi pri integraciji dveh velikih podjetij. Vlagatelji se sprašujejo o racionalnosti posla, še posebej glede na bližajočo se 'patentno steno' in morebitne dolgove. Padec delnic AstraZenece kaže na previdnost trga glede obsega in kompleksnosti takšnega prevzema. Za slovenskega dolgoročnega vlagatelja je to opomin, da so tudi velika, stabilna podjetja izpostavljena tveganjem, povezanim z M&A aktivnostmi, ki lahko kratkoročno vplivajo na vrednost naložbe, medtem ko dolgoročni vpliv ostaja odvisen od uspešnosti integracije in izpolnjevanja sinergijskih pričakovanj.",
       "vpliv": [
-        "Povečanje cen električne energije v Evropi",
-        "Povečanje inflacijskih pritiskov",
-        "Negativen vpliv na evropska podjetja",
-        "Povečano tveganje za energetsko varnost"
+        "Padec delnic AstraZenece za 8.9 %",
+        "Izbris £17 milijard tržne kapitalizacije",
+        "Potencialna združitev v vrednosti $400 milijard"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss",
-      "objavljeno": "2026-08-02T14:44:34.000Z"
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/2026/aug/03/astrazeneca-talks-bristol-myers-squibb-merger-pharmaceuticals",
+      "objavljeno": "2026-08-03T16:32:09.000Z"
     },
     {
-      "naslov": "Poceni MacBook Neo podjetja Apple sprožil cenovno vojno prenosnikov",
+      "naslov": "FAA odobrila najmanjši Boeing 737 Max za letenje po letih zamud",
       "sektor": "Tehnologija & AI",
-      "smer": "mešano",
+      "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Apple je s svojim poceni MacBookom Neo sprožil cenovno vojno na trgu cenovno dostopnih prenosnikov. Poteza podjetja Apple se obrestuje in sili tekmece k premisleku o lastni ponudbi, poroča MarketWatch. To kaže na strateško spremembo v Applovi ponudbi, ki se tradicionalno osredotoča na višji cenovni razred. Novica ne navaja specifičnih cen ali modelov konkurentov, vendar poudarja intenziviranje konkurence v tehnološkem sektorju.",
-      "analiza": "Ozadje te novice je Applova odločitev, da vstopi na trg cenovno dostopnih prenosnikov, kar je pomemben odmik od njegove običajne strategije premium izdelkov. To je relevantno zdaj, ker se globalno gospodarstvo sooča z inflacijskimi pritiski, kar povečuje povpraševanje po cenovno ugodnejših tehnoloških izdelkih. Mehanizem vpliva na finančne trge je večplasten. Za Apple to lahko pomeni povečanje tržnega deleža in prihodkov, vendar morda z nižjimi maržami na enoto. Za konkurente, kot so proizvajalci osebnih računalnikov z operacijskim sistemom Windows, to pomeni povečan pritisk na cene in dobičkonosnost. To lahko vodi do konsolidacije na trgu ali inovacij za ohranjanje konkurenčnosti. Na delniških trgih lahko to pozitivno vpliva na Applovo delnico, medtem ko lahko delnice tekmecev doživijo pritisk. Tehnološki indeks Nasdaq 100 je danes zrasel za 0.60 % na 28274, kar kaže na splošno pozitivno razpoloženje v tehnološkem sektorju, vendar je vpliv te specifične novice bolj usmerjen na podjetja v sektorju prenosnikov. Za slovenskega dolgoročnega vlagatelja to pomeni, da se tehnološki sektor nenehno razvija in da so podjetja, ki se znajo prilagoditi spreminjajočim se potrebam potrošnikov, lahko uspešna. Vendar pa je treba biti pozoren na morebitno zmanjšanje marž v sektorju zaradi povečane konkurence.",
+      "povzetek": "Ameriška zvezna uprava za letalstvo (FAA) je po večletnih zamudah končno odobrila najmanjšo različico letala Boeing 737 Max za letenje. Ta odobritev pomeni, da lahko letalske družbe kmalu začnejo uporabljati ta letala za prevoz potnikov, čeprav bo trajalo več mesecev, da jih vključijo v svoje vozne rede. Certifikacija je pomemben korak za Boeing, ki se je v preteklosti soočal z velikimi izzivi in zamudami pri programu 737 Max.",
+      "analiza": "Odobritev najmanjšega Boeinga 737 Max s strani FAA je pomembna pozitivna novica za Boeing, ki se je v zadnjih letih boril z regulativnimi ovirami in padcem zaupanja po dveh smrtonosnih nesrečah. Ta certifikacija omogoča podjetju, da končno dostavi naročena letala in začne ustvarjati prihodke iz tega segmenta. Za letalske družbe to pomeni, da bodo lahko posodobile svoje flote z energetsko učinkovitejšimi letali, kar lahko dolgoročno zniža operativne stroške. Čeprav bo vključitev letal v vozne rede trajala, je to jasen signal, da se Boeing premika naprej. Pozitivno bo vplivalo na delnice Boeinga in morda tudi na delnice letalskih družb, ki so naročile ta model. Za slovenskega dolgoročnega vlagatelja je to primer, kako regulativni dejavniki in varnostni pomisleki lahko močno vplivajo na poslovanje velikih industrijskih podjetij, vendar pa postopno reševanje teh težav lahko prinese okrevanje in rast.",
       "vpliv": [
-        "Povečana konkurenca na trgu prenosnikov",
-        "Potencialno povečanje Applovega tržnega deleža",
-        "Pritisk na marže proizvajalcev prenosnikov",
-        "Korist za potrošnike zaradi nižjih cen"
+        "Pozitivno za delnice Boeinga",
+        "Povečana operativna zmogljivost letalskih družb",
+        "Zmanjšanje negotovosti za dobavitelje"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/how-apples-cheap-macbook-neo-sparked-a-war-in-budget-laptops-8fbaf839?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-02T13:00:00.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
+      "objavljeno": "2026-08-03T17:27:34.000Z"
     },
     {
-      "naslov": "Vlagatelji se obračajo k finančnim delnicam, Fedova poteza ključna za rast",
+      "naslov": "Visa kupuje podjetje za kibernetsko varnost BioCatch za 2,4 milijarde dolarjev",
       "sektor": "Finance",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Vlagatelji se preusmerjajo v finančne delnice, ki so ta mesec med najboljšimi na trgu. Prihodnja poteza Federal Reserve bo določila, kako daleč se bo ta rast nadaljevala, poroča MarketWatch. To kaže na spremembo v razpoloženju vlagateljev in pričakovanjih glede prihodnje monetarne politike. Finančne delnice pogosto dobro poslujejo v okolju naraščajočih obrestnih mer, saj to poveča njihove dobičkovne marže.",
-      "analiza": "Ozadje te novice je pričakovanje glede monetarne politike Federal Reserve. V okolju, kjer centralne banke zvišujejo obrestne mere za boj proti inflaciji, finančne institucije, kot so banke, običajno beležijo višje neto obrestne marže, saj lahko zaračunavajo več za posojila, medtem ko stroški depozitov rastejo počasneje. To je relevantno zdaj, saj so obrestne mere v ZDA visoke, donosnost 10-letne ameriške obveznice pa je danes zrasla za 1.76 % na 4.75 %, kar kaže na nadaljnje pritiske navzgor. Mehanizem vpliva na finančne trge je neposreden: višje obrestne mere pomenijo boljše poslovanje za banke, kar privablja vlagatelje v finančni sektor. Rotacija v finančne delnice lahko prispeva k rasti širših indeksov, vendar je njihova dolgoročna uspešnost močno odvisna od Fedovih odločitev. Če Fed nadaljuje z zviševanjem obrestnih mer ali jih ohranja visoke, bi to lahko podpiralo finančne delnice. Vendar pa pretirano zaostrovanje lahko upočasni gospodarstvo in poveča tveganje za neplačila, kar bi bilo negativno. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da finančni sektor deluje ciklično in je močno odvisen od makroekonomskih pogojev in monetarne politike. Diverzifikacija portfelja je ključna, saj se sektorji odzivajo različno na spremembe obrestnih mer.",
+      "povzetek": "Podjetje Visa je objavilo, da bo kupilo podjetje za kibernetsko varnost BioCatch za 2,4 milijarde dolarjev. Ta poteza je odgovor na porast prevar, ki jih poganja umetna inteligenca, in predstavlja najnovejšo strategijo Vise za razširitev poslovanja s storitvami z dodano vrednostjo. BioCatch je specializiran za zaznavanje goljufij in preprečevanje kibernetskih napadov, kar bo okrepilo Visine zmogljivosti na področju varnosti transakcij. Poslovanje z dodano vrednostjo je postalo eden najhitreje rastočih oddelkov podjetja Visa.",
+      "analiza": "Nakup BioCatcha s strani Vise za 2,4 milijarde dolarjev poudarja naraščajočo pomembnost kibernetske varnosti v finančnem sektorju, še posebej v luči napredka umetne inteligence, ki omogoča sofisticirane prevare. Za Vise je to strateška poteza, ki krepi njeno ponudbo storitev z dodano vrednostjo, ki je ključna za rast podjetja in ohranjanje konkurenčnosti. Z integracijo tehnologije BioCatch bo Visa lahko svojim strankam ponudila še varnejše in zanesljivejše plačilne rešitve, kar lahko poveča zaupanje in privabi nove uporabnike. To je pozitiven signal za delnice Vise, saj kaže na proaktivno prilagajanje na spreminjajoče se tržne razmere in vlaganje v prihodnjo rast. Za slovenskega dolgoročnega vlagatelja to pomeni, da so podjetja, ki se uspešno prilagajajo tehnološkim trendom in vlagajo v varnost, bolj odporna na tveganja in imajo večji potencial za dolgoročno rast, še posebej v sektorjih, kot so finance in tehnologija.",
       "vpliv": [
-        "Povečana privlačnost finančnih delnic",
-        "Rast obrestnih marž bank",
-        "Odvisnost od prihodnjih odločitev Federal Reserve",
-        "Vpliv na širše delniške indekse"
+        "Visa krepi poslovanje z dodano vrednostjo",
+        "Povečana varnost transakcij",
+        "Potencial za rast prihodkov Vise"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-02T12:00:00.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
+      "objavljeno": "2026-08-03T16:44:25.000Z"
     },
     {
-      "naslov": "Šibek odziv Evrope na špansko migrantsko krizo in humanitarne izzive",
-      "sektor": "Geopolitika",
+      "naslov": "ZDA in Japonska skupaj posredovali na trgu za krepitev jena",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Ministrstvo za finance Japonske je potrdilo, da so se ameriško ministrstvo za finance in Federal Reserve pridružila japonskim kolegom pri zgodovinski skupni intervenciji za krepitev japonskega jena. Ta poteza je bila izvedena z namenom podpore jenu, ki se je v zadnjem času soočal s šibkostjo. Skupno posredovanje je redek dogodek na valutnih trgih in signalizira resno zaskrbljenost obeh držav glede stabilnosti valute in njenega vpliva na gospodarstvo.",
+      "analiza": "Skupna intervencija ZDA in Japonske na valutnem trgu za krepitev jena je pomemben makroekonomski dogodek, ki kaže na resnost situacije. Japonski jen se je v zadnjem obdobju soočal z znatno depreciacijo, kar je vplivalo na japonsko gospodarstvo in globalno trgovino. Intervencije na valutnih trgih so redke in se običajno izvedejo le, ko se ocenjuje, da je depreciacija valute prekomerna in škodljiva. Ta poteza lahko kratkoročno okrepi jen, vendar je dolgoročni uspeh odvisen od temeljnih ekonomskih dejavnikov in politik centralnih bank. Vplivala bo na valutni par EUR/USD, ki je danes že padel za 0.17 % na 1.1507, saj lahko krepitev jena posredno vpliva na dinamiko drugih glavnih valut. Za obvezniške trge bi lahko krepitev jena zmanjšala pritisk na japonske obveznice. Za slovenskega dolgoročnega vlagatelja je to opomin, da so valutni tečaji ključni za globalno ekonomijo in lahko vplivajo na mednarodne naložbe, še posebej tiste, ki so izpostavljene japonskemu trgu ali imajo pomembne trgovinske partnerje na Japonskem.",
+      "vpliv": [
+        "Krepitev japonskega jena",
+        "Vpliv na globalne valutne trge",
+        "Signalizira zaskrbljenost glede ekonomske stabilnosti"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-03T15:20:00.000Z"
+    },
+    {
+      "naslov": "Apple izpodbija zahtevo Združenega kraljestva po dostopu do šifriranih podatkov",
+      "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Evropska reakcija na migrantsko krizo v Španiji je bila šibka, poroča Financial Times. Pedro Sánchez je bil nepošteno izpostavljen zaradi liberalne imigracijske politike. Novica se nanaša na množičen prehod migrantov v špansko enklavo Ceuta, kjer je umrlo že 72 ljudi, na tisoče pa jih je prečkalo mejo. To poudarja izzive, s katerimi se sooča Evropska unija pri usklajevanju migracijskih politik in odzivanju na humanitarne krize.",
-      "analiza": "Ozadje te novice je dolgotrajna in kompleksna migrantska kriza, ki že leta obremenjuje Evropsko unijo, zlasti države na njenih zunanjih mejah. Množični prehodi v Ceuto in visoko število žrtev poudarjajo humanitarno razsežnost problema in pomanjkanje usklajenega evropskega odziva. To je relevantno zdaj, ker takšne krize lahko povzročijo politično nestabilnost, napetosti med državami članicami EU in obremenitve javnih financ. Mehanizem vpliva na finančne trge je posreden. Politična nestabilnost in pomanjkanje enotnosti v EU lahko negativno vplivata na zaupanje vlagateljev v evropsko gospodarstvo in valuto. To se lahko odrazi v šibkejšem evru (EUR/USD je danes padel za 0.02 % na 1.1527) ali pritiskih na evropske delniške indekse. Čeprav je DAX danes zrasel le za 0.07 % na 25629, kar je skromno v primerjavi z ameriškimi indeksi, je to lahko del širšega trenda. Dolgoročno lahko neurejene migracije vplivajo na demografijo, trg dela in socialno kohezijo, kar ima ekonomske posledice. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba spremljati politično stabilnost in enotnost Evropske unije, saj imajo ti dejavniki pomemben vpliv na gospodarsko okolje in s tem na naložbe v regiji.",
+      "povzetek": "Apple je vložil pravni izziv proti poskusu Združenega kraljestva, da bi pridobilo dostop do šifriranih uporabniških podatkov. Proizvajalec iPhonov je vložil pritožbo zaradi najnovejše vladne zahteve po povezavi z varnostnimi kopijami v oblaku britanskih uporabnikov. Ta poteza poudarja trajen konflikt med tehnološkimi podjetji, ki poudarjajo zasebnost uporabnikov, in vladami, ki želijo dostop do podatkov zaradi nacionalne varnosti in preprečevanja kriminala.",
+      "analiza": "Pravni spor med Applom in vlado Združenega kraljestva glede dostopa do šifriranih podatkov je del širše globalne debate o ravnotežju med zasebnostjo posameznikov in nacionalno varnostjo. Apple se dosledno postavlja v vlogo zagovornika zasebnosti, kar je ključno za njegovo blagovno znamko in zaupanje uporabnikov. Zahteva britanske vlade po dostopu do šifriranih podatkov bi lahko ustvarila nevaren precedens, ki bi ga lahko sledile tudi druge države, kar bi imelo daljnosežne posledice za celotno tehnološko industrijo. Ta situacija povečuje regulativno negotovost za Apple in druga tehnološka podjetja, ki delujejo na globalni ravni. Čeprav neposreden finančni vpliv morda ni takojšen, lahko dolgoročno vpliva na ugled podjetja in morebitne stroške skladnosti. Za slovenskega dolgoročnega vlagatelja je to opomin, da so tehnološka podjetja izpostavljena ne le tržnim, ampak tudi regulativnim in etičnim tveganjem, ki lahko vplivajo na njihovo poslovanje in vrednost delnic.",
       "vpliv": [
-        "Povečana politična nestabilnost v EU",
-        "Pritisk na zaupanje vlagateljev v evropsko gospodarstvo",
-        "Potencialno šibkejši evro",
-        "Obremenitve javnih financ in socialne kohezije"
+        "Povečana regulativna negotovost za Apple",
+        "Vpliv na ugled podjetij glede zasebnosti",
+        "Potencialni precedens za druge države"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/8faf28df-bb76-49e6-a916-55faa8a5d4a8?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-02T15:53:06.000Z"
+      "vir_url": "https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-03T16:59:09.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-02T16:41:44.008Z",
+    "posodobljenoOb": "2026-08-03T17:31:48.244Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7489.72,
-        "sprememba_pct": 0.7
+        "vrednost": 7594.95,
+        "sprememba_pct": 1.4
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 28274.195,
-        "sprememba_pct": 0.6
+        "vrednost": 28762.213,
+        "sprememba_pct": 1.73
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25629.24,
-        "sprememba_pct": 0.07
+        "vrednost": 26001.31,
+        "sprememba_pct": 1.45
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 64362.02,
-        "sprememba_pct": 4.03
+        "vrednost": 63754.9,
+        "sprememba_pct": -0.94
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4107,
-        "sprememba_pct": -1.29,
+        "vrednost": 4090.6,
+        "sprememba_pct": -0.4,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 84.67,
-        "sprememba_pct": 1.29,
+        "vrednost": 80,
+        "sprememba_pct": -5.52,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 90.12,
-        "sprememba_pct": 1.22,
+        "vrednost": 83.69,
+        "sprememba_pct": -4.82,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +142,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1527,
-        "sprememba_pct": -0.02
+        "vrednost": 1.1507,
+        "sprememba_pct": -0.17
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.745,
-        "sprememba_pct": 1.76,
+        "vrednost": 4.69,
+        "sprememba_pct": -1.16,
         "enota": "%"
       }
     ],
@@ -181,16 +159,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63145.64,
-        "sprememba_pct": 0.61,
+        "vrednost": 63761.58,
+        "sprememba_pct": 0.42,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.99,
-      "sprememba_pct": -6.44
+      "vrednost": 15.58,
+      "sprememba_pct": -2.56
     }
   }
 }
