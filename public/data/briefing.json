@@ -1,116 +1,99 @@
 {
-  "generiranoOb": "2026-08-08T05:10:05.303Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-08-08T15:58:43.471Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-08-08",
-  "povzetek": "Jutranji pregled finančnih trgov 8. avgusta 2026 kaže na pozitivno razpoloženje v ZDA in Evropi, medtem ko so azijski trgi zaključili mešano. Ameriški indeks S&P 500 je zrasel za 0.62 % na 7758 točk, tehnološki Nasdaq 100 pa je poskočil za 1.19 % na 29722 točk. Evropski DAX je prav tako beležil rast, in sicer za 0.69 % na 26319 točk, medtem ko je japonski Nikkei 225 zabeležil rahel padec za 0.12 % na 65607 točk. Na trgu surovin je zlato občutno pridobilo, z rastjo za 2.33 % na 4399.70 USD/oz, medtem ko sta ceni nafte WTI in Brent zrasli za 1.15 % na 78.18 USD/sod oziroma za 1.29 % na 83.55 USD/sod. Geopolitične napetosti, vključno z novimi sankcijami ZDA proti Rusiji in podpisom obrambnega pakta v Meki, so vplivale na cene energentov in povzročile povpraševanje po varnih zatočiščih. Vlagatelji bodo ta teden pozorno spremljali objavo ključnih inflacijskih podatkov, ki lahko vplivajo na prihodnje odločitve centralnih bank.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, pri čemer je nemški indeks DAX zrasel za 0,69 % na 26319 točk. Ameriški trgi, ki so odprti že dve uri, nadaljujejo z rastjo; indeks S&P 500 je pri 7758 točkah z 0,62 % rastjo, tehnološki Nasdaq 100 pa beleži še močnejšo rast, +1,19 % na 29722 točk. Azijski Nikkei 225 je medtem zaključil dan z rahlim padcem, -0,12 % na 65607 točk. Geopolitične napetosti so se odrazile na trgu surovin, saj je cena zlata poskočila za 2,33 % na 4399,70 USD/oz, medtem ko sta nafta WTI in Brent zrasli za 1,15 % na 78,18 USD/sod oziroma za 1,29 % na 83,55 USD/sod, po novicah o napadu na tanker v Hormuški ožini. Donosnost 10-letne ameriške državne obveznice je padla za 0,21 % na 4,66 %, kar kaže na iskanje varnejših naložb ali pričakovanja počasnejše rasti. Bitcoin je ostal relativno stabilen z rastjo 0,26 % na 65050 USD. Vlagatelji bodo pozorno spremljali prihodnje makroekonomske objave in dogodke, ki lahko vplivajo na trge, vendar specifičnih informacij o najpomembnejšem dogodku tega tedna nimamo na voljo.",
   "novice": [
     {
-      "naslov": "Ameriški senat potrdil obsežne sankcije proti ruskim energentom sredi vojne v Ukrajini",
+      "naslov": "Iran naj bi napadel tanker v Hormuški ožini, kar dviguje napetosti",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Ameriški senat je potrdil obsežen zakon o sankcijah proti ruskim energentom, kar predstavlja najmočnejšo potezo ZDA proti Rusiji pod Trumpovo administracijo. Zakonodaja vključuje agresivne ekonomske sankcije, med drugim 100-odstotno carino na uvoznike ruske nafte in plina. Ta poteza prihaja sredi nadaljevanja vojne v Ukrajini in je namenjena dodatnemu pritisku na rusko gospodarstvo. Sankcije bi lahko imele daljnosežne posledice za globalne energetske trge in trgovinske partnerje Rusije. Kijev medtem še naprej poziva k dobavi prestreznikov zračne obrambe. Ruski napadi v bližini ukrajinske prestolnice so zahtevali tri življenja, vključno z otrokom.",
-      "analiza": "Potrditev obsežnih sankcij proti ruskim energentom s strani ameriškega senata je ključen geopolitični dogodek, ki bo imel neposredne in posredne posledice za globalne finančne trge. Ozadje dogodka je nadaljevanje konflikta v Ukrajini in prizadevanja zahodnih držav za gospodarsko izolacijo Rusije. Pomen teh sankcij je v njihovi agresivnosti, saj vključujejo 100-odstotno carino, kar močno otežuje ruski izvoz energentov. Mehanizem vpliva je večplasten: neposredno zmanjšanje ponudbe ruske nafte in plina na svetovnih trgih, kar dviguje cene, in posredno ustvarjanje negotovosti glede globalne energetske varnosti. Posledično so cene nafte WTI in Brent zrasle za 1.15 % na 78.18 USD/sod oziroma za 1.29 % na 83.55 USD/sod. Za delnice to pomeni pritisk na podjetja, ki so odvisna od poceni energentov, medtem ko lahko podjetja v sektorju obnovljivih virov energije in domači proizvajalci energentov pridobijo. Obvezniški trgi lahko doživijo nihanja zaradi inflacijskih pričakovanj, valute pa so pod vplivom sprememb v trgovinskih bilancah. Zlato, ki velja za varno zatočišče, je zraslo za 2.33 % na 4399.70 USD/oz, kar kaže na povečano negotovost. Vlagatelji bodo morali pozorno spremljati odzive drugih držav, zlasti Indije in Kitajske, ki so pomembne kupke ruskih energentov. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja ključna, še posebej v luči nestabilnosti na energetskih trgih in geopolitičnih tveganj, ki lahko vplivajo na inflacijo in gospodarsko rast.",
+      "povzetek": "Združeni arabski emirati so sporočili, da je Iran v Hormuški ožini napadel tanker podjetja ADNOC, vendar ni bilo žrtev. Incident je sprožil obsodbe zalivskih in arabskih vlad, ki so dejanje označile za iranski raketni napad. Novica prihaja v času, ko Iran in Oman razpravljata o varnostnem okviru za plovbo skozi Hormuško ožino. Financial Times poroča, da se je napad zgodil kljub pogovorom o ponovnem odprtju ožine in dogovoru o koordinatah poti plovil. Ta dogodek se umešča v širši kontekst 'vojne proti Iranu: faza II', ki traja že 28 dni, in regionalnih preoblikovanj, kot je pakt med Savdsko Arabijo, Pakistanom in Turčijo.",
+      "analiza": "Hormuška ožina je ključna pomorska pot, skozi katero poteka približno petina svetovne oskrbe z nafto, zato ima vsak incident v tej regiji takojšen vpliv na cene energentov. Napad na tanker ADNOC, ki ga pripisujejo Iranu, je takoj sprožil zaskrbljenost glede stabilnosti dobavnih poti in povzročil rast cen nafte; Brent je zrasel za 1,29 % na 83,55 USD/sod, WTI pa za 1,15 % na 78,18 USD/sod. Geopolitične napetosti v regiji, ki so se stopnjevale z 'vojno proti Iranu', povečujejo tveganje za širši konflikt, kar vlagatelje sili v iskanje varnejših naložb. Posledično je cena zlata, ki velja za varno zatočišče, danes poskočila za 2,33 % na 4399,70 USD/oz. Vpliv na delniške trge je lahko mešan; medtem ko energetska podjetja lahko kratkoročno pridobijo, širša negotovost lahko povzroči umik kapitala iz tveganih naložb. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba spremljati razvoj dogodkov na Bližnjem vzhodu, saj lahko eskalacija konflikta povzroči dolgotrajnejše povišanje cen energentov in s tem inflacijske pritiske, kar vpliva na globalno gospodarsko rast in monetarno politiko centralnih bank.",
       "vpliv": [
-        "Rast cen nafte (WTI +1.15 %, Brent +1.29 %)",
-        "Povečana negotovost na energetskih trgih",
-        "Rast cene zlata kot varnega zatočišča (+2.33 %)",
-        "Potencialni inflacijski pritiski"
+        "Rast cen nafte (Brent +1.29% na 83.55 USD/sod, WTI +1.15% na 78.18 USD/sod)",
+        "Rast cene zlata (+2.33% na 4399.70 USD/oz)",
+        "Povečana geopolitična tveganja in negotovost na Bližnjem vzhodu",
+        "Potencialne motnje v globalnih dobavnih verigah"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
-      "objavljeno": "2026-08-08T00:06:22.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
+      "objavljeno": "2026-08-08T15:01:29.000Z"
     },
     {
-      "naslov": "Donald Trump ponovno poskuša odpustiti guvernerko Federalnih rezerv Liso Cook",
+      "naslov": "Ameriška delovna sila se je v letu dni zmanjšala za več kot milijon ljudi",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Ameriški predsednik Donald Trump je ponovno začel prizadevanja za odstavitev guvernerke Federalnih rezerv Lise Cook, dva meseca po tem, ko mu je to preprečilo Vrhovno sodišče. Trump želi centralno banko zapolniti z zavezniki, ki bi podprli njegovo željo po hitrem znižanju obrestnih mer kljub inflaciji. Ta poteza kaže na nadaljevanje spopadov med predsednikom in člani Federalnih rezerv glede monetarne politike. Republikanski senatorji med poletnim premorom poskušajo preprečiti politično težke glasove. Prizadevanja za politično vmešavanje v neodvisnost centralne banke so vir zaskrbljenosti za finančne trge.",
-      "analiza": "Prizadevanja predsednika Trumpa za odstavitev guvernerke Federalnih rezerv Lise Cook in imenovanje zaveznikov so izjemno pomembna za finančne trge, saj se nanašajo na neodvisnost centralne banke in prihodnjo smer monetarne politike. Ozadje je Trumpova želja po hitrem znižanju obrestnih mer, kar je v nasprotju s tradicionalnim pristopom Federalnih rezerv, ki se osredotočajo na stabilnost cen in polno zaposlenost. Mehanizem vpliva je predvsem skozi povečano negotovost glede prihodnjih odločitev o obrestnih merah. Politično vmešavanje v centralno banko lahko zmanjša zaupanje v institucijo, kar lahko vodi do nestabilnosti na trgih. Za obveznice to pomeni povečano volatilnost, saj negotovost glede obrestnih mer vpliva na donosnosti; 10-letna ameriška obveznica je danes zabeležila padec donosnosti za 0.21 % na 4.66 %. Za valute, zlasti EUR/USD, ki je zrasel za 0.32 % na 1.1562, to lahko pomeni šibkejši dolar, če trgi pričakujejo bolj ohlapno monetarno politiko. Delniški trgi lahko kratkoročno reagirajo pozitivno na pričakovanje nižjih obrestnih mer, vendar dolgoročno politična nestabilnost ni zaželena. Zgodovinsko gledano so poskusi političnega vplivanja na centralne banke pogosto povzročili nestabilnost. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da takšni dogodki povečujejo tveganje na globalnih trgih, še posebej v ZDA, kar poudarja pomen diverzifikacije in spremljanja makroekonomskih trendov ter političnih tveganj.",
+      "povzetek": "Velikost ameriške delovne sile se je v zadnjem letu zmanjšala za več kot milijon ljudi, kar je zaskrbljujoč podatek. Delež Američanov, ki delajo ali iščejo zaposlitev, ni bil tako nizek vse od pandemije COVID-19. To kaže julijsko poročilo o delovnih mestih, ki je polno 'udarnih' podatkov. Zmanjšanje delovne sile lahko kaže na strukturne spremembe na trgu dela, demografske trende ali pa na upad gospodarske aktivnosti, ki zmanjšuje povpraševanje po delavcih.",
+      "analiza": "Zmanjšanje ameriške delovne sile za več kot milijon ljudi v enem letu je pomemben makroekonomski podatek, ki lahko vpliva na pričakovanja glede gospodarske rasti in inflacije. Zmanjšana ponudba delovne sile lahko dolgoročno prispeva k višjim plačam in s tem k inflacijskim pritiskom, vendar pa lahko tudi signalizira upočasnitev gospodarstva, če je zmanjšanje posledica manjšega povpraševanja po delu. Centralne banke, kot je Federal Reserve, pozorno spremljajo te podatke pri odločanju o monetarni politiki. Če bi se trend nadaljeval in bi kazal na šibkost gospodarstva, bi to lahko vplivalo na odločitve o obrestnih merah, kar bi lahko privedlo do bolj 'dovish' (popustljive) drže. Donosnost 10-letne ameriške državne obveznice je danes že padla za 0,21 % na 4,66 %, kar lahko odraža pričakovanja o morebitnem znižanju obrestnih mer ali iskanje varnejših naložb. Delniški indeksi, kot sta S&P 500 (+0,62 %) in Nasdaq 100 (+1,19 %), so sicer danes rasli, kar lahko kaže na optimizem glede potencialnega blaženja monetarne politike, vendar dolgoročna šibkost trga dela ni pozitivna. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati zdravje ameriškega trga dela, saj ima to neposreden vpliv na globalno gospodarsko rast in s tem na donosnost naložb v različne razrede sredstev, vključno z delnicami in obveznicami.",
       "vpliv": [
-        "Povečana negotovost glede monetarne politike ZDA",
-        "Potencialno šibkejši ameriški dolar (EUR/USD +0.32 %)",
-        "Nihanja na trgu obveznic (10Y US Treasury -0.21 %)",
-        "Vpliv na delniške trge zaradi pričakovanih obrestnih mer"
+        "Zmanjšanje ameriške delovne sile za več kot 1 milijon ljudi",
+        "Najnižja stopnja participacije delovne sile od pandemije",
+        "Vpliv na pričakovanja glede monetarne politike Federal Reserve",
+        "Padec donosnosti 10-letne ameriške državne obveznice (-0.21% na 4.66%)"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss",
-      "objavljeno": "2026-08-07T23:40:16.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-size-of-the-american-workforce-has-fallen-by-over-1-million-people-in-the-past-year-heres-whats-going-on-b8141aa3?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-08T15:43:00.000Z"
     },
     {
-      "naslov": "V Meki podpisan trilateralni obrambni pakt, medtem ko se obeta dogovor o Hormuzu",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Savdski prestolonaslednik, turški predsednik in pakistanski premier so v Meki podpisali skupni obrambni sporazum, znan kot Meški obrambni pakt. Ta pakt združuje države, ki se nahajajo med Iranom in Izraelom, in naj bi ustvaril nov regionalni red. Analitiki menijo, da regionalni partnerji iščejo alternative za dopolnitev svoje varnosti, ne da bi opustili podporo ZDA. Dogovor prihaja v času, ko se obeta tudi dogovor o Hormuški ožini, ključni pomorski poti za nafto. Pakt bi lahko imel pomembne posledice za stabilnost Bližnjega vzhoda in globalne energetske tokove.",
-      "analiza": "Podpis trilateralnega obrambnega pakta v Meki med Savdsko Arabijo, Turčijo in Pakistanom je pomemben geopolitični razvoj, ki lahko preoblikuje ravnotežje moči na Bližnjem vzhodu. Ozadje dogodka je iskanje regionalnih partnerjev za večjo varnost in stabilnost v luči obstoječih napetosti, vključno z iransko vojno in vlogo ZDA v regiji. Pakt je relevanten zdaj, ker bi lahko vplival na dinamiko moči med ključnimi akterji in potencialno stabiliziral ali destabiliziral regijo. Mehanizem vpliva na finančne trge je predvsem preko vpliva na cene surovin, zlasti nafte, saj je regija ključna za globalno oskrbo. Stabilnost v Hormuški ožini, ki je ključna pomorska pot, je izjemnega pomena. Morebitna eskalacija napetosti bi lahko povzročila skok cen nafte, medtem ko bi večja stabilnost lahko umirila trge. Ceni nafte WTI in Brent sta danes zrasli za 1.15 % in 1.29 %, kar odraža splošno negotovost. Za delnice to pomeni povečano tveganje za podjetja, ki so močno odvisna od stabilne oskrbe z energijo. Obvezniški trgi in valute so prav tako občutljivi na geopolitična tveganja. Zlato, ki je varno zatočišče, je zraslo za 2.33 % na 4399.70 USD/oz. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitične dogodke, saj lahko imajo daljnosežne posledice za globalno gospodarstvo in cene energentov, kar vpliva na inflacijo in stroške poslovanja podjetij.",
-      "vpliv": [
-        "Vpliv na stabilnost Bližnjega vzhoda",
-        "Potencialna nihanja cen nafte (WTI +1.15 %, Brent +1.29 %)",
-        "Povečano povpraševanje po varnih zatočiščih (zlato +2.33 %)",
-        "Spremembe v regionalnih zavezništvih"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss",
-      "objavljeno": "2026-08-08T00:00:00.000Z"
-    },
-    {
-      "naslov": "Kitajski AI startup Moonshot si prizadeva za hongkonško borzno kotacijo",
-      "sektor": "Tehnologija & AI",
+      "naslov": "Dobiček Berkshire Hathaway se je podvojil zaradi 13 milijard dolarjev naložbenih dobičkov",
+      "sektor": "Finance",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Kitajski startup na področju umetne inteligence, Moonshot, preoblikuje svojo strukturo v prizadevanjih za pridobitev odobritve Pekinga za borzno kotacijo v Hongkongu. Cilj podjetja je zbrati sveža sredstva za naslednjo fazo razvoja. Ta poteza poudarja naraščajoče ambicije kitajskih tehnoloških podjetij na področju umetne inteligence. Uspešna kotacija bi lahko Moonshotu omogočila dostop do pomembnega kapitala za raziskave in razvoj. Hkrati odraža trend, da kitajska podjetja iščejo alternativne borze za kotacijo v luči geopolitičnih napetosti z ZDA.",
-      "analiza": "Prizadevanja kitajskega AI startupa Moonshot za borzno kotacijo v Hongkongu so pomemben pokazatelj rasti in razvoja tehnološkega sektorja na Kitajskem, še posebej na področju umetne inteligence. Ozadje je globalna tekma v razvoju AI tehnologij, kjer Kitajska igra ključno vlogo. Relevantnost dogodka je v tem, da uspešna IPO (prva javna ponudba delnic) Moonshotu ne bi prinesla le svežega kapitala za nadaljnji razvoj, temveč bi tudi signalizirala zaupanje v kitajski tehnološki sektor in hongkonški borzni trg. Mehanizem vpliva je predvsem na delniške trge, saj bi uspešna kotacija lahko povzročila zanimanje za druge kitajske AI startupe in povečala optimizem v sektorju. To bi lahko imelo pozitiven vpliv na borzne indekse, ki vključujejo tehnološka podjetja. Za valute in obveznice je neposreden vpliv manjši, razen če gre za zelo veliko kotacijo, ki bi pritegnila znatne mednarodne kapitalske tokove. Zgodovinski primeri kažejo, da so uspešne IPO-ji velikih tehnoloških podjetij pogosto sprožile val investicij v celoten sektor. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kitajski tehnološki sektor, še posebej AI, območje z visokim potencialom rasti, vendar tudi z višjim tveganjem zaradi regulativnih in geopolitičnih dejavnikov. Diverzifikacija vlaganj v tovrstne trge zahteva previden pristop.",
+      "povzetek": "Dobiček konglomerata Berkshire Hathaway, ki ga vodi Greg Abel, se je v zadnjem četrtletju podvojil. K temu je prispeval skoraj 13 milijard dolarjev dobička iz naložb. Podjetje je v tem obdobju tudi aktivno razporedilo 32 milijard dolarjev svojega denarnega kupčka v delnice, s čimer je končalo več kot triletni prodajni niz. To kaže na povečano zaupanje v tržne priložnosti in aktivnejše upravljanje kapitala s strani enega največjih svetovnih investitorjev.",
+      "analiza": "Podvojitev dobička Berkshire Hathaway in skoraj 13 milijard dolarjev naložbenih dobičkov sta močan pokazatelj robustnosti trga in uspešnosti investicijskih strategij. Dejstvo, da je podjetje razporedilo 32 milijard dolarjev svojega denarnega kupčka v delnice, po več kot treh letih pretežno prodajnega trenda, je pomemben signal za širši trg. To kaže na to, da vodstvo Berkshire Hathaway, vključno z Gregom Abelom, vidi privlačne naložbene priložnosti. Takšne poteze velikih institucionalnih vlagateljev lahko okrepijo splošno tržno zaupanje in prispevajo k pozitivnemu sentimentu, kar se odraža tudi v današnji rasti indeksov S&P 500 (+0,62 %) in Nasdaq 100 (+1,19 %). Čeprav ne gre za neposreden vpliv na obveznice ali valute, močno poslovanje in aktivno vlaganje tako pomembnega akterja posredno podpirata stabilnost in rast delniških trgov. Za slovenskega dolgoročnega vlagatelja je to lahko znak, da kljub morebitnim makroekonomskim izzivom obstajajo priložnosti za rast in da so velika podjetja z močnimi bilancami še vedno aktivna na trgu, kar lahko prispeva k dolgoročni stabilnosti portfelja.",
       "vpliv": [
-        "Potencialna rast kitajskega AI sektorja",
-        "Povečan interes za hongkonško borzo",
-        "Kapitalski tokovi v tehnološke startupe",
-        "Vpliv na delniške trge v Aziji"
+        "Podvojitev dobička Berkshire Hathaway",
+        "13 milijard USD dobička iz investicij",
+        "32 milijard USD vloženega kapitala v delnice",
+        "Pozitiven signal za tržno zaupanje in aktivnost institucionalnih vlagateljev"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-07T23:00:07.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/berkshire-hathaway-profit-doubles-fueled-by-a-near-13-billion-investment-gain-26982ecf?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-08T13:43:00.000Z"
     },
     {
-      "naslov": "Kako rešiti britansko stanovanjsko krizo: potrebna so nova gradbena sredstva",
+      "naslov": "Zakon o kriptovalutah v ameriškem senatu zastal kljub 225 milijonom dolarjev lobiranja",
       "sektor": "Finance",
-      "smer": "mešano",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Članek v Financial Timesu razpravlja o tem, kako rešiti britansko stanovanjsko krizo, poudarjajoč potrebo po odpravi finančnih in virovnih omejitev pri gradnji novih domov. Stanovanjska kriza v Združenem kraljestvu je dolgotrajen problem, ki vpliva na inflacijo, življenjske stroške in gospodarsko rast. Pomanjkanje cenovno dostopnih stanovanj je ključni izziv za vlado in prebivalstvo. Rešitve vključujejo poenostavitev birokracije, zagotavljanje zemljišč in spodbujanje investicij v gradbeništvo. To je širši makroekonomski problem, ki vpliva na potrošnike in finančno stabilnost.",
-      "analiza": "Razprava o reševanju britanske stanovanjske krize je pomembna z makroekonomskega in finančnega vidika, saj stanovanjski trg močno vpliva na širše gospodarstvo. Ozadje je dolgotrajno pomanjkanje ponudbe stanovanj v Združenem kraljestvu, kar je povzročilo visoke cene in nedostopnost, še posebej za mlajše generacije. To je relevantno zdaj, saj visoke cene nepremičnin prispevajo k inflaciji in zmanjšujejo kupno moč prebivalstva, kar vpliva na potrošniško porabo. Mehanizem vpliva na finančne trge je preko vpliva na inflacijo, obrestne mere in banke. Povečana gradnja bi lahko dolgoročno znižala inflacijske pritiske in stabilizirala obrestne mere, kar bi bilo pozitivno za obveznice. Za banke, ki so močno izpostavljene hipotekarnim posojilom, bi stabilizacija trga zmanjšala tveganja. Delniški trgi bi lahko zaznali rast v gradbenem sektorju, vendar bi visoke cene nepremičnin še naprej obremenjevale potrošnike. Zgodovinski primeri kažejo, da so stanovanjske krize pogosto sprožile širše gospodarske recesije. Za slovenskega dolgoročnega vlagatelja to pomeni, da je zdravje stanovanjskega trga v ključnih gospodarstvih pomemben indikator širše gospodarske stabilnosti. Vlaganja v nepremičninske sklade ali podjetja, ki so vpletena v gradbeništvo, so lahko pod vplivom takšnih trendov, zato je potrebna previdnost in analiza specifičnih trgov.",
+      "povzetek": "Pomemben predlog zakona o kriptovalutah je v ameriškem senatu zastal, kljub temu da je industrija v lobiranje vložila 225 milijonov dolarjev. Zakonodajalci se ne morejo dogovoriti glede ključnih določb, kar povzroča nadaljnjo negotovost v sektorju. Zastoj pri sprejemanju regulacije pomeni, da industrija kriptovalut v ZDA ostaja v pravni negotovosti, kar lahko ovira njen razvoj in institucionalno sprejemanje.",
+      "analiza": "Zastoj pri sprejemanju regulacije kriptovalut v ameriškem senatu, kljub znatnim lobističnim prizadevanjem v višini 225 milijonov dolarjev, poudarja izzive, s katerimi se sooča ta mlada industrija. Pomanjkanje jasnih in usklajenih predpisov ustvarja pravno negotovost, kar lahko odvrača institucionalne vlagatelje in podjetja od vstopa na trg ali širjenja poslovanja. Čeprav je Bitcoin danes zrasel za 0,26 % na 65050 USD, kar kaže na kratkoročno odpornost, dolgoročna negotovost glede regulativnega okvira ostaja pomemben dejavnik tveganja. Nadaljevanje zakonodajnega zastoja lahko upočasni inovacije in sprejemanje kriptovalut v mainstream, saj podjetja in vlagatelji potrebujejo jasna pravila za delovanje. To lahko vpliva na cene kriptovalut, saj regulativna jasnost pogosto velja za katalizator rasti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je vlaganje v kriptovalute še vedno izpostavljeno znatnim regulativnim tveganjem, zlasti v velikih jurisdikcijah, kot so ZDA. Pomembno je spremljati razvoj regulacije, saj bo ta v veliki meri določala prihodnost in stabilnost kripto trga.",
       "vpliv": [
-        "Vpliv na inflacijo in kupno moč",
-        "Potencialna rast gradbenega sektorja",
-        "Vpliv na obrestne mere in obvezniške trge",
-        "Tveganja za banke, izpostavljene hipotekam"
+        "Zastoj pri sprejemanju regulacije kriptovalut v ZDA",
+        "Povečana negotovost za kripto trg",
+        "Potencialno oviranje institucionalne adopcije in inovacij",
+        "Bitcoin (+0.26%) kljub novici ostaja stabilen, a dolgoročna negotovost ostaja"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/43af0b33-4c2d-4c10-8948-c77082f70935?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-08T04:00:32.000Z"
+      "vir_url": "https://www.ft.com/content/352a15ac-53c4-46eb-b75e-957f0388dc79?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-08T11:00:03.000Z"
     },
     {
-      "naslov": "Demokrati pridobivajo zagon v ključnih senatnih in guvernerskih tekmah v Teksasu",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Demokrati pridobivajo zagon v ključnih tekmah za senat in guvernerja v Teksasu, kar signalizira potencialni premik v tradicionalni republikanski trdnjavi. James Talarico vodi pred Kenom Paxtonom v tekmi za teksaški senat. Ta razvoj dogodkov je pomemben, saj bi lahko spremenil politično pokrajino v eni največjih zveznih držav ZDA. Rezultati teh volitev bi lahko imeli širše posledice za nacionalno politiko in prihodnje zakonodajne pobude. Volitve v Teksasu so pogosto barometer za širše politične trende v državi.",
-      "analiza": "Pridobivanje zagona demokratov v ključnih senatnih in guvernerskih tekmah v Teksasu je pomemben politični dogodek, ki lahko ima posredne, a pomembne posledice za finančne trge. Ozadje je dolgotrajna prevlada republikancev v Teksasu in morebiten premik v politični usmeritvi, ki bi lahko vplival na politike, povezane z energetiko, regulacijo in socialnimi programi. Relevantnost dogodka je v tem, da sprememba političnega vodstva v veliki zvezni državi, kot je Teksas, lahko vpliva na nacionalno politično agendo in s tem na zakonodajo, ki zadeva podjetja in gospodarstvo. Mehanizem vpliva je predvsem skozi pričakovanja glede prihodnjih regulativnih sprememb. Na primer, morebitna demokratska zmaga bi lahko pomenila večji poudarek na zeleni energiji in strožjo regulacijo tradicionalne naftne in plinske industrije, ki je v Teksasu močno prisotna. To bi lahko vplivalo na delnice energetskih podjetij. Za obveznice in valute je neposreden vpliv manjši, razen če bi šlo za spremembe, ki bi močno vplivale na zvezni proračun ali trgovinsko politiko. Zgodovinsko gledano so politični premiki v ključnih državah pogosto napovedovali širše nacionalne trende. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati politične dogodke v ZDA, saj lahko vplivajo na regulativno okolje in s tem na dobičkonosnost posameznih sektorjev in podjetij, v katere so vložena sredstva. Politična stabilnost in predvidljivost sta ključni za dolgoročne naložbe.",
+      "naslov": "Strah pred Cyclosporo zmanjšuje apetit potrošnikov po solatah v ZDA",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 1,
+      "povzetek": "Strah pred izbruhi okužb s Cyclosporo v ZDA je povzročil, da so potrošniki izgubili apetit po solatah. Promet v verigah restavracij s solatami je upadel, saj se potrošniki izogibajo zelenjavi zaradi nenehnih izbruhov te parazitske bolezni po vsej državi. To kaže na neposreden vpliv zdravstvenih skrbi na potrošniške navade in določene segmente prehrambne industrije.",
+      "analiza": "Izbruhi Cyclospore in posledično zmanjšanje povpraševanja po solatah so primer, kako lahko zdravstvene skrbi neposredno vplivajo na potrošniško vedenje in s tem na poslovanje določenih sektorjev. Čeprav to ni makroekonomski dogodek, ki bi pretresel globalne trge, ima neposreden negativen vpliv na verige restavracij s solatami in dobavitelje sveže zelenjave. To lahko privede do zmanjšanja prihodkov in dobičkov za podjetja v tem segmentu, kar se lahko odrazi v padcu vrednosti njihovih delnic. Takšni dogodki poudarjajo ranljivost specifičnih industrij na dejavnike, kot so varnost hrane in javnozdravstvene krize. Širši vpliv na delniške indekse, kot sta S&P 500 ali Nasdaq 100, je verjetno omejen, vendar lahko služi kot opozorilo o pomembnosti diverzifikacije portfelja. Za slovenskega dolgoročnega vlagatelja to pomeni, da je ključno razumeti specifična tveganja posameznih industrij in podjetij, tudi tistih, ki se zdijo na prvi pogled stabilne. Dogodki, kot je ta, poudarjajo, da je diverzifikacija portfelja pomembna za zmanjšanje izpostavljenosti nepričakovanim šokom v posameznih sektorjih.",
       "vpliv": [
-        "Potencialne spremembe v energetski politiki Teksasa",
-        "Vpliv na regulacijo industrije",
-        "Spremembe v nacionalni politični agendi ZDA",
-        "Nihanja delnic v določenih sektorjih"
+        "Zmanjšan promet v restavracijah s solatami v ZDA",
+        "Potrošniki se izogibajo zelenjavi zaradi izbruhov Cyclospore",
+        "Negativen vpliv na določene dele prehrambne industrije",
+        "Poudarek na tveganjih za specifične sektorje in potrebo po diverzifikaciji"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/7/democrats-gain-momentum-in-pivotal-us-senate-and-governors-races-in-texas?traffic_source=rss",
-      "objavljeno": "2026-08-07T22:08:49.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+      "objavljeno": "2026-08-08T12:00:01.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-08T05:09:18.603Z",
+    "posodobljenoOb": "2026-08-08T15:57:00.861Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -181,8 +164,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 64972.34,
-        "sprememba_pct": 0.14,
+        "vrednost": 65050,
+        "sprememba_pct": 0.26,
         "enota": "USD"
       }
     ],
