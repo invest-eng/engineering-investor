@@ -1,99 +1,116 @@
 {
-  "generiranoOb": "2026-08-08T16:17:29.097Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-08-09T05:18:31.358Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-08-08",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, pri čemer je nemški indeks DAX zrasel za 0,69 % na 26319 točk. Tudi ameriški trgi so se odprli v zeleni barvi, saj je S&P 500 povišal za 0,62 % na 7758 točk, tehnološki Nasdaq 100 pa za impresivnih 1,19 % na 29722 točk. Dvigovanje cen surovin je bilo opazno, saj je zlato poskočilo za 2,33 % na 4399,70 USD/oz, medtem ko sta nafta WTI in Brent zrasli za 1,15 % na 78,18 USD/sod oziroma 1,29 % na 83,55 USD/sod. Geopolitične napetosti na Bližnjem vzhodu, zlasti napad Irana na tanker ZAE v Hormuški ožini, so vplivale na cene nafte. Medtem so zaskrbljujoči podatki o padcu ameriške delovne sile za več kot milijon ljudi v zadnjem letu sprožili vprašanja o zdravju gospodarstva ZDA. Vlagatelji bodo ta teden pozorno spremljali prihodnje objave makroekonomskih podatkov, predvsem tistih, ki se nanašajo na inflacijo in trg dela v ZDA.",
+  "datum": "2026-08-09",
+  "povzetek": "Jutranji pregled finančnih trgih kaže na mešano sliko po nočnem dogajanju. Ameriški delniški indeksi so trgovanje zaključili v zelenem, pri čemer je S&P 500 dosegel 7758 točk z rastjo +0.62 %, Nasdaq 100 pa je poskočil na 29722 točk (+1.19 %). Medtem so azijski trgi, kot je Nikkei 225, zabeležili rahel padec (-0.12 %), dosegel je 65607 točk. Evropski DAX je danes odprl pri 26319 točkah (+0.69 %), kar nakazuje na optimističen začetek. Cene surovin so se zvišale, zlato je poskočilo za +2.33 % na 4399.70 USD/oz, medtem ko sta nafta WTI in Brent zrasli za +1.15 % na 78.18 USD/sod oziroma +1.29 % na 83.55 USD/sod. Devizni par EUR/USD je pridobil +0.32 % in se giblje pri 1.1562, donosnost 10-letne ameriške obveznice pa je padla na 4.66 % (-0.21 %). Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v ZDA, ki lahko vplivajo na pričakovanja glede monetarne politike.",
   "novice": [
     {
-      "naslov": "Iran napadel tanker ZAE v Hormuški ožini kljub pogovorom",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Združeni arabski emirati so danes sporočili, da je Iran napadel tanker pod zastavo ADNOC v Hormuški ožini, pri čemer ni bilo žrtev. Incident se je zgodil kljub tekočim pogovorom med Iranom in Omanom o vzpostavitvi varnostnega okvira za plovbo skozi strateško pomembno ožino. Ta napad predstavlja ponovno zaostrovanje napetosti v regiji in je bil deležen obsodb s strani zalivskih in arabskih vlad. Poročila kažejo, da je bil napad izveden z raketo, kar dodatno poudarja nestabilnost v ključni pomorski poti za globalno oskrbo z nafto. Iran in Oman sta se sicer dogovorila o koordinatah poti, ki jih morajo plovila uporabljati skozi Hormuško ožino, kar pa očitno ni preprečilo incidenta.",
-      "analiza": "Hormuška ožina je ena najpomembnejših pomorskih poti na svetu, skozi katero poteka približno petina globalne oskrbe z nafto. Vsakršna zaostritev napetosti v tej regiji ima neposreden in pomemben vpliv na cene nafte in globalno energetsko varnost. Današnji napad Irana na tanker ZAE, kljub pogovorom o varnosti plovbe, kaže na kompleksnost in krhkost diplomatskih prizadevanj. V preteklosti so podobni incidenti že povzročili skoke cen nafte, saj se poveča premija za tveganje. Mehanizem vpliva je preprost: povečano geopolitično tveganje ogroža dobavne verige, kar zmanjšuje ponudbo in dviguje cene. Posledično se je cena nafte Brent danes povišala za 1,29 % na 83,55 USD/sod, WTI nafta pa za 1,15 % na 78,18 USD/sod. To lahko vpliva na inflacijske pritiske po svetu in posledično na monetarno politiko centralnih bank. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba upoštevati morebitno volatilnost na energetskih trgih in njen vpliv na stroške poslovanja podjetij ter potrošniško moč, kar lahko vpliva na donosnost delniških naložb.",
-      "vpliv": [
-        "Cena nafte Brent zrasla za 1,29 % na 83,55 USD/sod",
-        "Cena nafte WTI zrasla za 1,15 % na 78,18 USD/sod",
-        "Povečana geopolitična tveganja na Bližnjem vzhodu",
-        "Potencialni inflacijski pritiski"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-08T13:27:18.000Z"
-    },
-    {
-      "naslov": "Greg Abel izkorišča Buffettovo denarno rezervo za naložbe",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Greg Abel, izvršni direktor družbe Berkshire Hathaway, je končno začel izkoriščati ogromno denarno rezervo podjetja. S tem je končal več kot triletno obdobje neto prodaje delnic. Berkshire Hathaway je v delnice vložil neto 20 milijard dolarjev, kar kaže na spremembo v naložbeni strategiji pod vodstvom Abela. To sledi poročilu, da je Berkshire Hathaway v zadnjem četrtletju zabeležil skoraj 13 milijard dolarjev dobička iz naložb, kar je prispevalo k podvojitvi celotnega dobička. Podjetje je v zadnjem obdobju vložilo 32 milijard dolarjev svoje denarne rezerve, kar poudarja aktivnejši pristop k upravljanju kapitala. Ta poteza je pomembna, saj Berkshire Hathaway velja za enega največjih in najvplivnejših investitorjev na svetu.",
-      "analiza": "Berkshire Hathaway, pod vodstvom Warrena Buffetta in zdaj Grega Abela, je tradicionalno znan po svoji dolgoročni in vrednostni naložbeni strategiji. Odločitev Grega Abela, da vloži neto 20 milijard dolarjev v delnice in s tem prekine obdobje neto prodaje, je pomemben signal trgu. To kaže na morebitno spremembo v dojemanju vrednosti na trgu in pripravljenost podjetja, da aktivneje išče naložbene priložnosti. Dejstvo, da je podjetje v zadnjem četrtletju zabeležilo skoraj 13 milijard dolarjev dobička iz naložb in podvojilo celoten dobiček, potrjuje uspešnost teh potez. Vpliv na trge je lahko pozitiven, saj dejanja tako velikega investitorja pogosto služijo kot barometer za širše naložbene trende. To lahko spodbudi optimizem in poveča povpraševanje po delnicah, še posebej v sektorjih, v katere Berkshire vlaga. Za slovenskega dolgoročnega vlagatelja to pomeni, da je vredno spremljati naložbene odločitve velikih institucij, saj lahko nakazujejo na podcenjene sektorje ali podjetja, vendar je vedno ključno lastno raziskovanje in diverzifikacija portfelja.",
-      "vpliv": [
-        "Berkshire Hathaway vložil neto 20 milijard dolarjev v delnice",
-        "Podvojitev dobička Berkshire Hathaway",
-        "Povečan optimizem na delniških trgih",
-        "Potencialni signal za širše naložbene trende"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-08T15:36:35.000Z"
-    },
-    {
-      "naslov": "Zakon o kriptovalutah obtičal v ameriškem senatu kljub lobiranju",
-      "sektor": "Kriptovalute",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Zakon o kriptovalutah, ki velja za prelomnega, je obtičal v ameriškem senatu, kljub močnim prizadevanjem lobistov in porabljenih 225 milijonov dolarjev. Lobisti se borijo za sprejetje zakona, ki bi zagotovil jasnejši regulativni okvir za digitalna sredstva v ZDA. Zakonodajalci se ne morejo dogovoriti o ključnih določbah, kar povzroča negotovost v industriji kriptovalut. To pomeni nadaljnje odlašanje pri vzpostavitvi enotnih pravil, ki bi lahko spodbudila inovacije in zaščitila vlagatelje. Negotovost glede regulacije ostaja glavna ovira za širše sprejetje in institucionalne naložbe v kriptovalute. Bitcoin je danes zrasel za 0,23 % na 65034 USD, vendar je dolgoročni vpliv regulacije ključen.",
-      "analiza": "Zastoj pri sprejemanju zakona o kriptovalutah v ameriškem senatu je pomemben dogodek za celotno industrijo digitalnih sredstev. Pomanjkanje jasnega regulativnega okvira v ZDA ustvarja negotovost, ki odvrača institucionalne vlagatelje in podjetja od vstopa na trg ali širitve poslovanja. To lahko upočasni rast in inovacije v sektorju. Kljub temu, da je Bitcoin danes zabeležil skromno rast za 0,23 % na 65034 USD, je dolgoročni vpliv regulacije ključen za stabilnost in legitimnost kriptotrgov. V preteklosti so regulativne negotovosti že povzročile volatilnost cen kriptovalut. Sprejetje jasnega zakona bi lahko prineslo večjo predvidljivost in zaupanje, kar bi potencialno privabilo več kapitala. Nasprotno, nadaljnji zastoj lahko ohranja kriptovalute v sivi coni in omejuje njihov potencial. Za slovenskega dolgoročnega vlagatelja v kriptovalute to pomeni, da je treba biti pozoren na regulativne spremembe v ZDA, saj imajo te velik vpliv na globalni kripto trg in s tem na vrednost digitalnih sredstev v portfelju.",
-      "vpliv": [
-        "Nadaljnja regulativna negotovost v ZDA",
-        "Omejen institucionalni vstop na trg kriptovalut",
-        "Potencialno upočasnjena rast industrije",
-        "Bitcoin zrasel za 0,23 % na 65034 USD (kratkoročno, a dolgoročno vpliv negativen)"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/352a15ac-53c4-46eb-b75e-957f0388dc79?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-08T11:00:03.000Z"
-    },
-    {
-      "naslov": "Izrael preučuje pakt med Savdsko Arabijo, Turčijo in Pakistanom",
+      "naslov": "Iran išče rešitev iz 'niti vojne niti miru' z ZDA",
       "sektor": "Geopolitika",
       "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Izrael preučuje nov obrambni pakt med Savdsko Arabijo, Turčijo in Pakistanom, medtem ko se bližajo volitve. Ta pakt predstavlja pomemben korak k novi regionalni varnostni arhitekturi na Bližnjem vzhodu. Oblikovanje takšne zavezniške osi ima nejasne posledice za Izrael in širšo regijo. Pakt lahko spremeni ravnovesje moči in vpliva na regionalne konflikte ter diplomatske odnose. Izraelska vlada pod vodstvom Netanjahuja se sooča z izzivi, kako se odzvati na to novo dinamiko, še posebej v luči prihajajočih volitev. To je del širšega trenda preoblikovanja Bližnjega vzhoda, kjer se oblikujejo nove koalicije in vplivne sfere.",
-      "analiza": "Oblikovanje obrambnega pakta med Savdsko Arabijo, Turčijo in Pakistanom je pomemben geopolitični razvoj, ki lahko preoblikuje ravnovesje moči na Bližnjem vzhodu. Ta pakt, ki ga Al Jazeera opisuje kot del 'post-ameriškega Bližnjega vzhoda', nakazuje na zmanjšanje vpliva ZDA in vzpon regionalnih sil. Za Izrael to pomeni novo varnostno dinamiko, ki jo mora skrbno preučiti, še posebej v luči lastnih regionalnih interesov in odnosov z Iranom. Povečana regionalna stabilnost bi lahko bila pozitivna, vendar pa lahko nova zavezništva tudi zaostrijo obstoječe konflikte ali ustvarijo nove. Vpliv na finančne trge je posreden, vendar pomemben: geopolitična stabilnost ali nestabilnost vpliva na cene surovin, še posebej nafte, in na zaupanje vlagateljev v regijo. Morebitni vpliv na globalne dobavne verige in trgovino je tudi realen. Za slovenskega dolgoročnega vlagatelja je ključno razumevanje, da so geopolitični dogodki na Bližnjem vzhodu pogosto vir volatilnosti na globalnih trgih, predvsem na energetskem področju, in lahko vplivajo na makroekonomsko okolje, v katerem delujejo podjetja.",
+      "intenziteta": 3,
+      "povzetek": "Iranski predsednik Pezeshkian je izrazil upanje, da bodo pogovori z Omanom pripeljali do konca stanja 'niti vojne niti miru' v odnosih z ZDA. Ta izjava prihaja v času, ko Iran zahteva konec ameriške blokade za ponovno odprtje Hormuške ožine, ključne pomorske poti za nafto. Ameriški podpredsednik JD Vance je pred tem trdil, da je Washington 'uničil' iranski jedrski program in oslabil njihovo vojsko. Turčija je medtem poudarila, da obrambni pakt iz Meke s Savdsko Arabijo in Pakistanom ni usmerjen proti Iranu, kar kaže na kompleksno regionalno dinamiko.",
+      "analiza": "Odnosi med Iranom in ZDA so že dolgo vir geopolitične napetosti, ki se pogosto odraža na svetovnih finančnih trgih, še posebej na trgu energentov. Stanje 'niti vojne niti miru' ustvarja negotovost, ki lahko vpliva na dobavne verige in cene nafte. Pogovori z Omanom, tradicionalnim posrednikom, predstavljajo poskus deeskalacije, kar bi lahko kratkoročno pomirilo trge. Vendar pa so zahteve Irana po koncu blokade Hormuške ožine in trditve ZDA o uničenju iranskega jedrskega programa še vedno vir trenj. Zgodovinsko gledano, vsaka eskalacija na Bližnjem vzhodu, še posebej tista, ki vključuje Hormuško ožino, takoj povzroči skok cen nafte, saj skozi to ožino poteka velik del svetovnega pomorskega prometa nafte. Posledice za delnice bi bile mešane, saj bi stabilizacija cen nafte lahko podprla podjetja, ki so odvisna od nizkih stroškov energije, medtem ko bi eskalacija povzročila splošen padec zaupanja. Obveznice bi lahko služile kot varno zatočišče v primeru naraščajočih napetosti, donosnosti pa bi padle. Valute, kot je EUR/USD, bi bile pod pritiskom, če bi se povečala negotovost, kar bi okrepilo USD kot varno valuto. Cene nafte WTI in Brent so že zrasle za +1.15 % na 78.18 USD/sod oziroma +1.29 % na 83.55 USD/sod, kar odraža obstoječo negotovost. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so geopolitična tveganja na Bližnjem vzhodu strukturni dejavnik, ki lahko povzroči kratkoročno volatilnost na trgih, še posebej pri energentih, in zahteva diverzifikacijo portfelja.",
       "vpliv": [
-        "Spremenjeno ravnovesje moči na Bližnjem vzhodu",
-        "Negotovost glede regionalne stabilnosti",
-        "Potencialni vpliv na cene nafte in dobavne verige",
-        "Vpliv na diplomatske odnose v regiji"
+        "Cene nafte WTI +1.15 % na 78.18 USD/sod",
+        "Cene nafte Brent +1.29 % na 83.55 USD/sod",
+        "Potencialna kratkoročna volatilnost delniških trgov",
+        "Krepitev USD kot varne valute ob eskalaciji"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
-      "objavljeno": "2026-08-08T13:42:06.000Z"
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
+      "objavljeno": "2026-08-09T04:12:39.000Z"
     },
     {
-      "naslov": "Sprememba plačil Medicare za paliativno oskrbo lahko prihrani 7,6 milijarde USD",
-      "sektor": "Javne finance",
+      "naslov": "Britanske državne subvencije močno narastle po Brexitu za energetske projekte",
+      "sektor": "Energetika",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Sprememba načina plačevanja paliativne oskrbe s strani Medicare bi lahko ZDA prihranila 7,6 milijarde dolarjev letno. Vendar pa se postavlja vprašanje, kakšna bi bila cena za paciente. Industrija paliativne oskrbe trdi, da sedanji sistem plačil omogoča ponudnikom, da ustvarijo individualne načrte oskrbe, ki ustrezajo specifičnim potrebam pacientov. Predlagane spremembe bi lahko vplivale na kakovost in dostopnost oskrbe za ranljive skupine prebivalstva. Razprava se osredotoča na iskanje ravnovesja med proračunskimi prihranki in zagotavljanjem ustrezne zdravstvene oskrbe. Gre za pomembno politično in socialno vprašanje z velikimi finančnimi implikacijami za zdravstveni sistem ZDA.",
-      "analiza": "Razprava o spremembah plačil za paliativno oskrbo v okviru programa Medicare je ključna za zdravstveni sektor v ZDA in ima široke finančne posledice. Potencialni prihranki v višini 7,6 milijarde dolarjev letno so pomembni za zvezni proračun, ki se sooča z naraščajočimi stroški zdravstvenega varstva. Vendar pa je treba upoštevati tudi vpliv na paciente in ponudnike storitev. Morebitno zmanjšanje plačil bi lahko prisililo ponudnike k zmanjšanju storitev ali kompromisom pri kakovosti oskrbe, kar bi imelo negativen vpliv na paciente. To lahko vpliva na delniške tečaje podjetij v zdravstvenem sektorju, še posebej tistih, ki so močno odvisna od plačil Medicare. V preteklosti so regulativne spremembe v zdravstvu že povzročile znatne premike na borzi. Za slovenskega dolgoročnega vlagatelja, ki ima naložbe v globalna zdravstvena podjetja, je pomembno spremljati takšne politične razprave v ZDA, saj lahko vplivajo na poslovno okolje in dobičkonosnost teh podjetij. Pomembno je tudi razumeti, da so prihranki na eni strani pogosto povezani s stroški na drugi, kar zahteva celovito analizo.",
+      "povzetek": "Državna podpora v Združenem kraljestvu je v letu do marca 2026 poskočila na 114 milijard funtov, kar je več kot dvakratnik zneska iz prejšnjih 12 mesecev. Ta porast je predvsem posledica post-Brexitovskih subvencij, namenjenih energetskim projektom. Povečanje subvencij kaže na aktivno vlogo vlade pri spodbujanju določenih sektorjev, zlasti tistih, ki so ključni za energetsko varnost in prehod na zeleno energijo. To je del širše strategije za preoblikovanje britanskega gospodarstva po izstopu iz Evropske unije.",
+      "analiza": "Povečanje državnih subvencij v Združenem kraljestvu na 114 milijard funtov v enem letu, kar je več kot dvakratno povečanje, poudarja obseg vladne intervencije v gospodarstvo po Brexitu. Ta sredstva so usmerjena predvsem v energetske projekte, kar kaže na strateško prioriteto energetske varnosti in doseganje podnebnih ciljev. Takšne subvencije lahko spodbudijo rast v določenih sektorjih, kot so obnovljivi viri energije in energetska infrastruktura, kar je pozitivno za podjetja v teh panogah. Vendar pa lahko obsežno državno trošenje povzroči tudi pritiske na javne finance in inflacijo, kar bi lahko vplivalo na obvezniške trge in vrednost funta. Povečana poraba lahko dolgoročno vpliva na donosnosti britanskih državnih obveznic (gilts), saj se povečuje ponudba. Za delniške trge bi to pomenilo priložnosti za podjetja, ki so prejemniki teh subvencij, medtem ko bi širši trg lahko občutil vpliv inflacijskih pritiskov. V preteklosti so podobni programi državne podpore v drugih državah pokazali mešane rezultate, odvisno od učinkovitosti porabe in makroekonomskega okolja. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati makroekonomske trende v Združenem kraljestvu, saj lahko vplivajo na globalne dobavne verige in naložbene priložnosti v energetskem sektorju, hkrati pa je treba upoštevati morebitne inflacijske pritiske.",
       "vpliv": [
-        "Potencialni prihranki zveznega proračuna ZDA (7,6 milijarde USD/leto)",
-        "Negotovost glede kakovosti in dostopnosti paliativne oskrbe",
-        "Vpliv na dobičkonosnost zdravstvenih podjetij",
-        "Politična razprava o ravnovesju med stroški in oskrbo"
+        "Spodbuda za podjetja v energetskem sektorju Združenega kraljestva",
+        "Potencialni inflacijski pritiski v Združenem kraljestvu",
+        "Vpliv na donosnosti britanskih državnih obveznic",
+        "Mešan vpliv na vrednost britanskega funta"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/changing-how-medicare-pays-for-hospice-care-could-save-7-6-billion-a-year-but-at-what-cost-to-patients-270eb608?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-08T14:04:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/560ff425-c1ac-4eef-b8da-e6cdb0a412a3?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-09T04:00:10.000Z"
+    },
+    {
+      "naslov": "Kitajska banka CICC ključna za razcvet kotacij AI podjetij",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "CICC (China International Capital Corporation) se je uveljavila kot prevladujoča finančna institucija pri kotacijah podjetij na področju umetne inteligence (AI) na Kitajskem. To poudarja ambicije Pekinga, da konkurira ZDA v tehnološki tekmi, zlasti na področju AI. CICC s svojo vlogo financerja in svetovalca omogoča kitajskim AI podjetjem dostop do kapitala, kar je ključno za njihov razvoj in širitev. Ta trend kaže na močno državno podporo in strateško usmerjenost Kitajske v razvoj naprednih tehnologij.",
+      "analiza": "Vloga CICC pri financiranju kitajskih AI podjetij je ključnega pomena za razumevanje globalne tehnološke tekme med Kitajsko in ZDA. Kitajska vlada strateško podpira razvoj umetne inteligence, saj jo vidi kot ključno za prihodnjo gospodarsko rast in nacionalno varnost. CICC kot pomemben igralec na področju investicijskega bančništva omogoča, da se ta podpora pretvori v dejanske kotacije in rast podjetij. To ima pomembne posledice za globalne delniške trge, saj se povečuje število in velikost kitajskih tehnoloških podjetij, ki iščejo kapital. Povečana konkurenca na področju AI lahko prinese inovacije, a tudi pritiske na marže obstoječih igralcev. Za delnice to pomeni priložnosti za vlaganje v rastoči kitajski AI sektor, hkrati pa lahko povzroči preusmeritev kapitala iz drugih regij. Na obvezniških trgih bi lahko povečana rast kitajskega gospodarstva, poganjana z AI, vplivala na globalne donosnosti. Kriptovalute so posredno povezane, saj tehnološki napredek in inovacije pogosto vplivajo na širše razpoloženje do tveganih sredstev. V preteklosti smo videli, kako so državne strategije, kot je 'Made in China 2025', usmerjale kapital v ključne sektorje. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj kitajskega tehnološkega sektorja, saj predstavlja pomemben del globalnega gospodarstva in ponuja diverzifikacijske priložnosti, vendar z lastnimi tveganji, povezanimi z regulacijo in geopolitiko.",
+      "vpliv": [
+        "Rast kitajskega AI sektorja in novih kotacij",
+        "Povečana konkurenca na globalnem tehnološkem trgu",
+        "Potencialna preusmeritev investicijskega kapitala",
+        "Vpliv na globalne delniške trge"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-09T01:22:52.000Z"
+    },
+    {
+      "naslov": "Avtomobilska bomba na kolumbijski avtocesti dan po inavguraciji predsednika",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Avtomobilska bomba je uničila cestninsko postajo na avtocesti v Kolumbiji, le dan po inavguraciji predsednika Abelarda de la Esprielle. Napad se je zgodil na Panameriški avtocesti na jugozahodu države. Vlada je obljubila oster odziv na ta eksplozivni napad, ki je pretresel državo. Ta incident poudarja nadaljnjo nestabilnost v regiji kljub političnim spremembam in lahko vpliva na zaupanje v novo vlado ter gospodarske aktivnosti.",
+      "analiza": "Avtomobilska bomba v Kolumbiji, ki je sledila inavguraciji novega predsednika, je zaskrbljujoč znak nadaljnje politične in varnostne nestabilnosti v državi. Takšni dogodki lahko močno vplivajo na regionalno gospodarstvo, saj zmanjšujejo zaupanje vlagateljev in ovirajo trgovino ter transport. Kolumbija je pomembna proizvajalka nafte in premoga, zato bi morebitna širša nestabilnost lahko vplivala tudi na cene teh surovin, čeprav je njen vpliv na globalne trge manjši kot pri dogodkih na Bližnjem vzhodu. Povečana tveganja v državi običajno vodijo do odtekanja kapitala, kar oslabi lokalno valuto in poveča donosnosti državnih obveznic, saj vlagatelji zahtevajo višje premije za tveganje. Za delniške trge to pomeni negativni pritisk na lokalna podjetja, še posebej tista, ki so odvisna od stabilnega okolja in infrastrukture. V preteklosti so države z visoko stopnjo notranjih konfliktov pogosto doživljale dolgotrajne gospodarske posledice. Za slovenskega dolgoročnega vlagatelja je pomembno zavedanje o regionalnih geopolitičnih tveganjih, ki lahko vplivajo na naložbe v razvijajočih se trgih, čeprav je neposredni vpliv na slovenski trg omejen. Vlagatelji, ki imajo izpostavljenost do latinskoameriških skladov ali podjetij, bi morali biti pozorni na razvoj dogodkov.",
+      "vpliv": [
+        "Povečana regionalna nestabilnost v Kolumbiji",
+        "Potencialno odtekanje kapitala iz Kolumbije",
+        "Oslabitev kolumbijske valute",
+        "Povečanje donosnosti kolumbijskih obveznic"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss",
+      "objavljeno": "2026-08-09T04:32:32.000Z"
+    },
+    {
+      "naslov": "Jabolka indijskih oreščkov v Gani dobivajo novo življenje",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 1,
+      "povzetek": "Sadje indijskih oreščkov, ki je bilo dolgo prepuščeno gnitju, bi lahko postalo nov vir dohodka za ganske pridelovalce indijskih oreščkov. Ta inovacija predstavlja pomemben korak k zmanjšanju živilskih odpadkov in izboljšanju ekonomskega položaja kmetov v Gani. Razvoj novih načinov uporabe tega sadja, ki je običajno zavrženo, odpira nove tržne priložnosti in lahko prispeva k trajnostnemu razvoju kmetijstva v regiji. To je primer, kako lahko lokalne iniciative prinesejo pozitivne gospodarske in okoljske učinke.",
+      "analiza": "Novica o jabolkih indijskih oreščkov v Gani, ki dobivajo 'drugo življenje', je primer pozitivnega razvoja v sektorju kmetijskih surovin in trajnostnega razvoja. Čeprav morda nima neposrednega in takojšnjega vpliva na globalne finančne trge kot geopolitični dogodki ali makroekonomski podatki, je pomembna za razumevanje dolgoročnih trendov. Povečanje vrednosti kmetijskih pridelkov in zmanjšanje odpadkov lahko izboljša ekonomsko stabilnost v razvijajočih se državah, kar posredno vpliva na regionalno rast in zmanjšanje tveganj. Za trge surovin to pomeni potencialno povečanje ponudbe predelanih kmetijskih izdelkov in diverzifikacijo virov. Za delniške trge bi to lahko bilo zanimivo za podjetja, ki se ukvarjajo s predelavo hrane, trajnostnimi rešitvami ali imajo izpostavljenost do afriških trgov. Na obvezniških trgih bi dolgoročna gospodarska stabilnost v Gani lahko izboljšala bonitetno oceno države in zmanjšala donosnosti njenih obveznic. Zgodovinsko gledano, inovacije v kmetijstvu in izkoriščanje stranskih proizvodov so pogosto vodile do novih industrij in izboljšanja življenjskega standarda. Za slovenskega dolgoročnega vlagatelja to poudarja pomen diverzifikacije v razvijajoče se trge in sektorje, ki se osredotočajo na trajnostne rešitve in učinkovito rabo virov, kar lahko prinese dolgoročne donose, hkrati pa prispeva k pozitivnim družbenim in okoljskim vplivom.",
+      "vpliv": [
+        "Potencialni nov vir dohodka za ganske kmete",
+        "Zmanjšanje živilskih odpadkov in trajnostni razvoj",
+        "Priložnosti za podjetja v predelovalni industriji",
+        "Posreden vpliv na regionalno gospodarsko stabilnost"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss",
+      "objavljeno": "2026-08-09T04:07:39.000Z"
+    },
+    {
+      "naslov": "Hargreaves Lansdown poziva zaposlene nazaj v pisarno tri dni tedensko",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 1,
+      "povzetek": "Hargreaves Lansdown, največja platforma za samostojno investiranje v Združenem kraljestvu, je svoje zaposlene pozvala nazaj v pisarno za tri dni na teden. Ta odločitev sledi trendu, kjer se vse več podjetij, zlasti v finančnem sektorju, odloča za hibridni model dela ali popolno vrnitev v pisarne. Poteza podjetja, ki je bila objavljena 2026-08-09T04:00:09.000Z, kaže na premik v korporativni kulturi in strategiji dela po pandemiji COVID-19. Cilj je verjetno izboljšanje sodelovanja, inovacij in korporativne kulture.",
+      "analiza": "Odločitev Hargreaves Lansdown, da zaposlene pozove nazaj v pisarno za tri dni na teden, je del širšega trenda v poslovnem svetu, kjer se podjetja prilagajajo post-pandemičnim delovnim modelom. V finančnem sektorju, kjer je sodelovanje in izmenjava informacij ključnega pomena, se mnogi odločajo za hibridne ali polne modele dela v pisarni. To lahko pozitivno vpliva na produktivnost, inovativnost in korporativno kulturo, kar se lahko dolgoročno odrazi na uspešnosti podjetja. Vendar pa lahko takšna odločitev povzroči tudi nezadovoljstvo med zaposlenimi, ki so se navadili na fleksibilnost dela od doma. Za delniške trge bi to lahko pomenilo izboljšanje operativne učinkovitosti in potencialno rast prihodkov za podjetja, ki uspešno implementirajo takšne strategije. Hkrati pa lahko vpliva na trg nepremičnin, saj se povečuje povpraševanje po pisarniških prostorih v mestnih središčih. V preteklosti so se podjetja, ki so uspešno prilagodila svoje delovne modele, izkazala za bolj odporna na gospodarske šoke. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati, kako podjetja, v katera vlagajo, upravljajo svoje delovne sile in strategije dela, saj ima to lahko dolgoročen vpliv na njihovo konkurenčnost in finančno uspešnost. Trendi dela na daljavo ali hibridnega dela so pomemben dejavnik pri ocenjevanju dolgoročne vrednosti podjetij.",
+      "vpliv": [
+        "Potencialno izboljšanje produktivnosti in inovativnosti",
+        "Vpliv na trg poslovnih nepremičnin",
+        "Spremembe v korporativni kulturi finančnega sektorja",
+        "Mešan odziv zaposlenih"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/590e468a-1eb7-4d1b-a7a5-80541c3ff35a?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-09T04:00:09.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-08T16:15:51.552Z",
+    "posodobljenoOb": "2026-08-09T05:17:34.421Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -164,8 +181,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 65033.54,
-        "sprememba_pct": 0.23,
+        "vrednost": 64733.98,
+        "sprememba_pct": -0.27,
         "enota": "USD"
       }
     ],
