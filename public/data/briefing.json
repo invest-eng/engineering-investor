@@ -1,59 +1,162 @@
 {
-  "generiranoOb": "2026-08-10T05:43:46.415Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-08-10T16:24:34.414Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-08-10",
-  "povzetek": "Jutranji pregled finančnih trgov kaže na rast indeksov, saj je S&P 500 zaključil pri 7758 (+0.62 %), Nasdaq 100 pri 29722 (+1.19 %), medtem ko je DAX dosegel 26319 (+0.69 %). Azijski trgi so prav tako sledili pozitivnemu trendu, Nikkei 225 je zrasel na 66910 (+1.99 %). Kljub optimizmu na borzah, geopolitične napetosti ostajajo v ospredju, saj iranske zahteve glede Hormuške ožine povzročajo rast cen nafte, kjer se Brent nafta giblje pri 83.90 USD/sod (+0.42 %). Ameriška administracija pod Trumpom signalizira prehod na ekonomski pritisk na Iran, kar bi lahko dolgoročno vplivalo na stabilnost cen energentov. V tehnološkem sektorju se razkrivajo razlike med obljubami o AI in dejansko obremenitvijo zaposlenih, medtem ko Kitajska odpira novo arktično trgovsko pot, kar spreminja globalne logistične tokove. Vlagatelji bodo ta teden pozorno spremljali prihajajoče podatke o inflaciji v ZDA, ki lahko pomembno vplivajo na pričakovanja glede monetarne politike.",
-  "novice": [],
+  "povzetek": "Evropski trgi so danes zaključili dan večinoma v pozitivnem območju, medtem ko so se ameriški trgi po dveh urah trgovanja gibali mešano. DAX je zaključil z minimalno rastjo +0.02 % pri 26324 točkah, medtem ko je S&P 500 beležil rahlo rast +0.03 % pri 7760 točkah, Nasdaq 100 pa je bil praktično nespremenjen z -0.01 % pri 29720 točkah. Japonski Nikkei 225 je izstopal z močno rastjo +2.08 % pri 66970 točkah. Ključna tema dneva so bile cene nafte, ki so močno poskočile – WTI nafta za +3.66 % na 81.04 USD/sod in Brent nafta za +3.65 % na 86.60 USD/sod – zaradi negotovosti glede ponovnega odprtja Hormuške ožine. Ameriški trg dela je pokazal znake ohlajanja, medtem ko je japonski jen oslabel po umiku učink intervencije. Vlagatelji bodo v prihodnjih dneh pozorno spremljali nadaljnji razvoj dogodkov v zvezi z energetskimi trgi in morebitne nove makroekonomske objave, ki bi lahko vplivale na monetarno politiko.",
+  "novice": [
+    {
+      "naslov": "Cene nafte poskočile zaradi negotovosti glede Hormuške ožine in Irana",
+      "sektor": "Energetika",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Cene nafte so danes močno zrasle, saj Iran zmanjšuje optimizem glede hitrega ponovnega odprtja Hormuške ožine. WTI nafta je poskočila za 3.66 % na 81.04 USD na sod, medtem ko je Brent nafta zrasla za 3.65 % na 86.60 USD na sod. Ta rast sledi opozorilom analitikov, da bi se cene goriv v ZDA, ki so prejšnji teden padle za devet centov, lahko ponovno zvišale, če se zapora ožine nadaljuje. Evropske delnice so bile mešane, medtem ko je britanski trg dela pokazal znake izboljšanja plač. John Lewis Partnership je napovedal odstop svojega direktorja Petra Ruisa, ki ga bo nadomestil Will Kernan.",
+      "analiza": "Hormuška ožina je ključna pomorska pot za globalno oskrbo z nafto, saj skozi njo potuje približno petina svetovne nafte. Vsaka negotovost ali zapora v tej regiji ima takojšen in dramatičen vpliv na cene nafte. Današnje izjave Irana, ki so zmanjšale optimizem glede hitrega ponovnega odprtja, so povzročile močno rast cen WTI in Brent nafte, kar kaže na povečano geopolitično tveganje. Višje cene nafte običajno pomenijo višje stroške za podjetja in potrošnike, kar lahko vodi v inflacijske pritiske in upočasnitev gospodarske rasti. Za delniške trge to pomeni pritisk na podjetja, ki so odvisna od nizkih cen energije, medtem ko energetska podjetja običajno pridobijo. Obvezniški donosi se lahko zvišajo zaradi inflacijskih pričakovanj, medtem ko valute držav, ki so neto uvoznice nafte, lahko oslabelijo. Slovenski dolgoročni vlagatelj mora biti pozoren na vpliv višjih cen energije na globalno gospodarstvo in morebitno preusmeritev naložb v sektorje, ki so odporni na inflacijo ali imajo koristi od nje.",
+      "vpliv": [
+        "WTI nafta +3.66 % na 81.04 USD/sod",
+        "Brent nafta +3.65 % na 86.60 USD/sod",
+        "Povečani inflacijski pritiski",
+        "Potencialno zvišanje obrestnih mer centralnih bank"
+      ],
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/live/2026/aug/10/uk-employment-market-shows-rays-of-light-for-jobseekers-with-upturn-in-pay-study-shows-business-live",
+      "objavljeno": "2026-08-10T14:06:46.000Z"
+    },
+    {
+      "naslov": "Ameriška delovna sila se je v letu dni zmanjšala za več kot milijon ljudi",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Velikost ameriške delovne sile se je v zadnjem letu zmanjšala za več kot milijon ljudi, kar je zaskrbljujoč podatek. Delež Američanov, ki delajo ali iščejo zaposlitev, ni bil tako nizek od pandemije COVID-19. Julijsko poročilo o delovnih mestih, ki je polno neprijetnih presenečenj, kaže na zmanjšanje razpoložljive delovne sile. To zmanjšanje lahko kaže na strukturne spremembe na trgu dela, vključno z demografskimi trendi, predčasnimi upokojitvami ali spremembami v preferencah glede dela.",
+      "analiza": "Zmanjšanje delovne sile za več kot milijon ljudi v enem letu je pomemben makroekonomski podatek, ki kaže na ohlajanje ali strukturne težave na ameriškem trgu dela. Manjša delovna sila lahko pomeni zmanjšano proizvodno zmogljivost gospodarstva, kar dolgoročno vpliva na gospodarsko rast in produktivnost. Kratkoročno lahko to povzroči pomanjkanje delovne sile v nekaterih sektorjih, kar bi lahko zvišalo plače in s tem inflacijske pritiske, čeprav je splošni trend zmanjšanja delovne sile deflacionaren. Centralne banke, kot je Federal Reserve, pozorno spremljajo te podatke, saj vplivajo na njihove odločitve glede obrestnih mer. Šibkejši trg dela bi lahko zmanjšal pritisk na Fed, da nadaljuje z zviševanjem obrestnih mer. Za delniške trge to lahko pomeni zmanjšanje potrošniške porabe in dobičkov podjetij, medtem ko bi obvezniški trgi lahko videli zmanjšanje donosov, če se pričakovanja glede inflacije in rasti zmanjšajo. Slovenski vlagatelj naj spremlja te trende, saj lahko vplivajo na globalno gospodarsko rast in s tem na dobičkonosnost mednarodnih naložb.",
+      "vpliv": [
+        "Zmanjšanje ameriške delovne sile za več kot 1 milijon",
+        "Najnižji delež delovno aktivnih od pandemije",
+        "Potencialno zmanjšanje potrošniške porabe",
+        "Vpliv na monetarno politiko Federal Reserve"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-size-of-the-american-workforce-has-fallen-by-over-1-million-people-in-the-past-year-heres-whats-going-on-b8141aa3?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-10T15:00:00.000Z"
+    },
+    {
+      "naslov": "Japonski jen oslabel, saj učinek intervencije ZDA in Japonske zbledi",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Japonski jen je danes oslabel in izgubil približno polovico dobičkov, ki jih je dosegel po skupni intervenciji ZDA in Japonske. Vlagatelji navajajo pomanjkanje 'enotnega glasu' med centralnimi bankami kot razlog za to oslabelost. To kaže na to, da kratkoročne intervencije na valutnih trgih morda nimajo trajnega učinka, če jih ne podpirajo usklajene dolgoročne monetarne politike. Oslabelost jena lahko vpliva na japonske izvoznike in uvoznike, pa tudi na globalne kapitalske tokove.",
+      "analiza": "Valutne intervencije, kot je bila skupna akcija ZDA in Japonske, so običajno namenjene stabilizaciji valutnega tečaja in preprečevanju prevelikih nihanj. Vendar pa je dolgoročni uspeh takšnih intervencij pogosto odvisen od usklajenosti monetarnih politik vpletenih držav in temeljnih ekonomskih dejavnikov. Oslabelost jena po začetnem dobičku kaže, da trgi niso prepričani v dolgoročno usklajenost ali pa so temeljni pritiski za depreciacijo jena še vedno močni. Šibkejši jen je običajno ugoden za japonske izvoznike, saj njihovi izdelki postanejo cenejši na mednarodnih trgih, medtem ko so uvozniki prizadeti zaradi dražjih uvoženih dobrin. Za globalne delniške trge lahko šibkejši jen pomeni povečanje dobičkov japonskih multinacionalk, kar lahko posredno vpliva na indekse. Na obvezniških trgih lahko to povzroči odliv kapitala iz japonskih obveznic, če vlagatelji iščejo višje donose drugje. Slovenski vlagatelj naj bo pozoren na valutna nihanja, saj lahko vplivajo na vrednost mednarodnih naložb in na konkurenčnost podjetij, s katerimi poslujejo slovenska podjetja.",
+      "vpliv": [
+        "Japonski jen izgubil polovico dobičkov po intervenciji",
+        "Pomanjkanje 'enotnega glasu' med centralnimi bankami",
+        "Ugodno za japonske izvoznike",
+        "Negativno za japonske uvoznike"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-10T14:01:51.000Z"
+    },
+    {
+      "naslov": "Delnice Archerja poskočile po prevzemu deleža Boeinga in poslu z letali",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Delnice podjetja Archer Aviation so močno poskočile po objavi, da Boeing prodaja tri svoje hčerinske družbe Archer Aviation v zameno za delež v tem startupu, ki razvija električna vertikalna vzletno-pristajalna letala (eVTOL). Ta strateška poteza kaže na naraščajoče zanimanje velikih letalskih podjetij za tehnologijo eVTOL in urbanega zračnega prometa. Posel bi lahko Archerju zagotovil pomembno tehnično znanje in finančno podporo, hkrati pa Boeing pozicioniral v rastočem segmentu zračne mobilnosti prihodnosti.",
+      "analiza": "Posel med Boeingom in Archer Aviation poudarja preoblikovanje letalske industrije in naraščajoč pomen tehnologije eVTOL. Boeingova naložba v Archer, v zameno za prodajo treh hčerinskih družb, je jasen signal, da tradicionalni letalski velikani iščejo inovacije in diverzifikacijo v smeri trajnostnega in urbanega zračnega prometa. To je pozitivna novica za sektor tehnologije in AI, še posebej za podjetja, ki razvijajo rešitve za prihodnost mobilnosti. Za delniške trge to pomeni povečano zanimanje za delnice podjetij v sektorju eVTOL in morebitne nadaljnje konsolidacije. Vpliv na obveznice je posreden, saj lahko povečana inovativnost in rast v določenih sektorjih izboljšata splošno gospodarsko perspektivo. Valute so manj neposredno prizadete, razen če gre za zelo velike transakcije, ki vplivajo na kapitalske tokove. Slovenski dolgoročni vlagatelj naj bo pozoren na podjetja, ki so v ospredju inovacij v sektorjih, kot so letalstvo, avtonomna vožnja in zelene tehnologije, saj lahko ponujajo dolgoročne priložnosti rasti, vendar z višjim tveganjem.",
+      "vpliv": [
+        "Delnice Archerja močno poskočile",
+        "Boeing pridobil delež v Archer Aviation",
+        "Povečano zanimanje za eVTOL tehnologijo",
+        "Strateška diverzifikacija v letalski industriji"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
+      "objavljeno": "2026-08-10T14:16:24.000Z"
+    },
+    {
+      "naslov": "Investicijska skupina Jeffa Bezosa blizu prevzema deleža v nogometnem klubu Liverpool",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Investicijska skupina, ki jo vodi Jeff Bezos, ustanovitelj Amazona, se približuje dogovoru o nakupu približno 30-odstotnega deleža v nogometnem klubu Liverpool. Konzorcij, ki ga vodi zet jeklarskega milijarderja Lakshmija Mittala, se približuje poslu, ki bi lahko vrednotil klub na več kot 6 milijard dolarjev. Ta poteza poudarja naraščajoče zanimanje bogatih posameznikov in investicijskih skupin za športne franšize kot privlačne naložbene priložnosti z visoko rastjo in globalno prepoznavnostjo blagovne znamke.",
+      "analiza": "Naložbe v športne franšize so v zadnjih letih postale izjemno privlačne za premožne posameznike in institucionalne vlagatelje. Nogometni klubi, še posebej tisti z globalno bazo navijačev, kot je Liverpool, predstavljajo ne le športno institucijo, temveč tudi globalno blagovno znamko z ogromnim potencialom za prihodke od televizijskih pravic, sponzorstev, prodaje blaga in digitalnih platform. Vrednotenje kluba na več kot 6 milijard dolarjev kaže na izjemno rast vrednosti športnih sredstev. Za finančne trge to pomeni nadaljevanje trenda, kjer se športna industrija vse bolj obravnava kot legitimna naložbena kategorija. To lahko spodbudi nadaljnje naložbe v športne medije, tehnologijo in infrastrukturo. Vpliv na širše delniške trge je posreden, vendar kaže na močno likvidnost in razpoložljivost kapitala za velike naložbe. Slovenski dolgoročni vlagatelj, ki razmišlja o diverzifikaciji, lahko opazuje razvoj v sektorju športa in zabave, vendar naj bo pozoren na specifična tveganja, povezana z volatiliteto športnih rezultatov in regulativnimi okviri.",
+      "vpliv": [
+        "Jeff Bezos blizu nakupa 30 % deleža v Liverpoolu",
+        "Vrednost kluba ocenjena na več kot 6 milijard USD",
+        "Naraščajoče zanimanje za športne franšize",
+        "Potencial za rast prihodkov od medijskih pravic in sponzorstev"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/49103d68-85be-4af6-9dfd-90d66dc78f38?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-10T14:29:57.000Z"
+    },
+    {
+      "naslov": "Ameriško ministrstvo za zdravje zaostruje nadzor nad sestavinami hrane in ultra-predelano hrano",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Ameriško ministrstvo za zdravje in socialne storitve (HHS) je napovedalo zaostrovanje nadzora nad sestavinami hrane in si prizadeva definirati ultra-predelano hrano. Ta poteza prihaja v času naraščajočih pomislekov glede varnosti hrane in vprašanj o preglednosti Uprave za hrano in zdravila (FDA). Cilj je izboljšati varnost potrošnikov in zagotoviti večjo transparentnost glede sestave živil, kar bi lahko imelo pomembne posledice za živilsko industrijo in potrošniške navade.",
+      "analiza": "Povečan regulativni nadzor nad živilsko industrijo s strani HHS je pomemben razvoj, ki lahko korenito spremeni način proizvodnje in trženja hrane v ZDA. Naraščajoči pomisleki glede varnosti hrane in vpliva ultra-predelane hrane na zdravje potrošnikov so privedli do te odločitve. Za živilsko industrijo to pomeni potencialno povečanje stroškov raziskav in razvoja za reformulacijo izdelkov, strožje postopke odobritve in morebitne omejitve pri uporabi določenih sestavin. Podjetja, ki se hitro prilagodijo novim standardom, bodo imela konkurenčno prednost. Na delniških trgih lahko to povzroči pritisk na delnice živilskih podjetij, ki so močno odvisna od ultra-predelane hrane, medtem ko bi lahko podjetja, ki se osredotočajo na zdravo in naravno hrano, pridobila. Vpliv na obveznice in valute je posreden, saj gre za sektorsko regulacijo. Slovenski dolgoročni vlagatelj naj bo pozoren na globalne trende v regulaciji hrane in pijač, saj se podobni pritiski za izboljšanje zdravja in varnosti pojavljajo tudi v Evropi, kar lahko vpliva na naložbe v tem sektorju.",
+      "vpliv": [
+        "Zaostren nadzor nad sestavinami hrane v ZDA",
+        "Definicija ultra-predelane hrane",
+        "Potencialno povečanje stroškov za živilsko industrijo",
+        "Vpliv na delnice živilskih podjetij"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
+      "objavljeno": "2026-08-10T15:03:24.000Z"
+    }
+  ],
   "trgi": {
-    "posodobljenoOb": "2026-08-10T05:43:06.942Z",
+    "posodobljenoOb": "2026-08-10T16:23:39.969Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7757.64,
-        "sprememba_pct": 0.62
+        "vrednost": 7759.88,
+        "sprememba_pct": 0.03
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29722.303,
-        "sprememba_pct": 1.19
+        "vrednost": 29719.777,
+        "sprememba_pct": -0.01
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 26319.45,
-        "sprememba_pct": 0.69
+        "vrednost": 26323.88,
+        "sprememba_pct": 0.02
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 66910.21,
-        "sprememba_pct": 1.99
+        "vrednost": 66970.22,
+        "sprememba_pct": 2.08
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4396.7,
-        "sprememba_pct": -0.07,
+        "vrednost": 4421.1,
+        "sprememba_pct": 0.49,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 78.4,
-        "sprememba_pct": 0.28,
+        "vrednost": 81.04,
+        "sprememba_pct": 3.66,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 83.9,
-        "sprememba_pct": 0.42,
+        "vrednost": 86.6,
+        "sprememba_pct": 3.65,
         "enota": "USD/sod"
       }
     ],
@@ -61,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1555,
-        "sprememba_pct": -0.06
+        "vrednost": 1.1553,
+        "sprememba_pct": -0.08
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.66,
-        "sprememba_pct": -0.21,
+        "vrednost": 4.69,
+        "sprememba_pct": 0.64,
         "enota": "%"
       }
     ],
@@ -78,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 65020.36,
-        "sprememba_pct": 0.26,
+        "vrednost": 63963.48,
+        "sprememba_pct": -1.37,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 14.9,
-      "sprememba_pct": -1.65
+      "vrednost": 15.12,
+      "sprememba_pct": 1.48
     }
   }
 }
