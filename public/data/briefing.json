@@ -1,104 +1,13 @@
 {
-  "generiranoOb": "2026-08-09T16:18:52.530Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-08-10T05:43:46.415Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-08-09",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, medtem ko so ameriški indeksi nadaljevali rast. Nemški DAX je dan zaprl z rastjo +0.69 % pri 26319 točkah. V ZDA, kjer so trgi odprti že dve uri, S&P 500 beleži rast +0.62 % na 7758 točk, tehnološko usmerjen Nasdaq 100 pa je poskočil za +1.19 % na 29722 točk. Geopolitične napetosti na Bližnjem vzhodu, zlasti glede Irana in Gaze, še naprej vplivajo na cene surovin, saj sta WTI nafta in Brent nafta zrasli za +1.15 % na 78.18 USD/sod oziroma +1.29 % na 83.55 USD/sod, zlato pa je pridobilo +2.33 % na 4399.70 USD/oz. Hkrati pa poročila kažejo na močno rast prodaje v indeksu S&P 500, ki je na skoraj petletnem vrhu, kar kaže na robustnost določenih sektorjev ameriškega gospodarstva, medtem ko se število delnic, ki presegajo S&P 500, povečuje. Vlagatelji bodo ta teden pozorno spremljali objave o inflaciji v ZDA, ki bi lahko vplivale na prihodnje odločitve centralnih bank.",
-  "novice": [
-    {
-      "naslov": "Iran grozi z omejitvijo Hormuške ožine, napetosti se stopnjujejo",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Iran je danes sporočil, da bo Hormuška ožina ostala omejena, razen če ZDA ne izpolnijo vrste zahtev. Ta izjava prihaja v 29. dnevu druge faze 'Vojne na Iran', kar kaže na stopnjevanje konflikta. Omejitev ožine, ključne pomorske poti za transport nafte, bi imela globalne posledice. Iran s to grožnjo poskuša pridobiti pogajalsko prednost in pritisniti na ZDA. Dogajanje se odvija v luči širših geopolitičnih napetosti na Bližnjem vzhodu.",
-      "analiza": "Hormuška ožina je strateško izjemno pomembna, saj skozi njo poteka približno petina svetovne nafte. Vsaka omejitev ali motnja v pretoku nafte skozi to ožino ima takojšen in dramatičen vpliv na globalne cene energentov. V preteklosti so podobne grožnje že povzročile skoke cen nafte. Trenutno sta ceni WTI nafte pri 78.18 USD/sod (+1.15 %) in Brent nafte pri 83.55 USD/sod (+1.29 %), kar že odraža zaskrbljenost trgov. Nadaljnje stopnjevanje konflikta in morebitna blokada ožine bi lahko cene nafte potisnila še višje, kar bi povečalo inflacijske pritiske po svetu. To bi posledično vplivalo na delniške trge, saj bi višji stroški energije zmanjšali dobičke podjetij in kupno moč potrošnikov. Vlagatelji bi se lahko umaknili v varnejša zatočišča, kot je zlato, ki je danes že zraslo za +2.33 % na 4399.70 USD/oz. Za slovenskega dolgoročnega vlagatelja to pomeni povečano volatilnost na trgih, zlasti pri delnicah podjetij, odvisnih od energentov, in potencialno višje cene goriva.",
-      "vpliv": [
-        "Rast cen nafte (WTI +1.15 %, Brent +1.29 %)",
-        "Rast cene zlata (+2.33 %)",
-        "Povečana inflacija",
-        "Padec delniških trgov",
-        "Povečana geopolitična tveganja"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss",
-      "objavljeno": "2026-08-09T15:46:09.000Z"
-    },
-    {
-      "naslov": "Pentagon poziva k hitrejši proizvodnji orožja zaradi skrbi glede zalog",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Pentagon je pozval ameriško obrambno industrijo k hitrejši proizvodnji orožja, saj se pojavljajo skrbi glede pomanjkanja zalog. Ta poziv je neposredna posledica naraščajočih napetosti na Bližnjem vzhodu in splošnih varnostnih pomislekov. Ameriška obrambna industrija je pod pritiskom, da poveča proizvodnjo streliva in druge vojaške opreme. To kaže na povečano povpraševanje po obrambnih izdelkih in storitvah, kar je neposredna ekonomska posledica geopolitičnih dogajanj.",
-      "analiza": "Poziv Pentagona k povečani proizvodnji orožja je pomemben signal za obrambno industrijo in širše gospodarstvo. Povečano povpraševanje po orožju in strelivu pomeni potencialno rast prihodkov in dobičkov za podjetja v obrambnem sektorju. To lahko privede do rasti delnic teh podjetij, kar je v nasprotju s splošnim negativnim vplivom geopolitičnih napetosti na širše trge. Po drugi strani pa ta novica poudarja tudi stopnjevanje globalnih varnostnih tveganj, kar lahko vpliva na zaupanje potrošnikov in podjetij, s tem pa na gospodarsko rast. Povečana poraba za obrambo lahko preusmeri sredstva iz drugih sektorjev gospodarstva. Za slovenskega dolgoročnega vlagatelja to pomeni, da bi lahko obrambni sektor postal bolj privlačen, vendar je treba upoštevati etične in dolgoročne posledice vlaganja v to industrijo. Hkrati pa splošna negotovost, ki jo povzroča povečana oborožitev, lahko vpliva na stabilnost globalnih trgov.",
-      "vpliv": [
-        "Potencialna rast delnic obrambnih podjetij",
-        "Povečana poraba za obrambo",
-        "Signal o stopnjevanju globalnih varnostnih tveganj",
-        "Preusmeritev sredstev v obrambni sektor",
-        "Mešan vpliv na širše gospodarstvo"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss",
-      "objavljeno": "2026-08-09T15:38:56.000Z"
-    },
-    {
-      "naslov": "Rast prodaje S&P 500 na skoraj petletnem vrhu, energetika vodilna",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Rast prodaje podjetij v indeksu S&P 500 je dosegla skoraj petletni vrh, kar je pomemben pokazatelj robustnosti ameriškega gospodarstva. Za to rast so v drugem četrtletju v veliki meri zaslužna energetska podjetja, ki so zabeležila 42.5-odstotno povečanje prihodkov. Ta podatek kaže, da kljub nekaterim makroekonomskim izzivom določeni sektorji še naprej dosegajo močne rezultate. Visoke cene nafte, kot sta WTI pri 78.18 USD/sod in Brent pri 83.55 USD/sod, so verjetno prispevale k izjemnim rezultatom energetskega sektorja.",
-      "analiza": "Močna rast prodaje v indeksu S&P 500, ki je na skoraj petletnem vrhu, je pozitiven signal za delniške trge in širše gospodarstvo. To kaže na zdravo povpraševanje in sposobnost podjetij, da ustvarjajo prihodke. Posebej impresivna 42.5-odstotna rast prihodkov v energetskem sektorju poudarja vpliv visokih cen surovin in geopolitičnih dogajanj na dobičkonosnost teh podjetij. Medtem ko je S&P 500 danes zrasel za +0.62 % na 7758 točk, ta novica potrjuje, da so temelji za rast prisotni, čeprav je rast koncentrirana v določenih sektorjih. To lahko pomeni, da bodo vlagatelji še naprej iskali priložnosti v sektorjih, ki so odporni na inflacijo ali imajo koristi od trenutnih tržnih razmer. Za obveznice in valute je to lahko mešan signal; močna gospodarska rast lahko podpira višje obrestne mere, vendar tudi poveča privlačnost delnic. Slovenski dolgoročni vlagatelj bi moral preučiti diverzifikacijo portfelja in morebitno izpostavljenost do energetskega sektorja, vendar vedno z upoštevanjem dolgoročnih trendov in tveganj.",
-      "vpliv": [
-        "Pozitiven signal za delniške trge",
-        "Močna rast prihodkov v energetskem sektorju (+42.5 %)",
-        "Podpora za S&P 500 (+0.62 %)",
-        "Povečana privlačnost določenih sektorjev",
-        "Mešan vpliv na obveznice in valute"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-09T14:00:00.000Z"
-    },
-    {
-      "naslov": "Več delnic prekaša S&P 500, kar kaže na širšo rast",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Število delnic, ki prekašajo indeks S&P 500, je najvišje v zadnjih štirih letih. To pomeni, da povprečna delnica prvič po štirih letih prekaša širši trg. Ta trend nakazuje, da rast trga ni več omejena le na peščico velikih tehnoloških podjetij, temveč se širi na širši spekter podjetij. To je pomemben pokazatelj zdravja trga in lahko nakazuje na bolj trajnostno rast v prihodnosti.",
-      "analiza": "Ko rast trga poganja le nekaj velikih podjetij, je trg pogosto ranljiv. Dejstvo, da širše število delnic prekaša S&P 500, je znak 'širjenja' trga, kar je običajno videno kot zdrav in trajnosten trend. To pomeni, da je tržna rast bolj razpršena in manj odvisna od uspešnosti posameznih gigantov. Takšno okolje lahko zmanjša tveganje koncentracije in ponudi več priložnosti za vlagatelje, ki iščejo vrednost zunaj največjih podjetij. Medtem ko je S&P 500 danes zrasel za +0.62 % na 7758 točk, ta novica nakazuje, da bi se ta rast lahko nadaljevala in postala bolj vključujoča. To bi lahko imelo pozitiven vpliv na obveznice, saj širša gospodarska rast zmanjšuje tveganje neplačil, in na valute, saj močno gospodarstvo privablja tuje investicije. Za slovenskega dolgoročnega vlagatelja ta trend pomeni, da se možnosti za donosnost širijo tudi na manjša in srednje velika podjetja, kar omogoča bolj diverzificiran pristop k vlaganju in potencialno bolj stabilne dolgoročne donose.",
-      "vpliv": [
-        "Širša in bolj zdrava tržna rast",
-        "Zmanjšano tveganje koncentracije",
-        "Več priložnosti za vlagatelje",
-        "Potencialno bolj trajnostna rast delniških trgov",
-        "Pozitiven vpliv na zaupanje vlagateljev"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-09T13:00:00.000Z"
-    },
-    {
-      "naslov": "Ruski napadi v Odesi ogrožajo globalno prehransko varnost",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Ruske sile so izvedle 'brutalen' napad v Odesi, pri čemer je bilo ubitih več ljudi. Ukrajinski predsednik Volodimir Zelenski je obtožil Moskvo, da s temi napadi na pristanišče v Odesi škoduje globalni prehranski varnosti. Odesa je ključno pristanišče za izvoz žita iz Ukrajine, ki je eden največjih svetovnih dobaviteljev. Napadi na to infrastrukturo imajo neposredne posledice za svetovne dobavne verige hrane in cene živil.",
-      "analiza": "Napadi na pristanišče v Odesi imajo resne posledice za globalno prehransko varnost, saj Ukrajina predstavlja pomemben del svetovnega izvoza žita. Motnje v izvozu žita lahko povzročijo pomanjkanje in dvig cen hrane po vsem svetu, kar povečuje inflacijske pritiske in socialne nemire, zlasti v državah v razvoju. To vpliva na makroekonomsko stabilnost in lahko prispeva k višjim obrestnim meram, saj centralne banke poskušajo zajeziti inflacijo. Na delniških trgih lahko to negativno vpliva na podjetja, odvisna od stabilnih cen surovin, in na potrošniški sektor zaradi zmanjšane kupne moči. Hkrati pa lahko podjetja v kmetijskem sektorju, ki niso neposredno prizadeta, doživijo rast zaradi višjih cen. Geopolitična tveganja, povezana z vojno v Ukrajini, še naprej ostajajo visoka, kar se odraža tudi na trgih surovin, kot je nafta. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti pozoren na globalne dobavne verige in inflacijske pritiske, ki lahko vplivajo na donosnost naložb v različnih sektorjih.",
-      "vpliv": [
-        "Povečana globalna prehranska negotovost",
-        "Potencialen dvig cen živil",
-        "Povečani inflacijski pritiski",
-        "Negativen vpliv na potrošniški sektor",
-        "Povečana geopolitična tveganja"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
-      "objavljeno": "2026-08-09T10:55:06.000Z"
-    }
-  ],
+  "datum": "2026-08-10",
+  "povzetek": "Jutranji pregled finančnih trgov kaže na rast indeksov, saj je S&P 500 zaključil pri 7758 (+0.62 %), Nasdaq 100 pri 29722 (+1.19 %), medtem ko je DAX dosegel 26319 (+0.69 %). Azijski trgi so prav tako sledili pozitivnemu trendu, Nikkei 225 je zrasel na 66910 (+1.99 %). Kljub optimizmu na borzah, geopolitične napetosti ostajajo v ospredju, saj iranske zahteve glede Hormuške ožine povzročajo rast cen nafte, kjer se Brent nafta giblje pri 83.90 USD/sod (+0.42 %). Ameriška administracija pod Trumpom signalizira prehod na ekonomski pritisk na Iran, kar bi lahko dolgoročno vplivalo na stabilnost cen energentov. V tehnološkem sektorju se razkrivajo razlike med obljubami o AI in dejansko obremenitvijo zaposlenih, medtem ko Kitajska odpira novo arktično trgovsko pot, kar spreminja globalne logistične tokove. Vlagatelji bodo ta teden pozorno spremljali prihajajoče podatke o inflaciji v ZDA, ki lahko pomembno vplivajo na pričakovanja glede monetarne politike.",
+  "novice": [],
   "trgi": {
-    "posodobljenoOb": "2026-08-09T16:17:56.708Z",
+    "posodobljenoOb": "2026-08-10T05:43:06.942Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -121,30 +30,30 @@
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 65606.71,
-        "sprememba_pct": -0.12
+        "vrednost": 66910.21,
+        "sprememba_pct": 1.99
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4399.7,
-        "sprememba_pct": 2.33,
+        "vrednost": 4396.7,
+        "sprememba_pct": -0.07,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 78.18,
-        "sprememba_pct": 1.15,
+        "vrednost": 78.4,
+        "sprememba_pct": 0.28,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 83.55,
-        "sprememba_pct": 1.29,
+        "vrednost": 83.9,
+        "sprememba_pct": 0.42,
         "enota": "USD/sod"
       }
     ],
@@ -152,8 +61,8 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1562,
-        "sprememba_pct": 0.32
+        "vrednost": 1.1555,
+        "sprememba_pct": -0.06
       }
     ],
     "obveznice": [
@@ -169,8 +78,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 65197.52,
-        "sprememba_pct": 0.45,
+        "vrednost": 65020.36,
+        "sprememba_pct": 0.26,
         "enota": "USD"
       }
     ],
