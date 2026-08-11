@@ -1,134 +1,134 @@
 {
-  "generiranoOb": "2026-08-11T05:28:51.274Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-08-11T16:25:22.814Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-08-11",
-  "povzetek": "Jutranja izdaja 11. avgusta 2026 prinaša mešane signale z globalnih trgov. Ameriški indeksi so noč zaključili v rahlem padcu, kjer je S&P 500 dosegel 7753 točk (-0,06 %), Nasdaq 100 pa 29622 točk (-0,34 %). Evropski DAX je medtem zabeležil minimalno rast na 26324 točk (+0,02 %), medtem ko so azijski trgi pokazali močno rast, zlasti Nikkei 225, ki je poskočil na 66970 točk (+2,08 %). Cene nafte so se zvišale, saj je WTI nafta pri 82,38 USD/sod (+0,30 %), Brent pa pri 87,95 USD/sod (+0,26 %), kar je delno posledica napada z droni na libijsko rafinerijo Zawiya in nadaljevanja napetosti med ZDA in Iranom glede ožine Hormuz. V tehnološkem sektorju je Nvidia objavila partnerstvo za financiranje 500 milijard dolarjev za AI infrastrukturo, medtem ko je medijska družba nekdanjega predsednika Trumpa poročala o 238 milijonov dolarjev izgube. Vlagatelji bodo ta teden pozorno spremljali objavo ključnih inflacijskih podatkov iz ZDA, ki lahko vplivajo na pričakovanja glede monetarne politike. ",
+  "povzetek": "Evropski trgi so danes zaključili s pozitivnim predznakom, medtem ko ameriški indeksi po dveh urah trgovanja kažejo rahlo negativno smer. Nemški DAX je dan zaključil z rastjo +0.26 % pri 26391 točkah, medtem ko sta S&P 500 in Nasdaq 100 zabeležila padec za -0.16 % na 7741 oziroma -0.29 % na 29536 točk. Cene nafte so se zvišale, saj je WTI nafta poskočila za +1.18 % na 83.10 USD/sod, Brent nafta pa za +1.05 % na 88.64 USD/sod, kar je bilo delno povezano z geopolitičnimi napetostmi in novimi zahtevami ZDA do Irana. Zlato je prav tako pridobilo na vrednosti (+0.44 % na 4439.00 USD/oz), kar kaže na iskanje varnejših naložb. Donosnost 10-letne ameriške obveznice se je znižala za -0.32 % na 4.68 %, medtem ko je Bitcoin izgubil -0.55 % in se giblje pri 63562 USD. Vlagatelji so pozorni na prihajajoče poročilo o julijski inflaciji v ZDA, ki bo ključno za odločitve Federal Reserve glede obrestnih mer.",
   "novice": [
     {
-      "naslov": "Napad z droni na libijsko rafinerijo Zawiya povzročil obsežen požar",
+      "naslov": "Cene nafte rastejo ob geopolitičnih napetostih in zahtevah ZDA do Irana",
       "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "V Libiji je izbruhnil obsežen požar v rafineriji Zawiya, največji delujoči rafineriji v državi, po napadu z droni. Nacionalna naftna družba je opozorila, da bi lahko prekinila delovanje, če se napadi z droni nadaljujejo. Incident se je zgodil 11. avgusta 2026, kar je povzročilo zaskrbljenost glede stabilnosti dobave nafte iz regije. Rafinerija Zawiya je ključnega pomena za libijsko proizvodnjo in izvoz nafte, saj predeluje velike količine surove nafte. Ta dogodek poudarja ranljivost energetske infrastrukture v regijah, ki jih pestijo konflikti. Požar je zajel bencin, kar kaže na resnost napada in potencialne dolgoročne posledice za obratovanje rafinerije.",
-      "analiza": "Napad z droni na libijsko rafinerijo Zawiya predstavlja pomemben geopolitični in energetski dogodek. Libija, članica OPEC+, je že dolgo vir nestabilnosti na svetovnem naftnem trgu zaradi notranjih konfliktov. Ta napad poudarja naraščajoča tveganja za dobavne verige nafte v regiji, ki je ključna za globalno oskrbo. Posledično so se cene nafte že odzvale z rastjo; WTI nafta je pri 82,38 USD/sod (+0,30 %), Brent pa pri 87,95 USD/sod (+0,26 %). Takšni dogodki običajno povzročijo povečano premijo za tveganje na trgu nafte, saj se vlagatelji bojijo morebitnih prekinitev dobave. Za delnice energetskih podjetij, zlasti tistih, ki so aktivna v regiji ali imajo koristi od višjih cen nafte, bi to lahko pomenilo kratkoročno podporo, medtem ko bi za podjetja, odvisna od nizkih cen energije, to lahko predstavljalo stroškovni pritisk. Obvezniški trgi bi lahko zaznali povečano povpraševanje po varnih naložbah, če bi se geopolitične napetosti stopnjevale. Slovenski dolgoročni vlagatelj naj bo pozoren na morebitno volatilnost cen energentov in njen vpliv na inflacijo ter dobičkonosnost podjetij v različnih sektorjih. Spremljati je treba nadaljnji razvoj dogodkov v Libiji in širši regiji, saj bi morebitni nadaljnji napadi lahko imeli še večji vpliv na globalne cene nafte.",
-      "vpliv": [
-        "Rast cen nafte (WTI, Brent)",
-        "Povečana premija za tveganje na energetskih trgih",
-        "Potencialna prekinitev dobave nafte iz Libije",
-        "Povečana volatilnost na trgih surovin"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss",
-      "objavljeno": "2026-08-11T04:37:27.000Z"
-    },
-    {
-      "naslov": "Nvidia in Wall Street financirata 500 milijard dolarjev za AI infrastrukturo",
-      "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "Nvidia je v ponedeljek pozno zvečer objavila partnerstvo s sedmimi finančnimi institucijami z Wall Streeta. Cilj partnerstva je zbrati več kot 500 milijard dolarjev tretjega kapitala za financiranje izgradnje infrastrukture umetne inteligence (AI). Ta poteza poudarja izjemno povpraševanje po AI tehnologijah in potrebo po obsežnih naložbah v strojno opremo in podatkovne centre. Nvidia, kot vodilni proizvajalec AI čipov, je v središču te digitalne transformacije. Partnerstvo kaže na močno zaupanje finančnega sektorja v dolgoročni potencial AI in pripravljenost za financiranje ambicioznih projektov. Pričakuje se, da bo ta investicija pospešila razvoj in implementacijo AI rešitev po vsem svetu.",
-      "analiza": "Partnerstvo Nvidie z Wall Streetom za financiranje 500 milijard dolarjev v AI infrastrukturo je ključen dogodek, ki poudarja obseg in pomen investicij v umetno inteligenco. To ni le novica o Nvidii, temveč o celotnem ekosistemu AI, ki zahteva ogromne kapitalske vložke za razvoj in implementacijo. Takšna obsežna finančna injekcija bo verjetno pospešila inovacije in rast v sektorju AI, kar bo imelo pozitivne posledice za podjetja, ki razvijajo AI rešitve, proizvajalce čipov in ponudnike podatkovnih centrov. Za delnice tehnoloških podjetij, še posebej tistih, ki so vključena v AI verigo vrednosti, to pomeni nadaljnjo podporo in potencial za rast. Indeksi, kot je Nasdaq 100, ki je sicer danes zabeležil rahel padec (-0,34 %), bi lahko dolgoročno imeli koristi od takšnih naložb. Povečano povpraševanje po specializiranih čipih in storitvah bo vplivalo na celotno industrijo. Slovenski dolgoročni vlagatelj naj razmisli o diverzifikaciji v sektorje, ki so izpostavljeni rasti AI, vendar naj bo pozoren na morebitne precenjenosti in tveganja, povezana z visoko rastnimi tehnološkimi delnicami. Ta poteza potrjuje, da je AI eden najpomembnejših makro trendov desetletja.",
+      "povzetek": "Cene nafte so danes poskočile, pri čemer je Brent nafta presegla 90 dolarjev za sod, kar je najvišja raven po 31. juliju, preden se je nekoliko umirila na 88.64 USD/sod. Rast je bila sprožena po napadu jemenske skupine Hutijev na tovorno ladjo v ožini Bab el-Mandeb, ki je zahteval tri življenja. Dodatno so napetosti povečale nove zahteve ameriškega predsednika Trumpa do Irana po odškodnini za škodo, ki so jo utrpele ZDA, kar zapleta že tako občutljivo situacijo s Teheranom. Zlato je prav tako doseglo dvomesečni vrh pri 4439.00 USD/oz, kar odraža povečano negotovost na trgih.",
+      "analiza": "Geopolitične napetosti na Bližnjem vzhodu imajo neposreden in močan vpliv na cene nafte in zlata. Napad v ožini Bab el-Mandeb, ključni pomorski poti za transport nafte, takoj sproži strahove glede motenj v dobavi in s tem dvigne cene. Zahteve ZDA do Irana dodatno zaostrujejo odnose med državama, kar lahko vodi v nadaljnje eskalacije in nestabilnost v regiji, ki je ključna za svetovno proizvodnjo nafte. V preteklosti so podobni dogodki, kot so napadi na tankerje ali zaostrovanje sankcij, vedno povzročili skoke cen nafte. Višje cene nafte lahko povečajo inflacijske pritiske, kar vpliva na centralne banke in njihove odločitve glede obrestnih mer, kar posledično vpliva na obvezniške trge in valute. Zlato, ki velja za varno zatočišče v časih negotovosti, se je odzvalo z rastjo, saj vlagatelji iščejo zaščito pred tveganji. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitične dogodke, saj lahko imajo daljnosežne posledice na cene energentov in širšo ekonomijo, kar vpliva na stroške poslovanja podjetij in kupno moč potrošnikov.",
       "vpliv": [
-        "Povečane investicije v AI infrastrukturo",
-        "Potencialna rast delnic tehnoloških podjetij, povezanih z AI",
-        "Povečano povpraševanje po AI čipih in storitvah",
-        "Dolgotrajna podpora za tehnološke indekse"
+        "Brent nafta +1.05 % na 88.64 USD/sod",
+        "WTI nafta +1.18 % na 83.10 USD/sod",
+        "Zlato +0.44 % na 4439.00 USD/oz",
+        "Povečana inflacijska tveganja"
+      ],
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/live/2026/aug/11/oil-prices-rise-gold-hits-two-month-high-trump-makes-new-deal-demands-iran-live-updates",
+      "objavljeno": "2026-08-11T14:11:51.000Z"
+    },
+    {
+      "naslov": "Vprašanje inflacije: Ali se upočasnjuje? Odločitev Feda odvisna od julijskega poročila",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Vlagatelji in analitiki so osredotočeni na prihajajoče julijsko poročilo o cenah v ZDA, ki bo ključno za določitev smeri monetarne politike Federal Reserve. Presenetljiv padec števila delovnih mest prejšnji mesec ni bil dovolj, da bi Fed odvrnil od morebitnega skorajšnjega dviga obrestnih mer. Vendar pa bi umirjeno poročilo o inflaciji, že drugi mesec zapored, lahko spremenilo to dinamiko in vplivalo na odločitev centralne banke. Medtem Wall Street razmišlja, da je inflacija pod nadzorom, vendar nekateri analitiki opozarjajo, da visoki državni dolg ZDA zahteva inflacijo za izhod iz dolžniške krize.",
+      "analiza": "Inflacija ostaja ključna ekonomska tema, ki določa smer monetarne politike centralnih bank, predvsem Federal Reserve. Poročilo o julijski inflaciji bo imelo neposreden vpliv na pričakovanja glede dvigov obrestnih mer. Če bo inflacija še naprej visoka, bo Fed verjetno nadaljeval z zaostrovanjem monetarne politike, kar bi pomenilo višje obrestne mere. To bi lahko negativno vplivalo na delniške trge, saj višje obrestne mere povečujejo stroške zadolževanja za podjetja in zmanjšujejo privlačnost tveganih naložb. Hkrati pa bi višje obrestne mere lahko okrepile ameriški dolar (EUR/USD je danes pri 1.1543 z -0.03 % padcem), saj bi bil donos na dolarne naložbe privlačnejši. Na obvezniških trgih bi se donosnosti verjetno zvišale, saj bi vlagatelji zahtevali višje donose za kompenzacijo inflacije in višjih obrestnih mer (10Y US Treasury je danes pri 4.68 %). Za slovenskega dolgoročnega vlagatelja je razumevanje inflacijskih trendov in odzivov centralnih bank ključno za ocenjevanje tveganj in priložnosti na globalnih trgih, saj vplivajo na vrednost naložb in kupno moč denarja.",
+      "vpliv": [
+        "Možni dvigi obrestnih mer s strani Federal Reserve",
+        "Vpliv na donosnosti obveznic (10Y US Treasury 4.68 %)",
+        "Vpliv na vrednost ameriškega dolarja (EUR/USD 1.1543)",
+        "Negativni pritisk na delniške trge"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/nvidia-teams-with-wall-street-firms-to-help-finance-500-billion-for-ai-infrastructure-2c4805a5?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-11T02:28:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/is-inflation-really-slowing-fed-rate-hike-hinges-on-july-price-report-9d3c3a73?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-11T14:49:00.000Z"
     },
     {
-      "naslov": "Trump zahteva odškodnino od Irana med pogovori o Hormuški ožini",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Ameriški predsednik Donald Trump je zahteval odškodnino od Irana za '50 let' domnevne škode, medtem ko se nadaljujejo pogovori o odprtju Hormuške ožine. Iran je odprtje ožine pogojeval z vojnim reparacijami. Ta zahteva prihaja v času, ko se ZDA soočajo s pomanjkanjem orožja, kar je razkrila vojna v Iranu. Pogovori so del širših prizadevanj za rešitev dolgotrajnih napetosti med državama. Hormuška ožina je ključna pomorska pot za globalni transport nafte, zato ima vsaka eskalacija v regiji daljnosežne posledice za svetovne energetske trge. Trumpova zahteva dodatno zaostruje že tako napete odnose.",
-      "analiza": "Zahteva predsednika Trumpa po odškodnini od Irana in iranski pogoji za odprtje Hormuške ožine predstavljajo pomembno geopolitično tveganje. Hormuška ožina je strateška točka, skozi katero poteka približno petina svetovne nafte, zato ima vsaka grožnja z zaprtjem ali omejitvijo prometa takojšen vpliv na cene nafte. V preteklosti so podobne napetosti že povzročile skoke cen nafte, saj trgi reagirajo na negotovost dobave. Trenutno sta ceni WTI nafte pri 82,38 USD/sod in Brent nafte pri 87,95 USD/sod, kar kaže na že prisotno geopolitično premijo. Nadaljnje zaostrovanje bi lahko povzročilo še višje cene, kar bi vplivalo na inflacijo in stroške poslovanja podjetij po vsem svetu. Za delnice podjetij, odvisnih od transporta ali visokih cen energije, bi to bil negativen signal, medtem ko bi imela energetska podjetja potencialno korist. Obvezniški donosi, kot je 10-letna ameriška zakladnica pri 4,70 % (+0,84 %), bi se lahko zvišali zaradi inflacijskih pričakovanj ali pa bi se znižali zaradi povpraševanja po varnih naložbah v primeru širše krize. Slovenski dolgoročni vlagatelj naj bo pozoren na razvoj dogodkov v Perzijskem zalivu, saj imajo ti dogodki velik vpliv na globalno gospodarstvo in finančne trge.",
-      "vpliv": [
-        "Potencialna rast cen nafte",
-        "Povečana geopolitična tveganja",
-        "Vpliv na inflacijska pričakovanja",
-        "Povečana volatilnost na trgih surovin"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss",
-      "objavljeno": "2026-08-11T02:32:47.000Z"
-    },
-    {
-      "naslov": "Grožnja umetne inteligence indijskemu sektorju IT in delovnim mestom",
+      "naslov": "Target imenuje prvega direktorja za umetno inteligenco, trgovci stavijo na AI",
       "sektor": "Tehnologija & AI",
-      "smer": "negativno",
+      "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Indija, država, ki je močno stavila na storitve informacijske tehnologije (IT), se zdaj sooča z grožnjo, ki jo predstavlja umetna inteligenca (AI). Članek v Financial Timesu opozarja, da prihaja do motenj v sektorju, ki je bil dolga leta gonilna sila indijskega gospodarstva in zaposlovanja. Avtomatizacija in napredne AI rešitve imajo potencial, da zmanjšajo potrebo po človeškem delu v nekaterih rutinskih IT nalogah. To bi lahko imelo resne posledice za milijone delovnih mest v Indiji in postavilo pod vprašaj dolgoročno strategijo države na področju tehnoloških storitev. Indija bo morala prilagoditi svojo delovno silo in izobraževalni sistem, da se bo spopadla s to tehnološko spremembo.",
-      "analiza": "Članek o grožnji umetne inteligence indijskemu IT sektorju poudarja širši makroekonomski trend, ki ga prinaša AI – avtomatizacijo in potencialno izgubo delovnih mest v določenih sektorjih. Indija je globalno središče za IT storitve in outsourcing, zato bi imel vpliv AI na njeno delovno silo daljnosežne posledice. To ni le indijski problem, ampak globalni izziv, ki vpliva na trge dela po vsem svetu. Za delnice podjetij, ki so močno odvisna od nizkocenovne delovne sile v IT sektorju, bi to lahko pomenilo pritisk na poslovne modele in dobičkonosnost, saj se bodo morala prilagoditi ali investirati v AI rešitve. Po drugi strani pa bi podjetja, ki razvijajo AI orodja za avtomatizacijo, lahko imela koristi. Na makro ravni bi lahko prišlo do povečanja brezposelnosti v nekaterih segmentih in potrebe po vladnih programih za prekvalifikacijo. To bi lahko vplivalo na potrošnjo in gospodarsko rast v Indiji. Slovenski dolgoročni vlagatelj naj razume, da AI ni le priložnost za rast, ampak tudi vir strukturnih sprememb na trgu dela, ki lahko vplivajo na globalne dobavne verige in poslovne modele podjetij, v katera vlaga. Pomembno je spremljati, kako se bodo države in podjetja prilagajala tem izzivom.",
+      "povzetek": "Maloprodajni velikan Target je danes objavil imenovanje svojega prvega glavnega direktorja za umetno inteligenco (Chief AI Officer), Chandhuja Naira. Ta poteza poudarja naraščajočo zavezanost velikih trgovcev na drobno k izkoriščanju potenciala umetne inteligence. Imenovanje prihaja v času, ko se podjetja v maloprodajnem sektorju pospešeno trudijo vključiti AI v svoje poslovanje, od optimizacije dobavnih verig in personalizacije nakupovalnih izkušenj do izboljšanja učinkovitosti in analize podatkov. To kaže na širši trend v industriji, kjer AI postaja ključni dejavnik konkurenčnosti.",
+      "analiza": "Imenovanje glavnega direktorja za umetno inteligenco v podjetju Target ni le novica o enem podjetju, temveč odraz širšega trenda v gospodarstvu, kjer se umetna inteligenca hitro integrira v različne sektorje. Maloprodaja, ki se sooča z izzivi e-trgovine in spreminjajočih se potrošniških navad, vidi v AI priložnost za izboljšanje operativne učinkovitosti in uporabniške izkušnje. Podjetja, ki uspešno implementirajo AI, lahko pričakujejo zmanjšanje stroškov, povečanje prodaje in boljšo konkurenčnost. To lahko pozitivno vpliva na njihove delnice, saj vlagatelji cenijo inovacije in potencial za rast. Na splošno to pomeni nadaljnjo rast povpraševanja po tehnoloških rešitvah in strokovnjakih za AI. Vpliv na širše trge je mešan; medtem ko tehnološka podjetja, ki razvijajo AI rešitve, lahko rastejo, se lahko podjetja, ki ne sledijo trendu, soočijo z zaostankom. Za slovenskega dolgoročnega vlagatelja je pomembno prepoznati podjetja, ki so vodilna pri implementaciji AI in imajo jasne strategije za izkoriščanje te tehnologije, saj lahko to dolgoročno prispeva k njihovi vrednosti. Hkrati je pomembno razumeti, da je AI še vedno v razvoju in prinaša tudi etične in regulativne izzive.",
       "vpliv": [
-        "Potencialna izguba delovnih mest v IT sektorju",
-        "Spremembe v poslovnih modelih IT podjetij",
-        "Vpliv na gospodarsko rast Indije",
-        "Povečana potreba po prekvalifikaciji delovne sile"
+        "Povečana konkurenčnost podjetja Target",
+        "Rast povpraševanja po AI rešitvah in storitvah",
+        "Potencial za rast delnic podjetij, ki uspešno implementirajo AI",
+        "Spremembe v delovnih procesih in trgu dela"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-11T04:00:04.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/11/target-appoints-chief-ai-officer-chandhu-nair.html",
+      "objavljeno": "2026-08-11T15:44:43.000Z"
     },
     {
-      "naslov": "Medijska družba Donalda Trumpa poroča o 238 milijonov dolarjev izgube",
+      "naslov": "JPMorgan Chase z veliko naložbo v olimpijske igre Los Angeles 2028",
       "sektor": "Finance",
-      "smer": "negativno",
+      "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Trump Media & Technology Group (TMTG), medijska družba nekdanjega ameriškega predsednika Donalda Trumpa, je poročala o izgubi v višini 238 milijonov dolarjev. To se je zgodilo v drugem četrtletju 2026, pri čemer so prihodki podjetja znašali manj kot 2 milijona dolarjev. Podjetje je izjavilo, da se bo ponovno osredotočilo na socialne medije, kar vključuje načrt za prodajo hitrejšega dostopa do Trumpovih objav. Novica je bila objavljena 11. avgusta 2026. Izguba je precejšnja glede na nizke prihodke in kaže na izzive, s katerimi se sooča podjetje v konkurenčnem medijskem in tehnološkem prostoru. Poročilo o izgubi je sovpadlo tudi s padcem kriptovalut, čeprav ni neposredne povezave med obema dogodkoma.",
-      "analiza": "Poročilo o 238 milijonov dolarjev izgube za Trump Media & Technology Group (TMTG) v drugem četrtletju 2026 je pomemben signal za vlagatelje, ki spremljajo podjetja z visokim profilom in špekulativnim potencialom. Tako velika izguba ob minimalnih prihodkih (manj kot 2 milijona dolarjev) kaže na resne poslovne izzive in potencialno preveliko vrednotenje podjetja na trgu. To lahko služi kot opozorilo o tveganjih, povezanih z naložbami v podjetja, ki so močno odvisna od posameznih osebnosti ali imajo nepreizkušene poslovne modele. Za delnice TMTG bi to seveda pomenilo negativen pritisk, kar bi se lahko odrazilo v padcu vrednosti. Širše gledano, takšne novice lahko vplivajo na sentiment do manjših, visoko tveganih tehnoloških in medijskih podjetij. Čeprav je Bitcoin danes zabeležil rahel padec na 63900 USD (-0,02 %), ni neposredne povezave med izgubo TMTG in gibanjem kriptovalut, razen morda splošnega sentimenta do tveganih naložb. Slovenski dolgoročni vlagatelj naj bo previden pri vlaganju v podjetja, ki nimajo jasnih in dobičkonosnih poslovnih modelov, ne glede na njihovo medijsko izpostavljenost. Pomembno je analizirati temeljne kazalnike in finančno stanje podjetij, preden se odločimo za naložbo.",
+      "povzetek": "JPMorgan Chase, ena največjih svetovnih finančnih institucij, se je zavezala k devetmestni naložbi v olimpijske igre Los Angeles 2028. S tem je postala prva globalna bančna partnerica olimpijskih iger v zgodovini. Ta strateška poteza kaže na dolgoročno zaupanje banke v globalne dogodke in njihovo sposobnost generiranja ekonomske vrednosti. Partnerstvo bo verjetno vključevalo širok spekter finančnih storitev in promocijskih aktivnosti, ki bodo banki omogočile globalno izpostavljenost in krepitev blagovne znamke.",
+      "analiza": "Naložba JPMorgan Chase v olimpijske igre 2028 poudarja strateško razmišljanje velikih finančnih institucij, ki iščejo dolgoročne priložnosti za rast in prepoznavnost. Postati prvi globalni bančni partner olimpijskih iger prinaša izjemno globalno izpostavljenost in priložnost za povezovanje z milijardami gledalcev po vsem svetu. Takšna partnerstva lahko pozitivno vplivajo na ugled in blagovno znamko banke, kar lahko posredno vpliva na privabljanje novih strank in povečanje tržnega deleža. Poleg tega lahko tovrstne naložbe signalizirajo zaupanje v prihodnjo gospodarsko stabilnost in rast, saj so veliki dogodki, kot so olimpijske igre, odvisni od robustnega gospodarstva. Vpliv na delnice JPMorgan Chase je verjetno pozitiven, saj kaže na proaktivno strategijo rasti in trženja. Za širši finančni sektor to lahko pomeni, da se podobna partnerstva z velikimi dogodki lahko povečajo. Za slovenskega dolgoročnega vlagatelja je to primer, kako velike finančne institucije diverzificirajo svoje naložbe in iščejo priložnosti izven tradicionalnih bančnih storitev, kar lahko prispeva k stabilnosti in rasti njihovega poslovanja.",
       "vpliv": [
-        "Negativen vpliv na delnico TMTG",
-        "Opozorilo o tveganjih špekulativnih naložb",
-        "Potencialen vpliv na sentiment do manjših medijskih/tehnoloških podjetij",
-        "Poudarek na pomembnosti temeljnih kazalnikov"
+        "Krepitev blagovne znamke JPMorgan Chase",
+        "Globalna izpostavljenost banke",
+        "Potencial za povečanje prihodkov in tržnega deleža",
+        "Signal zaupanja v gospodarsko rast"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss",
-      "objavljeno": "2026-08-11T04:52:07.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html",
+      "objavljeno": "2026-08-11T15:45:44.000Z"
     },
     {
-      "naslov": "Podvojene čakalne vrste na večjih letališčih EU zaradi mejnih kontrol",
+      "naslov": "Frida, podjetje za otroške izdelke, širi ponudbo na osebno nego za otroke",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Podjetje Frida, znano po izdelkih za dojenčke, se širi v novo kategorijo izdelkov za osebno nego za otroke. S tem vstopa na rastoč trg in v velik, še precej neizkoriščen segment. Ta poteza kaže na strategijo podjetja za diverzifikacijo ponudbe in izkoriščanje prepoznavnosti blagovne znamke med starši. Razširitev vključuje izdelke, prilagojene potrebam starejših otrok, kar podjetju omogoča, da ohrani stranke tudi po tem, ko njihovi otroci prerastejo dojenčke.",
+      "analiza": "Širitev podjetja Frida v segment osebne nege za otroke je klasičen primer strategije rasti v potrošniškem sektorju. Podjetja pogosto izkoriščajo močno blagovno znamko in zvestobo strank za vstop na sorodne trge. Trg otroške osebne nege je privlačen zaradi stalnega povpraševanja in relativno visoke stopnje rasti, saj starši iščejo varne in kakovostne izdelke za svoje otroke. Ta poteza lahko pozitivno vpliva na prihodke in dobičkonosnost podjetja, kar se lahko odrazi v rasti vrednosti delnic. Hkrati pa se podjetje sooča z novimi konkurenti in izzivi pri trženju novih izdelkov. Uspeh te širitve bo odvisen od učinkovitosti trženja in sprejemanja izdelkov s strani potrošnikov. Za širši potrošniški sektor to pomeni, da so podjetja aktivna pri iskanju novih niš in rasti. Za slovenskega dolgoročnega vlagatelja je pomembno opazovati podjetja, ki so sposobna inovirati in se prilagajati spreminjajočim se potrebam potrošnikov, saj imajo ta podjetja večji potencial za dolgoročno rast in ustvarjanje vrednosti. Takšne strategije kažejo na dinamičnost in odpornost podjetja na trgu.",
+      "vpliv": [
+        "Diverzifikacija prihodkov podjetja Frida",
+        "Vstop na rastoč trg otroške osebne nege",
+        "Potencial za rast prodaje in dobička",
+        "Povečana konkurenca v segmentu otroških izdelkov"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
+      "objavljeno": "2026-08-11T16:23:29.000Z"
+    },
+    {
+      "naslov": "Visoke cene nepremičnin vplivajo na privlačnost mest za delavce",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Novi mejni pregledi Evropske unije so povzročili podvojitev čakalnih vrst na večjih letališčih, kot sta Frankfurt in Amsterdam. Najdaljši časi čakanja so dosegli dve uri. To poročilo Financial Timesa z dne 11. avgusta 2026 poudarja logistične in ekonomske izzive, ki jih prinašajo strožji nadzor na zunanjih mejah EU. Povečane čakalne dobe vplivajo na potnike, letalske družbe in širši turistični sektor. To lahko povzroči zamude, izgubljene povezave in splošno nezadovoljstvo, kar ima lahko negativne gospodarske posledice za regijo. Ukrepi so namenjeni izboljšanju varnosti, vendar imajo očitne stranske učinke na učinkovitost potovanj.",
-      "analiza": "Podvojene čakalne vrste na letališčih v Frankfurtu in Amsterdamu zaradi strožjih mejnih kontrol EU so primer, kako lahko regulativni ukrepi vplivajo na gospodarstvo in vsakdanje življenje. Čeprav so namenjeni izboljšanju varnosti, imajo ti ukrepi neposredne negativne posledice za potovalni in turistični sektor. Dveurni čakalni časi ne vplivajo le na udobje potnikov, ampak tudi na poslovno učinkovitost, saj zamude povzročajo stroške za letalske družbe in podjetja, ki so odvisna od hitrega pretoka ljudi in blaga. To lahko zmanjša privlačnost Evrope kot turistične in poslovne destinacije. Za delnice letalskih družb in podjetij v turističnem sektorju bi to lahko pomenilo pritisk na dobičkonosnost zaradi zmanjšanega povpraševanja ali povečanih operativnih stroškov. Na makro ravni bi lahko to vplivalo na BDP držav, ki so močno odvisne od turizma. Valutni par EUR/USD je danes pri 1.1545 (-0,01 %), kar kaže na stabilnost, vendar bi dolgoročni negativni vpliv na evropsko gospodarstvo lahko vplival tudi na evro. Slovenski dolgoročni vlagatelj naj bo pozoren na to, kako regulativne spremembe vplivajo na sektorje, ki so odvisni od prostega pretoka ljudi in blaga, saj lahko to spremeni njihove dolgoročne obete. Učinkovitost mejnih kontrol bo ključna za uspeh teh ukrepov.",
+      "povzetek": "Na forumu navijačev je direktor nogometnega kluba U's razkril, da visoki stroški nepremičnin predstavljajo 'velik izziv' pri privabljanju igralcev. Ta novica, čeprav specifična za nogometni klub, poudarja širši problem, s katerim se soočajo številna mesta in podjetja: naraščajoče cene nepremičnin otežujejo privabljanje in zadrževanje delavcev. To lahko vpliva na lokalno gospodarstvo, saj visoki življenjski stroški zmanjšujejo privlačnost določenih regij za delovno silo, kar lahko vodi do pomanjkanja delavcev in upočasnitve gospodarske rasti.",
+      "analiza": "Problem visokih cen nepremičnin ni omejen le na posamezne sektorje, kot je šport, temveč predstavlja pomemben makroekonomski izziv. Ko so stroški bivanja previsoki, to zmanjšuje mobilnost delovne sile in lahko povzroči pomanjkanje kvalificiranih delavcev v določenih regijah. To ima lahko negativne posledice za lokalna podjetja, ki se borijo za talente, in za širše gospodarstvo, saj lahko omejuje rast. Visoke cene nepremičnin so pogosto posledica kombinacije dejavnikov, vključno z omejeno ponudbo, povečanim povpraševanjem in nizkimi obrestnimi merami, ki spodbujajo zadolževanje. Čeprav je donosnost 10-letne ameriške obveznice danes pri 4.68 %, kar je relativno visoko, so v preteklosti nizke obrestne mere prispevale k napihovanju nepremičninskih balonov. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so nepremičninski trgi ciklični in da visoke cene lahko predstavljajo tveganje za stabilnost gospodarstva. Spremljanje trendov na nepremičninskem trgu in politik, ki naslavljajo dostopnost stanovanj, je ključno, saj lahko vplivajo na dolgoročno gospodarsko rast in stabilnost naložb v nepremičnine ter podjetja, odvisna od lokalne delovne sile.",
       "vpliv": [
-        "Negativen vpliv na letalski in turistični sektor",
-        "Povečani operativni stroški za letalske družbe",
-        "Potencialno zmanjšanje turističnih prihodkov v EU",
-        "Vpliv na poslovno učinkovitost in pretok blaga"
+        "Omejena mobilnost delovne sile",
+        "Pomanjkanje delavcev v regijah z visokimi stroški",
+        "Potencialno upočasnjevanje lokalne gospodarske rasti",
+        "Pritisk na plače v prizadetih sektorjih"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/42137dd8-8fdc-4d66-b193-ca52d51bd929?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-11T04:01:01.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/videos/cwymddx1el3o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-08-11T16:19:34.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-11T05:28:10.564Z",
+    "posodobljenoOb": "2026-08-11T16:24:43.622Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7753.11,
-        "sprememba_pct": -0.06
+        "vrednost": 7741.09,
+        "sprememba_pct": -0.16
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29621.805,
-        "sprememba_pct": -0.34
+        "vrednost": 29536.072,
+        "sprememba_pct": -0.29
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 26323.88,
-        "sprememba_pct": 0.02
+        "vrednost": 26391.42,
+        "sprememba_pct": 0.26
       },
       {
         "simbol": "^N225",
@@ -141,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4458.6,
-        "sprememba_pct": 0.88,
+        "vrednost": 4439,
+        "sprememba_pct": 0.44,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 82.38,
-        "sprememba_pct": 0.3,
+        "vrednost": 83.1,
+        "sprememba_pct": 1.18,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 87.95,
-        "sprememba_pct": 0.26,
+        "vrednost": 88.64,
+        "sprememba_pct": 1.05,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1545,
-        "sprememba_pct": -0.01
+        "vrednost": 1.1543,
+        "sprememba_pct": -0.03
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.699,
-        "sprememba_pct": 0.84,
+        "vrednost": 4.684,
+        "sprememba_pct": -0.32,
         "enota": "%"
       }
     ],
@@ -181,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63900,
-        "sprememba_pct": -0.02,
+        "vrednost": 63561.52,
+        "sprememba_pct": -0.55,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.46,
-      "sprememba_pct": 3.76
+      "vrednost": 15.35,
+      "sprememba_pct": -0.71
     }
   }
 }
