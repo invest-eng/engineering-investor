@@ -1,150 +1,162 @@
 {
-  "generiranoOb": "2026-08-09T16:18:52.530Z",
+  "generiranoOb": "2026-08-10T16:39:48.232Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-08-09",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, medtem ko so ameriški indeksi nadaljevali rast. Nemški DAX je dan zaprl z rastjo +0.69 % pri 26319 točkah. V ZDA, kjer so trgi odprti že dve uri, S&P 500 beleži rast +0.62 % na 7758 točk, tehnološko usmerjen Nasdaq 100 pa je poskočil za +1.19 % na 29722 točk. Geopolitične napetosti na Bližnjem vzhodu, zlasti glede Irana in Gaze, še naprej vplivajo na cene surovin, saj sta WTI nafta in Brent nafta zrasli za +1.15 % na 78.18 USD/sod oziroma +1.29 % na 83.55 USD/sod, zlato pa je pridobilo +2.33 % na 4399.70 USD/oz. Hkrati pa poročila kažejo na močno rast prodaje v indeksu S&P 500, ki je na skoraj petletnem vrhu, kar kaže na robustnost določenih sektorjev ameriškega gospodarstva, medtem ko se število delnic, ki presegajo S&P 500, povečuje. Vlagatelji bodo ta teden pozorno spremljali objave o inflaciji v ZDA, ki bi lahko vplivale na prihodnje odločitve centralnih bank.",
+  "datum": "2026-08-10",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanim sentimentom, medtem ko so ameriški indeksi po dveh urah trgovanja beležili rahle padce. Nemški DAX je dan zaključil praktično nespremenjen pri 26324 točkah (+0.02 %), medtem ko sta ameriška S&P 500 in Nasdaq 100 beležila skromne izgube, S&P 500 pri 7749 točkah (-0.11 %) in Nasdaq 100 pri 29652 točkah (-0.24 %). Pozornost trgov je bila usmerjena predvsem v geopolitične napetosti, ki so povzročile občuten skok cen nafte; WTI nafta je poskočila za 3.80 % na 81.15 USD/sod, Brent nafta pa za 3.76 % na 86.69 USD/sod. Donosnost 10-letne ameriške državne obveznice se je zvišala za 0.69 % na 4.69 %, kar kaže na pritisk na obvezniške trge. Zlato je medtem pridobilo 0.50 % in se giblje pri 4421.90 USD/oz, kar lahko nakazuje na povečano povpraševanje po varnih zatočiščih. Na valutnih trgih je jen oslabel, saj je učinek skupne intervencije ZDA in Japonske začel bledeti. V prihodnjem tednu bodo vlagatelji pozorno spremljali objave inflacijskih podatkov in morebitne izjave centralnih bank glede prihodnje denarne politike.",
   "novice": [
     {
-      "naslov": "Iran grozi z omejitvijo Hormuške ožine, napetosti se stopnjujejo",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Iran je danes sporočil, da bo Hormuška ožina ostala omejena, razen če ZDA ne izpolnijo vrste zahtev. Ta izjava prihaja v 29. dnevu druge faze 'Vojne na Iran', kar kaže na stopnjevanje konflikta. Omejitev ožine, ključne pomorske poti za transport nafte, bi imela globalne posledice. Iran s to grožnjo poskuša pridobiti pogajalsko prednost in pritisniti na ZDA. Dogajanje se odvija v luči širših geopolitičnih napetosti na Bližnjem vzhodu.",
-      "analiza": "Hormuška ožina je strateško izjemno pomembna, saj skozi njo poteka približno petina svetovne nafte. Vsaka omejitev ali motnja v pretoku nafte skozi to ožino ima takojšen in dramatičen vpliv na globalne cene energentov. V preteklosti so podobne grožnje že povzročile skoke cen nafte. Trenutno sta ceni WTI nafte pri 78.18 USD/sod (+1.15 %) in Brent nafte pri 83.55 USD/sod (+1.29 %), kar že odraža zaskrbljenost trgov. Nadaljnje stopnjevanje konflikta in morebitna blokada ožine bi lahko cene nafte potisnila še višje, kar bi povečalo inflacijske pritiske po svetu. To bi posledično vplivalo na delniške trge, saj bi višji stroški energije zmanjšali dobičke podjetij in kupno moč potrošnikov. Vlagatelji bi se lahko umaknili v varnejša zatočišča, kot je zlato, ki je danes že zraslo za +2.33 % na 4399.70 USD/oz. Za slovenskega dolgoročnega vlagatelja to pomeni povečano volatilnost na trgih, zlasti pri delnicah podjetij, odvisnih od energentov, in potencialno višje cene goriva.",
-      "vpliv": [
-        "Rast cen nafte (WTI +1.15 %, Brent +1.29 %)",
-        "Rast cene zlata (+2.33 %)",
-        "Povečana inflacija",
-        "Padec delniških trgov",
-        "Povečana geopolitična tveganja"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss",
-      "objavljeno": "2026-08-09T15:46:09.000Z"
-    },
-    {
-      "naslov": "Pentagon poziva k hitrejši proizvodnji orožja zaradi skrbi glede zalog",
-      "sektor": "Geopolitika",
+      "naslov": "Cene nafte in delnic poskočile zaradi nadaljevanja zaprtja Hormuške ožine",
+      "sektor": "Energetika",
       "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Pentagon je pozval ameriško obrambno industrijo k hitrejši proizvodnji orožja, saj se pojavljajo skrbi glede pomanjkanja zalog. Ta poziv je neposredna posledica naraščajočih napetosti na Bližnjem vzhodu in splošnih varnostnih pomislekov. Ameriška obrambna industrija je pod pritiskom, da poveča proizvodnjo streliva in druge vojaške opreme. To kaže na povečano povpraševanje po obrambnih izdelkih in storitvah, kar je neposredna ekonomska posledica geopolitičnih dogajanj.",
-      "analiza": "Poziv Pentagona k povečani proizvodnji orožja je pomemben signal za obrambno industrijo in širše gospodarstvo. Povečano povpraševanje po orožju in strelivu pomeni potencialno rast prihodkov in dobičkov za podjetja v obrambnem sektorju. To lahko privede do rasti delnic teh podjetij, kar je v nasprotju s splošnim negativnim vplivom geopolitičnih napetosti na širše trge. Po drugi strani pa ta novica poudarja tudi stopnjevanje globalnih varnostnih tveganj, kar lahko vpliva na zaupanje potrošnikov in podjetij, s tem pa na gospodarsko rast. Povečana poraba za obrambo lahko preusmeri sredstva iz drugih sektorjev gospodarstva. Za slovenskega dolgoročnega vlagatelja to pomeni, da bi lahko obrambni sektor postal bolj privlačen, vendar je treba upoštevati etične in dolgoročne posledice vlaganja v to industrijo. Hkrati pa splošna negotovost, ki jo povzroča povečana oborožitev, lahko vpliva na stabilnost globalnih trgov.",
+      "intenziteta": 3,
+      "povzetek": "Cene nafte so danes občutno poskočile, saj se nadaljuje zaprtje Hormuške ožine, ključne pomorske poti za transport nafte. WTI nafta je zrasla za 3.80 % na 81.15 USD/sod, medtem ko je Brent nafta pridobila 3.76 % in dosegla 86.69 USD/sod. Čeprav so cene bencina v ZDA prejšnji teden padle za devet centov, analitiki opozarjajo, da bi se lahko ponovno zvišale, če se zaprtje ožine nadaljuje. Ta dogodek je povzročil tudi valovanje na borznih trgih, kjer so nekatere delnice zabeležile rast, medtem ko so druge pod pritiskom zaradi višjih stroškov.",
+      "analiza": "Zaprtje Hormuške ožine, skozi katero poteka približno petina svetovne nafte, predstavlja izjemno pomemben geopolitični in ekonomski dogodek. V preteklosti so podobne napetosti v regiji vedno sprožile zaskrbljenost glede oskrbe z nafto, kar se neposredno odraža v cenah. Trenutno zaprtje, ki se vleče, zmanjšuje dobavo na svetovni trg, kar ob nespremenjenem povpraševanju nujno vodi v dvig cen. To vpliva na vse segmente gospodarstva, saj so višje cene energentov strošek za podjetja in potrošnike. Za delnice to pomeni mešan vpliv: energetska podjetja, še posebej proizvajalci nafte in plina, lahko beležijo rast prihodkov in dobičkov, medtem ko so podjetja v sektorjih, ki so odvisni od poceni transporta in proizvodnje (npr. letalski prevozniki, logistika, industrija), pod pritiskom. Višje cene nafte lahko prispevajo k inflacijskim pritiskom, kar lahko vpliva na odločitve centralnih bank glede obrestnih mer. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so geopolitična tveganja v regiji trajna in lahko povzročijo volatilnost na trgih surovin, kar posredno vpliva na globalno gospodarstvo in s tem tudi na vrednost naložb v različnih sektorjih.",
       "vpliv": [
-        "Potencialna rast delnic obrambnih podjetij",
-        "Povečana poraba za obrambo",
-        "Signal o stopnjevanju globalnih varnostnih tveganj",
-        "Preusmeritev sredstev v obrambni sektor",
-        "Mešan vpliv na širše gospodarstvo"
+        "WTI nafta +3.80 %",
+        "Brent nafta +3.76 %",
+        "Povečani inflacijski pritiski",
+        "Rast delnic energetskih podjetij"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss",
-      "objavljeno": "2026-08-09T15:38:56.000Z"
+      "vir_url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss",
+      "objavljeno": "2026-08-10T15:45:39.000Z"
     },
     {
-      "naslov": "Rast prodaje S&P 500 na skoraj petletnem vrhu, energetika vodilna",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Rast prodaje podjetij v indeksu S&P 500 je dosegla skoraj petletni vrh, kar je pomemben pokazatelj robustnosti ameriškega gospodarstva. Za to rast so v drugem četrtletju v veliki meri zaslužna energetska podjetja, ki so zabeležila 42.5-odstotno povečanje prihodkov. Ta podatek kaže, da kljub nekaterim makroekonomskim izzivom določeni sektorji še naprej dosegajo močne rezultate. Visoke cene nafte, kot sta WTI pri 78.18 USD/sod in Brent pri 83.55 USD/sod, so verjetno prispevale k izjemnim rezultatom energetskega sektorja.",
-      "analiza": "Močna rast prodaje v indeksu S&P 500, ki je na skoraj petletnem vrhu, je pozitiven signal za delniške trge in širše gospodarstvo. To kaže na zdravo povpraševanje in sposobnost podjetij, da ustvarjajo prihodke. Posebej impresivna 42.5-odstotna rast prihodkov v energetskem sektorju poudarja vpliv visokih cen surovin in geopolitičnih dogajanj na dobičkonosnost teh podjetij. Medtem ko je S&P 500 danes zrasel za +0.62 % na 7758 točk, ta novica potrjuje, da so temelji za rast prisotni, čeprav je rast koncentrirana v določenih sektorjih. To lahko pomeni, da bodo vlagatelji še naprej iskali priložnosti v sektorjih, ki so odporni na inflacijo ali imajo koristi od trenutnih tržnih razmer. Za obveznice in valute je to lahko mešan signal; močna gospodarska rast lahko podpira višje obrestne mere, vendar tudi poveča privlačnost delnic. Slovenski dolgoročni vlagatelj bi moral preučiti diverzifikacijo portfelja in morebitno izpostavljenost do energetskega sektorja, vendar vedno z upoštevanjem dolgoročnih trendov in tveganj.",
-      "vpliv": [
-        "Pozitiven signal za delniške trge",
-        "Močna rast prihodkov v energetskem sektorju (+42.5 %)",
-        "Podpora za S&P 500 (+0.62 %)",
-        "Povečana privlačnost določenih sektorjev",
-        "Mešan vpliv na obveznice in valute"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-09T14:00:00.000Z"
-    },
-    {
-      "naslov": "Več delnic prekaša S&P 500, kar kaže na širšo rast",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Število delnic, ki prekašajo indeks S&P 500, je najvišje v zadnjih štirih letih. To pomeni, da povprečna delnica prvič po štirih letih prekaša širši trg. Ta trend nakazuje, da rast trga ni več omejena le na peščico velikih tehnoloških podjetij, temveč se širi na širši spekter podjetij. To je pomemben pokazatelj zdravja trga in lahko nakazuje na bolj trajnostno rast v prihodnosti.",
-      "analiza": "Ko rast trga poganja le nekaj velikih podjetij, je trg pogosto ranljiv. Dejstvo, da širše število delnic prekaša S&P 500, je znak 'širjenja' trga, kar je običajno videno kot zdrav in trajnosten trend. To pomeni, da je tržna rast bolj razpršena in manj odvisna od uspešnosti posameznih gigantov. Takšno okolje lahko zmanjša tveganje koncentracije in ponudi več priložnosti za vlagatelje, ki iščejo vrednost zunaj največjih podjetij. Medtem ko je S&P 500 danes zrasel za +0.62 % na 7758 točk, ta novica nakazuje, da bi se ta rast lahko nadaljevala in postala bolj vključujoča. To bi lahko imelo pozitiven vpliv na obveznice, saj širša gospodarska rast zmanjšuje tveganje neplačil, in na valute, saj močno gospodarstvo privablja tuje investicije. Za slovenskega dolgoročnega vlagatelja ta trend pomeni, da se možnosti za donosnost širijo tudi na manjša in srednje velika podjetja, kar omogoča bolj diverzificiran pristop k vlaganju in potencialno bolj stabilne dolgoročne donose.",
-      "vpliv": [
-        "Širša in bolj zdrava tržna rast",
-        "Zmanjšano tveganje koncentracije",
-        "Več priložnosti za vlagatelje",
-        "Potencialno bolj trajnostna rast delniških trgov",
-        "Pozitiven vpliv na zaupanje vlagateljev"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-09T13:00:00.000Z"
-    },
-    {
-      "naslov": "Ruski napadi v Odesi ogrožajo globalno prehransko varnost",
+      "naslov": "Palestinci razočarani po zavrnitvi načrta za Gazo s strani Izraela",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Ruske sile so izvedle 'brutalen' napad v Odesi, pri čemer je bilo ubitih več ljudi. Ukrajinski predsednik Volodimir Zelenski je obtožil Moskvo, da s temi napadi na pristanišče v Odesi škoduje globalni prehranski varnosti. Odesa je ključno pristanišče za izvoz žita iz Ukrajine, ki je eden največjih svetovnih dobaviteljev. Napadi na to infrastrukturo imajo neposredne posledice za svetovne dobavne verige hrane in cene živil.",
-      "analiza": "Napadi na pristanišče v Odesi imajo resne posledice za globalno prehransko varnost, saj Ukrajina predstavlja pomemben del svetovnega izvoza žita. Motnje v izvozu žita lahko povzročijo pomanjkanje in dvig cen hrane po vsem svetu, kar povečuje inflacijske pritiske in socialne nemire, zlasti v državah v razvoju. To vpliva na makroekonomsko stabilnost in lahko prispeva k višjim obrestnim meram, saj centralne banke poskušajo zajeziti inflacijo. Na delniških trgih lahko to negativno vpliva na podjetja, odvisna od stabilnih cen surovin, in na potrošniški sektor zaradi zmanjšane kupne moči. Hkrati pa lahko podjetja v kmetijskem sektorju, ki niso neposredno prizadeta, doživijo rast zaradi višjih cen. Geopolitična tveganja, povezana z vojno v Ukrajini, še naprej ostajajo visoka, kar se odraža tudi na trgih surovin, kot je nafta. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti pozoren na globalne dobavne verige in inflacijske pritiske, ki lahko vplivajo na donosnost naložb v različnih sektorjih.",
+      "povzetek": "Izraelska zavrnitev načrta za Gazo, ki ga je predlagal ameriški državni sekretar, je povzročila globoko razočaranje med Palestinci, ki se počutijo zapuščene. Izjava izraelskega premierja Netanjahuja je okrepila dvome o možnosti trajnega miru brez umika Izraela, obnove Gaze in varnostnih jamstev. Ta poteza tvega, da bo utrdila stanje konflikta in podaljšala vojno, kar analitiki označujejo kot 'Netanjahujev udar' proti mirovnemu načrtu.",
+      "analiza": "Zavrnitev mirovnega načrta za Gazo s strani Izraela poglablja nestabilnost v že tako eksplozivni regiji Bližnjega vzhoda. Ta dogodek ni le humanitarna tragedija, temveč ima tudi daljnosežne ekonomske in finančne posledice. Geopolitična nestabilnost v regiji, ki je ključna za svetovno oskrbo z energijo, lahko povzroči nadaljnje dvige cen nafte in plina, kot smo že videli danes z rastjo WTI nafte za 3.80 % in Brent nafte za 3.76 %. Povečana negotovost lahko odvrne tuje investicije v regijo in povzroči umik kapitala, kar vpliva na lokalne valute in delniške trge. V širšem smislu lahko takšni konflikti povečajo globalno nejevoljo do tveganja, kar se odraža v povpraševanju po varnih zatočiščih, kot sta zlato (danes +0.50 % na 4421.90 USD/oz) in nekatere državne obveznice. V preteklosti so konflikti na Bližnjem vzhodu pogosto sprožili globalne gospodarske šoke. Za slovenskega dolgoročnega vlagatelja je pomembno zavedanje, da so geopolitična tveganja sestavni del globalnega investicijskega okolja in lahko vplivajo na volatilnost trgov, še posebej na cene surovin in s tem na inflacijo.",
       "vpliv": [
-        "Povečana globalna prehranska negotovost",
-        "Potencialen dvig cen živil",
-        "Povečani inflacijski pritiski",
-        "Negativen vpliv na potrošniški sektor",
-        "Povečana geopolitična tveganja"
+        "Povečana geopolitična tveganja",
+        "Dodaten pritisk na cene nafte",
+        "Povečano povpraševanje po varnih zatočiščih",
+        "Negativni vpliv na globalno gospodarsko rast"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
-      "objavljeno": "2026-08-09T10:55:06.000Z"
+      "vir_url": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss",
+      "objavljeno": "2026-08-10T16:24:13.000Z"
+    },
+    {
+      "naslov": "Ameriška delovna sila se je v letu dni zmanjšala za več kot milijon ljudi",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Velikost ameriške delovne sile se je v zadnjem letu zmanjšala za več kot milijon ljudi, kar je zaskrbljujoč trend. Delež Američanov, ki delajo ali iščejo zaposlitev, ni bil tako nizek od pandemije COVID-19. Julijsko poročilo o delovnih mestih je prineslo več slabih novic, ki kažejo na zmanjšanje udeležbe na trgu dela. Ta padec lahko kaže na strukturne spremembe v gospodarstvu ali na demografske izzive, ki dolgoročno vplivajo na produktivnost.",
+      "analiza": "Zmanjšanje ameriške delovne sile za več kot milijon ljudi v enem letu je pomemben makroekonomski podatek, ki lahko vpliva na prihodnje odločitve Federalnih rezerv (Fed). Manjša delovna sila lahko pomeni manjšo potencialno rast gospodarstva in lahko vodi v večje pritiske na plače, če povpraševanje po delavcih ostaja visoko. To bi lahko prispevalo k inflaciji, kar bi Fed prisililo k morebitnemu zaostrovanju denarne politike, kljub upočasnjevanju gospodarstva. Padec udeležbe na trgu dela, ki je najnižji po pandemiji, lahko odraža demografske trende, kot je staranje prebivalstva, ali pa dolgoročnejše spremembe v preferencah glede dela. Višje donosnosti obveznic, kot je danes zabeleženih +0.69 % na 4.69 % za 10-letno ameriško državno obveznico, lahko delno odražajo pričakovanja trga glede nadaljnjih inflacijskih pritiskov ali zaskrbljenost glede fiskalne vzdržnosti. Za delniške trge takšni podatki pomenijo negotovost, saj lahko vplivajo na pričakovane dobičke podjetij in na splošno gospodarsko rast. Slovenski dolgoročni vlagatelj bi moral biti pozoren na te makroekonomske kazalnike, saj imajo neposreden vpliv na globalno gospodarsko okolje in s tem na donosnost naložb, še posebej tistih, vezanih na ameriško gospodarstvo.",
+      "vpliv": [
+        "Zmanjšana potencialna gospodarska rast ZDA",
+        "Možni inflacijski pritiski",
+        "Povečana negotovost glede denarne politike Fed",
+        "Pritisk na delniške trge"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-size-of-the-american-workforce-has-fallen-by-over-1-million-people-in-the-past-year-heres-whats-going-on-b8141aa3?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-10T15:00:00.000Z"
+    },
+    {
+      "naslov": "Jen oslabel, saj učinek ameriško-japonske intervencije na trgu bledi",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Japonski jen je danes ponovno oslabel, saj je učinek skupne intervencije ZDA in Japonske na valutnem trgu začel bledeti. Valuta je izgubila približno polovico svojih prejšnjih dobičkov, ki so bili doseženi po usklajenem ukrepanju. Vlagatelji kot razlog navajajo pomanjkanje 'enotnega glasu' med centralnimi bankami, kar zmanjšuje verodostojnost in dolgoročni vpliv intervencije. To kaže na precejšnje izzive pri stabilizaciji jena v trenutnem globalnem ekonomskem okolju.",
+      "analiza": "Oslabelost jena po skupni intervenciji ZDA in Japonske poudarja izzive, s katerimi se soočajo centralne banke pri obvladovanju valutnih tečajev v obdobju različnih denarnih politik. Intervencije na valutnih trgih so pogosto kratkotrajne, če jih ne podpirajo temeljne ekonomske spremembe ali usklajena dolgoročna strategija centralnih bank. Pomanjkanje 'enotnega glasu' med centralnimi bankami, kot je omenjeno, zmanjšuje zaupanje vlagateljev in omogoča špekulativne napade na valuto. Šibkejši jen sicer koristi japonskim izvoznikom, saj so njihovi izdelki cenejši na mednarodnih trgih, vendar hkrati draži uvoz in povečuje inflacijske pritiske v državi. To lahko zaplete delo Banke Japonske, ki se trudi doseči stabilno inflacijo in gospodarsko rast. Za globalne trge to pomeni povečano volatilnost na valutnih trgih, kar lahko vpliva na mednarodno trgovino in investicije. Slovenski dolgoročni vlagatelj naj bo pozoren na valutne tečaje, saj lahko močna nihanja vplivajo na donosnost mednarodnih naložb, še posebej tistih, denominiranih v jenih ali povezanih z japonskim gospodarstvom.",
+      "vpliv": [
+        "Oslabelost jena",
+        "Povečana volatilnost na valutnih trgih",
+        "Vpliv na japonske izvoznike in uvoznike",
+        "Izzivi za Banko Japonske"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-10T14:01:51.000Z"
+    },
+    {
+      "naslov": "Shein ponuja IPO vlagateljem z vrednotenjem pod 30 milijardami dolarjev",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Podjetje za hitro modo Shein naj bi vlagateljem ponudilo svojo prvo javno ponudbo delnic (IPO) z vrednotenjem pod 30 milijardami dolarjev. To predstavlja precejšen padec, saj je vrednotenje podjetja v zadnjih štirih letih padlo za približno 70 %. Kljub temu Shein ostaja pomemben igralec v sektorju hitre mode, vendar se sooča z izzivi, kot so regulativni pregledi in kritike glede delovnih pogojev ter okoljskega vpliva.",
+      "analiza": "Znižano vrednotenje Sheina za IPO, ki je padlo za približno 70 % v zadnjih štirih letih na manj kot 30 milijard dolarjev, odraža spremenjeno razpoloženje na trgu do hitro rastočih, a potencialno tveganih podjetij. To kaže na večjo previdnost vlagateljev, še posebej v sektorjih, ki so pod drobnogledom zaradi etičnih in okoljskih vprašanj. Padec vrednotenja lahko vpliva na celoten trg IPO, saj lahko druga podjetja pričakujejo strožje pogoje in nižja vrednotenja. Vlagatelji so postali bolj selektivni in iščejo podjetja z jasnimi potmi do dobičkonosnosti in trajnostnimi poslovnimi modeli. V preteklosti so tehnološka podjetja in podjetja s hitro rastjo pogosto dosegala visoka vrednotenja, vendar se zdaj poudarek premika na trdne temelje in odgovorno poslovanje. Za slovenskega dolgoročnega vlagatelja je to opomin, da je pri naložbah v IPO-je in hitro rastoča podjetja potrebna previdnost. Pomembno je analizirati ne le potencial rasti, temveč tudi tveganja, povezana z regulacijo, konkurenco in ugledom podjetja.",
+      "vpliv": [
+        "Znižano vrednotenje Shein IPO",
+        "Povečana previdnost vlagateljev do IPO-jev",
+        "Vpliv na sektor hitre mode",
+        "Poudarek na trajnostnih poslovnih modelih"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/62d3a32d-8a38-4136-b32c-36f25099b91f?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-10T14:15:24.000Z"
+    },
+    {
+      "naslov": "Delnice Archerja poskočile po prevzemu deleža Boeinga in poslu z električnimi letali",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Delnice podjetja Archer Aviation so močno poskočile po objavi, da Boeing prodaja tri svoje hčerinske družbe podjetju Archer Aviation v zameno za lastniški delež v startupu za električna vertikalna vzletno-pristajalna letala (eVTOL). Ta strateška poteza kaže na naraščajoče zanimanje velikih letalskih proizvajalcev za razvoj in komercializacijo tehnologije eVTOL. Posel bi lahko pospešil razvoj Archerjevih električnih letal in okrepil njegov položaj na trgu, kar je spodbudilo optimizem vlagateljev.",
+      "analiza": "Strateški prevzem deleža Boeinga v Archer Aviation in prodaja treh hčerinskih družb je pomemben dogodek v sektorju letalstva in tehnologije. Poudarja trend, kjer uveljavljena podjetja, kot je Boeing, iščejo inovacije in rast prek partnerstev ali naložb v startup podjetja, ki razvijajo prelomne tehnologije, kot so eVTOL letala. Ta poteza kaže na zaupanje v potencial tehnologije električnih zračnih taksijev, ki bi lahko revolucionirali mestni transport in logistiko. Za delniške trge je to bil jasen pozitiven signal za Archer, kar se je odrazilo v skoku delnic. Hkrati to potrjuje, da se sektor zračne mobilnosti hitro razvija in privablja znatne investicije. V preteklosti smo videli podobne strateške naložbe v avtomobilski industriji v podjetja za električna vozila. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj v sektorjih, ki so na robu tehnoloških prebojev, kot je eVTOL, saj lahko ponujajo visoke donose, vendar so povezani tudi z višjimi tveganji zaradi zgodnje faze razvoja in regulativnih izzivov.",
+      "vpliv": [
+        "Rast delnic Archer Aviation",
+        "Povečano zanimanje za eVTOL tehnologijo",
+        "Strateške naložbe v letalski industriji",
+        "Potencial za inovacije v transportu"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
+      "objavljeno": "2026-08-10T14:16:24.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-09T16:17:56.708Z",
+    "posodobljenoOb": "2026-08-10T16:38:58.067Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7757.64,
-        "sprememba_pct": 0.62
+        "vrednost": 7748.81,
+        "sprememba_pct": -0.11
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29722.303,
-        "sprememba_pct": 1.19
+        "vrednost": 29652.027,
+        "sprememba_pct": -0.24
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 26319.45,
-        "sprememba_pct": 0.69
+        "vrednost": 26323.88,
+        "sprememba_pct": 0.02
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 65606.71,
-        "sprememba_pct": -0.12
+        "vrednost": 66970.22,
+        "sprememba_pct": 2.08
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4399.7,
-        "sprememba_pct": 2.33,
+        "vrednost": 4421.9,
+        "sprememba_pct": 0.5,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 78.18,
-        "sprememba_pct": 1.15,
+        "vrednost": 81.15,
+        "sprememba_pct": 3.8,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 83.55,
-        "sprememba_pct": 1.29,
+        "vrednost": 86.69,
+        "sprememba_pct": 3.76,
         "enota": "USD/sod"
       }
     ],
@@ -152,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1562,
-        "sprememba_pct": 0.32
+        "vrednost": 1.1555,
+        "sprememba_pct": -0.06
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.66,
-        "sprememba_pct": -0.21,
+        "vrednost": 4.692,
+        "sprememba_pct": 0.69,
         "enota": "%"
       }
     ],
@@ -169,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 65197.52,
-        "sprememba_pct": 0.45,
+        "vrednost": 64065.9,
+        "sprememba_pct": -1.21,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 14.9,
-      "sprememba_pct": -1.65
+      "vrednost": 15.13,
+      "sprememba_pct": 1.54
     }
   }
 }

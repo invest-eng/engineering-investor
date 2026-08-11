@@ -1,128 +1,128 @@
 {
-  "generiranoOb": "2026-08-10T16:39:48.232Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-08-11T05:28:51.274Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-08-10",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanim sentimentom, medtem ko so ameriški indeksi po dveh urah trgovanja beležili rahle padce. Nemški DAX je dan zaključil praktično nespremenjen pri 26324 točkah (+0.02 %), medtem ko sta ameriška S&P 500 in Nasdaq 100 beležila skromne izgube, S&P 500 pri 7749 točkah (-0.11 %) in Nasdaq 100 pri 29652 točkah (-0.24 %). Pozornost trgov je bila usmerjena predvsem v geopolitične napetosti, ki so povzročile občuten skok cen nafte; WTI nafta je poskočila za 3.80 % na 81.15 USD/sod, Brent nafta pa za 3.76 % na 86.69 USD/sod. Donosnost 10-letne ameriške državne obveznice se je zvišala za 0.69 % na 4.69 %, kar kaže na pritisk na obvezniške trge. Zlato je medtem pridobilo 0.50 % in se giblje pri 4421.90 USD/oz, kar lahko nakazuje na povečano povpraševanje po varnih zatočiščih. Na valutnih trgih je jen oslabel, saj je učinek skupne intervencije ZDA in Japonske začel bledeti. V prihodnjem tednu bodo vlagatelji pozorno spremljali objave inflacijskih podatkov in morebitne izjave centralnih bank glede prihodnje denarne politike.",
+  "datum": "2026-08-11",
+  "povzetek": "Jutranja izdaja 11. avgusta 2026 prinaša mešane signale z globalnih trgov. Ameriški indeksi so noč zaključili v rahlem padcu, kjer je S&P 500 dosegel 7753 točk (-0,06 %), Nasdaq 100 pa 29622 točk (-0,34 %). Evropski DAX je medtem zabeležil minimalno rast na 26324 točk (+0,02 %), medtem ko so azijski trgi pokazali močno rast, zlasti Nikkei 225, ki je poskočil na 66970 točk (+2,08 %). Cene nafte so se zvišale, saj je WTI nafta pri 82,38 USD/sod (+0,30 %), Brent pa pri 87,95 USD/sod (+0,26 %), kar je delno posledica napada z droni na libijsko rafinerijo Zawiya in nadaljevanja napetosti med ZDA in Iranom glede ožine Hormuz. V tehnološkem sektorju je Nvidia objavila partnerstvo za financiranje 500 milijard dolarjev za AI infrastrukturo, medtem ko je medijska družba nekdanjega predsednika Trumpa poročala o 238 milijonov dolarjev izgube. Vlagatelji bodo ta teden pozorno spremljali objavo ključnih inflacijskih podatkov iz ZDA, ki lahko vplivajo na pričakovanja glede monetarne politike. ",
   "novice": [
     {
-      "naslov": "Cene nafte in delnic poskočile zaradi nadaljevanja zaprtja Hormuške ožine",
+      "naslov": "Napad z droni na libijsko rafinerijo Zawiya povzročil obsežen požar",
       "sektor": "Energetika",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Cene nafte so danes občutno poskočile, saj se nadaljuje zaprtje Hormuške ožine, ključne pomorske poti za transport nafte. WTI nafta je zrasla za 3.80 % na 81.15 USD/sod, medtem ko je Brent nafta pridobila 3.76 % in dosegla 86.69 USD/sod. Čeprav so cene bencina v ZDA prejšnji teden padle za devet centov, analitiki opozarjajo, da bi se lahko ponovno zvišale, če se zaprtje ožine nadaljuje. Ta dogodek je povzročil tudi valovanje na borznih trgih, kjer so nekatere delnice zabeležile rast, medtem ko so druge pod pritiskom zaradi višjih stroškov.",
-      "analiza": "Zaprtje Hormuške ožine, skozi katero poteka približno petina svetovne nafte, predstavlja izjemno pomemben geopolitični in ekonomski dogodek. V preteklosti so podobne napetosti v regiji vedno sprožile zaskrbljenost glede oskrbe z nafto, kar se neposredno odraža v cenah. Trenutno zaprtje, ki se vleče, zmanjšuje dobavo na svetovni trg, kar ob nespremenjenem povpraševanju nujno vodi v dvig cen. To vpliva na vse segmente gospodarstva, saj so višje cene energentov strošek za podjetja in potrošnike. Za delnice to pomeni mešan vpliv: energetska podjetja, še posebej proizvajalci nafte in plina, lahko beležijo rast prihodkov in dobičkov, medtem ko so podjetja v sektorjih, ki so odvisni od poceni transporta in proizvodnje (npr. letalski prevozniki, logistika, industrija), pod pritiskom. Višje cene nafte lahko prispevajo k inflacijskim pritiskom, kar lahko vpliva na odločitve centralnih bank glede obrestnih mer. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so geopolitična tveganja v regiji trajna in lahko povzročijo volatilnost na trgih surovin, kar posredno vpliva na globalno gospodarstvo in s tem tudi na vrednost naložb v različnih sektorjih.",
-      "vpliv": [
-        "WTI nafta +3.80 %",
-        "Brent nafta +3.76 %",
-        "Povečani inflacijski pritiski",
-        "Rast delnic energetskih podjetij"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss",
-      "objavljeno": "2026-08-10T15:45:39.000Z"
-    },
-    {
-      "naslov": "Palestinci razočarani po zavrnitvi načrta za Gazo s strani Izraela",
-      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Izraelska zavrnitev načrta za Gazo, ki ga je predlagal ameriški državni sekretar, je povzročila globoko razočaranje med Palestinci, ki se počutijo zapuščene. Izjava izraelskega premierja Netanjahuja je okrepila dvome o možnosti trajnega miru brez umika Izraela, obnove Gaze in varnostnih jamstev. Ta poteza tvega, da bo utrdila stanje konflikta in podaljšala vojno, kar analitiki označujejo kot 'Netanjahujev udar' proti mirovnemu načrtu.",
-      "analiza": "Zavrnitev mirovnega načrta za Gazo s strani Izraela poglablja nestabilnost v že tako eksplozivni regiji Bližnjega vzhoda. Ta dogodek ni le humanitarna tragedija, temveč ima tudi daljnosežne ekonomske in finančne posledice. Geopolitična nestabilnost v regiji, ki je ključna za svetovno oskrbo z energijo, lahko povzroči nadaljnje dvige cen nafte in plina, kot smo že videli danes z rastjo WTI nafte za 3.80 % in Brent nafte za 3.76 %. Povečana negotovost lahko odvrne tuje investicije v regijo in povzroči umik kapitala, kar vpliva na lokalne valute in delniške trge. V širšem smislu lahko takšni konflikti povečajo globalno nejevoljo do tveganja, kar se odraža v povpraševanju po varnih zatočiščih, kot sta zlato (danes +0.50 % na 4421.90 USD/oz) in nekatere državne obveznice. V preteklosti so konflikti na Bližnjem vzhodu pogosto sprožili globalne gospodarske šoke. Za slovenskega dolgoročnega vlagatelja je pomembno zavedanje, da so geopolitična tveganja sestavni del globalnega investicijskega okolja in lahko vplivajo na volatilnost trgov, še posebej na cene surovin in s tem na inflacijo.",
+      "povzetek": "V Libiji je izbruhnil obsežen požar v rafineriji Zawiya, največji delujoči rafineriji v državi, po napadu z droni. Nacionalna naftna družba je opozorila, da bi lahko prekinila delovanje, če se napadi z droni nadaljujejo. Incident se je zgodil 11. avgusta 2026, kar je povzročilo zaskrbljenost glede stabilnosti dobave nafte iz regije. Rafinerija Zawiya je ključnega pomena za libijsko proizvodnjo in izvoz nafte, saj predeluje velike količine surove nafte. Ta dogodek poudarja ranljivost energetske infrastrukture v regijah, ki jih pestijo konflikti. Požar je zajel bencin, kar kaže na resnost napada in potencialne dolgoročne posledice za obratovanje rafinerije.",
+      "analiza": "Napad z droni na libijsko rafinerijo Zawiya predstavlja pomemben geopolitični in energetski dogodek. Libija, članica OPEC+, je že dolgo vir nestabilnosti na svetovnem naftnem trgu zaradi notranjih konfliktov. Ta napad poudarja naraščajoča tveganja za dobavne verige nafte v regiji, ki je ključna za globalno oskrbo. Posledično so se cene nafte že odzvale z rastjo; WTI nafta je pri 82,38 USD/sod (+0,30 %), Brent pa pri 87,95 USD/sod (+0,26 %). Takšni dogodki običajno povzročijo povečano premijo za tveganje na trgu nafte, saj se vlagatelji bojijo morebitnih prekinitev dobave. Za delnice energetskih podjetij, zlasti tistih, ki so aktivna v regiji ali imajo koristi od višjih cen nafte, bi to lahko pomenilo kratkoročno podporo, medtem ko bi za podjetja, odvisna od nizkih cen energije, to lahko predstavljalo stroškovni pritisk. Obvezniški trgi bi lahko zaznali povečano povpraševanje po varnih naložbah, če bi se geopolitične napetosti stopnjevale. Slovenski dolgoročni vlagatelj naj bo pozoren na morebitno volatilnost cen energentov in njen vpliv na inflacijo ter dobičkonosnost podjetij v različnih sektorjih. Spremljati je treba nadaljnji razvoj dogodkov v Libiji in širši regiji, saj bi morebitni nadaljnji napadi lahko imeli še večji vpliv na globalne cene nafte.",
       "vpliv": [
-        "Povečana geopolitična tveganja",
-        "Dodaten pritisk na cene nafte",
-        "Povečano povpraševanje po varnih zatočiščih",
-        "Negativni vpliv na globalno gospodarsko rast"
+        "Rast cen nafte (WTI, Brent)",
+        "Povečana premija za tveganje na energetskih trgih",
+        "Potencialna prekinitev dobave nafte iz Libije",
+        "Povečana volatilnost na trgih surovin"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss",
-      "objavljeno": "2026-08-10T16:24:13.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss",
+      "objavljeno": "2026-08-11T04:37:27.000Z"
     },
     {
-      "naslov": "Ameriška delovna sila se je v letu dni zmanjšala za več kot milijon ljudi",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
+      "naslov": "Nvidia in Wall Street financirata 500 milijard dolarjev za AI infrastrukturo",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "Velikost ameriške delovne sile se je v zadnjem letu zmanjšala za več kot milijon ljudi, kar je zaskrbljujoč trend. Delež Američanov, ki delajo ali iščejo zaposlitev, ni bil tako nizek od pandemije COVID-19. Julijsko poročilo o delovnih mestih je prineslo več slabih novic, ki kažejo na zmanjšanje udeležbe na trgu dela. Ta padec lahko kaže na strukturne spremembe v gospodarstvu ali na demografske izzive, ki dolgoročno vplivajo na produktivnost.",
-      "analiza": "Zmanjšanje ameriške delovne sile za več kot milijon ljudi v enem letu je pomemben makroekonomski podatek, ki lahko vpliva na prihodnje odločitve Federalnih rezerv (Fed). Manjša delovna sila lahko pomeni manjšo potencialno rast gospodarstva in lahko vodi v večje pritiske na plače, če povpraševanje po delavcih ostaja visoko. To bi lahko prispevalo k inflaciji, kar bi Fed prisililo k morebitnemu zaostrovanju denarne politike, kljub upočasnjevanju gospodarstva. Padec udeležbe na trgu dela, ki je najnižji po pandemiji, lahko odraža demografske trende, kot je staranje prebivalstva, ali pa dolgoročnejše spremembe v preferencah glede dela. Višje donosnosti obveznic, kot je danes zabeleženih +0.69 % na 4.69 % za 10-letno ameriško državno obveznico, lahko delno odražajo pričakovanja trga glede nadaljnjih inflacijskih pritiskov ali zaskrbljenost glede fiskalne vzdržnosti. Za delniške trge takšni podatki pomenijo negotovost, saj lahko vplivajo na pričakovane dobičke podjetij in na splošno gospodarsko rast. Slovenski dolgoročni vlagatelj bi moral biti pozoren na te makroekonomske kazalnike, saj imajo neposreden vpliv na globalno gospodarsko okolje in s tem na donosnost naložb, še posebej tistih, vezanih na ameriško gospodarstvo.",
+      "povzetek": "Nvidia je v ponedeljek pozno zvečer objavila partnerstvo s sedmimi finančnimi institucijami z Wall Streeta. Cilj partnerstva je zbrati več kot 500 milijard dolarjev tretjega kapitala za financiranje izgradnje infrastrukture umetne inteligence (AI). Ta poteza poudarja izjemno povpraševanje po AI tehnologijah in potrebo po obsežnih naložbah v strojno opremo in podatkovne centre. Nvidia, kot vodilni proizvajalec AI čipov, je v središču te digitalne transformacije. Partnerstvo kaže na močno zaupanje finančnega sektorja v dolgoročni potencial AI in pripravljenost za financiranje ambicioznih projektov. Pričakuje se, da bo ta investicija pospešila razvoj in implementacijo AI rešitev po vsem svetu.",
+      "analiza": "Partnerstvo Nvidie z Wall Streetom za financiranje 500 milijard dolarjev v AI infrastrukturo je ključen dogodek, ki poudarja obseg in pomen investicij v umetno inteligenco. To ni le novica o Nvidii, temveč o celotnem ekosistemu AI, ki zahteva ogromne kapitalske vložke za razvoj in implementacijo. Takšna obsežna finančna injekcija bo verjetno pospešila inovacije in rast v sektorju AI, kar bo imelo pozitivne posledice za podjetja, ki razvijajo AI rešitve, proizvajalce čipov in ponudnike podatkovnih centrov. Za delnice tehnoloških podjetij, še posebej tistih, ki so vključena v AI verigo vrednosti, to pomeni nadaljnjo podporo in potencial za rast. Indeksi, kot je Nasdaq 100, ki je sicer danes zabeležil rahel padec (-0,34 %), bi lahko dolgoročno imeli koristi od takšnih naložb. Povečano povpraševanje po specializiranih čipih in storitvah bo vplivalo na celotno industrijo. Slovenski dolgoročni vlagatelj naj razmisli o diverzifikaciji v sektorje, ki so izpostavljeni rasti AI, vendar naj bo pozoren na morebitne precenjenosti in tveganja, povezana z visoko rastnimi tehnološkimi delnicami. Ta poteza potrjuje, da je AI eden najpomembnejših makro trendov desetletja.",
       "vpliv": [
-        "Zmanjšana potencialna gospodarska rast ZDA",
-        "Možni inflacijski pritiski",
-        "Povečana negotovost glede denarne politike Fed",
-        "Pritisk na delniške trge"
+        "Povečane investicije v AI infrastrukturo",
+        "Potencialna rast delnic tehnoloških podjetij, povezanih z AI",
+        "Povečano povpraševanje po AI čipih in storitvah",
+        "Dolgotrajna podpora za tehnološke indekse"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-size-of-the-american-workforce-has-fallen-by-over-1-million-people-in-the-past-year-heres-whats-going-on-b8141aa3?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-10T15:00:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/nvidia-teams-with-wall-street-firms-to-help-finance-500-billion-for-ai-infrastructure-2c4805a5?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-11T02:28:00.000Z"
     },
     {
-      "naslov": "Jen oslabel, saj učinek ameriško-japonske intervencije na trgu bledi",
-      "sektor": "Makro & Centralne banke",
+      "naslov": "Trump zahteva odškodnino od Irana med pogovori o Hormuški ožini",
+      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Japonski jen je danes ponovno oslabel, saj je učinek skupne intervencije ZDA in Japonske na valutnem trgu začel bledeti. Valuta je izgubila približno polovico svojih prejšnjih dobičkov, ki so bili doseženi po usklajenem ukrepanju. Vlagatelji kot razlog navajajo pomanjkanje 'enotnega glasu' med centralnimi bankami, kar zmanjšuje verodostojnost in dolgoročni vpliv intervencije. To kaže na precejšnje izzive pri stabilizaciji jena v trenutnem globalnem ekonomskem okolju.",
-      "analiza": "Oslabelost jena po skupni intervenciji ZDA in Japonske poudarja izzive, s katerimi se soočajo centralne banke pri obvladovanju valutnih tečajev v obdobju različnih denarnih politik. Intervencije na valutnih trgih so pogosto kratkotrajne, če jih ne podpirajo temeljne ekonomske spremembe ali usklajena dolgoročna strategija centralnih bank. Pomanjkanje 'enotnega glasu' med centralnimi bankami, kot je omenjeno, zmanjšuje zaupanje vlagateljev in omogoča špekulativne napade na valuto. Šibkejši jen sicer koristi japonskim izvoznikom, saj so njihovi izdelki cenejši na mednarodnih trgih, vendar hkrati draži uvoz in povečuje inflacijske pritiske v državi. To lahko zaplete delo Banke Japonske, ki se trudi doseči stabilno inflacijo in gospodarsko rast. Za globalne trge to pomeni povečano volatilnost na valutnih trgih, kar lahko vpliva na mednarodno trgovino in investicije. Slovenski dolgoročni vlagatelj naj bo pozoren na valutne tečaje, saj lahko močna nihanja vplivajo na donosnost mednarodnih naložb, še posebej tistih, denominiranih v jenih ali povezanih z japonskim gospodarstvom.",
+      "povzetek": "Ameriški predsednik Donald Trump je zahteval odškodnino od Irana za '50 let' domnevne škode, medtem ko se nadaljujejo pogovori o odprtju Hormuške ožine. Iran je odprtje ožine pogojeval z vojnim reparacijami. Ta zahteva prihaja v času, ko se ZDA soočajo s pomanjkanjem orožja, kar je razkrila vojna v Iranu. Pogovori so del širših prizadevanj za rešitev dolgotrajnih napetosti med državama. Hormuška ožina je ključna pomorska pot za globalni transport nafte, zato ima vsaka eskalacija v regiji daljnosežne posledice za svetovne energetske trge. Trumpova zahteva dodatno zaostruje že tako napete odnose.",
+      "analiza": "Zahteva predsednika Trumpa po odškodnini od Irana in iranski pogoji za odprtje Hormuške ožine predstavljajo pomembno geopolitično tveganje. Hormuška ožina je strateška točka, skozi katero poteka približno petina svetovne nafte, zato ima vsaka grožnja z zaprtjem ali omejitvijo prometa takojšen vpliv na cene nafte. V preteklosti so podobne napetosti že povzročile skoke cen nafte, saj trgi reagirajo na negotovost dobave. Trenutno sta ceni WTI nafte pri 82,38 USD/sod in Brent nafte pri 87,95 USD/sod, kar kaže na že prisotno geopolitično premijo. Nadaljnje zaostrovanje bi lahko povzročilo še višje cene, kar bi vplivalo na inflacijo in stroške poslovanja podjetij po vsem svetu. Za delnice podjetij, odvisnih od transporta ali visokih cen energije, bi to bil negativen signal, medtem ko bi imela energetska podjetja potencialno korist. Obvezniški donosi, kot je 10-letna ameriška zakladnica pri 4,70 % (+0,84 %), bi se lahko zvišali zaradi inflacijskih pričakovanj ali pa bi se znižali zaradi povpraševanja po varnih naložbah v primeru širše krize. Slovenski dolgoročni vlagatelj naj bo pozoren na razvoj dogodkov v Perzijskem zalivu, saj imajo ti dogodki velik vpliv na globalno gospodarstvo in finančne trge.",
       "vpliv": [
-        "Oslabelost jena",
-        "Povečana volatilnost na valutnih trgih",
-        "Vpliv na japonske izvoznike in uvoznike",
-        "Izzivi za Banko Japonske"
+        "Potencialna rast cen nafte",
+        "Povečana geopolitična tveganja",
+        "Vpliv na inflacijska pričakovanja",
+        "Povečana volatilnost na trgih surovin"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-10T14:01:51.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss",
+      "objavljeno": "2026-08-11T02:32:47.000Z"
     },
     {
-      "naslov": "Shein ponuja IPO vlagateljem z vrednotenjem pod 30 milijardami dolarjev",
+      "naslov": "Grožnja umetne inteligence indijskemu sektorju IT in delovnim mestom",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Indija, država, ki je močno stavila na storitve informacijske tehnologije (IT), se zdaj sooča z grožnjo, ki jo predstavlja umetna inteligenca (AI). Članek v Financial Timesu opozarja, da prihaja do motenj v sektorju, ki je bil dolga leta gonilna sila indijskega gospodarstva in zaposlovanja. Avtomatizacija in napredne AI rešitve imajo potencial, da zmanjšajo potrebo po človeškem delu v nekaterih rutinskih IT nalogah. To bi lahko imelo resne posledice za milijone delovnih mest v Indiji in postavilo pod vprašaj dolgoročno strategijo države na področju tehnoloških storitev. Indija bo morala prilagoditi svojo delovno silo in izobraževalni sistem, da se bo spopadla s to tehnološko spremembo.",
+      "analiza": "Članek o grožnji umetne inteligence indijskemu IT sektorju poudarja širši makroekonomski trend, ki ga prinaša AI – avtomatizacijo in potencialno izgubo delovnih mest v določenih sektorjih. Indija je globalno središče za IT storitve in outsourcing, zato bi imel vpliv AI na njeno delovno silo daljnosežne posledice. To ni le indijski problem, ampak globalni izziv, ki vpliva na trge dela po vsem svetu. Za delnice podjetij, ki so močno odvisna od nizkocenovne delovne sile v IT sektorju, bi to lahko pomenilo pritisk na poslovne modele in dobičkonosnost, saj se bodo morala prilagoditi ali investirati v AI rešitve. Po drugi strani pa bi podjetja, ki razvijajo AI orodja za avtomatizacijo, lahko imela koristi. Na makro ravni bi lahko prišlo do povečanja brezposelnosti v nekaterih segmentih in potrebe po vladnih programih za prekvalifikacijo. To bi lahko vplivalo na potrošnjo in gospodarsko rast v Indiji. Slovenski dolgoročni vlagatelj naj razume, da AI ni le priložnost za rast, ampak tudi vir strukturnih sprememb na trgu dela, ki lahko vplivajo na globalne dobavne verige in poslovne modele podjetij, v katera vlaga. Pomembno je spremljati, kako se bodo države in podjetja prilagajala tem izzivom.",
+      "vpliv": [
+        "Potencialna izguba delovnih mest v IT sektorju",
+        "Spremembe v poslovnih modelih IT podjetij",
+        "Vpliv na gospodarsko rast Indije",
+        "Povečana potreba po prekvalifikaciji delovne sile"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-11T04:00:04.000Z"
+    },
+    {
+      "naslov": "Medijska družba Donalda Trumpa poroča o 238 milijonov dolarjev izgube",
       "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Podjetje za hitro modo Shein naj bi vlagateljem ponudilo svojo prvo javno ponudbo delnic (IPO) z vrednotenjem pod 30 milijardami dolarjev. To predstavlja precejšen padec, saj je vrednotenje podjetja v zadnjih štirih letih padlo za približno 70 %. Kljub temu Shein ostaja pomemben igralec v sektorju hitre mode, vendar se sooča z izzivi, kot so regulativni pregledi in kritike glede delovnih pogojev ter okoljskega vpliva.",
-      "analiza": "Znižano vrednotenje Sheina za IPO, ki je padlo za približno 70 % v zadnjih štirih letih na manj kot 30 milijard dolarjev, odraža spremenjeno razpoloženje na trgu do hitro rastočih, a potencialno tveganih podjetij. To kaže na večjo previdnost vlagateljev, še posebej v sektorjih, ki so pod drobnogledom zaradi etičnih in okoljskih vprašanj. Padec vrednotenja lahko vpliva na celoten trg IPO, saj lahko druga podjetja pričakujejo strožje pogoje in nižja vrednotenja. Vlagatelji so postali bolj selektivni in iščejo podjetja z jasnimi potmi do dobičkonosnosti in trajnostnimi poslovnimi modeli. V preteklosti so tehnološka podjetja in podjetja s hitro rastjo pogosto dosegala visoka vrednotenja, vendar se zdaj poudarek premika na trdne temelje in odgovorno poslovanje. Za slovenskega dolgoročnega vlagatelja je to opomin, da je pri naložbah v IPO-je in hitro rastoča podjetja potrebna previdnost. Pomembno je analizirati ne le potencial rasti, temveč tudi tveganja, povezana z regulacijo, konkurenco in ugledom podjetja.",
+      "povzetek": "Trump Media & Technology Group (TMTG), medijska družba nekdanjega ameriškega predsednika Donalda Trumpa, je poročala o izgubi v višini 238 milijonov dolarjev. To se je zgodilo v drugem četrtletju 2026, pri čemer so prihodki podjetja znašali manj kot 2 milijona dolarjev. Podjetje je izjavilo, da se bo ponovno osredotočilo na socialne medije, kar vključuje načrt za prodajo hitrejšega dostopa do Trumpovih objav. Novica je bila objavljena 11. avgusta 2026. Izguba je precejšnja glede na nizke prihodke in kaže na izzive, s katerimi se sooča podjetje v konkurenčnem medijskem in tehnološkem prostoru. Poročilo o izgubi je sovpadlo tudi s padcem kriptovalut, čeprav ni neposredne povezave med obema dogodkoma.",
+      "analiza": "Poročilo o 238 milijonov dolarjev izgube za Trump Media & Technology Group (TMTG) v drugem četrtletju 2026 je pomemben signal za vlagatelje, ki spremljajo podjetja z visokim profilom in špekulativnim potencialom. Tako velika izguba ob minimalnih prihodkih (manj kot 2 milijona dolarjev) kaže na resne poslovne izzive in potencialno preveliko vrednotenje podjetja na trgu. To lahko služi kot opozorilo o tveganjih, povezanih z naložbami v podjetja, ki so močno odvisna od posameznih osebnosti ali imajo nepreizkušene poslovne modele. Za delnice TMTG bi to seveda pomenilo negativen pritisk, kar bi se lahko odrazilo v padcu vrednosti. Širše gledano, takšne novice lahko vplivajo na sentiment do manjših, visoko tveganih tehnoloških in medijskih podjetij. Čeprav je Bitcoin danes zabeležil rahel padec na 63900 USD (-0,02 %), ni neposredne povezave med izgubo TMTG in gibanjem kriptovalut, razen morda splošnega sentimenta do tveganih naložb. Slovenski dolgoročni vlagatelj naj bo previden pri vlaganju v podjetja, ki nimajo jasnih in dobičkonosnih poslovnih modelov, ne glede na njihovo medijsko izpostavljenost. Pomembno je analizirati temeljne kazalnike in finančno stanje podjetij, preden se odločimo za naložbo.",
       "vpliv": [
-        "Znižano vrednotenje Shein IPO",
-        "Povečana previdnost vlagateljev do IPO-jev",
-        "Vpliv na sektor hitre mode",
-        "Poudarek na trajnostnih poslovnih modelih"
+        "Negativen vpliv na delnico TMTG",
+        "Opozorilo o tveganjih špekulativnih naložb",
+        "Potencialen vpliv na sentiment do manjših medijskih/tehnoloških podjetij",
+        "Poudarek na pomembnosti temeljnih kazalnikov"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/62d3a32d-8a38-4136-b32c-36f25099b91f?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-10T14:15:24.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss",
+      "objavljeno": "2026-08-11T04:52:07.000Z"
     },
     {
-      "naslov": "Delnice Archerja poskočile po prevzemu deleža Boeinga in poslu z električnimi letali",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
+      "naslov": "Podvojene čakalne vrste na večjih letališčih EU zaradi mejnih kontrol",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Delnice podjetja Archer Aviation so močno poskočile po objavi, da Boeing prodaja tri svoje hčerinske družbe podjetju Archer Aviation v zameno za lastniški delež v startupu za električna vertikalna vzletno-pristajalna letala (eVTOL). Ta strateška poteza kaže na naraščajoče zanimanje velikih letalskih proizvajalcev za razvoj in komercializacijo tehnologije eVTOL. Posel bi lahko pospešil razvoj Archerjevih električnih letal in okrepil njegov položaj na trgu, kar je spodbudilo optimizem vlagateljev.",
-      "analiza": "Strateški prevzem deleža Boeinga v Archer Aviation in prodaja treh hčerinskih družb je pomemben dogodek v sektorju letalstva in tehnologije. Poudarja trend, kjer uveljavljena podjetja, kot je Boeing, iščejo inovacije in rast prek partnerstev ali naložb v startup podjetja, ki razvijajo prelomne tehnologije, kot so eVTOL letala. Ta poteza kaže na zaupanje v potencial tehnologije električnih zračnih taksijev, ki bi lahko revolucionirali mestni transport in logistiko. Za delniške trge je to bil jasen pozitiven signal za Archer, kar se je odrazilo v skoku delnic. Hkrati to potrjuje, da se sektor zračne mobilnosti hitro razvija in privablja znatne investicije. V preteklosti smo videli podobne strateške naložbe v avtomobilski industriji v podjetja za električna vozila. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj v sektorjih, ki so na robu tehnoloških prebojev, kot je eVTOL, saj lahko ponujajo visoke donose, vendar so povezani tudi z višjimi tveganji zaradi zgodnje faze razvoja in regulativnih izzivov.",
+      "povzetek": "Novi mejni pregledi Evropske unije so povzročili podvojitev čakalnih vrst na večjih letališčih, kot sta Frankfurt in Amsterdam. Najdaljši časi čakanja so dosegli dve uri. To poročilo Financial Timesa z dne 11. avgusta 2026 poudarja logistične in ekonomske izzive, ki jih prinašajo strožji nadzor na zunanjih mejah EU. Povečane čakalne dobe vplivajo na potnike, letalske družbe in širši turistični sektor. To lahko povzroči zamude, izgubljene povezave in splošno nezadovoljstvo, kar ima lahko negativne gospodarske posledice za regijo. Ukrepi so namenjeni izboljšanju varnosti, vendar imajo očitne stranske učinke na učinkovitost potovanj.",
+      "analiza": "Podvojene čakalne vrste na letališčih v Frankfurtu in Amsterdamu zaradi strožjih mejnih kontrol EU so primer, kako lahko regulativni ukrepi vplivajo na gospodarstvo in vsakdanje življenje. Čeprav so namenjeni izboljšanju varnosti, imajo ti ukrepi neposredne negativne posledice za potovalni in turistični sektor. Dveurni čakalni časi ne vplivajo le na udobje potnikov, ampak tudi na poslovno učinkovitost, saj zamude povzročajo stroške za letalske družbe in podjetja, ki so odvisna od hitrega pretoka ljudi in blaga. To lahko zmanjša privlačnost Evrope kot turistične in poslovne destinacije. Za delnice letalskih družb in podjetij v turističnem sektorju bi to lahko pomenilo pritisk na dobičkonosnost zaradi zmanjšanega povpraševanja ali povečanih operativnih stroškov. Na makro ravni bi lahko to vplivalo na BDP držav, ki so močno odvisne od turizma. Valutni par EUR/USD je danes pri 1.1545 (-0,01 %), kar kaže na stabilnost, vendar bi dolgoročni negativni vpliv na evropsko gospodarstvo lahko vplival tudi na evro. Slovenski dolgoročni vlagatelj naj bo pozoren na to, kako regulativne spremembe vplivajo na sektorje, ki so odvisni od prostega pretoka ljudi in blaga, saj lahko to spremeni njihove dolgoročne obete. Učinkovitost mejnih kontrol bo ključna za uspeh teh ukrepov.",
       "vpliv": [
-        "Rast delnic Archer Aviation",
-        "Povečano zanimanje za eVTOL tehnologijo",
-        "Strateške naložbe v letalski industriji",
-        "Potencial za inovacije v transportu"
+        "Negativen vpliv na letalski in turistični sektor",
+        "Povečani operativni stroški za letalske družbe",
+        "Potencialno zmanjšanje turističnih prihodkov v EU",
+        "Vpliv na poslovno učinkovitost in pretok blaga"
       ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
-      "objavljeno": "2026-08-10T14:16:24.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/42137dd8-8fdc-4d66-b193-ca52d51bd929?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-11T04:01:01.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-10T16:38:58.067Z",
+    "posodobljenoOb": "2026-08-11T05:28:10.564Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7748.81,
-        "sprememba_pct": -0.11
+        "vrednost": 7753.11,
+        "sprememba_pct": -0.06
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29652.027,
-        "sprememba_pct": -0.24
+        "vrednost": 29621.805,
+        "sprememba_pct": -0.34
       },
       {
         "simbol": "^GDAXI",
@@ -141,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4421.9,
-        "sprememba_pct": 0.5,
+        "vrednost": 4458.6,
+        "sprememba_pct": 0.88,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 81.15,
-        "sprememba_pct": 3.8,
+        "vrednost": 82.38,
+        "sprememba_pct": 0.3,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 86.69,
-        "sprememba_pct": 3.76,
+        "vrednost": 87.95,
+        "sprememba_pct": 0.26,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1555,
-        "sprememba_pct": -0.06
+        "vrednost": 1.1545,
+        "sprememba_pct": -0.01
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.692,
-        "sprememba_pct": 0.69,
+        "vrednost": 4.699,
+        "sprememba_pct": 0.84,
         "enota": "%"
       }
     ],
@@ -181,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 64065.9,
-        "sprememba_pct": -1.21,
+        "vrednost": 63900,
+        "sprememba_pct": -0.02,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.13,
-      "sprememba_pct": 1.54
+      "vrednost": 15.46,
+      "sprememba_pct": 3.76
     }
   }
 }
