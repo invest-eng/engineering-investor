@@ -1,162 +1,162 @@
 {
-  "generiranoOb": "2026-08-12T05:46:12.126Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-08-12T16:30:35.635Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-08-12",
-  "povzetek": "Jutranja izdaja 12. avgusta 2026 prinaša mešane signale z globalnih trgov. Ameriški indeksi so noč zaključili z rahlim padcem, saj je S&P 500 zabeležil 7728 točk (-0.32 %), Nasdaq 100 pa 29525 točk (-0.33 %). Medtem so azijski trgi pokazali rast, z Nikkei 225, ki se je povzpel na 67518 točk (+0.82 %), evropski DAX pa je danes odprl pozitivno pri 26391 točkah (+0.26 %). Cene nafte so se zvišale, saj so napadi v Rdečem morju znova vzbudili skrbi glede dobav, pri čemer je Brent nafta dosegla 89.34 USD/sod (+0.48 %). Geopolitične napetosti ostajajo visoke, še posebej med Kitajsko in Tajvanom ter na Bližnjem vzhodu, kar vpliva na razpoloženje vlagateljev. V tehnološkem sektorju pa podjetja, kot je CoreWeave, poročajo o močni rasti zaradi povpraševanja po umetni inteligenci, kar kaže na nadaljnji optimizem v tem segmentu. Vlagatelji so pozorni tudi na prizadevanja podjetij, kot je GM, za stabilizacijo dobavnih verig. Ta teden bodo vlagatelji pozorno spremljali objave inflacijskih podatkov iz evroobmočja, ki bi lahko vplivali na pričakovanja glede monetarne politike Evropske centralne banke.",
+  "povzetek": "Popoldanska izdaja finančnega pregleda dneva, 12. avgusta 2026, kaže na mešano sliko globalnih trgov. Medtem ko so evropski trgi dan zaključili v rdečem, je nemški indeks DAX padel za 0,23 % na 26331 točk, ameriški delniški indeksi nadaljujejo z rastjo. S&P 500 je zrasel za 0,26 % na 7748 točk, tehnološko usmerjeni Nasdaq 100 pa je zabeležil močnejšo rast, +0,85 % na 29776 točk, kar kaže na nadaljnjo prevlado tehnološkega sektorja. Na surovinskih trgih je zlato pridobilo 0,95 % in se giblje pri 4483,30 USD za unčo, medtem ko sta ceni nafte WTI in Brent rahlo padli, na 83,04 USD oziroma 88,63 USD za sod. Donosnost 10-letne ameriške državne obveznice se je znižala za 0,26 % na 4,67 %, kar nakazuje na povečano povpraševanje po varnih naložbah ali pričakovanja nižjih obrestnih mer. V ospredju so danes novice o upočasnitvi inflacije v ZDA, opozorila o izčrpavanju zalog nafte in odmevni posli prevzemov, ki kažejo na aktivnost na kapitalskih trgih kljub geopolitičnim napetostim. Vlagatelji bodo v prihodnjih dneh pozorno spremljali morebitne nadaljnje objave glede inflacije in odzive centralnih bank, saj so ti podatki ključni za prihodnje odločitve o obrestnih merah.",
   "novice": [
     {
-      "naslov": "Nafta se draži zaradi napadov in negotovosti v Hormuški ožini",
-      "sektor": "Energetika",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Al Jazeera poroča, da so se cene nafte zvišale, saj so novi napadi v regiji zmanjšali upanje na ponovno odprtje Hormuške ožine. Brent nafta je tako zrasla za 0.48 % na 89.34 USD/sod, medtem ko je WTI nafta dosegla 83.58 USD/sod z rastjo 0.46 %. Šest ljudi je bilo ubitih v napadu Hutijev na ladjo v Bab al-Mandebu, kar je prva smrtna žrtev v ladijskem prometu, povezana s Hutiji, od začetka vojne med ZDA in Izraelom proti Iranu. Iran vztraja pri svojih pogojih za ponovno odprtje ožine, kar dodatno zaostruje situacijo. To kaže na nadaljnjo nestabilnost v ključni regiji za globalne energetske dobave.",
-      "analiza": "Hormuška ožina je ključna pomorska pot za transport nafte, saj skozi njo potuje približno petina svetovne nafte. Vsaka nestabilnost v tej regiji, kot so napadi Hutijev ali iranske grožnje z zaprtjem ožine, ima takojšen in velik vpliv na globalne cene nafte. Trenutni napadi in iranska pogajanja z Omanom poudarjajo dolgotrajno geopolitično tveganje, ki vpliva na energetske trge. Povišanje cen nafte, kot je danes pri Brentu na 89.34 USD/sod, neposredno vpliva na inflacijo in stroške poslovanja podjetij po vsem svetu. Za delnice to pomeni pritisk na podjetja z visokimi transportnimi stroški in tista, ki so odvisna od poceni energije. Obveznice bi lahko občutile pritisk zaradi inflacijskih pričakovanj, medtem ko bi valute držav, ki so neto uvoznice nafte, lahko oslabela. Zgodovinsko gledano so podobni dogodki v preteklosti, kot so naftni šoki v 70. letih, povzročili recesije. Vlagatelji morajo spremljati nadaljnji razvoj dogodkov v regiji in morebitne diplomatske rešitve. Za slovenskega dolgoročnega vlagatelja to pomeni, da so energenti še naprej vir nestabilnosti in tveganja, kar lahko vpliva na globalno gospodarsko rast in s tem na donose naložb.",
-      "vpliv": [
-        "Cene Brent nafte zrasle na 89.34 USD/sod",
-        "Povečana inflacijska tveganja",
-        "Pritisk na delnice podjetij z visokimi transportnimi stroški",
-        "Možna oslabelost valut neto uvoznic nafte"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
-      "objavljeno": "2026-08-12T03:41:42.000Z"
-    },
-    {
-      "naslov": "CoreWeave beleži rast delnic in močan zagon v umetni inteligenci",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "MarketWatch poroča, da je delnica ponudnika storitev v oblaku za umetno inteligenco, CoreWeave, močno poskočila po objavi zaslužkov. Podjetje je preseglo pričakovanja glede prihodkov in dobička, kar je izvršni direktor pozdravil kot 'pomembno prelomno točko'. To kaže na nadaljnji močan zagon v sektorju umetne inteligence, kjer povpraševanje po specializiranih infrastrukturnih rešitvah ostaja izjemno visoko. To potrjuje, da je sektor umetne inteligence še vedno v fazi hitre širitve in privablja veliko investicij. Uspeh CoreWeave odraža splošno optimistično razpoloženje vlagateljev glede prihodnosti AI tehnologij.",
-      "analiza": "Rast CoreWeave poudarja trenutni trend, kjer podjetja, ki zagotavljajo infrastrukturo za umetno inteligenco, doživljajo izjemno rast. Vlagatelji so v zadnjih letih močno vlagali v AI sektor, kar je poganjalo delnice podjetij, kot so Nvidia in drugi proizvajalci čipov ter ponudniki storitev v oblaku. Močni rezultati CoreWeave potrjujejo, da je povpraševanje po računalniški moči za AI aplikacije še vedno v vzponu, kar ustvarja ugodno okolje za specializirane ponudnike. To ima pozitiven vpliv na tehnološke delnice, še posebej tiste, ki so neposredno povezane z AI. Širše gledano, uspeh AI podjetij lahko spodbuja inovacije in produktivnost v drugih sektorjih. Vpliv na obveznice in valute je posreden, saj močna rast v tehnološkem sektorju lahko prispeva k splošni gospodarski rasti in optimizmu. Primerjalno, to spominja na dot-com obdobje, vendar z bolj oprijemljivimi temelji v smislu dejanskih prihodkov in dobičkov. Vlagatelji naj spremljajo trajnost teh visokih stopenj rasti in morebitno pregrevanje trga. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor umetne inteligence še vedno privlačen, vendar je pomembno razpršiti naložbe in biti pozoren na vrednotenja.",
-      "vpliv": [
-        "Rast delnice CoreWeave",
-        "Potrjen močan zagon v sektorju AI",
-        "Pozitiven vpliv na tehnološke delnice",
-        "Povečana privlačnost naložb v infrastrukturo AI"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-12T00:17:00.000Z"
-    },
-    {
-      "naslov": "Tajvan ostro kritizira Kitajsko zaradi pomorskih vaj z Indonezijo",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Financial Times poroča, da je Tajvan ostro kritiziral Kitajsko zaradi redkih skupnih pomorskih vaj z Indonezijo. Vaje, ki so potekale 12. avgusta 2026, so sprožile zaskrbljenost glede bolj asertivnega ravnanja Pekinga v spornih vodah. Tajvan je izrazil globoko zaskrbljenost nad kitajskimi vojaškimi aktivnostmi v regiji, ki jih vidi kot grožnjo regionalni stabilnosti. Peking s tem nadaljuje s prikazovanjem svoje vojaške moči v regiji, kar povečuje geopolitična tveganja. To dogajanje prispeva k že tako napetim odnosom med Kitajsko in Tajvanom.",
-      "analiza": "Geopolitične napetosti med Kitajsko in Tajvanom so že dolgo vir nestabilnosti v azijsko-pacifiški regiji, ki je ključna za globalno trgovino in dobavne verige. Skupne vaje Kitajske z Indonezijo, ki so redke, signalizirajo širjenje kitajskega vojaškega vpliva in potencialno preoblikovanje regionalnih zavezništev. To povečuje tveganje za morebitne konflikte, kar bi imelo katastrofalne posledice za globalno gospodarstvo, še posebej glede dobave polprevodnikov, saj je Tajvan ključen proizvajalec. Negativni vpliv se kaže v povečani negotovosti na delniških trgih, še posebej za podjetja, ki so močno odvisna od azijskih dobavnih verig. Valute v regiji bi lahko oslabela, medtem ko bi se vlagatelji lahko obrnili k varnim zatočiščem, kot sta zlato (ki je danes pri 4451.20 USD/oz, +0.23 %) in ameriške državne obveznice (čeprav je donos 10Y US Treasury padel na 4.68 %, -0.32 %). Zgodovinsko gledano, podobne napetosti v preteklosti, kot so tiste v Južnokitajskem morju, so povzročile tržne pretrese. Vlagatelji naj spremljajo diplomatske odzive in morebitne nadaljnje vojaške aktivnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da so geopolitična tveganja v Aziji pomemben dejavnik, ki lahko vpliva na globalne trge in s tem na vrednost naložb.",
-      "vpliv": [
-        "Povečana geopolitična tveganja v Aziji",
-        "Negativna negotovost na delniških trgih",
-        "Možna oslabelost azijskih valut",
-        "Povečano povpraševanje po varnih zatočiščih"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/e0ca4cab-c8ba-47d6-9465-13e2d73285fc?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-12T05:14:24.000Z"
-    },
-    {
-      "naslov": "Britanski premier priznava nezadostno pomoč pri stroških življenja",
+      "naslov": "Upočasnitev inflacije v ZDA julija zaradi umika cen energentov",
       "sektor": "Makro & Centralne banke",
       "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "BBC Business poroča, da je britanski predsednik vlade priznal, da obstoječa pomoč za obvladovanje stroškov življenja ni zadostna, in namignil na dodatno podporo. Premier je v treh tednih po prevzemu položaja napovedal vrsto ukrepov za pomoč ljudem. Ta izjava prihaja v času, ko se gospodinjstva po vsej državi soočajo z visokimi cenami in inflacijskimi pritiski, kar vpliva na kupno moč in splošno gospodarsko aktivnost. To kaže na nadaljnje pritiske na javne finance in potrebo po uravnoteženih fiskalnih politikah. Pričakuje se, da bo vlada iskala nove načine za ublažitev bremena za državljane.",
-      "analiza": "Priznanje predsednika vlade, da je potrebna dodatna pomoč pri stroških življenja, odraža resnost inflacijskih pritiskov in njihovega vpliva na potrošnike. Visoka inflacija, ki je posledica kombinacije energetske krize, motenj v dobavnih verigah in fiskalnih spodbud, zmanjšuje realno kupno moč in lahko vodi v zmanjšanje potrošnje, kar upočasnjuje gospodarsko rast. Napoved dodatne podpore lahko kratkoročno pomiri potrošnike in podpre potrošnjo, vendar dolgoročno lahko poveča javni dolg in potencialno prispeva k nadaljnjim inflacijskim pritiskom, če ni uravnotežena z drugimi ukrepi. Za delniške trge to pomeni mešan vpliv: podjetja, ki so odvisna od domače potrošnje, bi lahko imela korist od dodatne podpore, medtem ko bi se vlagatelji lahko bali večje inflacije in morebitnih dvigov obrestnih mer centralne banke. Obvezniški trgi bi lahko zaznali pritisk zaradi morebitnega povečanja javnega dolga in inflacijskih pričakovanj. Vlagatelji naj spremljajo konkretne ukrepe in njihov vpliv na inflacijo ter odzive centralnih bank. Za slovenskega dolgoročnega vlagatelja to kaže na širši trend, kjer vlade po svetu poskušajo ublažiti vpliv inflacije, kar lahko vpliva na fiskalno politiko in s tem na stabilnost valut in obvezniških trgov.",
+      "intenziteta": 3,
+      "povzetek": "Ameriška potrošniška inflacija se je julija umirila, saj so se cene energije začasno znižale. Po poročanju Al Jazeere so se cene energije v juliju znižale za 1,5 %, vendar so še vedno za 14,7 % višje kot pred letom dni. Ta upočasnitev inflacije je pomembna za Federal Reserve in njene prihodnje odločitve glede obrestnih mer. Kljub julijskemu padcu cen energije, splošni inflacijski pritiski ostajajo, zlasti zaradi višjih stroškov stanovanj. Analitiki so pričakovali določeno umiritev, vendar je dolgoročni trend še vedno pod drobnogledom.",
+      "analiza": "Upočasnitev ameriške potrošniške inflacije v juliju predstavlja ključen podatek za Federal Reserve in globalne finančne trge. Znižanje cen energije za 1,5 % v juliju, čeprav so letno še vedno 14,7 % višje, je pomagalo pri umiritvi splošnega indeksa. Ta dogodek je relevanten, saj vpliva na pričakovanja glede prihodnjih odločitev centralne banke o obrestnih merah. Če se inflacija konsistentno umirja, bi to lahko zmanjšalo pritisk na Federal Reserve za nadaljnje zviševanje obrestnih mer ali celo odprlo vrata za morebitno znižanje v prihodnosti. Mehanizem vpliva je direkten: nižja inflacija običajno pomeni manj agresivno monetarno politiko, kar je pozitivno za delniške trge, saj znižuje stroške zadolževanja podjetij in povečuje njihove dobičke. Za obveznice to pomeni rast cen in padec donosnosti, kar se že odraža v znižanju donosnosti 10-letne ameriške državne obveznice za 0,26 % na 4,67 %. Na valutnem trgu bi lahko umiritev inflacije in s tem morebitno manj agresivna Fed oslabila ameriški dolar, kar se danes odraža v rahlem padcu EUR/USD za 0,10 % na 1,1535. Surovine, kot je nafta, so danes že zabeležile manjše padce, kar delno prispeva k umirjanju inflacije. Za slovenskega dolgoročnega vlagatelja to pomeni, da bi stabilizacija inflacije lahko prinesla bolj predvidljivo ekonomsko okolje in potencialno ugodnejše pogoje za rast naložb v delnice in obveznice, vendar je treba spremljati, ali je ta umiritev trajnostna.",
       "vpliv": [
-        "Potencialna dodatna fiskalna podpora",
-        "Vpliv na inflacijska pričakovanja",
-        "Mešan vpliv na delnice podjetij, odvisnih od domače potrošnje",
-        "Pritisk na javni dolg"
+        "Znižanje cen energije za 1,5 % v juliju",
+        "10-letna US Treasury donosnost padla za 0,26 % na 4,67 %",
+        "EUR/USD padel za 0,10 % na 1.1535",
+        "Pričakovanja glede monetarne politike Fed"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cgmkee248vdo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-08-12T04:13:45.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss",
+      "objavljeno": "2026-08-12T15:08:31.000Z"
     },
     {
-      "naslov": "ZDA pozivajo Ukrajino k ustavitvi napadov na tankerje v Rusiji",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Financial Times poroča, da je ameriški senator JD Vance pozval Ukrajino, naj ustavi napade na tankerje, ki uporabljajo rusko pristanišče Novorossiysk. Washington je zaskrbljen zaradi kampanje Kijeva proti plovilom, ki zbirajo kazahstansko nafto iz Novorossiyska. Ta poteza poudarja napetosti znotraj zahodnih zaveznikov glede strategije v konfliktu in vpliva na globalne energetske trge. Takšna trenja med zavezniki lahko vplivajo na enotnost odziva na konflikt. Poziv kaže na kompleksnost usklajevanja mednarodnih interesov med vojno.",
-      "analiza": "Poziv ameriškega senatorja Ukrajini, naj preneha z napadi na tankerje, ki prevašajo nafto iz ruskih pristanišč, razkriva kompleksnost in morebitne razpoke v zahodni podpori Ukrajini. Čeprav so napadi namenjeni oslabitvi ruske vojaške in gospodarske moči, lahko motnje v dobavi nafte, tudi kazahstanske, ki potuje skozi ruska pristanišča, povzročijo globalno povišanje cen nafte in s tem destabilizacijo svetovnega gospodarstva. To je dilema med podporo Ukrajini in ohranjanjem globalne energetske stabilnosti. Za cene nafte (WTI nafta je pri 83.58 USD/sod, Brent nafta pri 89.34 USD/sod) bi nadaljevanje napadov pomenilo pritisk navzgor, medtem ko bi prekinitev lahko prinesla določeno stabilizacijo. Na delniških trgih bi se lahko pojavila negotovost glede nadaljnjega poteka konflikta in njegovih gospodarskih posledic. Obveznice in valute bi bile pod vplivom splošnega razpoloženja glede tveganja. Vlagatelji morajo spremljati odzive Ukrajine in morebitne nadaljnje izjave ameriških uradnikov. Za slovenskega dolgoročnega vlagatelja to pomeni, da geopolitični konflikti še naprej vplivajo na energetske trge in globalno gospodarstvo, kar zahteva pozorno spremljanje in razpršitev naložb.",
+      "naslov": "Mednarodna agencija za energijo opozarja na hitro izčrpavanje zalog nafte",
+      "sektor": "Geopolitika & Energetika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Mednarodna agencija za energijo (IEA) je izdala opozorilo, da se globalne zaloge nafte hitro izčrpavajo, in pozvala k nujnemu ponovnemu odprtju Hormuške ožine. To opozorilo prihaja v času, ko se tranzit skozi ožino zmanjšuje, saj je v torek prečkalo le osem plovil, v primerjavi s 130 do 140 pred vojno. Opec je medtem že četrti mesec zapored znižal svojo celoletno napoved rasti svetovnega povpraševanja po nafti, zdaj pričakuje rast na 580.000 sodčkov na dan. Geopolitične napetosti, zlasti vojna v Iranu, še naprej vplivajo na globalne dobavne verige in cene energentov.",
+      "analiza": "Opozorilo Mednarodne agencije za energijo (IEA) o hitrem izčrpavanju zalog nafte in poziv k ponovnemu odprtju Hormuške ožine poudarja resnost globalnih energetskih izzivov. Zmanjšan tranzit skozi Hormuško ožino, ključno pomorsko pot za prevoz nafte, neposredno vpliva na globalno ponudbo. Ta situacija je relevantna zaradi nadaljevanja geopolitičnih napetosti, zlasti v luči iranske vojne, ki že vpliva na cene nafte in goriva ter moti dobavne verige. Mehanizem vpliva je jasen: omejena ponudba nafte ob nespremenjenem ali naraščajočem povpraševanju vodi do višjih cen. Kljub temu sta ceni nafte WTI in Brent danes rahlo padli, za 0,19 % na 83,04 USD/sod oziroma za 0,31 % na 88,63 USD/sod, kar bi lahko bil kratkoročni odziv na umiritev inflacije v ZDA ali pa odraz Opecove znižane napovedi povpraševanja. Dolgoročno pa bi nadaljnje izčrpavanje zalog in motnje v dobavnih verigah lahko povzročile ponoven dvig cen. Višje cene nafte bi povečale inflacijske pritiske, kar bi lahko prisililo centralne banke k bolj restriktivni monetarni politiki, kar je negativno za delniške trge in lahko poveča donosnosti obveznic. Za slovenskega dolgoročnega vlagatelja to pomeni, da je energetski sektor še naprej izpostavljen geopolitičnim tveganjem, kar lahko povzroči volatilnost na trgih surovin in posredno vpliva na podjetja, odvisna od energentov.",
       "vpliv": [
-        "Povečana geopolitična tveganja",
-        "Potencialni vpliv na cene nafte",
-        "Negotovost na delniških trgih",
-        "Napetosti med zahodnimi zavezniki"
+        "Zmanjšan tranzit skozi Hormuško ožino na 8 plovil",
+        "Opec znižal napoved rasti povpraševanja na 580.000 sodčkov/dan",
+        "Potencialni pritisk na cene nafte",
+        "Povečana geopolitična tveganja"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/725b4d15-bd8d-4083-a04e-db016338af2e?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-12T04:00:19.000Z"
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live",
+      "objavljeno": "2026-08-12T13:54:16.000Z"
     },
     {
-      "naslov": "GM sklepa velik posel za stabilizacijo dobavnih verig delov",
+      "naslov": "Bob Iger in Josh Kushner kupila košarkarsko franšizo Lakers za 12,5 milijarde dolarjev",
       "sektor": "Finance",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "CNBC poroča, da je General Motors dosegel dogovor o dobavi delov v vrednosti do 4,5 milijarde dolarjev, zasnovan za preprečevanje težav v dobavni verigi. Ta dogovor sledi letom globalnih težav v avtomobilski dobavni verigi, ki so prizadele GM in druga podjetja. Cilj je zagotoviti stabilno dobavo ključnih komponent in zmanjšati tveganja, povezana z motnjami v proizvodnji. To je strateška poteza za zagotovitev konkurenčnosti in zmanjšanje ranljivosti v prihodnosti. Dogovor naj bi izboljšal predvidljivost proizvodnje in zmanjšal stroške.",
-      "analiza": "Dogovor General Motorsa v vrednosti 4,5 milijarde dolarjev je pomemben korak k stabilizaciji dobavnih verig v avtomobilski industriji, ki je bila v zadnjih letih močno prizadeta zaradi pandemije, geopolitičnih napetosti in pomanjkanja čipov. Takšni dolgoročni dogovori so ključni za zagotavljanje neprekinjene proizvodnje in zmanjšanje stroškov, povezanih z motnjami. To ima pozitiven vpliv na delnice GM in drugih avtomobilskih proizvajalcev, saj zmanjšuje operativna tveganja in izboljšuje napovedi proizvodnje. Širše gledano, to kaže na trend, kjer podjetja aktivno iščejo rešitve za krepitev odpornosti svojih dobavnih verig, kar je pomembno za globalno gospodarsko stabilnost. Vpliv na obveznice in valute je posreden, saj stabilnejše dobavne verige prispevajo k bolj predvidljivi gospodarski rasti in zmanjšanju inflacijskih pritiskov. Zgodovinsko gledano, so motnje v dobavnih verigah, kot je bila kriza s čipi, povzročile znatne izgube in upočasnitev rasti. Vlagatelji naj spremljajo, kako se bodo podobni dogovori širili po drugih sektorjih. Za slovenskega dolgoročnega vlagatelja to pomeni, da so podjetja aktivna pri zmanjševanju tveganj v dobavnih verigah, kar lahko prispeva k stabilnejšemu poslovanju in dolgoročnim donosom.",
+      "povzetek": "Bob Iger, nekdanji izvršni direktor Disneyja, in Josh Kushner, ustanovitelj tveganega kapitala, sta sklenila posel za nakup košarkarske franšize Los Angeles Lakers. Posel je vreden 12,5 milijarde dolarjev, prodajalec pa je Mark Walter iz Guggenheima, ki je ekipo prodal po samo enem letu lastništva. Prodaja poteka sredi preiskave ameriških oblasti v Walterjev zavarovalniški imperij. Ta odmevna transakcija poudarja visoke vrednosti v svetu profesionalnega športa in privablja pomembne investitorje.",
+      "analiza": "Nakup košarkarske franšize Los Angeles Lakers s strani Boba Igerja in Josha Kushnerja za 12,5 milijarde dolarjev je pomemben dogodek v svetu športa in financ. Ta transakcija poudarja naraščajoče vrednosti profesionalnih športnih ekip, ki so se v zadnjih letih izkazale za privlačne naložbe za premožne posameznike in investicijske skupine. Relevantnost posla leži v njegovi velikosti in vpletenosti znanih imen, kar kaže na nadaljnje prelivanje kapitala v sektor zabave in športa. Mehanizem vpliva na finančne trge je posreden, vendar pomemben: visoke valuacije v športu lahko odražajo splošno visoko likvidnost na trgu in pripravljenost vlagateljev za vstop v sektorje z močno blagovno znamko in potencialom za rast prihodkov od medijskih pravic, sponzorstev in globalne prepoznavnosti. To lahko vpliva na delnice podjetij, povezanih s športom in zabavo, in signalizira optimizem glede potrošniške porabe. Za obveznice in valute je vpliv minimalen. Za slovenskega dolgoročnega vlagatelja ta novica kaže na trend rasti vrednosti »alternativnih« naložb, kot so športne franšize, kar lahko posredno vpliva na širši trg prek splošnega sentimenta in alokacije kapitala.",
       "vpliv": [
-        "Stabilizacija dobavnih verig v avtomobilski industriji",
-        "Pozitiven vpliv na delnice GM",
-        "Zmanjšanje operativnih tveganj",
-        "Potencialno zmanjšanje inflacijskih pritiskov"
+        "Vrednost transakcije 12,5 milijarde USD",
+        "Prodajalec Mark Walter po enem letu lastništva",
+        "Poudarek na visokih valuacijah športnih franšiz",
+        "Vpletenost Boba Igerja in Josha Kushnerja"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/22534413-a23e-4ecb-b68f-c9f1105c8953?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-12T16:12:21.000Z"
+    },
+    {
+      "naslov": "Delnice Wendy's poskočile ob poročilih o morebitni prevzemni ponudbi Nelsona Peltza",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Delnice verige hitre prehrane Wendy's so poskočile po poročilih o morebitni prevzemni ponudbi s strani Trian Fund Managementa, ki ga vodi Nelson Peltz. Peltzov odnos z Wendy's sega več kot dve desetletji nazaj, ko je vodil aktivistično kampanjo. CNBC poroča, da je novica povzročila skok delnic. Trian Fund Management, BlueFive Capital in Flynn Group bi lahko v prihodnjih tednih oddali ponudbo. To kaže na aktivnost na področju združitev in prevzemov v sektorju hitre prehrane.",
+      "analiza": "Poročila o morebitni prevzemni ponudbi Nelsona Peltza in njegovega Trian Fund Managementa za verigo hitre prehrane Wendy's so povzročila skok delnic podjetja. Takšni dogodki so klasični primeri aktivističnega vlaganja in korporativnih prevzemov, ki imajo neposreden vpliv na vrednost delnic ciljnega podjetja. Relevantnost te novice leži v signaliziranju, da so nekatere družbe še vedno podcenjene v očeh aktivističnih vlagateljev, ki vidijo priložnosti za povečanje vrednosti delničarjev. Mehanizem vpliva je direkten: ko se pojavi novica o prevzemu, se delnice ciljnega podjetja običajno dvignejo, saj trg pričakuje premijo za prevzem. To je pozitivno za obstoječe delničarje. Vpliv na širše trge je omejen, vendar lahko signalizira splošno zaupanje v sektor potrošnikov in pripravljenost za konsolidacijo. Za obveznice, valute in surovine je vpliv zanemarljiv. Za slovenskega dolgoročnega vlagatelja to poudarja pomen spremljanja korporativnih dogodkov in potencialnih tarč prevzemov, saj lahko ti prinesejo hitre dobičke, vendar so pogosto špekulativni in zahtevajo poglobljeno analizo podjetja.",
+      "vpliv": [
+        "Delnice Wendy's poskočile",
+        "Nelson Peltz in Trian Fund Management",
+        "Potencialna prevzemna ponudba v prihodnjih tednih",
+        "Aktivnost M&A v sektorju hitre prehrane"
       ],
       "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
-      "objavljeno": "2026-08-11T22:42:10.000Z"
+      "vir_url": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
+      "objavljeno": "2026-08-12T15:25:09.000Z"
+    },
+    {
+      "naslov": "Spotify bo označil umetnike, ustvarjene z umetno inteligenco, in jih odstranil iz priporočil",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Spotify, vodilna platforma za pretakanje glasbe, bo od sredine septembra uvedla novo funkcijo: označevanje umetnikov, ustvarjenih z umetno inteligenco (AI), in njihovo odstranitev iz priporočil. Ta poteza je odgovor na naraščajočo prisotnost AI-generirane glasbe in pomisleke glede avtorskih pravic ter pristnosti. BBC Business poroča, da bo nova funkcija poslušalcem jasno sporočala, ali je izvajalec ustvarjen z umetno inteligenco.",
+      "analiza": "Odločitev Spotifyja, da bo označeval umetnike, ustvarjene z umetno inteligenco, in jih odstranil iz priporočil, je pomemben korak v razvoju glasbene industrije in vpliva umetne inteligence na ustvarjalnost. To je relevantno, saj kaže, kako se velika tehnološka podjetja spopadajo z izzivi, ki jih prinaša AI, kot so avtorske pravice, monetizacija in ohranjanje pristnosti vsebine. Mehanizem vpliva je večplasten: za Spotify to pomeni poskus ohranjanja zaupanja uporabnikov in zaščite človeških ustvarjalcev, kar lahko dolgoročno okrepi njihovo blagovno znamko. Za umetnike, ustvarjene z AI, to pomeni zmanjšano vidnost in potencialno manjši doseg. Na splošno to odraža širši trend, kjer se tehnološke platforme prilagajajo novim regulativnim in etičnim vprašanjem, ki jih prinaša AI. Vpliv na delnice Spotifyja je lahko mešan: kratkoročno lahko pride do negotovosti, dolgoročno pa lahko jasna politika glede AI poveča zaupanje v platformo. Na druge razrede sredstev je vpliv minimalen. Za slovenskega dolgoročnega vlagatelja ta novica poudarja, da je vpliv umetne inteligence na različne sektorje kompleksen in zahteva nenehno prilagajanje poslovnih modelov. Podjetja, ki uspešno krmarijo skozi te izzive, lahko dolgoročno pridobijo konkurenčno prednost.",
+      "vpliv": [
+        "Spotify bo označil AI-umetnike od sredine septembra",
+        "AI-umetniki odstranjeni iz priporočil",
+        "Odziv na naraščajočo AI-glasbo",
+        "Vpliv na avtorske pravice in pristnost"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-08-12T15:07:21.000Z"
+    },
+    {
+      "naslov": "Citadel Securities opozarja na kopičenje finančnega vzvoda na trgu",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Citadel Securities, preko svojega stratega Scotta Rubnerja, opozarja na kopičenje finančnega vzvoda na trgu, kljub temu da so predhodno napovedali »reset« delniškega trga. Rubner navaja, da rastoči seznam kupcev delnic, zlasti veliki hedge skladi in institucionalni upravljavci, potiska trg v pozitivno smer. To kaže na povečano aktivnost in optimizem med velikimi vlagatelji. Opozorilo se nanaša na morebitna tveganja, ki jih prinaša pretirano zadolževanje vlagateljev.",
+      "analiza": "Opozorilo Citadel Securitiesa, da se na trgu kopiči finančni vzvod, je pomembno za razumevanje trenutnega tržnega sentimenta in tveganj. Stratega Scotta Rubnerja skrbi, da kljub pozitivnemu gibanju trga, ki ga poganjajo veliki hedge skladi in institucionalni upravljavci, narašča raven zadolževanja. To je relevantno, saj pretiran finančni vzvod lahko poveča ranljivost trga za ostre korekcije, še posebej v primeru nepričakovanih šokov ali sprememb v monetarni politiki. Mehanizem vpliva je, da povečana uporaba vzvoda pogosto pospeši rast v bikovskem trgu, a hkrati poglobi padce v medvedjem trgu, saj se ob padcih sprožijo prisilne prodaje. To lahko poveča volatilnost delniških trgov, ki so danes v ZDA sicer v rasti (S&P 500 +0,26 %, Nasdaq 100 +0,85 %). Na obvezniške trge vpliva posredno, saj bi morebitna korekcija delniških trgov lahko povečala povpraševanje po varnih obveznicah in znižala njihove donosnosti. Za valute in surovine je neposreden vpliv manjši. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub pozitivnemu sentimentu na trgih pomembno biti pozoren na znake pregrevanja in morebitna tveganja, povezana s pretiranim zadolževanjem. Ohranjanje uravnoteženega portfelja in razumevanje makroekonomskih tveganj je ključnega pomena.",
+      "vpliv": [
+        "Opozorilo na kopičenje finančnega vzvoda",
+        "Veliki hedge skladi in institucionalni upravljavci kot gonilo rasti",
+        "Povečana ranljivost trga za korekcije",
+        "Potencialno povečana volatilnost delniških trgov"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/citadel-securities-called-the-stock-market-reset-now-it-says-leverage-may-build-up-again-988eec86?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-12T13:55:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-12T05:45:19.317Z",
+    "posodobljenoOb": "2026-08-12T16:26:39.794Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7728.2,
-        "sprememba_pct": -0.32
+        "vrednost": 7748.18,
+        "sprememba_pct": 0.26
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29525.479,
-        "sprememba_pct": -0.33
+        "vrednost": 29776.25,
+        "sprememba_pct": 0.85
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 26391.42,
-        "sprememba_pct": 0.26
+        "vrednost": 26331.07,
+        "sprememba_pct": -0.23
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 67517.75,
-        "sprememba_pct": 0.82
+        "vrednost": 67524.06,
+        "sprememba_pct": 0.83
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4451.2,
-        "sprememba_pct": 0.23,
+        "vrednost": 4483.3,
+        "sprememba_pct": 0.95,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 83.58,
-        "sprememba_pct": 0.46,
+        "vrednost": 83.04,
+        "sprememba_pct": -0.19,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 89.34,
-        "sprememba_pct": 0.48,
+        "vrednost": 88.63,
+        "sprememba_pct": -0.31,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1538,
-        "sprememba_pct": -0.07
+        "vrednost": 1.1535,
+        "sprememba_pct": -0.1
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.684,
-        "sprememba_pct": -0.32,
+        "vrednost": 4.672,
+        "sprememba_pct": -0.26,
         "enota": "%"
       }
     ],
@@ -181,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63789.26,
-        "sprememba_pct": 0.38,
+        "vrednost": 63457.18,
+        "sprememba_pct": -0.14,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.28,
-      "sprememba_pct": -1.16
+      "vrednost": 14.8,
+      "sprememba_pct": -3.14
     }
   }
 }
