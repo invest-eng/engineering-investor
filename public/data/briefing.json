@@ -1,128 +1,128 @@
 {
-  "generiranoOb": "2026-08-12T16:43:28.710Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-08-13T05:49:05.113Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-08-12",
-  "povzetek": "Evropski trgi so danes zaključili s trgovanjem v rahlem padcu, pri čemer je DAX izgubil 0,23 % in se ustavil pri 26331 točkah. Medtem so ameriški trgi, dve uri po odprtju, kazali pozitivno smer; S&P 500 je zrasel za 0,30 % na 7751 točk, Nasdaq 100 pa za 0,89 % na 29788 točk. Zlato je pridobivalo na vrednosti, z rastjo 0,87 % na 4479,70 USD za unčo, medtem ko sta ceni nafte WTI in Brent rahlo upadli, kljub opozorilom o hitrem praznjenju globalnih zalog. Donosnost 10-letne ameriške obveznice je padla za 0,30 % na 4,67 %, kar kaže na povečano povpraševanje po varnih naložbah ali pričakovanja nižjih obrestnih mer. Dolar se je okrepil proti evru, saj je par EUR/USD padel za 0,10 % na 1,1534. Vlagatelji so danes spremljali novice o upočasnitvi inflacije v ZDA, opozorila o tveganjih v tehnološkem sektorju in geopolitične napetosti, ki bi lahko vplivale na gospodarsko rast. Volatilnost trga, merjena z indeksom VIX, je padla za 3,21 % na 14,79. Kljub temu, da je Bitcoin zabeležil rahel padec za 0,16 % na 63446 USD, je splošno razpoloženje na ameriških trgih ostalo optimistično. V prihodnjih dneh bodo vlagatelji pozorno spremljali morebitne nadaljnje objave o inflaciji in odzive centralnih bank.",
+  "datum": "2026-08-13",
+  "povzetek": "Jutranji pregled finančnih trgov kaže na mešano sliko po nočnih dogodkih. Ameriški indeksi so trgovanje zaključili pozitivno, pri čemer je S&P 500 zrasel za 0,26 % na 7749 točk, Nasdaq 100 pa za 0,74 % na 29743 točk. Azijski trgi so sledili pozitivnemu trendu, Nikkei 225 je pridobil 1,66 % in dosegel 68646 točk, medtem ko je evropski DAX danes odprl z rahlim padcem za 0,23 % na 26331 točk. Geopolitične napetosti ostajajo v ospredju, z novicami o ruskem napadu na ukrajinsko pristanišče in nadaljevanjem vojne v Iranu, ki vpliva na cene nafte, kjer se WTI nafta giblje pri 82,93 USD/sod (-0,41 %), Brent pa pri 88,81 USD/sod (-0,19 %). V ospredju je tudi razcvet umetne inteligence, saj vlagatelji Anthropicu napovedujejo rekordno IPO z vrednostjo 2 bilijona dolarjev. Vlagatelji bodo v prihodnjih dneh pozorno spremljali objave ključnih makroekonomskih podatkov, predvsem inflacijske številke v evroobmočju, ki lahko vplivajo na pričakovanja glede monetarne politike Evropske centralne banke.",
   "novice": [
     {
-      "naslov": "Upočasnitev inflacije v ZDA julija zaradi umika cen energentov",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Ameriška potrošniška inflacija se je julija upočasnila, predvsem zaradi kratkotrajnega umika cen energentov. Cene energentov so se julija znižale za 1,5 %, vendar so še vedno za 14,7 % višje v primerjavi z letom prej. Ta umiritev inflacije bi lahko prinesla nekaj olajšanja za ameriške potrošnike, ki so se v preteklih mesecih soočali z visokimi stroški. Kljub julijskemu padcu, dolgoročni trend cen energentov ostaja povišan. Podatki kažejo na kompleksno sliko, kjer se nekateri inflacijski pritiski umirjajo, drugi pa vztrajajo.",
-      "analiza": "Upočasnitev inflacije v ZDA je ključen makroekonomski podatek, ki vpliva na pričakovanja glede monetarne politike Federal Reserve. Če se inflacija konsistentno umirja, se zmanjšuje pritisk na Fed za nadaljnje zviševanje obrestnih mer ali celo odpira pot za morebitno znižanje v prihodnosti. To je pozitivno za obveznice, saj nižje obrestne mere povečujejo njihovo privlačnost, kar se odraža v padcu donosnosti 10-letne ameriške obveznice za 0,30 % na 4,67 %. Za delniške trge je umiritev inflacije lahko mešano sporočilo; na eni strani zmanjšuje stroške poslovanja in povečuje kupno moč potrošnikov, na drugi pa lahko signalizira tudi upočasnjevanje gospodarske rasti. Kljub julijskemu umiku cen energentov, ki so se znižale za 1,5 %, ostajajo te cene na letni ravni še vedno 14,7 % višje, kar kaže na vztrajne inflacijske pritiske v širšem gospodarstvu. Zgodovinsko gledano, obdobja visoke inflacije, ki jim sledi umiritev, pogosto prinesejo obdobja negotovosti, preden se trgi stabilizirajo. Slovenski dolgoročni vlagatelj naj bo pozoren na nadaljnje objave inflacijskih podatkov in odzive centralnih bank, saj ti vplivajo na globalne obrestne mere in s tem na donosnost vseh razredov sredstev.",
-      "vpliv": [
-        "Zmanjšanje pritiska na Federal Reserve za zviševanje obrestnih mer",
-        "Padec donosnosti 10-letne ameriške obveznice za 0,30 %",
-        "Potencialno povečanje kupne moči potrošnikov",
-        "Vztrajni visoki stroški energentov na letni ravni"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss",
-      "objavljeno": "2026-08-12T15:08:31.000Z"
-    },
-    {
-      "naslov": "Mednarodna agencija za energijo opozarja na hitro praznjenje zalog nafte",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Mednarodna agencija za energijo (IEA) je izdala opozorilo, da se globalne zaloge nafte \"hitro praznijo\" in pozvala k nujnemu ponovnemu odprtju Hormuške ožine. Opec je že četrti mesec zapored znižal svojo celoletno napoved rasti svetovnega povpraševanja po nafti, zdaj pričakuje rast povpraševanja za 580.000 sodčkov na dan. To opozorilo prihaja v času, ko se tranzit skozi Hormuško ožino zmanjšuje, kar dodatno pritiska na globalne dobave nafte. Opecovo znižanje napovedi rasti povpraševanja kaže na zaskrbljenost glede globalne gospodarske aktivnosti.",
-      "analiza": "Opozorilo IEA o hitrem praznjenju globalnih zalog nafte in poziv k ponovnemu odprtju Hormuške ožine poudarja kritičnost trenutne situacije na energetskih trgih. Hormuška ožina je ključna pomorska pot za prevoz nafte, in njeno omejeno delovanje neposredno vpliva na globalno ponudbo. Čeprav sta ceni nafte WTI in Brent danes rahlo upadli (WTI za 0,10 % na 83,12 USD/sod, Brent za 0,28 % na 88,66 USD/sod), dolgoročni pritisk na rast cen ostaja močan zaradi zmanjšane ponudbe in geopolitičnih tveganj. Opecovo znižanje napovedi rasti povpraševanja po nafti za 580.000 sodčkov na dan pa kaže na morebitno upočasnjevanje globalne gospodarske rasti, kar bi lahko delno ublažilo pritisk na cene. Vendar pa je kombinacija zmanjšane ponudbe in morebitnega upada povpraševanja kompleksna. Zgodovinsko gledano, motnje v dobavnih verigah nafte in geopolitične napetosti na Bližnjem vzhodu vedno povzročijo volatilnost cen nafte in imajo širše makroekonomske posledice, vplivajoč na inflacijo in stroške poslovanja podjetij. Slovenski dolgoročni vlagatelj naj bo pozoren na razvoj dogodkov v Hormuški ožini in odločitve Opeca, saj imajo ti dogodki velik vpliv na cene energentov in s tem na inflacijo ter dobičkonosnost podjetij.",
-      "vpliv": [
-        "Pritisk na rast cen nafte dolgoročno",
-        "Povečana volatilnost na energetskih trgih",
-        "Možen vpliv na inflacijo in stroške podjetij",
-        "Znižana napoved rasti povpraševanja po nafti s strani Opeca"
-      ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live",
-      "objavljeno": "2026-08-12T13:54:16.000Z"
-    },
-    {
-      "naslov": "Wall Street v evforiji: Tehnološki velikani spominjajo na leto 1999",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Članek opozarja na znake \"vesele evforije\" na Wall Streetu, ki spominjajo na ozračje pred zloglasnim dot-com balonom konec 90. let. Omenja podjetja kot so Nvidia, Intel in Google kot primere, ki so v središču tega razpoloženja. Avtorji vidijo podobnosti v hitri rasti delnic in optimizmu, ki morda ni vedno utemeljen v temeljnih kazalnikih. To razpoloženje bi lahko kazalo na pregrevanje trga, še posebej v tehnološkem sektorju.",
-      "analiza": "Opozorilo, da Wall Street \"žura kot leta 1999\", je pomemben signal za vlagatelje, saj se nanaša na obdobje dot-com balona, ki mu je sledil oster padec. Visoka rast delnic tehnoloških velikanov, kot so Nvidia, Intel in Google, je pogosto gonilo širših indeksov, kot je Nasdaq 100, ki je danes zrasel za 0,89 % na 29788 točk. Čeprav trenutna rast temelji na močnih dobičkih in inovacijah (npr. AI), obstaja tveganje, da se vrednotenja delnic oddaljujejo od realnih temeljnih kazalnikov. V takšnih obdobjih se pogosto pojavijo špekulativne naložbe in pretiran optimizem, ki lahko privede do korekcije. Zgodovinsko gledano, so obdobja pretirane evforije pogosto sledila obdobja tržnih korekcij, ki so prizadela predvsem visoko vrednotene delnice. Za obveznice in surovine je vpliv posreden; morebitna korekcija na delniških trgih bi lahko povzročila beg v varnejše naložbe, kot so obveznice in zlato, ki je danes zraslo za 0,87 % na 4479,70 USD/oz. Slovenski dolgoročni vlagatelj naj bo previden pri vlaganju v visoko vrednotene delnice, še posebej v tehnološkem sektorju, in naj se osredotoči na diverzifikacijo portfelja ter temeljne analize podjetij, namesto da se prepusti tržni evforiji.",
-      "vpliv": [
-        "Opozorilo na pregrevanje trga, zlasti v tehnološkem sektorju",
-        "Potencialno tveganje za korekcijo delniških trgov",
-        "Povečano zanimanje za varnejše naložbe (obveznice, zlato) v primeru korekcije",
-        "Vpliv na Nasdaq 100, ki je danes zrasel za 0,89 %"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/nvidia-intel-google-wall-street-is-partying-like-its-1999-8520c1e3?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-12T16:00:00.000Z"
-    },
-    {
-      "naslov": "Delnice Wendy's poskočile ob poročilu o morebitni prevzemni ponudbi",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Delnice verige hitre prehrane Wendy's so poskočile po poročilu o morebitni prevzemni ponudbi s strani investicijskega sklada Trian Fund Management, ki ga vodi Nelson Peltz. Peltzovo razmerje z Wendy's sega več kot dve desetletji nazaj, ko je vodil aktivistično kampanjo. Poročilo Financial Timesa dodaja, da bi Trian Fund Management, BlueFive Capital in Flynn Group lahko predložili ponudbo v prihodnjih tednih. To kaže na ponovno zanimanje za podjetje in potencialno spremembo lastništva.",
-      "analiza": "Poročilo o morebitni prevzemni ponudbi za Wendy's s strani Nelsona Peltza in njegovega Trian Fund Managementa je povzročilo takojšen skok delnic podjetja. Takšne novice so običajno zelo pozitivne za delničarje prevzetega podjetja, saj prevzemne ponudbe pogosto vključujejo premijo nad trenutno tržno ceno. Nelson Peltz je znan aktivistični vlagatelj, ki pogosto išče podjetja z neizkoriščenim potencialom in pritiska na spremembe v upravljanju, da bi povečal vrednost za delničarje. Njegova zgodovina z Wendy's, ki sega več kot dve desetletji nazaj, dodaja kontekst tej morebitni transakciji. Za širše delniške trge takšni dogodki kažejo na aktivnost v sektorju združitev in prevzemov (M&A), kar lahko signalizira zaupanje v gospodarske razmere in iskanje vrednosti. Vpliv na obveznice, valute in surovine je minimalen, saj gre za specifično korporativno novico. Slovenski dolgoročni vlagatelj naj razume, da so prevzemi in aktivistično vlaganje del dinamike kapitalskih trgih, ki lahko prinesejo hitre dobičke za delničarje prevzetih podjetij, vendar so takšne naložbe pogosto špekulativne in zahtevajo poglobljeno analizo.",
-      "vpliv": [
-        "Takojšen skok delnic Wendy's",
-        "Povečana aktivnost v sektorju združitev in prevzemov (M&A)",
-        "Potencialna premija za delničarje Wendy's",
-        "Signal zaupanja v gospodarske razmere"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
-      "objavljeno": "2026-08-12T15:25:09.000Z"
-    },
-    {
-      "naslov": "Opozorilo: Vojna v Iranu bi lahko prizadela rast Združenega kraljestva",
+      "naslov": "Ruski napad na ukrajinsko pristanišče in Zelenskijeva prošnja za prestreznike",
       "sektor": "Geopolitika",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Burnham je opozoril, da bi lahko vojna v Iranu prihodnje leto prizadela gospodarsko rast Združenega kraljestva. Konflikt na Bližnjem vzhodu je že povzročil rast cen nafte in goriva ter motnje v dobavnih verigah. To opozorilo poudarja, kako globalni geopolitični dogodki lahko imajo neposredne in daljnosežne ekonomske posledice tudi za oddaljene države. Rast cen energentov in motnje v logistiki predstavljajo resno tveganje za podjetja in potrošnike.",
-      "analiza": "Opozorilo o vplivu iranske vojne na gospodarsko rast Združenega kraljestva poudarja prepletenost globalne ekonomije in geopolitike. Konflikt na Bližnjem vzhodu, kot je iranska vojna, neposredno vpliva na cene nafte in goriva, kar se odraža v višjih stroških za podjetja in potrošnike po vsem svetu. Čeprav sta ceni nafte WTI in Brent danes rahlo upadli, dolgoročni trend rasti cen zaradi geopolitičnih napetosti ostaja. Višje cene energentov povečujejo inflacijo in zmanjšujejo kupno moč, kar lahko upočasni gospodarsko rast, kot je opozorjeno za Združeno kraljestvo. Motnje v dobavnih verigah, ki so posledica konflikta, dodatno obremenjujejo globalno trgovino in proizvodnjo. Za delniške trge to pomeni povečano negotovost in potencialno zmanjšanje dobičkov podjetij, zlasti tistih, ki so odvisna od stabilnih dobavnih verig in nizkih cen energentov. Obveznice bi lahko v takšnih razmerah služile kot varno zatočišče, medtem ko bi valute držav, ki so močno odvisne od uvoza energentov, lahko oslabele. Slovenski dolgoročni vlagatelj naj bo pozoren na geopolitična tveganja, saj imajo ta lahko pomemben vpliv na globalno gospodarstvo, inflacijo in s tem na vrednost naložb.",
+      "intenziteta": 3,
+      "povzetek": "Ukrajina poroča o ruskem napadu, ki je sprožil požar v enem izmed ukrajinskih pristanišč. Predsednik Zelenskij je ob tem ponovno pozval k dobavi prestreznikov Patriot, saj se Ukrajina sooča z akutnim pomanjkanjem teh obrambnih sistemov. Pomanjkanje je še posebej izrazito, odkar so ZDA februarja vstopile v vojno z Iranom, kar je preusmerilo dobave. Napad na pristanišče poudarja nadaljnje motnje v pomorskem prometu in izvozu iz regije.",
+      "analiza": "Napad na ukrajinsko pristanišče predstavlja pomembno eskalacijo konflikta in ima večplastne posledice za finančne trge. V kontekstu pomanjkanja prestreznikov Patriot, ki je posledica ameriške vojne z Iranom, se zmanjšuje obrambna sposobnost Ukrajine, kar povečuje tveganje za nadaljnje napade na ključno infrastrukturo. To je še posebej pomembno za izvoz žita in drugih surovin iz črnomorske regije, kar lahko povzroči motnje v globalnih dobavnih verigah. Posledično lahko pričakujemo pritisk na rast cen žita in drugih kmetijskih pridelkov, kar bi prispevalo k inflacijskim pritiskom. Povečana geopolitična nestabilnost običajno vodi tudi v beg kapitala v varnejša zatočišča, kot so zlato (ki je danes pri 4454,90 USD/oz, -0,28 %) in nekatere obveznice, medtem ko se delniški trgi, še posebej v Evropi, lahko soočajo z volatilnostjo. Za slovenskega dolgoročnega vlagatelja to pomeni povečano negotovost in potencialno višje cene surovin, kar se lahko odrazi v višji inflaciji in morebitnem upočasnjevanju gospodarske rasti v evroobmočju. Pomembno je spremljati razvoj dogodkov in vpliv na globalne dobavne verige.",
       "vpliv": [
-        "Potencialno zmanjšanje gospodarske rasti Združenega kraljestva",
-        "Rast cen nafte in goriva",
-        "Motnje v globalnih dobavnih verigah",
-        "Povečana inflacija in zmanjšana kupna moč"
+        "Povečanje cen žita in kmetijskih pridelkov",
+        "Povečana volatilnost na evropskih delniških trgih",
+        "Rast cen zavarovanj za pomorski promet",
+        "Pritisk na inflacijo v evroobmočju"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-08-12T14:17:26.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss",
+      "objavljeno": "2026-08-13T05:26:05.000Z"
     },
     {
-      "naslov": "Prejemniki socialne varnosti v ZDA bodo prejeli višje prejemke prihodnje leto",
-      "sektor": "Makro & Centralne banke",
+      "naslov": "Vojna v Iranu: ZDA in Teheran si izmenjujeta nasprotujoče trditve o nadzoru Hormuške ožine",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "V živem prenosu dogajanja v iranski vojni sta ZDA in Teheran izmenjala nasprotujoče trditve glede nadzora nad strateško pomembno Hormuško ožino. Predsednik Trump vztraja, da imajo ZDA 'popoln nadzor' nad ožino, medtem ko Teheran ostaja neomajen, da morajo ZDA izpolniti njegove zahteve. Ta ključna ožina je vitalna za globalni transport nafte in plina, saj skozi njo potuje približno 20 % svetovne nafte.",
+      "analiza": "Nadaljevanje vojne med ZDA in Iranom ter spor glede nadzora nad Hormuško ožino predstavljata eno največjih geopolitičnih tveganj za globalne finančne trge. Hormuška ožina je ključna pomorska pot za transport nafte, saj skozi njo poteka približno petina svetovne nafte in velik del utekočinjenega zemeljskega plina. Kakršnakoli resnejša motnja ali blokada te ožine bi imela katastrofalne posledice za globalno oskrbo z energijo. Cene nafte, ki so danes pri 82,93 USD/sod za WTI in 88,81 USD/sod za Brent, bi v takšnem scenariju verjetno skokovito narasle, kar bi povzročilo globalno recesijo in močne inflacijske pritiske. Poleg nafte bi se povečala tudi volatilnost na delniških trgih, še posebej v sektorjih, ki so odvisni od stabilnih cen energije, kot so letalski prevozniki in industrija. Zlato bi kot varno zatočišče verjetno pridobivalo na vrednosti. Za slovenskega dolgoročnega vlagatelja to pomeni izjemno visoko tveganje za globalno gospodarstvo in potencialno zmanjšanje vrednosti naložb v delnice, medtem ko bi naložbe v surovine, kot je nafta, lahko kratkoročno pridobile. Spremljanje razvoja dogodkov v tej regiji je ključnega pomena.",
+      "vpliv": [
+        "Potencialen skokovit porast cen nafte (WTI, Brent)",
+        "Povečana globalna inflacija in tveganje recesije",
+        "Povečana volatilnost na delniških trgih",
+        "Rast cene zlata kot varnega zatočišča"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss",
+      "objavljeno": "2026-08-13T00:00:00.000Z"
+    },
+    {
+      "naslov": "Vlagatelji Anthropicu napovedujejo 2 bilijona dolarjev vrednosti v rekordni IPO",
+      "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Prejemniki socialne varnosti v ZDA lahko pričakujejo višje prejemke v prihodnjem letu. Prilagoditev življenjskih stroškov (COLA) bi lahko leta 2027 znašala kar 3,6 %. To povečanje je namenjeno ohranjanju kupne moči upokojencev in drugih upravičencev v luči inflacije. Povečanje prejemkov bo vplivalo na milijone ameriških gospodinjstev.",
-      "analiza": "Napovedano povečanje prejemkov socialne varnosti v ZDA, ki bi lahko leta 2027 znašalo do 3,6 %, je pomemben makroekonomski dejavnik. Ta prilagoditev življenjskih stroškov (COLA) je neposredno povezana z inflacijo in je namenjena zaščiti kupne moči upokojencev. Povečanje prejemkov bo imelo pozitiven vpliv na potrošnjo, saj bodo milijoni gospodinjstev imeli na voljo več denarja, kar lahko podpre gospodarsko rast. To lahko posredno vpliva na delniške trge, zlasti na podjetja v sektorju potrošniškega blaga in storitev. Hkrati pa takšna povečanja prispevajo k proračunskim izdatkom države, kar je pomembno za obvezniške trge. Če se inflacija nadaljuje, bodo potrebne nadaljnje prilagoditve, kar lahko vpliva na dolgoročno vzdržnost sistema socialne varnosti. Zgodovinsko gledano, so prilagoditve COLA ključne za stabilnost socialnih sistemov in imajo pomemben vpliv na makroekonomsko sliko. Slovenski dolgoročni vlagatelj naj razume, da so takšne vladne politike pomembne za stabilnost potrošnje v velikih gospodarstvih, kot so ZDA, kar posredno vpliva na globalne trge in s tem na naložbene priložnosti.",
+      "povzetek": "Vlagatelji v podjetje Anthropic, ustvarjalca modela umetne inteligence Claude, upajo na rekordno javno ponudbo delnic (IPO), ki bi podjetje ovrednotila na neverjetnih 2 bilijona dolarjev. Hitra rast prihodkov podjetja podžiga optimizem, da lahko Anthropic premaga izzive in postane največja kotacija v zgodovini. Ta napoved poudarja izjemen razcvet sektorja umetne inteligence in visoka pričakovanja vlagateljev glede prihodnje rasti.",
+      "analiza": "Napovedi o 2 bilijonih dolarjev vrednosti za Anthropic v rekordni IPO odražajo izjemen optimizem in vlagateljsko mrzlico, ki trenutno obdaja sektor umetne inteligence. Ta dogodek se umešča v širši trend 'supercikla' umetne inteligence, ki poganja rast tehnološkega sektorja, kar je vidno tudi pri indeksih, kot je Nasdaq 100, ki je danes zrasel za 0,74 % na 29743 točk. Visoka valuacija Anthropic-a bi lahko služila kot merilo za druga podjetja na področju umetne inteligence, privabila še več kapitala v sektor in spodbudila nadaljnje inovacije. Vendar pa tako visoke valuacije vedno prinašajo tudi vprašanja o vzdržnosti in morebitnem pregrevanju trga, kar bi lahko vodilo v korekcije. Vpliv na delniške trge bi bil nadaljnja podpora tehnološkim delnicam, medtem ko bi se lahko povečale razlike med podjetji, ki so v ospredju AI, in tistimi, ki zaostajajo. Za slovenskega dolgoročnega vlagatelja je to opomin na pomembnost diverzifikacije in previdnosti pri naložbah v visoko valuiranih sektorjih. Čeprav AI ponuja ogromen potencial, je ključno oceniti dolgoročno vzdržnost rasti in ne podleči pretiranemu navdušenju.",
       "vpliv": [
-        "Povečanje kupne moči milijonov ameriških gospodinjstev",
-        "Potencialna podpora gospodarski rasti in potrošnji",
-        "Vpliv na proračunske izdatke ZDA",
-        "Posreden vpliv na delniške trge (potrošniški sektor)"
+        "Povečan optimizem in investicije v sektor AI",
+        "Potencialna rast tehnoloških delnic",
+        "Povečana vprašanja o vzdržnosti visokih valuacij",
+        "Privabljanje talentov in kapitala v AI podjetja"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-12T14:54:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-13T04:00:23.000Z"
+    },
+    {
+      "naslov": "Zakaj carine niso ustrezno orodje za krepitev ameriške proizvodnje",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Analiza Al Jazeere postavlja pod vprašaj učinkovitost carin kot orodja za krepitev ameriške proizvodnje. Drugi mandat Donalda Trumpa so zaznamovale carine, vendar strokovnjaki dvomijo o njihovi dejanski učinkovitosti. Članek poudarja, da carine pogosto ne dosežejo želenega cilja, temveč lahko povzročijo višje stroške za potrošnike in podjetja ter sprožijo povračilne ukrepe drugih držav, kar škoduje globalni trgovini.",
+      "analiza": "Razprava o učinkovitosti carin v ZDA je ključnega pomena za globalno makroekonomijo. Carine, ki so zaznamovale drugi mandat predsednika Trumpa, so bile uvedene z namenom zaščite domače industrije in spodbujanja lokalne proizvodnje. Vendar pa številni ekonomisti opozarjajo, da carine pogosto vodijo v višje cene za domače potrošnike, saj uvoženo blago postane dražje, kar se odraža v inflaciji. Poleg tega lahko carine izzovejo povračilne ukrepe drugih držav, kar škoduje izvozno usmerjenim podjetjem in moti globalne dobavne verige. To lahko negativno vpliva na globalno gospodarsko rast in poveča negotovost na trgih. Za delniške trge to pomeni povečano tveganje za multinacionalna podjetja, ki so odvisna od mednarodne trgovine, medtem ko bi se lahko nekatere domače industrije kratkoročno okrepile. Za slovenskega dolgoročnega vlagatelja je to pomembno, saj Slovenija kot izvozno usmerjeno gospodarstvo močno občuti vsakršne motnje v globalni trgovini. Povečana carinska vojna bi lahko zmanjšala povpraševanje po slovenskih izdelkih in storitvah, kar bi vplivalo na dobičkonosnost podjetij in širšo gospodarsko rast.",
+      "vpliv": [
+        "Povečani stroški za ameriške potrošnike in podjetja",
+        "Potencialni povračilni ukrepi drugih držav",
+        "Negativen vpliv na globalno trgovino in rast",
+        "Zmanjšana dobičkonosnost multinacionalnih podjetij"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_tariffs-not-the-right-tool-to-bolster-us-production-130826?traffic_source=rss",
+      "objavljeno": "2026-08-13T05:00:07.000Z"
+    },
+    {
+      "naslov": "Oman sporoča, da je naftni madež s poškodovanega tankerja dosegel njegovo obalo",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Oman je sporočil, da je naftni madež s poškodovanega tankerja dosegel njegovo obalo. Omanski okoljski organ navaja, da je naftno onesnaženje prizadelo do 40 km obale. Ta incident predstavlja resno okoljsko katastrofo in potencialno grožnjo za morski ekosistem in lokalno ribiško industrijo. Podrobnosti o vzroku poškodbe tankerja in obsegu izliva še niso v celoti znane, vendar so posledice že vidne.",
+      "analiza": "Naftni madež ob obali Omana, ki je posledica poškodovanega tankerja, je resna okoljska in potencialno ekonomska novica. Čeprav ne gre za neposredno motnjo v globalni oskrbi z nafto, kot bi bila blokada Hormuške ožine, ima incident več pomembnih posledic. Onesnaženje 40 km obale bo zahtevalo obsežne in drage čistilne akcije, kar bo vplivalo na državne finance in lokalno gospodarstvo, še posebej turizem in ribištvo. Poleg tega takšni dogodki povečujejo pritisk na ladjarsko industrijo in regulatorje, da poostrijo varnostne standarde in predpise, kar lahko dolgoročno vpliva na stroške prevoza nafte. Čeprav ne pričakujemo dramatičnega vpliva na cene nafte (WTI nafta je pri 82,93 USD/sod, Brent pri 88,81 USD/sod), lahko incident prispeva k splošni negotovosti na trgu surovin in poudari ranljivost energetskih dobavnih verig. Za slovenskega dolgoročnega vlagatelja to poudarja pomen ESG (okoljskih, socialnih in upravljavskih) dejavnikov pri naložbenih odločitvah in potencialni vpliv okoljskih katastrof na globalne dobavne verige in poslovanje podjetij, še posebej v sektorjih, kot sta ladjedelništvo in energetika.",
+      "vpliv": [
+        "Povečani stroški čiščenja in okoljske škode za Oman",
+        "Potencialno poostritev regulacije v ladijskem prometu",
+        "Negativen vpliv na lokalni turizem in ribištvo",
+        "Povečana ozaveščenost o ESG tveganjih v energetiki"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss",
+      "objavljeno": "2026-08-13T04:26:11.000Z"
+    },
+    {
+      "naslov": "Bitka v upravi indijskega velikana Tata Sons napoveduje 'ero Noela Tate'",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "V indijskem konglomeratu Tata Sons, ki je vreden 280 milijard dolarjev in je lastnik podjetij, kot sta Air India in Jaguar Land Rover, se obeta turbulenten prehod vodenja. Bitka v upravi napoveduje začetek 'ere Noela Tate', saj N Chandrasekaranov naslednik prevzema vodenje. Ta sprememba na vrhu tako velikega in vplivnega podjetja bo imela pomembne posledice za indijski poslovni svet in globalne trge, kjer je Tata prisotna.",
+      "analiza": "Prehod vodenja in bitka v upravi indijskega konglomerata Tata Sons, ki je vreden 280 milijard dolarjev, je ključna novica za vlagatelje v nastajajočih trgih. Tata Sons je eden največjih in najvplivnejših poslovnih subjektov v Indiji, z raznolikim portfeljem, ki vključuje avtomobilsko industrijo (Jaguar Land Rover), letalski promet (Air India) in številne druge sektorje. Takšna sprememba na vrhu lahko povzroči kratkoročno negotovost in volatilnost za delnice skupine Tata, vendar lahko tudi signalizira novo strateško smer in dolgoročno rast. Vlagatelji bodo pozorno spremljali, kako bo novi vodja, Noel Tata, obvladoval izzive in priložnosti. Vpliv na širši indijski delniški trg bo odvisen od jasnosti in stabilnosti prehoda. Negotovost v vodstvu tako velikega podjetja lahko vpliva na zaupanje vlagateljev v indijski trg, medtem ko bi jasna in močna vizija lahko prinesla pozitivne rezultate. Za slovenskega dolgoročnega vlagatelja, ki ima izpostavljenost do nastajajočih trgov, še posebej Indije, je to opomin na pomen korporativnega upravljanja in tveganj, povezanih s spremembami v vodstvu velikih podjetij. Spremljanje te tranzicije bo ključno za oceno dolgoročnega potenciala naložb v indijska podjetja.",
+      "vpliv": [
+        "Kratkoročna volatilnost za delnice skupine Tata",
+        "Vpliv na zaupanje vlagateljev v indijski trg",
+        "Potencialna sprememba strateške smeri podjetja",
+        "Poudarek na pomembnosti korporativnega upravljanja"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/525d9d60-f902-4b89-ad34-ba96d03be97e?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-13T04:50:51.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-12T16:42:25.833Z",
+    "posodobljenoOb": "2026-08-13T05:48:28.161Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7751.14,
-        "sprememba_pct": 0.3
+        "vrednost": 7748.5,
+        "sprememba_pct": 0.26
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29788.328,
-        "sprememba_pct": 0.89
+        "vrednost": 29742.604,
+        "sprememba_pct": 0.74
       },
       {
         "simbol": "^GDAXI",
@@ -133,30 +133,30 @@
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 67524.06,
-        "sprememba_pct": 0.83
+        "vrednost": 68646.37,
+        "sprememba_pct": 1.66
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4479.7,
-        "sprememba_pct": 0.87,
+        "vrednost": 4454.9,
+        "sprememba_pct": -0.28,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 83.12,
-        "sprememba_pct": -0.1,
+        "vrednost": 82.93,
+        "sprememba_pct": -0.41,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 88.66,
-        "sprememba_pct": -0.28,
+        "vrednost": 88.81,
+        "sprememba_pct": -0.19,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1534,
-        "sprememba_pct": -0.1
+        "vrednost": 1.1527,
+        "sprememba_pct": 0
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.67,
-        "sprememba_pct": -0.3,
+        "vrednost": 4.682,
+        "sprememba_pct": -0.04,
         "enota": "%"
       }
     ],
@@ -181,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63446.4,
-        "sprememba_pct": -0.16,
+        "vrednost": 63824.1,
+        "sprememba_pct": 0.65,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 14.79,
-      "sprememba_pct": -3.21
+      "vrednost": 14.55,
+      "sprememba_pct": -4.78
     }
   }
 }
