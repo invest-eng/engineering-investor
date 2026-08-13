@@ -1,128 +1,131 @@
 {
-  "generiranoOb": "2026-08-13T16:26:43.670Z",
+  "generiranoOb": "2026-08-13T16:41:48.713Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-08-13",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanim predznakom, medtem ko ameriški indeksi, ki so odprti že dve uri, kažejo pozitivno smer. Indeks DAX je trgovanje zaključil pri 26300 točkah z rahlim padcem za 0.12 %, medtem ko sta S&P 500 pri 7786 točkah (+0.49 %) in Nasdaq 100 pri 30076 točkah (+1.12 %) v zgodnjem popoldanskem trgovanju beležila rast. Na trgu surovin smo opazili padce, saj je zlato izgubilo 1.25 % in se giblje pri 4411.60 USD/oz, cena WTI nafte je padla za 0.90 % na 82.52 USD/sod, Brent nafta pa za 0.76 % na 88.30 USD/sod. Med ključnimi novicami dneva izstopajo obtožbe ZDA proti več kot 40 državam glede izogibanja carinam na Kitajsko, kar povečuje globalne trgovinske napetosti, ter iranske trditve o nadzoru nad Hormuško ožino, ki vnašajo negotovost na energetske trge. Poleg tega je zaustavitev romunske nuklearne elektrarne zaradi nizkega vodostaja Donave poudarila ranljivost evropske energetske infrastrukture, medtem ko je napad Ukrajine na ruski terminal za žito v Novorossiysku povzročil zaskrbljenost glede globalnih cen hrane. Vlagatelji naj bodo ta teden pozorni na prihajajočo objavo podatkov o inflaciji v ZDA, ki bo ključna za določanje smeri monetarne politike.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z rahlim padcem, medtem ko so ameriški kazali optimizem v zgodnjem popoldanskem trgovanju. DAX je dan zaključil pri 26300 točkah, kar predstavlja padec za 0.12 %. Nasprotno, ameriški indeks S&P 500 je po dveh urah trgovanja beležil rast za 0.47 % in dosegel 7785 točk, Nasdaq 100 pa je poskočil za 1.09 % na 30066 točk, kar kaže na nadaljnjo moč tehnološkega sektorja. Surovine so bile pod pritiskom, saj je cena zlata padla za 1.01 % na 4422.30 USD/oz, nafta WTI pa za 1.19 % na 82.28 USD/sod. Med ključnimi novicami dneva izstopa obtožba ZDA proti več kot 40 državam zaradi pomoči Kitajski pri izogibanju Trumpovim carinam, kar nakazuje na morebitno zaostrovanje globalnih trgovinskih napetosti. V energetiki je zaskrbljujoča novica o zaprtju edine romunske jedrske elektrarne zaradi nizkega pretoka Donave, kar poudarja ranljivost evropske energetske oskrbe. Vlagatelji bodo v prihodnjih dneh pozorno spremljali morebitne odzive na te geopolitične in energetske izzive. Najpomembnejši ekonomski dogodek tega tedna, ki ga vlagatelji morajo imeti na radarju, je objava inflacijskih podatkov za ZDA.",
   "novice": [
     {
-      "naslov": "ZDA obtožujejo več kot 40 držav pomoči Kitajski pri izogibanju carinam",
+      "naslov": "Tesla: Elon Musk prejel 2.5 milijona krat več plačila kot povprečen delavec",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Poročilo AFL-CIO za leto 2025 razkriva, da je Elon Musk pri Tesli prejel 158.3 milijarde dolarjev nadomestila, kar je 2.5 milijona krat več kot povprečen delavec podjetja. Ta izjemen znesek je močno vplival na povprečno razmerje med plačo izvršnega direktorja in delavca v podjetjih S&P 500, ki je z Muskom znašalo 5,387:1. Brez Muska je bilo povprečno razmerje 312:1, kar je še vedno porast glede na leto 2024, ko je znašalo 285:1. Poročilo opozarja na naraščajočo razliko v plačilu med najvišjimi korporativnimi vodstvi in njihovimi zaposlenimi. Ta trend kaže na širjenje neenakosti v dohodkih znotraj največjih ameriških podjetij.",
+      "analiza": "Vprašanje plač izvršnih direktorjev in razmerja do plač povprečnih delavcev je že dolgo pereča tema, ki se redno pojavlja v javni in politični razpravi. Izjemno nadomestilo Elona Muska v višini 158.3 milijarde dolarjev za leto 2025, kot ga navaja poročilo AFL-CIO, predstavlja ekstremni primer tega trenda in poudarja naraščajočo neenakost. To ni le etično vprašanje, temveč ima lahko tudi širše makroekonomske posledice, saj vpliva na kupno moč potrošnikov in socialno kohezijo. Čeprav takšne novice redko neposredno vplivajo na kratkoročno gibanje delnic podjetja, kot je Tesla, lahko dolgoročno vplivajo na ugled podjetja, odnose z delavci in regulativni pritisk. V preteklosti so podobna razkritja sprožila pozive k strožji regulaciji plač v korporacijah. Za slovenske dolgoročne vlagatelje je pomembno razumeti, da so takšni trendi del širšega globalnega ekonomskega okolja, ki lahko vpliva na stabilnost trga in družbeno sprejemljivost korporativnega kapitalizma. Čeprav ne gre za neposreden finančni nasvet, je spremljanje teh trendov ključno za razumevanje širših tveganj in priložnosti na trgu.",
+      "vpliv": [
+        "Povečan javni in regulativni pritisk na plače izvršnih direktorjev",
+        "Potencialen vpliv na ugled podjetij z visokimi razmerji plač",
+        "Širjenje razprave o dohodkovni neenakosti",
+        "Možni dolgoročni vplivi na delavske odnose"
+      ],
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/2026/aug/13/elon-musk-tesla-pay-workers",
+      "objavljeno": "2026-08-13T16:31:14.000Z"
+    },
+    {
+      "naslov": "ZDA obtožujejo 40+ držav pomoči Kitajski pri izogibanju carinam",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Financial Times poroča, da Bela hiša obtožuje več kot 40 držav, vključno s Kanado, Japonsko in članicami Evropske unije, da pomagajo Kitajski pri izogibanju carinam, ki jih je uvedla Trumpova administracija. Gre za t.i. 'transshipment scam', ki omogoča izogibanje carinam za 60 milijard dolarjev trgovine. To pomeni, da blago, namenjeno Kitajski, potuje skozi tretje države, da bi se izognilo dacarjem. Obtožbe so bile objavljene 13. avgusta 2026, kar kaže na vztrajne trgovinske napetosti med ZDA in Kitajsko ter širšimi zavezniki.",
-      "analiza": "Ta novica predstavlja pomembno eskalacijo v globalnih trgovinskih odnosih, ki sega v obdobje trgovinskih vojn med ZDA in Kitajsko. Obtožbe o sistematičnem izogibanju carinam prek tretjih držav kažejo na globoke strukturne probleme in nezaupanje v mednarodni trgovini. Za finančne trge to pomeni povečano negotovost glede prihodnosti globalne trgovine in morebitno uvedbo novih povračilnih ukrepov ali širitev carinskih tarif na več držav. Delnice podjetij, ki so močno odvisna od mednarodnih dobavnih verig in izvoza/uvoza, bi lahko bile pod pritiskom, saj se povečujejo stroški in tveganja poslovanja. Valutni pari, kot je EUR/USD, ki je danes pri 1.1530, bi lahko doživeli nihanja, saj se vlagatelji umikajo v varnejša zatočišča. Povečane trgovinske ovire lahko vodijo v višje stroške za potrošnike in podjetja, kar bi lahko vplivalo na inflacijo in gospodarsko rast. Slovenski dolgoročni vlagatelj naj bo pozoren na morebitne motnje v dobavnih verigah in na podjetja, ki so izpostavljena mednarodnim trgovinskim sporom, saj lahko ti vplivajo na globalno gospodarsko stabilnost.",
+      "povzetek": "Združene države Amerike so obtožile več kot 40 držav, vključno s Kanado, Japonsko in članicami Evropske unije, da pomagajo Kitajski pri izogibanju carinam, ki jih je uvedla administracija nekdanjega predsednika Trumpa. Bela hiša trdi, da te države omogočajo izogibanje carinam za 60 milijard dolarjev trgovine prek 'scama s pretovarjanjem'. To pomeni, da kitajsko blago potuje skozi tretje države, kjer se predeluje ali preoblikuje, da bi prikrilo svoj izvor in se izognilo ameriškim dajatvam. Obtožbe nakazujejo na morebitno zaostrovanje trgovinskih napetosti med ZDA in njenimi zaveznicami ter Kitajsko.",
+      "analiza": "Obtožbe ZDA proti več kot 40 državam, da pomagajo Kitajski pri izogibanju carinam, predstavljajo pomembno eskalacijo v globalnih trgovinskih odnosih. Te 'Trumpove carine' so bile uvedene z namenom zaščite ameriške industrije in so že v preteklosti povzročile trgovinske vojne. Zdajšnje obtožbe, ki vključujejo ključne zaveznice, kot so Kanada, Japonska in EU, nakazujejo na širši problem in potencialno novo fronto v trgovinskih sporih. Mehanizem vpliva na finančne trge je večplasten: morebitne nove carine ali sankcije bi lahko ovirale mednarodno trgovino, zvišale stroške za podjetja in potrošnike ter upočasnile globalno gospodarsko rast. Delnice podjetij, ki so močno odvisna od globalnih dobavnih verig in mednarodne trgovine, bi bile še posebej ranljive. Cene surovin, kot je nafta, bi lahko padle zaradi zmanjšanega povpraševanja, če bi se globalna rast upočasnila. Obvezniški donosi bi se lahko znižali, saj bi vlagatelji iskali varnejša zatočišča. Za slovenskega dolgoročnega vlagatelja to pomeni povečano negotovost na globalnih trgih in potrebo po diverzifikaciji portfelja, saj se lahko geopolitična tveganja hitro prelijejo v ekonomske posledice.",
       "vpliv": [
-        "Povečana globalna trgovinska negotovost",
-        "Potencialne nove carine in povračilni ukrepi",
-        "Pritisk na delnice podjetij z mednarodno izpostavljenostjo",
-        "Nihanja valutnih tečajev"
+        "Povečana geopolitična tveganja",
+        "Možna uvedba novih carin in sankcij",
+        "Negativen vpliv na globalno trgovino in dobavne verige",
+        "Zmanjšanje zaupanja vlagateljev",
+        "Potencialno upočasnjevanje globalne gospodarske rasti"
       ],
       "vir": "Financial Times",
       "vir_url": "https://www.ft.com/content/5d5ed2dd-8326-4cad-aac3-5816448ceccf?syn-25a6b1a6=1",
       "objavljeno": "2026-08-13T15:55:56.000Z"
     },
     {
-      "naslov": "Neteknološke delnice lahko dolgoročno izkoriščajo rast umetne inteligence",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "MarketWatch poroča, da lahko masivna poraba za podatkovne centre in infrastrukturo umetne inteligence (AI) koristi tudi 'HALO' podjetjem, ki niso iz tehnološkega sektorja. Ta podjetja so opredeljena kot tista s trdimi sredstvi (Hard Assets) in nizko zastarelostjo (Low Obsolescence). To pomeni, da gre za podjetja, ki proizvajajo opremo, materiale ali storitve, nujne za gradnjo in delovanje AI infrastrukture, kot so proizvajalci polprevodnikov, energetskih rešitev ali gradbenih materialov. Novica, objavljena 13. avgusta 2026, poudarja širše investicijske priložnosti zunaj tradicionalnih tehnoloških gigantov.",
-      "analiza": "Rast umetne inteligence ni omejena le na programska podjetja, temveč zahteva tudi ogromne naložbe v fizično infrastrukturo, kot so podatkovni centri, hlajenje in energetski sistemi. To ustvarja priložnosti za širši spekter podjetij, ki zagotavljajo osnovne komponente in storitve za to infrastrukturo. Povečano povpraševanje po 'HALO' podjetjih lahko dolgoročno podpira njihove delnice in prinaša stabilne prihodke, saj so njihovi izdelki in storitve ključni za delovanje AI. Vlagatelji so se v zadnjem času osredotočali predvsem na velika tehnološka imena, vendar ta novica poudarja diverzifikacijo priložnosti znotraj AI trenda. To lahko povzroči prelivanje kapitala iz visoko vrednotenih čistih tehnoloških delnic v bolj tradicionalne sektorje, ki podpirajo AI. Za slovenske dolgoročne vlagatelje to pomeni, da je smiselno razmisliti o širši izpostavljenosti AI trendu, ki vključuje tudi podjetja iz industrije, energetike in materialov, ki so ključna za gradnjo prihodnosti umetne inteligence, ne le programske rešitve. Takšna podjetja lahko ponudijo bolj stabilno rast in manjšo volatilnost v primerjavi z nekaterimi visoko špekulativnimi tehnološkimi delnicami.",
-      "vpliv": [
-        "Povečano zanimanje za delnice 'HALO' podjetij",
-        "Potencialni pretok kapitala iz čistih tehnoloških delnic",
-        "Dolgoročna rast za sektorje, ki podpirajo AI infrastrukturo",
-        "Rast povpraševanja po surovinah in opremi za podatkovne centre"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/these-nontech-stocks-can-ride-the-ai-build-out-for-years-67e2e39b?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-13T15:48:00.000Z"
-    },
-    {
-      "naslov": "Premožni Američani ohranjajo potovalno gospodarstvo kljub 25 % višjim cenam letalskih vozovnic",
-      "sektor": "Potrošniki",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "MarketWatch poroča, da premožni Američani ohranjajo potovalno gospodarstvo, kljub temu da so cene letalskih vozovnic poskočile za 25 % v primerjavi z lanskim letom. Povpraševanje potrošnikov se med letošnjo poletno potovalno sezono še ni upočasnilo. To kaže na močno odpornost segmenta premožnih potrošnikov, ki so manj občutljivi na višje cene in so pripravljeni plačati več za potovanja. Novica, objavljena 13. avgusta 2026, poudarja razkorak v potrošniški moči med različnimi dohodkovnimi skupinami v ZDA.",
-      "analiza": "Ta novica razkriva kompleksno sliko potrošniške ekonomije v ZDA. Na eni strani visoke cene letalskih vozovnic, ki so se zvišale za 25 %, kažejo na vztrajne inflacijske pritiske in močno povpraševanje v potovalnem sektorju. Na drugi strani pa dejstvo, da premožni Američani ohranjajo to povpraševanje, nakazuje na neenakomerno porazdelitev gospodarskih bremen in močnejšo pozicijo višjih dohodkovnih razredov. To lahko pomeni, da podjetja v luksuznem in potovalnem sektorju še naprej beležijo dobre rezultate, medtem ko se podjetja, ki ciljajo na povprečnega potrošnika, soočajo z izzivi zaradi zmanjšane kupne moči. Za centralne banke to predstavlja dilemo, saj močno povpraševanje v določenih segmentih otežuje boj proti inflaciji in lahko vpliva na odločitve glede obrestnih mer. Delnice letalskih prevoznikov in turističnih agencij bi lahko bile podprte, vendar bi lahko širši trg trpel zaradi vztrajne inflacije. Slovenski dolgoročni vlagatelj naj bo pozoren na razlike v potrošniških trendih in na podjetja, ki so izpostavljena različnim dohodkovnim segmentom, saj se lahko njihova uspešnost močno razlikuje.",
-      "vpliv": [
-        "Podpora delnicam v potovalnem in luksuznem sektorju",
-        "Vztrajni inflacijski pritiski zaradi močnega povpraševanja",
-        "Razkorak v potrošniški moči med dohodkovnimi skupinami",
-        "Potencialni vpliv na odločitve centralnih bank glede obrestnih mer"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-13T15:08:00.000Z"
-    },
-    {
-      "naslov": "Iran trdi, da ima Hormuško ožino pod nadzorom, zavrača ameriške trditve",
-      "sektor": "Geopolitika",
+      "naslov": "Britanska vlada razmišlja o pomoči kmetom, prizadetim zaradi suše",
+      "sektor": "Makro & Centralne banke",
       "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Al Jazeera poroča, da Iran trdi, da ima popoln nadzor nad Hormuško ožino, s čimer zavrača trditve ZDA o prevladi v tej strateški plovni poti. Ta izjava, objavljena 13. avgusta 2026, poudarja naraščajoče napetosti v regiji Bližnjega vzhoda. Hormuška ožina je ključna za globalni pretok nafte, saj skozi njo potuje približno petina svetovnih pošiljk nafte. Iranska izjava je neposreden odgovor na prejšnje trditve nekdanjega predsednika Trumpa in lahko sproži dodatne geopolitične odzive.",
-      "analiza": "Hormuška ožina je ena najpomembnejših točk za prevoz nafte na svetu, skozi katero poteka približno 20 % globalne porabe nafte. Iranske trditve o popolnem nadzoru, ne glede na njihovo resničnost, takoj povečajo geopolitično tveganje in negotovost na energetskih trgih. Vsakršna grožnja prekinitve ali omejitve pretoka nafte skozi ožino bi imela katastrofalne posledice za svetovno gospodarstvo, saj bi povzročila dramatičen skok cen energentov. Cene nafte, kot sta WTI (82.52 USD/sod, -0.90 %) in Brent (88.30 USD/sod, -0.76 %), so danes sicer padle, vendar bi se v primeru eskalacije napetosti lahko hitro obrnile navzgor. Povečana tveganja v regiji lahko vplivajo tudi na delnice energetskih podjetij in povzročijo umik v varnejša sredstva, kot je zlato (4411.60 USD/oz, -1.25 % danes), ki je kljub današnjemu padcu še vedno pomembno zatočišče v časih negotovosti. Slovenski dolgoročni vlagatelj naj bo pozoren na razvoj dogodkov v Perzijskem zalivu, saj imajo ti dogodki lahko neposreden vpliv na cene energentov, globalno inflacijo in stabilnost finančnih trgov.",
+      "intenziteta": 2,
+      "povzetek": "Britanska vlada razmišlja o uvedbi pomoči za kmete, ki jih je prizadela suša, saj se država sooča s petim vročinskim valom v letu. Podeželje se bori s težkimi pogoji, kar ogroža kmetijsko proizvodnjo. Suša in vročinski valovi imajo neposreden vpliv na pridelke in živino, kar lahko povzroči pomanjkanje hrane in zvišanje cen. Morebitna vladna pomoč bi lahko ublažila nekatere neposredne finančne obremenitve za kmete, vendar ne rešuje temeljnega problema podnebnih sprememb in njihovega vpliva na kmetijstvo.",
+      "analiza": "Ponavljajoči se vročinski valovi in suše v Združenem kraljestvu so jasen znak podnebnih sprememb, ki imajo neposredne ekonomske posledice. Kmetijski sektor je še posebej ranljiv, saj so pridelki in živina odvisni od stabilnih vremenskih razmer. Razmišljanje vlade o pomoči kmetom kaže na resnost situacije in potencialni vpliv na oskrbo s hrano ter inflacijo. V preteklosti so ekstremni vremenski dogodki pogosto povzročili skokovito rast cen hrane, kar je vplivalo na kupno moč potrošnikov in lahko prispevalo k splošni inflaciji. To bi lahko pritisnilo na centralne banke, da razmislijo o monetarni politiki. Za obveznice bi lahko to pomenilo, da bi se donosi zvišali zaradi inflacijskih pričakovanj. Delnice podjetij v živilski industriji in maloprodaji bi se lahko soočale z višjimi stroški surovin, kar bi vplivalo na njihovo profitabilnost. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so podnebne spremembe in njihove posledice dolgoročno tveganje za globalno gospodarstvo, ki lahko vpliva na različne sektorje in naložbene razrede.",
       "vpliv": [
-        "Povečana geopolitična tveganja na Bližnjem vzhodu",
-        "Potencialni skok cen nafte in plina",
-        "Negativni vpliv na globalne dobavne verige",
-        "Povečano povpraševanje po varnih zatočiščih"
+        "Potencialno zvišanje cen hrane",
+        "Povečani stroški za vlado (subvencije)",
+        "Negativen vpliv na kmetijski sektor",
+        "Možni inflacijski pritiski",
+        "Povečana ranljivost dobavnih verig"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
-      "objavljeno": "2026-08-13T14:59:42.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/09c1ed51-8e69-4e39-bab3-392e1e9f9f6b?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-13T15:54:08.000Z"
     },
     {
-      "naslov": "Nizek pretok Donave prisilil Romunijo v zaustavitev edine nuklearne elektrarne",
+      "naslov": "Nizek pretok Donave prisilil Romunijo v zaustavitev edine jedrske elektrarne",
       "sektor": "Energetika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Al Jazeera poroča, da je zmanjšan pretok reke Donave prisilil Romunijo v zaustavitev edine nuklearne elektrarne v državi. Romunija je poskušala preprečiti popolno zaustavitev elektrarne, ki običajno proizvede petino električne energije v državi. Ta dogodek, objavljen 13. avgusta 2026, poudarja ranljivost evropske energetske infrastrukture na podnebne spremembe in ekstremne vremenske pojave, kot so dolgotrajne suše in nizki vodostaji rek, ki so ključni za hlajenje elektrarn.",
-      "analiza": "Zaustavitev nuklearne elektrarne, ki zagotavlja 20 % romunske električne energije, je pomemben udarec za energetsko stabilnost države in širše regije. To bo verjetno povzročilo povečano povpraševanje po drugih virih energije, kot sta plin in premog, kar lahko dvigne cene energentov v Evropi. Dogodek poudarja tudi širši problem podnebnih sprememb in njihovega vpliva na kritično infrastrukturo, še posebej v Evropi, ki se že sooča z energetskimi izzivi in si prizadeva za zmanjšanje odvisnosti od fosilnih goriv. Posledice se lahko odrazijo v višjih računih za elektriko za potrošnike in podjetja, kar bi lahko vplivalo na inflacijo in gospodarsko rast v regiji. Delnice energetskih podjetij, ki so odvisna od vodnih virov za hlajenje, bi lahko bile pod pritiskom, medtem ko bi lahko podjetja, ki proizvajajo energijo iz drugih virov ali vlagajo v obnovljive vire, imela koristi. Slovenski dolgoročni vlagatelj naj bo pozoren na razvoj energetske politike v Evropi in na naložbe v diverzifikacijo energetskih virov, saj so podnebna tveganja vse bolj realnost, ki vpliva na energetske trge.",
+      "povzetek": "Edina romunska jedrska elektrarna je bila prisiljena v zaustavitev zaradi kritično nizkega pretoka reke Donave. Elektrarna, ki običajno proizvede petino električne energije v državi, za svoje delovanje potrebuje vodo iz Donave za hlajenje. Romunija je poskušala preprečiti popolno zaustavitev, vendar so bile razmere preveč resne. Ta dogodek poudarja ranljivost energetske infrastrukture v regiji, še posebej v luči podnebnih sprememb, ki povzročajo ekstremne vremenske pojave, kot so suše in nizke gladine rek.",
+      "analiza": "Zaustavitev romunske jedrske elektrarne zaradi nizkega pretoka Donave je kritična novica za energetski sektor in ima širše geopolitične ter ekonomske posledice. Romunija, ki je od te elektrarne pridobivala petino svoje električne energije, se bo zdaj morala zanašati na druge vire, kar lahko povzroči pomanjkanje in zvišanje cen električne energije. To se dogaja v času, ko je Evropa že tako občutljiva na energetske šoke, deloma zaradi preteklih geopolitičnih napetosti in odvisnosti od uvoza energentov. Mehanizem vpliva je neposreden: zmanjšana ponudba električne energije vodi v višje cene, kar vpliva na industrijo in gospodinjstva. To lahko pospeši inflacijo in zmanjša gospodarsko aktivnost. Cene nafte in plina bi se lahko zvišale, saj bi se države poskušale preusmeriti na te vire za proizvodnjo električne energije. Delnice energetskih podjetij, ki proizvajajo elektriko iz fosilnih goriv, bi lahko kratkoročno pridobile, medtem ko bi se povečal pritisk na vlade za diverzifikacijo in krepitev energetske varnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je energetska varnost ključno tveganje, ki ga je treba upoštevati pri naložbah v evropska podjetja in gospodarstva.",
       "vpliv": [
-        "Povečanje cen električne energije v Romuniji in Evropi",
-        "Povečano povpraševanje po plinu in premogu",
-        "Poudarek na ranljivosti energetske infrastrukture zaradi podnebnih sprememb",
-        "Potencialni vpliv na inflacijo in gospodarsko rast v Evropi"
+        "Zvišanje cen električne energije v Romuniji in regiji",
+        "Povečana odvisnost od uvoza energentov",
+        "Potencialni inflacijski pritiski",
+        "Negativen vpliv na industrijo in gospodinjstva",
+        "Poudarek na ranljivosti energetske infrastrukture zaradi podnebnih sprememb"
       ],
       "vir": "Al Jazeera",
       "vir_url": "https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss",
       "objavljeno": "2026-08-13T12:30:08.000Z"
     },
     {
-      "naslov": "Ukrajina napadla ključni ruski terminal za žito v črnomorskem pristanišču",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Al Jazeera poroča, da je Ukrajina poškodovala ruske terminale za izvoz žita v napadu na pristanišče Novorossiysk. Ta napad, objavljen 13. avgusta 2026, predstavlja eskalacijo konflikta in ima neposredne posledice za globalne trge s hrano. Novorossiysk je eno ključnih ruskih pristanišč za izvoz kmetijskih pridelkov, vključno z žitom, in motnje v njegovem delovanju lahko vplivajo na svetovne dobavne verige hrane. Napad je bil izveden v času, ko so globalne cene hrane že pod pritiskom.",
-      "analiza": "Napad na ključni ruski terminal za izvoz žita v Novorossiysku ima takojšnje in pomembne posledice za globalne trge s surovinami, še posebej za cene žita. Rusija je eden največjih svetovnih izvoznikov žita, in motnje v njenem izvozu lahko povzročijo pomanjkanje in dvig cen hrane po svetu. To lahko še dodatno prispeva k inflacijskim pritiskom, ki so že prisotni v mnogih gospodarstvih, in poveča stroške življenja za potrošnike. Geopolitična tveganja v Črnem morju ostajajo visoka, kar vpliva na pomorske poti in zavarovalne premije za ladijski promet, kar dodatno draži transport. Posledično lahko delnice podjetij v živilski industriji in kmetijstvu doživijo nihanja, saj se soočajo z višjimi stroški surovin in morebitnimi motnjami v dobavnih verigah. Slovenski dolgoročni vlagatelj naj bo pozoren na gibanje cen žita in drugih kmetijskih surovin, saj imajo te neposreden vpliv na stroške življenja in dobičkonosnost podjetij v živilski verigi. Nadaljnja eskalacija v regiji lahko še poslabša situacijo na globalnih trgih s hrano.",
+      "naslov": "Netehnološka podjetja lahko dolgoročno izkoriščajo rast umetne inteligence",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Članek v MarketWatchu poudarja, da lahko obsežne naložbe v podatkovne centre in infrastrukturo za umetno inteligenco (AI) koristijo tudi podjetjem zunaj tradicionalnega tehnološkega sektorja. Ta podjetja so opisana kot 'HALO' podjetja, kar pomeni 'hard assets, low obsolescence' (trdna sredstva, nizka zastarelost). Gre za podjetja, ki dobavljajo ključne komponente, storitve in infrastrukturo, potrebno za izgradnjo in delovanje AI sistemov, kot so na primer podjetja za polprevodnike, električno energijo, hlajenje in gradbeništvo. To nakazuje na širši vpliv AI revolucije, ki presega zgolj razvoj programske opreme in čipov.",
+      "analiza": "Rast umetne inteligence (AI) je eden najpomembnejših tehnoloških trendov desetletja, ki poganja ogromne naložbe v infrastrukturo. Medtem ko se večina pozornosti usmerja na podjetja, ki razvijajo AI modele in čipe, ta novica poudarja, da obstajajo tudi 'skrite' priložnosti v tradicionalnih sektorjih. Koncept 'HALO' podjetij je pomemben, saj identificira podjetja, ki imajo dolgoročno vrednost in so manj podvržena hitri zastarelosti, kar je pogosto tveganje v tehnološkem sektorju. Povečano povpraševanje po podatkovnih centrih, električni energiji in hladilnih sistemih bo koristilo podjetjem v sektorjih, kot so energetika, gradbeništvo, proizvodnja električnih komponent in industrijski materiali. To lahko pomeni pozitivne vplive na delnice teh podjetij, saj se bodo njihovi prihodki in dobički povečevali. Za obveznice in valute je vpliv posreden, saj splošna gospodarska rast, ki jo poganja AI, lahko vpliva na inflacijo in obrestne mere. Za slovenskega dolgoročnega vlagatelja je ključno razumevanje, da se naložbene priložnosti v AI ne omejujejo zgolj na 'čiste' tehnološke delnice, temveč se širijo tudi na podjetja, ki so temeljni gradniki te revolucije.",
       "vpliv": [
-        "Povečanje cen žita in drugih kmetijskih surovin",
-        "Dodatni inflacijski pritiski na globalni ravni",
-        "Motnje v globalnih dobavnih verigah hrane",
-        "Povečana geopolitična tveganja v Črnem morju"
+        "Povečano povpraševanje po infrastrukturi za AI (podatkovni centri, energija)",
+        "Rast prihodkov podjetij v sektorjih, kot so energetika, gradbeništvo, polprevodniki",
+        "Diverzifikacija naložbenih priložnosti zunaj tradicionalnih tehnoloških podjetij",
+        "Potencialni dolgoročni vpliv na gospodarsko rast"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss",
-      "objavljeno": "2026-08-13T14:29:20.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/these-nontech-stocks-can-ride-the-ai-build-out-for-years-67e2e39b?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-13T15:48:00.000Z"
+    },
+    {
+      "naslov": "Lastnik Sports Directa kupil luksuzno veleblagovnico Harvey Nichols",
+      "sektor": "Potrošniki",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Luksuzno veleblagovnico Harvey Nichols, ki je postala znana po sitcomu 'Absolutely Fabulous', je kupil lastnik Sports Directa, podjetje Frasers Group. Novica prihaja po tem, ko je Harvey Nichols opozoril, da bo prenehal poslovati, kar kaže na težke čase za tradicionalne trgovce na drobno. Prevzem s strani Frasers Group, ki je znana po agresivni strategiji širjenja in reševanja propadajočih blagovnih znamk, bi lahko pomenil novo poglavje za Harvey Nichols, vendar tudi odraža izzive, s katerimi se sooča sektor luksuzne maloprodaje v spreminjajočem se potrošniškem okolju.",
+      "analiza": "Prevzem Harvey Nicholsa s strani Frasers Group je pomembna novica za britanski maloprodajni sektor in širše za sektor potrošnikov. Poudarja težave, s katerimi se soočajo tradicionalne veleblagovnice in luksuzni trgovci na drobno, ki se morajo prilagoditi spreminjajočim se nakupovalnim navadam, rasti spletne trgovine in splošnim gospodarskim pritiskom. Frasers Group, pod vodstvom Mikea Ashleyja, ima zgodovino prevzemanja in preoblikovanja problematičnih blagovnih znamk, kar nakazuje, da bi lahko Harvey Nichols dobil novo priložnost za preživetje. Vendar pa prevzem tudi poudarja konsolidacijo v sektorju in izginjanje nekaterih ikoničnih blagovnih znamk. Na finančne trge ima takšen prevzem neposreden vpliv na delnice vpletenih podjetij (če so javna) in posreden vpliv na celoten sektor maloprodaje, saj kaže na trende in izzive. Za obveznice in valute je vpliv manj neposreden, razen če gre za sistemsko pomembno podjetje. Za slovenskega dolgoročnega vlagatelja je to opomin, da je sektor maloprodaje pod stalnim pritiskom in zahteva skrbno analizo poslovnih modelov in prilagodljivosti podjetij na spremembe v potrošniškem vedenju.",
+      "vpliv": [
+        "Konsolidacija v britanskem maloprodajnem sektorju",
+        "Poudarek na izzivih tradicionalnih veleblagovnic",
+        "Potencialna preoblikovanje blagovne znamke Harvey Nichols",
+        "Vpliv na delnice podjetij v maloprodaji"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-08-13T14:27:43.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-13T16:25:51.186Z",
+    "posodobljenoOb": "2026-08-13T16:40:55.002Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7786.29,
-        "sprememba_pct": 0.49
+        "vrednost": 7785.24,
+        "sprememba_pct": 0.47
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 30076.107,
-        "sprememba_pct": 1.12
+        "vrednost": 30066.098,
+        "sprememba_pct": 1.09
       },
       {
         "simbol": "^GDAXI",
@@ -141,22 +144,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4411.6,
-        "sprememba_pct": -1.25,
+        "vrednost": 4422.3,
+        "sprememba_pct": -1.01,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 82.52,
-        "sprememba_pct": -0.9,
+        "vrednost": 82.28,
+        "sprememba_pct": -1.19,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 88.3,
-        "sprememba_pct": -0.76,
+        "vrednost": 88.02,
+        "sprememba_pct": -1.08,
         "enota": "USD/sod"
       }
     ],
@@ -164,7 +167,7 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.153,
+        "vrednost": 1.1531,
         "sprememba_pct": 0.03
       }
     ],
@@ -172,8 +175,8 @@
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.643,
-        "sprememba_pct": -0.83,
+        "vrednost": 4.637,
+        "sprememba_pct": -0.96,
         "enota": "%"
       }
     ],
@@ -181,16 +184,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63486.37,
-        "sprememba_pct": 0.12,
+        "vrednost": 62991.98,
+        "sprememba_pct": -0.66,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 14.68,
-      "sprememba_pct": 0.89
+      "vrednost": 14.7,
+      "sprememba_pct": 1.03
     }
   }
 }
