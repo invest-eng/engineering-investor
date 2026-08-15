@@ -1,116 +1,99 @@
 {
-  "generiranoOb": "2026-08-15T15:48:45.894Z",
+  "generiranoOb": "2026-08-15T16:09:07.131Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-08-15",
-  "povzetek": "Evropski trgi so danes zaključili s pozitivnim predznakom, pri čemer je nemški indeks DAX zrasel za 0,53 % na 26440 točk. Medtem so ameriški trgi, dve uri po odprtju, beležili rahle padce; S&P 500 je bil pri 7786 točkah z -0,17 %, tehnološki Nasdaq 100 pa pri 30046 točkah z -0,13 %. Na surovinskih trgih je bila opazna rast cen nafte, kjer je WTI nafta poskočila za 1,42 % na 82,40 USD/sod, Brent nafta pa za 1,67 % na 88,52 USD/sod, kar bi lahko bilo povezano z geopolitičnimi napetostmi v Ukrajini in morebitnimi pomisleki glede Tajvana. Donosnost 10-letne ameriške državne obveznice se je zvišala za 1,19 % na 4,70 %, kar kaže na padec cen obveznic in morebitne inflacijske pritiske. Evro se je okrepil proti dolarju, EUR/USD je bil pri 1.1573 (+0.36 %). Volatilnost trga, merjena z indeksom VIX, je padla za 2,60 % na 14,25, kar nakazuje na zmanjšano negotovost. Vlagatelji bodo ta teden pozorno spremljali objavo indeksa cen življenjskih potrebščin (CPI) v ZDA, ki bo ključna za oceno prihodnjih potez centralnih bank.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanimi občutki, medtem ko so ameriški indeksi po dveh urah trgovanja kazali rahlo negativno smer. Nemški DAX je dan zaključil z rastjo za 0.53 % pri 26440 točkah, medtem ko je S&P 500 beležil padec za 0.17 % na 7786 točk, Nasdaq 100 pa se je znižal za 0.13 % na 30046 točk. Na surovinskih trgih je cena nafte WTI zrasla za 1.42 % na 82.40 USD za sod, Brent nafta pa za 1.67 % na 88.52 USD za sod, kar kaže na povečane geopolitične napetosti in skrbi glede dobave. Zlato je pridobilo 0.38 % in se ustalilo pri 4437.30 USD za unčo, medtem ko je evro v primerjavi z dolarjem okrepil za 0.36 % na 1.1573. Donosnost 10-letne ameriške državne obveznice je zrasla za 1.19 % na 4.70 %, kar odraža pričakovanja glede inflacije in monetarne politike. Med ključnimi novicami dneva izstopajo opozorila o morebitni pregreti tehnološki rasti, razprave o prihodnosti socialne varnosti in geopolitične napetosti v Ukrajini ter okoli Tajvana, ki vplivajo na globalne dobavne verige. Vlagatelji naj bodo v prihodnjem tednu pozorni na prihajajoče podatke o inflaciji v evroobmočju, ki bi lahko vplivali na odločitve Evropske centralne banke.",
   "novice": [
     {
-      "naslov": "Povišanje socialnih prejemkov v ZDA napoveduje močnejšo kupno moč upokojencev",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Prejemniki socialne varnosti v Združenih državah Amerike lahko prihodnje leto pričakujejo povišanje svojih prejemkov. Prilagoditev življenjskih stroškov (COLA) bi lahko leta 2027 znašala do 3,6 %. Ta prilagoditev je namenjena ohranjanju kupne moči upokojencev in drugih prejemnikov, saj se njihovi prejemki uskladijo z inflacijo. Povišanje bo vplivalo na milijone Američanov, ki so odvisni od teh sredstev.",
-      "analiza": "Ozadje te novice je mehanizem COLA, ki je vgrajen v sistem socialne varnosti ZDA. Njegov namen je zaščititi prejemnike pred erozijo kupne moči zaradi inflacije. V času, ko so inflacijski pritiski povišani, kot kaže tudi rast donosnosti 10-letne ameriške državne obveznice na 4,70 %, je povišanje COLA še toliko bolj pomembno. To je relevantno, saj neposredno vpliva na diskrecijsko porabo velikega segmenta populacije. Mehanizem vpliva na finančne trge je večplasten: povečana poraba s strani prejemnikov socialne varnosti lahko spodbudi gospodarsko rast, kar je pozitivno za delnice potrošniških podjetij. Hkrati pa lahko povišanje prejemkov, ki je odziv na inflacijo, tudi prispeva k nadaljnjim inflacijskim pritiskom, kar bi lahko vplivalo na odločitve centralnih bank glede obrestnih mer in s tem na obvezniške trge. Višje donosnosti obveznic, kot je danes zabeleženih 4,70 % za 10-letno ameriško obveznico, so pogosto znak pričakovane inflacije ali višjih obrestnih mer. Za slovenskega dolgoročnega vlagatelja je to pomembno, saj kaže na stanje ameriškega gospodarstva in inflacijska pričakovanja, ki vplivajo na globalne trge in s tem posredno na naložbe v mednarodne delnice in obveznice.",
-      "vpliv": [
-        "Povečana kupna moč milijonov prejemnikov socialne varnosti",
-        "Potencialno spodbujanje potrošniške porabe",
-        "Indirekten pokazatelj inflacijskih pritiskov",
-        "Vpliv na pričakovanja glede monetarne politike"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-15T15:28:00.000Z"
-    },
-    {
-      "naslov": "Opozorila na evforijo na Wall Streetu, spominjajočo na dot-com mehurček leta 1999",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Članek MarketWatch opozarja, da Wall Street kaže znake evforije, ki spominjajo na obdobje dot-com mehurčka konec devetdesetih let. Podjetja kot so Nvidia, Intel in Google so v središču te \"zabave\". Avtorji menijo, da so prisotni vsi znaki pretiranega optimizma in tveganega vzdušja, ki so bili značilni za obdobje pred pokom prejšnjega tehnološkega mehurčka.",
-      "analiza": "Kontekst te novice je izjemna rast tehnoloških delnic v zadnjem obdobju, še posebej tistih, povezanih z umetno inteligenco. Indeksa S&P 500 in Nasdaq 100 sta danes sicer v rahlem padcu (-0,17 % oziroma -0,13 %), vendar je splošno razpoloženje na trgu, kot kaže tudi padec VIX indeksa na 14,25, še vedno optimistično. Opozorila na \"1999\" so relevantna, saj nakazujejo na morebitno precenjenost določenih delnic in sektorjev. Mehanizem vpliva je psihološki in vrednotenjski: ko se trgi pregrejejo in vlagatelji ignorirajo temeljne metrike, se poveča tveganje za nenadne in ostre korekcije. To lahko vpliva na delnice, še posebej v tehnološkem sektorju, kjer so vrednotenja že visoka. Morebiten pok mehurčka bi lahko povzročil širši padec delniških trgov, vplival na obvezniške trge (kot \"beg v varno zavetje\") in celo na valute (padec zaupanja v ameriški dolar). Zgodovinski primer je seveda dot-com mehurček, ko so številna podjetja z visokimi vrednotenji propadla. Za slovenskega dolgoročnega vlagatelja to pomeni, da je potrebna previdnost pri izbiri naložb, še posebej v visoko vrednotenih sektorjih. Diverzifikacija in razumevanje tveganj sta ključna.",
-      "vpliv": [
-        "Opozorilo na morebitno precenjenost tehnoloških delnic",
-        "Povečano tveganje za korekcijo delniških trgov",
-        "Vpliv na splošno zaupanje vlagateljev",
-        "Možnost bega v varna sredstva"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/nvidia-intel-google-wall-street-is-partying-like-its-1999-8520c1e3?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-15T15:07:00.000Z"
-    },
-    {
-      "naslov": "Ukrajina se sooča s pomanjkanjem izstrelkov Patriot, kar ogroža obrambo",
+      "naslov": "Ukrajina se sooča z izzivi pri obrambi zaradi pomanjkanja raket Patriot.",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Financial Times poroča, da se Ukrajina sooča s kritičnim pomanjkanjem izstrelkov za protiletalske sisteme Patriot. To pomanjkanje ogroža vojaški zagon Kijeva in ga pušča ranljivega za rusko zimsko kampanjo. Dopolnjevanje zalog je počasno, kar povzroča zaskrbljenost glede zmožnosti Ukrajine za obrambo pred zračnimi napadi.",
-      "analiza": "Ta novica se nanaša na nadaljevanje vojne v Ukrajini in poudarja izzive, s katerimi se sooča ukrajinska obramba. Kontekst je dolgotrajen konflikt, kjer se izčrpavajo tako človeški kot materialni viri. Pomanjkanje ključnih obrambnih sistemov, kot so Patriot, je relevantno, saj lahko spremeni dinamiko bojišča in potencialno privede do eskalacije konflikta ali spremembe v ravnotežju moči. Mehanizem vpliva na finančne trge je predvsem preko povečane geopolitične negotovosti. Morebitna ruska ofenziva bi lahko povzročila dodatne sankcije, motnje v dobavnih verigah in predvsem vplivala na cene energentov. Danes so cene nafte WTI in Brent že zrasle za 1,42 % oziroma 1,67 %, kar je morda odraz takšnih skrbi. Povečana negotovost običajno vodi do bega v varna zatočišča, kot so zlato (ki je danes zraslo za 0,38 % na 4437,30 USD/oz) in nekatere valute, medtem ko delniški trgi lahko trpijo. Za slovenskega dolgoročnega vlagatelja to pomeni, da je geopolitično tveganje v Evropi še vedno visoko, kar lahko vpliva na stabilnost trgov in donosnost naložb, še posebej v sektorjih, občutljivih na cene energentov in dobavne verige.",
+      "povzetek": "Financial Times poroča, da se ukrajinskim zalogam izstrelkov za sisteme zračne obrambe Patriot bliža konec, kar ogroža vojaški zagon Kijeva. To pomanjkanje pušča Ukrajino ranljivo za morebitno rusko zimsko ofenzivo, saj se zmanjšujejo zaloge prestreznikov. Novica je bila objavljena 15. avgusta 2026 ob 12:00:05 UTC. Dosedanja pomoč zahodnih zaveznikov se zdi nezadostna za dolgoročno vzdrževanje obrambnih zmogljivosti. Zmanjšanje zmožnosti zračne obrambe bi lahko imelo resne posledice za ukrajinska mesta in kritično infrastrukturo.",
+      "analiza": "Ozadje te novice je dolgotrajna vojna v Ukrajini, kjer je zračna obramba ključnega pomena za zaščito pred ruskimi raketnimi in brezpilotnimi napadi. Pomanjkanje izstrelkov Patriot je kritično, saj so ti sistemi med najučinkovitejšimi pri prestrezanju balističnih in manevrirnih raket. Relevantnost te novice je v neposrednem vplivu na potek konflikta in stabilnost regije, saj zmanjšana obrambna sposobnost Ukrajine povečuje tveganje za eskalacijo. Mehanizem vpliva na finančne trge je večplasten: povečana negotovost v konfliktu lahko vodi do rasti cen surovin, še posebej nafte (WTI nafta je danes zrasla za 1.42 % na 82.40 USD/sod, Brent nafta za 1.67 % na 88.52 USD/sod) in plina, saj se vlagatelji bojijo motenj v dobavnih verigah. Delniški trgi, zlasti v obrambnem sektorju, bi lahko kratkoročno občutili pritisk zaradi negotovosti glede prihodnjih naročil in dobav. Obveznice bi lahko služile kot varno zatočišče, kar bi lahko vplivalo na njihove donosnosti. Za slovenskega dolgoročnega vlagatelja to pomeni povečano tveganje v portfeljih, ki so izpostavljeni energetskemu sektorju ali podjetjem, odvisnim od stabilnih dobavnih verig. Pomembno je spremljati nadaljnje odločitve zahodnih držav glede vojaške pomoči Ukrajini.",
       "vpliv": [
-        "Povečana geopolitična negotovost v Evropi",
-        "Potencialna eskalacija konflikta v Ukrajini",
-        "Dodatni pritiski na cene energentov (nafta, plin)",
-        "Negativen vpliv na evropske delniške trge"
+        "Povečana geopolitična negotovost",
+        "Potencialna rast cen nafte (WTI +1.42%, Brent +1.67%)",
+        "Pritisk na delnice obrambnega sektorja",
+        "Povečano povpraševanje po varnih zatočiščih (obveznice)"
       ],
       "vir": "Financial Times",
       "vir_url": "https://www.ft.com/content/6448b0af-f2ed-4067-b814-73f41b56fa78?syn-25a6b1a6=1",
       "objavljeno": "2026-08-15T12:00:05.000Z"
     },
     {
-      "naslov": "Kitajska preučuje možnost blokade Tajvana po zgledu iranske strategije v Hormuški ožini",
+      "naslov": "Prejemniki socialne varnosti v ZDA pričakujejo višje prejemke leta 2027.",
+      "sektor": "Makro & Centralne banke",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "MarketWatch poroča, da bi se lahko prilagoditev življenjskih stroškov (COLA) za socialno varnost v ZDA v letu 2027 zvišala za kar 3.6 %. To pomeni, da bodo prejemniki socialne varnosti naslednje leto prejeli več denarja. Povišanje je namenjeno ohranjanju kupne moči prejemkov v luči inflacije. Novica je bila objavljena 15. avgusta 2026 ob 15:28:00 UTC.",
+      "analiza": "Ozadje te novice je mehanizem prilagoditve socialnih prejemkov inflaciji, znan kot COLA, ki je zasnovan za zaščito kupne moči upokojencev in drugih prejemnikov. Pričakovan dvig za 3.6 % v letu 2027 kaže na vztrajno inflacijo v ameriškem gospodarstvu. Relevantnost je v vplivu na potrošniško porabo in vladne finance. Povečani prejemki socialne varnosti lahko podprejo potrošniško porabo, kar je pozitivno za gospodarstvo, vendar hkrati povečujejo pritisk na državni proračun. Mehanizem vpliva na finančne trge je preko potrošniške porabe in inflacijskih pričakovanj. Višji prejemki lahko spodbudijo povpraševanje po določenih sektorjih (npr. zdravstvo, osnovne potrebščine), kar bi lahko pozitivno vplivalo na delnice teh podjetij. Hkrati pa lahko prispevajo k inflacijskim pritiskom, kar bi lahko vplivalo na odločitve Federal Reserve glede obrestnih mer in s tem na donosnosti obveznic (10Y US Treasury je danes zrasla za 1.19 % na 4.70 %). Za slovenskega dolgoročnega vlagatelja je to pomemben indikator zdravja ameriškega potrošnika in inflacijskih trendov, ki posredno vplivajo na globalne trge.",
+      "vpliv": [
+        "Spodbujanje potrošniške porabe v ZDA",
+        "Povečanje inflacijskih pritiskov",
+        "Vpliv na državni proračun ZDA",
+        "Potencialni vpliv na obrestne mere Federal Reserve"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-15T15:28:00.000Z"
+    },
+    {
+      "naslov": "Kitajska razmišlja o pomorski blokadi Tajvana po vzoru Hormuške ožine.",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Al Jazeera poroča, da Kitajska razmišlja o strategiji, podobni iranski blokadi Hormuške ožine, za morebitno obkolitev Tajvana. Čeprav se je Tajvan dolgo pripravljal na kitajsko vojaško invazijo, vojne v Iranu in Ukrajini razkrivajo nove potencialne grožnje, kot je pomorska blokada. Takšna poteza bi imela ogromne posledice za globalno trgovino in dobavne verige.",
-      "analiza": "Ozadje te novice je dolgotrajna napetost med Kitajsko in Tajvanom, ki se je v zadnjih letih stopnjevala. Relevantnost je izjemna, saj bi morebitna blokada Tajvana, ki je ključni igralec v globalni proizvodnji polprevodnikov, povzročila nepredstavljive motnje v svetovnem gospodarstvu. Mehanizem vpliva na finančne trge bi bil katastrofalen. Prekinitev dobavnih verig bi povzročila pomanjkanje ključnih komponent, dvignila inflacijo in upočasnila globalno rast. Cene surovin, vključno z nafto (ki je danes že zrasla za več kot 1,4 %), bi se verjetno močno zvišale zaradi motenj v pomorskem prometu in povečane negotovosti. Delniški trgi bi doživeli oster padec, še posebej tehnološki sektor, ki je močno odvisen od tajvanskih polprevodnikov. Obvezniški trgi bi se soočili z begom v varno zavetje, kar bi znižalo donosnosti, medtem ko bi se dolar in jen lahko okrepila. Zgodovinski primer je naftna kriza v 70. letih, čeprav bi bil vpliv na sodobno globalizirano gospodarstvo verjetno še hujši. Za slovenskega dolgoročnega vlagatelja to pomeni, da je tveganje za globalno gospodarsko recesijo zaradi geopolitičnih napetosti v Aziji zelo realno in zahteva pozorno spremljanje dogajanja ter premišljeno diverzifikacijo portfelja.",
+      "povzetek": "Al Jazeera poroča o špekulacijah, da bi Kitajska lahko poskušala izvesti pomorsko blokado Tajvana, podobno iranski grožnji z blokado Hormuške ožine. Tajvan se že dolgo pripravlja na morebitno kitajsko vojaško invazijo, vendar vojne v Iranu in Ukrajini razkrivajo nove potencialne grožnje. Novica je bila objavljena 15. avgusta 2026 ob 11:30:00 UTC. Takšna poteza bi imela izjemne globalne posledice za trgovino in dobavne verige.",
+      "analiza": "Ozadje te novice je dolgotrajna geopolitična napetost med Kitajsko in Tajvanom, ki jo Kitajska obravnava kot odcepljeno provinco. Morebitna blokada Tajvana bi bila dramatična eskalacija, saj je Tajvan ključen globalni dobavitelj polprevodnikov in pomembna točka v svetovnih pomorskih poteh. Relevantnost je v neposrednem vplivu na globalne dobavne verige, še posebej v tehnološkem sektorju. Mehanizem vpliva na finančne trge bi bil katastrofalen: prekinitev dobave polprevodnikov bi ohromila številne industrije po svetu, od avtomobilske do elektronike, kar bi povzročilo inflacijske pritiske in upočasnitev gospodarske rasti. Delniški trgi bi se odzvali z ostrim padcem, še posebej podjetja, ki so močno odvisna od tajvanskih dobav. Cene surovin bi se lahko zvišale zaradi negotovosti in motenj v transportu. Valute, povezane z globalno trgovino, bi bile pod pritiskom, medtem ko bi se povpraševanje po varnih zatočiščih, kot so zlato (danes +0.38 % na 4437.30 USD/oz) in določene državne obveznice, povečalo. Za slovenskega dolgoročnega vlagatelja to predstavlja eno največjih geopolitičnih tveganj, ki zahteva skrbno spremljanje in razmislek o diverzifikaciji portfelja.",
       "vpliv": [
-        "Potencialna prekinitev globalnih dobavnih verig",
-        "Ogromen vpliv na proizvodnjo polprevodnikov",
-        "Močan dvig cen surovin, vključno z nafto",
-        "Oster padec delniških trgov in globalna recesija"
+        "Prekinitev globalnih dobavnih verig (polprevodniki)",
+        "Oster padec delniških trgov",
+        "Povečanje inflacijskih pritiskov",
+        "Rast cen surovin in zlata"
       ],
       "vir": "Al Jazeera",
       "vir_url": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
       "objavljeno": "2026-08-15T11:30:00.000Z"
     },
     {
-      "naslov": "Britanske reforme najemniškega trga povzročajo motnje, še posebej za študente",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Financial Times poroča, da so nove reforme najemniškega trga, ki jih je uvedla laburistična vlada v Združenem kraljestvu, povzročile motnje, še posebej na trgu študentskih najemnin. Zakon o pravicah najemnikov (Renters’ Rights Act) naj bi mednarodne študente izključil iz stanovanjskega trga in povzročil, da morajo bodoči najemniki plačevati dvojne najemnine. To podaljšuje postopek najema in ustvarja dodatne izzive.",
-      "analiza": "Ozadje te novice so prizadevanja britanske vlade za izboljšanje položaja najemnikov, ki pa imajo nenamerne posledice. Relevantnost je v tem, da regulacija trga, čeprav z dobrimi nameni, pogosto povzroči nepredvidene stranske učinke. V tem primeru gre za zmanjšanje ponudbe in otežen dostop do stanovanj za določene skupine, kot so mednarodni študenti, kar lahko vpliva na privlačnost Združenega kraljestva kot študijske destinacije. Mehanizem vpliva na finančne trge je predvsem preko nepremičninskega sektorja. Zmanjšana ponudba in povečana birokracija lahko zmanjšata donosnost naložb v najemniške nepremičnine, kar vpliva na vrednost nepremičninskih skladov in podjetij, ki so aktivna na tem področju. Dolgoročno lahko to vpliva tudi na širše gospodarstvo, saj je dostopnost stanovanj ključna za mobilnost delovne sile in privabljanje talentov. Za slovenskega dolgoročnega vlagatelja, ki ima morda izpostavljenost do britanskega nepremičninskega trga preko mednarodnih skladov, je to opozorilo na tveganja, povezana z regulatornimi spremembami.",
-      "vpliv": [
-        "Motnje na britanskem nepremičninskem trgu",
-        "Otežen dostop do stanovanj za mednarodne študente",
-        "Potencialno zmanjšanje donosnosti naložb v najemniške nepremičnine",
-        "Vpliv na ugled Združenega kraljestva kot študijske destinacije"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/1c5f8995-ee2f-47cf-977b-69e65f0a8ccc",
-      "objavljeno": "2026-08-15T11:00:03.000Z"
-    },
-    {
-      "naslov": "Analiza ameriške davčne politike in njenega vpliva na bogate",
+      "naslov": "Trumpova davčna politika v ZDA koristi predvsem premožnim posameznikom.",
       "sektor": "Finance",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Članek v The Guardianu kritično analizira ameriško davčno politiko, še posebej v luči predlogov Donalda Trumpa, kot je \"One Big Beautiful Bill Act\" (OBBBA). Ta zakonodaja naj bi vključevala več kot 5 bilijonov dolarjev davčnih olajšav in več kot 1 bilijon dolarjev rezov v programe, kot sta boni za hrano in Medicaid. Kritiki trdijo, da takšna politika ne služi malim podjetnikom, temveč predvsem interesom milijonarjev in bogatih, kar državo prikrajša za prihodke.",
-      "analiza": "Ozadje te novice je tekoča debata o davčni politiki v ZDA in njeni distribucijski učinki. Relevantnost je v tem, da davčna politika ne vpliva le na posameznike, temveč tudi na celotno gospodarstvo, državne finance in socialno enakost. Zmanjšanje davčnih prihodkov lahko poveča proračunski primanjkljaj, kar lahko dolgoročno vpliva na stabilnost obvezniškega trga in bonitetno oceno države. Mehanizem vpliva na finančne trge je kompleksen: davčne olajšave za bogate lahko spodbujajo naložbe in porabo med premožnimi, kar je lahko pozitivno za določene delniške sektorje (luksuzno blago, finančne storitve). Vendar pa lahko rezi v socialne programe zmanjšajo kupno moč revnejših slojev, kar ima negativen vpliv na širšo potrošnjo in stabilnost. Povečan proračunski primanjkljaj lahko vodi do večjega izdajanja državnih obveznic, kar lahko zviša donosnosti (kot je danes zabeleženih 4,70 % za 10-letno ameriško obveznico), saj trg zahteva višji donos za financiranje dolga. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da ameriška fiskalna politika vpliva na globalne kapitalske tokove, obrestne mere in s tem na donosnost vseh naložbenih razredov.",
+      "povzetek": "The Guardian poroča, da ameriška davčna politika, še posebej predlagani \"One Big Beautiful Bill Act\" (OBBBA) Donalda Trumpa, pretežno služi interesom premožnih posameznikov. Čeprav so zagovorniki trdili, da so upravičenci \"lastniki malih podjetij\", analiza kaže, da gre za zmanjšanje davkov v višini 5 bilijonov dolarjev, ki v veliki meri koristi milijonarjem in multimilijonarjem. Hkrati pa predlog vključuje tudi zmanjšanje sredstev za programe, kot sta boni za hrano in Medicaid, v višini več kot 1 bilijon dolarjev.",
+      "analiza": "Ozadje te novice je dolgotrajna debata o davčni politiki v ZDA in njenem vplivu na porazdelitev bogastva in prihodkov. Trumpova davčna politika, ki je bila že v preteklosti kritizirana zaradi koristi za korporacije in premožne, se zdi, da nadaljuje ta trend. Relevantnost je v vplivu na fiskalno politiko ZDA, javni dolg in socialno enakost. Zmanjšanje davčnih prihodkov lahko poveča proračunski primanjkljaj, kar dolgoročno vpliva na stabilnost ameriških državnih obveznic. Mehanizem vpliva na finančne trge je kompleksen: davčne olajšave za premožne lahko spodbujajo naložbe in porabo v določenih sektorjih, kar bi lahko podprlo delniške trge. Vendar pa lahko povečanje proračunskega primanjkljaja in zmanjšanje socialnih programov povzročita socialne napetosti in dolgoročno negotovost. Donosnosti obveznic bi se lahko povečale zaradi povečanega dolga. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, kako fiskalna politika največjega svetovnega gospodarstva vpliva na globalno likvidnost, inflacijo in stabilnost trga.",
       "vpliv": [
-        "Potencialno povečanje ameriškega proračunskega primanjkljaja",
-        "Vpliv na distribucijo bogastva in socialno enakost",
-        "Spremembe v naložbenih vzorcih bogatih posameznikov",
-        "Vpliv na donosnosti državnih obveznic ZDA"
+        "Povečanje proračunskega primanjkljaja ZDA",
+        "Potencialna rast donosnosti obveznic",
+        "Vpliv na porazdelitev bogastva",
+        "Spodbujanje naložb v določenih sektorjih"
       ],
       "vir": "The Guardian",
       "vir_url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
       "objavljeno": "2026-08-15T10:00:54.000Z"
+    },
+    {
+      "naslov": "Milijon dolarjev za upokojitev: Dovolj ali ne, odgovor se spreminja.",
+      "sektor": "Potrošniki",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "MarketWatch razpravlja o vprašanju, ali je milijon dolarjev dovolj za upokojitev gospodinjstva, in ugotavlja, da se odgovor nenehno spreminja. Članek navaja, da bi bili nekateri bralci in pari hvaležni, če bi se lahko upokojili že s polovico tega zneska. To poudarja individualne razlike v finančnih potrebah in pričakovanjih. Novica je bila objavljena 15. avgusta 2026 ob 16:00:00 UTC.",
+      "analiza": "Ozadje te novice je naraščajoča zaskrbljenost glede dolgoročne finančne varnosti in vpliva inflacije na kupno moč prihrankov. Vprašanje, koliko denarja je potrebno za upokojitev, je kompleksno in odvisno od številnih dejavnikov, vključno z življenjskim slogom, zdravstvenimi stroški in pričakovano življenjsko dobo. Relevantnost je v vplivu na osebne finance, varčevalne navade in povpraševanje po finančnih produktih. Nenehno spreminjajoč se odgovor poudarja, da je finančno načrtovanje dinamičen proces, ki zahteva redne revizije. Mehanizem vpliva na finančne trge je posreden, preko varčevalnih stopenj in naložbenih odločitev posameznikov. Če se ljudje počutijo manj varne glede svojih upokojitvenih prihrankov, lahko povečajo varčevanje, kar lahko vpliva na kapitalske trge. Hkrati pa lahko iskanje višjih donosov vpliva na naložbe v bolj tvegana sredstva. Vpliv inflacije, ki zmanjšuje realno vrednost prihrankov, je ključen dejavnik. Za slovenskega dolgoročnega vlagatelja to pomeni, da je ključnega pomena aktivno upravljanje osebnih financ, redno preverjanje upokojitvenih načrtov in upoštevanje inflacije pri določanju ciljev.",
+      "vpliv": [
+        "Povečana zaskrbljenost glede upokojitvenih prihrankov",
+        "Vpliv na varčevalne navade posameznikov",
+        "Povečano povpraševanje po finančnem svetovanju",
+        "Poudarek na vplivu inflacije na dolgoročne prihranke"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-15T16:00:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-15T15:47:43.802Z",
+    "posodobljenoOb": "2026-08-15T16:08:11.677Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -181,8 +164,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63039.33,
-        "sprememba_pct": 0.1,
+        "vrednost": 62997.21,
+        "sprememba_pct": 0.03,
         "enota": "USD"
       }
     ],
