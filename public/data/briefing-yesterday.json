@@ -1,165 +1,162 @@
 {
-  "generiranoOb": "2026-08-13T16:41:48.713Z",
+  "generiranoOb": "2026-08-14T16:38:58.456Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-08-13",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z rahlim padcem, medtem ko so ameriški kazali optimizem v zgodnjem popoldanskem trgovanju. DAX je dan zaključil pri 26300 točkah, kar predstavlja padec za 0.12 %. Nasprotno, ameriški indeks S&P 500 je po dveh urah trgovanja beležil rast za 0.47 % in dosegel 7785 točk, Nasdaq 100 pa je poskočil za 1.09 % na 30066 točk, kar kaže na nadaljnjo moč tehnološkega sektorja. Surovine so bile pod pritiskom, saj je cena zlata padla za 1.01 % na 4422.30 USD/oz, nafta WTI pa za 1.19 % na 82.28 USD/sod. Med ključnimi novicami dneva izstopa obtožba ZDA proti več kot 40 državam zaradi pomoči Kitajski pri izogibanju Trumpovim carinam, kar nakazuje na morebitno zaostrovanje globalnih trgovinskih napetosti. V energetiki je zaskrbljujoča novica o zaprtju edine romunske jedrske elektrarne zaradi nizkega pretoka Donave, kar poudarja ranljivost evropske energetske oskrbe. Vlagatelji bodo v prihodnjih dneh pozorno spremljali morebitne odzive na te geopolitične in energetske izzive. Najpomembnejši ekonomski dogodek tega tedna, ki ga vlagatelji morajo imeti na radarju, je objava inflacijskih podatkov za ZDA.",
+  "datum": "2026-08-14",
+  "povzetek": "Evropski trgi so danes zaključili s pozitivnim predznakom, medtem ko ameriški kažejo rahlo nazadovanje. Nemški indeks DAX je danes zrasel za 0,53 % na 26440 točk, medtem ko sta S&P 500 in Nasdaq 100 v začetnih dveh urah trgovanja zabeležila padec za 0,15 % na 7787 oziroma 0,29 % na 29999 točk. Opazen je bil porast donosnosti 10-letnih ameriških državnih obveznic, ki so dosegle 4,69 %, kar predstavlja povečanje za 0,97 % in najvišjo raven v 25 letih. Cene nafte so se zvišale, saj je WTI nafta dosegla 81,95 USD/sod (+0,86 %), Brent nafta pa 88,05 USD/sod (+1,13 %), medtem ko je zlato pridobilo 0,55 % in se giblje pri 4444,50 USD/oz. Med pomembnejšimi novicami dneva izstopajo morebitno znižanje ciljev za prodajo električnih vozil v Združenem kraljestvu, visoka naložba skupine Jeffa Bezosa v nogometni klub Liverpool FC ter pozitivno poročilo Disneyjevega izvršnega direktorja o uspešnosti parkov. Vlagatelji bodo ta teden pozorno spremljali prihajajočo objavo podatkov o inflaciji v ZDA, ki bo ključna za oceno prihodnjih potez centralnih bank.",
   "novice": [
     {
-      "naslov": "Tesla: Elon Musk prejel 2.5 milijona krat več plačila kot povprečen delavec",
-      "sektor": "Finance",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Poročilo AFL-CIO za leto 2025 razkriva, da je Elon Musk pri Tesli prejel 158.3 milijarde dolarjev nadomestila, kar je 2.5 milijona krat več kot povprečen delavec podjetja. Ta izjemen znesek je močno vplival na povprečno razmerje med plačo izvršnega direktorja in delavca v podjetjih S&P 500, ki je z Muskom znašalo 5,387:1. Brez Muska je bilo povprečno razmerje 312:1, kar je še vedno porast glede na leto 2024, ko je znašalo 285:1. Poročilo opozarja na naraščajočo razliko v plačilu med najvišjimi korporativnimi vodstvi in njihovimi zaposlenimi. Ta trend kaže na širjenje neenakosti v dohodkih znotraj največjih ameriških podjetij.",
-      "analiza": "Vprašanje plač izvršnih direktorjev in razmerja do plač povprečnih delavcev je že dolgo pereča tema, ki se redno pojavlja v javni in politični razpravi. Izjemno nadomestilo Elona Muska v višini 158.3 milijarde dolarjev za leto 2025, kot ga navaja poročilo AFL-CIO, predstavlja ekstremni primer tega trenda in poudarja naraščajočo neenakost. To ni le etično vprašanje, temveč ima lahko tudi širše makroekonomske posledice, saj vpliva na kupno moč potrošnikov in socialno kohezijo. Čeprav takšne novice redko neposredno vplivajo na kratkoročno gibanje delnic podjetja, kot je Tesla, lahko dolgoročno vplivajo na ugled podjetja, odnose z delavci in regulativni pritisk. V preteklosti so podobna razkritja sprožila pozive k strožji regulaciji plač v korporacijah. Za slovenske dolgoročne vlagatelje je pomembno razumeti, da so takšni trendi del širšega globalnega ekonomskega okolja, ki lahko vpliva na stabilnost trga in družbeno sprejemljivost korporativnega kapitalizma. Čeprav ne gre za neposreden finančni nasvet, je spremljanje teh trendov ključno za razumevanje širših tveganj in priložnosti na trgu.",
-      "vpliv": [
-        "Povečan javni in regulativni pritisk na plače izvršnih direktorjev",
-        "Potencialen vpliv na ugled podjetij z visokimi razmerji plač",
-        "Širjenje razprave o dohodkovni neenakosti",
-        "Možni dolgoročni vplivi na delavske odnose"
-      ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/2026/aug/13/elon-musk-tesla-pay-workers",
-      "objavljeno": "2026-08-13T16:31:14.000Z"
-    },
-    {
-      "naslov": "ZDA obtožujejo 40+ držav pomoči Kitajski pri izogibanju carinam",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Združene države Amerike so obtožile več kot 40 držav, vključno s Kanado, Japonsko in članicami Evropske unije, da pomagajo Kitajski pri izogibanju carinam, ki jih je uvedla administracija nekdanjega predsednika Trumpa. Bela hiša trdi, da te države omogočajo izogibanje carinam za 60 milijard dolarjev trgovine prek 'scama s pretovarjanjem'. To pomeni, da kitajsko blago potuje skozi tretje države, kjer se predeluje ali preoblikuje, da bi prikrilo svoj izvor in se izognilo ameriškim dajatvam. Obtožbe nakazujejo na morebitno zaostrovanje trgovinskih napetosti med ZDA in njenimi zaveznicami ter Kitajsko.",
-      "analiza": "Obtožbe ZDA proti več kot 40 državam, da pomagajo Kitajski pri izogibanju carinam, predstavljajo pomembno eskalacijo v globalnih trgovinskih odnosih. Te 'Trumpove carine' so bile uvedene z namenom zaščite ameriške industrije in so že v preteklosti povzročile trgovinske vojne. Zdajšnje obtožbe, ki vključujejo ključne zaveznice, kot so Kanada, Japonska in EU, nakazujejo na širši problem in potencialno novo fronto v trgovinskih sporih. Mehanizem vpliva na finančne trge je večplasten: morebitne nove carine ali sankcije bi lahko ovirale mednarodno trgovino, zvišale stroške za podjetja in potrošnike ter upočasnile globalno gospodarsko rast. Delnice podjetij, ki so močno odvisna od globalnih dobavnih verig in mednarodne trgovine, bi bile še posebej ranljive. Cene surovin, kot je nafta, bi lahko padle zaradi zmanjšanega povpraševanja, če bi se globalna rast upočasnila. Obvezniški donosi bi se lahko znižali, saj bi vlagatelji iskali varnejša zatočišča. Za slovenskega dolgoročnega vlagatelja to pomeni povečano negotovost na globalnih trgih in potrebo po diverzifikaciji portfelja, saj se lahko geopolitična tveganja hitro prelijejo v ekonomske posledice.",
-      "vpliv": [
-        "Povečana geopolitična tveganja",
-        "Možna uvedba novih carin in sankcij",
-        "Negativen vpliv na globalno trgovino in dobavne verige",
-        "Zmanjšanje zaupanja vlagateljev",
-        "Potencialno upočasnjevanje globalne gospodarske rasti"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/5d5ed2dd-8326-4cad-aac3-5816448ceccf?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-13T15:55:56.000Z"
-    },
-    {
-      "naslov": "Britanska vlada razmišlja o pomoči kmetom, prizadetim zaradi suše",
+      "naslov": "Donosnost ameriških obveznic dosega 25-letni vrh, kar vpliva na globalne trge",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Britanska vlada razmišlja o uvedbi pomoči za kmete, ki jih je prizadela suša, saj se država sooča s petim vročinskim valom v letu. Podeželje se bori s težkimi pogoji, kar ogroža kmetijsko proizvodnjo. Suša in vročinski valovi imajo neposreden vpliv na pridelke in živino, kar lahko povzroči pomanjkanje hrane in zvišanje cen. Morebitna vladna pomoč bi lahko ublažila nekatere neposredne finančne obremenitve za kmete, vendar ne rešuje temeljnega problema podnebnih sprememb in njihovega vpliva na kmetijstvo.",
-      "analiza": "Ponavljajoči se vročinski valovi in suše v Združenem kraljestvu so jasen znak podnebnih sprememb, ki imajo neposredne ekonomske posledice. Kmetijski sektor je še posebej ranljiv, saj so pridelki in živina odvisni od stabilnih vremenskih razmer. Razmišljanje vlade o pomoči kmetom kaže na resnost situacije in potencialni vpliv na oskrbo s hrano ter inflacijo. V preteklosti so ekstremni vremenski dogodki pogosto povzročili skokovito rast cen hrane, kar je vplivalo na kupno moč potrošnikov in lahko prispevalo k splošni inflaciji. To bi lahko pritisnilo na centralne banke, da razmislijo o monetarni politiki. Za obveznice bi lahko to pomenilo, da bi se donosi zvišali zaradi inflacijskih pričakovanj. Delnice podjetij v živilski industriji in maloprodaji bi se lahko soočale z višjimi stroški surovin, kar bi vplivalo na njihovo profitabilnost. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so podnebne spremembe in njihove posledice dolgoročno tveganje za globalno gospodarstvo, ki lahko vpliva na različne sektorje in naložbene razrede.",
+      "intenziteta": 3,
+      "povzetek": "Donosnost ameriških dolgoročnih obveznic je dosegla najvišjo raven v zadnjih 25 letih, kar je posledica prodaje 30-letnih obveznic z najvišjimi stroški zadolževanja od leta 2001. Ta dogodek je bil zabeležen v živem poročanju o gospodarskih novicah, ki je spremljalo tudi kritike na račun oslabitve ciljev Združenega kraljestva glede prodaje električnih vozil. Povečanje stroškov zadolževanja v ZDA je pomemben signal za globalne finančne trge. Vzporedno je Aviva, zavarovalnica, poročala o pomoči strankam, prizadetim v požarih v bližini Stourbridgea, vendar je poudarila, da požari niso materialno pomembni za podjetje.",
+      "analiza": "Ozadje tega dogodka je v vztrajni inflaciji in pričakovanjih, da bo ameriška centralna banka (Fed) ohranila restriktivno denarno politiko dlje časa. Ko donosnost obveznic raste, to pomeni, da vlagatelji zahtevajo višje donose za posojanje denarja vladi, kar odraža povečana inflacijska pričakovanja in/ali višje pričakovane obrestne mere. To je relevantno zdaj, saj visoki stroški zadolževanja vplivajo na celotno gospodarstvo, od hipotekarnih posojil do korporativnih naložb. Mehanizem vpliva je neposreden: višje donosnosti obveznic pomenijo višje stroške zadolževanja za podjetja in potrošnike, kar lahko upočasni gospodarsko rast. Za delnice to pomeni, da so podjetja, ki so močno odvisna od zadolževanja ali imajo visoke vrednotenja, še posebej ranljiva. Višje donosnosti obveznic prav tako zmanjšujejo privlačnost delnic v primerjavi z relativno \"varnimi\" obveznicami. Na valute lahko vpliva tako, da močnejši dolar privablja kapital, vendar lahko hkrati oteži izvoz. Surovine, kot je zlato, se lahko odzovejo mešano; čeprav višje obrestne mere običajno niso ugodne za zlato, se lahko v negotovih časih še vedno obravnava kot varno zatočišče, kot je bilo danes (+0,55 %). Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti pozoren na morebitno povečanje stroškov zadolževanja in upočasnitev globalne rasti, kar lahko vpliva na donose naložb v delnice in obveznice.",
       "vpliv": [
-        "Potencialno zvišanje cen hrane",
-        "Povečani stroški za vlado (subvencije)",
-        "Negativen vpliv na kmetijski sektor",
-        "Možni inflacijski pritiski",
-        "Povečana ranljivost dobavnih verig"
+        "10-letna donosnost ameriških obveznic pri 4,69 %",
+        "Višji stroški zadolževanja za vlade in podjetja",
+        "Potencialno zmanjšana privlačnost delnic",
+        "Vpliv na globalne kapitalske tokove"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/09c1ed51-8e69-4e39-bab3-392e1e9f9f6b?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-13T15:54:08.000Z"
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates",
+      "objavljeno": "2026-08-14T15:41:04.000Z"
     },
     {
-      "naslov": "Nizek pretok Donave prisilil Romunijo v zaustavitev edine jedrske elektrarne",
+      "naslov": "Združeno kraljestvo razmišlja o znižanju ciljev za prodajo električnih vozil",
       "sektor": "Energetika",
       "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Edina romunska jedrska elektrarna je bila prisiljena v zaustavitev zaradi kritično nizkega pretoka reke Donave. Elektrarna, ki običajno proizvede petino električne energije v državi, za svoje delovanje potrebuje vodo iz Donave za hlajenje. Romunija je poskušala preprečiti popolno zaustavitev, vendar so bile razmere preveč resne. Ta dogodek poudarja ranljivost energetske infrastrukture v regiji, še posebej v luči podnebnih sprememb, ki povzročajo ekstremne vremenske pojave, kot so suše in nizke gladine rek.",
-      "analiza": "Zaustavitev romunske jedrske elektrarne zaradi nizkega pretoka Donave je kritična novica za energetski sektor in ima širše geopolitične ter ekonomske posledice. Romunija, ki je od te elektrarne pridobivala petino svoje električne energije, se bo zdaj morala zanašati na druge vire, kar lahko povzroči pomanjkanje in zvišanje cen električne energije. To se dogaja v času, ko je Evropa že tako občutljiva na energetske šoke, deloma zaradi preteklih geopolitičnih napetosti in odvisnosti od uvoza energentov. Mehanizem vpliva je neposreden: zmanjšana ponudba električne energije vodi v višje cene, kar vpliva na industrijo in gospodinjstva. To lahko pospeši inflacijo in zmanjša gospodarsko aktivnost. Cene nafte in plina bi se lahko zvišale, saj bi se države poskušale preusmeriti na te vire za proizvodnjo električne energije. Delnice energetskih podjetij, ki proizvajajo elektriko iz fosilnih goriv, bi lahko kratkoročno pridobile, medtem ko bi se povečal pritisk na vlade za diverzifikacijo in krepitev energetske varnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je energetska varnost ključno tveganje, ki ga je treba upoštevati pri naložbah v evropska podjetja in gospodarstva.",
-      "vpliv": [
-        "Zvišanje cen električne energije v Romuniji in regiji",
-        "Povečana odvisnost od uvoza energentov",
-        "Potencialni inflacijski pritiski",
-        "Negativen vpliv na industrijo in gospodinjstva",
-        "Poudarek na ranljivosti energetske infrastrukture zaradi podnebnih sprememb"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss",
-      "objavljeno": "2026-08-13T12:30:08.000Z"
-    },
-    {
-      "naslov": "Netehnološka podjetja lahko dolgoročno izkoriščajo rast umetne inteligence",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Članek v MarketWatchu poudarja, da lahko obsežne naložbe v podatkovne centre in infrastrukturo za umetno inteligenco (AI) koristijo tudi podjetjem zunaj tradicionalnega tehnološkega sektorja. Ta podjetja so opisana kot 'HALO' podjetja, kar pomeni 'hard assets, low obsolescence' (trdna sredstva, nizka zastarelost). Gre za podjetja, ki dobavljajo ključne komponente, storitve in infrastrukturo, potrebno za izgradnjo in delovanje AI sistemov, kot so na primer podjetja za polprevodnike, električno energijo, hlajenje in gradbeništvo. To nakazuje na širši vpliv AI revolucije, ki presega zgolj razvoj programske opreme in čipov.",
-      "analiza": "Rast umetne inteligence (AI) je eden najpomembnejših tehnoloških trendov desetletja, ki poganja ogromne naložbe v infrastrukturo. Medtem ko se večina pozornosti usmerja na podjetja, ki razvijajo AI modele in čipe, ta novica poudarja, da obstajajo tudi 'skrite' priložnosti v tradicionalnih sektorjih. Koncept 'HALO' podjetij je pomemben, saj identificira podjetja, ki imajo dolgoročno vrednost in so manj podvržena hitri zastarelosti, kar je pogosto tveganje v tehnološkem sektorju. Povečano povpraševanje po podatkovnih centrih, električni energiji in hladilnih sistemih bo koristilo podjetjem v sektorjih, kot so energetika, gradbeništvo, proizvodnja električnih komponent in industrijski materiali. To lahko pomeni pozitivne vplive na delnice teh podjetij, saj se bodo njihovi prihodki in dobički povečevali. Za obveznice in valute je vpliv posreden, saj splošna gospodarska rast, ki jo poganja AI, lahko vpliva na inflacijo in obrestne mere. Za slovenskega dolgoročnega vlagatelja je ključno razumevanje, da se naložbene priložnosti v AI ne omejujejo zgolj na 'čiste' tehnološke delnice, temveč se širijo tudi na podjetja, ki so temeljni gradniki te revolucije.",
+      "povzetek": "Vlada Združenega kraljestva razmišlja o znižanju cilja za prodajo novih električnih avtomobilov z 80 % na 50 % do leta 2030. Ta odločitev prihaja po pritisku proizvajalcev avtomobilov. Poročilo BBC Business navaja, da bi takšno znižanje lahko imelo pomembne posledice za avtomobilsko industrijo in okoljske cilje države. Cilj 80 % prodaje električnih vozil je bil ambiciozen in je bil del širše strategije za zmanjšanje emisij ogljika. Morebitna sprememba politike kaže na izzive, s katerimi se sooča prehod na električno mobilnost, vključno s stroški in infrastrukturo.",
+      "analiza": "Ozadje te novice je v naraščajočih stroških proizvodnje električnih vozil, izzivih pri razvoju polnilne infrastrukture in morebitnem upočasnjevanju povpraševanja potrošnikov, ki so pod pritiskom inflacije in višjih obrestnih mer. Proizvajalci avtomobilov se soočajo z velikimi naložbami v razvoj EV tehnologije in so verjetno lobirali za bolj realistične cilje. To je relevantno zdaj, saj takšna odločitev lahko vpliva na strategije avtomobilskih podjetij, ki so že vložila ogromna sredstva v prehod na električna vozila. Mehanizem vpliva je, da znižanje ciljev lahko zmanjša pritisk na proizvajalce, da hitro preidejo na EV, kar bi lahko upočasnilo inovacije in naložbe v sektorju. Za delnice avtomobilskih proizvajalcev, ki so močno stavili na hitro elektrifikacijo, bi to lahko pomenilo mešane signale – manjši pritisk na kratki rok, a morebitno izgubo konkurenčne prednosti na dolgi rok. Za surovine, kot so litij in kobalt, ki so ključne za baterije, bi to lahko pomenilo zmanjšano rast povpraševanja. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da prehod na zelene tehnologije ni vedno linearen in se lahko sooča z regulativnimi in tržnimi ovirami, kar zahteva prilagodljivost pri naložbah v sektorje, povezane z energetskim prehodom.",
       "vpliv": [
-        "Povečano povpraševanje po infrastrukturi za AI (podatkovni centri, energija)",
-        "Rast prihodkov podjetij v sektorjih, kot so energetika, gradbeništvo, polprevodniki",
-        "Diverzifikacija naložbenih priložnosti zunaj tradicionalnih tehnoloških podjetij",
-        "Potencialni dolgoročni vpliv na gospodarsko rast"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/these-nontech-stocks-can-ride-the-ai-build-out-for-years-67e2e39b?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-13T15:48:00.000Z"
-    },
-    {
-      "naslov": "Lastnik Sports Directa kupil luksuzno veleblagovnico Harvey Nichols",
-      "sektor": "Potrošniki",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Luksuzno veleblagovnico Harvey Nichols, ki je postala znana po sitcomu 'Absolutely Fabulous', je kupil lastnik Sports Directa, podjetje Frasers Group. Novica prihaja po tem, ko je Harvey Nichols opozoril, da bo prenehal poslovati, kar kaže na težke čase za tradicionalne trgovce na drobno. Prevzem s strani Frasers Group, ki je znana po agresivni strategiji širjenja in reševanja propadajočih blagovnih znamk, bi lahko pomenil novo poglavje za Harvey Nichols, vendar tudi odraža izzive, s katerimi se sooča sektor luksuzne maloprodaje v spreminjajočem se potrošniškem okolju.",
-      "analiza": "Prevzem Harvey Nicholsa s strani Frasers Group je pomembna novica za britanski maloprodajni sektor in širše za sektor potrošnikov. Poudarja težave, s katerimi se soočajo tradicionalne veleblagovnice in luksuzni trgovci na drobno, ki se morajo prilagoditi spreminjajočim se nakupovalnim navadam, rasti spletne trgovine in splošnim gospodarskim pritiskom. Frasers Group, pod vodstvom Mikea Ashleyja, ima zgodovino prevzemanja in preoblikovanja problematičnih blagovnih znamk, kar nakazuje, da bi lahko Harvey Nichols dobil novo priložnost za preživetje. Vendar pa prevzem tudi poudarja konsolidacijo v sektorju in izginjanje nekaterih ikoničnih blagovnih znamk. Na finančne trge ima takšen prevzem neposreden vpliv na delnice vpletenih podjetij (če so javna) in posreden vpliv na celoten sektor maloprodaje, saj kaže na trende in izzive. Za obveznice in valute je vpliv manj neposreden, razen če gre za sistemsko pomembno podjetje. Za slovenskega dolgoročnega vlagatelja je to opomin, da je sektor maloprodaje pod stalnim pritiskom in zahteva skrbno analizo poslovnih modelov in prilagodljivosti podjetij na spremembe v potrošniškem vedenju.",
-      "vpliv": [
-        "Konsolidacija v britanskem maloprodajnem sektorju",
-        "Poudarek na izzivih tradicionalnih veleblagovnic",
-        "Potencialna preoblikovanje blagovne znamke Harvey Nichols",
-        "Vpliv na delnice podjetij v maloprodaji"
+        "Potencialno upočasnjena rast EV sektorja",
+        "Manjši pritisk na avtomobilske proizvajalce",
+        "Vpliv na povpraševanje po surovinah za baterije",
+        "Sprememba okoljske politike Združenega kraljestva"
       ],
       "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-08-13T14:27:43.000Z"
+      "vir_url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-08-14T15:58:21.000Z"
+    },
+    {
+      "naslov": "Skupina Jeffa Bezosa kupuje manjšinski delež v nogometnem klubu Liverpool FC",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Skupina vlagateljev, ki vključuje Jeffa Bezosa, je kupila manjšinski delež v nogometnem klubu Liverpool FC. Novica, ki jo poročata CNBC in Financial Times, navaja, da ima ta skupina tudi možnost, da v naslednjem letu postane večinski lastnik. Konzorcij, ki ga vodi zet jeklarskega milijarderja Lakšmija Mittala, je investiral v klub z vrednotenjem, ki presega 7 milijard dolarjev. Ta poteza poudarja naraščajoče zanimanje premožnih posameznikov in investicijskih skupin za športne klube kot donosne naložbe.",
+      "analiza": "Ozadje te naložbe je v naraščajoči globalni privlačnosti in finančni vrednosti vrhunskih športnih blagovnih znamk, zlasti v nogometu. Klub Liverpool FC je ena izmed najbolj prepoznavnih in uspešnih blagovnih znamk v svetovnem nogometu, kar ga dela privlačnega za bogate vlagatelje, ki iščejo tako finančne donose kot tudi prestiž. To je relevantno zdaj, saj kaže na nadaljnjo konsolidacijo lastništva v športni industriji in na trend, da se športni klubi obravnavajo kot globalna sredstva z velikim potencialom rasti prihodkov od medijskih pravic, sponzorstev in komercialnih dejavnosti. Mehanizem vpliva je, da takšne naložbe potrjujejo visoka vrednotenja v sektorju in lahko spodbujajo nadaljnje naložbe v šport in zabavo. Za delnice podjetij, povezanih s športom, mediji in zabavo, je to lahko pozitiven signal, ki kaže na močno povpraševanje po tovrstnih sredstvih. Za valute in surovine je neposreden vpliv omejen, vendar posredno kaže na razpoložljivost velikega kapitala za naložbe. Za slovenskega dolgoročnega vlagatelja to poudarja pomen diverzifikacije in iskanja naložbenih priložnosti tudi v sektorjih, ki so morda na prvi pogled manj tradicionalni, a ponujajo močne blagovne znamke in globalno rast.",
+      "vpliv": [
+        "Vrednotenje Liverpool FC nad 7 milijard USD",
+        "Možnost večinskega lastništva v enem letu",
+        "Naraščajoče naložbe v športne klube",
+        "Potencialno pozitiven vpliv na medijski in zabavni sektor"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/14/jeff-bezos-group-buys-stake-liverpool-fc.html",
+      "objavljeno": "2026-08-14T16:21:19.000Z"
+    },
+    {
+      "naslov": "Disneyjev izvršni direktor poudarja stabilnost in rast parkov kot ključni dejavnik",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Izvršni direktor Disneyja, Josh D'Amaro, je za CNBC izjavil, da so bili parki \"veliko presenečenje\" v zadnjem četrtletju in da ima podjetje zdaj \"jasnost\" in \"stabilnost\". Njegova strategija za nadaljnjo rast v Disneyju se osredotoča na pripovedovanje zgodb, intelektualno lastnino in tehnologijo. Ta izjava poudarja uspešnost segmenta parkov in izkušenj, ki je bil v preteklosti pod pritiskom pandemije. Pozitivni komentarji nakazujejo na močno povpraševanje potrošnikov po zabavi in potovanjih.",
+      "analiza": "Ozadje te novice je v okrevanju globalnega turizma in zabavne industrije po pandemiji. Disneyjevi parki so ključni vir prihodkov in dobička za podjetje, njihova uspešnost pa je pogosto barometer za zdravje potrošniškega sektorja. Izjava D'Amaroja je relevantna zdaj, saj potrjuje, da se je potrošniška poraba za izkušnje in prosti čas močno vrnila. Mehanizem vpliva je, da močna uspešnost parkov prispeva k celotnim finančnim rezultatom Disneyja in lahko pozitivno vpliva na ceno delnice podjetja. To lahko tudi signalizira širše pozitivne trende v sektorju potrošniške diskrecije. Za delnice podjetij v sektorju potovanj, turizma in zabave je to pozitiven znak, ki kaže na odpornost in rast povpraševanja. Na obveznice, valute in surovine je neposreden vpliv omejen, vendar posredno prispeva k splošnemu optimizmu glede gospodarske rasti. Za slovenskega dolgoročnega vlagatelja je to opomin, da so podjetja z močnimi blagovnimi znamkami in edinstvenimi ponudbami, kot je Disney, pogosto odporna in lahko izkoriščajo okrevanje potrošniške porabe.",
+      "vpliv": [
+        "Pozitivni rezultati Disneyjevih parkov",
+        "Potrjeno močno povpraševanje potrošnikov po zabavi",
+        "Poudarek na pripovedovanju zgodb in IP",
+        "Potencialno pozitiven vpliv na delnico Disneyja"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
+      "objavljeno": "2026-08-14T16:27:45.000Z"
+    },
+    {
+      "naslov": "Venezuela zahteva vrnitev zlata iz Banke Anglije po pogajanjih",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Venezuela želi nazaj svoje zlato, shranjeno pri Banki Anglije, po pogajanjih, ki jih podpirajo ZDA. Financial Times poroča, da sta se strani dogovorili za prizadevanja za dostop do 4 milijard dolarjev v zlatu, ki je shranjeno v Združenem kraljestvu. To sledi dolgotrajnemu sporu glede nadzora nad venezuelskimi sredstvi v tujini, ki so bila zamrznjena zaradi politične krize in sankcij. Zahteva po vrnitvi zlata je pomemben korak v diplomatskih in finančnih odnosih med Venezuelo in zahodnimi državami.",
+      "analiza": "Ozadje te situacije je v dolgotrajni politični in gospodarski krizi v Venezueli, ki je privedla do mednarodnih sankcij in spora glede legitimnosti vlade. Zlato, shranjeno v Banki Anglije, je postalo predmet spora med različnimi frakcijami v Venezueli in mednarodnimi akterji. To je relevantno zdaj, saj morebitna vrnitev zlata lahko vpliva na likvidnost venezuelske vlade in njeno sposobnost financiranja uvoza ali servisiranja dolga. Mehanizem vpliva na surovine je neposreden: sprostitev tako velike količine zlata na trg bi lahko teoretično vplivala na ceno zlata, čeprav je 4 milijarde dolarjev relativno majhen delež globalnega trga. Vendar pa je zlato danes že zraslo za 0,55 % na 4444,50 USD/oz, kar kaže na splošno povpraševanje po varnih zatočiščih. Geopolitično to kaže na morebitno spreminjanje dinamike v regiji in na vpliv pogajanj, ki jih podpirajo ZDA. Za valute je vpliv posreden, saj lahko vpliva na stabilnost venezuelskega bolivarja in na mednarodne rezerve. Za slovenskega dolgoročnega vlagatelja je to opomin, da geopolitični dogodki in mednarodne sankcije lahko imajo resne posledice za nacionalna gospodarstva in globalne finančne tokove, kar lahko vpliva na naložbe v surovine in trge v razvoju.",
+      "vpliv": [
+        "4 milijarde USD venezuelskega zlata v Banki Anglije",
+        "Potencialni vpliv na likvidnost Venezuele",
+        "Geopolitične implikacije pogajanj",
+        "Posreden vpliv na ceno zlata"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/5eb087c6-7a53-4f94-9588-d12f30d221df?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-14T13:07:06.000Z"
+    },
+    {
+      "naslov": "Investitorji v nepremičnine poročajo o najslabšem trgu v zadnjih treh letih",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Investitorji v nepremičnine poročajo, da je trenutni trg najslabši v zadnjih vsaj treh letih, poroča CNBC. Hipotekarne obrestne mere so konec februarja dosegle nedavno dno, vendar so se močno zvišale na začetku vojne z Iranom in so zdaj na najvišji ravni v več kot enem letu. To je povzročilo ohladitev nepremičninskega trga, saj višje obrestne mere zmanjšujejo kupno moč in donosnost naložb. Poročilo poudarja izzive, s katerimi se soočajo investitorji v stanovanjske nepremičnine.",
+      "analiza": "Ozadje te novice je v kombinaciji geopolitičnih napetosti (vojna z Iranom), ki so vplivale na obrestne mere, in splošnega dviga obrestnih mer s strani centralnih bank za boj proti inflaciji. Višje hipotekarne obrestne mere neposredno vplivajo na dostopnost stanovanj in donosnost nepremičninskih naložb. To je relevantno zdaj, saj nepremičninski trg igra ključno vlogo v gospodarstvu in vpliva na premoženje gospodinjstev. Mehanizem vpliva je, da višje obrestne mere zmanjšujejo povpraševanje po nepremičninah in lahko vodijo do padca cen. Za delnice gradbenih podjetij, nepremičninskih skladov (REITs) in podjetij, povezanih z opremljanjem domov, je to negativen signal. Povečanje obrestnih mer vpliva tudi na obveznice, saj se njihove cene znižajo. Na valute lahko vpliva tako, da višje obrestne mere v določeni državi privabljajo kapital, vendar lahko upočasnitev gospodarstva to nevtralizira. Za slovenskega dolgoročnega vlagatelja je pomembno, da razume, kako spremembe obrestnih mer in geopolitični dogodki vplivajo na nepremičninski trg, kar lahko vpliva na naložbe v nepremičninske sklade ali podjetja, povezana z gradbeništvom.",
+      "vpliv": [
+        "Hipotekarne obrestne mere na najvišji ravni v več kot letu dni",
+        "Ohlajanje nepremičninskega trga",
+        "Zmanjšana kupna moč",
+        "Negativen vpliv na gradbeni in nepremičninski sektor"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
+      "objavljeno": "2026-08-14T15:02:26.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-13T16:40:55.002Z",
+    "posodobljenoOb": "2026-08-14T16:37:06.209Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7785.24,
-        "sprememba_pct": 0.47
+        "vrednost": 7787.32,
+        "sprememba_pct": -0.15
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 30066.098,
-        "sprememba_pct": 1.09
+        "vrednost": 29998.545,
+        "sprememba_pct": -0.29
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 26299.74,
-        "sprememba_pct": -0.12
+        "vrednost": 26440.31,
+        "sprememba_pct": 0.53
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 68308.59,
-        "sprememba_pct": 1.16
+        "vrednost": 68713.8,
+        "sprememba_pct": 0.59
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4422.3,
-        "sprememba_pct": -1.01,
+        "vrednost": 4444.5,
+        "sprememba_pct": 0.55,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 82.28,
-        "sprememba_pct": -1.19,
+        "vrednost": 81.95,
+        "sprememba_pct": 0.86,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 88.02,
-        "sprememba_pct": -1.08,
+        "vrednost": 88.05,
+        "sprememba_pct": 1.13,
         "enota": "USD/sod"
       }
     ],
@@ -167,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1531,
-        "sprememba_pct": 0.03
+        "vrednost": 1.1581,
+        "sprememba_pct": 0.43
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.637,
-        "sprememba_pct": -0.96,
+        "vrednost": 4.686,
+        "sprememba_pct": 0.97,
         "enota": "%"
       }
     ],
@@ -184,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 62991.98,
-        "sprememba_pct": -0.66,
+        "vrednost": 63152.17,
+        "sprememba_pct": -0.42,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 14.7,
-      "sprememba_pct": 1.03
+      "vrednost": 14.47,
+      "sprememba_pct": -1.09
     }
   }
 }
