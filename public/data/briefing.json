@@ -1,116 +1,116 @@
 {
-  "generiranoOb": "2026-08-15T04:46:49.189Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-08-15T15:48:45.894Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-08-15",
-  "povzetek": "Jutranja izdaja, 15. avgust 2026: Finančni trgi so noč zaključili mešano, z ameriškimi indeksi v rahlem padcu, medtem ko so azijski in evropski trgi beležili rast. Indeks S&P 500 je padel za 0,17 % na 7786 točk, Nasdaq 100 za 0,13 % na 30046 točk, medtem ko je DAX zrasel za 0,53 % na 26440 točk in Nikkei 225 za 0,59 % na 68714 točk. Surovine so bile v porastu, WTI nafta se je podražila za 1,42 % na 82,40 USD/sod, Brent nafta za 1,67 % na 88,52 USD/sod, zlato pa je pridobilo 0,38 % in se trguje pri 4437,30 USD/oz. Geopolitične napetosti med ZDA in Iranom glede Hormuške ožine ostajajo v ospredju, kar vpliva na cene nafte. Hkrati se na tehnološkem področju stopnjujejo pretresi v OpenAI pred morebitno IPO, medtem ko se trgovci pripravljajo na morebitne premike jena. Berkshire Hathaway je povečal svoje naložbe v ameriški nepremičninski trg, kar kaže na zaupanje v sektor. Vlagatelji naj bodo ta teden pozorni na objavo inflacijskih podatkov iz evroobmočja, ki lahko pomembno vplivajo na pričakovanja glede monetarne politike Evropske centralne banke.",
+  "povzetek": "Evropski trgi so danes zaključili s pozitivnim predznakom, pri čemer je nemški indeks DAX zrasel za 0,53 % na 26440 točk. Medtem so ameriški trgi, dve uri po odprtju, beležili rahle padce; S&P 500 je bil pri 7786 točkah z -0,17 %, tehnološki Nasdaq 100 pa pri 30046 točkah z -0,13 %. Na surovinskih trgih je bila opazna rast cen nafte, kjer je WTI nafta poskočila za 1,42 % na 82,40 USD/sod, Brent nafta pa za 1,67 % na 88,52 USD/sod, kar bi lahko bilo povezano z geopolitičnimi napetostmi v Ukrajini in morebitnimi pomisleki glede Tajvana. Donosnost 10-letne ameriške državne obveznice se je zvišala za 1,19 % na 4,70 %, kar kaže na padec cen obveznic in morebitne inflacijske pritiske. Evro se je okrepil proti dolarju, EUR/USD je bil pri 1.1573 (+0.36 %). Volatilnost trga, merjena z indeksom VIX, je padla za 2,60 % na 14,25, kar nakazuje na zmanjšano negotovost. Vlagatelji bodo ta teden pozorno spremljali objavo indeksa cen življenjskih potrebščin (CPI) v ZDA, ki bo ključna za oceno prihodnjih potez centralnih bank.",
   "novice": [
     {
-      "naslov": "Iran še ni odločen o pogovorih z ZDA, Trump grozi z Hormuško ožino.",
+      "naslov": "Povišanje socialnih prejemkov v ZDA napoveduje močnejšo kupno moč upokojencev",
+      "sektor": "Makro & Centralne banke",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Prejemniki socialne varnosti v Združenih državah Amerike lahko prihodnje leto pričakujejo povišanje svojih prejemkov. Prilagoditev življenjskih stroškov (COLA) bi lahko leta 2027 znašala do 3,6 %. Ta prilagoditev je namenjena ohranjanju kupne moči upokojencev in drugih prejemnikov, saj se njihovi prejemki uskladijo z inflacijo. Povišanje bo vplivalo na milijone Američanov, ki so odvisni od teh sredstev.",
+      "analiza": "Ozadje te novice je mehanizem COLA, ki je vgrajen v sistem socialne varnosti ZDA. Njegov namen je zaščititi prejemnike pred erozijo kupne moči zaradi inflacije. V času, ko so inflacijski pritiski povišani, kot kaže tudi rast donosnosti 10-letne ameriške državne obveznice na 4,70 %, je povišanje COLA še toliko bolj pomembno. To je relevantno, saj neposredno vpliva na diskrecijsko porabo velikega segmenta populacije. Mehanizem vpliva na finančne trge je večplasten: povečana poraba s strani prejemnikov socialne varnosti lahko spodbudi gospodarsko rast, kar je pozitivno za delnice potrošniških podjetij. Hkrati pa lahko povišanje prejemkov, ki je odziv na inflacijo, tudi prispeva k nadaljnjim inflacijskim pritiskom, kar bi lahko vplivalo na odločitve centralnih bank glede obrestnih mer in s tem na obvezniške trge. Višje donosnosti obveznic, kot je danes zabeleženih 4,70 % za 10-letno ameriško obveznico, so pogosto znak pričakovane inflacije ali višjih obrestnih mer. Za slovenskega dolgoročnega vlagatelja je to pomembno, saj kaže na stanje ameriškega gospodarstva in inflacijska pričakovanja, ki vplivajo na globalne trge in s tem posredno na naložbe v mednarodne delnice in obveznice.",
+      "vpliv": [
+        "Povečana kupna moč milijonov prejemnikov socialne varnosti",
+        "Potencialno spodbujanje potrošniške porabe",
+        "Indirekten pokazatelj inflacijskih pritiskov",
+        "Vpliv na pričakovanja glede monetarne politike"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-15T15:28:00.000Z"
+    },
+    {
+      "naslov": "Opozorila na evforijo na Wall Streetu, spominjajočo na dot-com mehurček leta 1999",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Članek MarketWatch opozarja, da Wall Street kaže znake evforije, ki spominjajo na obdobje dot-com mehurčka konec devetdesetih let. Podjetja kot so Nvidia, Intel in Google so v središču te \"zabave\". Avtorji menijo, da so prisotni vsi znaki pretiranega optimizma in tveganega vzdušja, ki so bili značilni za obdobje pred pokom prejšnjega tehnološkega mehurčka.",
+      "analiza": "Kontekst te novice je izjemna rast tehnoloških delnic v zadnjem obdobju, še posebej tistih, povezanih z umetno inteligenco. Indeksa S&P 500 in Nasdaq 100 sta danes sicer v rahlem padcu (-0,17 % oziroma -0,13 %), vendar je splošno razpoloženje na trgu, kot kaže tudi padec VIX indeksa na 14,25, še vedno optimistično. Opozorila na \"1999\" so relevantna, saj nakazujejo na morebitno precenjenost določenih delnic in sektorjev. Mehanizem vpliva je psihološki in vrednotenjski: ko se trgi pregrejejo in vlagatelji ignorirajo temeljne metrike, se poveča tveganje za nenadne in ostre korekcije. To lahko vpliva na delnice, še posebej v tehnološkem sektorju, kjer so vrednotenja že visoka. Morebiten pok mehurčka bi lahko povzročil širši padec delniških trgov, vplival na obvezniške trge (kot \"beg v varno zavetje\") in celo na valute (padec zaupanja v ameriški dolar). Zgodovinski primer je seveda dot-com mehurček, ko so številna podjetja z visokimi vrednotenji propadla. Za slovenskega dolgoročnega vlagatelja to pomeni, da je potrebna previdnost pri izbiri naložb, še posebej v visoko vrednotenih sektorjih. Diverzifikacija in razumevanje tveganj sta ključna.",
+      "vpliv": [
+        "Opozorilo na morebitno precenjenost tehnoloških delnic",
+        "Povečano tveganje za korekcijo delniških trgov",
+        "Vpliv na splošno zaupanje vlagateljev",
+        "Možnost bega v varna sredstva"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/nvidia-intel-google-wall-street-is-partying-like-its-1999-8520c1e3?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-15T15:07:00.000Z"
+    },
+    {
+      "naslov": "Ukrajina se sooča s pomanjkanjem izstrelkov Patriot, kar ogroža obrambo",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Iranski zunanji minister Abbas Araghchi je 15. avgusta 2026 sporočil, da Iran še ni sprejel odločitve o vrnitvi k pogovorom z ZDA. Poudaril je, da Iran sodeluje z Omanom pri iskanju pomorskih poti, vendar je plovba skozi Hormuško ožino odvisna od izpolnitve ameriških pogojev. Medtem je ameriški predsednik Donald Trump izjavil, da bo \"kmalu\" Hormuško ožino razglasil za ozemlje ZDA, kar je ključna točka v tekočih pogajanjih o prekinitvi ognja med državama. Ta izjava sledi trditvam ZDA o uničenju iranskih balističnih raketnih zmogljivosti, ki jih je nekdanji svetovalec Bele hiše označil za \"prazne sanje\".",
-      "analiza": "Napetosti med ZDA in Iranom so se v zadnjem času močno zaostrile, še posebej po izjavi predsednika Trumpa o nameri razglasitve Hormuške ožine za ameriško ozemlje. To območje je ključna pomorska pot za globalno trgovino z nafto, saj skozenj poteka približno petina svetovne oskrbe. Morebitna eskalacija konflikta ali celo zaprtje ožine bi imelo dramatične posledice za svetovne cene nafte in globalno gospodarstvo. Že sedaj so cene nafte v porastu, WTI nafta je zrasla za 1,42 % na 82,40 USD/sod, Brent nafta pa za 1,67 % na 88,52 USD/sod, kar kaže na zaskrbljenost trgov. V preteklosti so podobne geopolitične napetosti na Bližnjem vzhodu, kot so bile naftne krize v 70. letih, povzročile močne skoke cen in globalne recesije. Vlagatelji bodo pozorno spremljali diplomatska prizadevanja in morebitne vojaške premike v regiji. Za slovenskega dolgoročnega vlagatelja to pomeni povečano volatilnost na trgih surovin in morebiten pritisk na inflacijo, kar lahko vpliva na donosnost naložb v delnice in obveznice.",
+      "povzetek": "Financial Times poroča, da se Ukrajina sooča s kritičnim pomanjkanjem izstrelkov za protiletalske sisteme Patriot. To pomanjkanje ogroža vojaški zagon Kijeva in ga pušča ranljivega za rusko zimsko kampanjo. Dopolnjevanje zalog je počasno, kar povzroča zaskrbljenost glede zmožnosti Ukrajine za obrambo pred zračnimi napadi.",
+      "analiza": "Ta novica se nanaša na nadaljevanje vojne v Ukrajini in poudarja izzive, s katerimi se sooča ukrajinska obramba. Kontekst je dolgotrajen konflikt, kjer se izčrpavajo tako človeški kot materialni viri. Pomanjkanje ključnih obrambnih sistemov, kot so Patriot, je relevantno, saj lahko spremeni dinamiko bojišča in potencialno privede do eskalacije konflikta ali spremembe v ravnotežju moči. Mehanizem vpliva na finančne trge je predvsem preko povečane geopolitične negotovosti. Morebitna ruska ofenziva bi lahko povzročila dodatne sankcije, motnje v dobavnih verigah in predvsem vplivala na cene energentov. Danes so cene nafte WTI in Brent že zrasle za 1,42 % oziroma 1,67 %, kar je morda odraz takšnih skrbi. Povečana negotovost običajno vodi do bega v varna zatočišča, kot so zlato (ki je danes zraslo za 0,38 % na 4437,30 USD/oz) in nekatere valute, medtem ko delniški trgi lahko trpijo. Za slovenskega dolgoročnega vlagatelja to pomeni, da je geopolitično tveganje v Evropi še vedno visoko, kar lahko vpliva na stabilnost trgov in donosnost naložb, še posebej v sektorjih, občutljivih na cene energentov in dobavne verige.",
       "vpliv": [
-        "Rast cen nafte (WTI +1,42%, Brent +1,67%)",
-        "Povečana volatilnost na trgih surovin",
-        "Možen pritisk na globalno inflacijo",
-        "Zaskrbljenost glede stabilnosti dobavnih verig"
+        "Povečana geopolitična negotovost v Evropi",
+        "Potencialna eskalacija konflikta v Ukrajini",
+        "Dodatni pritiski na cene energentov (nafta, plin)",
+        "Negativen vpliv na evropske delniške trge"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/6448b0af-f2ed-4067-b814-73f41b56fa78?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-15T12:00:05.000Z"
+    },
+    {
+      "naslov": "Kitajska preučuje možnost blokade Tajvana po zgledu iranske strategije v Hormuški ožini",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Al Jazeera poroča, da Kitajska razmišlja o strategiji, podobni iranski blokadi Hormuške ožine, za morebitno obkolitev Tajvana. Čeprav se je Tajvan dolgo pripravljal na kitajsko vojaško invazijo, vojne v Iranu in Ukrajini razkrivajo nove potencialne grožnje, kot je pomorska blokada. Takšna poteza bi imela ogromne posledice za globalno trgovino in dobavne verige.",
+      "analiza": "Ozadje te novice je dolgotrajna napetost med Kitajsko in Tajvanom, ki se je v zadnjih letih stopnjevala. Relevantnost je izjemna, saj bi morebitna blokada Tajvana, ki je ključni igralec v globalni proizvodnji polprevodnikov, povzročila nepredstavljive motnje v svetovnem gospodarstvu. Mehanizem vpliva na finančne trge bi bil katastrofalen. Prekinitev dobavnih verig bi povzročila pomanjkanje ključnih komponent, dvignila inflacijo in upočasnila globalno rast. Cene surovin, vključno z nafto (ki je danes že zrasla za več kot 1,4 %), bi se verjetno močno zvišale zaradi motenj v pomorskem prometu in povečane negotovosti. Delniški trgi bi doživeli oster padec, še posebej tehnološki sektor, ki je močno odvisen od tajvanskih polprevodnikov. Obvezniški trgi bi se soočili z begom v varno zavetje, kar bi znižalo donosnosti, medtem ko bi se dolar in jen lahko okrepila. Zgodovinski primer je naftna kriza v 70. letih, čeprav bi bil vpliv na sodobno globalizirano gospodarstvo verjetno še hujši. Za slovenskega dolgoročnega vlagatelja to pomeni, da je tveganje za globalno gospodarsko recesijo zaradi geopolitičnih napetosti v Aziji zelo realno in zahteva pozorno spremljanje dogajanja ter premišljeno diverzifikacijo portfelja.",
+      "vpliv": [
+        "Potencialna prekinitev globalnih dobavnih verig",
+        "Ogromen vpliv na proizvodnjo polprevodnikov",
+        "Močan dvig cen surovin, vključno z nafto",
+        "Oster padec delniških trgov in globalna recesija"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
-      "objavljeno": "2026-08-15T04:24:02.000Z"
+      "vir_url": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
+      "objavljeno": "2026-08-15T11:30:00.000Z"
     },
     {
-      "naslov": "Pretresi v OpenAI se stopnjujejo pred načrtovano javno ponudbo delnic.",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Podjetje OpenAI, ustvarjalec ChatGPT-ja, se sooča z naraščajočimi pretresi, ki vključujejo odhode vodilnih delavcev in spremembe v ekipi za varnost, medtem ko se izvršni direktor Sam Altman pripravlja na morebitno blockbuster javno ponudbo delnic (IPO). Te spremembe povzročajo nelagodje med zaposlenimi. Čeprav podjetje načrtuje visoko pričakovano uvrstitev na borzo, notranje turbulencije postavljajo vprašanja o stabilnosti in prihodnji smeri podjetja, ki je v ospredju razvoja umetne inteligence.",
-      "analiza": "OpenAI je v zadnjih letih postal eden ključnih akterjev v industriji umetne inteligence, s svojim produktom ChatGPT pa je sprožil globalno zanimanje in investicijski val. Morebitna IPO podjetja, ki bi lahko dosegla izjemno visoko vrednost, bi bila pomemben dogodek za celoten tehnološki sektor. Vendar pa poročila o odhodih vodilnih kadrov in spremembah v varnostni ekipi pred tako pomembnim korakom vzbujajo zaskrbljenost. To lahko nakazuje na notranje konflikte glede strategije, etike ali varnosti AI, kar bi lahko vplivalo na dolgoročno stabilnost podjetja in zaupanje vlagateljev. Podobni pretresi so v preteklosti že vplivali na vrednotenja tehnoloških podjetij pred ali po IPO. Za vlagatelje je to opozorilo, da je kljub potencialu AI sektorja prisotno tudi visoko tveganje, povezano z upravljanjem, regulacijo in hitrim razvojem tehnologije. Slovenski dolgoročni vlagatelj naj bo pozoren na transparentnost in stabilnost vodstva podjetij v hitro rastočih sektorjih.",
-      "vpliv": [
-        "Povečana negotovost glede stabilnosti OpenAI",
-        "Možen vpliv na vrednotenje pred IPO",
-        "Zaskrbljenost glede upravljanja v AI sektorju",
-        "Vpliv na širši tehnološki trg"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-15T04:00:31.000Z"
-    },
-    {
-      "naslov": "Trgovci se pripravljajo na boj glede jena po intervenciji ZDA in Japonske.",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Po zgodovinski skupni intervenciji ZDA in Japonske na valutnem trgu, ki je bila namenjena stabilizaciji jena, se tveganje za ponovne tržne pretrese glede japonske valute znova povečuje. Trgovci so pripravljeni na morebitne nadaljnje premike in špekulacije, kar kaže na negotovost glede dolgoročne smeri jena. Intervencija je bila poskus zajezitve šibkosti jena, ki je bila posledica razlik v monetarnih politikah med Japonsko in drugimi velikimi gospodarstvi.",
-      "analiza": "Japonski jen je bil v zadnjem obdobju pod močnim pritiskom zaradi izrazite razlike v obrestnih merah med Japonsko centralno banko (BoJ), ki ohranja izjemno ohlapno monetarno politiko, in drugimi centralnimi bankami, ki so zviševale obrestne mere. To je privedlo do zgodovinske šibkosti jena, kar je sprožilo skupno intervencijo ZDA in Japonske. Kljub temu se zdi, da trgi niso povsem prepričani v dolgoročno učinkovitost takšnih ukrepov, saj so temeljne razlike v politikah ostale. Povečana volatilnost jena lahko vpliva na globalne trgovinske tokove, dobičke izvoznikov in uvoznikov ter na stabilnost finančnih trgih. V preteklosti so nenadne spremembe vrednosti ključnih valut, kot je jen, povzročile pretrese na globalnih trgih. Vlagatelji bodo pozorno spremljali nadaljnje poteze BoJ in morebitne nove intervencije. Za slovenskega dolgoročnega vlagatelja to pomeni, da so naložbe v podjetja z izpostavljenostjo do japonskega trga ali jena lahko podvržene večjemu valutnemu tveganju.",
-      "vpliv": [
-        "Povečana volatilnost valutnega para USD/JPY",
-        "Vpliv na dobičke japonskih izvoznikov",
-        "Možni širši vplivi na globalne valute",
-        "Tveganje za ponovne intervencije centralnih bank"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/543b1ab2-6203-412d-ae3b-f4439d1e9d47?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-15T04:00:32.000Z"
-    },
-    {
-      "naslov": "Berkshire Hathaway podvaja stavo na ameriški nepremičninski trg.",
+      "naslov": "Britanske reforme najemniškega trga povzročajo motnje, še posebej za študente",
       "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Berkshire Hathaway, investicijski konglomerat Warrena Buffetta, je povečal svojo izpostavljenost ameriškemu nepremičninskemu trgu z novo stavo na določeno delnico. Poleg tega je podjetje povečalo tudi svoje deleže v tehnološkem gigantu Alphabet in letalski družbi Delta Air Lines. Ta poteza kaže na zaupanje Berkshire Hathaway v dolgoročno stabilnost in rast ameriškega nepremičninskega sektorja ter v izbrane delnice, kar je pomemben signal za širše trge.",
-      "analiza": "Odločitve Berkshire Hathaway, ki ga vodi legendarni vlagatelj Warren Buffett, so vedno pozorno spremljane, saj pogosto odražajo dolgoročen pogled na gospodarstvo. Povečanje deleža v ameriškem nepremičninskem trgu, kljub morebitnim obrestnim tveganjem, nakazuje na prepričanje v odpornost in potencial rasti tega sektorja. To je lahko interpretirano kot znak, da Buffett in njegova ekipa vidijo vrednost v podjetjih, ki so povezana z gradbeništvom, hipotekami ali nepremičninskimi storitvami. Povečanje deležev v Alphabetu in Delta Air Lines pa kaže na selektivno zaupanje v tehnološki in letalski sektor. V preteklosti so Buffettove naložbene poteze pogosto služile kot barometer za širše tržne trende. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub splošnim negotovostim mogoče najti priložnosti v stabilnih sektorjih, kot so nepremičnine, in v podjetjih z močnimi temelji, kar lahko služi kot referenca pri lastnih naložbenih odločitvah.",
-      "vpliv": [
-        "Zaupanje v ameriški nepremičninski trg",
-        "Pozitiven signal za izbrane delnice (Alphabet, Delta Air Lines)",
-        "Vpliv na sentiment vlagateljev",
-        "Možna rast delnic v nepremičninskem sektorju"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-14T21:34:00.000Z"
-    },
-    {
-      "naslov": "Britanske univerze ponujajo popuste tujim študentom zaradi cenovne vojne.",
-      "sektor": "Potrošniki",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Univerze v Združenem kraljestvu so začele ponujati popuste na šolnine tujim študentom, kar kaže na \"cenovno vojno\" v sektorju visokega šolstva. Znižanja prihajajo v času, ko strožja vizumska pravila in močnejša konkurenca povečujejo pritisk na že tako finančno obremenjen sektor. To odraža izzive, s katerimi se soočajo britanske izobraževalne institucije pri privabljanju mednarodnih študentov, ki so pomemben vir prihodkov.",
-      "analiza": "Britanski visokošolski sektor je močno odvisen od mednarodnih študentov, katerih šolnine so pogosto višje od tistih za domače študente. Strožja vizumska pravila in naraščajoča globalna konkurenca, zlasti iz držav, ki prav tako aktivno privabljajo tuje študente, ustvarjajo pritisk na prihodke univerz. Trenutna \"cenovna vojna\" je znak, da se univerze borijo za ohranitev svojega tržnega deleža in finančne stabilnosti. To lahko dolgoročno vpliva na kakovost izobraževanja, raziskovalne dejavnosti in zaposlovanje v sektorju. V preteklosti so podobni pritiski v drugih storitvenih sektorjih vodili do konsolidacije ali propada šibkejših akterjev. Za slovenskega dolgoročnega vlagatelja je to primer, kako lahko spremembe v regulaciji in globalni konkurenci vplivajo na celotne sektorje, kar poudarja pomen diverzifikacije in analize makroekonomskih trendov.",
+      "povzetek": "Financial Times poroča, da so nove reforme najemniškega trga, ki jih je uvedla laburistična vlada v Združenem kraljestvu, povzročile motnje, še posebej na trgu študentskih najemnin. Zakon o pravicah najemnikov (Renters’ Rights Act) naj bi mednarodne študente izključil iz stanovanjskega trga in povzročil, da morajo bodoči najemniki plačevati dvojne najemnine. To podaljšuje postopek najema in ustvarja dodatne izzive.",
+      "analiza": "Ozadje te novice so prizadevanja britanske vlade za izboljšanje položaja najemnikov, ki pa imajo nenamerne posledice. Relevantnost je v tem, da regulacija trga, čeprav z dobrimi nameni, pogosto povzroči nepredvidene stranske učinke. V tem primeru gre za zmanjšanje ponudbe in otežen dostop do stanovanj za določene skupine, kot so mednarodni študenti, kar lahko vpliva na privlačnost Združenega kraljestva kot študijske destinacije. Mehanizem vpliva na finančne trge je predvsem preko nepremičninskega sektorja. Zmanjšana ponudba in povečana birokracija lahko zmanjšata donosnost naložb v najemniške nepremičnine, kar vpliva na vrednost nepremičninskih skladov in podjetij, ki so aktivna na tem področju. Dolgoročno lahko to vpliva tudi na širše gospodarstvo, saj je dostopnost stanovanj ključna za mobilnost delovne sile in privabljanje talentov. Za slovenskega dolgoročnega vlagatelja, ki ima morda izpostavljenost do britanskega nepremičninskega trga preko mednarodnih skladov, je to opozorilo na tveganja, povezana z regulatornimi spremembami.",
       "vpliv": [
-        "Zmanjšanje prihodkov britanskih univerz",
-        "Povečana konkurenca v izobraževalnem sektorju",
-        "Možen vpliv na zaposlovanje v sektorju",
-        "Tveganje za finančno stabilnost nekaterih institucij"
+        "Motnje na britanskem nepremičninskem trgu",
+        "Otežen dostop do stanovanj za mednarodne študente",
+        "Potencialno zmanjšanje donosnosti naložb v najemniške nepremičnine",
+        "Vpliv na ugled Združenega kraljestva kot študijske destinacije"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/bf7b4e9b-6017-4525-a0e7-10c3b7bfec30?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-15T04:00:23.000Z"
+      "vir_url": "https://www.ft.com/content/1c5f8995-ee2f-47cf-977b-69e65f0a8ccc",
+      "objavljeno": "2026-08-15T11:00:03.000Z"
     },
     {
-      "naslov": "Začasna prepoved žarov za enkratno uporabo zaradi požarov v Združenem kraljestvu.",
-      "sektor": "Potrošniki",
-      "smer": "negativno",
-      "intenziteta": 1,
-      "povzetek": "Vlada Združenega kraljestva je uvedla začasno prepoved uporabe žarov za enkratno uporabo, saj ti predstavljajo \"znatno tveganje za javnost\" v trenutnih razmerah suše in vročinskega vala. Vojska je bila napotena za pomoč pri gašenju gozdnih požarov, ki pustošijo po državi. Ta ukrep neposredno vpliva na prodajo in uporabo določenih potrošniških izdelkov ter kaže na resnost podnebnih sprememb in njihov vpliv na vsakdanje življenje in gospodarstvo.",
-      "analiza": "Ekstremni vremenski pojavi, kot so vročinski valovi in suše, postajajo vse pogostejši in imajo neposreden vpliv na gospodarstvo. Prepoved prodaje in uporabe žarov za enkratno uporabo je majhen, a konkreten primer, kako lahko podnebne spremembe vplivajo na določene industrije in potrošniške navade. Čeprav je neposreden finančni vpliv na proizvajalce žarov za enkratno uporabo morda omejen, je to opozorilo na širše ekonomske posledice podnebnih sprememb, vključno s stroški gašenja požarov, uničenjem premoženja in motnjami v turizmu. Podobni ukrepi so bili v preteklosti že sprejeti v drugih državah, ki se soočajo s podobnimi izzivi. Za slovenskega dolgoročnega vlagatelja to poudarja pomen upoštevanja ESG (okoljskih, socialnih in upravljavskih) dejavnikov pri naložbah, saj lahko podnebne spremembe in z njimi povezani regulativni ukrepi vplivajo na dobičkonosnost podjetij v različnih sektorjih.",
+      "naslov": "Analiza ameriške davčne politike in njenega vpliva na bogate",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Članek v The Guardianu kritično analizira ameriško davčno politiko, še posebej v luči predlogov Donalda Trumpa, kot je \"One Big Beautiful Bill Act\" (OBBBA). Ta zakonodaja naj bi vključevala več kot 5 bilijonov dolarjev davčnih olajšav in več kot 1 bilijon dolarjev rezov v programe, kot sta boni za hrano in Medicaid. Kritiki trdijo, da takšna politika ne služi malim podjetnikom, temveč predvsem interesom milijonarjev in bogatih, kar državo prikrajša za prihodke.",
+      "analiza": "Ozadje te novice je tekoča debata o davčni politiki v ZDA in njeni distribucijski učinki. Relevantnost je v tem, da davčna politika ne vpliva le na posameznike, temveč tudi na celotno gospodarstvo, državne finance in socialno enakost. Zmanjšanje davčnih prihodkov lahko poveča proračunski primanjkljaj, kar lahko dolgoročno vpliva na stabilnost obvezniškega trga in bonitetno oceno države. Mehanizem vpliva na finančne trge je kompleksen: davčne olajšave za bogate lahko spodbujajo naložbe in porabo med premožnimi, kar je lahko pozitivno za določene delniške sektorje (luksuzno blago, finančne storitve). Vendar pa lahko rezi v socialne programe zmanjšajo kupno moč revnejših slojev, kar ima negativen vpliv na širšo potrošnjo in stabilnost. Povečan proračunski primanjkljaj lahko vodi do večjega izdajanja državnih obveznic, kar lahko zviša donosnosti (kot je danes zabeleženih 4,70 % za 10-letno ameriško obveznico), saj trg zahteva višji donos za financiranje dolga. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da ameriška fiskalna politika vpliva na globalne kapitalske tokove, obrestne mere in s tem na donosnost vseh naložbenih razredov.",
       "vpliv": [
-        "Negativen vpliv na prodajo žarov za enkratno uporabo",
-        "Povečani stroški za gašenje požarov",
-        "Vpliv na turizem in rekreacijo",
-        "Poudarek na ESG dejavnikih za vlagatelje"
+        "Potencialno povečanje ameriškega proračunskega primanjkljaja",
+        "Vpliv na distribucijo bogastva in socialno enakost",
+        "Spremembe v naložbenih vzorcih bogatih posameznikov",
+        "Vpliv na donosnosti državnih obveznic ZDA"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-08-15T03:58:31.000Z"
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
+      "objavljeno": "2026-08-15T10:00:54.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-15T04:46:01.938Z",
+    "posodobljenoOb": "2026-08-15T15:47:43.802Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -181,8 +181,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63087.38,
-        "sprememba_pct": 0.17,
+        "vrednost": 63039.33,
+        "sprememba_pct": 0.1,
         "enota": "USD"
       }
     ],
