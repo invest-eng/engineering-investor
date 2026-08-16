@@ -1,99 +1,116 @@
 {
-  "generiranoOb": "2026-08-16T04:50:47.198Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-08-16T15:49:30.930Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-08-16",
-  "povzetek": "Jutranji pregled finančnih trgov kaže na mešano gibanje, saj so ameriški indeksi noč zaključili z rahlim padcem, medtem ko so azijski in evropski trgi beležili rast. S&P 500 je zaprl pri 7786 (-0.17 %), Nasdaq 100 pri 30046 (-0.13 %), medtem ko je DAX zrasel za 0.53 % na 26440, Nikkei 225 pa za 0.59 % na 68714. Geopolitične napetosti na Bližnjem vzhodu, vključno z nadaljevanjem pogovorov o Hormuški ožini in spopadi v Jemnu, so vplivale na cene nafte, pri čemer je WTI nafta poskočila za 1.42 % na 82.40 USD/sod, Brent nafta pa za 1.67 % na 88.52 USD/sod. Zlato je prav tako pridobilo na vrednosti (+0.38 % na 4437.30 USD/oz), kar kaže na iskanje varnih zatočišč. Vlagatelji bodo ta teden pozorno spremljali objave ključnih makroekonomskih podatkov, ki lahko vplivajo na pričakovanja glede monetarne politike.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, medtem ko ameriški indeksi po dveh urah trgovanja kažejo rahlo negativno smer. Nemški DAX je dan zaključil z rastjo za 0,53 % pri 26440 točkah, medtem ko sta v ZDA S&P 500 pri 7786 točkah padel za 0,17 %, Nasdaq 100 pa pri 30046 točkah za 0,13 %. Na trgu surovin sta ceni nafte WTI in Brent občutno zrasli, za 1,42 % na 82,40 USD/sod oziroma za 1,67 % na 88,52 USD/sod, kar kaže na povečane geopolitične napetosti, medtem ko je zlato pridobilo 0,38 % in se giblje pri 4437,30 USD/oz. Devizni par EUR/USD je zrasel za 0,36 % na 1,1573, donosnost 10-letne ameriške obveznice pa se je zvišala za 1,19 % na 4,70 %. Dnevne novice so zaznamovali obsežni napadi z droni v Ukrajini na rusko ozemlje, razprava o vzrokih za stabilne cene nafte kljub napetostim ter pričakovanja pred objavo rezultatov ameriških trgovcev na drobno, ki bodo razkrili zdravje potrošnikov. Vlagatelji bodo v prihodnjem tednu pozorno spremljali objavo podatkov o inflaciji v evroobmočju, ki bo ključna za oceno prihodnjih potez Evropske centralne banke.",
   "novice": [
     {
-      "naslov": "Nadaljevanje pogovorov o Hormuški ožini in spopadi na Bližnjem vzhodu",
+      "naslov": "Ukrajina sprožila največji napad z droni na Rusijo, Moskva poročala o sestrelitvi 822 dronov",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Pogovori o Hormuški ožini se nadaljujejo, medtem ko Izrael poročajo o uboju 11 ljudi v Libanonu, kar predstavlja najsmrtonosnejše napade od junijske prekinitve ognja. Jemenske vladne sile so se odzvale na novo ofenzivo Hutijev na območjih pod njihovim nadzorom. Ti dogodki poudarjajo nadaljnjo nestabilnost v regiji, ki je ključna za globalne energetske tokove. Čiščenje naftnega razlitja iz ruskega tankerja je doseglo obalo Omana, kar dodatno opozarja na ranljivost dobavnih poti. Ameriška letalonosilka naj bi razbremenila USS Lincoln v regiji, kar kaže na povečano vojaško prisotnost.",
-      "analiza": "Nadaljevanje pogovorov o Hormuški ožini in eskalacija spopadov na Bližnjem vzhodu, vključno z napadi v Libanonu in Jemnu, predstavljajo pomembno geopolitično tveganje. Hormuška ožina je ključna pomorska pot za transport približno petine svetovne nafte, zato vsaka napetost v regiji neposredno vpliva na globalne cene energentov. Povečana nestabilnost in vojaška prisotnost, kot je napovedana razbremenitev letalonosilke USS Lincoln, povečujeta t.i. 'premijo za tveganje' pri cenah nafte. Posledično sta WTI nafta zrasla za 1.42 % na 82.40 USD/sod in Brent nafta za 1.67 % na 88.52 USD/sod. Vlagatelji se v takšnih razmerah pogosto zatekajo k varnim zatočiščem, kot je zlato, ki je danes pridobilo 0.38 % na 4437.30 USD/oz. Povečana negotovost lahko povzroči tudi nihanja na delniških trgih in vpliva na valutne tečaje, saj se vlagatelji izogibajo tveganim naložbam. Za slovenskega dolgoročnega vlagatelja to pomeni, da je portfelj izpostavljen tveganjem, ki izhajajo iz globalnih geopolitičnih dogodkov, zlasti prek cen energentov in surovin. Diversifikacija in dolgoročna perspektiva ostajata ključni strategiji za obvladovanje takšnih nihanj.",
+      "povzetek": "Ukrajina je sprožila enega največjih napadov z droni na rusko ozemlje, pri čemer je Rusija poročala o sestrelitvi 822 dronov. Napadi so povzročili smrt najmanj šestih ljudi in prizadeli logistično središče Wildberries. Ta obsežna operacija poudarja stopnjevanje konflikta in sposobnost Ukrajine za doseganje globljih tarč znotraj Rusije. Incident se je zgodil 16. avgusta 2026, kar kaže na nadaljnjo eskalacijo konflikta.",
+      "analiza": "Ta obsežen napad z droni predstavlja nadaljnje stopnjevanje konflikta med Ukrajino in Rusijo, kar povečuje geopolitično negotovost v Evropi. Povečana intenzivnost napadov, zlasti na logistične in potencialno energetske objekte, lahko vpliva na dobavne verige in proizvodnjo. Na finančnih trgih se takšni dogodki običajno odražajo v povečani volatilnosti, kar kaže tudi današnji VIX, ki je sicer padel za 2,60 % na 14,25, vendar se lahko ob nadaljnjih eskalacijah hitro obrne. Cene nafte, kot sta WTI pri 82,40 USD/sod (+1,42 %) in Brent pri 88,52 USD/sod (+1,67 %), so se danes že zvišale, saj trgi ocenjujejo tveganje za motnje v globalni oskrbi z energijo. Zlato, tradicionalno varno zatočišče, je prav tako zraslo za 0,38 % na 4437,30 USD/oz. Vlagatelji bodo pozorno spremljali morebitne povračilne ukrepe Rusije in njihov vpliv na regionalno stabilnost. Za slovenskega dolgoročnega vlagatelja to pomeni, da je portfelj izpostavljen geopolitičnim tveganjem, kar poudarja pomen diverzifikacije in premišljenega upravljanja tveganj.",
       "vpliv": [
-        "WTI nafta +1.42 % na 82.40 USD/sod",
-        "Brent nafta +1.67 % na 88.52 USD/sod",
-        "Zlato +0.38 % na 4437.30 USD/oz",
-        "Povečana geopolitična tveganja"
+        "Povečana geopolitična negotovost",
+        "Rast cen nafte (WTI +1,42 %, Brent +1,67 %)",
+        "Rast cene zlata (+0,38 %)",
+        "Potencialna motnja v dobavnih verigah"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
-      "objavljeno": "2026-08-16T00:00:45.000Z"
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
+      "objavljeno": "2026-08-16T15:35:53.000Z"
     },
     {
-      "naslov": "Večina ameriških volivcev meni, da so v slabšem položaju pod Trumpovo administracijo",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Raziskava Financial Timesa kaže, da večina ameriških volivcev meni, da so se njihove finančne razmere poslabšale pod trenutno administracijo predsednika Trumpa. Demokrati imajo pred republikanci prednost pri vprašanjih gospodarstva, le nekaj mesecev pred vmesnimi volitvami. To razpoloženje volivcev bi lahko imelo pomembne posledice za prihajajoče volitve in prihodnjo gospodarsko politiko ZDA. Raziskava poudarja nezadovoljstvo z ekonomskim stanjem in potencialno spremembo politične dinamike.",
-      "analiza": "Percepcija volivcev o lastnem ekonomskem položaju je ključen dejavnik, ki vpliva na politične izide in s tem na prihodnje gospodarske politike. Če večina ameriških volivcev meni, da so v slabšem položaju pod trenutno administracijo, to lahko pomeni, da so potrošniško zaupanje in pričakovanja glede prihodnosti šibkejša. Šibkejše potrošniško zaupanje lahko vodi v zmanjšanje potrošnje, kar je pomemben del BDP ZDA. To bi lahko vplivalo na rast podjetij in s tem na delniške trge, čeprav so indeksi S&P 500 (-0.17 %) in Nasdaq 100 (-0.13 %) danes zabeležili le manjše padce. Rezultati ankete lahko vplivajo tudi na obvezniške trge, saj bi morebitna sprememba politične usmeritve lahko spremenila fiskalno politiko in s tem dolgoročne obrestne mere. Donosnost 10-letne ameriške državne obveznice je danes zrasla za 1.19 % na 4.70 %. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da politična nestabilnost in spremembe v gospodarskih politikah velikih gospodarstev, kot so ZDA, lahko povzročijo nihanja na globalnih trgih. Sledenje takšnim trendom pomaga pri razumevanju širšega konteksta naložbenega okolja.",
-      "vpliv": [
-        "Potencialno zmanjšanje potrošniškega zaupanja v ZDA",
-        "Možna sprememba fiskalne politike ZDA po volitvah",
-        "Vpliv na delniške in obvezniške trge ZDA",
-        "Donosnost 10Y US Treasury +1.19 % na 4.70 %"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-16T04:01:09.000Z"
-    },
-    {
-      "naslov": "Singapur uporablja dostop do umetne inteligence za privabljanje finančnih strokovnjakov",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Singapur upa, da bo enostaven dostop do najnovejših modelov umetne inteligence (AI) preprečil odliv finančnih strokovnjakov v Hongkong. Zaradi tesnih odnosov z ZDA in Kitajsko ima Singapur enostaven dostop do naprednih AI tehnologij. To strategijo uporablja za ohranjanje in privabljanje talentov v svojem finančnem sektorju, s čimer krepi svoj položaj vodilnega finančnega središča v Aziji. Konkurenca med finančnimi centri se seli na področje tehnoloških inovacij.",
-      "analiza": "Konkurenca med globalnimi finančnimi centri, kot sta Singapur in Hongkong, se vse bolj osredotoča na tehnološke inovacije, zlasti na področju umetne inteligence. Singapurjeva strategija, da z enostavnim dostopom do najnovejših AI modelov privabi in zadrži finančne strokovnjake, je pomembna za dolgoročno rast in konkurenčnost njegovega finančnega sektorja. AI ima potencial za revolucioniranje finančnih storitev, od avtomatizacije procesov do napredne analize podatkov in personaliziranih storitev. Finančne institucije, ki so v ospredju sprejemanja AI, lahko pridobijo konkurenčno prednost, kar se odraža v njihovi dobičkonosnosti in s tem v vrednosti delnic. To lahko vpliva na delnice finančnih podjetij, ki so prisotna v Singapurju, in na širši finančni sektor. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati, kako se finančni sektorji po svetu prilagajajo in izkoriščajo nove tehnologije. Naložbe v podjetja, ki so vodilna pri implementaciji AI v financah, lahko ponudijo dolgoročne priložnosti, vendar je treba upoštevati tudi tveganja, povezana z regulacijo in etičnimi vprašanji AI.",
-      "vpliv": [
-        "Krepitev Singapurja kot finančnega središča",
-        "Povečana konkurenca med globalnimi finančnimi centri",
-        "Rast povpraševanja po AI rešitvah v financah",
-        "Vpliv na delnice finančnih podjetij v regiji"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-16T01:52:17.000Z"
-    },
-    {
-      "naslov": "Zaradi visokih cen goriva v Nigeriji narašča priljubljenost električnih koles",
+      "naslov": "Razlogi za stabilne cene nafte: globalno povpraševanje se zmanjšuje",
       "sektor": "Energetika",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "V Nigeriji, kjer cene bencina strmo naraščajo, električna kolesa pridobivajo na priljubljenosti. Uporabniki poročajo, da jim prehod na električna kolesa pomaga zmanjšati stroške goriva in vzdrževanja. Ta trend poudarja vpliv visokih cen energentov na potrošniške navade in pospešuje prehod na alternativne, bolj trajnostne oblike prevoza v državah v razvoju. Povečano povpraševanje po električnih kolesih kaže na prilagoditev prebivalstva na ekonomske pritiske.",
-      "analiza": "Naraščajoče cene nafte, kot je videti tudi pri WTI nafti (+1.42 % na 82.40 USD/sod) in Brent nafti (+1.67 % na 88.52 USD/sod), imajo neposreden vpliv na potrošnike po vsem svetu, še posebej v državah v razvoju, kot je Nigerija. Visoki stroški goriva silijo posameznike in podjetja k iskanju cenejših alternativ. Povečano sprejemanje električnih koles v Nigeriji je odličen primer, kako se potrošniki prilagajajo na ekonomske pritiske in prispevajo k energetski tranziciji. Ta trend lahko dolgoročno zmanjša odvisnost od fosilnih goriv in spodbuja rast sektorjev, povezanih z električno mobilnostjo. Za delniške trge to pomeni potencialno rast za podjetja, ki proizvajajo električna kolesa, baterije in polnilno infrastrukturo, hkrati pa lahko zmanjša povpraševanje po tradicionalnih vozilih na bencin. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati globalne trende energetske tranzicije in vpliv cen surovin na potrošniške navade. Naložbe v podjetja, ki so del rešitve za zmanjšanje odvisnosti od fosilnih goriv, lahko ponudijo dolgoročne priložnosti, saj se svet premika proti bolj trajnostnim rešitvam.",
+      "povzetek": "Članek MarketWatch razpravlja o tem, zakaj cene nafte ne rastejo bistveno, kljub nekaterim geopolitičnim napetostim. Glavni razlog naj bi bil zmanjšano globalno povpraševanje po nafti. To kaže na strukturne spremembe v svetovnem gospodarstvu in energetski tranziciji, ki zmanjšujejo odvisnost od fosilnih goriv. Članek je bil objavljen 16. avgusta 2026, kar poudarja dolgoročne trende na energetskih trgih.",
+      "analiza": "Medtem ko so cene nafte WTI in Brent danes zrasle za 1,42 % na 82,40 USD/sod oziroma za 1,67 % na 88,52 USD/sod, je dolgoročnejši trend, ki ga izpostavlja MarketWatch, pomemben za razumevanje dinamike trga. Zmanjšano globalno povpraševanje, ki ga povzroča energetska tranzicija in morebitno počasnejša gospodarska rast, lahko omeji potencial za dolgoročno rast cen nafte, ne glede na kratkoročne geopolitične šoke. To je v nasprotju s tradicionalnim prepričanjem, da geopolitične napetosti vedno vodijo do znatnega dviga cen. Mehanizem vpliva je preprost: če je povpraševanje šibko, ponudba lažje absorbira morebitne motnje. To lahko pomeni manjši inflacijski pritisk iz energentov v prihodnosti, kar bi lahko vplivalo na politiko centralnih bank. Za delnice energetskih podjetij bi to lahko pomenilo manjše dobičke, medtem ko bi za podjetja, ki so veliki porabniki energije, to lahko bil pozitiven dejavnik. Slovenski dolgoročni vlagatelj naj upošteva, da se globalna energetska krajina spreminja, kar vpliva na dolgoročno donosnost naložb v tradicionalne energetske sektorje.",
       "vpliv": [
-        "Povečano povpraševanje po električnih kolesih in e-mobilnosti",
-        "Zmanjšanje stroškov goriva za potrošnike",
-        "Vpliv visokih cen nafte na potrošniške navade",
-        "Potencialna rast za podjetja v sektorju zelene mobilnosti"
+        "Omejen dolgoročni potencial rasti cen nafte",
+        "Manjši inflacijski pritisk iz energentov",
+        "Potencialno nižji dobički za energetska podjetja",
+        "Podpora podjetjem, ki so veliki porabniki energije"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
-      "objavljeno": "2026-08-16T01:43:57.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-16T13:00:00.000Z"
     },
     {
-      "naslov": "Kolumbija prosi Trumpa za ukinitev carin po uničujočem potresu",
+      "naslov": "Walmart in Target bosta razkrila zdravje ameriškega potrošnika",
+      "sektor": "Potrošniki",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Prihajajoče objave poslovnih rezultatov ameriških trgovcev na drobno, kot sta Walmart in Target, bodo ključne za oceno zdravja ameriških potrošnikov. Ti rezultati bodo pokazali, kako se kupci spopadajo z vztrajno inflacijo in morebitnimi pritiski na kupno moč. Analiza teh podatkov bo pomembna za razumevanje širšega gospodarskega stanja v ZDA. Novica je bila objavljena 16. avgusta 2026, kar napoveduje prihodnje objave.",
+      "analiza": "Zdravje ameriškega potrošnika je ključni dejavnik za celotno ameriško gospodarstvo, saj potrošniška poraba predstavlja velik del BDP. V obdobju vztrajne inflacije, ki vpliva na kupno moč, so objave rezultatov velikih trgovcev na drobno, kot sta Walmart in Target, pomemben pokazatelj, ali se potrošniki še vedno držijo ali pa so prisiljeni zmanjšati porabo. Če bodo rezultati pokazali šibkost, bi to lahko pomenilo upočasnitev gospodarske rasti in morebiten pritisk na dobičke podjetij v sektorju potrošniških dobrin. To bi lahko vplivalo na delniške indekse, kot sta S&P 500, ki je danes pri 7786 točkah padel za 0,17 %, in Nasdaq 100, ki je padel za 0,13 % na 30046 točk. Šibkejši potrošniki bi lahko tudi zmanjšali inflacijske pritiske, kar bi lahko vplivalo na pričakovanja glede obrestnih mer Federal Reserve. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati te kazalnike, saj imajo vpliv na globalno gospodarsko rast in s tem na donosnost mednarodno diverzificiranih portfeljev.",
+      "vpliv": [
+        "Indikator zdravja ameriškega gospodarstva",
+        "Vpliv na dobičke podjetij v maloprodaji",
+        "Potencialen vpliv na inflacijo in obrestne mere",
+        "Vpliv na delniške indekse"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-16T11:00:00.000Z"
+    },
+    {
+      "naslov": "Omejene možnosti za Irance, saj vojna z ZDA duši gospodarstvo",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Milijoni Irancev se soočajo z omejenimi možnostmi preživetja, saj vojna z ZDA duši gospodarstvo države in povzroča skokovito rast cen. Ta situacija poudarja hude gospodarske in socialne posledice dolgotrajnih geopolitičnih napetosti in sankcij. Članek, objavljen 16. avgusta 2026, opisuje, kako se iransko prebivalstvo bori za preživetje in se sooča z izjemnimi izzivi.",
+      "analiza": "Dolgoročne napetosti in 'vojna' med Iranom in ZDA, čeprav morda ne gre za neposreden vojaški konflikt, imajo uničujoč vpliv na iransko gospodarstvo. Sankcije in izolacija zmanjšujejo iranski izvoz nafte in dostop do mednarodnih trgov, kar neposredno vpliva na globalno ponudbo nafte. Čeprav današnje cene nafte kažejo rast (WTI +1,42 %, Brent +1,67 %), je dolgoročni potencial iranske nafte omejen zaradi teh razmer. Hkrati pa nestabilnost v regiji, ki jo povzroča ta konflikt, lahko povzroči nenadne skoke cen nafte, če pride do motenj v dobavnih poteh, kot je Hormuška ožina. Povečana revščina in nezadovoljstvo v Iranu lahko vodita do notranje nestabilnosti, kar bi imelo nadaljnje geopolitične posledice. Za obveznice in valute bi to lahko pomenilo povečano averzijo do tveganja na globalni ravni. Slovenski dolgoročni vlagatelj naj bo pozoren na razvoj dogodkov v regiji, saj imajo lahko ti dogodki pomemben vpliv na cene energentov in globalno gospodarsko stabilnost.",
+      "vpliv": [
+        "Omejena iranska ponudba nafte",
+        "Povečana geopolitična nestabilnost v regiji",
+        "Potencialni skoki cen nafte",
+        "Povečana averzija do tveganja"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss",
+      "objavljeno": "2026-08-16T11:38:50.000Z"
+    },
+    {
+      "naslov": "Starši v Združenem kraljestvu redčijo mleko za dojenčke zaradi visokih stroškov",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Organizacija Moorside Baby Bank poroča, da so starši v Združenem kraljestvu zaradi visokih stroškov osnovnih življenjskih potrebščin prisiljeni redčiti mleko za dojenčke. Ta praksa, ki je nevarna za zdravje otrok, poudarja resnost krize življenjskih stroškov in vpliv vztrajne inflacije na najranljivejše družine. Novica je bila objavljena 16. avgusta 2026, kar kaže na pereč socialno-ekonomski problem.",
+      "analiza": "Ta novica iz Združenega kraljestva je zaskrbljujoč pokazatelj globine krize življenjskih stroškov, ki prizadeva gospodinjstva. Redčenje mleka za dojenčke zaradi finančnih omejitev kaže na ekstremne pritiske, s katerimi se soočajo potrošniki, in na neustreznost obstoječih socialnih mrež. Takšne razmere lahko vodijo do zmanjšanja potrošniške porabe, saj gospodinjstva dajejo prednost osnovnim potrebščinam, kar negativno vpliva na širše gospodarstvo. To lahko pomeni tudi nadaljnji pritisk na vlade, da ukrepajo proti inflaciji ali povečajo socialno pomoč, kar ima lahko fiskalne posledice. Čeprav se neposredno ne odraža v današnjih gibanjih indeksov, kot je DAX (+0,53 % na 26440), dolgoročno vpliva na gospodarsko stabilnost in zaupanje potrošnikov. Za britansko funt bi to lahko pomenilo pritisk navzdol zaradi šibkejših gospodarskih obetov. Slovenski dolgoročni vlagatelj naj razume, da so socialni in ekonomski pritiski v razvitih državah, kot je Združeno kraljestvo, lahko opozorilni znak za širše gospodarske izzive, ki lahko posredno vplivajo tudi na globalne trge.",
+      "vpliv": [
+        "Indikator globoke krize življenjskih stroškov",
+        "Zmanjšanje potrošniške porabe",
+        "Pritisk na vlade za ukrepanje",
+        "Potencialni pritisk na britanski funt"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cpq8p82gq49o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-08-16T06:03:55.000Z"
+    },
+    {
+      "naslov": "Največji požar v Belgiji se širi proti nemški meji, evakuiranih 600 prebivalcev",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Kolumbija je zaprosila predsednika Trumpa za ukinitev carin, saj se država sooča s posledicami uničujočega potresa. Rekonstrukcija po potresu naj bi stala približno 6.4 milijarde dolarjev, vendar so Kolumbijo prizadele obnovljene ameriške carine. To predstavlja dvojni udarec za kolumbijsko gospodarstvo, saj se mora spopadati z naravno katastrofo in trgovinskimi ovirami. Odločitev ZDA glede carin bo imela pomemben vpliv na sposobnost Kolumbije za okrevanje.",
-      "analiza": "Prošnja Kolumbije za ukinitev ameriških carin po uničujočem potresu poudarja prepletenost geopolitike, naravnih katastrof in mednarodne trgovinske politike. Obnovljene ameriške carine predstavljajo dodaten pritisk na kolumbijsko gospodarstvo, ki se že sooča z ogromnimi stroški rekonstrukcije, ocenjenimi na približno 6.4 milijarde dolarjev. Carine lahko zmanjšajo izvoz Kolumbije v ZDA, kar zmanjša priliv deviz in ovira gospodarsko okrevanje. To lahko vpliva na stabilnost kolumbijske valute in poveča tveganje za državni dolg. Odločitev Trumpove administracije bo imela širše posledice za odnose med ZDA in Latinsko Ameriko ter za globalne trgovinske tokove. Za obvezniške trge to pomeni povečano tveganje za kolumbijske državne obveznice, saj se zmanjšuje sposobnost države za servisiranje dolga. Za valute, kot je EUR/USD, ki je danes zrasel za 0.36 % na 1.1573, takšni dogodki kažejo na širšo negotovost v globalnem gospodarstvu. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, kako trgovinske politike in naravne katastrofe vplivajo na gospodarstva v razvoju, saj lahko to vpliva na naložbe v sklade, ki so izpostavljeni tem trgom, in na globalno gospodarsko rast.",
+      "povzetek": "Največji zabeleženi požar v Belgiji se širi proti nemški meji, kar je prisililo 600 prebivalcev k evakuaciji. Požar povzroča obsežno uničenje in predstavlja resen izziv za lokalne oblasti in gospodarstvo. Ta dogodek poudarja naraščajočo pogostost in intenzivnost ekstremnih vremenskih pojavov v Evropi. Novica je bila objavljena 16. avgusta 2026, kar kaže na aktualnost problema.",
+      "analiza": "Obsežni požari v Belgiji, ki se širijo proti Nemčiji, so primer neposrednega gospodarskega vpliva podnebnih sprememb in ekstremnih vremenskih pojavov. Evakuacije in uničenje infrastrukture povzročajo neposredne stroške in motnje v lokalnem gospodarstvu. To lahko vpliva na zavarovalniški sektor, saj se povečujejo zahtevki za odškodnine, kar lahko dolgoročno vpliva na premije in dobičkonosnost zavarovalnic. Poleg tega imajo takšni dogodki lahko posreden vpliv na kmetijstvo in turizem v prizadetih regijah. Čeprav se neposredno ne odraža v današnjih gibanjih širših evropskih indeksov, kot je DAX (+0,53 %), dolgoročno prispevajo k gospodarski negotovosti. Povečana pogostost takšnih dogodkov poudarja potrebo po naložbah v prilagoditev na podnebne spremembe in zmanjšanje emisij. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati podnebna tveganja pri izbiri naložb, saj imajo lahko ta tveganja vse večji vpliv na podjetja in celotna gospodarstva.",
       "vpliv": [
-        "Povečani ekonomski pritiski na Kolumbijo",
-        "Potencialno zmanjšanje kolumbijskega izvoza",
-        "Vpliv na stabilnost kolumbijske valute in državnega dolga",
-        "Poudarek na vplivu trgovinskih carin na ranljiva gospodarstva"
+        "Neposredni gospodarski stroški in motnje",
+        "Povečani zahtevki v zavarovalniškem sektorju",
+        "Vpliv na kmetijstvo in turizem",
+        "Dolgoročna gospodarska negotovost"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
-      "objavljeno": "2026-08-15T23:04:47.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
+      "objavljeno": "2026-08-16T12:35:31.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-16T04:49:21.660Z",
+    "posodobljenoOb": "2026-08-16T15:48:03.498Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -164,8 +181,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 63052.39,
-        "sprememba_pct": 0.04,
+        "vrednost": 63057.99,
+        "sprememba_pct": 0.05,
         "enota": "USD"
       }
     ],
