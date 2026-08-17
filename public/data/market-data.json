@@ -1,23 +1,23 @@
 {
-  "posodobljenoOb": "2026-08-17T14:18:11.305Z",
+  "posodobljenoOb": "2026-08-17T16:17:11.172Z",
   "indeksi": [
     {
       "simbol": "^GSPC",
       "ime": "S&P 500",
-      "vrednost": 7774.06,
-      "sprememba_pct": -0.15
+      "vrednost": 7775.22,
+      "sprememba_pct": -0.14
     },
     {
       "simbol": "^NDX",
       "ime": "Nasdaq 100",
-      "vrednost": 30107.861,
-      "sprememba_pct": 0.21
+      "vrednost": 30122.967,
+      "sprememba_pct": 0.26
     },
     {
       "simbol": "^GDAXI",
       "ime": "DAX",
-      "vrednost": 26405.37,
-      "sprememba_pct": -0.13
+      "vrednost": 26338.61,
+      "sprememba_pct": -0.38
     },
     {
       "simbol": "^N225",
@@ -30,22 +30,22 @@
     {
       "simbol": "GC=F",
       "ime": "Zlato",
-      "vrednost": 4462.6,
-      "sprememba_pct": 0.57,
+      "vrednost": 4481.9,
+      "sprememba_pct": 1.01,
       "enota": "USD/oz"
     },
     {
       "simbol": "CL=F",
       "ime": "WTI nafta",
-      "vrednost": 82.46,
-      "sprememba_pct": 0.07,
+      "vrednost": 82.66,
+      "sprememba_pct": 0.32,
       "enota": "USD/sod"
     },
     {
       "simbol": "BZ=F",
       "ime": "Brent nafta",
-      "vrednost": 88.83,
-      "sprememba_pct": 0.35,
+      "vrednost": 89.01,
+      "sprememba_pct": 0.55,
       "enota": "USD/sod"
     }
   ],
@@ -53,16 +53,16 @@
     {
       "simbol": "EURUSD=X",
       "ime": "EUR/USD",
-      "vrednost": 1.1601,
-      "sprememba_pct": 0.24
+      "vrednost": 1.1592,
+      "sprememba_pct": 0.16
     }
   ],
   "obveznice": [
     {
       "simbol": "^TNX",
       "ime": "10Y US Treasury",
-      "vrednost": 4.702,
-      "sprememba_pct": 0.13,
+      "vrednost": 4.708,
+      "sprememba_pct": 0.26,
       "enota": "%"
     }
   ],
@@ -70,15 +70,15 @@
     {
       "simbol": "BTC-USD",
       "ime": "Bitcoin",
-      "vrednost": 63613.25,
-      "sprememba_pct": 1.25,
+      "vrednost": 64019.92,
+      "sprememba_pct": 1.89,
       "enota": "USD"
     }
   ],
   "vix": {
     "simbol": "^VIX",
     "ime": "VIX",
-    "vrednost": 15.03,
-    "sprememba_pct": 5.47
+    "vrednost": 15.04,
+    "sprememba_pct": 5.54
   }
 }
