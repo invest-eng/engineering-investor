@@ -1,162 +1,159 @@
 {
-  "generiranoOb": "2026-08-19T04:51:41.512Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-08-19T16:00:16.628Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-08-19",
-  "povzetek": "Danes, 19. avgusta 2026, so se finančni trgi prebudili v mešano sliko, kjer so azijski trgi sledili padcem v ZDA. Ameriški indeks S&P 500 je zaključil pri 7692, kar predstavlja padec za 0.69 %, medtem ko je tehnološki Nasdaq 100 zabeležil izrazitejši padec za 1.68 % na 29491. Tudi evropski DAX je bil v rdečem, pri 26128 (-0.80 %), azijski Nikkei 225 pa je padel za 3.10 % na 65372. Medtem ko je zlato izgubilo 0.47 % in se ustavilo pri 4400.00 USD/oz, sta ceni nafte WTI in Brent zrasli za 0.76 % na 84.70 USD/sod oziroma za 0.65 % na 91.61 USD/sod, kar odraža geopolitične napetosti. Valutni par EUR/USD je bil stabilen pri 1.1587, z rahlo rastjo za 0.09 %, medtem ko je indeks volatilnosti VIX zrasel za 4.28 % na 15.84, kar kaže na povečano negotovost na trgih. Vlagatelji bodo ta teden pozorno spremljali poročila o četrtletnih zaslužkih ključnih podjetij, ki bodo ponudila vpogled v stanje potrošnikov in gospodarstva.",
+  "povzetek": "Današnji popoldanski tržni utrip kaže na mešano sliko v Evropi in rahlo pozitivno smer v ZDA. Evropski indeks DAX je dan zaključil z rahlim padcem za 0,14 % pri 26091 točkah, medtem ko sta ameriška indeksa, S&P 500 pri 7723 točkah (+0,40 %) in Nasdaq 100 pri 29494 točkah (+0,01 %), po dveh urah trgovanja beležila rast. Japonski Nikkei 225 je medtem utrpel precejšen padec za 3,16 % na 65326 točk. Glavni dogodek dneva, ki je pomembno vplival na trge, je bila napoved ameriškega finančnega ministrstva o podvojitvi odkupov državnih obveznic, kar je povzročilo padec donosnosti 10-letnih ameriških državnih obveznic za 1,13 % na 4,65 % in spodbudilo rast zlata za 2,94 % na 4550,50 USD/oz ter Bitcoina za 5,81 % na 68441 USD. Geopolitične napetosti, zlasti poročila o iranskih napadih na ZAE, so prispevale k rasti cen nafte, saj je WTI nafta zrasla za 1,26 % na 85,12 USD/sod, Brent pa za 1,16 % na 92,08 USD/sod. Vlagatelji bodo ta teden pozorno spremljali objave o inflaciji v evroobmočju, ki lahko vplivajo na prihodnje odločitve Evropske centralne banke.",
   "novice": [
     {
-      "naslov": "Geopolitične napetosti med Iranom in ZDA/ZAE stopnjujejo strah pred konfliktom",
+      "naslov": "Ameriško finančno ministrstvo podvojuje odkup obveznic za stabilizacijo trga",
+      "sektor": "Makro & Centralne banke",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Ameriško finančno ministrstvo je napovedalo podvojitev odkupov dolgoročnih državnih obveznic, da bi umirilo trg obveznic in preprečilo nadaljnjo rast donosov. Ta poteza je sledila močni razprodaji v zadnjih tednih, ki je donose 10-letnih, 20-letnih in 30-letnih državnih obveznic dvignila na 20-letne vrhunce, pri čemer je donos 30-letne obveznice dosegel najvišjo raven po letu 2007. Cilj je zagotoviti večjo likvidnostno podporo trgu obveznic in ublažiti zaskrbljenost vlagateljev glede visoke inflacije. Trg je to razumel kot pomembno intervencijo, je dejala Jill Cetina, nekdanja podpredsednica za nadzor bank pri Dallas Fedu.",
+      "analiza": "Ozadje te odločitve je nedavna zaskrbljujoča rast donosov ameriških državnih obveznic, ki so dosegli večletne vrhunce, kar je posledica inflacijskih pritiskov in pričakovanj glede prihodnjih obrestnih mer. Visoki donosi obveznic povečujejo stroške zadolževanja za vlado in podjetja ter posredno vplivajo na hipotekarne obrestne mere, kar lahko ohladi gospodarstvo. S podvojitvijo odkupov dolga, kar pomeni, da bo ministrstvo kupovalo nazaj lastne obveznice, se poveča povpraševanje po teh instrumentih, kar posledično znižuje njihove donose in stabilizira trg. To zmanjšanje donosov, kot je videno pri 10-letnih ameriških državnih obveznicah, ki so danes padle za 1,13 % na 4,65 %, je pozitivno za delniške trge, saj zmanjšuje privlačnost obveznic kot alternativne naložbe in znižuje diskontne stopnje za vrednotenje podjetij. Hkrati je to spodbudilo rast zlata za 2,94 % na 4550,50 USD/oz in Bitcoina za 5,81 % na 68441 USD, saj vlagatelji iščejo varnejša zatočišča ali visoko tvegane naložbe v okolju z nižjimi obrestnimi merami. Za slovenskega dolgoročnega vlagatelja to pomeni, da lahko stabilizacija ameriškega trga obveznic zmanjša splošno tržno volatilnost in podpira rast globalnih delniških trgov, čeprav je treba biti pozoren na dolgoročne inflacijske trende.",
+      "vpliv": [
+        "Donos 10-letnih US Treasury -1.13% na 4.65%",
+        "S&P 500 +0.40% na 7723",
+        "Zlato +2.94% na 4550.50 USD/oz",
+        "Bitcoin +5.81% na 68441 USD"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/pressure-on-bonds-abates-as-treasury-announces-buybacks-what-may-come-next-af7d7c76?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-19T15:55:00.000Z"
+    },
+    {
+      "naslov": "Geopolitične napetosti: Iran naj bi napadel Združene arabske emirate",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Iran naj bi razmišljal o vojaških tarčah v Evropi, če se konflikt z ZDA stopnjuje, kar nakazujejo viri blizu Teherana. To se dogaja v času, ko mnogi v Iranu menijo, da je obnovljen konflikt neizogiben. Hkrati so Združeni arabski emirati uvedli nedoločen trgovinski embargo proti Iranu zaradi domnevnih raketnih napadov, ki jih Iran zanika in jih označuje za 'operacijo pod lažno zastavo'. Teheran trdi, da ZDA 'prosijo' za pogajanja, medtem ko Trump to zanika, kar dodatno zaostruje retoriko. Razmere so izjemno napete in imajo potencial za širšo regionalno destabilizacijo. Ameriški uradniki so medtem sporočili, da ameriške rafinerije prejemajo polovico venezuelske proizvodnje nafte, kar je 500.000 od 1.25 milijona sodov na dan, kar kaže na kompleksnost energetskih odnosov v regiji.",
-      "analiza": "Ozadje teh dogodkov je dolgotrajna napetost med Iranom in zahodnimi silami, še posebej ZDA, ki se je v zadnjem času stopnjevala zaradi domnevnih iranskih napadov in ameriških sankcij. Poročila o morebitnih iranskih tarčah v Evropi in embargo ZAE na Iran predstavljajo pomembno zaostrovanje, ki presega Bližnji vzhod. To je relevantno zdaj, saj bi morebitna eskalacija konflikta lahko imela daljnosežne posledice za globalno gospodarstvo. Mehanizem vpliva na finančne trge je predvsem prek rasti cen nafte in bega v varna zatočišča. Ceni nafte WTI in Brent sta že zrasli za 0.76 % na 84.70 USD/sod oziroma za 0.65 % na 91.61 USD/sod, kar kaže na zaskrbljenost glede dobav. Posledično bi se lahko povečali stroški proizvodnje in transporta, kar bi vplivalo na inflacijo in dobičkonosnost podjetij. Delnice v sektorjih, občutljivih na cene energentov, bi bile pod pritiskom, medtem ko bi obveznice in zlato (ki je pri 4400.00 USD/oz) lahko pridobili na vrednosti kot varno zatočišče. Valute, kot je evro, bi bile ranljive zaradi bližine morebitnih tarč. Zgodovinsko gledano, so geopolitične krize na Bližnjem vzhodu vedno povzročile nestabilnost na naftnih trgih. Za slovenskega dolgoročnega vlagatelja to pomeni povečano premijo za tveganje v globalnih portfeljih in potencialno višje cene energentov, kar vpliva na kupno moč in stroške poslovanja podjetij.",
+      "povzetek": "Poročila kažejo, da je Iran domnevno napadel Združene arabske emirate z dvema balističnima raketama, kar je privedlo do prekinitve trgovinskih odnosov med Emiratami in Teheranom. Ta incident se dogaja v kontekstu širše vojne z Iranom, ki ima že sedaj posledice, kot je ogrožanje izobraževanja otrok v Kambodži. Dogodek poudarja naraščajoče geopolitične napetosti v regiji, ki imajo daljnosežne ekonomske in humanitarne posledice.",
+      "analiza": "Konflikt v regiji Bližnjega vzhoda, zlasti morebitna eskalacija med Iranom in ZAE, ima neposreden in pomemben vpliv na svetovne finančne trge, predvsem preko cen energentov. Bližnji vzhod je ključnega pomena za globalno oskrbo z nafto, zato vsaka nestabilnost v regiji povzroči zaskrbljenost glede motenj v dobavi. To se je odrazilo v današnji rasti cen nafte: WTI nafta je zrasla za 1,26 % na 85,12 USD/sod, medtem ko je Brent nafta poskočila za 1,16 % na 92,08 USD/sod. Višje cene nafte povečujejo stroške proizvodnje in transporta po vsem svetu, kar lahko pospeši inflacijo in zmanjša kupno moč potrošnikov. Poleg tega geopolitične napetosti običajno povečajo povpraševanje po varnih zatočiščih, kot je zlato, ki je danes zraslo za 2,94 % na 4550,50 USD/oz. Povečana negotovost lahko povzroči tudi umik kapitala iz bolj tveganih naložb, kar bi lahko vplivalo na delniške trge, čeprav so ti danes v ZDA rasli zaradi drugih dejavnikov. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da geopolitična tveganja lahko povzročijo volatilnost na trgih in vplivajo na cene surovin, kar posredno vpliva na stroške življenja in poslovanja podjetij.",
       "vpliv": [
-        "Rast cen nafte (WTI +0.76 %, Brent +0.65 %)",
-        "Povečana volatilnost trga (VIX +4.28 %)",
-        "Potencialni beg v varna zatočišča (zlato, obveznice)",
-        "Negativen vpliv na globalne dobavne verige"
+        "WTI nafta +1.26% na 85.12 USD/sod",
+        "Brent nafta +1.16% na 92.08 USD/sod",
+        "Zlato +2.94% na 4550.50 USD/oz",
+        "Povečana geopolitična negotovost"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/9ea0cde8-129e-4d88-976f-e367b7dd4d2c?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-19T04:00:32.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss",
+      "objavljeno": "2026-08-19T13:01:05.000Z"
     },
     {
-      "naslov": "Trump odložil carine na Kanado, dogovor blizu",
+      "naslov": "Britanska inflacija poskočila na najvišjo raven v štirih mesecih",
       "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Inflacija v Združenem kraljestvu je poskočila na najvišjo raven v zadnjih štirih mesecih, kar je predvsem posledica skoka cen energentov. Povečanje inflacije za 2,9 % je bilo sicer pričakovano s strani ekonomistov. Kancler John Healey je izjavil, da vojna v Iranu \"še naprej vpliva na cene doma\", kar poudarja globalne dejavnike, ki prispevajo k domačim inflacijskim pritiskom.",
+      "analiza": "Rast inflacije v Združenem kraljestvu na 2,9 % je neposredna posledica višjih cen energentov, kar je v skladu z globalnimi trendi, ki jih poganjajo geopolitične napetosti, kot je vojna v Iranu. Višja inflacija zmanjšuje kupno moč potrošnikov, saj se za enak znesek denarja lahko kupi manj blaga in storitev. To lahko negativno vpliva na potrošniško porabo in s tem na gospodarsko rast. Za centralne banke, kot je Bank of England, višja inflacija pomeni pritisk za morebitno zaostrovanje monetarne politike, kar bi lahko vključevalo dvig obrestnih mer. Dvig obrestnih mer pa lahko podraži zadolževanje za podjetja in posameznike, kar lahko upočasni investicije in trg nepremičnin. Vpliv na valute je lahko mešan; višje obrestne mere lahko okrepijo funt, vendar gospodarska negotovost lahko povzroči šibkost. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati inflacijske trende v večjih gospodarstvih, saj ti vplivajo na globalno monetarno politiko in s tem na donosnost različnih naložbenih razredov, od obveznic do delnic.",
+      "vpliv": [
+        "Inflacija v Združenem kraljestvu +2.9%",
+        "Pritisk na Bank of England za morebiten dvig obrestnih mer",
+        "Zmanjšana kupna moč potrošnikov"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-08-19T15:19:55.000Z"
+    },
+    {
+      "naslov": "Delnice Moderne poskočile po uspehu cepiva proti melanomu",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Delnice Moderne so se podvojile po novici o uspešnih rezultatih kliničnega preskušanja cepiva proti melanomu, razvitega v sodelovanju z Merckom. Cepivo, namenjeno zdravljenju raka, je v pozni fazi preskušanja pokazalo pozitivne izide. To predstavlja \"žarek upanja za bolnike\" in potencialno novo platformo za prihodke za podjetje, ki je do sedaj porabljalo veliko denarja, hkrati pa prinaša tudi veliko neznank, poroča Financial Times.",
+      "analiza": "Uspeh kliničnega preskušanja cepiva proti melanomu, ki ga je razvila Moderna v sodelovanju z Merckom, je izjemno pomembna novica za biotehnološki in farmacevtski sektor. Takšni preboji lahko dramatično spremenijo pričakovanja glede prihodnjih prihodkov in dobičkonosnosti podjetij. V tem primeru so se delnice Moderne podvojile, kar kaže na izjemno pozitivno reakcijo trga. To poudarja, kako pomembne so inovacije in rezultati raziskav in razvoja za vrednost podjetij v sektorju zdravstva in biotehnologije. Uspešna klinična preskušanja lahko pritegnejo tudi dodatne investicije v celoten sektor, saj vlagatelji iščejo naslednje \"velike\" inovacije. Po drugi strani pa je treba opozoriti, da so biotehnološka podjetja pogosto visoko tvegana, saj je razvoj zdravil dolgotrajen in drag, uspeh pa ni nikoli zagotovljen. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor zdravstva in biotehnologije lahko vir visokih donosov, vendar zahteva temeljito razumevanje tveganj, povezanih z razvojem in trženjem novih zdravil.",
+      "vpliv": [
+        "Delnice Moderne podvojene",
+        "Pozitivni izidi kliničnega preskušanja cepiva proti melanomu",
+        "Potencialni novi vir prihodkov za Moderno"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/a98a77e2-5156-4189-b971-974a7e60130f?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-19T13:34:54.000Z"
+    },
+    {
+      "naslov": "Trump začasno prekine nove carine na Kanado, dogovor blizu",
+      "sektor": "Geopolitika",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Ameriški predsednik Donald Trump je sporočil, da bo za tri dni odložil uvedbo novih carin na širok spekter kanadskega blaga. Ta odločitev prihaja, ko sta državi blizu sklenitve trgovinskega dogovora. Odložitev carin je bila dosežena po 'intenzivnih' pogovorih, vključno z Markom Carneyjem, da bi se izognili 50-odstotnim dajatvam na blago v vrednosti milijard dolarjev. Washington in Ottawa sta dogovor o odložitvi novih carin objavila tik pred polnočnim rokom. To pomeni pomembno olajšanje za podjetja in potrošnike na obeh straneh meje, ki so bili zaskrbljeni zaradi morebitnih trgovinskih ovir.",
-      "analiza": "Ozadje te novice so dolgotrajni trgovinski spori med ZDA in Kanado, ki so se v zadnjih letih pogosto pojavljali, še posebej pod Trumpovo administracijo. Odložitev carin in bližina dogovora sta pomembni, saj zmanjšujeta negotovost v severnoameriških dobavnih verigah in trgovinskih odnosih. To je relevantno zdaj, ker bi uvedba 50-odstotnih carin imela resne posledice za obe gospodarstvi, vplivala na cene za potrošnike in dobičkonosnost podjetij. Mehanizem vpliva na finančne trge je predvsem prek zmanjšanja trgovinskih napetosti, kar je običajno pozitivno za delniške trge in valute, ki so vpletene v trgovino. Kanadski dolar bi lahko pridobil na vrednosti, medtem ko bi delnice podjetij, ki so močno odvisna od čezmejnega trgovanja, občutile olajšanje. Zgodovinsko gledano, trgovinski dogovori ali odložitve carin vedno prinašajo določeno stopnjo optimizma na trge. Za slovenskega dolgoročnega vlagatelja to pomeni zmanjšanje globalne trgovinske negotovosti, kar posredno vpliva na stabilnost svetovnega gospodarstva in s tem tudi na naložbene priložnosti.",
+      "povzetek": "Ameriški predsednik Trump je za tri dni začasno prekinil uvedbo novih carin na kanadsko blago, saj sta strani blizu dokončanja dokumentov za preprečitev uvoznih dajatev, ki bi ciljale na vrsto kanadskih izdelkov. Ta poteza nakazuje napredek v trgovinskih pogajanjih med ZDA in Kanado, kar zmanjšuje negotovost in potencialne ekonomske motnje, ki bi jih prinesle carine.",
+      "analiza": "Začasna prekinitev carin na Kanado s strani ZDA je pomemben znak deeskalacije trgovinskih napetosti med državama. Carine in trgovinski spori običajno negativno vplivajo na gospodarstvo, saj povečujejo stroške za podjetja in potrošnike, motijo dobavne verige in ustvarjajo negotovost. Novica, da je dogovor blizu, je pozitivna za podjetja, ki poslujejo med ZDA in Kanado, saj zmanjšuje tveganje za dodatne stroške in motnje. To lahko pozitivno vpliva na delnice podjetij v sektorjih, ki bi bili prizadeti s carinami, kot so avtomobilska industrija, kmetijstvo in proizvodnja. Zmanjšanje trgovinske negotovosti lahko prispeva k splošno bolj pozitivnemu tržnemu razpoloženju. V preteklosti so trgovinski spori med ZDA in Kanado že povzročali nihanja na trgih, zato je vsak korak k rešitvi dobrodošel. Za slovenskega dolgoročnega vlagatelja to pomeni, da zmanjšanje trgovinskih napetosti med pomembnimi gospodarskimi partnericami prispeva k stabilnejšemu globalnemu gospodarskemu okolju, kar je ugodno za mednarodno diverzificirane portfelje.",
       "vpliv": [
-        "Zmanjšanje trgovinskih napetosti med ZDA in Kanado",
-        "Potencialna rast kanadskega dolarja",
-        "Pozitiven vpliv na delnice podjetij, vpletenih v čezmejno trgovanje",
-        "Zmanjšanje negotovosti v dobavnih verigah"
+        "Zmanjšana trgovinska negotovost med ZDA in Kanado",
+        "Potencialno pozitivno za podjetja v prizadetih sektorjih",
+        "Izogibanje novim carinam na kanadsko blago"
       ],
       "vir": "BBC Business",
       "vir_url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-08-19T03:56:35.000Z"
+      "objavljeno": "2026-08-19T15:47:31.000Z"
     },
     {
-      "naslov": "Kitajski robotični velikan Unitree uspešno debitiral na borzi",
-      "sektor": "Tehnologija & AI",
+      "naslov": "Target beleži močno rast dobička s pomočjo vračila carin",
+      "sektor": "Potrošniki",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Delnice podjetja Unitree, največjega proizvajalca humanoidnih robotov na svetu, so danes začele kotirati na šanghajskem trgu Star. Ta uspešen borzni prvenec poudarja naraščajoče zanimanje in vlaganja v sektor robotike in umetne inteligence na Kitajskem. Unitree je znan po svojih naprednih robotskih rešitvah, ki vključujejo tako štirinožne kot humanoidne robote. IPO je bil deležen velikega zanimanja vlagateljev, kar kaže na zaupanje v prihodnjo rast podjetja in celotnega sektorja. To je pomemben mejnik za kitajsko tehnološko industrijo in globalno konkurenco na področju robotike.",
-      "analiza": "Ozadje te novice je globalni trend rasti umetne inteligence in robotike, ki preoblikuje industrijo in vsakdanje življenje. Kitajska vlaga ogromna sredstva v razvoj teh tehnologij, saj si prizadeva postati vodilna sila na tem področju. Uspešen borzni prvenec Unitreeja je relevanten zdaj, saj kaže na močno povpraševanje po inovativnih tehnoloških rešitvah in na sposobnost kitajskih podjetij, da konkurirajo na svetovnem trgu. Mehanizem vpliva na finančne trge je predvsem prek rasti delnic v sektorju tehnologije in AI. Uspešen IPO lahko spodbudi tudi druge tehnološke startupe k vstopu na borzo. Posledično bi lahko delnice podjetij, ki se ukvarjajo z robotiko in AI, pridobile na vrednosti, medtem ko bi se povečalo zanimanje za naložbe v ta sektor. Zgodovinsko gledano, so uspešni IPO-ji v prelomnih tehnoloških sektorjih pogosto napovedovali obdobja hitre rasti in inovacij. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor tehnologije in AI še vedno vir pomembnih naložbenih priložnosti, vendar je treba upoštevati tudi tveganja, povezana z visoko vrednotenjem in geopolitičnimi napetostmi med tehnološkimi velesilami.",
+      "povzetek": "Maloprodajni velikan Target je objavil boljše od pričakovanih prodajne rezultate za drugo fiskalno četrtletje in zvišal svojo celoletno napoved. K izboljšanju rezultatov je pomembno prispevalo vračilo carin v višini 994 milijonov dolarjev pred obdavčitvijo, kar je povečalo operativni dobiček v drugem četrtletju na 2,6 milijarde dolarjev. Podjetje je izjavilo, da se njegov preobrat pospešuje.",
+      "analiza": "Rezultati podjetja Target so pomemben pokazatelj stanja potrošniške porabe v ZDA in učinkovitosti poslovnih strategij v maloprodaji. Boljše od pričakovanih prodajne številke in zvišana celoletna napoved kažejo na odpornost potrošnikov in uspešno izvajanje strategije podjetja. Posebej zanimiv je vpliv vračila carin v višini skoraj milijarde dolarjev, ki je pomembno povečalo dobiček. To poudarja, kako lahko vladne politike in trgovinski sporazumi neposredno vplivajo na dobičkonosnost podjetij. Medtem ko je Target zabeležil uspeh, je Lowe's, drug velikan v sektorju, opozoril na \"pritisk\" pri porabi za izboljšave doma, kar kaže na mešano sliko v sektorju potrošnikov. Pozitivni rezultati Targeta lahko spodbudijo optimizem v širšem maloprodajnem sektorju in podprejo delnice podjetij, ki so dobro pozicionirana. Za slovenskega dolgoročnega vlagatelja je to opomin, da je diverzifikacija znotraj sektorjev ključna, saj se uspešnost posameznih podjetij lahko močno razlikuje, tudi v enakem gospodarskem okolju.",
       "vpliv": [
-        "Rast delnic v sektorju robotike in AI",
-        "Povečano zanimanje za kitajski tehnološki trg",
-        "Spodbuda za inovacije v robotiki",
-        "Potencialni vpliv na globalno konkurenco"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-08-19T03:26:27.000Z"
-    },
-    {
-      "naslov": "Target bo poročal o zaslužkih, vlagatelji pričakujejo vpogled v preobrat",
-      "sektor": "Potrošniki",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Maloprodajni velikan Target bo danes zjutraj poročal o svojih fiskalnih rezultatih za drugo četrtletje. Vlagatelji in analitiki pričakujejo, da bo poročilo ponudilo vpogled v napredek podjetja pri njegovem načrtu preobrata. Pričakovanja so osredotočena na to, kako se Target spopada z izzivi, kot so inflacija, spremenjene potrošniške navade in konkurenca. Rezultati bodo ključni za oceno zdravja sektorja maloprodaje in širšega ameriškega potrošnika. Analitiki bodo pozorni na rast prodaje, marže in napovedi za prihodnje četrtletje, saj bodo ti podatki vplivali na vrednotenje delnic podjetja.",
-      "analiza": "Ozadje te novice je trenutno makroekonomsko okolje, ki ga zaznamujejo inflacijski pritiski, visoke obrestne mere in negotovost glede potrošniške porabe. Target, kot eden največjih maloprodajnih trgovcev v ZDA, je ključen indikator zdravja ameriškega potrošnika. Poročilo o zaslužkih je relevantno zdaj, saj bo ponudilo sveže podatke o tem, kako se podjetja v sektorju maloprodaje spopadajo s temi izzivi in ali so njihovi načrti preobrata uspešni. Mehanizem vpliva na finančne trge je neposreden: dobri rezultati bi lahko spodbudili rast delnic Targeta in celotnega sektorja maloprodaje, medtem ko bi slabi rezultati povzročili padec. Posledično bi lahko delnice Targeta in njegovih konkurentov, kot so Walmart in Costco, reagirale na objavo. Širše gledano, bi močni rezultati lahko pomirili strahove pred recesijo, medtem ko bi šibki rezultati povečali zaskrbljenost glede potrošniške moči. Zgodovinsko gledano, so poročila o zaslužkih velikih maloprodajnih verig pogosto služila kot barometer za širše gospodarstvo. Za slovenskega dolgoročnega vlagatelja je to pomemben vpogled v stanje globalnega gospodarstva in potrošniške moči, kar posredno vpliva na podjetja, ki so odvisna od izvoza ali globalne porabe.",
-      "vpliv": [
-        "Vpliv na delnice Targeta in sektor maloprodaje",
-        "Indikator zdravja ameriškega potrošnika",
-        "Vpliv na splošno razpoloženje na trgu",
-        "Potencialna sprememba napovedi za prihodnje četrtletje"
+        "Target prodaja boljša od pričakovanj",
+        "Operativni dobiček Targeta 2.6 milijarde USD",
+        "Vračilo carin 994 milijonov USD",
+        "Zvišana celoletna napoved Targeta"
       ],
       "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-      "objavljeno": "2026-08-19T04:01:01.000Z"
-    },
-    {
-      "naslov": "Revolut omogoča ustanovitelju Storonskyju posojilo do 250 milijonov dolarjev",
-      "sektor": "Finance",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Fintech podjetje Revolut bo svojemu ustanovitelju Niku Storonskyju omogočilo, da si izposodi do 250 milijonov dolarjev proti svojemu deležu v podjetju. Ta sprememba bi milijarderju omogočila dostop do več gotovine, medtem ko vrednotenje skupine narašča. Takšne poteze so pogoste med ustanovitelji hitro rastočih podjetij, ki želijo unovčiti del svojega premoženja, ne da bi prodali delnice in s tem vplivali na tržno vrednost. Odločitev poudarja visoko vrednotenje Revoluta in zaupanje v njegovo prihodnost, hkrati pa odpira vprašanja o korporativnem upravljanju in likvidnosti.",
-      "analiza": "Ozadje te novice je hitra rast fintech sektorja in visokih vrednotenj zasebnih tehnoloških podjetij. Revolut je eden izmed vodilnih igralcev na tem področju, ki je v zadnjih letih močno zrasel. Odločitev, da se ustanovitelju omogoči posojilo proti njegovemu deležu, je relevantna zdaj, saj omogoča vpogled v prakse financiranja v tehnološkem sektorju in vprašanja likvidnosti za ustanovitelje. Mehanizem vpliva na finančne trge je posreden. Čeprav ne gre za neposredno prodajo delnic, takšna poteza lahko vpliva na percepcijo korporativnega upravljanja in finančne stabilnosti podjetja. Posledično bi lahko vlagatelji podrobneje preučili strukturo lastništva in zadolženosti Revoluta. Na splošno pa visoko vrednotenje in možnost financiranja za ustanovitelje kažeta na močno rast in zaupanje v prihodnost podjetja. Zgodovinsko gledano, so podobne poteze včasih sprožile vprašanja o dolgoročni zavezanosti ustanoviteljev, drugič pa so bile le del običajnega finančnega načrtovanja. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno razumeti ne le poslovanje podjetij, temveč tudi njihove finančne strukture in prakse korporativnega upravljanja, še posebej v hitro rastočih in visoko vrednotenih sektorjih, kot je fintech.",
-      "vpliv": [
-        "Vpliv na percepcijo korporativnega upravljanja Revoluta",
-        "Poudarek na visokem vrednotenju Revoluta",
-        "Vprašanja o likvidnosti ustanoviteljev",
-        "Potencialni vpliv na zaupanje vlagateljev"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/a1e7a6e3-f7b9-4ed4-a823-b5e6274aab9b?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-19T04:00:23.000Z"
-    },
-    {
-      "naslov": "Globalna prehranska varnost ogrožena zaradi vojne v Ukrajini",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Napadi Moskve in Kijeva na kmetijske izvoze drug drugega bi lahko povzročili svetovno krizo žita, opozarja Financial Times. Ukrajina in Rusija sta ključni globalni dobaviteljici žita in drugih kmetijskih proizvodov. Eskalacija napadov na pristanišča, skladišča in transportne poti ogroža dobavne verige in dviguje cene hrane po svetu. To bi lahko imelo katastrofalne posledice za države, ki so močno odvisne od uvoza žita, in bi dodatno poslabšalo globalno inflacijo. Poročilo poudarja, da je prehranska varnost postala kolateralna škoda v konfliktu.",
-      "analiza": "Ozadje te novice je dolgotrajna vojna v Ukrajini, ki je že od samega začetka močno vplivala na globalne cene surovin, še posebej energentov in hrane. Ukrajina in Rusija sta skupaj odgovorni za velik del svetovnega izvoza pšenice, ječmena, koruze in sončničnega olja. Napadi na kmetijsko infrastrukturo in izvozne poti so relevantni zdaj, saj neposredno ogrožajo globalno prehransko varnost in potencialno povzročajo humanitarno krizo. Mehanizem vpliva na finančne trge je predvsem prek rasti cen kmetijskih surovin, kar se odraža v višji inflaciji. To lahko vpliva na odločitve centralnih bank glede obrestnih mer in na kupno moč potrošnikov. Posledično bi lahko delnice podjetij v sektorju hrane in pijače bile pod pritiskom zaradi višjih stroškov surovin, medtem ko bi se povečalo zanimanje za naložbe v podjetja, ki se ukvarjajo z alternativnimi viri hrane ali logistiko. Zgodovinsko gledano, so konflikti v žitnicah sveta vedno povzročili skoke cen hrane in globalno nestabilnost. Za slovenskega dolgoročnega vlagatelja to pomeni, da je vpliv vojne v Ukrajini na inflacijo in cene hrane še vedno prisoten in se lahko celo poslabša, kar zahteva pozorno spremljanje in morebitno prilagoditev naložbenih strategij, ki upoštevajo makroekonomska tveganja.",
-      "vpliv": [
-        "Rast cen kmetijskih surovin (žito, koruza)",
-        "Povečana globalna inflacija",
-        "Vpliv na delnice podjetij v sektorju hrane in pijače",
-        "Potencialna nestabilnost v državah, odvisnih od uvoza"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/a2e965ee-31be-40ad-ab13-75861b6df838",
-      "objavljeno": "2026-08-19T04:00:13.000Z"
+      "vir_url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
+      "objavljeno": "2026-08-19T15:00:48.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-19T04:51:00.403Z",
+    "posodobljenoOb": "2026-08-19T15:58:20.131Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7691.76,
-        "sprememba_pct": -0.69
+        "vrednost": 7722.64,
+        "sprememba_pct": 0.4
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29490.957,
-        "sprememba_pct": -1.68
+        "vrednost": 29494.178,
+        "sprememba_pct": 0.01
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 26128.36,
-        "sprememba_pct": -0.8
+        "vrednost": 26091.33,
+        "sprememba_pct": -0.14
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 65371.53,
-        "sprememba_pct": -3.1
+        "vrednost": 65326.42,
+        "sprememba_pct": -3.16
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4400,
-        "sprememba_pct": -0.47,
+        "vrednost": 4550.5,
+        "sprememba_pct": 2.94,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 84.7,
-        "sprememba_pct": 0.76,
+        "vrednost": 85.12,
+        "sprememba_pct": 1.26,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 91.61,
-        "sprememba_pct": 0.65,
+        "vrednost": 92.08,
+        "sprememba_pct": 1.16,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +161,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1587,
-        "sprememba_pct": 0.09
+        "vrednost": 1.1666,
+        "sprememba_pct": 0.77
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.706,
-        "sprememba_pct": -0.38,
+        "vrednost": 4.653,
+        "sprememba_pct": -1.13,
         "enota": "%"
       }
     ],
@@ -181,16 +178,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 64273.51,
-        "sprememba_pct": -0.63,
+        "vrednost": 68440.52,
+        "sprememba_pct": 5.81,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.84,
-      "sprememba_pct": 4.28
+      "vrednost": 15.26,
+      "sprememba_pct": -3.66
     }
   }
 }
