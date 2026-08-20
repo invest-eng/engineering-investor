@@ -1,94 +1,128 @@
 {
-  "generiranoOb": "2026-08-19T16:17:07.281Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-08-20T04:53:01.075Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-08-19",
-  "povzetek": "Popoldanska izdaja (17:30 SLO) kaže mešano sliko na svetovnih trgih. Evropski indeks DAX je danes zaključil z rahlim padcem za 0,14 % pri 26.091 točkah, medtem ko so ameriški trgi, ki so odprti dve uri, beležili rast; S&P 500 je pridobil 0,56 % na 7735 točk, Nasdaq 100 pa 0,17 % na 29543 točk. Japonski Nikkei 225 je medtem zabeležil precejšen padec za 3,16 % na 65326 točk. Ključna novica dneva, ki je pomembno vplivala na trge, je napoved ameriškega ministrstva za finance o podvojitvi odkupov dolgoročnih obveznic, kar je povzročilo padec donosnosti 10-letnih ameriških obveznic za 1,13 % na 4,65 % in spodbudilo rast delnic, obveznic ter zlata. Zlato je poskočilo za 2,98 % na 4552,40 USD/oz, Bitcoin pa za 5,97 % na 68543 USD. Nafta WTI in Brent sta se zvišali za 1,57 % na 85,38 USD/sod oziroma za 1,47 % na 92,36 USD/sod, deloma zaradi geopolitičnih napetosti, vključno z domnevnim iranskim napadom na ZAE. Vlagatelji bodo ta teden pozorno spremljali prihajajočo objavo podatkov o inflaciji v evroobmočju, ki bo dala nadaljnje smernice glede monetarne politike.",
+  "datum": "2026-08-20",
+  "povzetek": "Jutranja izdaja, 20. avgust 2026. Finančni trgi so noč zaključili z mešanimi signali. Ameriški indeks S&P 500 je zrasel za 0.21 % na 7708 točk, medtem ko je Nasdaq 100 padel za 0.22 % na 29426 točk. Evropski DAX je zabeležil padec za 0.14 % na 26091 točk, azijski Nikkei 225 pa je močno zrasel za 1.17 % na 66094 točk. Cene nafte so se zvišale, WTI nafta je pri 84.57 USD/sod, Brent pa pri 91.87 USD/sod, kar odraža povečano povpraševanje po tankerjih in geopolitične napetosti. Zlato ostaja stabilno pri 4545.20 USD/oz, Bitcoin pa se je povzpel na 69397 USD. V ospredju so novice o obsodbi ustanovitelja Evergrandeja, grožnje ZDA z ekonomsko vojno proti Iranu in zaskrbljujoč podatek o ameriškem nacionalnem dolgu, ki je presegel 40 bilijonov dolarjev. Vlagatelji bodo danes pozorno spremljali objavo četrtletnih rezultatov podjetja Walmart, ki bo ponudila vpogled v stanje potrošnikov.",
   "novice": [
     {
-      "naslov": "Ameriško ministrstvo podvaja odkup obveznic za stabilizacijo trga",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
+      "naslov": "Ustanovitelj kitajskega Evergrandeja obsojen na dosmrtno ječo, pretres v nepremičninskem sektorju",
+      "sektor": "Finance",
+      "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Ameriško ministrstvo za finance je napovedalo podvojitev odkupov državnega dolga z namenom stabilizacije trga obveznic in zmanjšanja zaskrbljenosti vlagateljev glede visoke inflacije. Ta poteza je sledila hitremu dvigu donosnosti 10-letnih, 20-letnih in 30-letnih zakladnih menic, ki so ta teden dosegle 20-letne vrhunce, pri čemer je donosnost 30-letnih obveznic dosegla najvišjo raven po letu 2007. Visoke donosnosti so bile zaskrbljujoče za posojilojemalce, saj so številna velika posojila, vključno s hipotekami, vezana na donosnosti zakladnih menic. Trg je to razumel kot pomembno intervencijo, kar je povzročilo padec donosnosti obveznic in rast delnic, obveznic ter zlata.",
-      "analiza": "Ozadje te odločitve leži v nedavnem strmem porastu donosnosti ameriških državnih obveznic, ki so dosegle večletne vrhunce, kar je odražalo zaskrbljenost trga glede vztrajne inflacije in naraščajočih stroškov zadolževanja. Visoke donosnosti obveznic pomenijo višje stroške zadolževanja za vlado in podjetja, pa tudi za potrošnike, saj se hipotekarne in druge obrestne mere pogosto gibljejo v tandemu z donosnostmi državnih obveznic. Z napovedjo podvojitve odkupov dolgoročnih obveznic želi ministrstvo za finance povečati povpraševanje po teh obveznicah, s čimer bi znižalo njihove donosnosti in zagotovilo večjo likvidnost na trgu. To neposredno vpliva na finančne trge: donosnost 10-letnih ameriških obveznic je padla za 1,13 % na 4,65 %, kar je pozitivno za obvezniške trge in podjetja, saj znižuje stroške financiranja. Posledično so se delniški indeksi, kot sta S&P 500 (+0,56 %) in Nasdaq 100 (+0,17 %), odzvali pozitivno, saj nižje obrestne mere izboljšujejo vrednotenje podjetij in zmanjšujejo strah pred recesijo. Zlato, ki je pogosto varno zatočišče, je prav tako zabeležilo rast (+2,98 % na 4552,40 USD/oz), kar kaže na mešano percepcijo tveganja, kjer se vlagatelji morda še vedno bojijo inflacije, hkrati pa pozdravljajo stabilizacijske ukrepe. Za slovenskega dolgoročnega vlagatelja to pomeni, da so globalni stroški zadolževanja pod pritiskom in da so centralne banke ter ministrstva za finance pripravljena posredovati, kar lahko zmanjša tveganje za nenadne šoke na trgu obveznic. Vendar pa je pomembno spremljati, ali bo ta ukrep dolgoročno učinkovit pri obvladovanju inflacije in stabilizaciji obrestnih mer.",
+      "povzetek": "Hui Ka Yan, ustanovitelj kitajskega nepremičninskega giganta Evergrande, je bil obsojen na dosmrtno ječo. Ta obsodba predstavlja ključen trenutek v razpletu propada Evergrandeja, ki je močno pretresel kitajski nepremičninski sektor. Podjetje je bilo v središču dolžniške krize, ki je povzročila zaskrbljenost glede stabilnosti kitajskega gospodarstva in morebitnih širših finančnih posledic. Sodba poudarja odločnost kitajskih oblasti pri obravnavi finančnih nepravilnosti in poskusih stabilizacije trga. Novico je objavil BBC Business 20. avgusta 2026 ob 04:42:13 UTC.",
+      "analiza": "Ozadje te novice sega v leto 2021, ko je Evergrande, nekoč največji kitajski nepremičninski razvijalec, začel kazati znake finančnih težav zaradi prekomernega zadolževanja in stroge regulacije s strani kitajske vlade. Njegov propad je sprožil val neplačil in nezaupanja v celotnem kitajskem nepremičninskem sektorju, kar je imelo širše posledice za banke, dobavitelje in kupce stanovanj. Obsodba Huija Ka Yana je pomembna, saj signalizira, da kitajske oblasti ne bodo tolerirale finančnih malverzacij in si prizadevajo za ponovno vzpostavitev reda in zaupanja v sektorju. Mehanizem vpliva na finančne trge je predvsem psihološki; medtem ko je propad Evergrandeja že v veliki meri diskontiran, obsodba poudarja tveganja, povezana z naložbami v kitajska podjetja in splošno nestabilnostjo v regiji. Za delnice kitajskih nepremičninskih podjetij to pomeni nadaljnji pritisk, saj se vlagatelji bojijo nadaljnjih regulativnih ukrepov. Na valute, kot je kitajski juan, lahko vpliva negativen sentiment, čeprav je vpliv na globalne valute, kot je EUR/USD, verjetno omejen. Surovine, kot je železo, ki so ključne za gradbeništvo, lahko občutijo zmanjšano povpraševanje. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti previden pri izpostavljenosti kitajskemu nepremičninskemu sektorju in širšemu kitajskemu trgu, saj regulativna tveganja in državni posegi ostajajo visoki.",
       "vpliv": [
-        "Padec donosnosti 10-letnih ameriških obveznic za 1,13 % na 4,65 %",
-        "Rast S&P 500 za 0,56 % na 7735 točk",
-        "Rast zlata za 2,98 % na 4552,40 USD/oz",
-        "Zmanjšanje stroškov zadolževanja za podjetja in potrošnike"
+        "Negativen pritisk na delnice kitajskih nepremičninskih podjetij",
+        "Povečana previdnost vlagateljev do kitajskih trgov",
+        "Morebiten rahel padec kitajskega juana",
+        "Zmanjšano povpraševanje po surovinah za gradbeništvo"
       ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/2026/aug/19/us-treasury-doubles-debt-buyback-bond-market",
-      "objavljeno": "2026-08-19T14:57:21.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-08-20T04:42:13.000Z"
     },
     {
-      "naslov": "Delnice Moderne poskočile po uspehu cepiva proti melanomu",
+      "naslov": "Trump grozi z 'ekonomsko vojno' državam, ki sodelujejo z Iranom",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Ameriški predsednik Donald Trump je zagrozil z 'ekonomskim D-dnevom' vsem državam, ki pomagajo ali poslujejo z Iranom. Ta izjava prihaja po izteku 60-dnevnega premirja in brez znakov diplomatske ali vojaške rešitve konflikta. Trump je napovedal 'najbolj uničujočo ekonomsko operacijo doslej' proti Iranu in obljubil ukrepe proti državam, ki trgujejo s Teheranom. Ta poteza poudarja zaostrovanje napetosti med ZDA in Iranom, kar ima lahko daljnosežne posledice za globalno trgovino in energetski trg. Novico je objavil Al Jazeera 20. avgusta 2026 ob 04:31:10 UTC.",
+      "analiza": "Ozadje te novice je dolgotrajen spor med ZDA in Iranom, ki se je zaostril po odstopu ZDA od jedrskega sporazuma in ponovni uvedbi sankcij. Trumpove grožnje z 'ekonomsko vojno' predstavljajo nadaljnjo eskalacijo, ki lahko destabilizira Bližnji vzhod in globalne dobavne verige. Mehanizem vpliva na finančne trge je večplasten: povečana geopolitična tveganja običajno vodijo do bega kapitala v varna zatočišča. Cene nafte, kot sta WTI pri 84.57 USD/sod in Brent pri 91.87 USD/sod, so že pod pritiskom in bi se lahko še zvišale zaradi morebitnih motenj v dobavi iz regije ali ovir pri transportu. Zlato, ki je danes pri 4545.20 USD/oz, bi lahko pridobilo na vrednosti. Delniški trgi, zlasti tisti, ki so močno odvisni od mednarodne trgovine, bi lahko občutili negativen pritisk, kar se odraža v mešanih gibanjih indeksov, kot sta S&P 500 (+0.21 %) in Nasdaq 100 (-0.22 %). Valute držav, ki bi bile morebiti vpletene v trgovanje z Iranom, bi lahko oslabela. Za slovenskega dolgoročnega vlagatelja to pomeni povečano negotovost in potrebo po diverzifikaciji portfelja, saj geopolitična tveganja lahko hitro spremenijo tržne razmere in vplivajo na cene surovin ter globalno gospodarsko rast.",
+      "vpliv": [
+        "Potencialno zvišanje cen nafte (WTI 84.57 USD/sod, Brent 91.87 USD/sod)",
+        "Rast cene zlata (4545.20 USD/oz) kot varnega zatočišča",
+        "Negativen pritisk na delniške trge, zlasti izvozno usmerjena podjetja",
+        "Oslabelost valut držav, ki trgujejo z Iranom"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
+      "objavljeno": "2026-08-20T04:31:10.000Z"
+    },
+    {
+      "naslov": "Ameriški nacionalni dolg presegel 40 bilijonov dolarjev, zaskrbljenost narašča",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Ameriški nacionalni dolg je presegel 40 bilijonov dolarjev, kar pomeni, da se je v zadnjem desetletju podvojil. Ta podatek prihaja po tem, ko so obrestne mere za 30-letne obveznice dosegle najvišjo raven v skoraj 20 letih. Povečanje dolga se je zgodilo tako v času Trumpovega prvega mandata kot tudi med administracijo Bidna. To poudarja naraščajoče fiskalno breme in morebitne dolgoročne posledice za ameriško gospodarstvo in globalne finančne trge. Novico je objavil BBC Business 20. avgusta 2026 ob 01:24:26 UTC.",
+      "analiza": "Ozadje te novice je desetletje fiskalnih spodbud, vključno z davčnimi rezi, povečano porabo in odzivi na pandemijo, ki so prispevali k hitri rasti ameriškega nacionalnega dolga. Preseganje 40 bilijonov dolarjev je pomemben mejnik, ki opozarja na vzdržnost javnih financ ZDA, še posebej v luči naraščajočih obrestnih mer. Donosnost 10-letnih ameriških državnih obveznic je trenutno pri 4.65 %, kar kaže na višje stroške zadolževanja za vlado. Mehanizem vpliva na finančne trge je predvsem preko obrestnih mer in zaupanja vlagateljev. Visok in naraščajoč dolg lahko vodi do inflacijskih pritiskov, saj centralne banke morda ne bodo mogle agresivno dvigovati obrestnih mer brez tveganja za stabilnost dolga. To lahko vpliva na valute, saj bi lahko dolar oslabel, če se vlagatelji začnejo bati fiskalne neodgovornosti. Za delniške trge, kot sta S&P 500 (+0.21 %) in Nasdaq 100 (-0.22 %), lahko višje obrestne mere pomenijo dražje financiranje za podjetja in s tem pritisk na dobičkonosnost. Obveznice so neposredno prizadete, saj se donosnosti prilagajajo pričakovanjem glede inflacije in fiskalne politike. Za slovenskega dolgoročnega vlagatelja je to opozorilo na sistemska tveganja v globalnem gospodarstvu in pomen diverzifikacije. Visok dolg ZDA lahko vpliva na globalne obrestne mere in stabilnost valut, kar posredno vpliva tudi na evropske trge.",
+      "vpliv": [
+        "Povečana zaskrbljenost glede fiskalne vzdržnosti ZDA",
+        "Potencialni inflacijski pritiski",
+        "Možna oslabelost ameriškega dolarja",
+        "Pritisk na donosnosti obveznic (10Y US Treasury 4.65 %)"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-08-20T01:24:26.000Z"
+    },
+    {
+      "naslov": "Walmart objavlja četrtletne rezultate, pričakovanja vplivajo na potrošniški sektor",
+      "sektor": "Potrošniki",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Walmart naj bi danes, pred odprtjem borze, objavil svoje poslovne rezultate za drugo fiskalno četrtletje. Ta objava bo ponudila pomemben vpogled v stanje ameriškega potrošnika in tako imenovane 'K-oblike' gospodarstva, kjer se okrevanje razlikuje med različnimi segmenti prebivalstva. Analitiki bodo pozorni na prodajne številke, marže in napovedi podjetja za prihodnost, saj Walmart kot največji trgovec na drobno v ZDA služi kot barometer za splošno gospodarsko zdravje. Novico je objavil CNBC 20. avgusta 2026 ob 04:01:01 UTC.",
+      "analiza": "Ozadje te novice je trenutno gospodarsko okolje, ki ga zaznamujejo inflacijski pritiski, spremenljiva kupna moč potrošnikov in delno okrevanje po preteklih krizah. Walmartovi rezultati so ključni, saj podjetje s svojo široko bazo strank in obsežnim poslovanjem zagotavlja enega najboljših pokazateljev zdravja potrošnikov v ZDA. Mehanizem vpliva na finančne trge je neposreden: dobri rezultati lahko pozitivno vplivajo na delnice podjetja Walmart in širšega maloprodajnega sektorja, medtem ko slabi rezultati lahko sprožijo zaskrbljenost glede potrošniške porabe in povzročijo padce delnic. Vpliv se lahko razširi tudi na širše indekse, kot sta S&P 500 (+0.21 %) in Nasdaq 100 (-0.22 %), saj potrošniška poraba predstavlja velik del BDP. Na obveznice in valute je neposreden vpliv manjši, vendar lahko splošno razpoloženje glede gospodarstva vpliva na pričakovanja glede inflacije in s tem na obrestne mere. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so rezultati velikih globalnih podjetij, kot je Walmart, pomemben indikator globalnega gospodarskega zdravja. Čeprav morda nimate neposrednih naložb v Walmart, lahko njegovi rezultati vplivajo na širše tržne trende in s tem na vrednost vaših globalno diverzificiranih naložb.",
+      "vpliv": [
+        "Vpliv na delnice Walmart in širšega maloprodajnega sektorja",
+        "Indikator zdravja ameriškega potrošnika",
+        "Posreden vpliv na širše delniške indekse (S&P 500, Nasdaq 100)",
+        "Vpliv na pričakovanja glede inflacije"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+      "objavljeno": "2026-08-20T04:01:01.000Z"
+    },
+    {
+      "naslov": "Narašča povpraševanje po tankerjih, proizvajalci nafte iščejo izvozne poti",
+      "sektor": "Energetika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Povpraševanje po tankerjih močno narašča, saj proizvajalci nafte v Zalivu iščejo načine za izvoz svojih tovorov. Države izvoznice nafte si prizadevajo zagotoviti lastne flote, kar dviguje cene, zlasti za takoj razpoložljiva plovila. To kaže na povečane izzive pri transportu nafte in morebitne motnje v globalnih dobavnih verigah, kar lahko vpliva na cene energentov. Novico je objavil Financial Times 20. avgusta 2026 ob 04:00:28 UTC.",
+      "analiza": "Ozadje te novice je kombinacija geopolitičnih napetosti in sprememb v globalnih trgovinskih tokovih, ki silijo države proizvajalke nafte k iskanju zanesljivih transportnih rešitev. Povečano povpraševanje po tankerjih je neposredna posledica teh razmer, saj države želijo zagotoviti neprekinjen izvoz. Mehanizem vpliva na finančne trge je predvsem preko cen surovin in delnic ladjarskih podjetij. Cene nafte, kot sta WTI pri 84.57 USD/sod in Brent pri 91.87 USD/sod, so že v porastu, kar lahko še pospeši naraščajoče stroške transporta in morebitne motnje v dobavi. To se lahko odrazi v višjih cenah goriva za potrošnike in podjetja. Delnice ladjarskih podjetij, ki se ukvarjajo s prevozom nafte, bi lahko doživele rast zaradi povečanega povpraševanja in višjih voznin. Po drugi strani pa lahko višje cene nafte negativno vplivajo na podjetja v sektorjih, ki so odvisni od poceni energije, in na splošno gospodarsko rast, kar se lahko odrazi v mešanih gibanjih delniških indeksov. Za slovenskega dolgoročnega vlagatelja to pomeni, da je energetski sektor pod vplivom kompleksnih geopolitičnih in logističnih dejavnikov. Naložbe v energetska podjetja ali ladjarje so lahko volatilne, zato je pomembno razumeti tveganja in imeti diverzificiran portfelj, ki vključuje tudi sektorje, manj občutljive na cene energentov.",
+      "vpliv": [
+        "Rast cen nafte (WTI 84.57 USD/sod, Brent 91.87 USD/sod)",
+        "Povečanje delnic ladjarskih podjetij",
+        "Višji stroški transporta za globalno trgovino",
+        "Potencialen negativen vpliv na podjetja, odvisna od poceni energije"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/a8056598-14dd-4a9e-a21d-ad68e9891cc1?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-20T04:00:28.000Z"
+    },
+    {
+      "naslov": "Moderna stavi na mRNA tehnologijo kot prelomnico za cepiva proti raku",
       "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Delnice farmacevtskega podjetja Moderna so se podvojile po objavi pozitivnih rezultatov pozne faze kliničnega preskušanja njihovega cepiva proti melanomu, razvitega v sodelovanju z Merckom. Uspešen izid preskušanja predstavlja pomemben napredek v boju proti raku kože in odpira nove možnosti za zdravljenje. Ta novica poudarja potencial biotehnoloških inovacij in njihov vpliv na vrednost podjetij ter celoten sektor.",
-      "analiza": "Uspeh kliničnega preskušanja cepiva proti melanomu je za Moderno izjemno pomemben, saj podjetju odpira nov, potencialno zelo donosen trg poleg obstoječih izdelkov. V preteklosti so podobni preboji v farmacevtski industriji pogosto povzročili dramatično rast vrednosti delnic in privabili znatne investicije v celoten sektor. Mehanizem vpliva je direkten: pozitivni rezultati preskušanj zmanjšujejo tveganje za prihodnje prihodke in dobičkonosnost podjetja, kar povečuje zaupanje vlagateljev. Posledično so delnice Moderne poskočile, kar kaže na močan optimizem trga. Takšni dogodki lahko sprožijo tudi širši optimizem v celotnem biotehnološkem in farmacevtskem sektorju, saj kažejo na potencial za inovacije in visoke donose. Vlagatelji pogosto iščejo podjetja z močnim portfeljem raziskav in razvoja, saj ti predstavljajo prihodnje vire rasti. Za slovenskega dolgoročnega vlagatelja to poudarja pomen spremljanja inovacij v sektorjih, kot sta biotehnologija in farmacija, ki lahko ponudijo visoke donose, vendar so hkrati povezani z visokimi tveganji, saj je uspeh kliničnih preskušanj negotov. Diverzifikacija je ključna, tudi znotraj inovativnih sektorjev.",
+      "povzetek": "Moderna polaga velike upe v svojo mRNA tehnologijo, ki naj bi predstavljala 'prelomnico' pri razvoju cepiv proti raku. Tehnologija, ki stoji za izjemno uspešnimi cepivi proti COVID-19, zdaj kaže obetavne rezultate pri zdravljenju onkoloških bolezni. To odpira nove možnosti v boju proti raku in bi lahko imelo pomemben vpliv na farmacevtsko industrijo in javno zdravje. Novico je objavil Financial Times 20. avgusta 2026 ob 04:00:11 UTC.",
+      "analiza": "Ozadje te novice je hiter napredek v biotehnologiji, zlasti na področju mRNA tehnologije, ki se je izkazala za izjemno učinkovito med pandemijo COVID-19. Moderna, kot eno vodilnih podjetij na tem področju, zdaj razširja uporabo te tehnologije na področje onkologije, kar kaže na njen potencial za revolucionarno spremembo zdravljenja raka. Mehanizem vpliva na finančne trge je predvsem preko delnic podjetja Moderna in širšega biotehnološkega sektorja. Pozitivni rezultati kliničnih preskušanj in napovedi za prihodnost lahko povzročijo rast delnic Moderne in drugih podjetij, ki razvijajo podobne tehnologije. To lahko prispeva k rasti delniških indeksov, kot je Nasdaq 100 (-0.22 %), ki je močno izpostavljen tehnološkim in biotehnološkim podjetjem. Na obveznice, valute in surovine je neposreden vpliv manjši, vendar lahko dolgoročni napredek v medicini pozitivno vpliva na produktivnost in splošno gospodarsko rast. Za slovenskega dolgoročnega vlagatelja je to primer, kako inovacije v znanosti in tehnologiji ustvarjajo nove priložnosti za rast. Naložbe v biotehnološki sektor so lahko visoko tvegane, a ponujajo tudi potencial za visoke donose, zato je pomembno raziskati podjetja in razumeti njihove dolgoročne strategije.",
       "vpliv": [
-        "Podvojitev delnic Moderne",
-        "Povečan optimizem v biotehnološkem in farmacevtskem sektorju",
-        "Potencial za nove vire prihodkov za Moderno",
-        "Zmanjšano tveganje za prihodnje dobičke podjetja"
+        "Potencialna rast delnic Moderne in biotehnološkega sektorja",
+        "Nove možnosti v zdravljenju raka",
+        "Dolgoročen pozitiven vpliv na produktivnost in gospodarstvo",
+        "Povečano zanimanje za mRNA tehnologijo"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/a98a77e2-5156-4189-b971-974a7e60130f?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-19T15:44:38.000Z"
-    },
-    {
-      "naslov": "Trump začasno ustavil nove carine na kanadsko blago",
-      "sektor": "Geopolitika",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Ameriški predsednik Trump je za tri dni začasno ustavil uvedbo novih carin na kanadsko blago, saj sta strani blizu dokončnega dogovora. Izjavil je, da ZDA in Kanada zaključujeta dokumente za preprečitev uvoznih davkov, ki bi ciljali na vrsto kanadskih izdelkov. Ta poteza nakazuje na morebitno deeskalacijo trgovinskih napetosti med državama, kar bi lahko imelo pozitiven vpliv na gospodarstvo obeh.",
-      "analiza": "Ozadje te novice so dolgotrajne trgovinske napetosti med ZDA in Kanado, ki so se v preteklosti že odražale v uvedbi carin na različne izdelke. Takšne carine pogosto vodijo do višjih cen za potrošnike, zmanjšane konkurenčnosti podjetij in motenj v dobavnih verigah. Začasna ustavitev carin in napoved skorajšnjega dogovora sta pozitivna signala, saj zmanjšujeta negotovost in omogočata podjetjem boljše načrtovanje. Mehanizem vpliva na finančne trge je predvsem psihološki in sektorski: zmanjšanje trgovinskih napetosti običajno izboljša splošno razpoloženje na trgu in lahko pozitivno vpliva na delnice podjetij, ki so odvisna od čezmejne trgovine med ZDA in Kanado, zlasti v sektorjih, ki bi bili prizadeti z novimi carinami. To lahko vključuje avtomobilsko industrijo, kmetijstvo in predelovalno industrijo. Valutni pari, kot je USD/CAD, bi se lahko odzvali na spremenjena pričakovanja glede trgovinskih tokov in gospodarske rasti. Za slovenskega dolgoročnega vlagatelja to pomeni, da so trgovinske politike pomemben dejavnik, ki lahko vpliva na globalno gospodarsko rast in dobičkonosnost podjetij. Zmanjšanje trgovinskih ovir je na splošno pozitivno za svetovno gospodarstvo, vendar je pomembno spremljati dejansko uresničitev dogovorov.",
-      "vpliv": [
-        "Zmanjšanje trgovinskih napetosti med ZDA in Kanado",
-        "Potencialno pozitivno za podjetja, odvisna od čezmejne trgovine",
-        "Izboljšanje splošnega razpoloženja na trgu",
-        "Vpliv na valutni par USD/CAD"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-08-19T15:47:31.000Z"
-    },
-    {
-      "naslov": "Ameriški trgovec Target prejel milijardo dolarjev povračila carin",
-      "sektor": "Potrošniki",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Ameriška trgovska veriga Target je prejela 994 milijonov dolarjev predobdavčnega povračila carin, kar je povzročilo, da se je njen poslovni prihodek v drugem četrtletju zvišal na 2,6 milijarde dolarjev. To povračilo je Targetu omogočilo, da je objavil boljše od pričakovanih prodajnih rezultatov za drugo fiskalno četrtletje in zvišal svoje celoletne napovedi. Novica poudarja, kako lahko spremembe v trgovinski politiki in carinskih dajatvah neposredno vplivajo na finančno uspešnost velikih podjetij.",
-      "analiza": "Ozadje te novice so pretekle trgovinske politike, ki so vključevale uvedbo carin na uvoženo blago, kar je povečalo stroške za trgovce, kot je Target. Povračilo teh carin predstavlja pomemben finančni priliv, ki je neposredno vplival na dobičkonosnost podjetja. To je primer, kako lahko spremembe v vladni politiki – bodisi z uvedbo ali odpravo carin – drastično vplivajo na poslovanje podjetij, zlasti tistih, ki so močno odvisna od mednarodnih dobavnih verig. Mehanizem vpliva na finančne trge je očiten: nepričakovano velik finančni priliv, kot je povračilo carin, izboljša finančne rezultate podjetja, kar se običajno odraža v rasti cene delnic. Pozitivni rezultati Targeta in zvišane napovedi lahko sprožijo optimizem tudi v širšem maloprodajnem sektorju, saj vlagatelji iščejo podobne priložnosti ali ocenjujejo morebitne vplive na druga podjetja. Za obvezniške trge in valute je neposreden vpliv manjši, vendar lahko splošno izboljšanje dobičkonosnosti velikih podjetij prispeva k bolj stabilnemu gospodarskemu okolju. Za slovenskega dolgoročnega vlagatelja ta novica poudarja, da so regulativni in politični dejavniki, kot so carine, lahko pomemben dejavnik tveganja in priložnosti za podjetja, zato je pomembno spremljati širše gospodarske in politične trende, ki vplivajo na poslovanje podjetij v portfelju.",
-      "vpliv": [
-        "Povečanje poslovnega prihodka Targeta v drugem četrtletju na 2,6 milijarde dolarjev",
-        "Boljše od pričakovanih prodajnih rezultatov za Target",
-        "Zvišane celoletne napovedi za Target",
-        "Pozitiven vpliv na ceno delnic Targeta"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-08-19T14:47:02.000Z"
+      "vir_url": "https://www.ft.com/content/cd52173f-5863-4996-93b2-c4adb81ad210?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-20T04:00:11.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-19T16:15:15.256Z",
+    "posodobljenoOb": "2026-08-20T04:52:08.536Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7734.75,
-        "sprememba_pct": 0.56
+        "vrednost": 7707.98,
+        "sprememba_pct": 0.21
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29542.541,
-        "sprememba_pct": 0.17
+        "vrednost": 29426.023,
+        "sprememba_pct": -0.22
       },
       {
         "simbol": "^GDAXI",
@@ -99,30 +133,30 @@
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 65326.42,
-        "sprememba_pct": -3.16
+        "vrednost": 66093.73,
+        "sprememba_pct": 1.17
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4552.4,
-        "sprememba_pct": 2.98,
+        "vrednost": 4545.2,
+        "sprememba_pct": 0,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 85.38,
-        "sprememba_pct": 1.57,
+        "vrednost": 84.57,
+        "sprememba_pct": 0.21,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 92.36,
-        "sprememba_pct": 1.47,
+        "vrednost": 91.87,
+        "sprememba_pct": 0.27,
         "enota": "USD/sod"
       }
     ],
@@ -130,8 +164,8 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1674,
-        "sprememba_pct": 0.84
+        "vrednost": 1.168,
+        "sprememba_pct": -0.02
       }
     ],
     "obveznice": [
@@ -147,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 68543,
-        "sprememba_pct": 5.97,
+        "vrednost": 69397.45,
+        "sprememba_pct": 0.16,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.16,
-      "sprememba_pct": -4.29
+      "vrednost": 14.89,
+      "sprememba_pct": -6
     }
   }
 }
