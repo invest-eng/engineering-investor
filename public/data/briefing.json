@@ -1,162 +1,161 @@
 {
-  "generiranoOb": "2026-08-20T16:18:46.753Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-08-21T04:53:56.492Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-08-20",
-  "povzetek": "Evropski delniški trgi so danes zaključili v rdečem, pri čemer je nemški indeks DAX padel za 0,42 % na 25.983 točk. Tudi ameriški trgi so po dveh urah trgovanja kazali negativno smer, saj je S&P 500 beležil padec za 0,44 % na 7.674 točk, tehnološki Nasdaq 100 pa za 0,66 % na 29.231 točk. Glavni razlog za negativen sentiment je bil ponoven dvig donosov na ameriške obveznice, kjer je donos na 10-letno ameriško državno obveznico poskočil za 1,01 % na 4,70 %, kljub nedavnim poskusom ameriškega finančnega ministrstva za umiritev trgov. Geopolitične napetosti so se odrazile v rasti cen nafte, saj je WTI nafta zrasla za 2,71 % na 86,68 USD/sod, Brent pa za 2,34 % na 93,76 USD/sod, deloma zaradi ponovnega pojava piratstva v Adenskem zalivu. Medtem je Bitcoin doživel močan skok za 4,26 % na 72.242 USD, saj vlagatelji iščejo 'trda sredstva' v negotovih časih. Vlagatelji bodo v prihodnjih dneh pozorno spremljali prihajajoče objave inflacije in odločitve centralnih bank glede obrestnih mer.",
+  "datum": "2026-08-21",
+  "povzetek": "Jutranji pregled finančnih trgov kaže na prevladujoč negativen sentiment v delniških indeksih, medtem ko se obvezniški trgi soočajo z izzivi. Ameriški indeks S&P 500 je zaključil pri 7641 točkah z -0.87 % padcem, tehnološki Nasdaq 100 je zdrsnil za -0.72 % na 29213 točk, nemški DAX je izgubil -0.41 % in se ustavil pri 25983 točkah, japonski Nikkei 225 pa je zabeležil -0.49 % padec na 65890 točk. Vzpon donosnosti 10-letnih ameriških državnih obveznic na 4.70 % (+0.92 %) in povišanje indeksa VIX na 16.01 (+7.52 %) kažeta na povečano negotovost in pritisk na obvezniške trge. Zlato se je medtem podražilo za +0.59 % na 4598.30 USD/oz, Bitcoin pa je zrasel za +2.64 % na 74938 USD. Nafta WTI in Brent sta zabeležili manjše padce. Vlagatelji bodo v prihodnjih dneh pozorno spremljali morebitne objave makroekonomskih podatkov in izjave centralnih bankirjev, ki bi lahko vplivale na smer obrestnih mer in splošno tržno razpoloženje.",
   "novice": [
     {
-      "naslov": "Ameriške dolgoročne obveznice padajo, posegi finančnega ministrstva ne pomirjajo vlagateljev",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Donosi na dolgoročne ameriške državne obveznice so se danes ponovno dvignili, kljub načrtu finančnega ministra Scotta Bessenta, da bi vsaj podvojil odkupovanje dolgoročnejših obveznic. Ta poteza, ki naj bi pomirila trge, ni imela želenega učinka, saj so donosi na 30-letne obveznice še naprej rasli. Vlagatelji so ostali skeptični glede učinkovitosti vladnih ukrepov za stabilizacijo trga obveznic. Donos na 10-letno ameriško državno obveznico je danes poskočil za 1,01 % in dosegel 4,70 %.",
-      "analiza": "Ozadje te novice je v nedavnem načrtu ameriškega finančnega ministra Scotta Bessenta, ki je napovedal agresivnejše odkupovanje dolgoročnih državnih obveznic z namenom znižanja donosov in umiritve trga. Ideja je bila zmanjšati ponudbo teh obveznic, kar bi teoretično moralo zvišati njihovo ceno in znižati donos. Vendar pa je današnji porast donosov, vključno z 10-letno obveznico, ki je zrasla za 1,01 % na 4,70 %, pokazal, da trg ni prepričan v dolgoročno učinkovitost teh ukrepov. Mehanizem vpliva je kompleksen: višji donosi obveznic pomenijo višje stroške zadolževanja za podjetja in državo, kar lahko upočasni gospodarsko rast. Za delnice to pomeni manj privlačno alternativo, saj se vlagatelji lahko preusmerijo v varnejše obveznice z višjim donosom, kar povzroča pritisk na indekse, kot sta S&P 500 (-0,44 %) in Nasdaq 100 (-0,66 %). Dolar je danes zabeležil rahel padec proti evru (EUR/USD 1,1678, -0,03 %), saj nižji donosi (v primeru uspešnega ukrepa) zmanjšujejo privlačnost ameriških sredstev, čeprav so danes donosi dejansko narasli. Za slovenskega dolgoročnega vlagatelja to pomeni, da so višji donosi na obveznice lahko znak povečane negotovosti in potencialno višjih inflacijskih pričakovanj, kar zahteva previdnost pri naložbah v delnice in preudarno upravljanje tveganj.",
-      "vpliv": [
-        "Višji donosi na ameriške obveznice (+1,01 % na 10Y US Treasury)",
-        "Pritisk na delniške trge (S&P 500 -0,44 %, Nasdaq 100 -0,66 %)",
-        "Povečani stroški zadolževanja za podjetja in državo",
-        "Rahlo znižanje vrednosti dolarja (-0,03 % EUR/USD)"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/0c01cdd9-93e8-469c-8f09-a6d68c91fbc3?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-20T15:09:59.000Z"
-    },
-    {
-      "naslov": "Ameriški dolg dosega 40 bilijonov dolarjev, vprašanja o fiskalni stabilnosti",
+      "naslov": "Scott Bessent se sooča z izzivi na 32 bilijonov dolarjev vrednem trgu ameriških obveznic",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Ameriški državni dolg je dosegel zgodovinsko mejo 40 bilijonov dolarjev, kar je precejšen porast od približno 35 bilijonov dolarjev, ko je predsednik Trump prevzel položaj pred manj kot dvema letoma. Ta naraščajoči dolg je posledica težkega zadolževanja, povečane porabe in davčnih rezov, ki so jih izvajale tako demokratske kot republikanske administracije. Analitiki opozarjajo, da je to dolgoročna strategija, imenovana 'starve the beast', ki se je oblikovala že pred Trumpovo administracijo.",
-      "analiza": "Doseganje 40 bilijonov dolarjev ameriškega državnega dolga je ključen mejnik, ki poudarja dolgoročne fiskalne izzive ZDA. Kontekst je v strategiji 'starve the beast', kjer se z zmanjšanjem davčnih prihodkov in povečanjem porabe ustvarja pritisk na proračun, kar naj bi dolgoročno prisililo k zmanjšanju državne porabe. Vendar pa so kratkoročne posledice povečanje dolga in s tem povezani stroški obresti, ki so se po Trumpovi avanturi v Iranu in posledični inflaciji močno povišali. To je relevantno zdaj, saj se vlagatelji že soočajo z naraščajočimi donosi obveznic (10Y US Treasury pri 4,70 %), kar je neposredna posledica povečanega tveganja, povezanega z visokim dolgom. Povečan dolg lahko dolgoročno povzroči inflacijske pritiske, saj centralna banka morda ne bo imela druge izbire, kot da monetizira del dolga. To lahko vpliva na valute (EUR/USD -0,03 %), saj se zmanjša zaupanje v fiskalno stabilnost. Za delnice to pomeni povečano negotovost in potencialno višje obrestne mere, ki zmanjšujejo privlačnost naložb. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da je fiskalna stabilnost največjega svetovnega gospodarstva ključna za globalne trge, in da visoki dolgovi predstavljajo sistemsko tveganje, ki lahko vpliva na vse razrede sredstev.",
+      "povzetek": "Scott Bessent, ameriški finančni sekretar, se je odločil za strategijo nakupa dolgoročnejših ameriških državnih obveznic, da bi zajezil naraščajoče stroške zadolževanja. Ta poteza je naletela na skepticizem med vlagatelji na Wall Streetu, ki jo opisujejo kot 'obliž na strelno rano'. Donosnost 10-letnih ameriških državnih obveznic je namreč zrasla na 4.70 %, kar kaže na povečan pritisk na trg. Vlagatelji so zaskrbljeni, da bi lahko ta strategija imela omejen učinek na obvladovanje visokih stroškov zadolževanja, ki so posledica obsežne izdaje dolga in inflacijskih pritiskov.",
+      "analiza": "Ozadje te novice je naraščajoči javni dolg ZDA in s tem povezani stroški zadolževanja. Ko donosnosti obveznic rastejo, se državi dražje zadolževati, kar lahko obremeni proračun in potencialno upočasni gospodarsko rast. Bessentova strategija poskuša zmanjšati te stroške z neposrednim posegom na trg, vendar je vprašanje, ali bo to dovolj za dolgoročno stabilizacijo. Mehanizem vpliva je preprost: višje donosnosti obveznic pomenijo višje obrestne mere za podjetja in potrošnike, kar lahko ohladi gospodarstvo. Za delnice to pomeni manj privlačne naložbe v primerjavi z obveznicami in višje stroške financiranja za podjetja, kar se odraža v nižjih vrednotenjih. Valute, kot je EUR/USD, so lahko pod pritiskom, če se razlika v donosnosti med regijama poveča. Surovine so posredno prizadete zaradi morebitnega upočasnjevanja globalne rasti. Slovenski dolgoročni vlagatelj mora biti pozoren na gibanje obrestnih mer, saj te vplivajo na vrednotenje vseh naložbenih razredov in na privlačnost varčevanja. Povečana volatilnost na obvezniških trgih lahko prinese tudi priložnosti, vendar s povečanim tveganjem.",
       "vpliv": [
-        "Povečana fiskalna tveganja ZDA",
-        "Pritisk na donose obveznic navzgor",
-        "Potencialni inflacijski pritiski",
-        "Zmanjšano zaupanje v dolar na dolgi rok"
+        "Rast donosnosti 10-letnih ameriških obveznic na 4.70 %",
+        "Povečan pritisk na stroške zadolževanja ZDA",
+        "Potencialno višje obrestne mere za podjetja in potrošnike",
+        "Zmanjšana privlačnost delnic v primerjavi z obveznicami"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss",
-      "objavljeno": "2026-08-20T13:18:31.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/f01ff762-3e68-4bac-bb73-6f35a6bf2771?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-21T04:00:21.000Z"
     },
     {
-      "naslov": "Oboroženi napadalci zajeli tanker ob Jemnu, piratstvo v Somaliji ponovno narašča",
+      "naslov": "ZDA obljubljajo najostrejše sankcije proti Iranu in pozivajo Kitajsko k podpori",
       "sektor": "Geopolitika",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Britanski pomorski varnostni monitor je poročal o zajetju tankerja Seamull ob obali Jemna, ki je bil nato preusmerjen proti Somaliji. Ta incident potrjuje ponoven porast somalijskega piratstva v Adenskem zalivu, ključni pomorski poti. Dogodek se je zgodil sredi povečanih regionalnih napetosti in poudarja tveganja za mednarodni ladijski promet na tem območju.",
-      "analiza": "Adenski zaliv in Rdeče morje sta vitalni pomorski poti za globalno trgovino, še posebej za prevoz nafte in plina med Azijo in Evropo. Ponoven porast piratstva, kot je zajetje tankerja Seamull, neposredno vpliva na varnost ladijskega prometa in povzroča povečanje stroškov zavarovanja ter potencialne zamude v dobavnih verigah. To je še posebej relevantno v luči že obstoječih geopolitičnih napetosti v regiji. Mehanizem vpliva na finančne trge je večplasten: povečana tveganja v dobavnih verigah lahko vodijo do višjih cen blaga, predvsem nafte. Današnje cene nafte to potrjujejo, saj je WTI nafta zrasla za 2,71 % na 86,68 USD/sod, Brent pa za 2,34 % na 93,76 USD/sod. Višje cene nafte prispevajo k inflacijskim pritiskom, kar lahko vpliva na odločitve centralnih bank in posledično na obvezniške donose ter delniške trge. Za slovenskega dolgoročnega vlagatelja to pomeni, da so geopolitična tveganja v ključnih dobavnih verigah pomemben dejavnik, ki lahko vpliva na cene energentov in širšo gospodarsko stabilnost, kar zahteva diverzifikacijo in spremljanje globalnih dogodkov.",
+      "intenziteta": 3,
+      "povzetek": "Ameriški finančni sekretar Bessent je napovedal najostrejše sankcije proti Iranu in pozval Kitajsko k podpori pri teh ukrepih. Nove ekonomske sankcije naj bi po njegovih besedah 'sesule' iransko vlado. To se dogaja po izteku 60-dnevnega premirja in brez znakov diplomatske ali vojaške rešitve konflikta. Iran je doslej pokazal sposobnost izogibanja že obstoječim sankcijam, kar nakazuje, da bi lahko bili tudi novi ukrepi izziv. Geopolitične napetosti v regiji se stopnjujejo, kar ima širše implikacije.",
+      "analiza": "Geopolitične napetosti na Bližnjem vzhodu imajo vedno pomemben vpliv na globalne finančne trge, še posebej na cene energentov. ZDA z novimi sankcijami poskušajo povečati pritisk na Iran, kar lahko destabilizira regijo in vpliva na dobavne verige nafte. Povečana negotovost se običajno odraža v rasti cen nafte, čeprav sta WTI in Brent nafta danes zabeležili manjše padce (-0.41 % in -0.27 %). Vendar pa dolgoročno stopnjevanje konflikta in sankcij lahko povzroči motnje v oskrbi in dvig cen. Za delnice to pomeni povečano tveganje, še posebej za podjetja, ki so odvisna od stabilnih cen energentov ali imajo poslovanje v regiji. Obveznice lahko služijo kot varno zatočišče v času negotovosti, vendar so hkrati pod pritiskom inflacije, ki jo lahko povzročijo višje cene energentov. Zlato, ki velja za varno naložbo, je danes zraslo za +0.59 %, kar potrjuje iskanje varnosti. Slovenski dolgoročni vlagatelj naj bo pozoren na razvoj dogodkov, saj lahko eskalacija konflikta vpliva na globalno gospodarsko rast in inflacijo, kar se posredno odrazi tudi na domačih trgih.",
       "vpliv": [
-        "Povišane cene nafte (WTI +2,71 %, Brent +2,34 %)",
-        "Povečani stroški ladijskega prometa in zavarovanja",
-        "Potencialne motnje v globalnih dobavnih verigah",
-        "Povečana geopolitična tveganja v regiji"
+        "Povečana geopolitična nestabilnost",
+        "Potencialni dvig cen nafte v prihodnosti",
+        "Rast cene zlata kot varnega zatočišča",
+        "Povečano tveganje za globalno gospodarstvo"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss",
-      "objavljeno": "2026-08-20T15:36:59.000Z"
+      "vir_url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
+      "objavljeno": "2026-08-21T00:00:00.000Z"
     },
     {
-      "naslov": "Naraščajoči 'crack spread' na energetskem trgu ogroža ameriškega potrošnika",
+      "naslov": "HSBC odpušča visoke bančnike, kar je največji rez po finančni krizi",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "HSBC je namenil 68 milijonov dolarjev za odpuščanje visokih bančnikov, kar predstavlja največje zmanjšanje števila zaposlenih na visokih položajih v banki po finančni krizi. To zmanjšanje sledi splošnemu trendu v Evropi, kjer so največji posojilodajalci odpustili največje število visoko plačanih bančnikov po letu 2020. Poteza kaže na prizadevanja bank za zmanjšanje stroškov in optimizacijo poslovanja v luči izzivnega gospodarskega okolja in morebitnih regulatornih pritiskov. To lahko nakazuje tudi na širše prestrukturiranje v bančnem sektorju.",
+      "analiza": "Odpuščanja v visokih ešalonih bank, kot je HSBC, so pogosto znak širših trendov v finančnem sektorju. Po finančni krizi so banke pod stalnim pritiskom, da izboljšajo učinkovitost in zmanjšajo stroške, medtem ko se soočajo z novimi regulativami in nizkimi obrestnimi maržami. Čeprav se je danes S&P 500 znižal za -0.87 %, ta novica specifično kaže na prizadevanja bank za ohranjanje dobičkonosnosti. Mehanizem vpliva na trge je dvojen: na eni strani lahko zmanjšanje stroškov izboljša dobičkonosnost bank in s tem njihove delnice, na drugi strani pa lahko obsežna odpuščanja signalizirajo šibkejše obete za celoten sektor. Za delnice bank je to lahko mešano, odvisno od interpretacije. Obveznice in valute so manj neposredno prizadete, razen če to nakazuje na širšo sistemsko nestabilnost, kar pa v tem primeru ni očitno. Slovenski dolgoročni vlagatelj naj to novico razume kot del širšega trenda konsolidacije in optimizacije v globalnem bančnem sektorju. Pomembno je spremljati, kako se bodo banke prilagajale na spremenjene pogoje in ali bodo ta prizadevanja vodila do dolgoročne stabilnosti in rasti.",
+      "vpliv": [
+        "Zmanjšanje stroškov in optimizacija poslovanja v bančnem sektorju",
+        "Potencialno izboljšanje dobičkonosnosti bank",
+        "Signal širšega prestrukturiranja v finančni industriji"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/d8bc75ee-77c6-4810-967c-0c2cff69bf7a?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-21T04:00:12.000Z"
+    },
+    {
+      "naslov": "Brazilija pospešuje razvoj superračunalnikov z umetno inteligenco, uravnoteži vpliv ZDA in Kitajske",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Brazilija je napovedala naložbe v višini približno 2.3 milijarde realov (približno 444.2 milijona dolarjev) za krepitev svojega ekosistema umetne inteligence, s poudarkom na razvoju superračunalnikov. Država si prizadeva uravnotežiti vpliv ameriške in kitajske tehnologije, kar kaže na strateško avtonomijo v ključnem tehnološkem sektorju. Ta poteza poudarja globalno tekmo v razvoju umetne inteligence in željo držav v razvoju po lastni tehnološki suverenosti. Naložbe so namenjene pospeševanju raziskav in razvoja ter ustvarjanju lastnih kapacitet na področju AI.",
+      "analiza": "Globalna tekma v razvoju umetne inteligence je eden ključnih tehnoloških trendov tega desetletja. Brazilija se s to naložbo pozicionira kot pomemben akter v Latinski Ameriki, ki si prizadeva za lastno tehnološko neodvisnost in razvoj. To je pomembno v kontekstu geopolitičnega rivalstva med ZDA in Kitajsko, kjer se države v razvoju trudijo najti ravnovesje. Naložbe v AI in superračunalnike lahko dolgoročno spodbudijo gospodarsko rast, inovacije in produktivnost. Za delnice to pomeni potencialno rast za podjetja v sektorju tehnologije in umetne inteligence, še posebej tista, ki so vključena v brazilske projekte. Vpliv na obveznice, valute in surovine je posreden, vendar lahko dolgoročno tehnološki napredek izboljša gospodarske obete države, kar se odrazi v močnejši valuti in stabilnejših javnih financah. Slovenski dolgoročni vlagatelj naj bo pozoren na globalne tehnološke trende in naložbe v AI, saj ti predstavljajo pomemben vir dolgoročne rasti in inovacij, ki lahko vplivajo na celotno gospodarstvo.",
+      "vpliv": [
+        "Povečane naložbe v AI in superračunalnike v Braziliji",
+        "Krepitev tehnološke neodvisnosti Brazilije",
+        "Potencialna dolgoročna gospodarska rast in inovacije",
+        "Priložnosti za tehnološka podjetja"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
+      "objavljeno": "2026-08-21T01:38:37.000Z"
+    },
+    {
+      "naslov": "Panamski prekop omejuje ladijski promet zaradi ekstremnega vremena in El Niña",
       "sektor": "Energetika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Energetski trg pošilja opozorilo ameriškim potrošnikom: cene na bencinskih črpalkah se v bližnji prihodnosti verjetno ne bodo znižale. Naraščajoči 'crack spread' – razlika med ceno surove nafte in cenami rafiniranih naftnih derivatov, kot sta bencin in dizel – kaže na visoke marže rafinerij. To pomeni, da so stroški predelave in distribucije visoki, kar se prenaša na končnega potrošnika.",
-      "analiza": "Koncept 'crack spreada' je ključen pokazatelj dobičkonosnosti rafinerij in pritiska na cene goriv. Ko se crack spread poveča, to pomeni, da so rafinerije sposobne prodajati rafinirane proizvode po bistveno višji ceni glede na ceno surove nafte, kar kaže na močno povpraševanje ali omejeno ponudbo rafiniranih izdelkov. To je relevantno zdaj, saj se cene nafte (WTI +2,71 % na 86,68 USD/sod, Brent +2,34 % na 93,76 USD/sod) že dvigujejo, kar v kombinaciji z visokim crack spreadom pomeni dvojni udarec za potrošnike. Mehanizem vpliva je direkten: višje cene goriva zmanjšujejo razpoložljiv dohodek gospodinjstev, kar lahko zmanjša potrošnjo v drugih sektorjih in prispeva k inflaciji. To lahko vpliva na delnice podjetij, odvisnih od potrošniške porabe, in poveča pritisk na centralne banke za zaostrovanje monetarne politike, kar posledično vpliva na obvezniške donose. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da so inflacijski pritiski zaradi energentov še vedno močni in lahko vplivajo na dobičkonosnost podjetij ter splošno gospodarsko rast, zato je smiselno preučiti naložbe v sektorje, ki so manj občutljivi na cene energentov ali pa imajo močno cenovno moč.",
+      "povzetek": "Panamski prekop bo omejil ladijski promet zaradi pričakovanega ekstremnega vremena med pojavom El Niña. Ta vremenski pojav naj bi povečal verjetnost suše in prekomerne vročine v regiji, kar vpliva na vodostaj prekopa. Omejitve ladijskega prometa lahko povzročijo zamude in povečane stroške prevoza za globalno trgovino. Panamski prekop je ključna pomorska pot, ki povezuje Atlantski in Tihi ocean, zato imajo kakršnekoli motnje pomemben vpliv na dobavne verige in cene blaga po vsem svetu.",
+      "analiza": "Panamski prekop je vitalna žila globalne trgovine, in vsaka omejitev njegove prepustnosti ima takojšen vpliv na dobavne verige in stroške prevoza. Pojav El Niña, ki prinaša sušo in vročino, je naravni pojav, vendar so njegove posledice na infrastrukturo, kot je Panamski prekop, lahko gospodarsko zelo pomembne. Omejitve ladijskega prometa pomenijo daljše poti za ladje, kar poveča porabo goriva in operativne stroške. To se lahko odrazi v višjih cenah surovin, kot je nafta (čeprav sta danes WTI in Brent nafta zabeležili manjše padce), in drugih dobrin, ki se prevažajo skozi prekop. Za delnice to pomeni pritisk na podjetja v sektorju logistike in tista, ki so močno odvisna od globalnih dobavnih verig. Obveznice in valute so posredno prizadete zaradi morebitnih inflacijskih pritiskov in upočasnjevanja gospodarske rasti. Slovenski dolgoročni vlagatelj naj bo pozoren na motnje v globalnih dobavnih verigah, saj lahko te vplivajo na inflacijo in dobičkonosnost podjetij, kar se odrazi tudi na vrednosti naložb.",
       "vpliv": [
-        "Višje cene goriva za potrošnike",
-        "Povečani inflacijski pritiski",
-        "Zmanjšana kupna moč gospodinjstev",
-        "Potencialno negativni vpliv na delnice potrošniškega sektorja"
+        "Omejitve ladijskega prometa skozi Panamski prekop",
+        "Povečani stroški prevoza in zamude v globalni trgovini",
+        "Potencialni inflacijski pritiski zaradi višjih cen blaga",
+        "Negativen vpliv na podjetja v logistiki in dobavnih verigah"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-energy-markets-rising-crack-spread-is-threatening-to-break-the-american-consumer-90b421dc?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-20T15:22:00.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
+      "objavljeno": "2026-08-21T01:12:02.000Z"
     },
     {
-      "naslov": "Walmart zvišuje napoved za celo leto, a delnice padajo zaradi skrbi glede prodaje",
-      "sektor": "Potrošniki",
-      "smer": "mešano",
+      "naslov": "Healey opozorjena, naj omeji proračunsko zadolževanje sredi razprodaje obveznic",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Walmart je zvišal svojo napoved za celo leto in prejel znatno vračilo carin, vendar so delnice podjetja padle zaradi skrbi glede prodaje. Podjetje je objavilo rezultate za drugo fiskalno četrtletje 2027, ki ponujajo vpogled v stanje potrošnikov in 'K-oblikovano gospodarstvo'. Kljub pozitivnim novicam o celoletni napovedi so vlagatelji zaskrbljeni zaradi osnovne prodaje, kar kaže na neenakomerno okrevanje gospodarstva.",
-      "analiza": "Walmart, kot največji trgovec na drobno v ZDA, velja za pomemben barometer zdravja ameriškega potrošnika, še posebej tistih z nižjimi dohodki. Zvišanje celoletne napovedi in vračilo carin sta sicer pozitivna dejavnika, ki kažeta na določeno odpornost podjetja. Vendar pa padec delnic, kljub tem pozitivnim novicam, kaže na to, da vlagatelje bolj skrbijo osnovni trendi prodaje in morebitna šibkost potrošnikov. Izraz 'K-oblikovano gospodarstvo' opisuje situacijo, kjer se nekateri segmenti prebivalstva in gospodarstva oporavljajo hitro, drugi pa zaostajajo, kar ustvarja neenakosti. To je relevantno zdaj, saj visoka inflacija in naraščajoči stroški energentov (WTI +2,71 %, Brent +2,34 %) pritiskajo na kupno moč. Mehanizem vpliva je, da šibka prodaja v maloprodaji lahko signalizira upočasnitev gospodarstva, kar vpliva na delnice v celotnem potrošniškem sektorju. Za obveznice to lahko pomeni, da centralne banke morda ne bodo mogle tako agresivno zaostrovati monetarne politike, če se gospodarstvo ohlaja. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati kazalnike potrošniške porabe, saj so ti ključni za oceno splošnega zdravja gospodarstva in potencialnih naložbenih priložnosti, pri čemer je treba biti pozoren na razlike med posameznimi segmenti trga.",
+      "povzetek": "Nova britanska finančna ministrica Healey je bila opozorjena, naj omeji proračunsko zadolževanje sredi razprodaje obveznic. Zavezniki ministrice trdijo, da namerava ostati 'globoko znotraj' fiskalnih pravil Laburistične stranke. Ta opozorila prihajajo v času, ko se Združeno kraljestvo, podobno kot ZDA, sooča z izzivi na obvezniških trgih in naraščajočimi stroški zadolževanja. Povečana previdnost pri fiskalni politiki je ključna za ohranjanje zaupanja vlagateljev in stabilnosti javnih financ, še posebej po nedavnem dvigu zaupanja potrošnikov v Združenem kraljestvu.",
+      "analiza": "Novica o opozorilih britanski finančni ministrici glede proračunskega zadolževanja je neposredno povezana s širšim globalnim trendom naraščajočih donosnosti obveznic, ki smo ga videli tudi v ZDA, kjer je donosnost 10-letnih obveznic zrasla na 4.70 %. Visoka raven javnega dolga in morebitno prekomerno zadolževanje lahko povzročita izgubo zaupanja vlagateljev, kar se odraža v višjih donosnostih obveznic in dražjem financiranju države. Mehanizem vpliva je, da fiskalna disciplina pomaga ohranjati stabilnost valute (GBP) in zmanjšuje tveganje za inflacijo, kar je pozitivno za obveznice. Za delnice je to lahko mešano: na eni strani stabilne javne finance podpirajo gospodarsko rast, na drugi pa strogi varčevalni ukrepi lahko kratkoročno ohladijo gospodarstvo. Slovenski dolgoročni vlagatelj naj bo pozoren na fiskalno politiko velikih gospodarstev, saj ta vpliva na globalno stabilnost in obrestne mere, kar se posredno odraža tudi na donosnosti naložb v različne razrede sredstev. Zaupanje vlagateljev v sposobnost države, da obvladuje svoj dolg, je ključnega pomena.",
       "vpliv": [
-        "Mešani signali o zdravju ameriškega potrošnika",
-        "Padec delnic Walmart kljub pozitivni napovedi",
-        "Poudarek na 'K-oblikovanem gospodarstvu'",
-        "Potencialni pritisk na marže trgovcev na drobno"
+        "Povečan pritisk na fiskalno disciplino v Združenem kraljestvu",
+        "Vpliv na donosnosti britanskih obveznic",
+        "Potencialna stabilizacija valute GBP",
+        "Posreden vpliv na inflacijo in gospodarsko rast"
       ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-      "objavljeno": "2026-08-20T15:51:26.000Z"
-    },
-    {
-      "naslov": "Kripto povratek: Bitcoin in Ethereum dosegata najboljši dan v mesecih, vlagatelji iščejo trda sredstva",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Po mesecih mirovanja se digitalne valute prebujajo, saj sta Bitcoin in Ethereum danes močno poskočila. Bitcoin je zrasel za 4,26 % in dosegel 72.242 USD. Trgovci pripisujejo preporod pobudi predsednika Donalda Trumpa glede zakona o kriptovalutah in motnjam na trgu obveznic, zaradi katerih se vlagatelji obračajo k 'trdim sredstvom'.",
-      "analiza": "Današnji izjemen skok Bitcoina za 4,26 % na 72.242 USD in drugih kriptovalut, kot je Ethereum, kaže na ponovno zanimanje vlagateljev za ta razred sredstev. Ozadje je v dveh glavnih dejavnikih: prvič, pobuda predsednika Trumpa glede zakona o kriptovalutah, ki bi lahko prinesla večjo regulativno jasnost in s tem povečala zaupanje vlagateljev. Drugič, motnje na trgu obveznic, kjer so donosi na ameriške obveznice danes ponovno narasli (10Y US Treasury +1,01 % na 4,70 %), spodbujajo iskanje alternativnih 'trdih sredstev', ki bi lahko služila kot zaščita pred inflacijo ali nestabilnostjo tradicionalnih trgov. Mehanizem vpliva je, da vlagatelji v negotovih časih pogosto iščejo sredstva, ki niso neposredno povezana s tradicionalnimi finančnimi sistemi. Kriptovalute, kljub svoji volatilnosti, se v takšnih obdobjih včasih obravnavajo kot digitalno zlato. To lahko povzroči preusmeritev kapitala iz delnic in obveznic v kriptovalute. Za delnice to pomeni, da del kapitala odteka v alternativne naložbe, medtem ko obveznice postajajo manj privlačne zaradi višjih donosov in inflacijskih skrbi. Za slovenskega dolgoročnega vlagatelja to pomeni, da kriptovalute ostajajo visoko tvegana, a potencialno visoko donosna naložba, ki lahko služi kot diverzifikacija portfelja v obdobjih negotovosti na tradicionalnih trgih, vendar je ključno razumeti njihovo volatilnost in tveganje izgube kapitala.",
-      "vpliv": [
-        "Rast Bitcoina za 4,26 % na 72.242 USD",
-        "Povečan interes vlagateljev za kriptovalute kot 'trda sredstva'",
-        "Vpliv regulativnih pobud (Trumpov zakon o kriptovalutah)",
-        "Potencialna preusmeritev kapitala iz tradicionalnih trgov"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/crypto-comeback-bitcoin-ethereum-are-headed-for-their-best-day-in-months-as-investors-flock-to-hard-assets-1573b803?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-20T14:09:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/2d7e64e8-386a-4987-ae4d-04b6bf2a5e6a?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-21T04:00:21.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-20T16:18:06.013Z",
+    "posodobljenoOb": "2026-08-21T04:53:21.667Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7674.15,
-        "sprememba_pct": -0.44
+        "vrednost": 7641.16,
+        "sprememba_pct": -0.87
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29230.986,
-        "sprememba_pct": -0.66
+        "vrednost": 29213.164,
+        "sprememba_pct": -0.72
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
         "vrednost": 25983.04,
-        "sprememba_pct": -0.42
+        "sprememba_pct": -0.41
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 66216.79,
-        "sprememba_pct": 1.36
+        "vrednost": 65889.82,
+        "sprememba_pct": -0.49
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4575.6,
-        "sprememba_pct": 0.67,
+        "vrednost": 4598.3,
+        "sprememba_pct": 0.59,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 86.68,
-        "sprememba_pct": 2.71,
+        "vrednost": 86.47,
+        "sprememba_pct": -0.41,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 93.76,
-        "sprememba_pct": 2.34,
+        "vrednost": 93.53,
+        "sprememba_pct": -0.27,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +163,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1678,
-        "sprememba_pct": -0.03
+        "vrednost": 1.1695,
+        "sprememba_pct": 0.12
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.7,
-        "sprememba_pct": 1.01,
+        "vrednost": 4.696,
+        "sprememba_pct": 0.92,
         "enota": "%"
       }
     ],
@@ -181,16 +180,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 72241.57,
-        "sprememba_pct": 4.26,
+        "vrednost": 74937.98,
+        "sprememba_pct": 2.64,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.87,
-      "sprememba_pct": 6.58
+      "vrednost": 16.01,
+      "sprememba_pct": 7.52
     }
   }
 }
