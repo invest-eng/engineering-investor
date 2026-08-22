@@ -1,116 +1,133 @@
 {
-  "generiranoOb": "2026-08-22T15:49:34.283Z",
+  "generiranoOb": "2026-08-22T16:08:48.917Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-08-22",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, medtem ko so ameriški indeksi po dveh urah trgovanja prav tako kazali rast. Nemški DAX je zrasel za 0,59 % na 26137, medtem ko je S&P 500 pridobil 0,43 % in dosegel 7674, Nasdaq 100 pa je bil višji za 0,33 % pri 29309. Japonski Nikkei 225 je edini zabeležil padec, in sicer za 0,30 % na 66016. Zlato je močno poskočilo za 2,39 % na 4680,60 USD/oz, medtem ko sta ceni nafte WTI in Brent prav tako zrasli za 0,26 % oziroma 0,65 %. Devizni par EUR/USD je ostal relativno stabilen pri 1,1678 z minimalnim padcem za 0,03 %, donosnost 10-letne ameriške obveznice pa se je zvišala za 0,89 % na 4,74 %. Bitcoin je medtem izgubil 1,61 % in se giblje pri 77064 USD. Glavne teme dneva so bile stopnjevanje trgovinskih napetosti med ZDA in Kanado, vpliv objave ameriškega ministrstva za finance na cene zlata in Bitcoina ter nadaljnje geopolitične napetosti na Bližnjem vzhodu in v Ukrajini. Vlagatelji bodo pozorno spremljali prihajajoče makroekonomske objave in morebitne izjave centralnih bankirjev, ki bi lahko vplivale na pričakovanja glede obrestnih mer.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z rastjo, pri čemer je nemški indeks DAX pridobil 0,59 % in dosegel 26137 točk. Tudi ameriški trgi so se v prvih dveh urah trgovanja gibali pozitivno, saj je S&P 500 zrasel za 0,43 % na 7674 točk, tehnološki Nasdaq 100 pa za 0,33 % na 29309 točk. Medtem ko je japonski Nikkei 225 zabeležil padec za 0,30 % na 66016 točk, so surovine pokazale mešano sliko: zlato je poskočilo za 2,39 % na 4680,60 USD/oz, nafta WTI in Brent pa sta prav tako beležili rast. Pomembna novica dneva je bila napoved ameriškega ministrstva za finance o podvojitvi odkupov obveznic, kar je spodbudilo rast zlata in Bitcoina, medtem ko je tečaj EUR/USD ostal relativno stabilen pri 1,1678. Vlagatelji bodo v prihodnjih dneh pozorno spremljali objave ključnih makroekonomskih podatkov, kot so inflacija ali odločitve centralnih bank, ki lahko vplivajo na prihodnjo smer trgov.",
   "novice": [
     {
-      "naslov": "ZDA in Kanada vstopata v trgovinsko vojno zaradi novih carin",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Združene države Amerike so uvedle 50-odstotne carine na približno 20 milijard dolarjev kanadskega blaga, vključno z izdelki, kot so hokejske palice in medicinski pripomočki. Kanadski premier Mark Carney je obljubil, da bo Kanada odgovorila z enakovrednimi carinami, kar sledi propadu trgovinskih pogajanj med državama. Carine so začele veljati ob 04:00 GMT. Strokovnjaki opozarjajo, da bi to lahko povzročilo izgubo delovnih mest, vendar pričakujejo, da bo največji vpliv političen, saj bo še poglobil razkol med tradicionalnima zaveznicama. Ta poteza ZDA in odziv Kanade nakazujeta stopnjevanje trgovinskih napetosti med državama.",
-      "analiza": "Ozadje te novice je propad trgovinskih pogajanj med ZDA in Kanado, ki sta tradicionalni zaveznici in pomembni trgovinski partnerici. Uvedba 50-odstotnih carin na 20 milijard dolarjev kanadskega blaga s strani ZDA in napoved enakovrednega povračilnega ukrepa s strani Kanade pomenita eskalacijo trgovinskih napetosti. To je relevantno, ker bi lahko takšna trgovinska vojna imela širše ekonomske posledice, vplivala na dobavne verige in povečala stroške za potrošnike v obeh državah. Mehanizem vpliva na finančne trge je večplasten: podjetja, ki so odvisna od čezmejne trgovine, se lahko soočijo z višjimi stroški in zmanjšanimi dobički, kar bi lahko negativno vplivalo na cene delnic v sektorjih, kot so proizvodnja in maloprodaja. Povečana negotovost lahko povzroči tudi umik vlagateljev iz tveganih sredstev. Posledice za valute bi lahko vključevale oslabitev kanadskega dolarja in morebitno krepitev ameriškega dolarja kot varnega zatočišča, čeprav bi dolgoročno lahko vplivalo na oba. V preteklosti so trgovinske vojne, kot je bila tista med ZDA in Kitajsko, povzročile nestabilnost na trgih in zmanjšanje globalne rasti. Vlagatelji bodo morali pozorno spremljati nadaljnje pogovore in morebitne eskalacije. Za slovenskega dolgoročnega vlagatelja to pomeni povečano globalno negotovost, ki lahko vpliva na podjetja z mednarodno izpostavljenostjo, zato je diverzifikacija portfelja še toliko bolj pomembna.",
-      "vpliv": [
-        "Povečanje stroškov za podjetja",
-        "Zmanjšanje dobičkov v nekaterih sektorjih",
-        "Morebitna oslabitev kanadskega dolarja",
-        "Povečana globalna negotovost"
-      ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "objavljeno": "2026-08-22T14:04:57.000Z"
-    },
-    {
-      "naslov": "Napoved ameriškega ministrstva za finance spodbudila zlato in Bitcoin",
-      "sektor": "Finance",
+      "naslov": "Napoved ameriškega ministrstva za finance spodbudila rast zlata in Bitcoina",
+      "sektor": "Makro & Centralne banke",
       "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "Ameriško ministrstvo za finance je napovedalo, da namerava podvojiti odkup svojih obveznic. Ta novica je sprožila močan dvig cen plemenitih kovin in kriptovalut. Zlato je danes zraslo za 2,39 % na 4680,60 USD za unčo, medtem ko je Bitcoin, kljub splošnemu padcu, v tednu dni zabeležil rast, povezano s to objavo. Hkrati je ameriški dolar oslabel, kar je običajen odziv na takšne monetarne ukrepe. Poteza ministrstva za finance nakazuje na prizadevanja za upravljanje likvidnosti in morda signalizira širšo monetarno politiko.",
-      "analiza": "Ozadje te novice je odločitev ameriškega ministrstva za finance o podvojitvi odkupov obveznic, kar je oblika kvantitativnega sproščanja ali vsaj povečanja likvidnosti na trgu. To je relevantno, ker takšni ukrepi običajno zmanjšujejo donosnosti obveznic in povečujejo količino denarja v obtoku, kar lahko vodi do inflacijskih pritiskov. Mehanizem vpliva na finančne trge je, da povečana likvidnost in pričakovanja o šibkejšem dolarju spodbujajo iskanje varnih zatočišč in alternativnih naložb. Zlato, ki je tradicionalno varno zatočišče in zaščita pred inflacijo, je močno zraslo za 2,39 % na 4680,60 USD/oz. Podobno so se odzvale tudi kriptovalute, kot je Bitcoin, ki se pogosto obravnavajo kot digitalno zlato in zaščita pred razvrednotenjem fiat valut, čeprav je danes Bitcoin zabeležil padec za 1,61 %. Oslabelost ameriškega dolarja (EUR/USD je pri 1,1678, kar je -0,03 % za EUR/USD, kar pomeni, da je dolar oslabel) je neposredna posledica povečane ponudbe in zmanjšanega povpraševanja po dolarju zaradi odkupov. Donosnosti obveznic se lahko znižajo zaradi povečanega povpraševanja. Za slovenskega dolgoročnega vlagatelja to pomeni, da je v okolju povečane likvidnosti in morebitne inflacije smiselno razmisliti o naložbah, ki ohranjajo vrednost, kot so plemenite kovine, in o diverzifikaciji portfelja, da se zmanjša tveganje valutnih nihanj.",
+      "povzetek": "Ameriško ministrstvo za finance je objavilo načrte za podvojitev odkupov obveznic, kar je povzročilo takojšen odziv na finančnih trgih. Ta napoved je sprožila močan dvig cen plemenitih kovin in kriptovalut, medtem ko je ameriški dolar oslabel. Zlato je po objavi poskočilo za 2,39 % na 4680,60 USD za unčo, Bitcoin pa je kljub splošnemu padcu za 1,65 % na 77035 USD, v tednu dni zabeležil rast zaradi te novice. Poteza ministrstva je usmerjena v povečanje likvidnosti na trgu obveznic in zmanjšanje dolgoročnih obrestnih mer. Trgi so to interpretirali kot signal za lažje finančne pogoje, kar je običajno ugodno za tvegana sredstva in sredstva, ki se obnašajo kot varno zatočišče pred inflacijo.",
+      "analiza": "Ozadje te napovedi leži v prizadevanjih za stabilizacijo finančnih trgov in morebitno spodbujanje gospodarske rasti z zniževanjem stroškov zadolževanja. Povečani odkupi obveznic s strani ministrstva za finance so podobni kvantitativnemu sproščanju, ki ga izvajajo centralne banke, saj povečujejo ponudbo denarja v obtoku. To je relevantno zdaj, saj se vlagatelji soočajo z negotovostjo glede inflacije in prihodnje monetarne politike. Mehanizem vpliva je preprost: večja likvidnost in nižje obrestne mere zmanjšujejo privlačnost državnih obveznic, kar denar preusmerja v bolj donosna, a tvegana sredstva, kot so delnice, ali v varna zatočišča pred inflacijo, kot je zlato. Posledično so delnice, kot kažejo indeksi S&P 500 (+0,43 %) in Nasdaq 100 (+0,33 %), pridobile, zlato je močno zraslo, Bitcoin pa je prav tako dobil zagon. Donosnost 10-letne ameriške državne obveznice je sicer danes zrasla za 0,89 % na 4,74 %, kar kaže na mešan odziv, verjetno zaradi drugih dejavnikov. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati politiko likvidnosti in obrestnih mer, saj vpliva na relativno privlačnost različnih naložbenih razredov in lahko nakazuje na prihodnje inflacijske pritiske. V takšnih obdobjih se lahko poveča volatilnost, kar zahteva premišljeno strategijo razpršitve naložb.",
       "vpliv": [
-        "Rast cene zlata (+2,39 %)",
-        "Oslabelost ameriškega dolarja",
-        "Povečana likvidnost na trgu",
-        "Znižanje donosnosti obveznic"
+        "Zlato zraslo za 2,39 % na 4680,60 USD/oz",
+        "Bitcoin pridobil na vrednosti v tednu dni",
+        "Ameriški dolar oslabel (EUR/USD -0,03 % na 1,1678)",
+        "Povečana likvidnost na trgu obveznic"
       ],
       "vir": "MarketWatch",
       "vir_url": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories",
       "objavljeno": "2026-08-22T13:00:00.000Z"
     },
     {
-      "naslov": "Izraelski napad z dronom v Siriji povzročil več poškodb civilistov",
+      "naslov": "Kanada obljublja povračilne ukrepe po uvedbi 50-odstotnih carin ZDA",
       "sektor": "Geopolitika",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Izraelski napad z dronom na 'civilno vozilo' je v Siriji povzročil več poškodb. Sirija je napad v jugozahodnem delu države obsodila kot 'očitno kršitev suverenosti' in 'nesramno kršitev mednarodnega prava'. Incident je bil objavljen 22. avgusta 2026 ob 14:37:40 UTC. Takšni dogodki pogosto sprožijo diplomatske proteste in povečajo napetosti v že tako nestabilni regiji. To je del širšega konflikta in vmešavanja v regiji Bližnjega vzhoda.",
-      "analiza": "Ozadje te novice je dolgotrajna in kompleksna geopolitična situacija na Bližnjem vzhodu, kjer so napadi med različnimi akterji pogosti. Izraelski napad z dronom v Siriji je svež primer eskalacije, ki lahko dodatno destabilizira regijo. To je relevantno, ker vsak takšen incident povečuje tveganje za širši konflikt, kar ima lahko daljnosežne posledice za globalne energetske trge in varnost. Mehanizem vpliva na finančne trge je predvsem prek cen surovin, še posebej nafte. Čeprav današnja cena nafte WTI (+0,26 % na 87,06 USD/sod) in Brent (+0,65 % na 94,39 USD/sod) ni drastično reagirala, lahko nadaljnja eskalacija hitro povzroči skok cen zaradi strahu pred motnjami v dobavi iz regije. Povečana geopolitična tveganja običajno spodbujajo vlagatelje k iskanju varnih zatočišč, kot je zlato, ki je danes že zraslo za 2,39 % na 4680,60 USD/oz. Delniški trgi lahko reagirajo z nestabilnostjo, saj se poveča negotovost glede prihodnjih gospodarskih obetov. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitične dogodke, saj lahko imajo neposreden vpliv na cene surovin in s tem na inflacijo ter dobičkonosnost podjetij, še posebej tistih, ki so odvisna od uvoza energije.",
+      "intenziteta": 3,
+      "povzetek": "Združene države Amerike so uvedle 50-odstotne carine na nekatere izdelke iz Kanade v vrednosti približno 20 milijard dolarjev, kar je sledilo propadu trgovinskih pogajanj. Kanadski premier Mark Carney je obljubil, da se bo Kanada odzvala z enakimi povračilnimi ukrepi 'dolar za dolar'. Carine, ki so začele veljati ob 04:00 GMT, vplivajo na širok spekter blaga, od hokejskih palic do jezičnih depresorjev. Strokovnjaki za trgovino opozarjajo, da bi lahko te carine povzročile izgubo delovnih mest, vendar se pričakuje, da bo največji vpliv političen, saj poglabljajo razkol med tradicionalnimi zaveznicami.",
+      "analiza": "Ozadje te novice je v naraščajočih trgovinskih napetostih med ZDA in Kanado, ki so se stopnjevale po neuspešnih pogajanjih. To je del širšega trenda protekcionizma, ki ga spremljamo v zadnjih letih in ki vpliva na globalne dobavne verige. Relevantnost je v neposrednem vplivu na podjetja, ki poslujejo med državama, in na potrošnike, ki se lahko soočijo z višjimi cenami. Mehanizem vpliva je jasen: carine povečajo stroške uvoženega blaga, kar zmanjšuje dobičkonosnost podjetij in lahko vodi v višje cene za končne potrošnike. Posledice za delnice podjetij, ki so močno odvisna od čezmejne trgovine, so negativne, saj se pričakujejo nižji prihodki in dobički. Vpliv na valute je mešan; kanadski dolar bi lahko oslabel zaradi negotovosti, medtem ko bi ameriški dolar lahko pridobil kot varno zatočišče, čeprav je danes oslabel v primerjavi z evrom. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da takšni trgovinski spori povečujejo globalno negotovost in lahko vplivajo na mednarodna podjetja, ki so del portfelja. Priporoča se pregled izpostavljenosti podjetij, ki so močno odvisna od trgovine med ZDA in Kanado.",
       "vpliv": [
-        "Povečana geopolitična tveganja",
-        "Potencialni dvig cen nafte",
-        "Povečano povpraševanje po varnih zatočiščih (zlato)",
-        "Nestabilnost na delniških trgih"
+        "Uvedba 50-odstotnih carin na 20 milijard dolarjev blaga",
+        "Potencialna izguba delovnih mest v obeh državah",
+        "Povečana politična napetost med ZDA in Kanado",
+        "Višji stroški za podjetja in potrošnike"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
-      "objavljeno": "2026-08-22T14:37:40.000Z"
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+      "objavljeno": "2026-08-22T14:04:57.000Z"
     },
     {
-      "naslov": "Ruski napadi v Ukrajini terjali življenja, poškodovani tudi v Rusiji",
-      "sektor": "Geopolitika",
+      "naslov": "Lastnik nepremičnine prodal naložbeno nepremičnino z izgubo 75.000 dolarjev",
+      "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Ruski napadi v Ukrajini so ponovno terjali življenja, dan po napadu na nakupovalni kompleks, pri čemer je umrlo šest ljudi. Hkrati je ukrajinski dron zadel dom v južni Rusiji, pri čemer sta umrla dva otroka, njuni starši pa so bili poškodovani, so sporočili uradniki. Ti dogodki poudarjajo nadaljevanje intenzivnega konflikta med državama. Novica je bila objavljena 22. avgusta 2026 ob 12:09:09 UTC. Obe strani poročata o žrtvah in uničenju, kar kaže na stopnjevanje medsebojnih napadov.",
-      "analiza": "Ozadje te novice je nadaljevanje vojne v Ukrajini, ki traja že dlje časa in ima uničujoče posledice za obe državi. Poročila o novih žrtvah v Ukrajini in napadu ukrajinskega drona v Rusiji kažejo na stopnjevanje konflikta in razširitev območja napadov. To je relevantno, ker dolgotrajni konflikti ustvarjajo globalno negotovost, motijo dobavne verige in vplivajo na cene surovin, zlasti energentov in živil. Mehanizem vpliva na finančne trge je predvsem prek cen nafte in plina, saj Rusija ostaja pomemben dobavitelj. Čeprav so cene nafte WTI in Brent danes zrasle le zmerno (+0,26 % in +0,65 %), lahko vsaka eskalacija konflikta povzroči prekinitev dobave in s tem ostrejši dvig cen. Povečana negotovost in tveganje vplivata tudi na razpoloženje vlagateljev, kar lahko vodi do umika iz tveganih naložb in povečanega povpraševanja po varnih zatočiščih. V preteklosti so podobni dogodki povzročili nestabilnost na evropskih delniških trgih. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati geopolitična tveganja, ki lahko vplivajo na globalno gospodarstvo, inflacijo in s tem na donosnost naložb. Diverzifikacija in dolgoročna perspektiva sta ključni za obvladovanje takšnih tveganj.",
+      "povzetek": "Posameznik je prodal svojo naložbeno nepremičnino v vrednosti 300.000 dolarjev z izgubo 75.000 dolarjev in se zdaj sprašuje, ali naj kupi drugo nepremičnino, da bi se izognil davkom. Zaskrbljen je zaradi časovne stiske in čaka na odgovor svojega računovodje (CPA). Ta situacija poudarja izzive na trgu nepremičnin, kjer se lastniki soočajo z morebitnimi izgubami in kompleksnimi davčnimi vprašanji pri upravljanju naložb. Izguba kaže na morebitno ohlajanje ali korekcijo v določenih segmentih nepremičninskega trga.",
+      "analiza": "Ta novica odraža trenutne razmere na nepremičninskem trgu, kjer se lahko pojavijo izgube, še posebej v primeru hitre prodaje ali specifičnih lokalnih pogojev. Ozadje je v dinamiki obrestnih mer in splošni gospodarski klimi, ki vplivata na povpraševanje in cene nepremičnin. Relevantno je zdaj, saj se vlagatelji sprašujejo o stabilnosti nepremičninskih naložb in davčnih implikacijah. Mehanizem vpliva na finančne trge je posreden: splošno zmanjšanje zaupanja v nepremičninski trg lahko vpliva na delnice gradbenih podjetij, bank, ki so izpostavljene hipotekarnim posojilom, in nepremičninskih skladov (REITs). Izgube lahko tudi zmanjšajo razpoložljivi kapital za druge naložbe. Čeprav ta posamezna transakcija ni sistemska, je lahko pokazatelj širših trendov. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno razumeti tveganja, povezana z naložbami v nepremičnine, vključno z likvidnostjo in davčnimi obveznostmi. Diversifikacija portfelja in temeljita analiza trga sta ključni, da se izognemo koncentriranim izgubam, ne glede na to, ali gre za direktne naložbe v nepremičnine ali posredno preko delnic podjetij v sektorju.",
       "vpliv": [
-        "Povečana geopolitična negotovost",
-        "Potencialni dvig cen energentov",
-        "Negativen vpliv na evropske delniške trge",
-        "Motnje v dobavnih verigah"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
-      "objavljeno": "2026-08-22T12:09:09.000Z"
-    },
-    {
-      "naslov": "Potrošniki zahtevajo večji delež 'korporativne socialne pomoči'",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Poročilo MarketWatcha izpostavlja, da se izvaja obsežen program 'korporativne socialne pomoči', pri čemer potrošniki zahtevajo večji delež. To se nanaša na vračila carin, ki so se stekala nazaj v podjetja, odkar je Vrhovno sodišče zavrnilo dajatve predsednika Donalda Trumpa. Novica je bila objavljena 22. avgusta 2026 ob 11:00:00 UTC. Potrošniki menijo, da bi morali imeti koristi od teh sredstev, saj so bili v preteklosti obremenjeni z višjimi cenami zaradi carin. Razprava se vrti okoli porazdelitve teh sredstev med podjetja in končne potrošnike.",
-      "analiza": "Ozadje te novice je odločitev Vrhovnega sodišča, ki je zavrnilo dajatve predsednika Donalda Trumpa, kar je sprožilo vračila carin podjetjem. To je relevantno, ker se ta sredstva obravnavajo kot 'korporativna socialna pomoč', potrošniki pa zdaj zahtevajo, da se del teh sredstev preusmeri k njim. Mehanizem vpliva na finančne trge je povezan z dobičkonosnostjo podjetij in potrošniško porabo. Če podjetja obdržijo vračila carin, se lahko to odrazi v višjih dobičkih in s tem v potencialno višjih cenah delnic. Če pa se del teh sredstev preusmeri k potrošnikom, bi to lahko spodbudilo potrošniško porabo, kar bi pozitivno vplivalo na gospodarstvo in določene sektorje, kot je maloprodaja. Vpliv na delnice bi bil odvisen od tega, kako bi se sredstva porazdelila. V preteklosti so podobne razprave o porazdelitvi davčnih olajšav ali subvencij vplivale na pričakovanja glede gospodarske rasti in inflacije. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati politike, ki vplivajo na porazdelitev bogastva in potrošniško moč, saj imajo te lahko dolgoročen vpliv na gospodarsko rast in stabilnost trgov. Odločitve o tem, kdo prejme ta sredstva, lahko vplivajo na različne sektorje gospodarstva.",
-      "vpliv": [
-        "Potencialno višji dobički podjetij",
-        "Možna spodbuda za potrošniško porabo",
-        "Vpliv na cene delnic v maloprodaji",
-        "Razprava o porazdelitvi bogastva"
+        "Izguba 75.000 USD pri prodaji nepremičnine",
+        "Negotovost glede davčnih implikacij",
+        "Povečana previdnost na nepremičninskem trgu",
+        "Potencialni vpliv na delnice gradbenih podjetij in bank"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/a-massive-corporate-welfare-program-is-underway-and-consumers-want-a-bigger-cut-of-it-0ff06d67?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-22T11:00:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-22T16:00:00.000Z"
     },
     {
-      "naslov": "Iran kritizira nove ameriške sankcije kot kršitev suverenosti",
+      "naslov": "Coca-Cola razvija avtomatizacijo pijač v inovacijskih laboratorijih",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Coca-Cola v svojih inovacijskih laboratorijih razvija avtomatizirane sisteme za pripravo pijač, kot so 'dirty soda' in 'refreshers'. Cilj je avtomatizacija in izboljšanje ponudbe pijač, kar bi lahko povečalo dobičkonosnost. Dolgoletne stranke Coca-Cole, kot sta McDonald's in Wendy's, že širijo svojo ponudbo pijač, da bi povečale marže. Ta poteza Coca-Cole kaže na strateško usmeritev k inovacijam in optimizaciji procesov v industriji pijač, kar lahko prinese konkurenčno prednost in rast prihodkov.",
+      "analiza": "Ozadje te novice je v nenehnem iskanju učinkovitosti in inovacij v živilski in pijačni industriji. Podjetja si prizadevajo zmanjšati stroške dela in izboljšati doslednost izdelkov z avtomatizacijo. To je relevantno zdaj, saj se potrošniške navade spreminjajo in povpraševanje po personaliziranih in hitro pripravljenih pijačah narašča. Mehanizem vpliva na finančne trge je pozitiven za delnice podjetja Coca-Cola, saj avtomatizacija lahko zmanjša operativne stroške in poveča dobičkonosnost. Prav tako lahko podjetju omogoči hitrejše prilagajanje tržnim trendom in lansiranje novih izdelkov. Posledice za delnice v sektorju potrošniških dobrin so lahko mešane, saj bodo podjetja, ki ne bodo sledila inovacijam, morda zaostala. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati podjetja, ki vlagajo v raziskave in razvoj ter avtomatizacijo, saj to lahko kaže na njihovo dolgoročno konkurenčnost in potencial rasti. Coca-Cola, kot uveljavljeno podjetje, s takšnimi potezami krepi svoj položaj na trgu in potencialno povečuje vrednost za delničarje.",
+      "vpliv": [
+        "Potencialno povečanje dobičkonosnosti Coca-Cole",
+        "Izboljšanje konkurenčnosti v industriji pijač",
+        "Zmanjšanje operativnih stroškov z avtomatizacijo",
+        "Vpliv na delnice podjetij v sektorju potrošniških dobrin"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
+      "objavljeno": "2026-08-22T12:00:01.000Z"
+    },
+    {
+      "naslov": "Zvezde družbenih medijev uporabljajo 'čarobne palice' za plačevanje",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Tehnologija 'tap-to-pay' (brezstično plačevanje) doživlja preobrazbo s pomočjo zvezd družbenih medijev, ki uporabljajo 'čarobne palice' za nakupovanje. To spreminja proces plačevanja v personaliziran dodatek in del življenjskega sloga, ki ga promovirajo vplivneži na platformah, kot je TikTok. Namesto tradicionalnih kreditnih kartic se potrošniki, zlasti mlajše generacije, obračajo k inovativnim in estetsko privlačnim načinom plačevanja. Ta trend kaže na konvergenco tehnologije, mode in družbenih medijev, kar odpira nove priložnosti za podjetja v plačilni industriji in maloprodaji.",
+      "analiza": "Ozadje te inovacije je v nenehnem razvoju plačilnih tehnologij in vplivu družbenih medijev na potrošniške trende. Potrošniki iščejo ne le funkcionalnost, temveč tudi izkušnjo in personalizacijo. To je relevantno zdaj, saj se brezstično plačevanje hitro širi, hkrati pa se povečuje vpliv digitalnih vplivnežev na nakupne odločitve. Mehanizem vpliva na finančne trge je pozitiven za podjetja v sektorju plačilnih storitev in tehnologije, ki razvijajo tovrstne rešitve. Povečano sprejemanje inovativnih plačilnih metod lahko pospeši digitalizacijo gospodarstva in zmanjša odvisnost od gotovine. Posledice za delnice tehnoloških podjetij, ki so vpletena v razvoj 'tap-to-pay' in podobnih rešitev, so lahko pozitivne. Banke in izdajatelji kreditnih kartic se bodo morali prilagoditi tem trendom. Za slovenskega dolgoročnega vlagatelja to pomeni, da je vredno spremljati podjetja, ki so v ospredju inovacij na področju plačilnih tehnologij in e-trgovine, saj imajo potencial za dolgoročno rast. Vpliv družbenih medijev na sprejemanje tehnologij je pomemben faktor, ki ga je treba upoštevati pri ocenjevanju prihodnjih trendov.",
+      "vpliv": [
+        "Rast sektorja plačilnih tehnologij",
+        "Povečano sprejemanje brezstičnega plačevanja",
+        "Vpliv družbenih medijev na potrošniške navade",
+        "Potencial za nove poslovne modele v maloprodaji"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/move-over-credit-cards-social-media-stars-are-tapping-magic-wands-to-buy-things-62e475d4?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-22T12:30:00.000Z"
+    },
+    {
+      "naslov": "Dobre novice za borzo v letu vmesnih volitev",
+      "sektor": "Makro & Centralne banke",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Obstaja močan zgodovinski vzorec rasti delniškega trga po letih vmesnih volitev v Združenih državah Amerike. Ta novica poudarja, da kljub morebitni negotovosti pred volitvami, trgi pogosto doživijo okrevanje ali močno rast v obdobju po njih. To je lahko pomembna informacija za vlagatelje, ki iščejo smernice v političnem ciklu in njegovih vplivih na borzo. Vzorec nakazuje, da se po razrešitvi politične negotovosti, ki pogosto spremlja volitve, vlagatelji ponovno osredotočijo na gospodarske temelje in potencial rasti.",
+      "analiza": "Ozadje te analize je v preučevanju zgodovinskih podatkov o delniškem trgu in političnih ciklih v ZDA. Vmesne volitve pogosto prinašajo obdobje negotovosti, saj se spreminja politična pokrajina in s tem morebitne prihodnje politike. Relevantno je zdaj, saj se trgi soočajo z različnimi makroekonomskimi izzivi, in vsak signal o potencialni stabilnosti ali rasti je dobrodošel. Mehanizem vpliva je psihološki in ekonomski: po volitvah se zmanjša politična negotovost, kar lahko spodbudi zaupanje vlagateljev in podjetij. Prav tako lahko nove politične prioritete vplivajo na določene sektorje gospodarstva. Posledice za delnice so lahko pozitivne, saj zgodovinski vzorec nakazuje na rast, kar bi lahko vplivalo na indekse, kot sta S&P 500 in Nasdaq 100, ki sta danes že v rasti. Vpliv na obveznice in valute je manj neposreden, vendar lahko splošno pozitivno razpoloženje na delniškem trgu vpliva tudi na druge razrede sredstev. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno razumeti, da politični cikli lahko vplivajo na tržno sentiment in gibanje cen, vendar je dolgoročna naložbena strategija običajno manj občutljiva na kratkoročne politične dogodke. Kljub temu je poznavanje teh vzorcev lahko koristno pri ocenjevanju splošnega tržnega okolja.",
+      "vpliv": [
+        "Zgodovinski vzorec rasti delniškega trga po vmesnih volitvah",
+        "Zmanjšanje politične negotovosti po volitvah",
+        "Potencialno povečanje zaupanja vlagateljev",
+        "Pozitiven vpliv na delnice in tržni sentiment"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/heres-some-surprisingly-good-news-for-the-stock-market-this-midterm-election-year-d492d3a4?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-22T12:00:00.000Z"
+    },
+    {
+      "naslov": "Več kot 100 nekdanjih diplomatov poziva Francijo in Združeno kraljestvo k sankcijam proti Izraelu",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Iran je izjavil, da nove ameriške sankcije kršijo suverenost drugih držav. Tiskovni predstavnik zunanjega ministrstva Esmaeil Baghaei je najnovejšo grožnjo predsednika Trumpa označil za vrnitev v 'polnokrvni klasični kolonializem'. Novica je bila objavljena 22. avgusta 2026 ob 09:14:09 UTC. Te izjave poudarjajo nadaljevanje napetosti med ZDA in Iranom. Sankcije so pogosto orodje za pritisk, vendar lahko sprožijo tudi ostre diplomatske odzive in dodatno zaostrijo mednarodne odnose, še posebej v regiji, ki je ključna za globalno oskrbo z energijo.",
-      "analiza": "Ozadje te novice so dolgotrajne napetosti med ZDA in Iranom, ki so se pogosto izražale skozi sankcije in retorične izmenjave. Izjava Irana, da nove ameriške sankcije kršijo suverenost drugih držav, poudarja globino spora in iransko dojemanje ameriške politike. To je relevantno, ker Iran ostaja ključen igralec v regiji Bližnjega vzhoda in pomemben proizvajalec nafte. Vsaka eskalacija napetosti ali uvedba novih sankcij lahko vpliva na globalne energetske trge. Mehanizem vpliva na finančne trge je predvsem prek cen nafte, saj sankcije lahko omejijo iranski izvoz nafte in s tem zmanjšajo globalno ponudbo. Čeprav današnje cene nafte WTI (+0,26 % na 87,06 USD/sod) in Brent (+0,65 % na 94,39 USD/sod) niso drastično reagirale, lahko nadaljnja eskalacija ali dejanske motnje v dobavi povzročijo znatnejši dvig. Povečana geopolitična tveganja običajno spodbujajo vlagatelje k iskanju varnih zatočišč, kot je zlato, ki je danes že zraslo za 2,39 % na 4680,60 USD/oz. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati razvoj dogodkov na Bližnjem vzhodu, saj lahko imajo neposreden vpliv na cene energentov in s tem na inflacijo ter stroške poslovanja podjetij. Stabilnost v tej regiji je ključna za globalno gospodarsko stabilnost.",
+      "povzetek": "Več kot 100 nekdanjih diplomatov je v odprtem pismu pozvalo Francijo in Združeno kraljestvo, naj uvedeta sankcije proti Izraelu zaradi dogajanja v Palestini. Pozivi vključujejo prepoved prenosa orožja in zamrznitev trgovinskih sporazumov med EU-Izrael ter Združenim kraljestvom-Izrael. Ta poteza poudarja naraščajoč mednarodni pritisk na Izrael in potencial za zaostrovanje diplomatskih in ekonomskih odnosov. Takšne sankcije bi lahko imele pomembne gospodarske posledice za Izrael in tudi za države, ki bi jih uvedle.",
+      "analiza": "Ozadje te novice je v dolgotrajnem konfliktu med Izraelom in Palestinci, ki se je v zadnjem času ponovno zaostril, kar je sprožilo močne mednarodne odzive. Poziv nekdanjih diplomatov je relevanten zdaj, saj kaže na naraščajočo željo po konkretnih ukrepih s strani mednarodne skupnosti. Mehanizem vpliva na finančne trge je večplasten: uvedba sankcij bi lahko neposredno vplivala na izraelsko gospodarstvo, zlasti na izvoz in uvoz, kar bi se odrazilo na delnicah izraelskih podjetij in vrednosti šekela. Prav tako bi lahko vplivala na evropska podjetja, ki poslujejo z Izraelom, in na širšo regionalno stabilnost, kar bi se lahko odrazilo na cenah nafte in drugih surovin, čeprav danes WTI in Brent že rasteta. Povečana geopolitična tveganja običajno vodijo v beg kapitala v varna zatočišča, kot so zlato in nekatere valute. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitična dogajanja, saj lahko imajo daljnosežne posledice na globalne dobavne verige, cene surovin in stabilnost trgov. Neposredna izpostavljenost slovenskih vlagateljev izraelskemu trgu je verjetno omejena, vendar lahko posredni učinki vplivajo na širše evropske in globalne delniške indekse.",
       "vpliv": [
-        "Povečana geopolitična tveganja",
-        "Potencialni dvig cen nafte",
-        "Povečano povpraševanje po varnih zatočiščih",
-        "Negativni vpliv na globalno trgovino"
+        "Potencialna prepoved prenosa orožja Izraelu",
+        "Možna zamrznitev trgovinskih sporazumov EU-Izrael in UK-Izrael",
+        "Negativen vpliv na izraelsko gospodarstvo in valuto (šekel)",
+        "Povečana geopolitična tveganja v regiji"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
-      "objavljeno": "2026-08-22T09:14:09.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
+      "objavljeno": "2026-08-22T15:30:49.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-22T15:48:37.173Z",
+    "posodobljenoOb": "2026-08-22T16:08:01.535Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -181,8 +198,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 77064.01,
-        "sprememba_pct": -1.61,
+        "vrednost": 77034.86,
+        "sprememba_pct": -1.65,
         "enota": "USD"
       }
     ],
