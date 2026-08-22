@@ -1,162 +1,179 @@
 {
-  "generiranoOb": "2026-08-20T16:18:46.753Z",
+  "generiranoOb": "2026-08-21T16:17:33.935Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-08-20",
-  "povzetek": "Evropski delniški trgi so danes zaključili v rdečem, pri čemer je nemški indeks DAX padel za 0,42 % na 25.983 točk. Tudi ameriški trgi so po dveh urah trgovanja kazali negativno smer, saj je S&P 500 beležil padec za 0,44 % na 7.674 točk, tehnološki Nasdaq 100 pa za 0,66 % na 29.231 točk. Glavni razlog za negativen sentiment je bil ponoven dvig donosov na ameriške obveznice, kjer je donos na 10-letno ameriško državno obveznico poskočil za 1,01 % na 4,70 %, kljub nedavnim poskusom ameriškega finančnega ministrstva za umiritev trgov. Geopolitične napetosti so se odrazile v rasti cen nafte, saj je WTI nafta zrasla za 2,71 % na 86,68 USD/sod, Brent pa za 2,34 % na 93,76 USD/sod, deloma zaradi ponovnega pojava piratstva v Adenskem zalivu. Medtem je Bitcoin doživel močan skok za 4,26 % na 72.242 USD, saj vlagatelji iščejo 'trda sredstva' v negotovih časih. Vlagatelji bodo v prihodnjih dneh pozorno spremljali prihajajoče objave inflacije in odločitve centralnih bank glede obrestnih mer.",
+  "datum": "2026-08-21",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, medtem ko so ameriški indeksi nadaljevali z rastjo v zgodnjem popoldanskem trgovanju. Nemški DAX je zrasel za 0,59 % na 26137 točk, medtem ko je ameriški S&P 500 pridobil 0,56 % in dosegel 7684 točk, Nasdaq 100 pa je bil višji za 0,41 % pri 29332 točkah. Posebej izstopata zlato in Bitcoin, ki sta zabeležila močno rast; zlato je poskočilo za 2,18 % na 4671,00 USD/oz, Bitcoin pa za impresivnih 5,36 % na 76927 USD, kar je po poročanju Financial Timesa posledica intervencije Bessenta na trgu obveznic, ki je prizadela dolar. Cene nafte so se gibale zmerno navzgor, saj je WTI nafta pridobila 0,14 % na 86,95 USD/sod, Brent pa 0,66 % na 94,40 USD/sod. Vlagatelji so pozorni tudi na geopolitične napetosti, zlasti na dogajanje okoli Irana, ter na prihajajoče poročilo o dobičku Nvidie, ki bi lahko rešilo zastali delniški trg. Ključni ekonomski dogodek, ki ga vlagatelji morajo imeti na radarju ta teden, je objava rezultatov Nvidie, ki bo verjetno določila smer tehnološkega sektorja in širšega trga.",
   "novice": [
     {
-      "naslov": "Ameriške dolgoročne obveznice padajo, posegi finančnega ministrstva ne pomirjajo vlagateljev",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Donosi na dolgoročne ameriške državne obveznice so se danes ponovno dvignili, kljub načrtu finančnega ministra Scotta Bessenta, da bi vsaj podvojil odkupovanje dolgoročnejših obveznic. Ta poteza, ki naj bi pomirila trge, ni imela želenega učinka, saj so donosi na 30-letne obveznice še naprej rasli. Vlagatelji so ostali skeptični glede učinkovitosti vladnih ukrepov za stabilizacijo trga obveznic. Donos na 10-letno ameriško državno obveznico je danes poskočil za 1,01 % in dosegel 4,70 %.",
-      "analiza": "Ozadje te novice je v nedavnem načrtu ameriškega finančnega ministra Scotta Bessenta, ki je napovedal agresivnejše odkupovanje dolgoročnih državnih obveznic z namenom znižanja donosov in umiritve trga. Ideja je bila zmanjšati ponudbo teh obveznic, kar bi teoretično moralo zvišati njihovo ceno in znižati donos. Vendar pa je današnji porast donosov, vključno z 10-letno obveznico, ki je zrasla za 1,01 % na 4,70 %, pokazal, da trg ni prepričan v dolgoročno učinkovitost teh ukrepov. Mehanizem vpliva je kompleksen: višji donosi obveznic pomenijo višje stroške zadolževanja za podjetja in državo, kar lahko upočasni gospodarsko rast. Za delnice to pomeni manj privlačno alternativo, saj se vlagatelji lahko preusmerijo v varnejše obveznice z višjim donosom, kar povzroča pritisk na indekse, kot sta S&P 500 (-0,44 %) in Nasdaq 100 (-0,66 %). Dolar je danes zabeležil rahel padec proti evru (EUR/USD 1,1678, -0,03 %), saj nižji donosi (v primeru uspešnega ukrepa) zmanjšujejo privlačnost ameriških sredstev, čeprav so danes donosi dejansko narasli. Za slovenskega dolgoročnega vlagatelja to pomeni, da so višji donosi na obveznice lahko znak povečane negotovosti in potencialno višjih inflacijskih pričakovanj, kar zahteva previdnost pri naložbah v delnice in preudarno upravljanje tveganj.",
-      "vpliv": [
-        "Višji donosi na ameriške obveznice (+1,01 % na 10Y US Treasury)",
-        "Pritisk na delniške trge (S&P 500 -0,44 %, Nasdaq 100 -0,66 %)",
-        "Povečani stroški zadolževanja za podjetja in državo",
-        "Rahlo znižanje vrednosti dolarja (-0,03 % EUR/USD)"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/0c01cdd9-93e8-469c-8f09-a6d68c91fbc3?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-20T15:09:59.000Z"
-    },
-    {
-      "naslov": "Ameriški dolg dosega 40 bilijonov dolarjev, vprašanja o fiskalni stabilnosti",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Ameriški državni dolg je dosegel zgodovinsko mejo 40 bilijonov dolarjev, kar je precejšen porast od približno 35 bilijonov dolarjev, ko je predsednik Trump prevzel položaj pred manj kot dvema letoma. Ta naraščajoči dolg je posledica težkega zadolževanja, povečane porabe in davčnih rezov, ki so jih izvajale tako demokratske kot republikanske administracije. Analitiki opozarjajo, da je to dolgoročna strategija, imenovana 'starve the beast', ki se je oblikovala že pred Trumpovo administracijo.",
-      "analiza": "Doseganje 40 bilijonov dolarjev ameriškega državnega dolga je ključen mejnik, ki poudarja dolgoročne fiskalne izzive ZDA. Kontekst je v strategiji 'starve the beast', kjer se z zmanjšanjem davčnih prihodkov in povečanjem porabe ustvarja pritisk na proračun, kar naj bi dolgoročno prisililo k zmanjšanju državne porabe. Vendar pa so kratkoročne posledice povečanje dolga in s tem povezani stroški obresti, ki so se po Trumpovi avanturi v Iranu in posledični inflaciji močno povišali. To je relevantno zdaj, saj se vlagatelji že soočajo z naraščajočimi donosi obveznic (10Y US Treasury pri 4,70 %), kar je neposredna posledica povečanega tveganja, povezanega z visokim dolgom. Povečan dolg lahko dolgoročno povzroči inflacijske pritiske, saj centralna banka morda ne bo imela druge izbire, kot da monetizira del dolga. To lahko vpliva na valute (EUR/USD -0,03 %), saj se zmanjša zaupanje v fiskalno stabilnost. Za delnice to pomeni povečano negotovost in potencialno višje obrestne mere, ki zmanjšujejo privlačnost naložb. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da je fiskalna stabilnost največjega svetovnega gospodarstva ključna za globalne trge, in da visoki dolgovi predstavljajo sistemsko tveganje, ki lahko vpliva na vse razrede sredstev.",
-      "vpliv": [
-        "Povečana fiskalna tveganja ZDA",
-        "Pritisk na donose obveznic navzgor",
-        "Potencialni inflacijski pritiski",
-        "Zmanjšano zaupanje v dolar na dolgi rok"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss",
-      "objavljeno": "2026-08-20T13:18:31.000Z"
-    },
-    {
-      "naslov": "Oboroženi napadalci zajeli tanker ob Jemnu, piratstvo v Somaliji ponovno narašča",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Britanski pomorski varnostni monitor je poročal o zajetju tankerja Seamull ob obali Jemna, ki je bil nato preusmerjen proti Somaliji. Ta incident potrjuje ponoven porast somalijskega piratstva v Adenskem zalivu, ključni pomorski poti. Dogodek se je zgodil sredi povečanih regionalnih napetosti in poudarja tveganja za mednarodni ladijski promet na tem območju.",
-      "analiza": "Adenski zaliv in Rdeče morje sta vitalni pomorski poti za globalno trgovino, še posebej za prevoz nafte in plina med Azijo in Evropo. Ponoven porast piratstva, kot je zajetje tankerja Seamull, neposredno vpliva na varnost ladijskega prometa in povzroča povečanje stroškov zavarovanja ter potencialne zamude v dobavnih verigah. To je še posebej relevantno v luči že obstoječih geopolitičnih napetosti v regiji. Mehanizem vpliva na finančne trge je večplasten: povečana tveganja v dobavnih verigah lahko vodijo do višjih cen blaga, predvsem nafte. Današnje cene nafte to potrjujejo, saj je WTI nafta zrasla za 2,71 % na 86,68 USD/sod, Brent pa za 2,34 % na 93,76 USD/sod. Višje cene nafte prispevajo k inflacijskim pritiskom, kar lahko vpliva na odločitve centralnih bank in posledično na obvezniške donose ter delniške trge. Za slovenskega dolgoročnega vlagatelja to pomeni, da so geopolitična tveganja v ključnih dobavnih verigah pomemben dejavnik, ki lahko vpliva na cene energentov in širšo gospodarsko stabilnost, kar zahteva diverzifikacijo in spremljanje globalnih dogodkov.",
-      "vpliv": [
-        "Povišane cene nafte (WTI +2,71 %, Brent +2,34 %)",
-        "Povečani stroški ladijskega prometa in zavarovanja",
-        "Potencialne motnje v globalnih dobavnih verigah",
-        "Povečana geopolitična tveganja v regiji"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss",
-      "objavljeno": "2026-08-20T15:36:59.000Z"
-    },
-    {
-      "naslov": "Naraščajoči 'crack spread' na energetskem trgu ogroža ameriškega potrošnika",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Energetski trg pošilja opozorilo ameriškim potrošnikom: cene na bencinskih črpalkah se v bližnji prihodnosti verjetno ne bodo znižale. Naraščajoči 'crack spread' – razlika med ceno surove nafte in cenami rafiniranih naftnih derivatov, kot sta bencin in dizel – kaže na visoke marže rafinerij. To pomeni, da so stroški predelave in distribucije visoki, kar se prenaša na končnega potrošnika.",
-      "analiza": "Koncept 'crack spreada' je ključen pokazatelj dobičkonosnosti rafinerij in pritiska na cene goriv. Ko se crack spread poveča, to pomeni, da so rafinerije sposobne prodajati rafinirane proizvode po bistveno višji ceni glede na ceno surove nafte, kar kaže na močno povpraševanje ali omejeno ponudbo rafiniranih izdelkov. To je relevantno zdaj, saj se cene nafte (WTI +2,71 % na 86,68 USD/sod, Brent +2,34 % na 93,76 USD/sod) že dvigujejo, kar v kombinaciji z visokim crack spreadom pomeni dvojni udarec za potrošnike. Mehanizem vpliva je direkten: višje cene goriva zmanjšujejo razpoložljiv dohodek gospodinjstev, kar lahko zmanjša potrošnjo v drugih sektorjih in prispeva k inflaciji. To lahko vpliva na delnice podjetij, odvisnih od potrošniške porabe, in poveča pritisk na centralne banke za zaostrovanje monetarne politike, kar posledično vpliva na obvezniške donose. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da so inflacijski pritiski zaradi energentov še vedno močni in lahko vplivajo na dobičkonosnost podjetij ter splošno gospodarsko rast, zato je smiselno preučiti naložbe v sektorje, ki so manj občutljivi na cene energentov ali pa imajo močno cenovno moč.",
-      "vpliv": [
-        "Višje cene goriva za potrošnike",
-        "Povečani inflacijski pritiski",
-        "Zmanjšana kupna moč gospodinjstev",
-        "Potencialno negativni vpliv na delnice potrošniškega sektorja"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-energy-markets-rising-crack-spread-is-threatening-to-break-the-american-consumer-90b421dc?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-20T15:22:00.000Z"
-    },
-    {
-      "naslov": "Walmart zvišuje napoved za celo leto, a delnice padajo zaradi skrbi glede prodaje",
-      "sektor": "Potrošniki",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Walmart je zvišal svojo napoved za celo leto in prejel znatno vračilo carin, vendar so delnice podjetja padle zaradi skrbi glede prodaje. Podjetje je objavilo rezultate za drugo fiskalno četrtletje 2027, ki ponujajo vpogled v stanje potrošnikov in 'K-oblikovano gospodarstvo'. Kljub pozitivnim novicam o celoletni napovedi so vlagatelji zaskrbljeni zaradi osnovne prodaje, kar kaže na neenakomerno okrevanje gospodarstva.",
-      "analiza": "Walmart, kot največji trgovec na drobno v ZDA, velja za pomemben barometer zdravja ameriškega potrošnika, še posebej tistih z nižjimi dohodki. Zvišanje celoletne napovedi in vračilo carin sta sicer pozitivna dejavnika, ki kažeta na določeno odpornost podjetja. Vendar pa padec delnic, kljub tem pozitivnim novicam, kaže na to, da vlagatelje bolj skrbijo osnovni trendi prodaje in morebitna šibkost potrošnikov. Izraz 'K-oblikovano gospodarstvo' opisuje situacijo, kjer se nekateri segmenti prebivalstva in gospodarstva oporavljajo hitro, drugi pa zaostajajo, kar ustvarja neenakosti. To je relevantno zdaj, saj visoka inflacija in naraščajoči stroški energentov (WTI +2,71 %, Brent +2,34 %) pritiskajo na kupno moč. Mehanizem vpliva je, da šibka prodaja v maloprodaji lahko signalizira upočasnitev gospodarstva, kar vpliva na delnice v celotnem potrošniškem sektorju. Za obveznice to lahko pomeni, da centralne banke morda ne bodo mogle tako agresivno zaostrovati monetarne politike, če se gospodarstvo ohlaja. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati kazalnike potrošniške porabe, saj so ti ključni za oceno splošnega zdravja gospodarstva in potencialnih naložbenih priložnosti, pri čemer je treba biti pozoren na razlike med posameznimi segmenti trga.",
-      "vpliv": [
-        "Mešani signali o zdravju ameriškega potrošnika",
-        "Padec delnic Walmart kljub pozitivni napovedi",
-        "Poudarek na 'K-oblikovanem gospodarstvu'",
-        "Potencialni pritisk na marže trgovcev na drobno"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-      "objavljeno": "2026-08-20T15:51:26.000Z"
-    },
-    {
-      "naslov": "Kripto povratek: Bitcoin in Ethereum dosegata najboljši dan v mesecih, vlagatelji iščejo trda sredstva",
+      "naslov": "Zlato in Bitcoin močno poskočila zaradi intervencije na trgu obveznic in šibkejšega dolarja",
       "sektor": "Finance",
       "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Po mesecih mirovanja se digitalne valute prebujajo, saj sta Bitcoin in Ethereum danes močno poskočila. Bitcoin je zrasel za 4,26 % in dosegel 72.242 USD. Trgovci pripisujejo preporod pobudi predsednika Donalda Trumpa glede zakona o kriptovalutah in motnjam na trgu obveznic, zaradi katerih se vlagatelji obračajo k 'trdim sredstvom'.",
-      "analiza": "Današnji izjemen skok Bitcoina za 4,26 % na 72.242 USD in drugih kriptovalut, kot je Ethereum, kaže na ponovno zanimanje vlagateljev za ta razred sredstev. Ozadje je v dveh glavnih dejavnikih: prvič, pobuda predsednika Trumpa glede zakona o kriptovalutah, ki bi lahko prinesla večjo regulativno jasnost in s tem povečala zaupanje vlagateljev. Drugič, motnje na trgu obveznic, kjer so donosi na ameriške obveznice danes ponovno narasli (10Y US Treasury +1,01 % na 4,70 %), spodbujajo iskanje alternativnih 'trdih sredstev', ki bi lahko služila kot zaščita pred inflacijo ali nestabilnostjo tradicionalnih trgov. Mehanizem vpliva je, da vlagatelji v negotovih časih pogosto iščejo sredstva, ki niso neposredno povezana s tradicionalnimi finančnimi sistemi. Kriptovalute, kljub svoji volatilnosti, se v takšnih obdobjih včasih obravnavajo kot digitalno zlato. To lahko povzroči preusmeritev kapitala iz delnic in obveznic v kriptovalute. Za delnice to pomeni, da del kapitala odteka v alternativne naložbe, medtem ko obveznice postajajo manj privlačne zaradi višjih donosov in inflacijskih skrbi. Za slovenskega dolgoročnega vlagatelja to pomeni, da kriptovalute ostajajo visoko tvegana, a potencialno visoko donosna naložba, ki lahko služi kot diverzifikacija portfelja v obdobjih negotovosti na tradicionalnih trgih, vendar je ključno razumeti njihovo volatilnost in tveganje izgube kapitala.",
+      "intenziteta": 3,
+      "povzetek": "Zlato in Bitcoin sta danes zabeležila izjemno rast, pri čemer je zlato poskočilo za 2,18 % na 4671,00 USD za unčo, Bitcoin pa je pridobil kar 5,36 % in dosegel 76927 USD. Po poročanju Financial Timesa je ta močan premik navzgor posledica intervencije Bessenta na trgu obveznic, ki je povzročila pritisk na ameriški dolar. Donosnost 10-letne ameriške državne obveznice se je zvišala za 0,81 % na 4,73 %, kar kaže na določeno nestabilnost na trgu obveznic. Devizni tečaj EUR/USD je medtem ostal relativno stabilen, z minimalnim porastom za 0,03 % na 1.1685. Bitcoin je na poti, da zabeleži najboljši teden v več kot treh letih, kar poudarja močno zaupanje vlagateljev v kriptovalute in plemenite kovine kot varno zatočišče v času negotovosti.",
+      "analiza": "Ozadje te novice je povezano z makroekonomskimi politikami in morebitnimi intervencijami centralnih bank ali pomembnih akterjev na trgu obveznic, ki lahko vplivajo na vrednost valute. Ko pride do intervencije, ki oslabi dolar, vlagatelji pogosto iščejo alternativne naložbe, ki ohranjajo vrednost, kot sta zlato in Bitcoin. Zlato tradicionalno velja za varno zatočišče v obdobjih ekonomske negotovosti in inflacije, saj njegova vrednost ni neposredno vezana na uspešnost posameznih gospodarstev. Podobno se Bitcoin, kljub svoji volatilnosti, vse bolj uveljavlja kot digitalno zlato, privlačno za vlagatelje, ki iščejo zaščito pred devalvacijo fiat valut. Posledično so delnice, zlasti tiste, ki so občutljive na obrestne mere ali močan dolar, lahko pod pritiskom, medtem ko surovine in kriptovalute pridobivajo. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja z naložbami v plemenite kovine in morda kriptovalute lahko smiselna strategija za zaščito pred valutnimi nihanji in inflacijskimi pritiski, vendar je treba upoštevati visoko volatilnost kriptovalut.",
       "vpliv": [
-        "Rast Bitcoina za 4,26 % na 72.242 USD",
-        "Povečan interes vlagateljev za kriptovalute kot 'trda sredstva'",
-        "Vpliv regulativnih pobud (Trumpov zakon o kriptovalutah)",
-        "Potencialna preusmeritev kapitala iz tradicionalnih trgov"
+        "Zlato +2.18% na 4671.00 USD/oz",
+        "Bitcoin +5.36% na 76927 USD",
+        "Dolar pod pritiskom",
+        "Donosnost 10Y US Treasury +0.81% na 4.73%"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-21T14:48:16.000Z"
+    },
+    {
+      "naslov": "Nvidia in njeni prihodki ključni za oživitev delniškega trga",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Pričakovanja glede objave prihodkov podjetja Nvidia so visoka, saj bi lahko rezultati tega proizvajalca čipov za umetno inteligenco rešili zastali delniški trg. Delnice Nvidie, ki so v zadnjem obdobju po prejšnjih objavah rezultatov težko napredovale, so pod drobnogledom vlagateljev. Podjetje Jensen Huang je ključni igralec v sektorju umetne inteligence, ki je v zadnjih letih poganjal velik del rasti trga. Morebiten močan rezultat bi lahko ponovno spodbudil optimizem, medtem ko bi razočaranje lahko povzročilo nadaljnjo stagnacijo ali celo padec. Vlagatelji so zaskrbljeni, da se je trg morda preveč zanašal na rast tehnoloških velikanov, zato so prihodnji rezultati Nvidie ključni za splošno razpoloženje na trgu.",
+      "analiza": "Nvidia je postala barometer za celoten sektor umetne inteligence in širši tehnološki trg. Njeni čipi so nepogrešljivi za razvoj in delovanje AI aplikacij, zato so njeni poslovni rezultati indikator zdravja celotne industrije. V preteklosti so močni rezultati Nvidie pogosto sprožili val optimizma in rast delnic v celotnem tehnološkem sektorju, medtem ko so slabši rezultati povzročili korekcije. Trenutno je trg v pričakovanju, saj so delnice Nvidie po prejšnjih objavah rezultatov stagnirale, kar kaže na morebitno izčrpanost rasti ali previdnost vlagateljev. Če Nvidia preseže pričakovanja, bi to lahko pozitivno vplivalo na tehnološke delnice, kot so tiste v indeksu Nasdaq 100, ki je danes zrasel za 0,41 %. V nasprotnem primeru bi lahko prišlo do širšega umika iz tveganih naložb. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so tehnološke delnice, čeprav obetavne, lahko zelo volatilne in odvisne od uspešnosti ključnih igralcev, kot je Nvidia. Diverzifikacija in dolgoročna perspektiva sta ključni, namesto da bi se zanašali na kratkoročne premike, ki jih povzročijo posamezne objave rezultatov.",
+      "vpliv": [
+        "Potencialno oživitev tehnološkega sektorja",
+        "Vpliv na Nasdaq 100",
+        "Povečana volatilnost delnic Nvidie",
+        "Splošno razpoloženje na trgu"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/crypto-comeback-bitcoin-ethereum-are-headed-for-their-best-day-in-months-as-investors-flock-to-hard-assets-1573b803?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-20T14:09:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-21T13:33:00.000Z"
+    },
+    {
+      "naslov": "Geopolitične napetosti vplivajo na ameriške trge in energetski sektor",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Poročilo Al Jazeere navaja, da so 'ekonomski D-dan' Trumpove administracije in vojna med ZDA in Izraelom proti Iranu že povzročili pretrese na globalnih finančnih in energetskih trgih. Ameriški trgi so postali prva žrtev teh napetosti. Ameriška ministrica za finance je sicer nakazala spremembo strategije ZDA do Irana, s poudarkom na gospodarski izolaciji. Kljub temu so se cene nafte danes zmerno zvišale, saj je Brent nafta pridobila 0,66 % na 94,40 USD/sod, WTI pa 0,14 % na 86,95 USD/sod, kar odraža zaskrbljenost glede morebitnih motenj v dobavi. Geopolitična tveganja v regiji so vedno imela neposreden vpliv na cene energentov in splošno stabilnost trgov.",
+      "analiza": "Geopolitične napetosti na Bližnjem vzhodu, še posebej tiste, ki vključujejo Iran, imajo zgodovinsko pomemben vpliv na globalne finančne in energetske trge. Iran je ključni proizvajalec nafte in njegova lega v bližini strateških pomorskih poti pomeni, da lahko vsaka nestabilnost vpliva na dobavo nafte. Poročila o 'ekonomskem D-dnevu' in vojni, ki vpliva na trge, kažejo na povečano tveganje. Čeprav se strategija ZDA morda preusmerja na gospodarsko izolacijo, to ne zmanjšuje takojšnje zaskrbljenosti trgov. Cene nafte, kot sta Brent in WTI, se odzivajo na te novice z zmerno rastjo, saj vlagatelji pričakujejo morebitne motnje v dobavi. Povečana geopolitična tveganja običajno vodijo do umika kapitala iz bolj tveganih naložb, kot so delnice, in povečanje povpraševanja po varnih zatočiščih, kot sta zlato in ameriške državne obveznice, čeprav je donosnost slednjih danes zrasla. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati globalne geopolitične dogodke, saj lahko imajo neposreden vpliv na cene energentov, inflacijo in splošno ekonomsko stabilnost. Energetski sektor in podjetja, ki so odvisna od stabilnih dobavnih verig, so še posebej izpostavljena.",
+      "vpliv": [
+        "Zvišanje cen nafte (Brent +0.66%, WTI +0.14%)",
+        "Povečana negotovost na finančnih trgih",
+        "Potencialni umik iz tveganih naložb",
+        "Vpliv na globalne dobavne verige"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss",
+      "objavljeno": "2026-08-21T13:47:26.000Z"
+    },
+    {
+      "naslov": "Tyson Foods zapira obrate, kar vpliva na cene govedine in dobavno verigo",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Tyson Foods, največje podjetje za predelavo mesa v ZDA, je napovedalo zaprtje dveh obratov v Illinoisu in Utahu ter prodajo obrata za govedino v zvezni državi Washington. To bo povzročilo odpuščanje več sto delavcev, saj je ponudba goveda dosegla najnižjo raven v 75 letih. Pomanjkanje goveda je posledica večletne suše, naraščajočih stroškov in ekonomskih pritiskov, vključno s konsolidacijo med rejci goveda. Cene govedine so v zadnjem letu že močno narasle zaradi pomanjkanja, čeprav ekonomisti menijo, da zaprtje Tysonovih obratov verjetno ne bo tako močno vplivalo na potrošniške cene. Kljub temu je to pomemben dogodek za živilsko industrijo in potrošnike.",
+      "analiza": "Zaprtje obratov Tyson Foods je neposredna posledica zgodovinskega pomanjkanja goveda, ki je rezultat dolgotrajnih okoljskih in ekonomskih dejavnikov, kot so suša in naraščajoči stroški. Ta dogodek poudarja ranljivost globalnih dobavnih verig in vpliv podnebnih sprememb na kmetijstvo in cene hrane. Čeprav ekonomisti menijo, da zaprtje ne bo drastično dvignilo cen govedine za potrošnike, saj so te že visoke, to kaže na dolgoročne trende rasti cen hrane in inflacijske pritiske v sektorju. Za delnice podjetij v živilski industriji, zlasti tistih, ki so odvisna od stabilne dobave surovin, to pomeni povečane stroške in morebitno zmanjšanje marž. Potrošniki se bodo soočali z višjimi cenami mesa, kar vpliva na njihovo kupno moč. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati podjetja v sektorju hrane in pijače, saj so izpostavljena tveganjem, povezanim z dobavnimi verigami, podnebnimi spremembami in inflacijo. Naložbe v podjetja z robustnimi dobavnimi verigami in diverzificiranimi viri surovin so lahko bolj odporne.",
+      "vpliv": [
+        "Pomanjkanje goveda v ZDA",
+        "Višje cene govedine za potrošnike",
+        "Odpuščanje delavcev v Tyson Foods",
+        "Vpliv na dobavne verige mesa"
+      ],
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage",
+      "objavljeno": "2026-08-21T16:01:43.000Z"
+    },
+    {
+      "naslov": "Ameriške blagovne znamke izgubljajo tržni delež na Kitajskem",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Velike ameriške blagovne znamke, kot so Nike, Starbucks in GM, izgubljajo tržni delež na Kitajskem. Po poročanju CNBC-ja so razlogi za to domača konkurenca, geopolitika in spreminjajoče se preference kitajskih potrošnikov. Kitajski potrošniki se vse bolj obračajo k domačim blagovnim znamkam, kar je del širšega trenda nacionalizma in podpore lokalnim podjetjem. Geopolitične napetosti med ZDA in Kitajsko prav tako vplivajo na odločitve potrošnikov. To predstavlja velik izziv za ameriška podjetja, ki so v preteklosti močno računala na rast na kitajskem trgu. Spremenjene preference in močnejša domača konkurenca zahtevajo prilagoditev strategij ali pa se bodo izgube tržnega deleža nadaljevale.",
+      "analiza": "Kitajska je eno največjih in najhitreje rastočih potrošniških trgov na svetu, zato je izguba tržnega deleža tam pomemben udarec za globalne blagovne znamke. Ta trend ni nov, vendar se pospešuje zaradi kombinacije dejavnikov. Geopolitične napetosti med ZDA in Kitajsko spodbujajo kitajske potrošnike k preferiranju domačih izdelkov, kar je del širšega prizadevanja Kitajske za gospodarsko samostojnost. Hkrati so kitajska podjetja postala bolj konkurenčna, ponujajo kakovostne izdelke in storitve, ki so prilagojene lokalnim okusom in potrebam. To vpliva na delnice ameriških podjetij, ki so močno prisotna na kitajskem trgu, saj se zmanjšujejo njihovi prihodki in potencial rasti. Za valute bi lahko dolgoročno pomenilo pritisk na dolar, če se zmanjša ekonomska moč ameriških podjetij v tujini. Za slovenskega dolgoročnega vlagatelja to poudarja pomen geografske diverzifikacije in razumevanja globalnih trgov. Naložbe v podjetja, ki so preveč odvisna od enega samega trga ali so izpostavljena geopolitičnim tveganjem, lahko predstavljajo večje tveganje. Iskanje podjetij z močno lokalno prisotnostjo in prilagodljivimi strategijami na različnih trgih je ključno.",
+      "vpliv": [
+        "Zmanjšanje prihodkov ameriških blagovnih znamk na Kitajskem",
+        "Povečana konkurenca za globalna podjetja",
+        "Vpliv na delnice podjetij kot so Nike, Starbucks, GM",
+        "Spreminjajoče se potrošniške preference na Kitajskem"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
+      "objavljeno": "2026-08-21T16:08:01.000Z"
+    },
+    {
+      "naslov": "Države se borijo proti trgom napovedi, kar sproža pravne bitke",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Države v ZDA se vse bolj usmerjajo proti trgom napovedi, kar sproža drago pravno bitko glede tega, kdo jih sme regulirati. Trgi napovedi, kot je Kalshi, so trenutno regulirani na različne načine v posameznih zveznih državah. To pomanjkanje enotne regulacije ustvarja negotovost in ovira rast teh inovativnih finančnih platform. MarketWatch poroča, da obstaja boljši način za njihov razvoj, vendar je pot do enotnega regulativnega okvira zapletena in polna pravnih izzivov. Ta situacija poudarja napetosti med inovacijami v finančnem sektorju in potrebo po ustrezni regulaciji, ki bi zaščitila potrošnike in zagotovila stabilnost trga.",
+      "analiza": "Trgi napovedi so relativno nov, a hitro rastoč segment finančnega trga, ki omogoča trgovanje z izidi prihodnjih dogodkov. Njihov potencial je velik, saj lahko zagotavljajo dragocene informacije in orodja za obvladovanje tveganj. Vendar pa pomanjkanje jasne in enotne regulacije v ZDA ustvarja veliko negotovosti. Različni pristopi zveznih držav k regulaciji povzročajo fragmentacijo trga in visoke stroške skladnosti za podjetja, kot je Kalshi. To lahko zavira inovacije in odvrača vlagatelje. Vpliv na finančne trge je predvsem v smislu tveganja za podjetja, ki delujejo na teh trgih, in potencialnega zamika v razvoju novega finančnega instrumenta. Delnice podjetij v tem sektorju so lahko pod pritiskom zaradi regulativne negotovosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pri naložbah v inovativne, neregulirane ali slabo regulirane finančne produkte potrebna izjemna previdnost. Regulativno tveganje je pomemben dejavnik, ki lahko močno vpliva na donosnost in stabilnost takšnih naložb. Pomembno je iskati podjetja, ki delujejo v jasnih in stabilnih regulativnih okoljih.",
+      "vpliv": [
+        "Regulativna negotovost za trge napovedi",
+        "Pravne bitke med državami in podjetji",
+        "Zaviranje inovacij v finančnem sektorju",
+        "Potencialni vpliv na delnice podjetij v tem sektorju"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/states-are-coming-after-prediction-markets-and-setting-up-a-costly-legal-battle-over-who-gets-to-regulate-them-f9ab9a37?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-21T16:14:00.000Z"
+    },
+    {
+      "naslov": "El Nino najintenzivnejši v stoletju, opozarjajo britanski meteorologi",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Britanski meteorologi napovedujejo, da bo El Nino najintenzivnejši v več kot stoletju. Met Office napoveduje 'brezprimerno' zvišanje temperature morske površine za več kot 3 °C (5,4 °F), kar bo povečalo tveganje za ekstremne vremenske pojave. Ta napoved ima daljnosežne posledice za globalno gospodarstvo, saj ekstremno vreme vpliva na kmetijstvo, dobavne verige in infrastrukturo. Povečana pogostost in intenzivnost naravnih katastrof lahko povzroči znatne ekonomske izgube in inflacijske pritiske, zlasti na cene hrane in surovin. Vlade in podjetja se bodo morala pripraviti na prilagoditve in morebitne motnje, ki jih prinaša tako močan El Nino.",
+      "analiza": "Fenomen El Nino, ki ga zaznamujejo nenormalno visoke temperature morske površine v ekvatorialnem Tihem oceanu, ima globalne podnebne in ekonomske posledice. Napoved, da bo ta El Nino najintenzivnejši v več kot stoletju, pomeni povečano verjetnost suš, poplav in drugih ekstremnih vremenskih pojavov po vsem svetu. To neposredno vpliva na kmetijstvo, saj lahko uniči pridelke in živino, kar vodi do pomanjkanja hrane in rasti cen. Posledično se povečujejo inflacijski pritiski, kar lahko vpliva na monetarno politiko centralnih bank. Podjetja v sektorjih, kot so kmetijstvo, zavarovalništvo, transport in energetika, so še posebej izpostavljena. Delnice teh podjetij so lahko pod pritiskom, medtem ko se lahko cene nekaterih surovin zvišajo. Za slovenskega dolgoročnega vlagatelja je pomembno upoštevati tveganja, povezana s podnebnimi spremembami in ekstremnimi vremenskimi pojavi. Naložbe v podjetja, ki so odporna na podnebne spremembe, ali tista, ki ponujajo rešitve za prilagajanje nanje, so lahko dolgoročno bolj privlačna. Prav tako je smiselno spremljati globalne cene hrane in inflacijske trende.",
+      "vpliv": [
+        "Povečano tveganje za ekstremne vremenske pojave",
+        "Vpliv na kmetijstvo in cene hrane",
+        "Potencialni inflacijski pritiski",
+        "Motnje v dobavnih verigah in infrastrukturi"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/8/21/el-nino-set-to-be-most-intense-for-over-a-century-uk-forecasters?traffic_source=rss",
+      "objavljeno": "2026-08-21T13:12:07.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-20T16:18:06.013Z",
+    "posodobljenoOb": "2026-08-21T16:16:27.358Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7674.15,
-        "sprememba_pct": -0.44
+        "vrednost": 7683.85,
+        "sprememba_pct": 0.56
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29230.986,
-        "sprememba_pct": -0.66
+        "vrednost": 29332.148,
+        "sprememba_pct": 0.41
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25983.04,
-        "sprememba_pct": -0.42
+        "vrednost": 26136.56,
+        "sprememba_pct": 0.59
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 66216.79,
-        "sprememba_pct": 1.36
+        "vrednost": 66016.36,
+        "sprememba_pct": -0.3
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4575.6,
-        "sprememba_pct": 0.67,
+        "vrednost": 4671,
+        "sprememba_pct": 2.18,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 86.68,
-        "sprememba_pct": 2.71,
+        "vrednost": 86.95,
+        "sprememba_pct": 0.14,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 93.76,
-        "sprememba_pct": 2.34,
+        "vrednost": 94.4,
+        "sprememba_pct": 0.66,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +181,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1678,
-        "sprememba_pct": -0.03
+        "vrednost": 1.1685,
+        "sprememba_pct": 0.03
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.7,
-        "sprememba_pct": 1.01,
+        "vrednost": 4.734,
+        "sprememba_pct": 0.81,
         "enota": "%"
       }
     ],
@@ -181,16 +198,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 72241.57,
-        "sprememba_pct": 4.26,
+        "vrednost": 76927.14,
+        "sprememba_pct": 5.36,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.87,
-      "sprememba_pct": 6.58
+      "vrednost": 15.39,
+      "sprememba_pct": -3.87
     }
   }
 }
