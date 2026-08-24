@@ -1,5 +1,5 @@
 {
-  "posodobljenoOb": "2026-08-21T20:21:49.535Z",
+  "posodobljenoOb": "2026-08-24T08:52:34.538Z",
   "indeksi": [
     {
       "simbol": "^GSPC",
@@ -16,36 +16,36 @@
     {
       "simbol": "^GDAXI",
       "ime": "DAX",
-      "vrednost": 26136.56,
-      "sprememba_pct": 0.59
+      "vrednost": 26119.06,
+      "sprememba_pct": -0.07
     },
     {
       "simbol": "^N225",
       "ime": "Nikkei 225",
-      "vrednost": 66016.36,
-      "sprememba_pct": -0.3
+      "vrednost": 65528.09,
+      "sprememba_pct": -0.74
     }
   ],
   "surovine": [
     {
       "simbol": "GC=F",
       "ime": "Zlato",
-      "vrednost": 4674.1,
-      "sprememba_pct": 2.25,
+      "vrednost": 4697.1,
+      "sprememba_pct": 0.35,
       "enota": "USD/oz"
     },
     {
       "simbol": "CL=F",
       "ime": "WTI nafta",
-      "vrednost": 86.68,
-      "sprememba_pct": -0.17,
+      "vrednost": 85.34,
+      "sprememba_pct": -1.98,
       "enota": "USD/sod"
     },
     {
       "simbol": "BZ=F",
       "ime": "Brent nafta",
-      "vrednost": 93.94,
-      "sprememba_pct": 0.17,
+      "vrednost": 93.11,
+      "sprememba_pct": -1.36,
       "enota": "USD/sod"
     }
   ],
@@ -53,8 +53,8 @@
     {
       "simbol": "EURUSD=X",
       "ime": "EUR/USD",
-      "vrednost": 1.1681,
-      "sprememba_pct": 0
+      "vrednost": 1.167,
+      "sprememba_pct": -0.07
     }
   ],
   "obveznice": [
@@ -70,15 +70,15 @@
     {
       "simbol": "BTC-USD",
       "ime": "Bitcoin",
-      "vrednost": 77440.2,
-      "sprememba_pct": 6.06,
+      "vrednost": 77107.74,
+      "sprememba_pct": -0.8,
       "enota": "USD"
     }
   ],
   "vix": {
     "simbol": "^VIX",
     "ime": "VIX",
-    "vrednost": 15.16,
-    "sprememba_pct": -5.31
+    "vrednost": 15.89,
+    "sprememba_pct": 5.02
   }
 }
