@@ -1,99 +1,116 @@
 {
-  "generiranoOb": "2026-08-30T18:52:11.445Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-08-31T10:51:50.422Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-08-30",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, medtem ko so ameriški indeksi v zgodnjem popoldanskem trgovanju beležili rahle padce. Nemški DAX je dan zaključil z rastjo za 0,77 % pri 26570 točkah, medtem ko je Nikkei 225 zrasel za 0,41 % na 66406 točk. Na drugi strani Atlantika je S&P 500 padel za 0,25 % na 7712 točk, Nasdaq 100 pa je izgubil 0,70 % in se giblje pri 29433 točkah. Na valutnih trgih je evro oslabel proti dolarju, saj je par EUR/USD padel za 0,62 % na 1.1587. Cene nafte so beležile manjše padce, Brent nafta je bila pri 88.10 USD/sod (-0,47 %), medtem ko je zlato občutno padlo za 2,88 % na 4529.90 USD/oz. Donosnost 10-letne ameriške državne obveznice je zrasla za 1,03 % na 4,72 %, Bitcoin pa je nadaljeval rast s 1,06 % na 79063 USD. Geopolitične novice, kot so ameriške sankcije proti Banque Misr in izjava Trumpa o venezuelski nafti, so vplivale na razpoloženje, skupaj z izidom referenduma na Islandiji o vstopu v EU. Vlagatelji so pozorni na nadaljnji razvoj dogodkov, vendar v danih informacijah ni izpostavljenega specifičnega ključnega ekonomskega dogodka, ki bi bil na radarju za ta teden.",
+  "datum": "2026-08-31",
+  "povzetek": "Finančni trgi so danes zjutraj pokazali mešano sliko, saj so se ameriški indeksi včeraj zaprli v rdečem, medtem ko so azijski trgi sledili podobnemu trendu. Indeks S&P 500 je zaključil pri 7712 točkah, kar predstavlja padec za 0.25 %, Nasdaq 100 je zdrsnil za 0.70 % na 29433 točk, nemški DAX pa je izgubil 0.85 % in se ustavil pri 26343 točkah. Japonski Nikkei 225 je prav tako zabeležil padec za 0.14 % na 66312 točk. Medtem je cena nafte Brent skočila za 3.10 % na 88.79 USD za sod, kar je posledica eskalacije napetosti med ZDA in Iranom, vključno z iranskimi napadi na Jordanijo in ZAE po ameriškem bombardiranju otoka Larak. Donosnost 10-letne ameriške državne obveznice se je povečala za 1.03 % na 4.72 %, medtem ko je jen oslabel glede na dolar po komentarjih Warsha v Jackson Holeu, kar povečuje pričakovanja o morebitnem zaostrovanju monetarne politike. Vlagatelji bodo ta teden pozorno spremljali prihajajoče makroekonomske objave in morebitne izjave centralnih bank, ki bi lahko vplivale na pričakovanja glede obrestnih mer.",
   "novice": [
     {
-      "naslov": "Trump napoveduje polnjenje ameriških rezerv z venezuelsko nafto",
+      "naslov": "Nafta Brent nad 90 USD po spopadih med ZDA in Iranom",
       "sektor": "Energetika",
       "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Predsednik Donald Trump je v objavi sporočil, da bodo ZDA kmalu začele s procesom 'dopolnjevanja' svojih strateških naftnih rezerv z uporabo venezuelske nafte. Ta poteza prihaja v času, ko ZDA iščejo načine za stabilizacijo domačih naftnih rezerv in potencialno vplivanje na globalne cene. Odločitev bi lahko pomenila pomemben premik v ameriški energetski in zunanji politiki do Venezuele, ki je bila v preteklosti pod strogimi sankcijami. Natančni pogoji in obseg nakupov niso bili navedeni, vendar bi to lahko imelo širše implikacije za globalni trg nafte.",
-      "analiza": "Ozadje te novice je kompleksno, saj so ZDA v preteklosti uvedle obsežne sankcije proti Venezueli, da bi pritisnile na režim Nicolasa Madura. Morebitno odpravljanje ali omilitev teh sankcij za nakup nafte bi predstavljalo pomemben preobrat v ameriški politiki. Pomen te odločitve je v tem, da bi lahko povečala ponudbo nafte na svetovnih trgih, kar bi teoretično lahko vplivalo na znižanje cen. Danes sta Brent nafta pri 88.10 USD/sod in WTI nafta pri 83.40 USD/sod že zabeležili manjše padce za 0,47 % oziroma 0,16 %. Mehanizem vpliva je neposreden: povečana ponudba iz Venezuele bi lahko zmanjšala pritisk na cene, kar bi bilo pozitivno za potrošnike in industrije, odvisne od nafte. Za delnice energetskih podjetij bi to lahko pomenilo manjše prihodke, medtem ko bi za letalske družbe in transportna podjetja to bil pozitiven dejavnik. Valutni pari, kot je EUR/USD, bi lahko bili posredno prizadeti zaradi sprememb v globalnem trgovinskem toku in inflacijskih pričakovanjih. V preteklosti so podobne odločitve o sproščanju strateških rezerv ali spremembah v dobavnih verigah imele hitre, čeprav pogosto kratkoročne, učinke na cene surovin. Vlagatelji bodo pozorno spremljali podrobnosti dogovora z Venezuelo in dejanski obseg nakupov. Za slovenskega dolgoročnega vlagatelja to pomeni, da je globalna energetska politika še naprej ključen dejavnik, ki vpliva na cene goriv in s tem na stroške poslovanja in življenja, kar se odraža v inflaciji in dobičkonosnosti podjetij.",
+      "povzetek": "Cena nafte Brent je v ponedeljek zjutraj presegla 90 USD za sod, potem ko sta se ZDA in Iran prvič po mesecu dni zapletla v neposredne spopade. Ta eskalacija napetosti je sledila ameriškim napadom na iranske izstrelitvene položaje na otoku Larak v Hormuški ožini, na kar je Iran odgovoril z napadi na Jordanijo in ZAE. Vrednost nafte Brent je poskočila za 3.10 % na 88.79 USD za sod, kar odraža zaskrbljenost trgov glede morebitnih motenj v dobavi nafte iz regije. Dogajanje v Iraku, kjer je izbruhnil požar v rafineriji Al-Dora blizu Bagdada po neidentificiranih eksplozijah, dodatno prispeva k negotovosti na trgu energentov.",
+      "analiza": "Ozadje trenutnega dogajanja so dolgotrajne geopolitične napetosti med ZDA in Iranom, ki so se v zadnjem mesecu zaostrile z neposrednimi vojaškimi akcijami. Hormuška ožina je ključna pomorska pot za svetovno dobavo nafte, saj skozi njo potuje približno petina globalne porabe nafte. Vsaka motnja v tej regiji ima takojšen in pomemben vpliv na cene energentov. Mehanizem vpliva je preprost: povečana geopolitična tveganja v regiji, ki je vitalna za globalno dobavo nafte, sprožijo strah pred zmanjšanjem ponudbe, kar posledično dvigne cene. To se odraža v skoku cene nafte Brent za 3.10 % na 88.79 USD za sod in WTI nafte za 3.57 % na 86.38 USD za sod. Za delniške trge to pomeni pritisk na podjetja, ki so odvisna od nizkih cen energentov, medtem ko lahko energetski sektor zabeleži rast. Višje cene nafte lahko prispevajo k inflacijskim pritiskom, kar bi lahko vplivalo na odločitve centralnih bank glede obrestnih mer. Zgodovinsko gledano so podobni konflikti na Bližnjem vzhodu vedno povzročili skoke cen nafte, kot na primer med iransko-iraško vojno v 80. letih ali med zalivskimi vojnami. Slovenski dolgoročni vlagatelj bi moral upoštevati, da so cene energentov pomemben dejavnik inflacije in gospodarske rasti, kar lahko vpliva na dobičkonosnost podjetij in splošno vrednotenje delnic.",
       "vpliv": [
-        "Povečana globalna ponudba nafte",
-        "Potencialno znižanje cen nafte",
-        "Spremembe v ameriški zunanji politiki",
-        "Vpliv na delnice energetskih podjetij"
+        "Cena nafte Brent +3.10% na 88.79 USD/sod",
+        "Cena WTI nafte +3.57% na 86.38 USD/sod",
+        "Povečani inflacijski pritiski",
+        "Negativni vpliv na podjetja z visokimi stroški energentov"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/30/trump-says-us-will-refill-its-petroleum-reserves-using-venezuelan-oil?traffic_source=rss",
-      "objavljeno": "2026-08-30T15:50:45.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories",
+      "objavljeno": "2026-08-31T08:55:00.000Z"
     },
     {
-      "naslov": "Islandija zavrnila pogovore o vstopu v Evropsko unijo",
-      "sektor": "Geopolitika",
+      "naslov": "Jen in japonske obveznice pod pritiskom po govoru v Jackson Holeu",
+      "sektor": "Makro & Centralne banke",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Islandija je na referendumu zavrnila ponovne pogovore o vstopu v Evropsko unijo, pri čemer je 52,5 odstotka volivcev glasovalo proti predlogu. Referendum je bil sprožen po grožnjah Donalda Trumpa glede aneksije Grenlandije, kar je očitno vplivalo na razpoloženje volivcev. Ta odločitev zaustavlja prizadevanja Islandije za ponovno odprtje pogajanj o članstvu v EU. Rezultat referenduma poudarja prevladujočo željo po ohranitvi suverenosti in neodvisnosti od večjih političnih blokov.",
-      "analiza": "Ozadje te odločitve je dolgotrajna debata na Islandiji o prednostih in slabostih članstva v EU, še posebej glede ribiških kvot in suverenosti nad naravnimi viri. Referendum, ki je bil sprožen po grožnjah Donalda Trumpa glede Grenlandije, je očitno okrepil argumente za ohranitev neodvisnosti. Pomen te novice je v tem, da kaže na nadaljnjo fragmentacijo evropske integracije in odpora proti širitvi EU. To lahko vpliva na stabilnost in enotnost EU v širšem geopolitičnem kontekstu. Za valute, zlasti evro, bi to lahko pomenilo dolgoročno šibkost, če se trend zavračanja integracije nadaljuje, čeprav je neposreden vpliv na EUR/USD, ki je danes padel za 0,62 % na 1.1587, verjetno bolj povezan z drugimi makroekonomskimi dejavniki. Na delnice in obveznice je neposreden vpliv omejen, vendar lahko dolgoročno vpliva na investicijsko klimo v regiji. Podobni referendumi, kot je bil Brexit, so pokazali, kako lahko politične odločitve vplivajo na gospodarsko rast in trgovinske odnose. Vlagatelji bodo spremljali, kako bo ta odločitev vplivala na trgovinske sporazume med Islandijo in EU ter na širšo geopolitično dinamiko v severni Evropi. Za slovenskega dolgoročnega vlagatelja to pomeni opozorilo na politično tveganje v Evropi in pomen stabilnih mednarodnih odnosov za gospodarsko rast.",
+      "intenziteta": 3,
+      "povzetek": "Japonski jen je oslabel preko 160 jenov za dolar, donosi japonskih obveznic pa so se povzpeli na najvišjo raven v treh desetletjih, potem ko so vlagatelji povečali stave na zaostrovanje monetarne politike. To se je zgodilo po govoru Kevina Warsha na simpoziju centralnih bankirjev v Jackson Holeu, ki je nakazal na morebitno nadaljnje zvišanje obrestnih mer. Donosnost 10-letne ameriške državne obveznice je prav tako zrasla za 1.03 % na 4.72 %, kar kaže na širši trend pričakovanj glede višjih obrestnih mer. Trgi so Warshove komentarje interpretirali kot signal, da bi centralne banke, vključno z Banko Japonske, lahko bile prisiljene k bolj agresivnemu zaostrovanju monetarne politike, kar bi vplivalo na globalne finančne tokove.",
+      "analiza": "Govor v Jackson Holeu je tradicionalno pomemben dogodek, kjer centralni bankirji in ekonomisti razpravljajo o monetarni politiki. Komentarji Kevina Warsha, nekdanjega guvernerja Feda, so bili očitno interpretirani kot znak, da so centralne banke pripravljene na nadaljnje zviševanje obrestnih mer za boj proti inflaciji, tudi če to pomeni tveganje za gospodarsko rast. Za Japonsko, ki je dolgo časa vodila izjemno ohlapno monetarno politiko, to pomeni velik premik. Povečana pričakovanja o zaostrovanju politike Banke Japonske so povzročila padec jena in rast donosov obveznic. Šibkejši jen lahko sicer koristi japonskim izvoznikom, vendar hkrati draži uvoz in povečuje inflacijske pritiske. Rast donosov obveznic pomeni višje stroške zadolževanja za državo in podjetja. Na globalni ravni, vključno z ZDA, se pričakovanja o višjih obrestnih merah odražajo v rasti donosov obveznic (10Y US Treasury +1.03% na 4.72%) in pritisku na delniške trge, saj višje obrestne mere zmanjšujejo privlačnost delnic in povečujejo stroške financiranja podjetij. Slovenski dolgoročni vlagatelj mora razumeti, da globalni trendi obrestnih mer in monetarne politike pomembno vplivajo na vrednotenje vseh razredov sredstev, od delnic do obveznic, in lahko vplivajo na mednarodne naložbe.",
       "vpliv": [
-        "Zavračanje evropske integracije",
-        "Potencialni vpliv na trgovinske odnose EU-Islandija",
-        "Geopolitična stabilnost v Evropi",
-        "Dolgoročni vpliv na evro"
+        "Jen oslabel preko ¥160 za USD",
+        "Donosi japonskih obveznic najvišje v 30 letih",
+        "Donos 10-letne ameriške obveznice +1.03% na 4.72%",
+        "Pritisk na delniške trge zaradi višjih obrestnih mer"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-30T14:12:23.000Z"
+      "vir_url": "https://www.ft.com/content/1c4f488f-32bc-4b49-a0c8-c55d95f5422b?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-31T07:32:07.000Z"
     },
     {
-      "naslov": "Ukrajinski bivši obrambni minister napoveduje tehnološki sklad za vojno",
+      "naslov": "Voditelji Kitajske, Indije in Rusije se srečajo na vrhu SCO",
       "sektor": "Geopolitika",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Nekdanji ukrajinski obrambni minister Mykhailo Fedorov si prizadeva za pridobitev zahodnega kapitala za ustanovitev in upravljanje podjetij za razvoj orožja. Fedorov trdi, da bo ta tehnološki sklad pomagal Kijevu pri upiranju Moskvi in pisanju 'nove zgodovine' v vojni proti Rusiji. Pobuda poudarja pomen tehnoloških inovacij v sodobnem vojskovanju in iskanje alternativnih virov financiranja za obrambne zmogljivosti Ukrajine.",
-      "analiza": "Ozadje te novice je nadaljevanje vojne v Ukrajini in nenehno iskanje novih strategij in virov za obrambo pred Rusijo. Ukrajina se zanaša na zahodno pomoč, vendar tudi aktivno išče načine za razvoj lastnih obrambnih zmogljivosti, še posebej na področju visoke tehnologije. Pomen te pobude je v tem, da kaže na dolgoročno zavezanost Ukrajine k tehnološki premoči v konfliktu in potencialno odpiranje novih priložnosti za obrambno industrijo in tehnološka podjetja, ki so pripravljena investirati v to področje. Mehanizem vpliva je dvojen: na eni strani spodbuja inovacije in investicije v obrambno tehnologijo, kar je lahko pozitivno za določene sektorje delnic (obramba, AI, droni). Na drugi strani pa poudarja nadaljevanje in potencialno eskalacijo konflikta, kar je negativno za globalno stabilnost in splošno gospodarsko rast. Na trge surovin, kot je nafta, lahko vpliva posredno preko geopolitičnih tveganj, medtem ko so valute lahko pod pritiskom zaradi negotovosti. Podobni skladi in investicije v obrambno tehnologijo so bili v preteklosti ključni za razvoj vojaških zmogljivosti in imeli so pomemben vpliv na tehnološki napredek. Vlagatelji bodo spremljali, kako uspešno bo Fedorov pridobival zahodni kapital in kakšne bodo dejanske inovacije. Za slovenskega dolgoročnega vlagatelja to pomeni, da geopolitična tveganja ostajajo visoka, kar vpliva na globalno ekonomijo, hkrati pa se odpirajo nišne priložnosti v obrambni in visoko-tehnološki industriji.",
+      "povzetek": "Predsedniki Xi Jinping (Kitajska), Narendra Modi (Indija) in Vladimir Putin (Rusija) se bodo srečali na dvodnevnem vrhu Šanghajske organizacije za sodelovanje (SCO). Cilj vrha je promocija vizije multipolarnega sveta in krepitev medsebojnih trgovinskih vezi, zlasti v luči, kot je navedeno, 'Trumpovega unilateralizma'. Organizacija, čeprav uradno ni protizahodna, služi ruskim in kitajskim voditeljem za poudarjanje njihovega svetovnega nazora. To srečanje poudarja naraščajočo željo po krepitvi sodelovanja med ključnimi azijskimi in evrazijskimi silami.",
+      "analiza": "Šanghajska organizacija za sodelovanje (SCO) je evrazijska politična, ekonomska in varnostna organizacija, ki jo sestavljajo Kitajska, Indija, Rusija, Pakistan in več centralnoazijskih držav. Njen pomen narašča kot protiutež zahodnim zavezništvom. Srečanje voditeljev teh držav je pomembno, saj signalizira nadaljnjo krepitev gospodarskih in političnih vezi med temi državami, kar lahko vpliva na globalne trgovinske tokove in dobavne verige. Poudarek na 'multipolarizaciji' sveta pomeni, da se te države zavzemajo za sistem, kjer moč ni koncentrirana v eni ali dveh velesilah, kar lahko vodi do novih trgovinskih sporazumov in investicijskih priložnosti znotraj bloka, a tudi do večjih geopolitičnih trenj z zahodnimi državami. Za surovinske trge to lahko pomeni preusmeritev povpraševanja in dobave. Na valutnih trgih lahko krepitev trgovinskih vezi znotraj SCO zmanjša odvisnost od ameriškega dolarja. Slovenski dolgoročni vlagatelj bi moral spremljati te geopolitične premike, saj lahko vplivajo na globalno gospodarsko stabilnost, mednarodno trgovino in s tem na naložbene priložnosti v različnih regijah in sektorjih.",
       "vpliv": [
-        "Povečane investicije v obrambno tehnologijo",
-        "Nadaljevanje konflikta v Ukrajini",
-        "Potencialni vpliv na delnice obrambne industrije",
-        "Geopolitična nestabilnost"
+        "Krepitev trgovinskih vezi znotraj SCO",
+        "Potencialna preusmeritev globalnih dobavnih verig",
+        "Dolgorocni vpliv na geopolitično stabilnost",
+        "Zmanjšana odvisnost od USD v mednarodni trgovini"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/c9d10aeb-163e-46a3-b7ca-376ce6be9f8e?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-30T17:57:32.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/8/31/xi-modi-and-putin-set-to-meet-for-sco-summit-whats-on-the-agenda?traffic_source=rss",
+      "objavljeno": "2026-08-31T08:47:03.000Z"
     },
     {
-      "naslov": "Poplave v Nepalu in na Kitajskem povzročile obsežno uničenje",
-      "sektor": "Makro & Centralne banke",
+      "naslov": "Guverner Bailey opozarja G20 na tveganja AI za finančni sistem",
+      "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Več kot 3.000 ljudi pogrešajo po zrušitvi ledenika, ki je sprožil uničujoče poplave v Himalaji, prizadete so bile regije v Nepalu in na Kitajskem. Število smrtnih žrtev se približuje 800, reševalne ekipe pa nadaljujejo z iskanjem preživelih in pogrešanih. Obsežnost uničenja, ki vključuje infrastrukturo in domove, bo zahtevala ogromna sredstva za obnovo in humanitarno pomoč. Prebivalci prizadetih območij v Dhading, Nepal, verjamejo, da je pod debelim blatom pokopanih še več trupel.",
-      "analiza": "Ozadje te tragične novice so podnebne spremembe, ki povzročajo taljenje ledenikov in ekstremne vremenske pojave, kot so nenadne poplave. Himalajska regija je še posebej ranljiva za takšne dogodke. Pomen te novice je v obsežnosti humanitarne katastrofe in potencialnem dolgoročnem gospodarskem vplivu na Nepal in Kitajsko. Uničenje infrastrukture, kmetijskih površin in domov bo zahtevalo obsežne investicije v obnovo, kar lahko vpliva na državne proračune in potrebo po mednarodni pomoči. Mehanizem vpliva na finančne trge je posreden, vendar pomemben: povečana potreba po financiranju obnove lahko vpliva na javne finance držav, kar se lahko odrazi v donosih obveznic. Motnje v lokalnih dobavnih verigah in kmetijski proizvodnji lahko povzročijo inflacijske pritiske na regionalni ravni. Na delnice podjetij, ki poslujejo v teh regijah, bi to lahko imelo negativen vpliv. V preteklosti so naravne katastrofe podobnega obsega pogosto povzročile kratkoročne gospodarske upočasnitve in povečale tveganje za javne finance. Vlagatelji bodo spremljali obseg mednarodne pomoči in hitrost obnove. Za slovenskega dolgoročnega vlagatelja to pomeni, da so podnebna tveganja in njihove posledice globalni dejavnik, ki lahko vpliva na stabilnost določenih regij in posredno na globalne dobavne verige ter inflacijo.",
+      "povzetek": "Andrew Bailey, guverner Banke Anglije in vodja svetovnega nadzornega organa za finančno stabilnost, je na srečanju G20 opozoril na nevarnosti, ki jih umetna inteligenca (AI) predstavlja za finančni sistem. Pozval je države, naj sprejmejo ukrepe za nadzor nad izdajo novih 'frontier' modelov umetne inteligence. Njegovo opozorilo poudarja zaskrbljenost regulatorjev glede hitrega razvoja in integracije AI v finančne storitve, kar bi lahko povzročilo sistemska tveganja, če ne bo ustrezno regulirano.",
+      "analiza": "Umetna inteligenca se hitro širi v finančnem sektorju, kjer se uporablja za algoritmično trgovanje, analizo podatkov, upravljanje tveganj in avtomatizacijo procesov. Čeprav AI prinaša učinkovitost in inovacije, pa s seboj prinaša tudi nova tveganja, kot so kibernetska varnost, pristranskost algoritmov, pomanjkanje preglednosti in možnost sistemskih napak, ki bi se lahko hitro razširile po trgu. Opozorilo Andrewa Baileyja je pomembno, saj prihaja od visokega finančnega regulatorja in poudarja, da se bo regulacija AI v finančnem sektorju verjetno zaostrila. To lahko pomeni povečane stroške skladnosti za finančne institucije in tehnološka podjetja, ki razvijajo AI rešitve. Za delniške trge to lahko pomeni pritisk na podjetja, ki so preveč izpostavljena nereguliranim AI tehnologijam, medtem ko bi podjetja z robustnimi okviri za upravljanje tveganj in skladnostjo lahko imela prednost. Zgodovinsko gledano so hitre tehnološke inovacije pogosto sledile obdobja regulativnega nadzora, kot smo videli pri internetnih podjetjih ali fintech startupih. Slovenski dolgoročni vlagatelj bi moral biti pozoren na regulativno okolje, saj lahko to pomembno vpliva na rast in dobičkonosnost podjetij v sektorju tehnologije in financ.",
       "vpliv": [
-        "Humanitarna katastrofa",
-        "Obsežno uničenje infrastrukture",
-        "Povečani stroški obnove za Nepal in Kitajsko",
-        "Potencialne motnje v regionalnih dobavnih verigah"
+        "Povečana regulacija AI v finančnem sektorju",
+        "Potencialno višji stroški skladnosti za podjetja",
+        "Pritisk na delnice podjetij z nereguliranimi AI rešitvami",
+        "Poudarek na kibernetski varnosti in preglednosti algoritmov"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/gallery/2026/8/30/in-pictures-devastation-from-the-nepal-china-floods?traffic_source=rss",
-      "objavljeno": "2026-08-30T18:34:59.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/ed723a59-a889-40e0-b601-0c1f16c92f65?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-31T06:02:28.000Z"
     },
     {
-      "naslov": "NASA izstrelila teleskop Roman v vrednosti 4,3 milijarde dolarjev",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
+      "naslov": "Svetovalna podjetja pod pritiskom strank, ki zahtevajo prihranke",
+      "sektor": "Finance",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "NASA je izstrelila vesoljski teleskop Roman, projekt v vrednosti 4,3 milijarde dolarjev, z raketo SpaceX Falcon Heavy. Teleskop je namenjen razkrivanju skritih skrivnosti vesolja, vključno z raziskovanjem temne energije in temne snovi. Ta ambiciozna misija predstavlja pomemben korak naprej v astronomiji in vesoljskih raziskavah, poudarja pa tudi nadaljnje investicije v visoko tehnologijo in znanstveni razvoj.",
-      "analiza": "Ozadje te novice je nenehno prizadevanje človeštva za razumevanje vesolja in temeljnih zakonov fizike. Vesoljski teleskop Roman, poimenovan po Nancy Grace Roman, je naslednik Hubblea in Jamesa Webba, zasnovan za širokokotno opazovanje z infrardečimi valovi. Pomen te izstrelitve je v spodbujanju znanstvenega napredka, inovacij v vesoljski tehnologiji in potencialnem odkritju prelomnih spoznanj o vesolju. Takšne investicije so ključne za razvoj visoko-tehnoloških industrij, kot so aeronavtika, optika in obdelava podatkov. Mehanizem vpliva na finančne trge je posreden, vendar dolgoročen: velike vladne investicije v znanost in tehnologijo spodbujajo inovacije, ki se lahko sčasoma prelijejo v komercialne aplikacije. To je pozitivno za delnice podjetij v vesoljski industriji, obrambi in visoki tehnologiji. Na širše trge vpliva preko splošnega optimizma glede tehnološkega napredka in potencialne rasti. V preteklosti so vesoljski programi, kot je Apollo, spodbudili številne tehnološke inovacije, ki so imele širok gospodarski vpliv. Vlagatelji bodo spremljali prve podatke in odkritja teleskopa Roman ter morebitne nove priložnosti, ki se bodo odprle v vesoljski ekonomiji. Za slovenskega dolgoročnega vlagatelja to pomeni, da so investicije v znanost in tehnologijo gonilna sila dolgoročne rasti in inovacij, kar se odraža v uspešnosti tehnoloških podjetij na globalnih trgih.",
+      "povzetek": "Velika svetovalna podjetja, kot so Accenture, Capgemini in 'Velika četverica' (Deloitte, PwC, EY, KPMG), se soočajo z naraščajočim pritiskom svojih strank, ki zahtevajo prihranke. To kaže na preobrat v razmerju moči med svetovalci in njihovimi naročniki, saj podjetja iščejo načine za zmanjšanje stroškov v negotornem gospodarskem okolju. Ta trend bi lahko vplival na prihodke in dobičkonosnost globalnega svetovalnega sektorja, ki je bil v preteklih letih izjemno uspešen.",
+      "analiza": "Svetovalna industrija je tradicionalno cvetela v obdobjih gospodarske rasti, ko so podjetja vlagala v širitev, digitalizacijo in optimizacijo procesov. Vendar pa se v času gospodarske negotovosti in potencialnega upočasnjevanja podjetja osredotočajo na zmanjšanje stroškov, kar pogosto vključuje tudi zmanjšanje izdatkov za zunanje svetovalne storitve. To ustvarja pritisk na marže in prihodke velikih svetovalnih podjetij, kot so Accenture in Capgemini, ki kotirajo na borzi. Mehanizem vpliva je neposreden: zmanjšano povpraševanje po storitvah in pritisk na cene zmanjšujeta prihodke in dobičke svetovalnih podjetij. To lahko vodi do nižjim vrednotenjem delnic v tem sektorju. Za obvezniške trge to neposrednega vpliva nima, posredno pa lahko odraža širše gospodarsko ohlajanje. Zgodovinsko gledano so se svetovalna podjetja v obdobjih recesije ali gospodarske stagnacije soočala z zmanjšanjem poslovanja, kar jih je prisililo k restrukturiranju in iskanju novih virov prihodkov. Slovenski dolgoročni vlagatelj, ki ima izpostavljenost do globalnih storitvenih podjetij, mora biti pozoren na cikličnost te industrije in na sposobnost podjetij, da se prilagodijo spreminjajočim se gospodarskim razmeram.",
       "vpliv": [
-        "Spodbujanje znanstvenega napredka",
-        "Investicije v vesoljsko tehnologijo",
-        "Potencialna odkritja o vesolju",
-        "Rast sektorja visoke tehnologije"
+        "Zmanjšanje prihodkov svetovalnih podjetij",
+        "Pritisk na marže v svetovalni industriji",
+        "Potencialno nižje vrednotenje delnic v sektorju",
+        "Odziv na širše gospodarsko ohlajanje"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/8/30/nasa-launches-4-3bn-roman-telescope-to-uncover-universes-hidden-secrets?traffic_source=rss",
-      "objavljeno": "2026-08-30T17:44:57.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/709d7e2d-0c2f-45bc-b559-e7328372cf9e?syn-25a6b1a6=1",
+      "objavljeno": "2026-08-31T10:01:01.000Z"
+    },
+    {
+      "naslov": "Poslovne skupine pozivajo Swinneyja k opustitvi omejitve cen hrane",
+      "sektor": "Potrošniki",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Več kot 20 poslovnih organizacij je poslalo skupno pismo Johnu Swinneyju, v katerem ga pozivajo, naj opusti načrt za zakonsko omejitev cen nekaterih živil in pijač. Poslovne skupine menijo, da je takšen načrt 'neučinkovit' in bi lahko imel negativne posledice za industrijo in potrošnike. Razprava o omejevanju cen odraža širše pomisleke glede inflacije in življenjskih stroškov, ki obremenjujejo gospodinjstva.",
+      "analiza": "Vladni načrti za omejevanje cen so običajno odgovor na visoko inflacijo in naraščajoče življenjske stroške, s ciljem zaščite potrošnikov. Vendar pa poslovne skupine pogosto opozarjajo, da takšni ukrepi lahko izkrivijo trg, zmanjšajo dobičkonosnost podjetij, vodijo do pomanjkanja določenih izdelkov in dolgoročno celo poslabšajo inflacijo, saj proizvajalci nimajo spodbude za povečanje ponudbe. Mehanizem vpliva je kompleksen: omejitev cen neposredno vpliva na prihodke in marže podjetij v živilski industriji in maloprodaji, kar lahko zmanjša njihovo sposobnost investiranja in inoviranja. Za delniške trge to pomeni pritisk na delnice podjetij v sektorju živil in pijač. Za potrošnike bi lahko kratkoročno pomenilo nižje cene, dolgoročno pa morebitno zmanjšanje izbire ali kakovosti. Podobni poskusi omejevanja cen v preteklosti, na primer v času naftnih kriz ali visokih inflacijskih obdobjih, so pogosto imeli mešane rezultate. Slovenski dolgoročni vlagatelj bi moral biti pozoren na vladne intervencije na trgu, saj lahko te pomembno vplivajo na konkurenčnost in dobičkonosnost podjetij v določeni industriji, še posebej tistih, ki so močno regulirane ali so tarča takšnih ukrepov.",
+      "vpliv": [
+        "Pritisk na dobičkonosnost živilskih podjetij",
+        "Potencialno pomanjkanje določenih izdelkov",
+        "Vpliv na inflacijo in življenjske stroške",
+        "Negativni vpliv na delnice v živilski industriji in maloprodaji"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/c2l80j2rdlxo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-08-31T09:18:21.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-30T18:51:11.328Z",
+    "posodobljenoOb": "2026-08-31T10:50:49.289Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -110,36 +127,36 @@
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 26569.99,
-        "sprememba_pct": 0.77
+        "vrednost": 26343.03,
+        "sprememba_pct": -0.85
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 66405.56,
-        "sprememba_pct": 0.41
+        "vrednost": 66311.93,
+        "sprememba_pct": -0.14
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4529.9,
-        "sprememba_pct": -2.88,
+        "vrednost": 4500.9,
+        "sprememba_pct": -0.64,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 83.4,
-        "sprememba_pct": -0.16,
+        "vrednost": 86.38,
+        "sprememba_pct": 3.57,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 88.1,
-        "sprememba_pct": -0.47,
+        "vrednost": 88.79,
+        "sprememba_pct": 3.1,
         "enota": "USD/sod"
       }
     ],
@@ -147,8 +164,8 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1587,
-        "sprememba_pct": -0.62
+        "vrednost": 1.1601,
+        "sprememba_pct": 0.12
       }
     ],
     "obveznice": [
@@ -164,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 79062.56,
-        "sprememba_pct": 1.06,
+        "vrednost": 78502.68,
+        "sprememba_pct": 1.04,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 14.43,
-      "sprememba_pct": -0.55
+      "vrednost": 15.22,
+      "sprememba_pct": 5.47
     }
   }
 }
