@@ -1,115 +1,98 @@
 {
-  "generiranoOb": "2026-08-31T21:09:19.190Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-09-01T09:24:54.882Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-08-31",
-  "povzetek": "Evropski trgi so danes zaključili v negativnem območju, saj je nemški indeks DAX padel za 1,17 % na 26258 točk. Tudi ameriški trgi kažejo mešano sliko dve uri po odprtju, pri čemer je S&P 500 trenutno pri 7686 točkah z -0,33 % padcem, medtem ko je tehnološki Nasdaq 100 zabeležil rahel porast za 0,08 % na 29457 točk. Glavni premik dneva so bile cene nafte, saj sta WTI nafta in Brent nafta poskočili za 3,54 % na 86,35 USD/sod oziroma za 2,80 % na 88,53 USD/sod, kar je posledica ponovnega vžiga konflikta med ZDA in Iranom. To je povzročilo tudi rast donosov na ameriške 10-letne državne obveznice, ki so se zvišali za 0,81 % na 4,76 %. Med posameznimi delnicami je Tesla pridobivala na vrednosti zaradi pričakovanega lansiranja Cybercaba, medtem ko je Amazon padel po obtožbah FTC o manipulaciji oglaševalskih cen. Vlagatelji bodo ta teden pozorno spremljali nadaljnji razvoj geopolitičnih napetosti in morebitne signale glede monetarne politike centralnih bank, ki močno vplivajo na obvezniške trge.",
+  "datum": "2026-09-01",
+  "povzetek": "Finančni trgi so danes pod vplivom več dejavnikov, ki kažejo na povečano negotovost. Ameriški indeks S&P 500 je zaključil noč pri 7686 z blagim padcem za 0.33 %, medtem ko je tehnološki Nasdaq 100 zabeležil skromno rast za 0.08 % na 29457. Evropski DAX je medtem že včeraj padel za 1.07 % na 25976, azijski Nikkei 225 pa je sledil s padcem za 0.15 % na 66215. Glavna tema ostaja inflacija v Evropi, saj se je v evroobmočju avgusta povzpela na 3.3 %, kar poglablja globalno razprodajo obveznic in dviga donosnosti, vključno z 10-letno ameriško državno obveznico, ki je poskočila na 4.76 %. Geopolitične napetosti med ZDA in Iranom so poganjale cene nafte navzgor, pri čemer je WTI nafta zrasla za 2.48 % na 87.89 USD/sod, Brent pa za 1.98 % na 92.28 USD/sod. Volatilnost trga, merjena z indeksom VIX, je zrasla za 6.17 % na 15.84, kar odraža povečano zaskrbljenost vlagateljev. Vlagatelji bodo ta teden pozorno spremljali prihajajočo odločitev Evropske centralne banke o obrestnih merah.",
   "novice": [
     {
-      "naslov": "Ponoven vžig konflikta med ZDA in Iranom poganja cene nafte nad 90 USD",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Ameriški predsednik Trump je napovedal, da bodo ZDA 'močno udarile' Iran, kar je sledilo izmenjavi ognja med državama, s čimer se je končalo večtedensko relativno zatišje. Ta eskalacija konflikta na Bližnjem vzhodu, ki traja že sedem mesecev, je takoj vplivala na globalne cene nafte. Brent nafta je presegla 90 dolarjev za sod, WTI nafta pa je poskočila za 3,54 % na 86,35 USD/sod, medtem ko je Brent nafta zrasla za 2,80 % na 88,53 USD/sod. Poročila kažejo, da so se hipotekarne obrestne mere zvišale na najvišjo raven od junija 2025, saj so pričakovanja o padcu obrestnih mer spodkopale vojne razmere in rast cen nafte.",
-      "analiza": "Ponoven vžig konflikta med ZDA in Iranom predstavlja pomemben dejavnik tveganja za globalne finančne trge. Bližnji vzhod je ključnega pomena za svetovne energetske dobave, zato vsaka eskalacija napetosti neposredno vpliva na cene nafte. Višje cene nafte, kot je danes zabeležena rast WTI nafte za 3,54 % in Brent nafte za 2,80 %, povečujejo inflacijske pritiske po svetu. To lahko centralne banke, vključno z ameriškim Fedom, prisili k bolj restriktivni monetarni politiki ali odloži morebitno znižanje obrestnih mer. Posledično se zvišujejo donosi na obveznice, kot je danes pri ameriških 10-letnih državnih obveznicah, ki so zrasle za 0,81 % na 4,76 %, kar dviguje stroške zadolževanja za podjetja in potrošnike, vključno s hipotekarnimi obrestnimi merami. Za delniške trge to pomeni pritisk na podjetja z visokimi stroški energije in na splošno zmanjšanje potrošniške moči, medtem ko lahko delnice energetskega sektorja, kot so naftna in plinska podjetja, pridobijo. Zlato, ki običajno velja za varno zatočišče, je danes padlo za 0,70 %, kar kaže na kompleksnost trenutnih tržnih odzivov. Slovenski dolgoročni vlagatelj mora biti pozoren na vpliv višjih cen energentov na inflacijo in s tem na monetarno politiko, kar lahko vpliva na donosnost različnih naložbenih razredov.",
-      "vpliv": [
-        "WTI nafta +3,54 % na 86,35 USD/sod",
-        "Brent nafta +2,80 % na 88,53 USD/sod",
-        "10-letne ameriške obveznice +0,81 % na 4,76 %",
-        "Rast hipotekarnih obrestnih mer",
-        "Povečani inflacijski pritiski"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-31T19:47:00.000Z"
-    },
-    {
-      "naslov": "Delnice Tesle rastejo ob pričakovanju lansiranja vozila Cybercab brez volana",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Delnice Tesle so danes med največjimi pridobiteljicami v indeksu S&P 500, saj se vlagatelji pripravljajo na lansiranje njihovega novega vozila Cybercab. Podjetje se očitno približuje predstavitvi vozila, ki ne bo imelo volana ali pedal. Ta inovacija nakazuje na nadaljnji razvoj Tesle na področju avtonomne vožnje in robotaksijev, kar vzbuja optimizem med vlagatelji glede prihodnjih prihodkov in tržnega deleža podjetja.",
-      "analiza": "Novice o skorajšnjem lansiranju Teslinega Cybercaba, vozila brez volana in pedal, poudarjajo inovativni potencial podjetja in njegov položaj v ospredju tehnološkega razvoja. Takšni premiki lahko bistveno preoblikujejo transportno industrijo in ustvarijo nove tržne priložnosti. Pozitiven odziv delnic Tesle kaže na močno zaupanje vlagateljev v sposobnost podjetja za inovacije in monetizacijo novih tehnologij. Vpliv na širši tehnološki sektor je mešan; medtem ko lahko Tesla s svojimi inovacijami potegne celoten sektor navzgor, lahko hkrati poveča konkurenčni pritisk na tradicionalne avtomobilske proizvajalce in druga podjetja, ki razvijajo avtonomno vožnjo. Za obveznice in valute neposrednega vpliva ni, posredno pa lahko uspešnost velikih tehnoloških podjetij vpliva na splošno gospodarsko rast in s tem na monetarno politiko. Slovenski dolgoročni vlagatelj naj razume, da so takšne inovacije gonilna sila rasti, vendar so povezane tudi z visokimi tveganji, kot so regulativne ovire in intenzivna konkurenca.",
-      "vpliv": [
-        "Rast delnic Tesla",
-        "Povečan optimizem v sektorju avtonomne vožnje",
-        "Potencialna preobrazba transportne industrije"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/teslas-stock-is-leading-s-p-500-gainers-as-investors-prepare-for-a-cybercab-launch-f23a0d52?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-31T21:01:00.000Z"
-    },
-    {
-      "naslov": "Švicarski zakonodajalci pozivajo k blažji bančni regulaciji, zmaga za UBS",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Švicarski zakonodajalci so pozvali k omilitvi bančne regulacije, kar predstavlja zmago za UBS, največjo finančno institucijo v Švici. Posebna komisija predlaga, da bi lahko UBS v celoti kapitalizirala svoje globalne operacije s kombinacijo lastniškega kapitala in dolga. Ta poteza nakazuje na premik v regulativnem okolju po letih zaostrovanja, kar bi lahko švicarskim bankam omogočilo večjo fleksibilnost in konkurenčnost na mednarodnem trgu.",
-      "analiza": "Odločitev švicarskih zakonodajalcev, da pozovejo k blažji bančni regulaciji, je pomemben razvoj za finančni sektor, še posebej za UBS. Po finančni krizi so se regulativni pritiski po svetu močno povečali, kar je banke prisililo k povečanju kapitalskih rezerv in omejevanju tveganj. Predlog, da bi UBS lahko svoje globalne operacije kapitalizirala s kombinacijo lastniškega kapitala in dolga, bi lahko sprostil precejšen kapital, ki bi ga banka lahko uporabila za rast, naložbe ali izplačilo dividend. To je pozitivno za delnice UBS in širši švicarski bančni sektor, saj izboljšuje njihovo konkurenčnost. Vpliv na obveznice se kaže v morebitnem povečanju izdaje dolga, kar bi lahko vplivalo na donose. Na valute, kot je švicarski frank, lahko to vpliva posredno, saj močnejši finančni sektor prispeva k stabilnosti gospodarstva. Slovenski dolgoročni vlagatelj naj razume, da so regulativni cikli del finančnih trgov; omilitev regulacije lahko kratkoročno spodbudi rast, dolgoročno pa lahko poveča sistemska tveganja, če ni uravnotežena.",
-      "vpliv": [
-        "Pozitiven vpliv na delnice UBS",
-        "Morebitno sproščanje kapitala za švicarske banke",
-        "Povečana konkurenčnost švicarskega finančnega sektorja"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/1bdafff4-3e78-4099-be47-755e6b643408?syn-25a6b1a6=1",
-      "objavljeno": "2026-08-31T20:17:11.000Z"
-    },
-    {
-      "naslov": "Donosnost 10-letnih ameriških obveznic presegla ključni prag",
+      "naslov": "Inflacija v evroobmočju avgusta narasla, poglablja se globalna razprodaja obveznic",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Donosnost 10-letnih ameriških državnih obveznic je danes presegla ključni prag, kar bi moralo vzbuditi pozornost vlagateljev. Donosnost se je zvišala za 0,81 % na 4,76 %, kar je najvišja raven v času 'Trump 2.0' administracije. Ta rast je sovpadala z dvigom cen nafte nad 90 dolarjev za sod, kar nakazuje na povečane inflacijske pritiske in pričakovanja glede prihodnje monetarne politike.",
-      "analiza": "Rast donosnosti 10-letnih ameriških državnih obveznic na 4,76 % (+0,81 %) je ključen makroekonomski dogodek, ki ima široke posledice za finančne trge. Donosnost te obveznice služi kot referenčna točka za številne druge obrestne mere, vključno s hipotekarnimi krediti in podjetniškimi obveznicami. Njen dvig je pogosto znak povečanih inflacijskih pričakovanj ali pričakovanj, da bo Federal Reserve zaostrila monetarno politiko. V tem primeru je rast povezana z višjimi cenami nafte, ki so posledica geopolitičnih napetosti. Višji donosi obveznic zmanjšujejo privlačnost delnic, saj se diskontne stopnje za vrednotenje prihodnjih denarnih tokov povečajo, kar lahko povzroči padec delniških vrednotenj. Za podjetja pomeni višje stroške zadolževanja, kar lahko upočasni investicije in rast. Na valutnih trgih lahko višji donosi ameriških obveznic okrepijo dolar, saj postanejo naložbe v ZDA privlačnejše. Slovenski dolgoročni vlagatelj mora razumeti, da je gibanje obvezniških donosov ključni indikator gospodarskih pričakovanj in monetarne politike, ki vpliva na celoten naložbeni portfelj, od delnic do nepremičnin.",
+      "povzetek": "Inflacija v evroobmočju se je avgusta povzpela na 3.3 %, kar je podatek, ki ga je objavil Financial Times. Ta rast je predvsem posledica višjih cen energije, kar povečuje pritisk na Evropsko centralno banko (ECB), da prihodnji teden znova zviša obrestne mere. Hkrati se je poglobila globalna razprodaja obveznic, saj so se stroški zadolževanja Združenega kraljestva povzpeli na najvišjo raven po letu 2008, donosnosti japonskih obveznic pa so dosegle nivoje, ki jih nismo videli od devetdesetih let prejšnjega stoletja. To odraža splošne strahove pred inflacijo in pričakovanja zaostrovanja monetarne politike po svetu. 10-letna ameriška državna obveznica je danes pri 4.76 %, kar je 0.81 % več kot včeraj.",
+      "analiza": "Ozadje trenutnega dogajanja na trgu obveznic je vztrajno visoka inflacija, ki se kljub prizadevanjem centralnih bank po svetu še ni umirila na ciljne ravni. Avgustovska rast inflacije v evroobmočju na 3.3 % potrjuje, da so inflacijski pritiski še vedno močni, zlasti zaradi cen energije. To je relevantno, ker signalizira, da se boj proti inflaciji nadaljuje in da centralne banke, kot je ECB, verjetno ne bodo popustile pri zaostrovanju monetarne politike. Mehanizem vpliva je direkten: višja inflacija pomeni manjšo realno donosnost obveznic, zato vlagatelji zahtevajo višje donosnosti, kar povzroči padec cen obveznic. Posledice so vidne v globalni razprodaji obveznic, kjer so se donosnosti 10-letne ameriške državne obveznice povzpele na 4.76 %, kar je 0.81 % več, in donosnosti v Združenem kraljestvu ter na Japonskem dosegle večletne vrhunce. To vpliva na delnice, saj višje obrestne mere povečujejo stroške zadolževanja podjetij in zmanjšujejo privlačnost delnic v primerjavi z obveznicami. Valute, kot je evro, so pod pritiskom, saj negotovost in pričakovani dvigi obrestnih mer vplivajo na njihovo vrednost (EUR/USD je danes pri 1.1600, kar je -0.20 %). Za slovenskega dolgoročnega vlagatelja to pomeni višje stroške zadolževanja, morebitno ohlajanje gospodarstva in potrebo po previdnosti pri naložbah v obveznice ter preudarnosti pri izbiri delnic podjetij, ki so odporna na višje obrestne mere.",
       "vpliv": [
-        "Donosnost 10-letnih ameriških obveznic 4,76 % (+0,81 %)",
-        "Padec cen obveznic",
-        "Višji stroški zadolževanja za podjetja in potrošnike",
-        "Pritisk na delniške vrednotenja"
+        "Inflacija v evroobmočju na 3.3 %",
+        "10-letna US Treasury donosnost na 4.76 % (+0.81 %)",
+        "Padec cen obveznic globalno",
+        "Pričakovanje dviga obrestnih mer ECB",
+        "EUR/USD padec za 0.20 %"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-10-year-treasury-yield-just-crossed-a-key-threshold-that-should-make-people-sit-up-and-take-notice-ffc0b5b5?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-31T20:26:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/1b4d308c-3d49-4794-8280-187615c21876?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-01T09:01:27.000Z"
     },
     {
-      "naslov": "Delnice Amazona padajo, saj FTC obtožuje milijarde skritih oglaševalskih provizij",
+      "naslov": "Donosnosti obveznic po svetu naraščajo ob padcu ameriških obveznic",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Donosnosti obveznic po vsem svetu, od Združenega kraljestva do Japonske, so v porastu, saj so ameriške obveznice doživele padec. Ta pojav potrjuje star pregovor, da se preostali svet prehladi, ko ZDA zbolijo, kar še posebej velja za trg obveznic. 10-letna ameriška državna obveznica je danes pri 4.76 %, kar je 0.81 % več kot včeraj. To kaže na globalno povezanost finančnih trgih in hiter prenos trendov iz ZDA na ostale države.",
+      "analiza": "Ozadje te novice je globalna povezanost finančnih trgov, kjer so ZDA pogosto gonilna sila. Padec cen ameriških obveznic in posledično rast njihovih donosnosti se običajno hitro prelije na druge trge obveznic po svetu. To je relevantno, ker višje donosnosti obveznic pomenijo višje stroške zadolževanja za države in podjetja globalno, kar lahko upočasni gospodarsko rast. Mehanizem vpliva je preko arbitraže in pričakovanj: če so ameriške obveznice bolj donosne, vlagatelji prodajajo obveznice drugih držav, da bi kupili ameriške, kar znižuje cene in dviguje donosnosti tudi drugod. Posledice so vidne v rasti donosnosti obveznic v Združenem kraljestvu in na Japonskem, kar je neposreden odraz padca ameriških obveznic. To vpliva na delnice, saj višje donosnosti obveznic predstavljajo privlačnejšo alternativo delnicam, kar lahko povzroči odliv kapitala iz delniških trgov. Valute so prav tako pod vplivom, saj višje donosnosti v določeni državi lahko okrepijo njeno valuto. Za slovenskega dolgoročnega vlagatelja to pomeni, da so globalni trendi na trgu obveznic pomembni tudi za slovenske naložbe, saj se višji stroški zadolževanja lahko odrazijo tudi v Sloveniji in evroobmočju, kar vpliva na podjetja in potrošnike.",
+      "vpliv": [
+        "10-letna US Treasury donosnost na 4.76 % (+0.81 %)",
+        "Rast donosnosti obveznic v Združenem kraljestvu in na Japonskem",
+        "Višji stroški zadolževanja globalno",
+        "Potencialni odliv kapitala iz delniških trgov"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/from-the-u-k-to-japan-bond-yields-are-jumping-as-u-s-bonds-tumble-d8b71075?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-01T09:20:00.000Z"
+    },
+    {
+      "naslov": "Delnice Sheina padle po težko pričakovanem borznem prvencu",
       "sektor": "Potrošniki",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Delnice Amazona so danes padle, potem ko je Zvezna trgovinska komisija (FTC) obtožila podjetje milijard dolarjev skritih oglaševalskih provizij. Regulatorji trdijo, da je Amazon umetno dvignil minimalne cene v obdobjih največje nakupovalne aktivnosti in dodal doplačila k oglaševalskim stroškom trgovcev. FTC navaja, da je Amazon manipuliral oglaševalske cene za približno 1,2 milijona podjetij, kar je posledično vodilo do višjih cen za potrošnike.",
-      "analiza": "Tožba FTC proti Amazonu zaradi manipulacije oglaševalskih cen in skritih provizij poudarja naraščajoč regulativni nadzor nad velikimi tehnološkimi podjetji. Obtožbe, da je Amazon umetno dvigoval cene in dodajal doplačila, kažejo na morebitne nepoštene poslovne prakse, ki lahko škodijo tako trgovcem kot potrošnikom. Padec delnic Amazona odraža zaskrbljenost vlagateljev glede morebitnih kazni, stroškov pravdanja in vpliva na ugled podjetja. Takšni primeri lahko sprožijo širše preiskave v sektorju e-trgovine in digitalnega oglaševanja, kar bi lahko vplivalo tudi na druga podjetja. Za potrošnike to pomeni morebitno znižanje cen v prihodnosti, če bodo regulativni ukrepi uspešni. Na obveznice in valute tožba nima neposrednega vpliva, posredno pa lahko vpliva na zaupanje v tehnološki sektor. Slovenski dolgoročni vlagatelj naj bo pozoren na regulativna tveganja, ki so vse bolj prisotna pri velikih tehnoloških podjetjih in lahko pomembno vplivajo na njihovo dolgoročno donosnost, ne glede na njihovo tržno moč.",
+      "povzetek": "Delnice hitro rastočega modnega giganta Shein so po dolgih letih pričakovanja in javnih kritik ob svojem borznem prvencu padle za do 10 %. Padec delnic je sledil štirim letom javnega neodobravanja zaradi pomislekov glede delovnih pogojev in etičnih vprašanj. Ta dogodek poudarja izzive, s katerimi se soočajo podjetja, ki vstopajo na borzo, še posebej tista z zgodovino kontroverznosti.",
+      "analiza": "Ozadje borznega prvenca Sheina je dolga zgodba o hitri rasti v sektorju hitre mode, ki pa je bila ves čas prepletena z obtožbami o neetičnih delovnih praksah in okoljskih pomislekih. To je relevantno, ker kaže na naraščajoč pomen ESG (okoljski, socialni in upravljavski) dejavnikov za vlagatelje, ki so vse bolj občutljivi na ugled podjetij. Mehanizem vpliva je direkten: negativna percepcija in etični pomisleki lahko odvrnejo vlagatelje, kar se odrazi v slabem borznem prvencu in padcu delnic. Posledice so vidne v padcu delnic Sheina za do 10 % po vstopu na borzo. To vpliva na delnice v sektorju potrošniškega blaga in tehnologije, saj opozarja na tveganja, povezana z etičnimi vprašanji in ugledom blagovne znamke. Za širši trg to pomeni, da je vlagateljem poleg finančnih kazalnikov pomembna tudi družbena odgovornost podjetij. Za slovenskega dolgoročnega vlagatelja to poudarja pomen temeljite analize podjetij pred naložbo, vključno z njihovimi ESG profili, saj lahko etični škandali pomembno vplivajo na vrednost delnic.",
       "vpliv": [
-        "Padec delnic Amazon",
-        "Morebitne kazni za Amazon",
-        "Povečan regulativni nadzor nad e-trgovino",
-        "Vpliv na oglaševalske prihodke Amazona"
+        "Padec delnic Sheina za do 10 %",
+        "Povečan pomen ESG dejavnikov za vlagatelje",
+        "Opozorilo za podjetja z etičnimi pomisleki"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-31T20:21:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/shein-shares-fall-up-to-10-after-long-awaited-trading-debut-edecb6ee?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-01T08:41:00.000Z"
     },
     {
-      "naslov": "Vprašanje, ali bi morali vlagatelji v obveznice skrbeti ob Warshu na čelu Feda",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
+      "naslov": "Luksemburg umika odobritev za izdajo izraelskih obveznic",
+      "sektor": "Finance & Geopolitika",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Članek se sprašuje, ali bi morali vlagatelji v obveznice skrbeti, če bo Kevin Warsh vodil Federal Reserve. Običajno stabilen naložbeni instrument, ameriški državni dolg, zdaj povzroča nekaj zaskrbljenosti. Razprava o potencialnem vodstvu Feda in njegovih posledicah za monetarno politiko je ključnega pomena za prihodnjo smer obrestnih mer in splošno stabilnost finančnih trgov.",
-      "analiza": "Vprašanje, kdo bo vodil Federal Reserve, je izjemno pomembno za globalne finančne trge, saj ima predsednik Feda velik vpliv na monetarno politiko ZDA. Kevin Warsh je znan po svojih stališčih, ki bi lahko nakazovala na bolj 'jastrebjo' (hawkish) monetarno politiko, kar bi pomenilo višje obrestne mere in bolj restriktivne pogoje. Takšna pričakovanja lahko povzročijo negotovost na obvezniških trgih, saj bi višje obrestne mere zmanjšale vrednost obstoječih obveznic. To je še posebej relevantno v luči današnje rasti donosov na 10-letne ameriške obveznice na 4,76 %. Za delniške trge bi 'jastrebji' Fed pomenil višje stroške zadolževanja za podjetja in potencialno nižje vrednotenje delnic. Na valutnih trgih bi močnejša monetarna politika Feda lahko okrepila ameriški dolar. Vpliv na surovine in kriptovalute je posreden, saj so odvisni od splošnega gospodarskega sentimenta in likvidnosti. Slovenski dolgoročni vlagatelj naj razume, da je vodstvo centralne banke ključni dejavnik, ki določa makroekonomsko okolje in s tem vpliva na donosnost vseh naložbenih razredov. Spremembe v vodstvu Feda lahko prinesejo obdobja povečane volatilnosti in potrebujejo pozorno spremljanje.",
+      "povzetek": "Luksemburg je umaknil odobritev za izdajo izraelskih obveznic, kar pomeni, da prihodnje zadolževanje Izraela na trgih Evropske unije ostaja negotovo. Luksemburg je namreč pustil, da prospekt za obveznice poteče, kar je poteza, ki ima pomembne finančne in politične posledice. Ta odločitev se dogaja v času, ko se geopolitične napetosti v regiji stopnjujejo.",
+      "analiza": "Ozadje te odločitve je kompleksna mešanica geopolitičnih napetosti na Bližnjem vzhodu in političnih odločitev v Evropski uniji. Luksemburg, kot pomembno finančno središče, je s to potezo poslal jasno sporočilo. To je relevantno, ker lahko takšne odločitve vplivajo na sposobnost držav, da se zadolžujejo na mednarodnih trgih, in na njihove stroške zadolževanja. Mehanizem vpliva je direkten: umik odobritve prospekta pomeni, da Izrael ne more izdati obveznic v Luksemburgu, kar omejuje njegove možnosti financiranja in lahko poveča stroške zadolževanja drugod, če vlagatelji zaznajo večje tveganje. Posledice so negotovost glede prihodnjega zadolževanja Izraela na trgih EU. To vpliva na obveznice, saj se lahko poveča tveganje za izraelske državne obveznice, kar bi lahko povzročilo padec njihovih cen in rast donosnosti. Na valute lahko vpliva posredno, če se poveča splošna nestabilnost v regiji. Za slovenskega dolgoročnega vlagatelja to poudarja, kako geopolitični dogodki in politične odločitve lahko neposredno vplivajo na trge obveznic in dostopnost financiranja za države, kar je pomemben dejavnik pri ocenjevanju tveganja naložb v državne obveznice.",
       "vpliv": [
-        "Povečana negotovost na obvezniških trgih",
-        "Morebitne spremembe v monetarni politiki Feda",
-        "Vpliv na dolgoročne obrestne mere",
-        "Potencialna rast vrednosti ameriškega dolarja"
+        "Negotovost glede zadolževanja Izraela v EU",
+        "Potencialno višji stroški zadolževanja za Izrael",
+        "Povečano geopolitično tveganje"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/should-bond-investors-worry-with-warsh-running-the-fed-0a99c5ac?mod=mw_rss_topstories",
-      "objavljeno": "2026-08-31T20:55:00.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/9/1/luxembourg-drops-approval-for-israel-bonds-issue-what-that-means?traffic_source=rss",
+      "objavljeno": "2026-09-01T08:08:49.000Z"
+    },
+    {
+      "naslov": "Ruski napadi z droni in raketami terjali žrtve v Kijevu",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Ruski napadi z droni in raketami so v Kijevu v Ukrajini terjali najmanj 12 življenj, kar kaže na stopnjevanje ruskih napadov. Ti napadi se dogajajo v času, ko se obrambni ministri EU srečujejo na Irskem, da bi razpravljali o pomanjkanju ukrajinske zračne obrambe. Dogodek poudarja nadaljevanje in intenziviranje konflikta v vzhodni Evropi.",
+      "analiza": "Ozadje te novice je nadaljevanje in stopnjevanje vojne v Ukrajini, ki traja že dlje časa. Ruski napadi na civilne cilje in infrastrukturo so del širše strategije. To je relevantno, ker vsaka eskalacija konflikta vpliva na globalno geopolitično stabilnost, cene surovin in splošno razpoloženje vlagateljev. Mehanizem vpliva je predvsem preko povečanja tveganja in negotovosti. Povečana intenzivnost spopadov lahko vpliva na cene energije in hrane, saj sta Ukrajina in Rusija pomembni izvoznici. Posledice so vidne v splošni povečani volatilnosti trga (VIX je zrasel za 6.17 % na 15.84) in morebitnem odlivu kapitala iz tveganih naložb. To vpliva na delnice, saj se vlagatelji umikajo iz bolj tveganih sektorjev, in na surovine, kjer lahko pride do nihanj cen, zlasti pri nafti in plinu. Valute, kot je evro, so lahko pod pritiskom zaradi bližine konflikta. Za slovenskega dolgoročnega vlagatelja to pomeni, da geopolitična tveganja v Evropi ostajajo pomemben dejavnik, ki lahko vpliva na stabilnost trgov in gospodarsko rast. Pri naložbah je potrebna previdnost in razmislek o diverzifikaciji.",
+      "vpliv": [
+        "Povečana geopolitična negotovost",
+        "Potencialna nihanja cen energije in hrane",
+        "Povečana volatilnost trga (VIX na 15.84, +6.17 %)",
+        "Odliv kapitala iz tveganih naložb"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss",
+      "objavljeno": "2026-09-01T08:57:48.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-08-31T21:08:25.862Z",
+    "posodobljenoOb": "2026-09-01T09:23:59.688Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -126,36 +109,36 @@
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 26258.11,
-        "sprememba_pct": -1.17
+        "vrednost": 25976.35,
+        "sprememba_pct": -1.07
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 66311.93,
-        "sprememba_pct": -0.14
+        "vrednost": 66215.34,
+        "sprememba_pct": -0.15
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4498.2,
-        "sprememba_pct": -0.7,
+        "vrednost": 4423.1,
+        "sprememba_pct": -1.3,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 86.35,
-        "sprememba_pct": 3.54,
+        "vrednost": 87.89,
+        "sprememba_pct": 2.48,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 88.53,
-        "sprememba_pct": 2.8,
+        "vrednost": 92.28,
+        "sprememba_pct": 1.98,
         "enota": "USD/sod"
       }
     ],
@@ -163,8 +146,8 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.162,
-        "sprememba_pct": 0.28
+        "vrednost": 1.16,
+        "sprememba_pct": -0.2
       }
     ],
     "obveznice": [
@@ -180,16 +163,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 78809.59,
-        "sprememba_pct": 1.43,
+        "vrednost": 77939.43,
+        "sprememba_pct": -0.79,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 14.92,
-      "sprememba_pct": 3.4
+      "vrednost": 15.84,
+      "sprememba_pct": 6.17
     }
   }
 }
