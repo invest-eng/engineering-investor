@@ -1,94 +1,145 @@
 {
-  "generiranoOb": "2026-09-02T18:53:54.150Z",
+  "generiranoOb": "2026-09-02T19:01:53.627Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-09-02",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, pri čemer je nemški DAX padel za 0,50 % na 25.839 točk. Medtem so ameriški trgi, ki so odprti že dve uri, pokazali zmerno rast; S&P 500 je pri 7664 točkah z rastjo 0,42 %, Nasdaq 100 pa je pridobil 0,04 % in dosegel 29089 točk. Vlagatelji pozorno spremljajo morebitno zvišanje obrestnih mer s strani ameriške centralne banke, kar je bila danes ena izmed ključnih tem. Cene nafte so se zvišale, WTI nafta je pri 90,70 USD/sod (+0,53 %), Brent pa pri 95,27 USD/sod (+0,66 %), deloma zaradi napovedi o širitvi poslovanja Chevron v Venezueli. Evro je v primerjavi z dolarjem rahlo oslabel, saj je tečaj EUR/USD znašal 1,1590 (-0,03 %). Medtem je podjetje Uber napovedalo obsežno odpuščanje 3.300 zaposlenih, kar predstavlja največje zmanjšanje delovne sile po pandemiji. Ključni ekonomski dogodek tega tedna, ki ga vlagatelji morajo imeti na radarju, je prihajajoče poročilo o zaposlovanju v ZDA in podatki o inflaciji, ki bi lahko vplivali na odločitve Feda glede obrestnih mer.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, saj je nemški indeks DAX padel za 0.50 % na 25839. Medtem so ameriški trgi začeli dan pozitivno, z indeksom S&P 500 pri 7664, kar predstavlja rast za 0.43 %, in Nasdaqom 100, ki je zrasel za 0.08 % na 29100. Azijski Nikkei 225 je pred tem zabeležil precejšen padec za 2.85 % na 64326. Surovine so bile v porastu, saj je cena Brent nafte zrasla za 0.71 % na 95.32 USD/sod, zlato pa za 0.55 % na 4420.70 USD/oz. Glavne novice vključujejo dogovor, po katerem naj bi ZDA prevzele nadzor nad petino venezuelskih naftnih rezerv, kar je že spodbudilo širitev poslovanja s strani Chevron. Na Wall Streetu vlada živčnost glede morebitnega dviga obrestnih mer s strani Feda, medtem ko je Uber napovedal odpuščanje 3.300 zaposlenih. Geopolitične skrbi so se odrazile v odločitvi nizozemske centralne banke za premik zlatih rezerv iz New Yorka. Volatilnost trga, merjena z indeksom VIX, je padla za 6.73 % na 15.24. Vlagatelji bodo ta teden pozorno spremljali prihajajoče poročilo o zaposlovanju v ZDA, ki bo ključno za smer monetarne politike Feda.",
   "novice": [
     {
-      "naslov": "Wall Street zaskrbljen zaradi morebitnega dviga obrestnih mer Feda po izjavah uradnika",
+      "naslov": "ZDA prevzemajo nadzor nad petino venezuelskih naftnih rezerv",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Združene države Amerike so s podpisom sporazuma pridobile nadzor nad petino venezuelskih naftnih rezerv. Ta poteza je bila objavljena po slovesnosti podpisa, kar kaže na pomemben premik v geopolitičnih in energetskih odnosih med državama. Dogovor potencialno omogoča ZDA večji vpliv na globalne trge nafte in zagotavlja stabilnejšo dobavo za ameriške interese. Venezuela, ki ima ene največjih dokazanih naftnih rezerv na svetu, je bila v preteklosti podvržena sankcijam, kar je vplivalo na njeno sposobnost izvoza. Ta sporazum bi lahko pomenil delno normalizacijo odnosov in odprtje venezuelske nafte za ameriške družbe.",
+      "analiza": "Ozadje tega dogovora je dolgoletna politična in gospodarska nestabilnost v Venezueli ter prizadevanja ZDA za diverzifikacijo virov nafte in zmanjšanje odvisnosti od drugih regij. Vpliv na finančne trge je večplasten. Za surovinske trge, zlasti nafto, to pomeni potencialno povečanje ponudbe, kar bi lahko dolgoročno stabiliziralo cene, čeprav so danes cene nafte WTI in Brent zrasle za 0.54 % na 90.71 USD/sod oziroma za 0.71 % na 95.32 USD/sod. Kratkoročno pa lahko takšni dogovori povzročijo negotovost glede izvedbe in dejanskega obsega proizvodnje. Za delnice energetskih podjetij, ki so vključena v venezuelske operacije, kot je Chevron, ki že širi svoje poslovanje, je to pozitivno. Na valutne trge bi lahko vplivalo na krepitev USD zaradi večje energetske neodvisnosti ZDA. Slovenski dolgoročni vlagatelj naj bo pozoren na stabilnost globalnih cen nafte, saj ta vpliva na stroške transporta in proizvodnje, kar se odraža v inflaciji in dobičkonosnosti podjetij.",
+      "vpliv": [
+        "Potencialno povečanje globalne ponudbe nafte",
+        "Stabilizacija cen nafte na dolgi rok",
+        "Pozitivno za delnice ameriških energetskih podjetij",
+        "Krepitev geopolitičnega vpliva ZDA"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/signing-ceremony-as-us-to-control-a-fifth-of-venezuelas-oil-reserves?traffic_source=rss",
+      "objavljeno": "2026-09-02T18:51:07.000Z"
+    },
+    {
+      "naslov": "Wall Street zaskrbljen zaradi morebitnega dviga obrestnih mer Feda",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Vlagatelji na Wall Streetu so zaskrbljeni zaradi možnosti dviga obrestnih mer s strani ameriške centralne banke (Fed), kar se zdi bolj verjetno po nedavnih izjavah visokega uradnika. Predsednik Feda, Kevin Warsh, naj bi bil pripravljen na zvišanje obrestnih mer, kar je sprožilo previdnost na trgih. Pozornost je usmerjena v prihajajoče poročilo o zaposlovanju in podatke o inflaciji, ki bodo ključni za nadaljnje odločitve Feda. Donosnost 10-letnih ameriških državnih obveznic je danes znašala 4,79 %, kar je padec za 0,08 %, kar kaže na povpraševanje po varnih naložbah. Indeks volatilnosti VIX je padel za 6,67 % na 15,25, kar bi lahko nakazovalo na zmanjšanje kratkoročne negotovosti kljub dolgoročnim pomislekom.",
-      "analiza": "Ozadje te novice je stalna borba Feda proti inflaciji, ki je v preteklih obdobjih zahtevala agresivno zviševanje obrestnih mer. Zdaj, ko se inflacija umirja, se postavlja vprašanje, ali bo Fed nadaljeval s politiko zaostrovanja ali bo prešel na bolj nevtralno držo. Izjave uradnikov Feda so vedno ključne, saj signalizirajo smer prihodnje monetarne politike. Mehanizem vpliva je direkten: višje obrestne mere pomenijo dražje zadolževanje za podjetja in potrošnike, kar lahko upočasni gospodarsko rast. Za delnice to običajno pomeni pritisk navzdol, saj se zmanjšujejo prihodnji dobički in se povečujejo stroški financiranja. Za obveznice višje obrestne mere pomenijo padec cen obstoječih obveznic, vendar višje donosnosti za nove izdaje. Donosnost 10-letnih ameriških obveznic je danes sicer padla za 0,08 % na 4,79 %, kar je lahko kratkoročna reakcija na negotovost ali pa odraz pričakovanj o morebitnem umiku Feda od agresivnega zviševanja. Valute so prav tako pod vplivom, saj višje obrestne mere v ZDA običajno krepijo dolar, kar se danes kaže v rahlem padcu EUR/USD na 1,1590 (-0,03 %). Surovine so lahko prizadete zaradi upočasnjene gospodarske rasti, vendar so danes cene nafte rasle. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati makroekonomske podatke in izjave centralnih bank, saj imajo neposreden vpliv na globalne trge in s tem tudi na vrednost naložb, še posebej tistih, denominiranih v dolarjih ali občutljivih na obrestne mere.",
+      "povzetek": "Wall Street je danes izkazal živčnost zaradi naraščajoče verjetnosti dviga obrestnih mer s strani ameriške centralne banke (Fed). Ta zaskrbljenost je sledila izjavam visokega uradnika Feda, ki so nakazale odprtost za takšno potezo. Vlagatelji zdaj pozorno spremljajo prihajajoče poročilo o zaposlovanju in podatke o inflaciji, ki bodo ključni za odločitve Feda. Predsednik Feda, Kevin Warsh, naj bi bil pripravljen na dvig obrestnih mer, če bodo ekonomski podatki to upravičili. Višje obrestne mere bi lahko upočasnile gospodarsko rast in vplivale na dobičkonosnost podjetij.",
+      "analiza": "Ozadje te novice je stalno prizadevanje Feda za obvladovanje inflacije, ki ostaja povišana, in hkrati podpiranje stabilne gospodarske rasti. V zadnjem obdobju so se pojavljali znaki, da bi Fed lahko ponovno zaostril monetarno politiko, če se inflacijski pritiski ne umirijo. Dvigi obrestnih mer običajno negativno vplivajo na delniške trge, saj povečajo stroške zadolževanja za podjetja in zmanjšajo privlačnost naložb v delnice v primerjavi z obveznicami. Današnji S&P 500 je sicer zrasel za 0.43 % na 7664, vendar je ta rast lahko kratkoročna. Za obvezniške trge bi dvig obrestnih mer pomenil padec cen obstoječih obveznic in rast donosnosti, čeprav je donosnost 10-letne ameriške državne obveznice danes ostala stabilna pri 4.80 %. Na valutnih trgih bi višje obrestne mere v ZDA okrepile dolar, kar se že kaže v rahlem padcu EUR/USD na 1.1589. Slovenski dolgoročni vlagatelj naj bo pozoren na politiko centralnih bank, saj ta določa splošne pogoje financiranja in vpliva na vrednotenje vseh naložb.",
       "vpliv": [
-        "S&P 500 +0,42 % kljub zaskrbljenosti",
-        "Nasdaq 100 +0,04 %",
-        "10Y US Treasury donosnost 4,79 % (-0,08 %)",
-        "EUR/USD 1,1590 (-0,03 %)"
+        "Potencialni padec delniških trgov",
+        "Rast donosnosti obveznic",
+        "Krepitev ameriškega dolarja",
+        "Povečani stroški zadolževanja za podjetja"
       ],
       "vir": "MarketWatch",
       "vir_url": "https://www.marketwatch.com/story/feds-williams-is-opening-options-to-interest-rate-hikes-why-that-could-be-a-bad-trade-4ba6b32f?mod=mw_rss_topstories",
       "objavljeno": "2026-09-02T17:44:00.000Z"
     },
     {
-      "naslov": "Nizozemska centralna banka seli zlate palice iz New Yorka zaradi geopolitičnih nemirov",
-      "sektor": "Finance",
+      "naslov": "Uber odpušča 3.300 zaposlenih v največjem valu po pandemiji",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Podjetje Uber je napovedalo odpuščanje 3.300 zaposlenih, kar predstavlja največje zmanjšanje delovne sile po pandemiji. Izvršni direktor Dara Khosrowshahi je dejal, da je cilj odpuščanj poenostavitev upravljavskih struktur in optimizacija ekip. To prestrukturiranje naj bi podjetju omogočilo bolj vitko in hitrejše delovanje v konkurenčnem okolju. Odpuščanja so del širšega globalnega prestrukturiranja, ki ga Uber izvaja, da bi se prilagodil novim tržnim razmeram in povečani konkurenci v sektorju dostave hrane ter razvoju robotaksijev.",
+      "analiza": "To odpuščanje se dogaja v času, ko se tehnološki sektor sooča z izzivi, kot so višje obrestne mere, upočasnjena rast in povečana konkurenca. Čeprav Uber navaja poenostavitev poslovanja, tako obsežna odpuščanja pogosto kažejo na pritisk na dobičkonosnost in potrebo po zmanjšanju stroškov. Za delniške trge, zlasti tehnološki sektor, je to mešan signal: kratkoročno lahko povzroči padec vrednosti delnic podjetja zaradi negotovosti, dolgoročno pa lahko izboljša operativno učinkovitost in dobičkonosnost. Vpliv na širši trg dela je pomemben, saj tako veliko število odpuščanj lahko vpliva na potrošniško zaupanje. Nasdaq 100 je danes sicer zrasel za 0.08 % na 29100, vendar so takšne novice lahko zaviralni dejavnik. Slovenski dolgoročni vlagatelj naj bo pozoren na trende v tehnološkem sektorju in na to, kako podjetja reagirajo na spreminjajoče se gospodarske pogoje, saj to vpliva na dolgoročno rast in stabilnost portfelja.",
+      "vpliv": [
+        "Kratkoročni pritisk na delnice Uberja",
+        "Signal o izzivih v tehnološkem sektorju",
+        "Vpliv na potrošniško zaupanje",
+        "Potencialno izboljšanje dolgoročne operativne učinkovitosti Uberja"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/9/2/uber-lays-off-3300-employees-in-largest-cuts-since-the-pandemic?traffic_source=rss",
+      "objavljeno": "2026-09-02T16:55:52.000Z"
+    },
+    {
+      "naslov": "Nizozemska centralna banka premika zlate rezerve iz New Yorka",
+      "sektor": "Geopolitika",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Nizozemska centralna banka (DNB) je sporočila, da seli zlate palice iz New Yorka v London, pri čemer kot razlog navaja 'geopolitične nemire'. DNB preferira London pred ameriškim mestom, saj poudarja boljšo 'trgovalnost' zlata v britanski prestolnici. Ta poteza je del širšega trenda, kjer nekatere centralne banke pregledujejo lokacijo svojih zlatih rezerv. Cena zlata je danes znašala 4420,30 USD za unčo, kar predstavlja rast za 0,54 %.",
-      "analiza": "Ozadje te odločitve je povečana geopolitična negotovost po svetu, ki spodbuja centralne banke k diverzifikaciji in zagotavljanju varnosti svojih rezerv. Zlato tradicionalno velja za varno zatočišče v časih krize, zato je upravljanje z njim ključnega pomena. Premik zlata iz ZDA v London, ki je pomembno globalno središče za trgovanje z zlatom, lahko nakazuje na željo po večji likvidnosti in dostopnosti rezerv v primeru potrebe. Mehanizem vpliva na finančne trge je večplasten. Na ceno zlata tovrstne novice običajno vplivajo pozitivno, saj poudarjajo njegovo vlogo kot varnega sredstva, kar se je danes odrazilo v rasti cene zlata za 0,54 % na 4420,30 USD/oz. Na valute je vpliv posreden, saj lahko takšne poteze vplivajo na zaupanje v določene finančne centre. Za obveznice in delnice je neposreden vpliv minimalen, razen če bi šlo za obsežnejši umik kapitala, ki bi destabiliziral finančne trge. Zgodovinsko gledano so se premiki zlatih rezerv dogajali v obdobjih političnih in gospodarskih sprememb, kar odraža strateške odločitve držav. Za slovenskega dolgoročnega vlagatelja to pomeni, da je zlato še vedno pomemben del diverzificiranega portfelja, saj služi kot zaščita pred inflacijo in geopolitičnimi tveganji. Spremljanje dejanj centralnih bank glede njihovih rezerv lahko ponudi vpogled v širše makroekonomske in geopolitične trende.",
+      "povzetek": "Nizozemska centralna banka (DNB) je sporočila, da premika svoje zlate palice iz New Yorka, pri čemer kot razlog navaja \"geopolitične nemire\". DNB daje prednost Londonu pred ameriškim mestom, saj poudarja boljšo \"trgovalnost\" zlata v britanski prestolnici. Ta poteza sledi trendu nekaterih centralnih bank, ki repatriirajo svoje zlate rezerve ali jih premikajo v bolj \"nevtralne\" lokacije. Odločitev odraža naraščajočo zaskrbljenost glede globalne stabilnosti in zaupanja v tradicionalne finančne centre. Premik lahko nakazuje tudi željo po večji neodvisnosti in nadzoru nad lastnimi rezervami.",
+      "analiza": "Geopolitični nemiri, kot so regionalni konflikti in napetosti med velesilami, so v zadnjem času v porastu, kar spodbuja centralne banke k previdnosti. Premik zlata iz New Yorka v London, ki je pomembno središče za trgovanje z zlatom, kaže na strateško odločitev za optimizacijo dostopnosti in likvidnosti rezerv v primeru krize. Za trge zlata je to lahko pozitiven signal, saj poudarja vlogo zlata kot varnega zatočišča v negotovih časih. Cena zlata je danes zrasla za 0.55 % na 4420.70 USD/oz, kar kaže na povečano povpraševanje po varnih naložbah. Vpliv na valute je posreden; lahko nakazuje na zmanjšano zaupanje v določene jurisdikcije, čeprav je EUR/USD danes stabilen. Slovenski dolgoročni vlagatelj naj razume, da so takšne poteze centralnih bank indikator širših geopolitičnih tveganj, ki lahko vplivajo na globalno gospodarstvo in privlačnost različnih razredov sredstev, vključno z zlatom kot varovalom pred negotovostjo.",
       "vpliv": [
-        "Cena zlata 4420,30 USD/oz (+0,54 %)",
-        "Nizozemska centralna banka seli zlate rezerve",
-        "Geopolitični nemiri kot razlog",
-        "Povečana likvidnost in dostopnost zlata v Londonu"
+        "Povečano povpraševanje po zlatu kot varnem zatočišču",
+        "Signal o naraščajočih geopolitičnih tveganjih",
+        "Potencialno zmanjšano zaupanje v določene finančne centre",
+        "Vpliv na likvidnost in trgovalnost zlata"
       ],
       "vir": "Financial Times",
       "vir_url": "https://www.ft.com/content/1749e753-9c90-4ff5-91ec-8df764f3b26d?syn-25a6b1a6=1",
       "objavljeno": "2026-09-02T17:23:12.000Z"
     },
     {
-      "naslov": "Evropski ministri v Dublinu razpravljajo o trgovini z izraelskimi naselbinami in obrambi Ukrajine",
+      "naslov": "Novi britanski vodja Burnham obljublja 'vrnitev upanja' v parlamentu",
       "sektor": "Geopolitika",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Evropski ministri so se v Dublinu sestali, da bi razpravljali o ključnih zunanjepolitičnih vprašanjih, vključno s trgovino z izraelskimi naselbinami in obrambo Ukrajine. Napovedali so misijo za podporo libanonski vojski, vendar ostajajo razdeljeni glede sankcij proti Izraelu. Razprave poudarjajo kompleksnost evropske zunanje politike in različne poglede držav članic na občutljiva mednarodna vprašanja. Geopolitične napetosti na Bližnjem vzhodu in v Vzhodni Evropi ostajajo visoke, kar vpliva na globalno stabilnost in ekonomske odnose.",
-      "analiza": "Ozadje te novice je stalna prizadevanja Evropske unije za usklajeno zunanjo politiko, ki je pogosto otežena zaradi različnih nacionalnih interesov in zgodovinskih vezi. Vprašanje izraelskih naselbin je občutljivo zaradi mednarodnega prava in humanitarnih pomislekov, medtem ko je podpora Ukrajini ključna za evropsko varnost. Mehanizem vpliva na finančne trge je posreden, vendar pomemben. Geopolitična nestabilnost lahko poveča premijo tveganja za naložbe v regijah, ki so blizu konfliktom, in vpliva na cene surovin, kot je nafta, zaradi morebitnih motenj v dobavnih verigah. Čeprav danes ni bilo neposrednih tržnih reakcij na to novico, dolgoročno takšne razprave oblikujejo mednarodne odnose in trgovinske politike. Morebitne sankcije proti Izraelu bi lahko vplivale na določene sektorje in podjetja, medtem ko bi nadaljnja podpora Ukrajini lahko vplivala na evropske proračune in obrambno industrijo. Za delnice in obveznice je vpliv odvisen od specifičnih sektorjev in držav. Za valute, kot je evro, lahko geopolitična negotovost pomeni pritisk navzdol. Za slovenskega dolgoročnega vlagatelja je pomembno, da razume, kako geopolitični dogodki vplivajo na globalno gospodarstvo in s tem na naložbene odločitve. Diverzifikacija portfelja in spremljanje mednarodnih odnosov sta ključna za obvladovanje tveganj.",
+      "povzetek": "Novoimenovani vodja Združenega kraljestva, Andy Burnham, se je danes prvič soočil s poslanskimi vprašanji v parlamentu. Burnham je obljubil, da bo \"vrnil upanje\" in se zavezal izpolnjevanju obrambnih in socialnih ciljev. Njegov nastop sledi pretresu v njegovi ekipi, kjer je na ključne vloge, kot je novi finančni minister v senci Andrew Griffith, postavil borbene in medijsko izkušene figure. To nakazuje na odločen pristop k vodenju in potencialne spremembe v vladni politiki. Vlagatelji bodo pozorno spremljali, kako se bodo te obljube in spremembe odrazile v konkretnih ekonomskih politikah.",
+      "analiza": "Politična stabilnost in jasna ekonomska smer sta ključni za zaupanje vlagateljev. Po nedavnih političnih pretresih v Združenem kraljestvu, vključno s spremembami v vodstvu, je Burnhamov nastop pomemben za signaliziranje nove smeri. Čeprav so obljube o \"vračanju upanja\" splošne, so konkretne zaveze glede obrambne in socialne porabe pomembne za javne finance in gospodarsko rast. Na finančne trge lahko politična negotovost vpliva na vrednost funta in privlačnost britanskih delnic. Poteze novega finančnega ministra v senci bodo ključne za oblikovanje fiskalne politike. Današnji DAX je padel za 0.50 %, kar kaže na splošno negotovost v Evropi, vendar je vpliv na funt in britanske delnice bolj neposreden. Slovenski dolgoročni vlagatelj naj bo pozoren na stabilnost in predvidljivost političnega okolja v velikih evropskih gospodarstvih, saj to vpliva na širše evropske trge in s tem posredno tudi na slovenske naložbe.",
       "vpliv": [
-        "EU razdeljena glede sankcij proti Izraelu",
-        "Napovedana misija za podporo libanonski vojski",
-        "Geopolitične napetosti vplivajo na globalno stabilnost",
-        "Potencialni vpliv na trgovinske odnose in cene surovin"
+        "Potencialne spremembe v fiskalni politiki Združenega kraljestva",
+        "Vpliv na vrednost britanskega funta",
+        "Vpliv na zaupanje vlagateljev v britansko gospodarstvo",
+        "Možne spremembe v obrambni in socialni porabi"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/9/2/uks-burnham-faces-first-parliament-grilling-vows-to-bring-back-hope?traffic_source=rss",
+      "objavljeno": "2026-09-02T18:11:48.000Z"
+    },
+    {
+      "naslov": "Ameriški naftni velikan Chevron širi poslovanje v Venezueli",
+      "sektor": "Energetika",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Ameriški naftni velikan Chevron, edino ameriško naftno podjetje z znatno prisotnostjo v Venezueli, je napovedal širitev svojih operacij v državi. Podjetje je pridobilo dodatne koncesije in načrtuje podvojitev proizvodnje nafte. Ta poteza sledi nedavnemu dogovoru, po katerem naj bi ZDA prevzele nadzor nad petino venezuelskih naftnih rezerv. Širitev Chevronevega poslovanja kaže na povečano zaupanje v stabilizacijo razmer in potencial za donosno izkoriščanje bogatih venezuelskih virov. To bi lahko imelo pomemben vpliv na globalno ponudbo nafte.",
+      "analiza": "Odločitev Chevronea za podvojitev proizvodnje v Venezueli je neposredna posledica izboljšanja političnih in operativnih pogojev, ki so bili omogočeni z novim dogovorom med ZDA in Venezuelo. To je ključnega pomena za globalne energetske trge, saj Venezuela premore ogromne, a doslej podizkoriščene naftne rezerve. Povečana proizvodnja s strani velikega igralca, kot je Chevron, lahko prispeva k stabilizaciji globalnih cen nafte na dolgi rok, čeprav so danes cene nafte WTI in Brent zrasle za 0.54 % na 90.71 USD/sod oziroma za 0.71 % na 95.32 USD/sod. Za delnice Chevronea in drugih energetskih podjetij, ki bi se lahko pridružila v prihodnosti, je to pozitivna novica, saj odpira nove priložnosti za rast. Na splošno to kaže na postopno vračanje venezuelske nafte na svetovne trge. Slovenski dolgoročni vlagatelj naj spremlja takšne razvojne dogodke v energetskem sektorju, saj vplivajo na cene energentov, inflacijo in dobičkonosnost podjetij v različnih panogah.",
+      "vpliv": [
+        "Povečanje proizvodnje nafte v Venezueli",
+        "Pozitivno za delnice Chevronea",
+        "Potencialna stabilizacija globalnih cen nafte",
+        "Krepitev ameriškega vpliva v venezuelski energetiki"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/9/2/us-oil-giant-chevron-to-expand-venezuela-operations?traffic_source=rss",
+      "objavljeno": "2026-09-02T16:57:22.000Z"
+    },
+    {
+      "naslov": "EU ministri v Dublinu razpravljajo o trgovini z izraelskimi naselji in obrambi Ukrajine",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Ministri Evropske unije so se v Dublinu sestali, da bi razpravljali o občutljivih vprašanjih, vključno s trgovino z izraelskimi naselji in obrambo Ukrajine. Napovedali so misijo za podporo libanonski vojski, vendar so ostali razdeljeni glede morebitnih sankcij proti Izraelu. Razprave poudarjajo kompleksnost evropske zunanje politike in izzive pri usklajevanju stališč med državami članicami glede mednarodnih konfliktov. Odločitve, sprejete na takšnih srečanjih, lahko imajo dolgoročne posledice za regionalno stabilnost in trgovinske odnose EU.",
+      "analiza": "Ozadje teh razprav so naraščajoče napetosti na Bližnjem vzhodu in nadaljevanje konflikta v Ukrajini, ki imata pomembne geopolitične in gospodarske posledice za Evropo. Razdeljenost glede sankcij proti Izraelu kaže na notranje politične in gospodarske interese znotraj EU. Podpora libanonski vojski je poskus stabilizacije regije, ki je ključnega pomena za energetske poti in migracijske tokove. Na finančne trge lahko takšna geopolitična negotovost vpliva na cene surovin, zlasti nafte, in na zaupanje vlagateljev v evropsko gospodarstvo. Današnji DAX je padel za 0.50 %, kar odraža splošno previdnost. Vpliv na valute je lahko mešan, saj se evro sooča z izzivi tako zaradi notranjih razhajanj kot tudi zunanjih pritiskov. Slovenski dolgoročni vlagatelj naj bo pozoren na razvoj dogodkov v teh regijah, saj lahko eskalacija konfliktov ali spremembe v trgovinskih politikah vplivajo na globalne dobavne verige in cene, kar se posredno odraža na donosnosti naložb.",
+      "vpliv": [
+        "Vpliv na regionalno stabilnost Bližnjega vzhoda",
+        "Potencialne spremembe v trgovinskih odnosih EU-Izrael",
+        "Povečana podpora libanonski vojski",
+        "Vpliv na cene surovin zaradi geopolitične negotovosti"
       ],
       "vir": "Al Jazeera",
       "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss",
       "objavljeno": "2026-09-02T17:56:18.000Z"
-    },
-    {
-      "naslov": "Britanske hipotekarne posojilojemalce pozivajo k zaklepanju poslov pred dvigom obrestnih mer",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Britanske hipotekarne posojilojemalce pozivajo, naj si zagotovijo fiksne obrestne mere za posojila, preden se te zvišajo. Trg stanovanjskih posojil se pripravlja na dvig fiksnih obrestnih mer po razprodaji na trgu obveznic. Ta razvoj dogodkov kaže na pritisk na britanske potrošnike in nepremičninski trg, saj višje obrestne mere pomenijo dražje zadolževanje in potencialno zmanjšanje povpraševanja po nepremičninah. Novica prihaja v času, ko se britanska politika sooča z izzivi, vključno z novim vodstvom in obljubami o javni porabi, kar dodatno vpliva na zaupanje vlagateljev v britanske obveznice.",
-      "analiza": "Ozadje te novice je širša makroekonomska situacija v Združenem kraljestvu, kjer se inflacija in javni dolg soočata z izzivi. Razprodaja na trgu obveznic, ki je omenjena, se nanaša na padec cen državnih obveznic (gilts), kar posledično zvišuje njihove donosnosti. Višje donosnosti obveznic se nato prenesejo na hipotekarne obrestne mere, saj se banke zadolžujejo po višjih stroških. Mehanizem vpliva na finančne trge je direkten: višje hipotekarne obrestne mere zmanjšujejo kupno moč potrošnikov in ohlajajo nepremičninski trg. To lahko vodi do padca cen nepremičnin in zmanjšanja aktivnosti v gradbenem sektorju. Za delnice to pomeni pritisk na podjetja, povezana z nepremičninami in maloprodajo. Za obveznice, še posebej britanske državne obveznice, to pomeni nadaljnji pritisk navzdol, saj vlagatelji zahtevajo višje donose za prevzemanje tveganja. Valuta, britanski funt, je lahko pod pritiskom zaradi negotovosti glede gospodarske stabilnosti in inflacije. Za slovenskega dolgoročnega vlagatelja, ki ima naložbe v britanskih delnicah ali obveznicah, to pomeni povečano tveganje in potrebo po previdnosti. Dogajanje na britanskem nepremičninskem trgu in trgu obveznic je pomemben indikator širšega gospodarskega zdravja, ki lahko vpliva tudi na evropske trge.",
-      "vpliv": [
-        "Pričakovan dvig fiksnih hipotekarnih obrestnih mer",
-        "Razprodaja na trgu obveznic (gilts)",
-        "Pritisk na britanski nepremičninski trg",
-        "Potencialno zmanjšanje kupne moči potrošnikov"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/9fa4fcb7-14f0-4461-87aa-4fbdf1fe64f4?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-02T15:42:11.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-02T18:53:17.893Z",
+    "posodobljenoOb": "2026-09-02T18:59:56.736Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7663.6,
-        "sprememba_pct": 0.42
+        "vrednost": 7664.08,
+        "sprememba_pct": 0.43
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29089.297,
-        "sprememba_pct": 0.04
+        "vrednost": 29099.719,
+        "sprememba_pct": 0.08
       },
       {
         "simbol": "^GDAXI",
@@ -107,22 +158,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4420.3,
-        "sprememba_pct": 0.54,
+        "vrednost": 4420.7,
+        "sprememba_pct": 0.55,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 90.7,
-        "sprememba_pct": 0.53,
+        "vrednost": 90.71,
+        "sprememba_pct": 0.54,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 95.27,
-        "sprememba_pct": 0.66,
+        "vrednost": 95.32,
+        "sprememba_pct": 0.71,
         "enota": "USD/sod"
       }
     ],
@@ -130,7 +181,7 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.159,
+        "vrednost": 1.1589,
         "sprememba_pct": -0.03
       }
     ],
@@ -138,8 +189,8 @@
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.792,
-        "sprememba_pct": -0.08,
+        "vrednost": 4.796,
+        "sprememba_pct": 0,
         "enota": "%"
       }
     ],
@@ -147,16 +198,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 77289.12,
-        "sprememba_pct": -0.14,
+        "vrednost": 77342.72,
+        "sprememba_pct": -0.07,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.25,
-      "sprememba_pct": -6.67
+      "vrednost": 15.24,
+      "sprememba_pct": -6.73
     }
   }
 }
