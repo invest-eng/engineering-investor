@@ -1,23 +1,23 @@
 {
-  "posodobljenoOb": "2026-09-02T14:01:13.353Z",
+  "posodobljenoOb": "2026-09-02T15:24:49.243Z",
   "indeksi": [
     {
       "simbol": "^GSPC",
       "ime": "S&P 500",
-      "vrednost": 7649.72,
-      "sprememba_pct": 0.24
+      "vrednost": 7676.46,
+      "sprememba_pct": 0.59
     },
     {
       "simbol": "^NDX",
       "ime": "Nasdaq 100",
-      "vrednost": 29006.248,
-      "sprememba_pct": -0.24
+      "vrednost": 29133.963,
+      "sprememba_pct": 0.2
     },
     {
       "simbol": "^GDAXI",
       "ime": "DAX",
-      "vrednost": 25835.36,
-      "sprememba_pct": -0.52
+      "vrednost": 25824.43,
+      "sprememba_pct": -0.56
     },
     {
       "simbol": "^N225",
@@ -30,22 +30,22 @@
     {
       "simbol": "GC=F",
       "ime": "Zlato",
-      "vrednost": 4419.6,
+      "vrednost": 4419.5,
       "sprememba_pct": 0.53,
       "enota": "USD/oz"
     },
     {
       "simbol": "CL=F",
       "ime": "WTI nafta",
-      "vrednost": 89.59,
-      "sprememba_pct": -0.7,
+      "vrednost": 90.74,
+      "sprememba_pct": 0.58,
       "enota": "USD/sod"
     },
     {
       "simbol": "BZ=F",
       "ime": "Brent nafta",
-      "vrednost": 94.28,
-      "sprememba_pct": -0.39,
+      "vrednost": 95.43,
+      "sprememba_pct": 0.82,
       "enota": "USD/sod"
     }
   ],
@@ -53,16 +53,16 @@
     {
       "simbol": "EURUSD=X",
       "ime": "EUR/USD",
-      "vrednost": 1.1605,
-      "sprememba_pct": 0.1
+      "vrednost": 1.1596,
+      "sprememba_pct": 0.03
     }
   ],
   "obveznice": [
     {
       "simbol": "^TNX",
       "ime": "10Y US Treasury",
-      "vrednost": 4.788,
-      "sprememba_pct": -0.17,
+      "vrednost": 4.804,
+      "sprememba_pct": 0.17,
       "enota": "%"
     }
   ],
@@ -70,15 +70,15 @@
     {
       "simbol": "BTC-USD",
       "ime": "Bitcoin",
-      "vrednost": 77083.92,
-      "sprememba_pct": -0.4,
+      "vrednost": 76976.48,
+      "sprememba_pct": -0.54,
       "enota": "USD"
     }
   ],
   "vix": {
     "simbol": "^VIX",
     "ime": "VIX",
-    "vrednost": 15.98,
-    "sprememba_pct": -2.2
+    "vrednost": 15.49,
+    "sprememba_pct": -5.2
   }
 }
