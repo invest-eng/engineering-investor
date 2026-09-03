@@ -1,134 +1,129 @@
 {
-  "generiranoOb": "2026-09-03T08:57:11.222Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-09-03T18:50:53.989Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-09-03",
-  "povzetek": "Jutranji pregled finančnih trgov kaže na mešano sliko po nočnem trgovanju. Ameriški indeksi so dan zaključili v zelenem, kjer je S&P 500 zrasel za 0,46 % na 7667 točk, Nasdaq 100 pa za 0,23 % na 29143 točk. Azijski trgi so bili bolj razdeljeni, z Nikkei 225, ki je padel za 0,17 % na 64214 točk. Evropski trgi, vključno z DAX-om, ki je včeraj pridobil 0,31 % in dosegel 25920 točk, danes pričakujejo mešano odprtje, saj se vlagatelji odzivajo na geopolitične napetosti med Rusijo in Nemčijo ter strateške odločitve v energetskem sektorju. Pomembna novica je tudi krepitev jena, saj trgovci pričakujejo zvišanje obrestnih mer na Japonskem, medtem ko Sam Altman iz OpenAI poudarja ključno vlogo umetne inteligence. Pozitivno je, da število milijonarjev v ameriških pokojninskih načrtih 401(k) dosega rekordne vrednosti. Vlagatelji bodo ta teden pozorno spremljali objavo inflacijskih podatkov iz ZDA, ki lahko vplivajo na pričakovanja glede monetarne politike. ",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, medtem ko so ameriški indeksi nadaljevali rast v zgodnjem popoldanskem trgovanju. Nemški DAX je dan zaključil pri 26003 točkah z rastjo 0,63 %, kar kaže na optimizem v regiji. V ZDA sta S&P 500 in Nasdaq 100 nadaljevala z močno rastjo, S&P 500 je pri 7755 točkah (+1,15 %), Nasdaq 100 pa pri 29536 točkah (+1,35 %), kar je podprto z novicami iz tehnološkega sektorja in morebitnim zadržanjem obrestnih mer Feda. Zlato je doživelo pomemben skok za 2,60 % na 4529,60 USD/oz, medtem ko je Bitcoin nadaljeval svoj vzpon z rastjo 4,84 % na 81055 USD. Donosnost 10-letne ameriške državne obveznice se je znižala za 0,75 % na 4,76 %, kar nakazuje na povečano povpraševanje po varnih naložbah ali pričakovanja nižjih obrestnih mer. Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v evroobmočju, ki bo ključna za prihodnje odločitve Evropske centralne banke.",
   "novice": [
     {
-      "naslov": "Rusija zapira Goethe-Institut centre ob eskalaciji napetosti z Nemčijo",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Rusija je napovedala zaprtje centrov Goethe-Institut v državi, kar je neposreden odziv na predhodno nemško odločitev o zaprtju dveh ruskih institucij. Ta poteza pomeni nadaljnjo zaostritev diplomatskih odnosov med Moskvo in Berlinom, ki so že dalj časa obremenjeni. Zaprtje kulturnih institucij odraža naraščajočo politično napetost in pomanjkanje dialoga med državama. Gre za simbolično, a pomembno dejanje, ki kaže na poglabljanje razkola med Rusijo in zahodnimi državami. Odločitev je bila objavljena 3. septembra 2026 s strani Al Jazeere.",
-      "analiza": "Ozadje te novice je dolgotrajna in kompleksna geopolitična situacija med Rusijo in zahodnimi državami, ki se je v zadnjih letih močno poslabšala. Zaprtje kulturnih centrov, kot je Goethe-Institut, je pogosto eden zadnjih korakov v diplomatski eskalaciji, saj vpliva na medkulturno izmenjavo in odnose med ljudmi. To je relevantno zdaj, saj kaže na nadaljnjo izolacijo Rusije in morebitno poglobitev gospodarskih in političnih sankcij. Mehanizem vpliva na finančne trge je predvsem prek povečane negotovosti in tveganja. Povečane geopolitične napetosti lahko povzročijo beg kapitala iz regije, zvišajo cene surovin (zlasti nafte in plina, če so vpletene države proizvajalke/potrošnice) in povzročijo nihanja valut. V tem primeru lahko evro (EUR/USD je danes pri 1.1614) in rubelj občutita pritisk, medtem ko se vlagatelji obračajo k varnejšim naložbam, kot je zlato, ki je danes zraslo za 1,53 % na 4482,10 USD/oz. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitična tveganja, saj lahko vplivajo na globalne dobavne verige in stabilnost trgov, kar posredno vpliva na donose naložb v mednarodna podjetja in sklade.",
-      "vpliv": [
-        "Povečana geopolitična negotovost",
-        "Potencialni pritisk na EUR/USD (1.1614)",
-        "Zvišanje cen zlata (+1.53 % na 4482.10 USD/oz)",
-        "Beg kapitala iz tveganih sredstev"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/3/russia-to-close-goethe-institut-centres-as-germany-tensions-escalate?traffic_source=rss",
-      "objavljeno": "2026-09-03T08:12:46.000Z"
-    },
-    {
-      "naslov": "Azija krepi skladiščenje nafte in plina po krizi v Hormuški ožini",
-      "sektor": "Energetika",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Azijske države pospešeno gradijo zmogljivosti za skladiščenje nafte in plina bližje domu, da bi zmanjšale svojo izpostavljenost konfliktom na Bližnjem vzhodu. Ta strategija je neposreden odziv na nedavno krizo v Hormuški ožini, ki je poudarila ranljivost globalnih dobavnih verig energentov. Cilj je zagotoviti večjo energetsko varnost in stabilnost oskrbe v primeru morebitnih prihodnjih motenj. Novica, objavljena 3. septembra 2026 s strani Al Jazeere, poudarja dolgoročne strateške premike v globalni energetiki.",
-      "analiza": "Kriza v Hormuški ožini, ki je ključna pomorska pot za transport nafte in plina, je razkrila nevarno odvisnost azijskih gospodarstev od stabilnosti Bližnjega vzhoda. V preteklosti so podobne motnje v dobavi, kot so naftni šoki v 70. letih, povzročile globalne gospodarske recesije. Trenutna strategija azijskih držav za povečanje domačih skladišč je proaktiven ukrep za zmanjšanje tveganja. To vpliva na energetske trge tako, da dolgoročno stabilizira cene, saj zmanjšuje paniko ob morebitnih motnjah. Kratkoročno lahko povečano povpraševanje po nafti in plinu za polnjenje skladišč vpliva na cene, vendar je danes WTI nafta pri 90,83 USD/sod (-0,20 %), Brent pa pri 95,39 USD/sod (-0,25 %), kar kaže na umirjeno reakcijo. Posledice vključujejo povečane investicije v energetsko infrastrukturo v Aziji, kar lahko koristi podjetjem v gradbenem in energetskem sektorju. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja in vlaganje v podjetja, ki so odporna na geopolitična tveganja ali imajo koristi od strateških energetskih projektov, lahko pametna poteza, saj globalna energetska varnost ostaja ključna tema.",
-      "vpliv": [
-        "Povečane investicije v energetsko infrastrukturo v Aziji",
-        "Dolgoročna stabilizacija cen energentov",
-        "Zmanjšanje ranljivosti azijskih gospodarstev",
-        "Potencialno kratkoročno povečanje povpraševanja po nafti in plinu"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/9/3/asia-looks-to-store-oil-gas-closer-to-home-after-strait-of-hormuz-crisis?traffic_source=rss",
-      "objavljeno": "2026-09-03T04:26:27.000Z"
-    },
-    {
-      "naslov": "Chevron in Eni širita naftne projekte v Venezueli po dogovoru z ZDA",
-      "sektor": "Energetika",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Ameriški Chevron in italijanski Eni sta podpisala dogovore v Caracasu za razširitev naftnih projektov v Venezueli. To se je zgodilo le nekaj dni po tem, ko je Venezuela privolila, da bo ZDA dodelila nadzor nad petino svojih naftnih rezerv. Ti dogovori so pomemben korak k povečanju svetovne oskrbe z nafto in stabilizaciji odnosov med ZDA in Venezuelo. Novica, objavljena 3. septembra 2026 s strani Al Jazeere, kaže na premike v globalni energetski politiki in dobavi.",
-      "analiza": "Ozadje te novice je dolgoletna politična in gospodarska kriza v Venezueli ter sankcije ZDA, ki so močno omejevale njen izvoz nafte. Nedavni dogovor, ki ZDA omogoča nadzor nad delom venezuelskih naftnih rezerv, signalizira morebitno sprostitev napetosti in ponovno vključitev Venezuele v globalne energetske trge. To je relevantno zdaj, saj lahko povečana proizvodnja nafte iz Venezuele pomaga stabilizirati svetovne cene energentov in zmanjšati odvisnost od drugih, bolj nestabilnih regij. Mehanizem vpliva na finančne trge je neposreden: povečanje ponudbe nafte lahko dolgoročno zniža cene. Čeprav sta danes WTI nafta pri 90,83 USD/sod (-0,20 %) in Brent pri 95,39 USD/sod (-0,25 %) že v rahlem padcu, lahko ta dogovor prispeva k nadaljnjemu umirjanju cen. Posledice vključujejo potencialno rast delnic energetskih podjetij, kot sta Chevron in Eni, ki širita svoje operacije. Za slovenskega dolgoročnega vlagatelja to pomeni, da lahko stabilizacija cen nafte pozitivno vpliva na inflacijo in s tem na kupno moč, hkrati pa odpira priložnosti v energetskem sektorju, še posebej v podjetjih, ki so strateško pozicionirana v regijah z velikimi rezervami.",
-      "vpliv": [
-        "Potencialno povečanje globalne ponudbe nafte",
-        "Dolgoročna stabilizacija cen nafte (WTI: 90.83 USD/sod, Brent: 95.39 USD/sod)",
-        "Rast delnic energetskih podjetij (Chevron, Eni)",
-        "Sproščanje napetosti med ZDA in Venezuelo"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/3/uss-chevron-italys-eni-to-expand-oil-projects-in-venezuela?traffic_source=rss",
-      "objavljeno": "2026-09-03T04:19:11.000Z"
-    },
-    {
-      "naslov": "Jen se krepi, saj trgovci pričakujejo dvig obrestnih mer na Japonskem",
+      "naslov": "Novi dvomi glede dviga obrestnih mer Feda ta mesec vplivajo na trge",
       "sektor": "Makro & Centralne banke",
       "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "Japonski jen se je okrepil in se približal vrednosti 156 jenov za dolar, potem ko so trgovci začeli staviti na morebitno zvišanje obrestnih mer s strani Japonske centralne banke (BoJ). Nenaden skok čez noč kaže na spremenjena pričakovanja trga glede monetarne politike BoJ, ki je dolgo časa vzdrževala izjemno ohlapno politiko. Ta poteza bi lahko pomenila prelomnico za japonsko gospodarstvo in globalne finančne trge. Novica je bila objavljena 3. septembra 2026 s strani Financial Timesa.",
-      "analiza": "Ozadje te novice je dolgoletna deflacijska spirala in politika negativnih obrestnih mer na Japonskem, ki je jen ohranjala šibkega. Vendar pa so nedavni znaki inflacije in robustnejše gospodarske rasti spodbudili špekulacije, da bi BoJ lahko končno začela zaostrovati monetarno politiko. To je relevantno zdaj, saj bi dvig obrestnih mer na Japonskem predstavljal pomemben premik od globalnega trenda ohlapne monetarne politike in bi lahko imel daljnosežne posledice. Mehanizem vpliva na finančne trge je neposreden: višje obrestne mere privabljajo kapital, kar krepi valuto. Krepitev jena (ki se je približal ¥156 za dolar) lahko vpliva na japonske izvoznike, saj njihovi izdelki postanejo dražji, hkrati pa zmanjšuje stroške uvoza. Posledice vključujejo morebitno nihanje globalnih valutnih parov, saj se vlagatelji prilagajajo na spremenjene pogoje. Obvezniški donosi na Japonskem bi se lahko zvišali, kar bi vplivalo na globalne obvezniške trge. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da spremembe v monetarni politiki velikih gospodarstev, kot je Japonska, lahko vplivajo na globalno likvidnost in privlačnost različnih naložbenih razredov, zato je spremljanje odločitev centralnih bank ključno za uravnavanje portfelja.",
+      "povzetek": "Pojavljajo se novi dvomi o tem, ali bo ameriška centralna banka (Fed) ta mesec dvignila obrestne mere, kar je pomembno vplivalo na finančne trge. Guverner Feda Christopher Waller je predstavil močne argumente za ohranitev obrestnih mer na trenutni ravni. Njegova izjava je sprožila špekulacije, da Fed morda ne bo nadaljeval z zaostrovanjem monetarne politike, kot so nekateri pričakovali. To bi lahko pomenilo blažji pristop k boju proti inflaciji in večjo podporo gospodarski rasti. Trgi so se na to novico odzvali z optimizmom, saj nižje obrestne mere običajno spodbujajo naložbe in potrošnjo. Odločitev Feda bo ključna za smer finančnih trgov v prihodnjih mesecih.",
+      "analiza": "Ozadje te novice je v trenutni gospodarski situaciji, kjer se Fed trudi uravnotežiti boj proti inflaciji z ohranjanjem gospodarske stabilnosti. Predhodno so trgi močno pričakovali nadaljnje dvige obrestnih mer, kar je povzročalo negotovost. Sedaj pa izjave, kot je Wallerjeva, kažejo na morebitno spremembo strategije, kar je relevantno, saj bi ohranitev obrestnih mer zmanjšala stroške zadolževanja za podjetja in potrošnike. Mehanizem vpliva je neposreden: nižje obrestne mere zmanjšujejo donosnost obveznic, kar je razvidno iz padca donosnosti 10-letne ameriške državne obveznice za 0,75 % na 4,76 %. To posledično povečuje privlačnost delnic, saj se zmanjšujejo diskontne stopnje za prihodnje denarne tokove podjetij, kar je prispevalo k rasti indeksov S&P 500 (+1,15 %) in Nasdaq 100 (+1,35 %). Za valute to pomeni, da bi lahko dolar oslabel, saj je manj privlačen za naložbe, kar se odraža v rasti EUR/USD za 0,38 % na 1,1636. Zgodovinsko gledano so obdobja, ko centralne banke ustavijo dvige obrestnih mer, pogosto vodila v rast delniških trgov. Za slovenskega dolgoročnega vlagatelja to pomeni, da bi lahko bil pritisk na rast delniških trgov, še posebej tistih, ki so občutljivi na obrestne mere, kot so tehnološka podjetja. Pomembno je spremljati prihodnje izjave Feda in makroekonomske podatke, ki bodo vplivali na njihove odločitve.",
       "vpliv": [
-        "Krepitev jena (blizu ¥156 za dolar)",
-        "Potencialni dvig obrestnih mer s strani BoJ",
-        "Vpliv na japonske izvoznike",
-        "Nihanje globalnih valutnih parov"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-03T07:24:31.000Z"
-    },
-    {
-      "naslov": "Sam Altman iz OpenAI: AI bo postala bistvena kot elektrika za G20",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Sam Altman, izvršni direktor OpenAI, je na srečanju G20 izjavil, da bo umetna inteligenca (AI) postala tako bistvena kot elektrika. Poudaril je, da 'otrok, ki odrašča danes, nikoli ne bo pametnejši od AI', s čimer je izpostavil eksponencialno rast in vpliv te tehnologije. Njegova izjava podčrtuje prepričanje o transformativni moči AI na družbo in gospodarstvo. Novica je bila objavljena 3. septembra 2026 s strani Al Jazeere.",
-      "analiza": "Ozadje Altmanove izjave je hitra in revolucionarna rast umetne inteligence v zadnjih letih, ki je že začela preoblikovati industrije in vsakdanje življenje. Njegova primerjava z elektriko poudarja, da AI ne bo le orodje, temveč temeljna infrastruktura, ki bo poganjala prihodnji razvoj. To je relevantno zdaj, saj se vlade in podjetja po vsem svetu trudijo razumeti in regulirati AI, hkrati pa izkoristiti njen potencial. Mehanizem vpliva na finančne trge je predvsem prek rasti tehnološkega sektorja. Podjetja, ki razvijajo AI ali jo uspešno integrirajo v svoje poslovanje, lahko pričakujejo znatno rast. Nasdaq 100, ki je danes zrasel za 0,23 % na 29143 točk, je dober pokazatelj optimizma v tehnološkem sektorju. Posledice vključujejo povečane investicije v raziskave in razvoj AI, nastanek novih industrij in delovnih mest ter potencialno povečanje produktivnosti v vseh sektorjih. Za slovenskega dolgoročnega vlagatelja to pomeni, da je vlaganje v podjetja, ki so vodilna na področju AI ali imajo močno strategijo za implementacijo AI, lahko ključnega pomena za dolgoročno rast portfelja, saj bo ta tehnologija verjetno gonilo prihodnjih donosov.",
-      "vpliv": [
-        "Povečane investicije v AI sektor",
-        "Rast tehnoloških delnic (Nasdaq 100 +0.23%)",
-        "Nastanek novih industrij in delovnih mest",
-        "Potencialno povečanje globalne produktivnosti"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/openais-sam-altman-tells-g20-ai-will-be-as-essential-as-electricity?traffic_source=rss",
-      "objavljeno": "2026-09-03T08:04:36.000Z"
-    },
-    {
-      "naslov": "Rekordno število milijonarjev v pokojninskih načrtih 401(k) ob visokih prihrankih",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Število milijonarjev v pokojninskih načrtih 401(k) je doseglo nov rekord, saj so prihranki za upokojitev v drugem četrtletju ostali na najvišjih ravneh vseh časov. To je kljub stalni zaskrbljenosti glede širšega gospodarstva, saj so se vlagatelji osredotočali na svoje dolgoročne cilje, je sporočil Fidelity Investments. Novica, objavljena 3. septembra 2026 s strani MarketWatch, kaže na močno odpornost in disciplino vlagateljev.",
-      "analiza": "Ozadje te novice je dolgoročni trend rasti kapitalskih trgov in naraščajoča ozaveščenost o pomembnosti varčevanja za upokojitev. Kljub občasnim gospodarskim negotovostim in nihanjem na trgih, so vlagatelji ostali zavezani svojim dolgoročnim strategijam, kar se odraža v rekordnih prihrankih. To je relevantno zdaj, saj kaže na splošno zdravje finančnega sistema in zaupanje v dolgoročno rast gospodarstva, kljub kratkoročnim izzivom. Mehanizem vpliva na finančne trge je pozitiven: visoki prihranki pomenijo stabilen dotok kapitala na trge, kar podpira cene delnic in obveznic. Povečanje bogastva gospodinjstev lahko dolgoročno spodbudi potrošnjo in gospodarsko rast. S&P 500 je danes pri 7667 (+0,46 %), kar odraža optimizem vlagateljev. Posledice vključujejo nadaljnjo rast upravljanih sredstev in potencialno zmanjšanje pritiska na socialne sisteme v prihodnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je vztrajnost pri varčevanju in vlaganju, tudi v obdobjih negotovosti, ključna za doseganje finančnih ciljev, saj se dolgoročna rast kapitalskih trgov izplača. Primer ameriških 401(k) milijonarjev služi kot dober primer moči sestavljenih obresti in discipliniranega vlaganja.",
-      "vpliv": [
-        "Rekordni prihranki za upokojitev",
-        "Povečanje bogastva gospodinjstev",
-        "Stabilen dotok kapitala na trge",
-        "Pozitiven vpliv na potrošnjo in gospodarsko rast"
+        "Donosnost 10Y US Treasury pade za 0,75 % na 4,76 %",
+        "S&P 500 zraste za 1,15 % na 7755",
+        "Nasdaq 100 zraste za 1,35 % na 29536",
+        "EUR/USD zraste za 0,38 % na 1.1636"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-03T04:01:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/new-doubts-emerge-about-whether-fed-will-raise-interest-rates-this-month-1d23cc12?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-03T18:24:00.000Z"
+    },
+    {
+      "naslov": "Nvidia kupuje platformo Hugging Face za 12,9 milijarde dolarjev, krepi AI pozicijo",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Nvidia, velikan polprevodnikov, bo kupila priljubljeno razvojno platformo Hugging Face za skoraj 13 milijard dolarjev. Posel, vreden 12,93 milijarde dolarjev (9,57 milijarde funtov), je eden največjih v zgodovini Nvidie. Podjetje s tem stavi na podporo odprtim modelom umetne inteligence, kar bi lahko pomagalo ublažiti morebitno upočasnitev povpraševanja po njihovih čipih. Hugging Face je vodilna platforma za razvijalce in skupnost odprtokodne umetne inteligence. Delnice Nvidie so po objavi posla, ki je bil napovedan v četrtek, rahlo padle. Ta poteza poudarja strateški pomen umetne inteligence za prihodnost tehnoloških podjetij.",
+      "analiza": "Ozadje te transakcije je v hitri rasti sektorja umetne inteligence in Nvidijini želji po ohranitvi vodilne vloge. Nvidia je že dominantna na področju AI čipov, vendar se zaveda potrebe po razširitvi ekosistema. Nakup Hugging Face, platforme z obsežno bazo odprtokodnih AI modelov in razvijalcev, je relevanten, saj Nvidii omogoča globlji prodor v programsko opremo in storitve AI, kar zmanjšuje odvisnost od zgolj strojne opreme. Mehanizem vpliva na trge je dvojen: na eni strani gre za strateško potezo, ki dolgoročno krepi Nvidijino pozicijo v AI, na drugi pa za veliko naložbo, ki lahko kratkoročno vpliva na likvidnost in dobičkonosnost. Rahlo nižje delnice Nvidie po objavi posla kažejo na previdnost vlagateljev glede velikosti prevzema. Za širši tehnološki sektor to pomeni nadaljnjo konsolidacijo in poudarek na AI. Za slovenskega dolgoročnega vlagatelja to potrjuje pomen umetne inteligence kot ključnega gonila rasti v prihodnosti. Vlaganje v podjetja, ki so strateško pozicionirana v AI ekosistemu, ostaja pomembno, vendar je treba upoštevati tudi vrednotenja in morebitne kratkoročne nihanja zaradi velikih prevzemov.",
+      "vpliv": [
+        "Nvidia kupuje Hugging Face za 12,9 milijarde USD",
+        "Delnice Nvidie rahlo nižje po objavi posla",
+        "Povečana konsolidacija v AI sektorju"
+      ],
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+      "objavljeno": "2026-09-03T16:59:56.000Z"
+    },
+    {
+      "naslov": "OpenAI trdi, da je s svojim najnovejšim modelom AI prehitel Anthropic",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "OpenAI, ustvarjalec ChatGPT-ja, trdi, da je s svojim najnovejšim modelom umetne inteligence, imenovanim 'Astra', prehitel konkurenčno podjetje Anthropic. Podjetje celo meni, da bi se 'Astra' lahko štela za 'splošno umetno inteligenco' (artificial general intelligence - AGI). Ta izjava poudarja intenzivno konkurenco v sektorju umetne inteligence, kjer se podjetja borijo za vodilni položaj v razvoju naprednih modelov. Uspeh pri razvoju AGI bi predstavljal prelomnico v tehnološkem svetu in imel daljnosežne posledice za industrijo in družbo. Novica kaže na hitro napredovanje in inovacije v AI sektorju, kar poganja zanimanje vlagateljev.",
+      "analiza": "Ozadje te novice je v nenehni tekmi med vodilnimi podjetji na področju umetne inteligence, kot sta OpenAI in Anthropic, za razvoj najnaprednejših modelov. Ta konkurenca je ključna za inovacije in določa smer razvoja celotnega sektorja. Trditev OpenAI, da je 'Astra' presegla Anthropic in se približuje 'splošni umetni inteligenci', je relevantna, saj takšne izjave pogosto sprožijo val optimizma in naložb v celoten AI ekosistem. Mehanizem vpliva na finančne trge je predvsem prek sentimenta: pozitivne novice o napredku v AI spodbujajo vlagatelje k nakupu delnic tehnoloških podjetij, ki so vpletena v razvoj ali uporabo AI. To prispeva k rasti indeksov, kot je Nasdaq 100 (+1,35 %), in podjetij, kot je Nvidia, ki zagotavljajo infrastrukturo za AI. Čeprav ni neposrednih številk o vplivu na določene delnice, takšne novice krepijo dolgoročne obete za tehnološki sektor. Za slovenskega dolgoročnega vlagatelja to poudarja, da je umetni inteligenca še vedno v zgodnji fazi razvoja z ogromnim potencialom. Vlaganje v diverzificiran portfelj tehnoloških podjetij, ki so na čelu AI inovacij, lahko ponudi priložnosti, vendar je pomembno biti pozoren na pretirano evforijo in realistično oceniti tveganja.",
+      "vpliv": [
+        "Povečan optimizem v sektorju umetne inteligence",
+        "Spodbuda za rast tehnoloških delnic",
+        "Intenziviranje konkurence med AI podjetji"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/55ab40c0-59e2-4c0b-97c9-4f4f5a71a8bb?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-03T18:00:11.000Z"
+    },
+    {
+      "naslov": "Avtomobilski proizvajalci pozivajo k trajni prepovedi kitajskih povezanih vozil v ZDA",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Veliki avtomobilski proizvajalci v ZDA pozivajo Kongres k trajni prepovedi domače prodaje, uvoza in proizvodnje kitajskih povezanih vozil, strojne in programske opreme. Ta poteza odraža naraščajoče skrbi glede nacionalne varnosti in zaščite podatkov, saj so sodobna vozila močno povezana in zbirajo velike količine informacij. Poziv poudarja tudi željo po zaščiti domače industrije pred tujo konkurenco. Takšna prepoved bi imela daljnosežne posledice za avtomobilsko industrijo in potrošnike, saj bi omejila izbiro in potencialno povečala cene. Hkrati bi lahko zaostrila trgovinske odnose med ZDA in Kitajsko.",
+      "analiza": "Ozadje tega poziva je v širših geopolitičnih in trgovinskih napetostih med ZDA in Kitajsko, ki se že nekaj časa kažejo v različnih sektorjih, od tehnologije do surovin. Povezana vozila, ki zbirajo podatke in so odvisna od programske opreme, so postala nova fronta v tej tekmi, saj se pojavljajo skrbi glede kibernetske varnosti in potencialnega vohunjenja. Poziv avtomobilskih proizvajalcev je relevanten, ker kaže na pritisk industrije na vlado, da zaščiti domači trg in tehnologijo. Mehanizem vpliva na finančne trge je kompleksen: za ameriške avtomobilske proizvajalce bi prepoved lahko pomenila manjšo konkurenco in potencialno večje tržne deleže, kar bi bilo pozitivno za njihove delnice. Po drugi strani pa bi lahko povzročila povračilne ukrepe Kitajske, kar bi negativno vplivalo na ameriška podjetja, ki poslujejo na Kitajskem. Za potrošnike bi to pomenilo manjšo izbiro in morebitno višje cene vozil. Geopolitične napetosti, kot so te, pogosto povečajo volatilnost na trgih, kar se odraža v indeksu VIX, ki je danes padel za 4,67 % na 14,49, vendar so takšne novice lahko vir prihodnje negotovosti. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da se globalne dobavne verige in trgovinski odnosi nenehno spreminjajo. Vlaganje v podjetja z diverzificiranimi trgi in robustnimi strategijami za obvladovanje geopolitičnih tveganj je ključno. Takšne prepovedi lahko ustvarijo tako priložnosti kot tveganja, odvisno od specifičnega podjetja in njegove izpostavljenosti.",
+      "vpliv": [
+        "Potencialna zaščita ameriških avtomobilskih proizvajalcev",
+        "Možnost zaostrovanja trgovinskih odnosov med ZDA in Kitajsko",
+        "Omejena izbira in potencialno višje cene za potrošnike v ZDA"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
+      "objavljeno": "2026-09-03T16:51:13.000Z"
+    },
+    {
+      "naslov": "7-odstotne hipotekarne obrestne mere so že tu, pravijo kupci in strokovnjaki",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Hipotekarne obrestne mere so se povzpele na novo najvišjo raven v letošnjem letu, pri čemer nekateri kupci in hipotekarni strokovnjaki poročajo o 7-odstotnih stopnjah. Ta novica prinaša slabe novice za kupce nepremičnin, saj višje obrestne mere pomenijo dražje zadolževanje in s tem zmanjšano cenovno dostopnost stanovanj. Povišanje obrestnih mer je posledica širših makroekonomskih trendov, vključno z inflacijskimi pritiski in odzivi centralnih bank. Višje obrestne mere lahko ohladijo nepremičninski trg, zmanjšajo povpraševanje in upočasnijo rast cen. To ima neposreden vpliv na potrošnike in celotno gospodarstvo.",
+      "analiza": "Ozadje naraščajočih hipotekarnih obrestnih mer je v zaostrovanju monetarne politike centralnih bank, ki se borijo proti inflaciji. Čeprav se pojavljajo dvomi o nadaljnjih dvigih Feda, so pretekli dvigi že vplivali na dolgoročne obrestne mere. To je relevantno, saj so nepremičninski trgi izjemno občutljivi na stroške zadolževanja. Mehanizem vpliva je preprost: višje obrestne mere pomenijo višje mesečne obroke za hipotekarna posojila, kar zmanjšuje kupno moč in dostopnost nepremičnin. To lahko vodi do zmanjšanja povpraševanja po nepremičninah in morebitnega upočasnjevanja rasti cen ali celo padca cen na nekaterih trgih. Za delnice to pomeni, da so podjetja v gradbeništvu, nepremičninah in povezanih sektorjih (npr. pohištvo, bela tehnika) lahko pod pritiskom. Za obveznice pa višje hipotekarne obrestne mere, ki so pogosto vezane na dolgoročne donosnosti, pomenijo, da so obveznice postale bolj privlačne v primerjavi s preteklostjo, čeprav je donosnost 10-letne ameriške državne obveznice danes padla. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati gibanje obrestnih mer, saj vplivajo na celoten finančni sistem in potrošniško moč. Portfelj, ki je preveč izpostavljen nepremičninskemu sektorju ali podjetjem, ki so močno odvisna od poceni zadolževanja, bi lahko bil ranljiv v okolju višjih obrestnih mer. Diverzifikacija je ključna.",
+      "vpliv": [
+        "Zmanjšana cenovna dostopnost nepremičnin",
+        "Potencialno ohlajanje nepremičinskega trga",
+        "Pritisk na delnice gradbenih in nepremičninskih podjetij"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/7-mortgage-rates-are-already-here-some-buyers-mortgage-experts-say-c51a7e04?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-03T16:57:00.000Z"
+    },
+    {
+      "naslov": "Izrael izpustil libanonskega civilista, napoveduje izpustitev še petih zapornikov",
+      "sektor": "Geopolitika",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Izrael je izpustil libanonskega civilista, identificiranega kot Malek Ghazi, in napovedal, da bo izpustil še pet zapornikov. Ghazi je prvi libanonski državljan, ki ga je Izrael izpustil, odkar so se začeli pogovori. Ta poteza je pomemben korak v smeri deeskalacije napetosti in izboljšanja odnosov med državama, ki sta tehnično še vedno v vojni. Izpustitev zapornikov je pogosto del širših diplomatskih prizadevanj za izgradnjo zaupanja in zmanjšanje konfliktnih situacij v regiji. Novica prinaša upanje na stabilizacijo v politično občutljivi regiji Bližnjega vzhoda.",
+      "analiza": "Ozadje te novice je v dolgotrajnih napetostih in občasnih konfliktih med Izraelom in Libanonom. Izmenjava zapornikov ali izpustitev civilistov je pogosto znak diplomatskih prizadevanj za zmanjšanje trenj in preprečitev širšega konflikta. To je relevantno, saj stabilnost na Bližnjem vzhodu neposredno vpliva na globalne trge, predvsem na cene nafte in plina. Mehanizem vpliva na finančne trge je preko zmanjšanja geopolitičnega tveganja. Ko se napetosti zmanjšajo, se zmanjša tudi 'premija za tveganje', ki je vključena v cene surovin, kot je nafta. Čeprav WTI nafta danes beleži rast za 0,48 % na 91,45 USD/sod, Brent pa padec za 0,08 % na 95,55 USD/sod, bi dolgoročnejša deeskalacija lahko prispevala k stabilizaciji cen. Zlato, ki velja za varno zatočišče v časih negotovosti, je danes zraslo za 2,60 % na 4529,60 USD/oz, kar kaže, da kljub pozitivnim novicam ostaja določena stopnja previdnosti. Za delnice bi stabilizacija v regiji lahko pomenila večjo zaupanje vlagateljev v podjetja, ki poslujejo na Bližnjem vzhodu ali so odvisna od stabilnih dobav nafte. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so geopolitični dogodki ključni dejavnik tveganja, ki lahko vpliva na cene surovin in globalno ekonomijo. Vsak korak k miru in stabilnosti v regijah, kot je Bližnji vzhod, je pozitiven signal, vendar je treba ostati realističen glede dolgoročnih izzivov.",
+      "vpliv": [
+        "Zmanjšanje geopolitičnih napetosti med Izraelom in Libanonom",
+        "Potencialna stabilizacija cen nafte na dolgi rok",
+        "Povečano zaupanje vlagateljev v regijo"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/3/israel-releases-lebanese-civilian-says-five-more-will-be-freed?traffic_source=rss",
+      "objavljeno": "2026-09-03T18:13:55.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-03T08:55:28.040Z",
+    "posodobljenoOb": "2026-09-03T18:50:14.076Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7666.6,
-        "sprememba_pct": 0.46
+        "vrednost": 7754.88,
+        "sprememba_pct": 1.15
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29143.33,
-        "sprememba_pct": 0.23
+        "vrednost": 29535.502,
+        "sprememba_pct": 1.35
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25919.96,
-        "sprememba_pct": 0.31
+        "vrednost": 26003.32,
+        "sprememba_pct": 0.63
       },
       {
         "simbol": "^N225",
@@ -141,22 +136,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4482.1,
-        "sprememba_pct": 1.53,
+        "vrednost": 4529.6,
+        "sprememba_pct": 2.6,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 90.83,
-        "sprememba_pct": -0.2,
+        "vrednost": 91.45,
+        "sprememba_pct": 0.48,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 95.39,
-        "sprememba_pct": -0.25,
+        "vrednost": 95.55,
+        "sprememba_pct": -0.08,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +159,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1614,
-        "sprememba_pct": 0.19
+        "vrednost": 1.1636,
+        "sprememba_pct": 0.38
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.796,
-        "sprememba_pct": 0,
+        "vrednost": 4.76,
+        "sprememba_pct": -0.75,
         "enota": "%"
       }
     ],
@@ -181,16 +176,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 77809.48,
-        "sprememba_pct": 0.65,
+        "vrednost": 81054.89,
+        "sprememba_pct": 4.84,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.2,
-      "sprememba_pct": 0
+      "vrednost": 14.49,
+      "sprememba_pct": -4.67
     }
   }
 }
