@@ -1,179 +1,162 @@
 {
-  "generiranoOb": "2026-09-02T19:01:53.627Z",
+  "generiranoOb": "2026-09-03T18:55:32.994Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-09-02",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, saj je nemški indeks DAX padel za 0.50 % na 25839. Medtem so ameriški trgi začeli dan pozitivno, z indeksom S&P 500 pri 7664, kar predstavlja rast za 0.43 %, in Nasdaqom 100, ki je zrasel za 0.08 % na 29100. Azijski Nikkei 225 je pred tem zabeležil precejšen padec za 2.85 % na 64326. Surovine so bile v porastu, saj je cena Brent nafte zrasla za 0.71 % na 95.32 USD/sod, zlato pa za 0.55 % na 4420.70 USD/oz. Glavne novice vključujejo dogovor, po katerem naj bi ZDA prevzele nadzor nad petino venezuelskih naftnih rezerv, kar je že spodbudilo širitev poslovanja s strani Chevron. Na Wall Streetu vlada živčnost glede morebitnega dviga obrestnih mer s strani Feda, medtem ko je Uber napovedal odpuščanje 3.300 zaposlenih. Geopolitične skrbi so se odrazile v odločitvi nizozemske centralne banke za premik zlatih rezerv iz New Yorka. Volatilnost trga, merjena z indeksom VIX, je padla za 6.73 % na 15.24. Vlagatelji bodo ta teden pozorno spremljali prihajajoče poročilo o zaposlovanju v ZDA, ki bo ključno za smer monetarne politike Feda.",
+  "datum": "2026-09-03",
+  "povzetek": "Evropski trgi so danes zaključili z rastjo, medtem ko ameriški indeksi nadaljujejo s pozitivnim trendom. Nemški DAX je dan zaključil pri 26003 točkah, kar predstavlja rast za 0,63 %. V ZDA sta S&P 500 in Nasdaq 100 po dveh urah trgovanja beležila rast za 1,12 % na 7752 točk oziroma 1,30 % na 29521 točk. Japonski Nikkei 225 je medtem zabeležil rahel padec za 0,17 % na 64214 točk. Na trgu surovin je zlato močno pridobilo, zraslo je za 2,58 % na 4528,40 USD/oz, medtem ko se je cena WTI nafte zvišala za 0,45 % na 91,42 USD/sod, Brent nafta pa je minimalno padla. Donosnost 10-letne ameriške državne obveznice se je znižala za 0,71 % na 4,76 %, kar nakazuje na pričakovanja o morebitnem zadržanju obrestnih mer s strani Feda, o čemer se danes pojavljajo novi dvomi. Volatilnost trga, merjena z indeksom VIX, je padla za 4,67 % na 14,49. Medtem ko se tehnološki sektor osredotoča na prevzeme in konkurenco v umetni inteligenci, ostaja vlagateljem v tem tednu ključno spremljanje morebitnih izjav centralnih bank glede prihodnje denarne politike.",
   "novice": [
     {
-      "naslov": "ZDA prevzemajo nadzor nad petino venezuelskih naftnih rezerv",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
+      "naslov": "Nvidia kupuje platformo Hugging Face za 12,9 milijarde dolarjev",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "Združene države Amerike so s podpisom sporazuma pridobile nadzor nad petino venezuelskih naftnih rezerv. Ta poteza je bila objavljena po slovesnosti podpisa, kar kaže na pomemben premik v geopolitičnih in energetskih odnosih med državama. Dogovor potencialno omogoča ZDA večji vpliv na globalne trge nafte in zagotavlja stabilnejšo dobavo za ameriške interese. Venezuela, ki ima ene največjih dokazanih naftnih rezerv na svetu, je bila v preteklosti podvržena sankcijam, kar je vplivalo na njeno sposobnost izvoza. Ta sporazum bi lahko pomenil delno normalizacijo odnosov in odprtje venezuelske nafte za ameriške družbe.",
-      "analiza": "Ozadje tega dogovora je dolgoletna politična in gospodarska nestabilnost v Venezueli ter prizadevanja ZDA za diverzifikacijo virov nafte in zmanjšanje odvisnosti od drugih regij. Vpliv na finančne trge je večplasten. Za surovinske trge, zlasti nafto, to pomeni potencialno povečanje ponudbe, kar bi lahko dolgoročno stabiliziralo cene, čeprav so danes cene nafte WTI in Brent zrasle za 0.54 % na 90.71 USD/sod oziroma za 0.71 % na 95.32 USD/sod. Kratkoročno pa lahko takšni dogovori povzročijo negotovost glede izvedbe in dejanskega obsega proizvodnje. Za delnice energetskih podjetij, ki so vključena v venezuelske operacije, kot je Chevron, ki že širi svoje poslovanje, je to pozitivno. Na valutne trge bi lahko vplivalo na krepitev USD zaradi večje energetske neodvisnosti ZDA. Slovenski dolgoročni vlagatelj naj bo pozoren na stabilnost globalnih cen nafte, saj ta vpliva na stroške transporta in proizvodnje, kar se odraža v inflaciji in dobičkonosnosti podjetij.",
+      "povzetek": "Nvidia, velikan na področju polprevodnikov, je danes objavila načrte za nakup priljubljene razvijalske platforme Hugging Face v poslu, vrednem skoraj 13 milijard dolarjev. Posel, ki znaša 12,93 milijarde dolarjev (9,57 milijarde funtov), je eden največjih v zgodovini Nvidie. Hugging Face je vodilna platforma za odprtokodne modele umetne inteligence in skupnost razvijalcev. Nvidia s tem prevzemom stavi na podporo odprtim AI modelom, kar bi lahko pomagalo ublažiti morebitno upočasnitev povpraševanja po njenih čipih. Delnice Nvidie so po objavi posla danes rahlo padle.",
+      "analiza": "Prevzem Hugging Face s strani Nvidie za 12,9 milijarde dolarjev predstavlja strateško potezo, ki poudarja pomen odprtokodnih rešitev v ekosistemu umetne inteligence. Nvidia, znana predvsem po svojih grafičnih procesorjih, ki so ključni za razvoj AI, s tem širi svoj vpliv na programsko opremo in skupnost razvijalcev. Ta poteza se dogaja v času, ko se povpraševanje po AI čipih sicer še vedno povečuje, vendar se podjetja pripravljajo na morebitno stabilizacijo rasti. Z nadzorom nad platformo, kot je Hugging Face, Nvidia ne le krepi svojo pozicijo v verigi vrednosti AI, ampak tudi zmanjšuje odvisnost od zgolj strojne opreme. Posledice za delnice Nvidie so bile danes sprva rahlo negativne, kar je pogosto pri velikih prevzemih zaradi začetne negotovosti in stroškov integracije, vendar dolgoročno analitiki pričakujejo pozitivne učinke na prihodke in tržni delež. Za širši tehnološki sektor to pomeni nadaljnjo konsolidacijo in poudarek na celostnih rešitvah AI. Slovenski dolgoročni vlagatelji, ki so izpostavljeni tehnološkemu sektorju, bi morali to potezo razumeti kot utrjevanje Nvidijinega položaja v ključni industriji prihodnosti, kar lahko prispeva k stabilnosti in rasti njihovih naložb v tem segmentu.",
       "vpliv": [
-        "Potencialno povečanje globalne ponudbe nafte",
-        "Stabilizacija cen nafte na dolgi rok",
-        "Pozitivno za delnice ameriških energetskih podjetij",
-        "Krepitev geopolitičnega vpliva ZDA"
+        "Nvidia širi vpliv na programsko opremo AI",
+        "Konsolidacija v sektorju umetne inteligence",
+        "Potencialno dolgoročno pozitivno za delnice Nvidie",
+        "Povečana konkurenca v AI ekosistemu"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/signing-ceremony-as-us-to-control-a-fifth-of-venezuelas-oil-reserves?traffic_source=rss",
-      "objavljeno": "2026-09-02T18:51:07.000Z"
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+      "objavljeno": "2026-09-03T16:59:56.000Z"
     },
     {
-      "naslov": "Wall Street zaskrbljen zaradi morebitnega dviga obrestnih mer Feda",
+      "naslov": "Novi dvomi o dvigu obrestnih mer s strani Feda ta mesec",
       "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
+      "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "Wall Street je danes izkazal živčnost zaradi naraščajoče verjetnosti dviga obrestnih mer s strani ameriške centralne banke (Fed). Ta zaskrbljenost je sledila izjavam visokega uradnika Feda, ki so nakazale odprtost za takšno potezo. Vlagatelji zdaj pozorno spremljajo prihajajoče poročilo o zaposlovanju in podatke o inflaciji, ki bodo ključni za odločitve Feda. Predsednik Feda, Kevin Warsh, naj bi bil pripravljen na dvig obrestnih mer, če bodo ekonomski podatki to upravičili. Višje obrestne mere bi lahko upočasnile gospodarsko rast in vplivale na dobičkonosnost podjetij.",
-      "analiza": "Ozadje te novice je stalno prizadevanje Feda za obvladovanje inflacije, ki ostaja povišana, in hkrati podpiranje stabilne gospodarske rasti. V zadnjem obdobju so se pojavljali znaki, da bi Fed lahko ponovno zaostril monetarno politiko, če se inflacijski pritiski ne umirijo. Dvigi obrestnih mer običajno negativno vplivajo na delniške trge, saj povečajo stroške zadolževanja za podjetja in zmanjšajo privlačnost naložb v delnice v primerjavi z obveznicami. Današnji S&P 500 je sicer zrasel za 0.43 % na 7664, vendar je ta rast lahko kratkoročna. Za obvezniške trge bi dvig obrestnih mer pomenil padec cen obstoječih obveznic in rast donosnosti, čeprav je donosnost 10-letne ameriške državne obveznice danes ostala stabilna pri 4.80 %. Na valutnih trgih bi višje obrestne mere v ZDA okrepile dolar, kar se že kaže v rahlem padcu EUR/USD na 1.1589. Slovenski dolgoročni vlagatelj naj bo pozoren na politiko centralnih bank, saj ta določa splošne pogoje financiranja in vpliva na vrednotenje vseh naložb.",
+      "povzetek": "Na finančnih trgih se pojavljajo novi dvomi o tem, ali bo ameriška centralna banka (Fed) ta mesec zvišala obrestne mere. Guverner Feda, Christopher Waller, je podal močne argumente za ohranitev obrestnih mer na trenutni ravni. To nakazuje na morebitno spremembo v pričakovanjih glede denarne politike, kar je takoj vplivalo na trge. Znižanje donosnosti 10-letne ameriške državne obveznice za 0,71 % na 4,76 % in rast zlata za 2,58 % na 4528,40 USD/oz sta odraz teh pričakovanj.",
+      "analiza": "Razprava o morebitnem zadržanju obrestnih mer s strani Feda je ključna za globalne finančne trge. Izjave guvernerja Wallerja so pomemben signal, ki lahko spremeni pričakovanja vlagateljev. Če Fed ne bo zvišal obrestnih mer, to običajno pomeni 'mehkejši' pristop k denarni politiki, kar je pozitivno za delniške trge, saj zmanjšuje stroške zadolževanja podjetij in spodbuja gospodarsko rast. Hkrati to znižuje privlačnost obveznic, vendar v tem primeru padec donosnosti 10-letne ameriške državne obveznice kaže na povečano povpraševanje po varnih naložbah ali pa na pričakovanje, da bodo obrestne mere ostale nizke dlje časa, kar povečuje vrednost obstoječih obveznic. Zlato, ki velja za varno zatočišče in zaščito pred inflacijo, je močno pridobilo, kar kaže na negotovost glede prihodnje gospodarske rasti ali pa na pričakovanje, da bo Fedova politika kljub vsemu vodila v inflacijske pritiske. Padec volatilnosti (VIX) prav tako kaže na zmanjšanje negotovosti, vsaj kratkoročno. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati signale centralnih bank, saj imajo neposreden vpliv na vrednotenje vseh razredov sredstev. Morebitno zadržanje obrestnih mer bi lahko podprlo rast delniških trgov, vendar je treba biti pozoren na morebitne inflacijske pritiske.",
       "vpliv": [
-        "Potencialni padec delniških trgov",
-        "Rast donosnosti obveznic",
-        "Krepitev ameriškega dolarja",
-        "Povečani stroški zadolževanja za podjetja"
+        "Znižanje donosnosti 10-letne ameriške obveznice za 0,71 %",
+        "Rast zlata za 2,58 %",
+        "Pozitiven vpliv na delniške trge (S&P 500 +1,12 %, Nasdaq 100 +1,30 %)",
+        "Padec volatilnosti VIX za 4,67 %"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/feds-williams-is-opening-options-to-interest-rate-hikes-why-that-could-be-a-bad-trade-4ba6b32f?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-02T17:44:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/new-doubts-emerge-about-whether-fed-will-raise-interest-rates-this-month-1d23cc12?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-03T18:24:00.000Z"
     },
     {
-      "naslov": "Uber odpušča 3.300 zaposlenih v največjem valu po pandemiji",
-      "sektor": "Tehnologija & AI",
+      "naslov": "Hipotekarne obrestne mere 7 % že dosegljive, pravijo strokovnjaki",
+      "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Podjetje Uber je napovedalo odpuščanje 3.300 zaposlenih, kar predstavlja največje zmanjšanje delovne sile po pandemiji. Izvršni direktor Dara Khosrowshahi je dejal, da je cilj odpuščanj poenostavitev upravljavskih struktur in optimizacija ekip. To prestrukturiranje naj bi podjetju omogočilo bolj vitko in hitrejše delovanje v konkurenčnem okolju. Odpuščanja so del širšega globalnega prestrukturiranja, ki ga Uber izvaja, da bi se prilagodil novim tržnim razmeram in povečani konkurenci v sektorju dostave hrane ter razvoju robotaksijev.",
-      "analiza": "To odpuščanje se dogaja v času, ko se tehnološki sektor sooča z izzivi, kot so višje obrestne mere, upočasnjena rast in povečana konkurenca. Čeprav Uber navaja poenostavitev poslovanja, tako obsežna odpuščanja pogosto kažejo na pritisk na dobičkonosnost in potrebo po zmanjšanju stroškov. Za delniške trge, zlasti tehnološki sektor, je to mešan signal: kratkoročno lahko povzroči padec vrednosti delnic podjetja zaradi negotovosti, dolgoročno pa lahko izboljša operativno učinkovitost in dobičkonosnost. Vpliv na širši trg dela je pomemben, saj tako veliko število odpuščanj lahko vpliva na potrošniško zaupanje. Nasdaq 100 je danes sicer zrasel za 0.08 % na 29100, vendar so takšne novice lahko zaviralni dejavnik. Slovenski dolgoročni vlagatelj naj bo pozoren na trende v tehnološkem sektorju in na to, kako podjetja reagirajo na spreminjajoče se gospodarske pogoje, saj to vpliva na dolgoročno rast in stabilnost portfelja.",
+      "povzetek": "Hipotekarne obrestne mere so se povzpele na novo najvišjo raven v tem letu, kar prinaša slabe novice za kupce nepremičnin. Nekateri kupci in hipotekarni strokovnjaki poročajo, da so obrestne mere za hipotekarna posojila že dosegle 7 %. To zvišanje obrestnih mer pomeni večje mesečne stroške za kupce in lahko dodatno ohladi že tako napet nepremičninski trg. Visoke obrestne mere so posledica splošnega zviševanja obrestnih mer s strani centralnih bank v boju proti inflaciji.",
+      "analiza": "Doseganje 7-odstotnih hipotekarnih obrestnih mer predstavlja pomemben mejnik in negativno novico za nepremičninski trg ter potrošnike. Višje obrestne mere neposredno povečujejo stroške zadolževanja za nakup nepremičnin, kar zmanjšuje kupno moč in dostopnost stanovanj. To lahko vodi do zmanjšanja povpraševanja po nepremičninah, upočasnitve rasti cen ali celo do padca cen v nekaterih regijah. Za finančni sektor to pomeni morebitno zmanjšanje obsega hipotekarnih posojil in s tem povezanih prihodkov bank. Na širši makroekonomski ravni lahko ohlajanje nepremičninskega trga vpliva na potrošniško zaupanje in splošno gospodarsko aktivnost, saj je nepremičninski sektor pomemben del gospodarstva. Povezava z odločitvami centralnih bank je očitna, saj so hipotekarne obrestne mere tesno povezane z referenčnimi obrestnimi merami. Slovenski dolgoročni vlagatelji, ki imajo izpostavljenost do nepremičninskega trga ali podjetij, povezanih z njim (npr. gradbena podjetja, banke), bi morali biti pozorni na te trende, saj lahko vplivajo na vrednost njihovih naložb. Visoke obrestne mere lahko tudi vplivajo na odločitve o refinanciranju in splošno zadolženost gospodinjstev.",
       "vpliv": [
-        "Kratkoročni pritisk na delnice Uberja",
-        "Signal o izzivih v tehnološkem sektorju",
-        "Vpliv na potrošniško zaupanje",
-        "Potencialno izboljšanje dolgoročne operativne učinkovitosti Uberja"
+        "Zvišanje stroškov zadolževanja za nepremičnine",
+        "Zmanjšanje kupne moči in dostopnosti stanovanj",
+        "Potencialno ohlajanje nepremičninskega trga",
+        "Vpliv na prihodke bank in gradbenih podjetij"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/9/2/uber-lays-off-3300-employees-in-largest-cuts-since-the-pandemic?traffic_source=rss",
-      "objavljeno": "2026-09-02T16:55:52.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/7-mortgage-rates-are-already-here-some-buyers-mortgage-experts-say-c51a7e04?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-03T16:57:00.000Z"
     },
     {
-      "naslov": "Nizozemska centralna banka premika zlate rezerve iz New Yorka",
+      "naslov": "Ameriški avtomobilski proizvajalci pozivajo k trajni prepovedi kitajskih povezanih vozil",
       "sektor": "Geopolitika",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Nizozemska centralna banka (DNB) je sporočila, da premika svoje zlate palice iz New Yorka, pri čemer kot razlog navaja \"geopolitične nemire\". DNB daje prednost Londonu pred ameriškim mestom, saj poudarja boljšo \"trgovalnost\" zlata v britanski prestolnici. Ta poteza sledi trendu nekaterih centralnih bank, ki repatriirajo svoje zlate rezerve ali jih premikajo v bolj \"nevtralne\" lokacije. Odločitev odraža naraščajočo zaskrbljenost glede globalne stabilnosti in zaupanja v tradicionalne finančne centre. Premik lahko nakazuje tudi željo po večji neodvisnosti in nadzoru nad lastnimi rezervami.",
-      "analiza": "Geopolitični nemiri, kot so regionalni konflikti in napetosti med velesilami, so v zadnjem času v porastu, kar spodbuja centralne banke k previdnosti. Premik zlata iz New Yorka v London, ki je pomembno središče za trgovanje z zlatom, kaže na strateško odločitev za optimizacijo dostopnosti in likvidnosti rezerv v primeru krize. Za trge zlata je to lahko pozitiven signal, saj poudarja vlogo zlata kot varnega zatočišča v negotovih časih. Cena zlata je danes zrasla za 0.55 % na 4420.70 USD/oz, kar kaže na povečano povpraševanje po varnih naložbah. Vpliv na valute je posreden; lahko nakazuje na zmanjšano zaupanje v določene jurisdikcije, čeprav je EUR/USD danes stabilen. Slovenski dolgoročni vlagatelj naj razume, da so takšne poteze centralnih bank indikator širših geopolitičnih tveganj, ki lahko vplivajo na globalno gospodarstvo in privlačnost različnih razredov sredstev, vključno z zlatom kot varovalom pred negotovostjo.",
+      "povzetek": "Večji ameriški avtomobilski proizvajalci so pozvali Kongres, naj trajno prepove domačo prodajo, uvoz in proizvodnjo kitajskih povezanih vozil, strojne in programske opreme. Ta poziv je del širših prizadevanj za zaščito ameriške avtomobilske industrije in nacionalne varnosti pred morebitnimi tveganji, povezanimi s kitajsko tehnologijo. Avtomobilski proizvajalci izražajo zaskrbljenost glede varnosti podatkov in morebitnega nadzora s strani kitajske vlade preko teh vozil. Ta poteza bi lahko imela pomembne posledice za trgovinske odnose med ZDA in Kitajsko ter za globalno avtomobilsko industrijo.",
+      "analiza": "Poziv ameriških avtomobilskih proizvajalcev k prepovedi kitajskih povezanih vozil v ZDA je pomemben razvoj v tekoči trgovinski in tehnološki vojni med državama. Ozadje te pobude je skrb za nacionalno varnost, zaščito domače industrije in varnost podatkov, ki jih zbirajo sodobna vozila. Takšna prepoved bi imela neposreden negativen vpliv na kitajske avtomobilske proizvajalce, ki si prizadevajo za širitev na ameriški trg, hkrati pa bi lahko kratkoročno koristila ameriškim proizvajalcem z zmanjšanjem konkurence. Dolgoročno pa bi lahko to zaostrilo trgovinske odnose, kar bi lahko povzročilo povračilne ukrepe s strani Kitajske in vplivalo na globalne dobavne verige. Posledice za delnice ameriških avtomobilskih podjetij bi bile lahko pozitivne, medtem ko bi kitajska podjetja utrpela izgube. Na valutnih trgih bi se lahko povečala nestabilnost, če bi se trgovinske napetosti stopnjevale. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da takšne geopolitične odločitve vplivajo na globalne trge in lahko ustvarjajo tako priložnosti kot tveganja v različnih sektorjih. Spremljanje razvoja trgovinskih politik in njihovega vpliva na avtomobilsko industrijo je ključno.",
       "vpliv": [
-        "Povečano povpraševanje po zlatu kot varnem zatočišču",
-        "Signal o naraščajočih geopolitičnih tveganjih",
-        "Potencialno zmanjšano zaupanje v določene finančne centre",
-        "Vpliv na likvidnost in trgovalnost zlata"
+        "Potencialna prepoved kitajskih povezanih vozil v ZDA",
+        "Zaostrovanje trgovinskih odnosov med ZDA in Kitajsko",
+        "Vpliv na dobavne verige v avtomobilski industriji",
+        "Možna korist za ameriške avtomobilske proizvajalce"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/1749e753-9c90-4ff5-91ec-8df764f3b26d?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-02T17:23:12.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
+      "objavljeno": "2026-09-03T16:51:13.000Z"
     },
     {
-      "naslov": "Novi britanski vodja Burnham obljublja 'vrnitev upanja' v parlamentu",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Novoimenovani vodja Združenega kraljestva, Andy Burnham, se je danes prvič soočil s poslanskimi vprašanji v parlamentu. Burnham je obljubil, da bo \"vrnil upanje\" in se zavezal izpolnjevanju obrambnih in socialnih ciljev. Njegov nastop sledi pretresu v njegovi ekipi, kjer je na ključne vloge, kot je novi finančni minister v senci Andrew Griffith, postavil borbene in medijsko izkušene figure. To nakazuje na odločen pristop k vodenju in potencialne spremembe v vladni politiki. Vlagatelji bodo pozorno spremljali, kako se bodo te obljube in spremembe odrazile v konkretnih ekonomskih politikah.",
-      "analiza": "Politična stabilnost in jasna ekonomska smer sta ključni za zaupanje vlagateljev. Po nedavnih političnih pretresih v Združenem kraljestvu, vključno s spremembami v vodstvu, je Burnhamov nastop pomemben za signaliziranje nove smeri. Čeprav so obljube o \"vračanju upanja\" splošne, so konkretne zaveze glede obrambne in socialne porabe pomembne za javne finance in gospodarsko rast. Na finančne trge lahko politična negotovost vpliva na vrednost funta in privlačnost britanskih delnic. Poteze novega finančnega ministra v senci bodo ključne za oblikovanje fiskalne politike. Današnji DAX je padel za 0.50 %, kar kaže na splošno negotovost v Evropi, vendar je vpliv na funt in britanske delnice bolj neposreden. Slovenski dolgoročni vlagatelj naj bo pozoren na stabilnost in predvidljivost političnega okolja v velikih evropskih gospodarstvih, saj to vpliva na širše evropske trge in s tem posredno tudi na slovenske naložbe.",
-      "vpliv": [
-        "Potencialne spremembe v fiskalni politiki Združenega kraljestva",
-        "Vpliv na vrednost britanskega funta",
-        "Vpliv na zaupanje vlagateljev v britansko gospodarstvo",
-        "Možne spremembe v obrambni in socialni porabi"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/9/2/uks-burnham-faces-first-parliament-grilling-vows-to-bring-back-hope?traffic_source=rss",
-      "objavljeno": "2026-09-02T18:11:48.000Z"
-    },
-    {
-      "naslov": "Ameriški naftni velikan Chevron širi poslovanje v Venezueli",
-      "sektor": "Energetika",
+      "naslov": "OpenAI trdi, da je presegel Anthropic z najnovejšim modelom AI",
+      "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Ameriški naftni velikan Chevron, edino ameriško naftno podjetje z znatno prisotnostjo v Venezueli, je napovedal širitev svojih operacij v državi. Podjetje je pridobilo dodatne koncesije in načrtuje podvojitev proizvodnje nafte. Ta poteza sledi nedavnemu dogovoru, po katerem naj bi ZDA prevzele nadzor nad petino venezuelskih naftnih rezerv. Širitev Chevronevega poslovanja kaže na povečano zaupanje v stabilizacijo razmer in potencial za donosno izkoriščanje bogatih venezuelskih virov. To bi lahko imelo pomemben vpliv na globalno ponudbo nafte.",
-      "analiza": "Odločitev Chevronea za podvojitev proizvodnje v Venezueli je neposredna posledica izboljšanja političnih in operativnih pogojev, ki so bili omogočeni z novim dogovorom med ZDA in Venezuelo. To je ključnega pomena za globalne energetske trge, saj Venezuela premore ogromne, a doslej podizkoriščene naftne rezerve. Povečana proizvodnja s strani velikega igralca, kot je Chevron, lahko prispeva k stabilizaciji globalnih cen nafte na dolgi rok, čeprav so danes cene nafte WTI in Brent zrasle za 0.54 % na 90.71 USD/sod oziroma za 0.71 % na 95.32 USD/sod. Za delnice Chevronea in drugih energetskih podjetij, ki bi se lahko pridružila v prihodnosti, je to pozitivna novica, saj odpira nove priložnosti za rast. Na splošno to kaže na postopno vračanje venezuelske nafte na svetovne trge. Slovenski dolgoročni vlagatelj naj spremlja takšne razvojne dogodke v energetskem sektorju, saj vplivajo na cene energentov, inflacijo in dobičkonosnost podjetij v različnih panogah.",
+      "povzetek": "OpenAI, ustvarjalec ChatGPT, trdi, da je s svojim najnovejšim modelom umetne inteligence, imenovanim 'Astra', presegel konkurenčno podjetje Anthropic. Podjetje celo navaja, da bi se 'Astra' lahko štela za 'splošno umetno inteligenco' (AGI). Ta izjava poudarja intenzivno konkurenco in hitro inovacijo v sektorju umetne inteligence. Trditev OpenAI, da je njihov model superiornejši, kaže na nenehno tekmo za prevlado na trgu AI rešitev in razvoj naprednejših zmogljivosti.",
+      "analiza": "Trditev OpenAI, da je njihov model 'Astra' presegel Anthropic in se približuje 'splošni umetni inteligenci', je pomembna novica v hitro razvijajočem se sektorju AI. To kaže na izjemno hitrost inovacij in intenzivno konkurenco med vodilnimi podjetji, kot sta OpenAI in Anthropic. Takšne objave lahko sprožijo val optimizma med vlagatelji v tehnološki sektor, saj nakazujejo na nadaljnji potencial rasti in transformacije različnih industrij. Za delniške trge to pomeni nadaljnjo privlačnost naložb v podjetja, ki so v ospredju razvoja AI. Hkrati pa to poudarja tudi tveganja, povezana z visoko konkurenčnostjo, saj se lahko vodilni položaj hitro spreminja. Vpliv na surovine in valute je posreden, preko splošnega sentimenta in gospodarske rasti, ki jo poganja tehnološki napredek. Za slovenskega dolgoročnega vlagatelja je ključno razumeti, da je sektor umetne inteligence izjemno dinamičen in da so inovacije gonilna sila rasti. Naložbe v ta sektor so lahko donosne, vendar zahtevajo tudi pozorno spremljanje konkurence in tehnoloških prebojev. Konkurenca med vodilnimi akterji bo verjetno še naprej pospeševala razvoj in uvajanje novih AI rešitev.",
       "vpliv": [
-        "Povečanje proizvodnje nafte v Venezueli",
-        "Pozitivno za delnice Chevronea",
-        "Potencialna stabilizacija globalnih cen nafte",
-        "Krepitev ameriškega vpliva v venezuelski energetiki"
+        "Povečana konkurenca v sektorju umetne inteligence",
+        "Potencialno povečan optimizem v tehnološkem sektorju",
+        "Nadaljnja rast in inovacije v AI",
+        "Vpliv na delnice podjetij, povezanih z AI"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/9/2/us-oil-giant-chevron-to-expand-venezuela-operations?traffic_source=rss",
-      "objavljeno": "2026-09-02T16:57:22.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/55ab40c0-59e2-4c0b-97c9-4f4f5a71a8bb?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-03T18:00:11.000Z"
     },
     {
-      "naslov": "EU ministri v Dublinu razpravljajo o trgovini z izraelskimi naselji in obrambi Ukrajine",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
+      "naslov": "Tesline delnice rastejo ob pričakovanju 'nevihte Cybercabsov'",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Ministri Evropske unije so se v Dublinu sestali, da bi razpravljali o občutljivih vprašanjih, vključno s trgovino z izraelskimi naselji in obrambo Ukrajine. Napovedali so misijo za podporo libanonski vojski, vendar so ostali razdeljeni glede morebitnih sankcij proti Izraelu. Razprave poudarjajo kompleksnost evropske zunanje politike in izzive pri usklajevanju stališč med državami članicami glede mednarodnih konfliktov. Odločitve, sprejete na takšnih srečanjih, lahko imajo dolgoročne posledice za regionalno stabilnost in trgovinske odnose EU.",
-      "analiza": "Ozadje teh razprav so naraščajoče napetosti na Bližnjem vzhodu in nadaljevanje konflikta v Ukrajini, ki imata pomembne geopolitične in gospodarske posledice za Evropo. Razdeljenost glede sankcij proti Izraelu kaže na notranje politične in gospodarske interese znotraj EU. Podpora libanonski vojski je poskus stabilizacije regije, ki je ključnega pomena za energetske poti in migracijske tokove. Na finančne trge lahko takšna geopolitična negotovost vpliva na cene surovin, zlasti nafte, in na zaupanje vlagateljev v evropsko gospodarstvo. Današnji DAX je padel za 0.50 %, kar odraža splošno previdnost. Vpliv na valute je lahko mešan, saj se evro sooča z izzivi tako zaradi notranjih razhajanj kot tudi zunanjih pritiskov. Slovenski dolgoročni vlagatelj naj bo pozoren na razvoj dogodkov v teh regijah, saj lahko eskalacija konfliktov ali spremembe v trgovinskih politikah vplivajo na globalne dobavne verige in cene, kar se posredno odraža na donosnosti naložb.",
+      "povzetek": "Delnice Tesle so danes v porastu, saj se vlagatelji pripravljajo na 'nevihto Cybercabsov'. Podjetje Elona Muska, ki proizvaja električna vozila, bo v četrtek organiziralo dogodek za predstavitev avtonomnega vozila Cybercab. Pričakovanja glede tega novega izdelka so visoka, kar poganja rast delnic. Trg upa, da bo Cybercab odprl novo poglavje za Teslo na področju avtonomne vožnje in storitev mobilnosti, kar bi lahko bistveno povečalo prihodke in tržno vrednost podjetja.",
+      "analiza": "Rast Teslinih delnic pred predstavitvijo avtonomnega vozila Cybercab odraža močno pričakovanje vlagateljev glede inovacij in prihodnjih poslovnih modelov podjetja. Tesla je že dolgo v ospredju razvoja električnih vozil in avtonomne vožnje, in Cybercab bi lahko predstavljal pomemben korak naprej v tej smeri. Uspešna uvedba takšnega vozila bi lahko Tesli omogočila vstop na trg storitev vožnje na zahtevo, kar bi odprlo nove vire prihodkov in povečalo konkurenčno prednost. To ima pozitiven vpliv na delnice Tesle in celoten sektor električnih vozil (EV), saj kaže na nadaljnji potencial rasti in tehnološkega napredka. Vpliv na širše trge je posreden, preko splošnega optimizma v tehnološkem sektorju. Morebiten uspeh Cybercaba bi lahko spodbudil tudi druge proizvajalce avtomobilov k hitrejšemu razvoju avtonomnih rešitev. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati, kako se razvijajo inovacije v sektorju EV in avtonomne vožnje, saj te tehnologije preoblikujejo transportno industrijo. Naložbe v podjetja, ki so v ospredju teh sprememb, lahko prinesejo visoke donose, vendar so povezane tudi z višjim tveganjem zaradi hitrega tehnološkega razvoja in konkurence.",
       "vpliv": [
-        "Vpliv na regionalno stabilnost Bližnjega vzhoda",
-        "Potencialne spremembe v trgovinskih odnosih EU-Izrael",
-        "Povečana podpora libanonski vojski",
-        "Vpliv na cene surovin zaradi geopolitične negotovosti"
+        "Rast delnic Tesle pred predstavitvijo Cybercaba",
+        "Povečan optimizem v sektorju električnih vozil",
+        "Potencialni novi viri prihodkov za Teslo",
+        "Spodbuda za razvoj avtonomne vožnje v industriji"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss",
-      "objavljeno": "2026-09-02T17:56:18.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-03T16:50:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-02T18:59:56.736Z",
+    "posodobljenoOb": "2026-09-03T18:54:53.563Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7664.08,
-        "sprememba_pct": 0.43
+        "vrednost": 7752.27,
+        "sprememba_pct": 1.12
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29099.719,
-        "sprememba_pct": 0.08
+        "vrednost": 29521.332,
+        "sprememba_pct": 1.3
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25839.33,
-        "sprememba_pct": -0.5
+        "vrednost": 26003.32,
+        "sprememba_pct": 0.63
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 64325.64,
-        "sprememba_pct": -2.85
+        "vrednost": 64214.48,
+        "sprememba_pct": -0.17
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4420.7,
-        "sprememba_pct": 0.55,
+        "vrednost": 4528.4,
+        "sprememba_pct": 2.58,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 90.71,
-        "sprememba_pct": 0.54,
+        "vrednost": 91.42,
+        "sprememba_pct": 0.45,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 95.32,
-        "sprememba_pct": 0.71,
+        "vrednost": 95.53,
+        "sprememba_pct": -0.1,
         "enota": "USD/sod"
       }
     ],
@@ -181,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1589,
-        "sprememba_pct": -0.03
+        "vrednost": 1.1637,
+        "sprememba_pct": 0.39
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.796,
-        "sprememba_pct": 0,
+        "vrednost": 4.762,
+        "sprememba_pct": -0.71,
         "enota": "%"
       }
     ],
@@ -198,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 77342.72,
-        "sprememba_pct": -0.07,
+        "vrednost": 81177.18,
+        "sprememba_pct": 5,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.24,
-      "sprememba_pct": -6.73
+      "vrednost": 14.49,
+      "sprememba_pct": -4.67
     }
   }
 }
