@@ -1,151 +1,134 @@
 {
-  "generiranoOb": "2026-09-04T10:02:25.716Z",
+  "generiranoOb": "2026-09-05T08:22:54.791Z",
   "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-09-04",
-  "povzetek": "Jutranji pregled kaže na optimistično zaprtje ameriških in azijskih trgov, medtem ko Evropa pričakuje nadaljevanje trendov. Ameriški indeks S&P 500 je zaključil pri 7748 točkah (+1.06 %), Nasdaq 100 pa pri 29482 točkah (+1.16 %). Azijski Nikkei 225 je sledil z rastjo na 65021 točk (+1.26 %), medtem ko je nemški DAX zabeležil skromnejšo rast na 26020 točk (+0.06 %). Na trgu surovin so cene nafte WTI in Brent ter zlata nekoliko upadle, medtem ko je Bitcoin zabeležil minimalen padec na 81038 USD. Glavne novice vključujejo napoved Volkswagna o zmanjšanju 50.000 delovnih mest, kar je pozitivno vplivalo na njihove delnice, ter rekordno visoke cene dizla v ZDA, ki odražajo vpliv iranskega konflikta. Vlagatelji bodo ta teden pozorno spremljali prihajajočo objavo podatkov o inflaciji v ZDA, ki bo ključna za določanje smeri monetarne politike.",
+  "datum": "2026-09-05",
+  "povzetek": "Jutranja izdaja, 5. september 2026, prinaša mešane signale z globalnih trgov. Ameriški indeks S&P 500 je noč zaključil z rahlim padcem za 0,38 % pri 7719 točkah, medtem ko je tehnološki Nasdaq 100 zabeležil skromno rast za 0,21 % na 29544 točk. Azijski trgi so bili bolj optimistični, saj je Nikkei 225 poskočil za 1,26 % na 65021 točk, kar nakazuje na pozitiven začetek evropskega trgovanja, kjer je DAX že v plusu za 0,17 % pri 26046 točkah. Na trgu surovin se je cena zlata znižala za 1,39 % na 4476,60 USD/oz, medtem ko sta nafta WTI in Brent pridobili 0,20 % (91,48 USD/sod) oziroma 0,80 % (96,28 USD/sod), kar odraža geopolitične napetosti. Donosnost 10-letne ameriške državne obveznice se je zvišala za 0,46 % na 4,78 %, kar kaže na povečano tveganje ali pričakovanja glede inflacije. Bitcoin je ostal stabilen pri 79669 USD (-0,01 %), medtem ko je indeks VIX, merilec volatilnosti, zrasel za 1,47 % na 14,53. Med ključnimi novicami izstopajo nadaljevanje trenj med ZDA in Iranom, sankcije proti turški banki, vprašanja glede trgovinske vojne med ZDA in Kanado ter vpliv umetne inteligence na cene elektronike. Vlagatelji bodo ta teden pozorno spremljali prihajajoče objave o inflaciji v evroobmočju, ki lahko vplivajo na pričakovanja glede monetarne politike Evropske centralne banke.",
   "novice": [
     {
-      "naslov": "Volkswagen načrtuje ukinitev 50.000 delovnih mest v zgodovinskem prestrukturiranju",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Nemški avtomobilski proizvajalec Volkswagen je napovedal obsežno prestrukturiranje, ki vključuje ukinitev do 50.000 delovnih mest. Ta poteza je del širšega načrta za zmanjšanje skupno 100.000 delovnih mest do leta 2030 in bi lahko vodila tudi do zaprtja tovarn. Novica je bila objavljena 4. septembra 2026 ob 09:03:21 UTC in je povzročila 6-odstotno rast delnic podjetja, saj trgi pozitivno ocenjujejo prizadevanja za povečanje učinkovitosti. Prestrukturiranje zajema celotno skupino, vključno z znamkami Audi, Porsche in Škoda, in je namenjeno izboljšanju konkurenčnosti v spreminjajočem se avtomobilskem sektorju.",
-      "analiza": "Ozadje te napovedi je pritisk na avtomobilsko industrijo zaradi prehoda na električna vozila, stroškovne učinkovitosti in globalne konkurence. Volkswagen, kot eden največjih proizvajalcev na svetu, se sooča s potrebo po optimizaciji poslovanja in prilagoditvi novim tehnologijam. Zmanjšanje delovnih mest, čeprav socialno občutljivo, je s finančnega vidika pogosto interpretirano kot znak odločnosti vodstva za izboljšanje dobičkonosnosti in dolgoročne vzdržnosti podjetja. To se je odrazilo v takojšnjem 6-odstotnem dvigu delnic Volkswagna, saj vlagatelji pričakujejo nižje operativne stroške in s tem višje marže. Na širšem trgu delnic bi lahko takšne novice spodbudile podobne poteze v drugih velikih industrijskih podjetjih, kar bi lahko kratkoročno vplivalo na sentiment v sektorju. Za obveznice in valute je neposreden vpliv manjši, posredno pa lahko vpliva na gospodarsko rast in s tem na monetarno politiko. Za slovenskega dolgoročnega vlagatelja to kaže na nenehne spremembe v tradicionalnih industrijah in pomen izbire podjetij, ki so sposobna prilagoditi svoje poslovanje novim tržnim razmeram, hkrati pa poudarja tveganja, povezana z delovnimi mesti v globalnih dobavnih verigah.",
-      "vpliv": [
-        "Delnice Volkswagna +6 %",
-        "Potencialno povečanje dobičkonosnosti podjetja",
-        "Negativen vpliv na zaposlovanje v avtomobilskem sektorju",
-        "Indikator širših strukturnih sprememb v industriji"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/77641f53-8dcb-4adf-9295-9ce44b8d49d6?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-04T09:03:21.000Z"
-    },
-    {
-      "naslov": "Cene dizla v ZDA dosegle rekordno raven zaradi konflikta v Iranu",
-      "sektor": "Energetika",
+      "naslov": "Trumpova administracija in Iran: napetosti se nadaljujejo kljub umirjanju retorike",
+      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Cene dizla v Združenih državah Amerike so dosegle zgodovinsko najvišjo raven. Ta porast cen goriva je neposredna posledica konflikta v Iranu, ki se je začel konec februarja 2026 in je povzročil skok veleprodajnih cen nafte. Novica, objavljena 4. septembra 2026 ob 09:59:50 UTC, poudarja občutljivost trga nafte na geopolitične napetosti. Visoke cene dizla imajo širok vpliv na gospodarstvo, saj dizel poganja velik del transportnega sektorja in industrije.",
-      "analiza": "Ozadje je eskalacija iranskega konflikta, ki je povzročila zaskrbljenost glede globalne oskrbe z nafto. Iran je ključen igralec na svetovnem energetskem trgu, in vsaka nestabilnost v regiji takoj vpliva na cene surovin. Veleprodajne cene nafte, kot sta WTI pri 90.95 USD/sod (-0.38 %) in Brent pri 95.33 USD/sod (-0.20 %), so sicer danes zabeležile manjši padec, vendar je trend od februarja močno rastel, kar se odraža v cenah dizla. Mehanizem vpliva je preprost: višje cene nafte pomenijo višje stroške predelave in distribucije goriv. Posledice so večplastne: za delnice to pomeni pritisk na podjetja v transportnem, logističnem in proizvodnem sektorju, ki se soočajo z višjimi operativnimi stroški. Potrošniki se soočajo z višjimi cenami blaga in storitev, kar lahko zmanjša kupno moč in povzroči inflacijske pritiske. Centralne banke, kot je ameriški Fed, bodo morda prisiljene k bolj restriktivni monetarni politiki, kar bi lahko vplivalo na obvezniške donose (10Y US Treasury je pri 4.76 % (-0.71 %)). Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, kako geopolitični dogodki lahko neposredno vplivajo na globalne cene surovin in s tem na dobičkonosnost podjetij ter inflacijska pričakovanja, kar zahteva preudarno diverzifikacijo portfelja.",
+      "povzetek": "Ameriški predsednik Donald Trump je ponovil opozorilo, da bi ZDA lahko \"zelo kmalu\" napadle iransko goro Pickaxe, hkrati pa je vojno z Iranom označil za \"majhen krompir\" in dejal, da se ZDA \"trenutno ne borijo\", kljub nedavni izmenjavi ognja. Ta protislovna sporočila prihajajo v času, ko Al Jazeera poroča, da ZDA preiskujejo uhajanje informacij o vojni z Iranom, pri čemer je bilo s poligrafom testiranih 50 članov Združenega štaba. To kaže na notranje napetosti v administraciji glede obravnave konflikta. Napetosti v regiji ostajajo visoke, kar vpliva na globalno stabilnost in trge surovin, še posebej na cene nafte.",
+      "analiza": "Ozadje teh dogodkov je dolgotrajna napetost med ZDA in Iranom, ki se je v zadnjem času stopnjevala z izmenjavo ognja in grožnjami. Relevantnost je v neposrednem vplivu na stabilnost Bližnjega vzhoda, ključne regije za svetovno oskrbo z nafto. Mehanizem vpliva je predvsem preko pričakovanj o motnjah v dobavi nafte, kar dviga cene. Posledice za surovine so že vidne, saj sta nafta WTI in Brent zrasli za 0,20 % oziroma 0,80 %, na 91,48 USD/sod in 96,28 USD/sod. Morebitna eskalacija bi lahko povzročila nadaljnje skoke cen nafte in s tem inflacijske pritiske, kar bi vplivalo na delnice energetskih podjetij in letalskih prevoznikov. Obveznice bi lahko služile kot varno zatočišče, medtem ko bi se valute, odvisne od uvoza nafte, lahko oslabile. Zgodovinski primeri kažejo, da so geopolitične napetosti na Bližnjem vzhodu pogosto vodile do nestabilnosti na naftnih trgih. Za slovenskega dolgoročnega vlagatelja to pomeni povečano negotovost in potencialno višje cene energentov, kar se lahko odrazi v višjih stroških poslovanja podjetij in inflaciji. Pomembno je spremljati diplomatske poteze in morebitne nadaljnje vojaške akcije.",
       "vpliv": [
-        "Rekordno visoke cene dizla v ZDA",
-        "Povečani inflacijski pritiski",
-        "Višji operativni stroški za transportna podjetja",
-        "Potencialno zmanjšanje kupne moči potrošnikov"
+        "Rast cen nafte WTI na 91,48 USD/sod",
+        "Rast cen nafte Brent na 96,28 USD/sod",
+        "Povečana geopolitična negotovost",
+        "Potencialni inflacijski pritiski"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-04T09:59:50.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
+      "objavljeno": "2026-09-05T00:00:00.000Z"
     },
     {
-      "naslov": "Filipinski peso strmoglavil na rekordno nizko raven zaradi iranske vojne",
+      "naslov": "ZDA uvedle sankcije proti turški banki zaradi domnevnih vezi z Iranom",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Filipinski peso je strmoglavil na zgodovinsko najnižjo raven, kar je posledica vpliva iranske vojne in notranjih gospodarskih izzivov države. Novica, objavljena 4. septembra 2026 ob 08:38:34 UTC, poudarja ranljivost valut držav v razvoju na globalne geopolitične dogodke in ekonomske pritiske. Padec valute ima pomembne posledice za uvoz, izvoz in inflacijo v državi, saj podraži uvoženo blago in storitve ter poveča stroške servisiranja dolga v tuji valuti.",
-      "analiza": "Padec filipinskega pesa je neposredna posledica dveh ključnih dejavnikov: iranskega konflikta in domačih gospodarskih težav. Geopolitična nestabilnost, zlasti v regijah, ki so pomembne za oskrbo z energijo, običajno povzroči beg kapitala iz bolj tveganih naložb, kot so valute držav v razvoju, v varnejša zatočišča. To poveča povpraševanje po močnejših valutah, kot je ameriški dolar, kar se odraža tudi v tečaju EUR/USD, ki je danes pri 1.1621 (-0.09 %). Visoke cene nafte, ki so posledica iranskega konflikta, obremenjujejo države uvoznice nafte, kot so Filipini, saj povečujejo stroške uvoza in poslabšujejo trgovinsko bilanco. Za delnice to pomeni pritisk na podjetja, ki so odvisna od uvoza, in na splošno zmanjšanje privlačnosti naložb v državi. Obveznice v lokalni valuti postanejo manj privlačne zaradi inflacijskih tveganj in morebitnega zvišanja obrestnih mer centralne banke za obrambo valute. Za slovenskega dolgoročnega vlagatelja to ponazarja tveganja naložb na trgih v razvoju, ki so bolj izpostavljeni globalnim šokom in geopolitičnim dogodkom, ter pomen globalne diverzifikacije in razumevanja valutnih tveganj.",
+      "povzetek": "Združene države Amerike so uvedle sankcije proti turški banki, obtožujoč jo, da je omogočala milijonske transakcije za Iran, domnevno povezane z Islamsko revolucionarno gardo (IRGC). Ta poteza je sprožila takojšnjo pravno grožnjo s strani Turčije, kar nakazuje na morebitno diplomatsko in gospodarsko zaostrovanje med državama. Sankcije so bile objavljene s strani Al Jazeere in so del širših prizadevanj ZDA za omejevanje iranskega financiranja in vpliva. Turška stran ostro nasprotuje obtožbam in napoveduje pravne ukrepe, kar dodatno zaostruje situacijo.",
+      "analiza": "Uvedba sankcij proti turški banki s strani ZDA je del širše strategije pritiska na Iran in njegove domnevne finančne mreže. Ozadje je dolgotrajno ameriško nasprotovanje iranskemu jedrskemu programu in regionalnim aktivnostim, pri čemer se sankcije uporabljajo kot ključno orodje. Relevantnost je v tem, da takšne poteze lahko povzročijo trenja med ZDA in Turčijo, članico Nata, ter destabilizirajo finančni sektor v regiji. Mehanizem vpliva je preko omejevanja dostopa banke do mednarodnega finančnega sistema, kar lahko povzroči likvidnostne težave in zmanjšanje zaupanja v turški bančni sektor. Posledice se lahko odrazijo v padcu vrednosti turške lire, saj se povečuje tveganje za investitorje. Prav tako lahko vplivajo na delnice turških bank in podjetij, ki poslujejo z Iranom ali so odvisna od mednarodnega financiranja. Zgodovinski primeri sankcij proti bankam kažejo, da lahko to povzroči znatne motnje v finančnih tokovih. Za slovenskega dolgoročnega vlagatelja je to opozorilo na tveganja, povezana z geopolitičnimi napetostmi in sankcijami, ki lahko vplivajo na globalne dobavne verige in stabilnost trgov v razvijajočih se gospodarstvih.",
       "vpliv": [
-        "Rekordno nizka vrednost filipinskega pesa",
-        "Povečani stroški uvoza",
-        "Inflacijski pritiski na Filipinih",
-        "Beg kapitala iz tveganih naložb"
+        "Povečana napetost med ZDA in Turčijo",
+        "Potencialna oslabitev turške lire",
+        "Tveganje za turški bančni sektor",
+        "Vpliv na mednarodne finančne transakcije"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss",
-      "objavljeno": "2026-09-04T08:38:34.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss",
+      "objavljeno": "2026-09-05T05:19:05.000Z"
     },
     {
-      "naslov": "Kupci Firmus Energy se soočajo s povišanjem cen energije za do 12,5 %",
-      "sektor": "Potrošniki",
+      "naslov": "Analiza kanadskega odziva na trgovinsko vojno z ZDA",
+      "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Kupci podjetja Firmus Energy se bodo soočili s povišanjem cen energije, kar bo vplivalo na gospodinjstva v regiji Ten Towns in širšem Belfastu. Stranke v regiji Ten Towns bodo doživele povišanje cen za 8.98 %, medtem ko se bodo cene za Greater Belfast povišale za 12.5 %. Novica je bila objavljena 4. septembra 2026 ob 10:00:59 UTC in je del širšega trenda naraščajočih stroškov življenja. To povišanje cen neposredno vpliva na proračune gospodinjstev in lahko zmanjša razpoložljivi dohodek za druge izdatke.",
-      "analiza": "To povišanje cen energije je del širšega trenda naraščajočih stroškov življenja, ki ga poganjajo predvsem visoke cene energentov in inflacijski pritiski. Podobno kot pri rekordnih cenah dizla, tudi cene plina za gospodinjstva odražajo globalne tržne razmere in morebitne geopolitične vplive. Mehanizem vpliva je direkten: višji stroški ogrevanja in električne energije zmanjšujejo razpoložljivi dohodek gospodinjstev, kar posledično vpliva na potrošnjo. Za delnice to pomeni potencialno zmanjšanje prodaje v sektorjih, ki niso nujni (diskrecijska potrošnja), in pritisk na podjetja, ki se soočajo z višjimi stroški energije. Na obvezniških trgih lahko to prispeva k inflacijskim pričakovanjem, kar bi lahko vodilo do višjih donosov. Za valute je vpliv posreden, saj vpliva na splošno gospodarsko aktivnost. Za slovenskega dolgoročnega vlagatelja to poudarja pomen spremljanja inflacijskih trendov in vpliva na potrošniško moč. Naložbe v podjetja, ki so odporna na inflacijo ali imajo močno cenovno moč, so lahko v takšnih obdobjih bolj privlačne.",
+      "povzetek": "BBC Business poroča o stopnjevanju trgovinske vojne med ZDA in Kanado ter analizira zmožnost Kanade, da se učinkovito odzove. Čeprav so ZDA večji trgovinski partner, analitiki menijo, da Kanade ne bi smeli odpisati v tem naraščajočem trgovinskem sporu. Opis poudarja, da se trgovinski boj stopnjuje, kar lahko ima pomembne posledice za obe gospodarstvi in globalne dobavne verige. Ta situacija ustvarja negotovost za podjetja in vlagatelje na obeh straneh meje.",
+      "analiza": "Ozadje te novice je naraščajoča trgovinska napetost med dvema tesnima gospodarskima partnericama, ZDA in Kanado, ki sta del sporazuma USMCA (nekdanji NAFTA). Relevantnost je v tem, da trgovinske vojne povzročajo negotovost, motijo dobavne verige in lahko vodijo do višjih cen za potrošnike ter zmanjšane gospodarske rasti. Mehanizem vpliva je preko uvedbe carin in drugih trgovinskih ovir, kar zmanjšuje obseg trgovine in vpliva na dobičkonosnost podjetij, ki so odvisna od čezmejnega poslovanja. Posledice se lahko odrazijo v padcu delnic podjetij, ki so močno izpostavljena trgovini med državama, ter v morebitni oslabitvi kanadskega dolarja. Povečana negotovost lahko vpliva tudi na obvezniške trge, saj vlagatelji iščejo varnejša zatočišča. Zgodovinski primeri, kot so trgovinske napetosti med ZDA in Kitajsko, kažejo, da imajo takšni spori dolgotrajne negativne učinke na globalno gospodarstvo. Za slovenskega dolgoročnega vlagatelja je to opozorilo na globalno povezanost trgov in na to, kako trgovinski spori vplivajo na svetovne dobavne verige in s tem na podjetja, ki so del teh verig, tudi če niso neposredno vpletena.",
       "vpliv": [
-        "Povišanje cen energije za 8.98 % in 12.5 %",
-        "Zmanjšanje razpoložljivega dohodka gospodinjstev",
-        "Povečani inflacijski pritiski",
-        "Potencialno zmanjšanje diskrecijske potrošnje"
+        "Povečana negotovost v globalni trgovini",
+        "Potencialno zmanjšanje gospodarske rasti v ZDA in Kanadi",
+        "Vpliv na delnice podjetij, izpostavljenih trgovini",
+        "Možna oslabitev kanadskega dolarja"
       ],
       "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cqlw6g2x1lko?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-04T10:00:59.000Z"
+      "vir_url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-05T02:13:21.000Z"
     },
     {
-      "naslov": "Vodja norveškega naftnega sklada predlaga zmanjšanje naložb v ameriške obveznice",
+      "naslov": "Sklad Jefferies izpostavljen 500 milijonom dolarjev v domnevni prevari",
       "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Vodja norveškega državnega naftnega sklada, ki upravlja z 2 bilijonoma dolarjev premoženja, je predlagal zmanjšanje deleža ameriških državnih obveznic (US Treasury) v portfelju sklada. Predlog, objavljen 4. septembra 2026 ob 04:00:19 UTC, je namenjen povečanju donosov in je bil posredovan Ministrstvu za finance. Ta poteza bi lahko imela pomembne posledice za globalne obvezniške trge in povpraševanje po ameriškem dolarju, saj norveški sklad velja za enega največjih institucionalnih vlagateljev na svetu.",
-      "analiza": "Norveški naftni sklad je eden največjih suverenih premoženjskih skladov na svetu, zato imajo njegove naložbene odločitve velik vpliv na globalne finančne trge. Predlog za zmanjšanje deleža ameriških državnih obveznic odraža iskanje višjih donosov v okolju, kjer so donosi tradicionalnih varnih naložb, kot so US Treasury, morda ocenjeni kot nezadostni. To je lahko posledica pričakovanj o prihodnji inflaciji, sprememb v monetarni politiki ali iskanja bolj razpršenih naložbenih priložnosti. Mehanizem vpliva je takšen, da bi morebitna prodaja velikega obsega ameriških obveznic s strani tako velikega vlagatelja lahko povzročila padec cen obveznic in s tem povišanje njihovih donosov. To bi se odrazilo tudi na donosu 10-letne ameriške obveznice, ki je trenutno pri 4.76 % (-0.71 %). Povečanje donosov bi lahko vplivalo na stroške zadolževanja ZDA in na privlačnost ameriškega dolarja. Za delnice bi višji donosi obveznic lahko pomenili manj privlačno alternativo, kar bi lahko povzročilo odliv kapitala iz delniških trgov. Za slovenskega dolgoročnega vlagatelja to poudarja, da tudi največji vlagatelji nenehno prilagajajo svoje strategije in da je diverzifikacija portfelja ključna, saj se globalni tokovi kapitala lahko hitro spreminjajo in vplivajo na različne razrede sredstev.",
+      "povzetek": "Sklad Point Bonita, ki ga upravlja Jefferies, se je znašel v težavah, saj je bil izpostavljen 500 milijonom dolarjev v drugi domnevni prevari z računi. Sklad, ki je financiral propadlo skupino First Brands Group, je zdaj tudi velik upnik podjetja Radiant World. Ta novica, ki jo je objavil Financial Times, poudarja tveganja v finančnem sektorju in vprašanja glede skrbnosti pri naložbah. Incident odpira vprašanja o notranjih kontrolah in preverjanju posojilojemalcev v finančnih institucijah.",
+      "analiza": "Ta novica se nanaša na resen primer domnevne prevare v finančnem sektorju, ki vključuje sklad, povezan z ugledno investicijsko banko Jefferies. Ozadje je vprašanje skrbnosti (due diligence) in nadzora v kompleksnih finančnih transakcijah, še posebej pri financiranju podjetij. Relevantnost je v potencialnem vplivu na zaupanje vlagateljev v finančne institucije in njihove sklade, še posebej po ponavljajočih se incidentih. Mehanizem vpliva je preko neposrednih izgub za sklad Point Bonita in njegove vlagatelje, kar lahko povzroči odlive sredstev in pritisk na upravljavca. Posledice se lahko odrazijo v padcu delnic Jefferies, saj se povečujejo tveganja za ugled in morebitne pravne stroške. Prav tako lahko vpliva na širši finančni sektor, saj se povečuje nadzor nad praksami financiranja in tveganji. Zgodovinski primeri velikih prevar, kot je Enron, kažejo, da lahko takšni incidenti resno omajajo zaupanje v trg. Za slovenskega dolgoročnega vlagatelja to poudarja pomen diverzifikacije in skrbnega preučevanja naložbenih produktov ter tveganj, povezanih z njimi, tudi če so povezani z velikimi in uglednimi institucijami.",
       "vpliv": [
-        "Potencialno zvišanje donosov ameriških obveznic",
-        "Padec cen ameriških obveznic",
-        "Vpliv na vrednost ameriškega dolarja",
-        "Sprememba globalnih tokov kapitala"
+        "Izgube za sklad Point Bonita v višini 500 milijonov USD",
+        "Potencialen padec delnic Jefferies",
+        "Zmanjšano zaupanje v finančni sektor",
+        "Povečan nadzor nad naložbenimi praksami"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/ecc15aa6-6e7b-409d-8753-2fb6aadd0592?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-04T04:00:19.000Z"
+      "vir_url": "https://www.ft.com/content/6bde3e74-9a7c-4528-9b9c-42a14eec0414?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-05T04:00:42.000Z"
     },
     {
-      "naslov": "Argentinski predsednik grozi s sankcijami naftnim podjetjem zaradi Falklandov",
-      "sektor": "Geopolitika",
+      "naslov": "Razcvet umetne inteligence obrača dolgoletni trend cenejše elektronike",
+      "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Argentinski predsednik Javier Milei je ponovno poudaril zahtevo svoje države po britanskem čezmorskem ozemlju Falklandskih otokov in zagrozil s sankcijami proti naftnim podjetjem, ki delujejo v bližini otokov. Izjavil je, da 'vetrovi sprememb' favorizirajo Argentino. Novica, objavljena 4. septembra 2026 ob 06:52:29 UTC, prinaša novo stopnjo napetosti v dolgoletnem sporu in lahko vpliva na energetska podjetja, ki raziskujejo ali črpajo nafto v spornih vodah. To lahko povzroči negotovost glede prihodnjih naložb v regiji.",
-      "analiza": "Dolgoročni spor med Argentino in Združenim kraljestvom glede suverenosti nad Falklandskimi otoki se je ponovno razplamtel z izjavami predsednika Mileija. Regija okoli Falklandov je znana po potencialnih nahajališčih nafte in plina, kar daje sporu tudi pomembno ekonomsko dimenzijo. Grožnje s sankcijami proti naftnim podjetjem, ki tam delujejo, ustvarjajo dodatno geopolitično tveganje in lahko vplivajo na globalno oskrbo z nafto. Mehanizem vpliva je takšen, da povečana negotovost v regiji odvrača naložbe v raziskovanje in črpanje nafte, kar lahko zmanjša ponudbo na trgu in posledično dvigne cene surovin. Čeprav WTI nafta danes beleži padec na 90.95 USD/sod (-0.38 %) in Brent na 95.33 USD/sod (-0.20 %), bi dolgoročna eskalacija lahko spremenila ta trend. Za delnice to pomeni tveganje za energetska podjetja, ki imajo koncesije v spornih vodah, in potencialno povečanje premije za tveganje za naložbe v regiji. Na obvezniških trgih lahko geopolitične napetosti povečajo povpraševanje po varnih zatočiščih. Za slovenskega dolgoročnega vlagatelja to poudarja, kako geopolitični konflikti, tudi tisti, ki se zdijo oddaljeni, lahko vplivajo na globalne cene surovin in s tem na inflacijo ter dobičkonosnost podjetij v energetskem sektorju. Pomembno je upoštevati politična tveganja pri naložbah v določene regije ali sektorje.",
+      "povzetek": "Razcvet umetne inteligence (AI) obrača dolgoletni trend padanja cen elektronike, poroča Financial Times. Cene telefonov, prenosnih računalnikov in igralnih konzol so se že zvišale, trgovci pa napovedujejo nadaljnje povišanje. To je posledica povečanega povpraševanja po komponentah, ki so ključne za AI tehnologije, kar ustvarja pritisk na dobavne verige in proizvodne stroške. Povečani stroški proizvodnje se prenašajo na končne potrošnike, kar prispeva k inflacijskim pritiskom.",
+      "analiza": "Dolgoletni trend v tehnološki industriji je bil stalen padec cen elektronike, ki je omogočal širšo dostopnost in rast trga. Razcvet umetne inteligence (AI) je ta trend prekinil, saj povpraševanje po naprednih čipih in komponentah, potrebnih za AI, močno presega ponudbo. Relevantnost je v vplivu na inflacijo in potrošniško moč, saj višje cene elektronike pomenijo višje stroške za gospodinjstva in podjetja. Mehanizem vpliva je preko povečanih proizvodnih stroškov in omejene ponudbe, kar se prenaša na končne cene izdelkov. Posledice se odrazijo v višjih cenah potrošniške elektronike, kar lahko vpliva na prodajo in dobičkonosnost podjetij v sektorju. Hkrati pa to lahko pomeni tudi višje marže za proizvajalce ključnih AI komponent. Za delnice tehnoloških podjetij, ki so odvisna od prodaje končnih izdelkov, je to lahko negativno, medtem ko so proizvajalci čipov in AI infrastrukture lahko v prednosti. Zgodovinsko so se cene elektronike zniževale zaradi izboljšanja proizvodnih procesov, sedaj pa AI povzroča strukturne spremembe. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba upoštevati inflacijske pritiske v tehnološkem sektorju in pretehtati naložbe v podjetja, ki so v verigi vrednosti AI, bodisi kot proizvajalci komponent ali kot ponudniki rešitev.",
       "vpliv": [
-        "Povečana geopolitična tveganja v južnem Atlantiku",
-        "Negotovost za naftna podjetja na Falklandih",
-        "Potencialni vpliv na cene nafte",
-        "Odvračanje tujih naložb v regijo"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-04T06:52:29.000Z"
-    },
-    {
-      "naslov": "Univerzitetna diploma izgublja svoj sijaj, opozarja Financial Times",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 1,
-      "povzetek": "Članek v Financial Timesu, objavljen 4. septembra 2026 ob 04:00:27 UTC, razpravlja o tem, kako tehnološke in ekonomske spremembe zmanjšujejo dodano vrednost univerzitetne diplome. Ugotavlja, da se 'premija za diplomante' erodira, kar pomeni, da visokošolska izobrazba ne zagotavlja več samodejno bistveno boljših zaposlitvenih in dohodkovnih možnosti kot v preteklosti. To nakazuje na strukturne spremembe na trgu dela in v izobraževalnem sistemu, ki imajo dolgoročne posledice za mlade in gospodarstvo.",
-      "analiza": "Ozadje te analize je hitra transformacija trga dela, ki jo poganjajo avtomatizacija, umetna inteligenca in globalizacija. Tradicionalne veščine, pridobljene na univerzah, so v nekaterih sektorjih manj povpraševane, medtem ko narašča potreba po specializiranih tehničnih znanjih in mehkih veščinah, ki jih univerze morda ne zagotavljajo vedno. Mehanizem vpliva je takšen, da zmanjšana 'premija za diplomante' lahko vodi do manjšega povpraševanja po visokošolskem izobraževanju, sprememb v kariernih poteh mladih in potencialnega pritiska na plače v nekaterih poklicih. Za delnice bi to lahko pomenilo izzive za podjetja v izobraževalnem sektorju in tista, ki se zanašajo na tradicionalno izobraženo delovno silo. Po drugi strani pa bi lahko koristilo podjetjem, ki ponujajo alternativne oblike izobraževanja, prekvalifikacije ali tehnološke rešitve za avtomatizacijo. Na makroekonomski ravni lahko vpliva na produktivnost in inovativnost. Za slovenskega dolgoročnega vlagatelja to poudarja pomen naložb v podjetja, ki so prilagodljiva in inovativna pri zaposlovanju, ter v sektorje, ki so odporni na te strukturne spremembe ali celo od njih profitirajo. Hkrati pa opozarja na širše družbene in ekonomske trende, ki preoblikujejo prihodnost dela in izobraževanja.",
-      "vpliv": [
-        "Erozija 'premije za diplomante'",
-        "Spremembe na trgu dela",
-        "Potencialno zmanjšanje povpraševanja po tradicionalnem visokošolskem izobraževanju",
-        "Vpliv na produktivnost in inovativnost"
+        "Rast cen telefonov, prenosnikov in igralnih konzol",
+        "Inflacijski pritiski v sektorju elektronike",
+        "Povečano povpraševanje po AI komponentah",
+        "Vpliv na marže proizvajalcev in trgovcev"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/54cf40cd-149f-40db-b603-21aecd5f66ec?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-04T04:00:27.000Z"
+      "vir_url": "https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa",
+      "objavljeno": "2026-09-05T04:00:05.000Z"
+    },
+    {
+      "naslov": "Trump pošilja odposlance v Rusijo in Ukrajino z novim mirovnim načrtom",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Ameriški predsednik Donald Trump pošilja odposlance Jareda Kushnerja in Steva Witkoffa v Rusijo in Ukrajino z novim mirovnim načrtom, poroča Al Jazeera. Ta poteza nakazuje na poskus Trumpove administracije, da bi posredovala pri reševanju konflikta, ki ima daljnosežne globalne posledice. Podrobnosti načrta niso bile razkrite, vendar je iniciativa pomemben diplomatski korak, ki bi lahko spremenil dinamiko konflikta. Mednarodna skupnost bo pozorno spremljala potek pogovorov in morebitne rezultate.",
+      "analiza": "Konflikt med Rusijo in Ukrajino je imel in še vedno ima globoke posledice za globalno geopolitiko, energetske trge in mednarodne odnose. Ozadje je dolgotrajna vojna, ki je povzročila humanitarno krizo in destabilizirala evropsko varnostno arhitekturo. Relevantnost Trumpovega mirovnega načrta je v potencialu za deeskalacijo konflikta, kar bi lahko imelo pomembne pozitivne učinke na globalno gospodarstvo. Mehanizem vpliva bi bil preko zmanjšanja geopolitičnega tveganja, kar bi lahko vodilo do umiritve cen energentov, saj bi se zmanjšala negotovost glede dobav. Posledice bi se lahko odrazile v rasti delnic podjetij, ki so bila prizadeta zaradi konflikta, kot so tista v energetskem in obrambnem sektorju, ter v stabilizaciji valut v Evropi. Obveznice bi lahko izgubile nekaj svojega statusa varnega zatočišča, če bi se tveganje zmanjšalo. Zgodovinski primeri mirovnih pogajanj kažejo, da so ti procesi pogosto dolgotrajni in negotovi, vendar lahko prinesejo pomembne preobrate. Za slovenskega dolgoročnega vlagatelja bi morebiten mirovni sporazum pomenil zmanjšanje globalne negotovosti, kar bi lahko pozitivno vplivalo na splošno gospodarsko rast in stabilnost trgov, vendar je treba biti previden, saj so mirovni procesi pogosto zapleteni in dolgotrajni.",
+      "vpliv": [
+        "Potencialna deeskalacija konflikta v Ukrajini",
+        "Možna stabilizacija cen energentov",
+        "Zmanjšanje geopolitičnega tveganja",
+        "Vpliv na evropske delniške trge in valute"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
+      "objavljeno": "2026-09-05T03:25:46.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-04T10:01:45.098Z",
+    "posodobljenoOb": "2026-09-05T08:20:45.661Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7747.71,
-        "sprememba_pct": 1.06
+        "vrednost": 7718.6,
+        "sprememba_pct": -0.38
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29482.32,
-        "sprememba_pct": 1.16
+        "vrednost": 29544.154,
+        "sprememba_pct": 0.21
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 26019.66,
-        "sprememba_pct": 0.06
+        "vrednost": 26046.4,
+        "sprememba_pct": 0.17
       },
       {
         "simbol": "^N225",
@@ -158,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4515.4,
-        "sprememba_pct": -0.54,
+        "vrednost": 4476.6,
+        "sprememba_pct": -1.39,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 90.95,
-        "sprememba_pct": -0.38,
+        "vrednost": 91.48,
+        "sprememba_pct": 0.2,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 95.33,
-        "sprememba_pct": -0.2,
+        "vrednost": 96.28,
+        "sprememba_pct": 0.8,
         "enota": "USD/sod"
       }
     ],
@@ -189,8 +172,8 @@
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.762,
-        "sprememba_pct": -0.71,
+        "vrednost": 4.784,
+        "sprememba_pct": 0.46,
         "enota": "%"
       }
     ],
@@ -198,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 81038.1,
-        "sprememba_pct": -0.29,
+        "vrednost": 79669.21,
+        "sprememba_pct": -0.01,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 14.24,
-      "sprememba_pct": -0.56
+      "vrednost": 14.53,
+      "sprememba_pct": 1.47
     }
   }
 }
