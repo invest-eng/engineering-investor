@@ -1,151 +1,151 @@
 {
-  "generiranoOb": "2026-09-04T10:02:25.716Z",
-  "izdaja": "morning",
-  "model": "gemini-2.5-flash",
+  "generiranoOb": "2026-09-05T17:49:34.997Z",
+  "izdaja": "afternoon",
+  "model": "gemini-2.5-flash-lite",
   "tier": "free",
-  "datum": "2026-09-04",
-  "povzetek": "Jutranji pregled kaže na optimistično zaprtje ameriških in azijskih trgov, medtem ko Evropa pričakuje nadaljevanje trendov. Ameriški indeks S&P 500 je zaključil pri 7748 točkah (+1.06 %), Nasdaq 100 pa pri 29482 točkah (+1.16 %). Azijski Nikkei 225 je sledil z rastjo na 65021 točk (+1.26 %), medtem ko je nemški DAX zabeležil skromnejšo rast na 26020 točk (+0.06 %). Na trgu surovin so cene nafte WTI in Brent ter zlata nekoliko upadle, medtem ko je Bitcoin zabeležil minimalen padec na 81038 USD. Glavne novice vključujejo napoved Volkswagna o zmanjšanju 50.000 delovnih mest, kar je pozitivno vplivalo na njihove delnice, ter rekordno visoke cene dizla v ZDA, ki odražajo vpliv iranskega konflikta. Vlagatelji bodo ta teden pozorno spremljali prihajajočo objavo podatkov o inflaciji v ZDA, ki bo ključna za določanje smeri monetarne politike.",
+  "datum": "2026-09-05",
+  "povzetek": "Evropski trgi so danes zaprli z mešanimi rezultati, pri čemer je DAX zabeležil rast 0,17 % in se ustavil pri 26.046 točkah. Ameriški trgi so ob zaprtju evropskih tržnic zabeležili nekoliko nižji S&P 500 (-0,38 % na 7719 točk), medtem ko je Nasdaq 100 (+0,21 % na 29544 točk) nadaljeval rast. V ospredju so novice o geopolitičnih napetostih med ZDA in Iranom, vključno z ameriškimi napadi na iranske tankerje, kar je vplivalo na cene nafte. Podatki o rekordnem številu milijonarjev v pokojninskih skladih 401(k) kažejo na stabilno dolgoročno varčevanje kljub negotovosti v gospodarstvu. Prihajajoči teden bo v znamenju pomembnih makroekonomskih objav, kot so podatki o inflaciji in zasedanje centralne banke, ki bodo vplivali na nadaljnje gibanje trgov.",
   "novice": [
     {
-      "naslov": "Volkswagen načrtuje ukinitev 50.000 delovnih mest v zgodovinskem prestrukturiranju",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Nemški avtomobilski proizvajalec Volkswagen je napovedal obsežno prestrukturiranje, ki vključuje ukinitev do 50.000 delovnih mest. Ta poteza je del širšega načrta za zmanjšanje skupno 100.000 delovnih mest do leta 2030 in bi lahko vodila tudi do zaprtja tovarn. Novica je bila objavljena 4. septembra 2026 ob 09:03:21 UTC in je povzročila 6-odstotno rast delnic podjetja, saj trgi pozitivno ocenjujejo prizadevanja za povečanje učinkovitosti. Prestrukturiranje zajema celotno skupino, vključno z znamkami Audi, Porsche in Škoda, in je namenjeno izboljšanju konkurenčnosti v spreminjajočem se avtomobilskem sektorju.",
-      "analiza": "Ozadje te napovedi je pritisk na avtomobilsko industrijo zaradi prehoda na električna vozila, stroškovne učinkovitosti in globalne konkurence. Volkswagen, kot eden največjih proizvajalcev na svetu, se sooča s potrebo po optimizaciji poslovanja in prilagoditvi novim tehnologijam. Zmanjšanje delovnih mest, čeprav socialno občutljivo, je s finančnega vidika pogosto interpretirano kot znak odločnosti vodstva za izboljšanje dobičkonosnosti in dolgoročne vzdržnosti podjetja. To se je odrazilo v takojšnjem 6-odstotnem dvigu delnic Volkswagna, saj vlagatelji pričakujejo nižje operativne stroške in s tem višje marže. Na širšem trgu delnic bi lahko takšne novice spodbudile podobne poteze v drugih velikih industrijskih podjetjih, kar bi lahko kratkoročno vplivalo na sentiment v sektorju. Za obveznice in valute je neposreden vpliv manjši, posredno pa lahko vpliva na gospodarsko rast in s tem na monetarno politiko. Za slovenskega dolgoročnega vlagatelja to kaže na nenehne spremembe v tradicionalnih industrijah in pomen izbire podjetij, ki so sposobna prilagoditi svoje poslovanje novim tržnim razmeram, hkrati pa poudarja tveganja, povezana z delovnimi mesti v globalnih dobavnih verigah.",
-      "vpliv": [
-        "Delnice Volkswagna +6 %",
-        "Potencialno povečanje dobičkonosnosti podjetja",
-        "Negativen vpliv na zaposlovanje v avtomobilskem sektorju",
-        "Indikator širših strukturnih sprememb v industriji"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/77641f53-8dcb-4adf-9295-9ce44b8d49d6?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-04T09:03:21.000Z"
-    },
-    {
-      "naslov": "Cene dizla v ZDA dosegle rekordno raven zaradi konflikta v Iranu",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Cene dizla v Združenih državah Amerike so dosegle zgodovinsko najvišjo raven. Ta porast cen goriva je neposredna posledica konflikta v Iranu, ki se je začel konec februarja 2026 in je povzročil skok veleprodajnih cen nafte. Novica, objavljena 4. septembra 2026 ob 09:59:50 UTC, poudarja občutljivost trga nafte na geopolitične napetosti. Visoke cene dizla imajo širok vpliv na gospodarstvo, saj dizel poganja velik del transportnega sektorja in industrije.",
-      "analiza": "Ozadje je eskalacija iranskega konflikta, ki je povzročila zaskrbljenost glede globalne oskrbe z nafto. Iran je ključen igralec na svetovnem energetskem trgu, in vsaka nestabilnost v regiji takoj vpliva na cene surovin. Veleprodajne cene nafte, kot sta WTI pri 90.95 USD/sod (-0.38 %) in Brent pri 95.33 USD/sod (-0.20 %), so sicer danes zabeležile manjši padec, vendar je trend od februarja močno rastel, kar se odraža v cenah dizla. Mehanizem vpliva je preprost: višje cene nafte pomenijo višje stroške predelave in distribucije goriv. Posledice so večplastne: za delnice to pomeni pritisk na podjetja v transportnem, logističnem in proizvodnem sektorju, ki se soočajo z višjimi operativnimi stroški. Potrošniki se soočajo z višjimi cenami blaga in storitev, kar lahko zmanjša kupno moč in povzroči inflacijske pritiske. Centralne banke, kot je ameriški Fed, bodo morda prisiljene k bolj restriktivni monetarni politiki, kar bi lahko vplivalo na obvezniške donose (10Y US Treasury je pri 4.76 % (-0.71 %)). Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, kako geopolitični dogodki lahko neposredno vplivajo na globalne cene surovin in s tem na dobičkonosnost podjetij ter inflacijska pričakovanja, kar zahteva preudarno diverzifikacijo portfelja.",
-      "vpliv": [
-        "Rekordno visoke cene dizla v ZDA",
-        "Povečani inflacijski pritiski",
-        "Višji operativni stroški za transportna podjetja",
-        "Potencialno zmanjšanje kupne moči potrošnikov"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-04T09:59:50.000Z"
-    },
-    {
-      "naslov": "Filipinski peso strmoglavil na rekordno nizko raven zaradi iranske vojne",
+      "naslov": "ZDA napadle iranske tankerje, cene nafte se odzivajo",
       "sektor": "Geopolitika",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Filipinski peso je strmoglavil na zgodovinsko najnižjo raven, kar je posledica vpliva iranske vojne in notranjih gospodarskih izzivov države. Novica, objavljena 4. septembra 2026 ob 08:38:34 UTC, poudarja ranljivost valut držav v razvoju na globalne geopolitične dogodke in ekonomske pritiske. Padec valute ima pomembne posledice za uvoz, izvoz in inflacijo v državi, saj podraži uvoženo blago in storitve ter poveča stroške servisiranja dolga v tuji valuti.",
-      "analiza": "Padec filipinskega pesa je neposredna posledica dveh ključnih dejavnikov: iranskega konflikta in domačih gospodarskih težav. Geopolitična nestabilnost, zlasti v regijah, ki so pomembne za oskrbo z energijo, običajno povzroči beg kapitala iz bolj tveganih naložb, kot so valute držav v razvoju, v varnejša zatočišča. To poveča povpraševanje po močnejših valutah, kot je ameriški dolar, kar se odraža tudi v tečaju EUR/USD, ki je danes pri 1.1621 (-0.09 %). Visoke cene nafte, ki so posledica iranskega konflikta, obremenjujejo države uvoznice nafte, kot so Filipini, saj povečujejo stroške uvoza in poslabšujejo trgovinsko bilanco. Za delnice to pomeni pritisk na podjetja, ki so odvisna od uvoza, in na splošno zmanjšanje privlačnosti naložb v državi. Obveznice v lokalni valuti postanejo manj privlačne zaradi inflacijskih tveganj in morebitnega zvišanja obrestnih mer centralne banke za obrambo valute. Za slovenskega dolgoročnega vlagatelja to ponazarja tveganja naložb na trgih v razvoju, ki so bolj izpostavljeni globalnim šokom in geopolitičnim dogodkom, ter pomen globalne diverzifikacije in razumevanja valutnih tveganj.",
+      "intenziteta": 3,
+      "povzetek": "Ameriške sile so v soboto zadele tri iranske naftne tankerje v Perzijskem zalivu in Omanskem zalivu, s čimer naj bi preprečili financiranje regionalnih posrednikov. Predsednik Iran Pezeshkian je pozval k enotnosti v času povečanega ameriškega gospodarskega pritiska. Novica prihaja v času povečanih napetosti v regiji, vključno z izraelskimi operacijami na Zahodnem bregu in spopadi v Jemnu. Brent nafta je zabeležila rast 0,80 % na 96,28 USD/sod, WTI pa 0,20 % na 91,48 USD/sod.",
+      "analiza": "Napadi ZDA na iranske naftne tankerje predstavljajo pomembno zaostrovanje geopolitičnih napetosti v regiji Perzijskega zaliva. Ozadje vključuje ameriške obtožbe o iranskem financiranju regionalnih posrednikov in iranske odzive na izraelske operacije. Ta dogodek je neposredno povezan z aktualnimi geopolitičnimi trendi, ki vplivajo na stabilnost dobave energentov. Mehanizem vpliva je neposreden: strah pred motnjami v dobavi nafte zaradi morebitnega konflikta ali povračilnih ukrepov povzroči rast cen. Posledice za delnice energetskih podjetij so lahko pozitivne zaradi višjih cen nafte, medtem ko lahko vplivajo negativno na podjetja, ki so odvisna od nizkih cen energentov. Obveznice lahko doživijo pritisk zaradi inflacijskih pričakovanj. Valute, kot je ameriški dolar, lahko okrepijo zaradi statusa varnega pribežališča. Kriptovalute, kot je Bitcoin, ki je trenutno pri 80.068 USD (+0,49 %), bi lahko v takšnem okolju doživele mešane odzive, odvisno od tega, ali jih vlagatelji vidijo kot alternativno naložbo ali kot tvegano sredstvo. Zgodovinsko gledano, podobni dogodki v regiji pogosto vodijo do začasnih skokov cen nafte. Vlagateljem je treba pozorno spremljati nadaljnje izjave obeh strani in morebitne povračilne ukrepe. Za slovenskega dolgoročnega vlagatelja to pomeni povečano previdnost pri naložbah v energetski sektor in širše, saj geopolitična nestabilnost lahko povzroči nenadne in nepredvidljive premike na trgih.",
       "vpliv": [
-        "Rekordno nizka vrednost filipinskega pesa",
-        "Povečani stroški uvoza",
-        "Inflacijski pritiski na Filipinih",
-        "Beg kapitala iz tveganih naložb"
+        "rast cen nafte (Brent in WTI)",
+        "povečana volatilnost na energetskih trgih",
+        "potencialno povečanje povpraševanja po varnih naložbah",
+        "negativen vpliv na podjetja z visoko izpostavljenostjo iranskemu trgu"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss",
-      "objavljeno": "2026-09-04T08:38:34.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss",
+      "objavljeno": "2026-09-05T14:49:36.000Z"
     },
     {
-      "naslov": "Kupci Firmus Energy se soočajo s povišanjem cen energije za do 12,5 %",
-      "sektor": "Potrošniki",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Kupci podjetja Firmus Energy se bodo soočili s povišanjem cen energije, kar bo vplivalo na gospodinjstva v regiji Ten Towns in širšem Belfastu. Stranke v regiji Ten Towns bodo doživele povišanje cen za 8.98 %, medtem ko se bodo cene za Greater Belfast povišale za 12.5 %. Novica je bila objavljena 4. septembra 2026 ob 10:00:59 UTC in je del širšega trenda naraščajočih stroškov življenja. To povišanje cen neposredno vpliva na proračune gospodinjstev in lahko zmanjša razpoložljivi dohodek za druge izdatke.",
-      "analiza": "To povišanje cen energije je del širšega trenda naraščajočih stroškov življenja, ki ga poganjajo predvsem visoke cene energentov in inflacijski pritiski. Podobno kot pri rekordnih cenah dizla, tudi cene plina za gospodinjstva odražajo globalne tržne razmere in morebitne geopolitične vplive. Mehanizem vpliva je direkten: višji stroški ogrevanja in električne energije zmanjšujejo razpoložljivi dohodek gospodinjstev, kar posledično vpliva na potrošnjo. Za delnice to pomeni potencialno zmanjšanje prodaje v sektorjih, ki niso nujni (diskrecijska potrošnja), in pritisk na podjetja, ki se soočajo z višjimi stroški energije. Na obvezniških trgih lahko to prispeva k inflacijskim pričakovanjem, kar bi lahko vodilo do višjih donosov. Za valute je vpliv posreden, saj vpliva na splošno gospodarsko aktivnost. Za slovenskega dolgoročnega vlagatelja to poudarja pomen spremljanja inflacijskih trendov in vpliva na potrošniško moč. Naložbe v podjetja, ki so odporna na inflacijo ali imajo močno cenovno moč, so lahko v takšnih obdobjih bolj privlačne.",
-      "vpliv": [
-        "Povišanje cen energije za 8.98 % in 12.5 %",
-        "Zmanjšanje razpoložljivega dohodka gospodinjstev",
-        "Povečani inflacijski pritiski",
-        "Potencialno zmanjšanje diskrecijske potrošnje"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cqlw6g2x1lko?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-04T10:00:59.000Z"
-    },
-    {
-      "naslov": "Vodja norveškega naftnega sklada predlaga zmanjšanje naložb v ameriške obveznice",
+      "naslov": "Rekordno število milijonarjev v 401(k) skladih",
       "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Vodja norveškega državnega naftnega sklada, ki upravlja z 2 bilijonoma dolarjev premoženja, je predlagal zmanjšanje deleža ameriških državnih obveznic (US Treasury) v portfelju sklada. Predlog, objavljen 4. septembra 2026 ob 04:00:19 UTC, je namenjen povečanju donosov in je bil posredovan Ministrstvu za finance. Ta poteza bi lahko imela pomembne posledice za globalne obvezniške trge in povpraševanje po ameriškem dolarju, saj norveški sklad velja za enega največjih institucionalnih vlagateljev na svetu.",
-      "analiza": "Norveški naftni sklad je eden največjih suverenih premoženjskih skladov na svetu, zato imajo njegove naložbene odločitve velik vpliv na globalne finančne trge. Predlog za zmanjšanje deleža ameriških državnih obveznic odraža iskanje višjih donosov v okolju, kjer so donosi tradicionalnih varnih naložb, kot so US Treasury, morda ocenjeni kot nezadostni. To je lahko posledica pričakovanj o prihodnji inflaciji, sprememb v monetarni politiki ali iskanja bolj razpršenih naložbenih priložnosti. Mehanizem vpliva je takšen, da bi morebitna prodaja velikega obsega ameriških obveznic s strani tako velikega vlagatelja lahko povzročila padec cen obveznic in s tem povišanje njihovih donosov. To bi se odrazilo tudi na donosu 10-letne ameriške obveznice, ki je trenutno pri 4.76 % (-0.71 %). Povečanje donosov bi lahko vplivalo na stroške zadolževanja ZDA in na privlačnost ameriškega dolarja. Za delnice bi višji donosi obveznic lahko pomenili manj privlačno alternativo, kar bi lahko povzročilo odliv kapitala iz delniških trgov. Za slovenskega dolgoročnega vlagatelja to poudarja, da tudi največji vlagatelji nenehno prilagajajo svoje strategije in da je diverzifikacija portfelja ključna, saj se globalni tokovi kapitala lahko hitro spreminjajo in vplivajo na različne razrede sredstev.",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Število Američanov z milijoni v pokojninskih skladih 401(k) je doseglo nov rekord, saj so se varčevalni zneski obdržali na najvišjih ravneh v drugem četrtletju. Fidelity Investments je poročal, da so vlagatelji kljub negotovosti v gospodarstvu ostali osredotočeni na dolgoročne cilje. Novica nakazuje robustnost dolgoročnega varčevanja kljub kratkoročnim tržnim nihanjem.",
+      "analiza": "Podatki o rekordnem številu milijonarjev v 401(k) skladih kažejo na močno dolgoročno naravnanost vlagateljev v ZDA. Ozadje je v gospodarski politiki, ki spodbuja pokojninsko varčevanje, ter v zgodovinsko nizkih obrestnih merahanjih v preteklosti, ki so spodbujala naložbe v delnice. Ta trend je pomemben, ker odraža zaupanje vlagateljev v dolgoročno rast kapitalskih trgov, tudi ob trenutni negotovosti. Mehanizem vpliva je posreden: večje število posameznikov z znatnimi pokojninskimi varčevalnimi računi lahko dolgoročno podpira povpraševanje po delnicah in drugih naložbenih instrumentih, kar lahko pozitivno vpliva na vrednost portfeljev. Posledice za delnice so lahko podpora nadaljnjemu rasti, še posebej v sektorjih, ki so priljubljeni med dolgoročnimi vlagatelji. Obveznice morda doživljajo manjši pritisk, saj se del sredstev preusmerja v bolj donosne, a tvegane naložbe. Valute niso neposredno prizadete, lahko pa močno gospodarstvo, ki ga odražajo ti podatki, podpira ameriški dolar. Kriptovalute bi lahko imele koristi od splošnega optimizma na trgih, če vlagatelji iščejo dodatne priložnosti za rast. Zgodovinsko se je pokazalo, da dolgoročno varčevanje poganja kapitalske trge. Za slovenskega dolgoročnega vlagatelja to pomeni potrditev pomena discipliniranega dolgoročnega varčevanja in naložb, ki lahko ob obrestno-obrestnem učinku prinesejo znatne rezultate v daljšem obdobju.",
       "vpliv": [
-        "Potencialno zvišanje donosov ameriških obveznic",
-        "Padec cen ameriških obveznic",
-        "Vpliv na vrednost ameriškega dolarja",
-        "Sprememba globalnih tokov kapitala"
+        "potencialna podpora rasti delniških trgov",
+        "povečano zaupanje vlagateljev v dolgoročne naložbe",
+        "stabilnost povpraševanja po delnicah",
+        "pozitivni signali za pokojninske sklade"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/ecc15aa6-6e7b-409d-8753-2fb6aadd0592?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-04T04:00:19.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-05T17:01:00.000Z"
     },
     {
-      "naslov": "Argentinski predsednik grozi s sankcijami naftnim podjetjem zaradi Falklandov",
+      "naslov": "Poljska postaja razvita država: nove naložbene priložnosti",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Poljska je bila reklasificirana iz trga v razvoju v razvito državo, kar odpre vrata številnim novim vlagateljem. Ta sprememba lahko privede do povečanega priliva kapitala na poljski trg, ki naj bi bil trenutno cenejši od nekaterih drugih razvitih trgov. Novica nakazuje potencial za rast poljskega gospodarstva in kapitalskih trgov.",
+      "analiza": "Reklasifikacija Poljske iz trga v razvoju v razvito državo je pomemben dogodek za globalne finance. Ozadje je v dolgoročnem gospodarskem razvoju Poljske, izboljšanju njene infrastrukture, pravnega sistema in finančne stabilnosti. Ta poteza sledi trendom vključevanja vzhodnoevropskih držav v širše evropske in globalne finančne tokove. Mehanizem vpliva je neposreden: številni globalni skladi in institucionalni vlagatelji imajo v svojih mandatih naložbe samo v razvite trge. Z vključitvijo Poljske bodo ti skladi lahko investirali v poljska podjetja, kar bo povečalo povpraševanje po poljskih delnicah in potencialno dvignilo njihove cene. Posledice za delnice poljskih podjetij so lahko pozitivne, z rastjo vrednosti in likvidnosti. Obveznice lahko doživijo spremembe v donosnosti, odvisno od tokov kapitala. Valute, kot je poljski zlot, bi lahko okrepile zaradi povečanega priliva tujega kapitala. Kriptovalute niso neposredno povezane, lahko pa splošni optimizem na trgih in iskanje novih priložnosti vplivata tudi nanje. Za slovenskega dolgoročnega vlagatelja to pomeni potencialno novo zanimivo naložbeno priložnost v sosednji državi, ki je lahko cenovno ugodnejša od nekaterih drugih razvitih trgov, vendar je treba skrbno preučiti specifična tveganja.",
+      "vpliv": [
+        "povečano povpraševanje po poljskih delnicah",
+        "potencialna rast vrednosti poljskih podjetij",
+        "okrepitev poljskega zlotega",
+        "priliv institucionalnega kapitala na Poljsko"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-05T16:12:00.000Z"
+    },
+    {
+      "naslov": "Trumpova administracija uvaja poligrafske teste za osebje",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Argentinski predsednik Javier Milei je ponovno poudaril zahtevo svoje države po britanskem čezmorskem ozemlju Falklandskih otokov in zagrozil s sankcijami proti naftnim podjetjem, ki delujejo v bližini otokov. Izjavil je, da 'vetrovi sprememb' favorizirajo Argentino. Novica, objavljena 4. septembra 2026 ob 06:52:29 UTC, prinaša novo stopnjo napetosti v dolgoletnem sporu in lahko vpliva na energetska podjetja, ki raziskujejo ali črpajo nafto v spornih vodah. To lahko povzroči negotovost glede prihodnjih naložb v regiji.",
-      "analiza": "Dolgoročni spor med Argentino in Združenim kraljestvom glede suverenosti nad Falklandskimi otoki se je ponovno razplamtel z izjavami predsednika Mileija. Regija okoli Falklandov je znana po potencialnih nahajališčih nafte in plina, kar daje sporu tudi pomembno ekonomsko dimenzijo. Grožnje s sankcijami proti naftnim podjetjem, ki tam delujejo, ustvarjajo dodatno geopolitično tveganje in lahko vplivajo na globalno oskrbo z nafto. Mehanizem vpliva je takšen, da povečana negotovost v regiji odvrača naložbe v raziskovanje in črpanje nafte, kar lahko zmanjša ponudbo na trgu in posledično dvigne cene surovin. Čeprav WTI nafta danes beleži padec na 90.95 USD/sod (-0.38 %) in Brent na 95.33 USD/sod (-0.20 %), bi dolgoročna eskalacija lahko spremenila ta trend. Za delnice to pomeni tveganje za energetska podjetja, ki imajo koncesije v spornih vodah, in potencialno povečanje premije za tveganje za naložbe v regiji. Na obvezniških trgih lahko geopolitične napetosti povečajo povpraševanje po varnih zatočiščih. Za slovenskega dolgoročnega vlagatelja to poudarja, kako geopolitični konflikti, tudi tisti, ki se zdijo oddaljeni, lahko vplivajo na globalne cene surovin in s tem na inflacijo ter dobičkonosnost podjetij v energetskem sektorju. Pomembno je upoštevati politična tveganja pri naložbah v določene regije ali sektorje.",
+      "povzetek": "Trumpova administracija je odredila poligrafske teste za svoje osebje, kar naj bi bil odziv na poročila o zmanjševanju zalog orožja ZDA in iskanju notranjih puščanj informacij v Pentagonu. Ta poteza nakazuje povečano notranjo napetost in skrb glede varnosti informacij v ameriški administraciji.",
+      "analiza": "Uvedba poligrafskih testov v Trumpovi administraciji odraža visoko stopnjo nezaupanja in skrbi glede varnosti informacij, zlasti v luči poročil o zmanjševanju zalog orožja. Ozadje je v občutljivosti informacij, povezanih z obrambno politiko in vojaškimi zalogami, ter v Trumpovi nagnjenosti k iskanju odgovornih za morebitne uhajanje informacij. Mehanizem vpliva je predvsem notranji, vendar lahko vpliva na zunanjo percepcijo stabilnosti administracije. Posledice za delnice so lahko posredne, saj lahko negotovost glede notranje politike vpliva na splošno zaupanje vlagateljev. Obveznice lahko doživijo pritisk, če se poveča negotovost glede stabilnosti ameriške vlade. Valute, kot je ameriški dolar, bi lahko oslabele, če bi takšne novice povzročile dvome o učinkovitosti administracije. Kriptovalute bi lahko v takšnem okolju videle povečano zanimanje kot alternativno naložbo, čeprav je povezava bolj posredna. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati stabilnost in predvidljivost ključnih svetovnih političnih akterjev, saj lahko notranji pretresi vplivajo na globalno gospodarsko in finančno okolje.",
       "vpliv": [
-        "Povečana geopolitična tveganja v južnem Atlantiku",
-        "Negotovost za naftna podjetja na Falklandih",
-        "Potencialni vpliv na cene nafte",
-        "Odvračanje tujih naložb v regijo"
+        "povečana notranja napetost v administraciji ZDA",
+        "dvomi o varnosti obrambnih informacij",
+        "potencialni vpliv na zaupanje vlagateljev v stabilnost ZDA",
+        "negativni signali za politično stabilnost"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-04T06:52:29.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/5/why-has-the-trump-administration-ordered-staff-to-take-polygraph-tests?traffic_source=rss",
+      "objavljeno": "2026-09-05T13:54:33.000Z"
     },
     {
-      "naslov": "Univerzitetna diploma izgublja svoj sijaj, opozarja Financial Times",
+      "naslov": "Protesti proti priseljevanju blokirali pristanišče Dover",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
-      "intenziteta": 1,
-      "povzetek": "Članek v Financial Timesu, objavljen 4. septembra 2026 ob 04:00:27 UTC, razpravlja o tem, kako tehnološke in ekonomske spremembe zmanjšujejo dodano vrednost univerzitetne diplome. Ugotavlja, da se 'premija za diplomante' erodira, kar pomeni, da visokošolska izobrazba ne zagotavlja več samodejno bistveno boljših zaposlitvenih in dohodkovnih možnosti kot v preteklosti. To nakazuje na strukturne spremembe na trgu dela in v izobraževalnem sistemu, ki imajo dolgoročne posledice za mlade in gospodarstvo.",
-      "analiza": "Ozadje te analize je hitra transformacija trga dela, ki jo poganjajo avtomatizacija, umetna inteligenca in globalizacija. Tradicionalne veščine, pridobljene na univerzah, so v nekaterih sektorjih manj povpraševane, medtem ko narašča potreba po specializiranih tehničnih znanjih in mehkih veščinah, ki jih univerze morda ne zagotavljajo vedno. Mehanizem vpliva je takšen, da zmanjšana 'premija za diplomante' lahko vodi do manjšega povpraševanja po visokošolskem izobraževanju, sprememb v kariernih poteh mladih in potencialnega pritiska na plače v nekaterih poklicih. Za delnice bi to lahko pomenilo izzive za podjetja v izobraževalnem sektorju in tista, ki se zanašajo na tradicionalno izobraženo delovno silo. Po drugi strani pa bi lahko koristilo podjetjem, ki ponujajo alternativne oblike izobraževanja, prekvalifikacije ali tehnološke rešitve za avtomatizacijo. Na makroekonomski ravni lahko vpliva na produktivnost in inovativnost. Za slovenskega dolgoročnega vlagatelja to poudarja pomen naložb v podjetja, ki so prilagodljiva in inovativna pri zaposlovanju, ter v sektorje, ki so odporni na te strukturne spremembe ali celo od njih profitirajo. Hkrati pa opozarja na širše družbene in ekonomske trende, ki preoblikujejo prihodnost dela in izobraževanja.",
+      "intenziteta": 2,
+      "povzetek": "Maskirani protestniki so blokirali ceste okoli pristanišča Dover v Veliki Britaniji, kar je povzročilo začasno ustavitev prometa. Vlada Združenega kraljestva je obsodila proteste, ki so bili usmerjeni proti priseljevanju. Dogodek je povzročil motnje v logistiki in poudaril napetosti glede migracijske politike.",
+      "analiza": "Blokada pristanišča Dover s strani protestnikov proti priseljevanju je pomemben dogodek, ki odraža naraščajoče socialne in politične napetosti v Veliki Britaniji. Ozadje je v migracijski politiki vlade in odzivih dela javnosti. Ta dogodek lahko vpliva na gospodarsko aktivnost in logistične verige, ki so ključne za britansko gospodarstvo. Mehanizem vpliva je neposreden na lokalno gospodarstvo in posreden na širše trge. Posledice za delnice britanskih podjetij, ki so odvisna od logistike ali mednarodne trgovine, so lahko negativne zaradi motenj. Obveznice lahko doživijo pritisk, če se poveča negotovost glede ekonomske stabilnosti države. Valute, kot je britanski funt, bi lahko oslabele zaradi negativnih novic o notranji stabilnosti. Kriptovalute niso neposredno prizadete, vendar lahko splošna negotovost na trgih vpliva nanje. Za slovenskega dolgoročnega vlagatelja to pomeni opozorilo na potencialne gospodarske in politične nestabilnosti v ključnih evropskih državah, ki lahko vplivajo tudi na naložbe v teh regijah.",
       "vpliv": [
-        "Erozija 'premije za diplomante'",
-        "Spremembe na trgu dela",
-        "Potencialno zmanjšanje povpraševanja po tradicionalnem visokošolskem izobraževanju",
-        "Vpliv na produktivnost in inovativnost"
+        "motnje v logistiki in trgovini",
+        "negativni signali za britansko gospodarstvo",
+        "potencialna oslabitev britanskega funta",
+        "povečana negotovost glede socialne stabilnosti v ZK"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/5/uk-govt-condemns-masked-anti-immigrant-protesters-blocking-dover-port?traffic_source=rss",
+      "objavljeno": "2026-09-05T13:51:29.000Z"
+    },
+    {
+      "naslov": "Varnost pokojninskih skladov in iskanje naložbenih priložnosti",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Novice izhajajo iz MarketWatcha in se osredotočajo na vprašanja pokojninskega varčevanja in naložb. Ena novica obravnava iskanje novih naložbenih priložnosti na cenejših trgih, kot je Poljska, druga pa se osredotoča na to, ali je pri 60. letih še prepozno za Roth konverzije v 403(b) skladih. Tretja novica se dotika vprašanja, ali naj starejši porabijo del svojih 401(k) za nakup nepremičnine z hipoteko.",
+      "analiza": "Te novice izhajajo iz MarketWatcha in se osredotočajo na osebne finance in pokojninsko varčevanje v ZDA. Ozadje je v naraščajoči skrbi posameznikov glede zagotavljanja finančne varnosti v starosti, zlasti ob spreminjajočih se gospodarskih razmerah in dolžini življenjske dobe. Novice obravnavajo različne strategije, od iskanja novih naložbenih priložnosti do specifičnih odločitev o porabi in konverziji sredstev. Mehanizem vpliva je predvsem na posameznike, vendar lahko kolektivni premiki vlagateljev vplivajo na trge. Posledice za delnice so lahko povezane z večjim povpraševanjem po določenih sektorjih ali regijah (kot je Poljska). Obveznice lahko doživijo spremembe, če se vlagatelji odločajo za bolj tvegane naložbe. Valute niso neposredno prizadete. Kriptovalute bi lahko bile del širšega iskanja alternativnih naložb. Za slovenskega dolgoročnega vlagatelja so te novice pomembne kot vpogled v razmišljanja ameriških vlagateljev in potencialne trende, ki bi se lahko prenesli tudi v Evropo, zlasti glede dolgoročnega varčevanja in upravljanja s premoženjem v poznejših življenjskih obdobjih.",
+      "vpliv": [
+        "povečano zanimanje za naložbe na razvijajočih se trgih (npr. Poljska)",
+        "razprave o strategijah pokojninskega varčevanja",
+        "potencialni premiki sredstev med različnimi naložbenimi razredi",
+        "poudarek na dolgoročnem finančnem načrtovanju"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-05T16:12:00.000Z"
+    },
+    {
+      "naslov": "Rusko-ukrajinska mirovna pogajanja bi se lahko začela prihodnje leto",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Nekdanji vodja britanske obveščevalne službe MI6, John Sawers, je v pogovoru za FT Weekend Festival izrazil mnenje, da bi se mirovna pogajanja med Rusijo in Ukrajino lahko začela že prihodnje leto. Kljub temu je dodal, da trajnega miru ni mogoče pričakovati, dokler je Vladimir Putin na oblasti. Novica nakazuje možnost premika v diplomatskih prizadevanjih, a hkrati poudarja vztrajnost konflikta.",
+      "analiza": "Napoved možnosti začetka rusko-ukrajinskih mirovnih pogajanj prihodnje leto, kot jo je podal nekdanji šef MI6, je pomemben signal, čeprav z zadržki. Ozadje je v dolgotrajnem konfliktu, ki ima globalne posledice, vključno z energetsko in prehransko varnostjo. Sawersova ocena, da trajnega miru ni mogoče doseči, dokler je Putin na oblasti, poudarja globino političnih ovir. Mehanizem vpliva je predvsem na geopolitično sliko in pričakovanja vlagateljev. Posledice za delnice bi lahko bile pozitivne, če bi se napetosti zmanjšale, kar bi spodbudilo gospodarsko aktivnost. Obveznice bi lahko doživele rast donosnosti, če bi se zmanjšala potreba po 'varnih naložbah'. Valute, kot je evro, bi lahko okrepile zaradi večje stabilnosti v Evropi. Kriptovalute bi lahko imele koristi od splošnega zmanjšanja tveganj na trgih. Za slovenskega dolgoročnega vlagatelja je ključno spremljati razvoj dogodkov, saj bi stabilizacija razmer v Ukrajini pozitivno vplivala na evropsko gospodarstvo in s tem na naložbe v regiji.",
+      "vpliv": [
+        "potencialno zmanjšanje geopolitičnih napetosti",
+        "pozitivni signali za evropsko gospodarstvo",
+        "spremembe v dinamiki obvezniških trgov",
+        "vpliv na energetske in surovinske trge"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/54cf40cd-149f-40db-b603-21aecd5f66ec?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-04T04:00:27.000Z"
+      "vir_url": "https://www.ft.com/content/4826a106-9cd4-45bc-8436-69e2519d0205",
+      "objavljeno": "2026-09-05T15:50:30.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-04T10:01:45.098Z",
+    "posodobljenoOb": "2026-09-05T17:44:35.718Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7747.71,
-        "sprememba_pct": 1.06
+        "vrednost": 7718.6,
+        "sprememba_pct": -0.38
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29482.32,
-        "sprememba_pct": 1.16
+        "vrednost": 29544.154,
+        "sprememba_pct": 0.21
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 26019.66,
-        "sprememba_pct": 0.06
+        "vrednost": 26046.4,
+        "sprememba_pct": 0.17
       },
       {
         "simbol": "^N225",
@@ -158,22 +158,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4515.4,
-        "sprememba_pct": -0.54,
+        "vrednost": 4476.6,
+        "sprememba_pct": -1.39,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 90.95,
-        "sprememba_pct": -0.38,
+        "vrednost": 91.48,
+        "sprememba_pct": 0.2,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 95.33,
-        "sprememba_pct": -0.2,
+        "vrednost": 96.28,
+        "sprememba_pct": 0.8,
         "enota": "USD/sod"
       }
     ],
@@ -189,8 +189,8 @@
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.762,
-        "sprememba_pct": -0.71,
+        "vrednost": 4.784,
+        "sprememba_pct": 0.46,
         "enota": "%"
       }
     ],
@@ -198,16 +198,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 81038.1,
-        "sprememba_pct": -0.29,
+        "vrednost": 80067.95,
+        "sprememba_pct": 0.49,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 14.24,
-      "sprememba_pct": -0.56
+      "vrednost": 14.53,
+      "sprememba_pct": 1.47
     }
   }
 }
