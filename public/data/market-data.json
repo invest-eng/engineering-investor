@@ -1,5 +1,5 @@
 {
-  "posodobljenoOb": "2026-09-07T14:05:51.938Z",
+  "posodobljenoOb": "2026-09-07T15:26:50.147Z",
   "indeksi": [
     {
       "simbol": "^GSPC",
@@ -16,8 +16,8 @@
     {
       "simbol": "^GDAXI",
       "ime": "DAX",
-      "vrednost": 25987.79,
-      "sprememba_pct": -0.23
+      "vrednost": 25993.32,
+      "sprememba_pct": -0.2
     },
     {
       "simbol": "^N225",
@@ -70,15 +70,15 @@
     {
       "simbol": "BTC-USD",
       "ime": "Bitcoin",
-      "vrednost": 79290.01,
-      "sprememba_pct": -1.32,
+      "vrednost": 79070.97,
+      "sprememba_pct": -1.59,
       "enota": "USD"
     }
   ],
   "vix": {
     "simbol": "^VIX",
     "ime": "VIX",
-    "vrednost": 15.12,
-    "sprememba_pct": 4.06
+    "vrednost": 15.28,
+    "sprememba_pct": 5.16
   }
 }
