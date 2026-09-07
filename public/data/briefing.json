@@ -1,99 +1,116 @@
 {
-  "generiranoOb": "2026-09-06T17:49:07.433Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-09-07T09:20:57.592Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-09-06",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanimi občutki, medtem ko so ameriški trgi odprli v razdeljeni smeri. Nemški indeks DAX je dan zaključil z rahlo rastjo, +0.17 %, pri 26046 točkah, medtem ko je v ZDA indeks S&P 500 padel za 0.38 % na 7719 točk, Nasdaq 100 pa je zrasel za 0.21 % na 29544 točk. Na valutnih trgih je evro oslabel proti dolarju, par EUR/USD je bil pri 1.1621 (-0.09 %). Cene nafte so se zvišale, saj je Brent nafta dosegla 96.28 USD/sod (+0.80 %), WTI nafta pa 91.48 USD/sod (+0.20 %), kar je verjetno odraz napetosti med ZDA in Iranom. Zlato je medtem padlo za 1.39 % na 4476.60 USD/oz, medtem ko je donosnost 10-letne ameriške obveznice zrasla na 4.78 % (+0.46 %). Vlagatelji so pozorno spremljali tudi novice o krepitvi skrajno desne stranke AfD v Nemčiji in pogovore ameriških odposlancev v Kijevu in Moskvi. Ta teden bo ključna prihajajoča objava inflacijskih podatkov za evroobmočje, ki bo vplivala na pričakovanja glede monetarne politike.",
+  "datum": "2026-09-07",
+  "povzetek": "Jutranji pregled finančnih trgov kaže na mešane signale, saj je S&P 500 zaključil pri 7719 z -0.38 % padcem, medtem ko je Nasdaq 100 zabeležil rast za +0.21 % na 29544. Evropski DAX je padel za -0.28 % na 25973, azijski Nikkei 225 pa je bil optimističen z rastjo +2.12 % na 66400. Geopolitične napetosti v Hormuški ožini, kjer Iran načrtuje povečan nadzor, so cene nafte potisnile blizu sedemtedenskih vrhuncev, pri čemer je Brent nafta pri 96.28 USD/sod. Na Kitajskem so v banke in zavarovalnice vbrizgali 53 milijard dolarjev za spodbujanje gospodarstva, medtem ko se v ZDA krepijo skrbi glede vzdržnosti javnega dolga, saj donos na 10-letne obveznice znaša 4.78 %. V Evropi zmaga skrajno desne AfD na nemških deželnih volitvah nakazuje na politične premike, britanski kancler pa napoveduje preobrat gospodarstva kljub zaskrbljenosti glede dolga. Vlagatelji bodo ta teden pozorno spremljali objave inflacijskih podatkov iz evroobmočja, ki lahko vplivajo na pričakovanja glede monetarne politike ECB.",
   "novice": [
     {
-      "naslov": "Iran grozi z vojaškim odgovorom, ko ZDA nadaljujejo blokado in napade na tankerje",
-      "sektor": "Geopolitika",
+      "naslov": "Cene nafte dosegle sedemtedenske vrhunce zaradi iranskih načrtov v Hormuški ožini",
+      "sektor": "Energetika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Iran je sporočil, da je čas za sorazmerno povračilno ukrepanje po ameriškem napadu na iranske tankerje znotraj blokadne linije. Teheran poudarja, da so se ZDA odločile za vzdrževanje blokade in napade na tankerje, kar je sprožilo iranske grožnje z vojaškim odgovorom. Ta stopnjevanje napetosti med državama se dogaja v regiji, ki je ključna za globalno oskrbo z nafto. Incidenti, kot so napadi na tankerje, imajo neposreden vpliv na stabilnost trga in cene energentov. Iran je jasno izrazil svoje stališče, da ne bo toleriral nadaljnjih agresivnih dejanj.",
-      "analiza": "Ozadje te novice sega v dolgotrajne napetosti med ZDA in Iranom, ki so se v zadnjih letih pogosto stopnjevale zaradi iranskega jedrskega programa in regionalnega vpliva. Ameriška blokada in napadi na tankerje predstavljata resno eskalacijo, ki lahko destabilizira celotno regijo Bližnjega vzhoda. To je relevantno zdaj, saj se globalno gospodarstvo sooča z inflacijskimi pritiski in morebitna prekinitev oskrbe z nafto bi imela daljnosežne posledice. Mehanizem vpliva na finančne trge je neposreden: grožnje z vojaškim odgovorom in napadi na tankerje takoj povečajo premijo za tveganje v cenah nafte. Posledično so cene nafte Brent in WTI že zrasle za 0.80 % na 96.28 USD/sod oziroma za 0.20 % na 91.48 USD/sod. To lahko povzroči višje stroške za podjetja in potrošnike, kar se odraža v inflaciji. Delnice podjetij, odvisnih od nafte (npr. letalske družbe, transportna podjetja), bi lahko padle, medtem ko bi delnice energetskih podjetij lahko zrasle. Obveznice bi lahko služile kot varno zatočišče, kar bi znižalo njihove donosnosti, čeprav je donosnost 10-letne ameriške obveznice danes zrasla na 4.78 %, kar kaže na širše makroekonomske pritiske. Zlato, tradicionalno varno zatočišče, je danes padlo za 1.39 % na 4476.60 USD/oz, kar je lahko posledica močnejšega dolarja ali drugih dejavnikov. Za slovenskega dolgoročnega vlagatelja to pomeni povečano negotovost in morebitno volatilnost na trgih. Vlagatelji bi morali spremljati razvoj dogodkov v regiji in njihov vpliv na cene energentov, saj lahko to vpliva na inflacijo in gospodarsko rast.",
+      "povzetek": "Cene nafte so dosegle skoraj sedemtedenske vrhunce, preden so se nekoliko umirile, po novici, da Iran načrtuje povečanje nadzora nad strateško pomembno Hormuško ožino. Ta poteza je sprožila zaskrbljenost glede morebitnih motenj v dobavi nafte. West Texas Intermediate (WTI) in Brent surova nafta sta se za dobavo v oktobru in novembru stabilizirali po predhodnem porastu. Geopolitične napetosti v regiji so ključni dejavnik, ki vpliva na nestanovitnost cen. Novica je bila objavljena 2026-09-07T08:52:00.000Z.",
+      "analiza": "Hormuška ožina je ključna pomorska pot, skozi katero potuje približno petina svetovne porabe nafte. Iranski načrti za povečan nadzor nad to ožino so neposredna grožnja globalni dobavi energentov in s tem stabilnosti cen. V preteklosti so podobne napovedi ali incidenti v regiji vedno povzročili skok cen nafte, saj trgi v takšnih primerih v ceno vgradijo premijo za tveganje. Danes sta ceni WTI nafte pri 91.48 USD/sod in Brent nafte pri 96.28 USD/sod stabilni, vendar je bil pred tem zabeležen porast. Povečane geopolitične napetosti vplivajo na surovine, saj se nafta obravnava kot strateško blago. Posledično lahko to vpliva na inflacijo, kar bi lahko centralne banke prisililo k bolj jastrebovski monetarni politiki. Za delnice to pomeni povišane stroške poslovanja za podjetja in potencialno zmanjšanje potrošniške moči. Obveznice bi lahko doživele pritisk navzdol zaradi inflacijskih pričakovanj, medtem ko bi se zlato pri 4476.60 USD/oz lahko okrepilo kot varno zatočišče. Slovenski dolgoročni vlagatelj naj bo pozoren na morebitne dolgoročne inflacijske pritiske in volatilnost na trgih surovin, ki lahko vplivajo na portfelj.",
       "vpliv": [
-        "Cena Brent nafte zrasla na 96.28 USD/sod (+0.80 %)",
-        "Cena WTI nafte zrasla na 91.48 USD/sod (+0.20 %)",
-        "Povečana geopolitična nestabilnost",
-        "Potencialno višja inflacija"
+        "Rast cen nafte",
+        "Povečana geopolitična tveganja",
+        "Potencialni inflacijski pritiski",
+        "Zlato kot varno zatočišče"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
-      "objavljeno": "2026-09-06T16:17:06.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-07T08:52:00.000Z"
     },
     {
-      "naslov": "Skrajno desna AfD močno napredovala na nemških deželnih volitvah",
+      "naslov": "Kitajska v banke in zavarovalnice vbrizgala 53 milijard dolarjev za spodbudo",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Kitajska je v svoje banke in zavarovalnice vbrizgala 53 milijard dolarjev, kar je del širšega načrta za dokapitalizacijo državnih institucij in spodbujanje finančne uspešnosti. Ta poteza je namenjena krepitvi gospodarstva v luči številnih izzivov, s katerimi se sooča Peking. Razširitev načrta dokapitalizacije na več državnih institucij kaže na odločnost vlade, da stabilizira finančni sektor in zagotovi likvidnost. Novica je bila objavljena 2026-09-07T04:21:12.000Z.",
+      "analiza": "Kitajsko gospodarstvo se v zadnjem času sooča z izzivi, vključno z upočasnitvijo rasti, težavami v nepremičninskem sektorju in deflacijskimi pritiski. Vbrizgavanje 53 milijard dolarjev v finančni sistem je ključen korak za preprečevanje širjenja morebitnih sistemskih tveganj in za spodbujanje kreditiranja. S tem se želi spodbuditi naložbe in potrošnjo, kar bi lahko podprlo gospodarsko rast. Na finančnih trgih bi to lahko imelo pozitiven vpliv na delnice kitajskih podjetij in globalnih podjetij, ki so močno izpostavljena kitajskemu trgu. Povečana likvidnost in zaupanje v kitajski finančni sistem lahko zmanjšata tveganje za globalno gospodarstvo. Vpliv na valute bi bil lahko mešan, saj bi spodbuda lahko okrepila juan, vendar bi povečana ponudba denarja lahko imela tudi nasproten učinek. Za obveznice bi to lahko pomenilo stabilizacijo, saj bi se zmanjšalo tveganje finančne krize. Slovenski dolgoročni vlagatelj naj spremlja, kako se bo ta injekcija odrazila na realnem gospodarstvu Kitajske in ali bo uspela preprečiti morebitno širšo gospodarsko upočasnitev, ki bi lahko vplivala na globalne dobavne verige in povpraševanje.",
+      "vpliv": [
+        "Stabilizacija kitajskega finančnega sektorja",
+        "Potencialna spodbuda globalni rasti",
+        "Pozitiven vpliv na delnice, povezane s Kitajsko",
+        "Zmanjšanje sistemskega tveganja"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/8012b60e-c74e-49bc-9200-d37f13b4a135?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-07T04:21:12.000Z"
+    },
+    {
+      "naslov": "Ameriška zadolženost postaja pomembna skrb za finančne trge",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Članek opozarja, da se ameriška zadolženost, ki je v zadnjem času naraščala, začenja kazati kot pomembna skrb za finančne trge. Posebej izpostavlja, da bi lahko dolgoročne obrestne mere, če bi odločno prebile prag 5 %, ogrozile trenutni razcvet umetne inteligence. To nakazuje na povečano zaskrbljenost glede vzdržnosti ameriškega javnega dolga in njegovega vpliva na širše gospodarstvo. Novica je bila objavljena 2026-09-07T04:00:19.000Z.",
+      "analiza": "ZDA so v zadnjih letih beležile znatno rast javnega dolga, kar je bilo deloma posledica fiskalnih spodbud in odzivov na krize. Povečana zadolženost v kombinaciji z višjimi obrestnimi merami, kot je trenutni donos na 10-letne ameriške državne obveznice pri 4.78 % (+0.46 %), pomeni višje stroške servisiranja dolga za vlado. Če bi donosi presegli 5 %, bi to lahko sprožilo verižno reakcijo: višji stroški zadolževanja za podjetja in potrošnike, kar bi upočasnilo gospodarsko rast. To bi lahko imelo negativen vpliv na delnice, zlasti tistih podjetij, ki so močno odvisna od poceni kapitala, kot so tehnološka podjetja v sektorju umetne inteligence. Obveznice bi bile pod pritiskom, saj bi se njihove cene znižale ob rasti donosov. Valute bi lahko bile nestabilne, saj bi višji donosi lahko podprli dolar, a hkrati povečali tveganje za recesijo. Zlato bi se lahko okrepilo kot varno zatočišče. Slovenski dolgoročni vlagatelj naj bo pozoren na gibanje dolgoročnih obrestnih mer v ZDA, saj imajo te globalni vpliv na vrednotenje vseh razredov sredstev in lahko vplivajo na makroekonomsko okolje.",
+      "vpliv": [
+        "Pritisk na delnice, zlasti tehnološke",
+        "Rast donosov obveznic",
+        "Povečani stroški zadolževanja",
+        "Tveganje za gospodarsko upočasnitev"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-07T04:00:19.000Z"
+    },
+    {
+      "naslov": "Skrajno desna AfD zmagala na deželnih volitvah v Nemčiji",
       "sektor": "Geopolitika",
       "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Skrajno desna stranka Alternativa za Nemčijo (AfD) je po izhodnih anketah dosegla več kot 44 odstotkov glasov v deželi Saška-Anhalt. Ta rezultat predstavlja velik volilni udarec za uveljavljene stranke v Nemčiji. Stranka AfD je ta rezultat označila za 'zgodovinskega', čeprav še ni jasno, ali bo lahko oblikovala vlado. Uspeh AfD odraža naraščajoče nezadovoljstvo volivcev z obstoječimi političnimi strankami in politikami. To je pomemben pokazatelj premikov v nemški politični pokrajini in širše v Evropi.",
-      "analiza": "Vzpon skrajno desnih strank v Evropi ni novost, vendar je uspeh AfD v Nemčiji, največjem gospodarstvu evroobmočja, še posebej pomemben. Ozadje vključuje zaskrbljenost glede migracij, ekonomske politike in nezadovoljstvo z bruseljsko birokracijo. Ta rezultat je relevanten zdaj, saj lahko vpliva na stabilnost nemške vlade, njeno politiko znotraj EU in na splošno evropsko integracijo. Mehanizem vpliva na finančne trge je posreden, a pomemben: politična nestabilnost v Nemčiji lahko povzroči negotovost glede prihodnjih gospodarskih politik in fiskalne discipline. To lahko vpliva na vrednost evra (EUR/USD je danes že padel za 0.09 % na 1.1621), saj vlagatelji iščejo varnejša zatočišča. Delnice nemških podjetij, še posebej tistih, ki so močno odvisne od stabilne domače in evropske politike, bi lahko bile pod pritiskom. Donosnosti nemških obveznic bi se lahko zvišale zaradi povečane premije za tveganje. Zgodovinsko gledano, politični pretresi v ključnih članicah EU vedno povzročijo nervozo na trgih. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba spremljati politično dogajanje v Nemčiji, saj lahko vpliva na stabilnost evroobmočja in s tem na slovensko gospodarstvo, ki je tesno povezano z Nemčijo.",
+      "intenziteta": 2,
+      "povzetek": "Skrajno desna stranka Alternativa za Nemčijo (AfD) je dosegla zmago na deželnih volitvah v zvezni deželi Saška-Anhalt, s čimer je postala največja stranka, čeprav ji je zmanjkalo glasov za parlamentarno večino. Ta rezultat kaže na nadaljnjo krepitev populističnih in evroskeptičnih gibanj v Nemčiji, kar lahko vpliva na politično stabilnost in prihodnje odločitve na zvezni ravni ter v Evropski uniji. Novica je bila objavljena 2026-09-07T06:28:06.000Z.",
+      "analiza": "Zmaga AfD v Saški-Anhalt je pomemben politični signal, ki odraža naraščajoče nezadovoljstvo volivcev z etabliranimi strankami in politiko. Čeprav gre za deželne volitve, ima takšen rezultat širše implikacije za nemško in evropsko politiko. AfD je znana po svojih evroskeptičnih stališčih, kar lahko v prihodnosti povzroči napetosti znotraj Evropske unije in vpliva na stabilnost evroobmočja. Politična nestabilnost v največjem evropskem gospodarstvu lahko negativno vpliva na zaupanje vlagateljev. To se lahko odrazi na delnicah, zlasti tistih, ki so močno odvisne od stabilnega političnega in gospodarskega okolja v Evropi, kar se je danes že pokazalo z rahlim padcem indeksa DAX za -0.28 % na 25973. Obveznice nemške vlade bi lahko doživele pritisk, saj bi se povečalo tveganje. Valuta EUR/USD je danes pri 1.1625 (+0.03 %), vendar bi se lahko evro v prihodnje soočal z depreciacijskimi pritiski, če se bo politična negotovost nadaljevala. Slovenski dolgoročni vlagatelj naj bo pozoren na politična gibanja v Nemčiji in širše v EU, saj lahko ta vplivajo na gospodarsko rast in stabilnost evroobmočja, kar se neposredno odraža na vrednosti naložb v regiji.",
       "vpliv": [
         "Povečana politična negotovost v Nemčiji",
-        "Potencialni pritisk na evro (EUR/USD -0.09 %)",
-        "Zaskrbljenost glede stabilnosti evroobmočja",
-        "Možna volatilnost na nemškem borznem trgu (DAX +0.17 %)"
+        "Potencialni pritisk na evro",
+        "Zmanjšanje zaupanja vlagateljev v EU",
+        "Vpliv na delnice evropskih podjetij"
       ],
       "vir": "Financial Times",
       "vir_url": "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-06T16:26:54.000Z"
+      "objavljeno": "2026-09-07T06:28:06.000Z"
     },
     {
-      "naslov": "Minister se bo srečal z vodstvom Jaguar Land Roverja zaradi pričakovanih odpuščanj",
-      "sektor": "Potrošniki",
+      "naslov": "Avstralija načrtuje zakonodajo za izklop algoritmov družbenih medijev",
+      "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Britanski minister se bo srečal z vodjem podjetja Jaguar Land Rover (JLR), saj se pričakujejo tisoči odpuščanj. Podjetje se sooča s težavami zaradi vpliva carin in posledic velikega kibernetskega napada, ki se je zgodil lani. Ta situacija poudarja izzive, s katerimi se sooča avtomobilska industrija, vključno z geopolitičnimi trgovinskimi ovirami in ranljivostjo kibernetske varnosti. Pričakuje se, da bodo odpuščanja imela pomemben vpliv na zaposlovanje in lokalno gospodarstvo v Združenem kraljestvu.",
-      "analiza": "Avtomobilska industrija je globalno pomemben sektor, ki se sooča s številnimi izzivi, od prehoda na električna vozila do motenj v dobavnih verigah in trgovinskih vojn. Ozadje te novice vključuje carine, ki povečujejo stroške proizvodnje in prodaje, ter kibernetski napad, ki je verjetno povzročil operativne in finančne izgube. To je relevantno zdaj, saj poudarja ranljivost velikih podjetij in širši vpliv na trg dela in potrošniško zaupanje. Mehanizem vpliva na finančne trge je večplasten: napovedana odpuščanja lahko zmanjšajo potrošniško moč in zaupanje, kar vpliva na celotno gospodarstvo. Delnice JLR (če so javno kotirane) in drugih avtomobilskih proizvajalcev bi lahko bile pod pritiskom. Povečana brezposelnost lahko vpliva na vladne finance in socialne programe. Za britansko gospodarstvo to pomeni dodatne izzive ob že obstoječih makroekonomskih pritiskih. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati zdravje ključnih industrijskih sektorjev, kot je avtomobilska industrija, saj so ti indikatorji širšega gospodarskega zdravja in lahko vplivajo na globalne dobavne verige in povpraševanje.",
+      "povzetek": "Avstralija načrtuje zakonodajo, ki bo uporabnikom omogočila izklop algoritmov družbenih medijev. Minister je izjavil, da bi se podjetja, kot so Meta, Google in TikTok, soočila z 'znatnimi' kaznimi, če ne bi ponudila te možnosti. Cilj je dati Avstralcem večji nadzor nad njihovimi viri novic in zmanjšati vpliv zasvojljivih algoritmov. Novica je bila objavljena 2026-09-07T03:40:09.000Z.",
+      "analiza": "Ta predlagana zakonodaja v Avstraliji predstavlja pomemben regulativni poseg v poslovanje velikih tehnoloških podjetij. Algoritmi so ključni za model angažiranja uporabnikov in monetizacije prihodkov za platforme, kot so Meta, Google in TikTok. Možnost izklopa algoritmov bi lahko zmanjšala čas, ki ga uporabniki preživijo na platformah, in s tem oglaševalske prihodke. To bi lahko imelo negativen vpliv na delnice tehnoloških velikanov, ki so močno odvisni od teh algoritmov. Čeprav gre za zakonodajo v Avstraliji, lahko služi kot precedens za druge države, ki se prav tako spopadajo z vprašanjem regulacije družbenih medijev in umetne inteligence. Vpliv na tehnološki sektor bi bil lahko dolgoročen, saj bi podjetja morala prilagoditi svoje poslovne modele. Na splošno bi to lahko povzročilo povečano regulativno tveganje za celoten sektor. Slovenski dolgoročni vlagatelj naj bo pozoren na globalne trende regulacije tehnoloških podjetij, saj lahko ti vplivajo na rast in dobičkonosnost podjetij, ki so pogosto del globalnih indeksov, kot je Nasdaq 100, ki je danes pri 29544 (+0.21 %).",
       "vpliv": [
-        "Pričakovana odpuščanja v tisočih",
-        "Vpliv carin na poslovanje",
-        "Posledice kibernetskega napada",
-        "Potencialno zmanjšanje potrošniškega zaupanja v Združenem kraljestvu"
+        "Povečano regulativno tveganje za tehnološka podjetja",
+        "Potencialno zmanjšanje prihodkov od oglaševanja",
+        "Vpliv na vrednotenje delnic tehnoloških velikanov",
+        "Možen precedens za druge države"
       ],
       "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-06T16:32:59.000Z"
+      "vir_url": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-07T03:40:09.000Z"
     },
     {
-      "naslov": "Ali ZDA izgubljajo status varnega zatočišča? Centralne banke umikajo zlato.",
-      "sektor": "Finance",
+      "naslov": "Britanski kancler napoveduje preobrat gospodarstva kljub zaskrbljenosti glede dolga",
+      "sektor": "Makro & Centralne banke",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Vprašanje, ali ZDA izgubljajo svoj status varnega zatočišča, se postavlja, saj globalne centralne banke umikajo zlato iz New Yorka. Nizozemska centralna banka sledi Franciji pri umiku zlata iz ZDA. Ta trend kaže na spremembe v globalnem finančnem zaupanju in strategijah upravljanja rezerv. Umik zlata lahko nakazuje na diverzifikacijo rezerv in zmanjšanje odvisnosti od ameriških finančnih institucij.",
-      "analiza": "Zlato je tradicionalno veljalo za varno zatočišče v časih negotovosti, ameriški dolar in ameriške obveznice pa so bili prav tako ključni elementi globalnega finančnega sistema. Ozadje te novice vključuje geopolitične napetosti, spremembe v globalni moči in morebitno zaskrbljenost glede dolgoročne stabilnosti ameriškega gospodarstva ali dolga. To je relevantno zdaj, saj se dogaja v času, ko se dolar sooča z nihanji (EUR/USD -0.09 % na 1.1621) in ko se donosnosti ameriških obveznic zvišujejo (10Y US Treasury +0.46 % na 4.78 %). Mehanizem vpliva na finančne trge je kompleksen: umik zlata s strani centralnih bank lahko signalizira zmanjšano zaupanje v ameriški finančni sistem ali željo po večji neodvisnosti. To bi lahko dolgoročno vplivalo na povpraševanje po ameriških obveznicah in dolarju, kar bi lahko povzročilo devalvacijo dolarja in višje donosnosti obveznic. Kljub temu je zlato danes padlo za 1.39 % na 4476.60 USD/oz, kar je lahko kratkoročna reakcija na druge tržne dejavnike ali pa odraz splošnega umika iz tveganih sredstev. Za slovenskega dolgoročnega vlagatelja je pomembno, da razume, da se globalna finančna arhitektura spreminja. Diverzifikacija in spremljanje globalnih trendov v upravljanju rezerv sta ključna za razumevanje dolgoročnih gibanj valut in surovin.",
+      "povzetek": "Britanski kancler John Healey bo v svojem prvem proračunu predstavil načrte za širšo porazdelitev rasti po Združenem kraljestvu in bo izjavil, da se britansko gospodarstvo 'obrača na bolje', kljub obstoječim pomislekom glede javnega dolga. Healey bo pozval tudi državne institucije, naj povečajo naložbe v zasebni sektor. To kaže na vladno strategijo za spodbujanje rasti in reševanje fiskalnih izzivov. Novica je bila objavljena 2026-09-07T08:36:25.000Z.",
+      "analiza": "Britansko gospodarstvo se je v zadnjih letih soočalo z visoko inflacijo, počasno rastjo in naraščajočim javnim dolgom. Kanclerjeva izjava o 'preobratu' je poskus vzbujanja zaupanja, vendar je treba upoštevati tudi dejanske ekonomske podatke in izzive. Načrti za širšo porazdelitev rasti in spodbujanje naložb v zasebni sektor so namenjeni dolgoročni strukturni preobrazbi. Na finančnih trgih bi lahko optimistične izjave kanclerja kratkoročno podprle funt in delnice britanskih podjetij. Vendar pa bodo vlagatelji pozorno spremljali konkretne ukrepe in njihovo učinkovitost pri zmanjševanju dolga in spodbujanju rasti. Povečane naložbe v zasebni sektor bi lahko imele pozitiven vpliv na določene industrije. Vpliv na obveznice bi bil odvisen od verodostojnosti fiskalnih načrtov; če bi se dolgoročni dolg še naprej povečeval, bi to lahko povzročilo pritisk na donose. Slovenski dolgoročni vlagatelj naj bo pozoren na makroekonomske kazalnike Združenega kraljestva, kot so inflacija, rast BDP in javni dolg, saj lahko ti vplivajo na vrednost naložb v britanske delnice in obveznice, pa tudi na gibanje valutnega para EUR/USD, ki je danes pri 1.1625 (+0.03 %).",
       "vpliv": [
-        "Zmanjšano zaupanje v status ZDA kot varnega zatočišča",
-        "Umik zlata s strani centralnih bank",
-        "Potencialni dolgoročni pritisk na USD",
-        "Spremembe v globalni finančni arhitekturi"
+        "Potencialno izboljšanje zaupanja v britansko gospodarstvo",
+        "Možna podpora funtu in britanskim delnicam",
+        "Povečane naložbe v zasebni sektor",
+        "Nadaljnja zaskrbljenost glede javnega dolga"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-06T13:00:00.000Z"
-    },
-    {
-      "naslov": "Trumpovi odposlanci se srečali z Zelenskim v Kijevu po pogovorih s Putinom",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Ameriška odposlanca Jared Kushner in Steve Witkoff sta se v Kijevu pogovarjala z ukrajinskim predsednikom Zelenskim, potem ko sta se dan prej srečala z ruskim predsednikom Vladimirjem Putinom v Moskvi. Ti pogovori so del novih prizadevanj Trumpove administracije za posredovanje pri dogovoru o končanju vojne. Srečanje v Kijevu je bilo opisano kot 'substantivno'. To nakazuje na aktivno diplomatsko iniciativo, ki bi lahko vplivala na prihodnost konflikta med Rusijo in Ukrajino.",
-      "analiza": "Konflikt med Rusijo in Ukrajino je imel in še vedno ima daljnosežne posledice za globalno gospodarstvo, še posebej za Evropo, kar zadeva energetsko varnost in inflacijo. Ozadje vključuje dolgotrajna prizadevanja za iskanje diplomatske rešitve, ki so bila doslej večinoma neuspešna. Trumpovi odposlanci poskušajo oživiti prejšnje predloge za končanje vojne. To je relevantno zdaj, saj morebiten preboj v pogajanjih lahko prinese stabilizacijo v regiji in zmanjšanje geopolitičnega tveganja. Mehanizem vpliva na finančne trge je predvsem prek zmanjšanja negotovosti: napredek v mirovnih pogovorih bi lahko zmanjšal cene energentov, ki so danes zrasle (Brent +0.80 % na 96.28 USD/sod), in izboljšal obete za gospodarsko rast v Evropi. Delnice evropskih podjetij, še posebej tistih, ki so bile prizadete zaradi konflikta in sankcij, bi lahko imele koristi. Evro bi se lahko okrepil proti dolarju (EUR/USD -0.09 % na 1.1621). Obveznice bi lahko izgubile nekaj svojega statusa varnega zatočišča, kar bi lahko zvišalo njihove donosnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba spremljati diplomatska prizadevanja, saj lahko vplivajo na širšo evropsko stabilnost, cene energentov in s tem na inflacijo ter gospodarsko rast v regiji.",
-      "vpliv": [
-        "Potencialno zmanjšanje geopolitičnega tveganja v Evropi",
-        "Možna stabilizacija cen energentov",
-        "Vpliv na evropske delniške trge",
-        "Spremembe v vrednosti evra"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/1e2d9db0-cb2c-4c79-942b-f0aff960e4c5?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-06T15:06:49.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-07T08:36:25.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-06T17:48:12.849Z",
+    "posodobljenoOb": "2026-09-07T09:19:59.878Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -110,14 +127,14 @@
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 26046.4,
-        "sprememba_pct": 0.17
+        "vrednost": 25973.32,
+        "sprememba_pct": -0.28
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 65020.94,
-        "sprememba_pct": 1.26
+        "vrednost": 66399.84,
+        "sprememba_pct": 2.12
       }
     ],
     "surovine": [
@@ -125,21 +142,21 @@
         "simbol": "GC=F",
         "ime": "Zlato",
         "vrednost": 4476.6,
-        "sprememba_pct": -1.39,
+        "sprememba_pct": 0,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
         "vrednost": 91.48,
-        "sprememba_pct": 0.2,
+        "sprememba_pct": 0,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
         "vrednost": 96.28,
-        "sprememba_pct": 0.8,
+        "sprememba_pct": 0,
         "enota": "USD/sod"
       }
     ],
@@ -147,8 +164,8 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1621,
-        "sprememba_pct": -0.09
+        "vrednost": 1.1625,
+        "sprememba_pct": 0.03
       }
     ],
     "obveznice": [
@@ -164,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 79735.93,
-        "sprememba_pct": -0.12,
+        "vrednost": 79513.51,
+        "sprememba_pct": -1.04,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 14.53,
-      "sprememba_pct": 1.47
+      "vrednost": 15.02,
+      "sprememba_pct": 3.37
     }
   }
 }

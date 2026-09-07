@@ -1,133 +1,99 @@
 {
-  "generiranoOb": "2026-09-05T17:49:34.997Z",
+  "generiranoOb": "2026-09-06T17:49:07.433Z",
   "izdaja": "afternoon",
-  "model": "gemini-2.5-flash-lite",
+  "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-09-05",
-  "povzetek": "Evropski trgi so danes zaprli z mešanimi rezultati, pri čemer je DAX zabeležil rast 0,17 % in se ustavil pri 26.046 točkah. Ameriški trgi so ob zaprtju evropskih tržnic zabeležili nekoliko nižji S&P 500 (-0,38 % na 7719 točk), medtem ko je Nasdaq 100 (+0,21 % na 29544 točk) nadaljeval rast. V ospredju so novice o geopolitičnih napetostih med ZDA in Iranom, vključno z ameriškimi napadi na iranske tankerje, kar je vplivalo na cene nafte. Podatki o rekordnem številu milijonarjev v pokojninskih skladih 401(k) kažejo na stabilno dolgoročno varčevanje kljub negotovosti v gospodarstvu. Prihajajoči teden bo v znamenju pomembnih makroekonomskih objav, kot so podatki o inflaciji in zasedanje centralne banke, ki bodo vplivali na nadaljnje gibanje trgov.",
+  "datum": "2026-09-06",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanimi občutki, medtem ko so ameriški trgi odprli v razdeljeni smeri. Nemški indeks DAX je dan zaključil z rahlo rastjo, +0.17 %, pri 26046 točkah, medtem ko je v ZDA indeks S&P 500 padel za 0.38 % na 7719 točk, Nasdaq 100 pa je zrasel za 0.21 % na 29544 točk. Na valutnih trgih je evro oslabel proti dolarju, par EUR/USD je bil pri 1.1621 (-0.09 %). Cene nafte so se zvišale, saj je Brent nafta dosegla 96.28 USD/sod (+0.80 %), WTI nafta pa 91.48 USD/sod (+0.20 %), kar je verjetno odraz napetosti med ZDA in Iranom. Zlato je medtem padlo za 1.39 % na 4476.60 USD/oz, medtem ko je donosnost 10-letne ameriške obveznice zrasla na 4.78 % (+0.46 %). Vlagatelji so pozorno spremljali tudi novice o krepitvi skrajno desne stranke AfD v Nemčiji in pogovore ameriških odposlancev v Kijevu in Moskvi. Ta teden bo ključna prihajajoča objava inflacijskih podatkov za evroobmočje, ki bo vplivala na pričakovanja glede monetarne politike.",
   "novice": [
     {
-      "naslov": "ZDA napadle iranske tankerje, cene nafte se odzivajo",
+      "naslov": "Iran grozi z vojaškim odgovorom, ko ZDA nadaljujejo blokado in napade na tankerje",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Ameriške sile so v soboto zadele tri iranske naftne tankerje v Perzijskem zalivu in Omanskem zalivu, s čimer naj bi preprečili financiranje regionalnih posrednikov. Predsednik Iran Pezeshkian je pozval k enotnosti v času povečanega ameriškega gospodarskega pritiska. Novica prihaja v času povečanih napetosti v regiji, vključno z izraelskimi operacijami na Zahodnem bregu in spopadi v Jemnu. Brent nafta je zabeležila rast 0,80 % na 96,28 USD/sod, WTI pa 0,20 % na 91,48 USD/sod.",
-      "analiza": "Napadi ZDA na iranske naftne tankerje predstavljajo pomembno zaostrovanje geopolitičnih napetosti v regiji Perzijskega zaliva. Ozadje vključuje ameriške obtožbe o iranskem financiranju regionalnih posrednikov in iranske odzive na izraelske operacije. Ta dogodek je neposredno povezan z aktualnimi geopolitičnimi trendi, ki vplivajo na stabilnost dobave energentov. Mehanizem vpliva je neposreden: strah pred motnjami v dobavi nafte zaradi morebitnega konflikta ali povračilnih ukrepov povzroči rast cen. Posledice za delnice energetskih podjetij so lahko pozitivne zaradi višjih cen nafte, medtem ko lahko vplivajo negativno na podjetja, ki so odvisna od nizkih cen energentov. Obveznice lahko doživijo pritisk zaradi inflacijskih pričakovanj. Valute, kot je ameriški dolar, lahko okrepijo zaradi statusa varnega pribežališča. Kriptovalute, kot je Bitcoin, ki je trenutno pri 80.068 USD (+0,49 %), bi lahko v takšnem okolju doživele mešane odzive, odvisno od tega, ali jih vlagatelji vidijo kot alternativno naložbo ali kot tvegano sredstvo. Zgodovinsko gledano, podobni dogodki v regiji pogosto vodijo do začasnih skokov cen nafte. Vlagateljem je treba pozorno spremljati nadaljnje izjave obeh strani in morebitne povračilne ukrepe. Za slovenskega dolgoročnega vlagatelja to pomeni povečano previdnost pri naložbah v energetski sektor in širše, saj geopolitična nestabilnost lahko povzroči nenadne in nepredvidljive premike na trgih.",
+      "povzetek": "Iran je sporočil, da je čas za sorazmerno povračilno ukrepanje po ameriškem napadu na iranske tankerje znotraj blokadne linije. Teheran poudarja, da so se ZDA odločile za vzdrževanje blokade in napade na tankerje, kar je sprožilo iranske grožnje z vojaškim odgovorom. Ta stopnjevanje napetosti med državama se dogaja v regiji, ki je ključna za globalno oskrbo z nafto. Incidenti, kot so napadi na tankerje, imajo neposreden vpliv na stabilnost trga in cene energentov. Iran je jasno izrazil svoje stališče, da ne bo toleriral nadaljnjih agresivnih dejanj.",
+      "analiza": "Ozadje te novice sega v dolgotrajne napetosti med ZDA in Iranom, ki so se v zadnjih letih pogosto stopnjevale zaradi iranskega jedrskega programa in regionalnega vpliva. Ameriška blokada in napadi na tankerje predstavljata resno eskalacijo, ki lahko destabilizira celotno regijo Bližnjega vzhoda. To je relevantno zdaj, saj se globalno gospodarstvo sooča z inflacijskimi pritiski in morebitna prekinitev oskrbe z nafto bi imela daljnosežne posledice. Mehanizem vpliva na finančne trge je neposreden: grožnje z vojaškim odgovorom in napadi na tankerje takoj povečajo premijo za tveganje v cenah nafte. Posledično so cene nafte Brent in WTI že zrasle za 0.80 % na 96.28 USD/sod oziroma za 0.20 % na 91.48 USD/sod. To lahko povzroči višje stroške za podjetja in potrošnike, kar se odraža v inflaciji. Delnice podjetij, odvisnih od nafte (npr. letalske družbe, transportna podjetja), bi lahko padle, medtem ko bi delnice energetskih podjetij lahko zrasle. Obveznice bi lahko služile kot varno zatočišče, kar bi znižalo njihove donosnosti, čeprav je donosnost 10-letne ameriške obveznice danes zrasla na 4.78 %, kar kaže na širše makroekonomske pritiske. Zlato, tradicionalno varno zatočišče, je danes padlo za 1.39 % na 4476.60 USD/oz, kar je lahko posledica močnejšega dolarja ali drugih dejavnikov. Za slovenskega dolgoročnega vlagatelja to pomeni povečano negotovost in morebitno volatilnost na trgih. Vlagatelji bi morali spremljati razvoj dogodkov v regiji in njihov vpliv na cene energentov, saj lahko to vpliva na inflacijo in gospodarsko rast.",
       "vpliv": [
-        "rast cen nafte (Brent in WTI)",
-        "povečana volatilnost na energetskih trgih",
-        "potencialno povečanje povpraševanja po varnih naložbah",
-        "negativen vpliv na podjetja z visoko izpostavljenostjo iranskemu trgu"
+        "Cena Brent nafte zrasla na 96.28 USD/sod (+0.80 %)",
+        "Cena WTI nafte zrasla na 91.48 USD/sod (+0.20 %)",
+        "Povečana geopolitična nestabilnost",
+        "Potencialno višja inflacija"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss",
-      "objavljeno": "2026-09-05T14:49:36.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
+      "objavljeno": "2026-09-06T16:17:06.000Z"
     },
     {
-      "naslov": "Rekordno število milijonarjev v 401(k) skladih",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Število Američanov z milijoni v pokojninskih skladih 401(k) je doseglo nov rekord, saj so se varčevalni zneski obdržali na najvišjih ravneh v drugem četrtletju. Fidelity Investments je poročal, da so vlagatelji kljub negotovosti v gospodarstvu ostali osredotočeni na dolgoročne cilje. Novica nakazuje robustnost dolgoročnega varčevanja kljub kratkoročnim tržnim nihanjem.",
-      "analiza": "Podatki o rekordnem številu milijonarjev v 401(k) skladih kažejo na močno dolgoročno naravnanost vlagateljev v ZDA. Ozadje je v gospodarski politiki, ki spodbuja pokojninsko varčevanje, ter v zgodovinsko nizkih obrestnih merahanjih v preteklosti, ki so spodbujala naložbe v delnice. Ta trend je pomemben, ker odraža zaupanje vlagateljev v dolgoročno rast kapitalskih trgov, tudi ob trenutni negotovosti. Mehanizem vpliva je posreden: večje število posameznikov z znatnimi pokojninskimi varčevalnimi računi lahko dolgoročno podpira povpraševanje po delnicah in drugih naložbenih instrumentih, kar lahko pozitivno vpliva na vrednost portfeljev. Posledice za delnice so lahko podpora nadaljnjemu rasti, še posebej v sektorjih, ki so priljubljeni med dolgoročnimi vlagatelji. Obveznice morda doživljajo manjši pritisk, saj se del sredstev preusmerja v bolj donosne, a tvegane naložbe. Valute niso neposredno prizadete, lahko pa močno gospodarstvo, ki ga odražajo ti podatki, podpira ameriški dolar. Kriptovalute bi lahko imele koristi od splošnega optimizma na trgih, če vlagatelji iščejo dodatne priložnosti za rast. Zgodovinsko se je pokazalo, da dolgoročno varčevanje poganja kapitalske trge. Za slovenskega dolgoročnega vlagatelja to pomeni potrditev pomena discipliniranega dolgoročnega varčevanja in naložb, ki lahko ob obrestno-obrestnem učinku prinesejo znatne rezultate v daljšem obdobju.",
-      "vpliv": [
-        "potencialna podpora rasti delniških trgov",
-        "povečano zaupanje vlagateljev v dolgoročne naložbe",
-        "stabilnost povpraševanja po delnicah",
-        "pozitivni signali za pokojninske sklade"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-05T17:01:00.000Z"
-    },
-    {
-      "naslov": "Poljska postaja razvita država: nove naložbene priložnosti",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Poljska je bila reklasificirana iz trga v razvoju v razvito državo, kar odpre vrata številnim novim vlagateljem. Ta sprememba lahko privede do povečanega priliva kapitala na poljski trg, ki naj bi bil trenutno cenejši od nekaterih drugih razvitih trgov. Novica nakazuje potencial za rast poljskega gospodarstva in kapitalskih trgov.",
-      "analiza": "Reklasifikacija Poljske iz trga v razvoju v razvito državo je pomemben dogodek za globalne finance. Ozadje je v dolgoročnem gospodarskem razvoju Poljske, izboljšanju njene infrastrukture, pravnega sistema in finančne stabilnosti. Ta poteza sledi trendom vključevanja vzhodnoevropskih držav v širše evropske in globalne finančne tokove. Mehanizem vpliva je neposreden: številni globalni skladi in institucionalni vlagatelji imajo v svojih mandatih naložbe samo v razvite trge. Z vključitvijo Poljske bodo ti skladi lahko investirali v poljska podjetja, kar bo povečalo povpraševanje po poljskih delnicah in potencialno dvignilo njihove cene. Posledice za delnice poljskih podjetij so lahko pozitivne, z rastjo vrednosti in likvidnosti. Obveznice lahko doživijo spremembe v donosnosti, odvisno od tokov kapitala. Valute, kot je poljski zlot, bi lahko okrepile zaradi povečanega priliva tujega kapitala. Kriptovalute niso neposredno povezane, lahko pa splošni optimizem na trgih in iskanje novih priložnosti vplivata tudi nanje. Za slovenskega dolgoročnega vlagatelja to pomeni potencialno novo zanimivo naložbeno priložnost v sosednji državi, ki je lahko cenovno ugodnejša od nekaterih drugih razvitih trgov, vendar je treba skrbno preučiti specifična tveganja.",
-      "vpliv": [
-        "povečano povpraševanje po poljskih delnicah",
-        "potencialna rast vrednosti poljskih podjetij",
-        "okrepitev poljskega zlotega",
-        "priliv institucionalnega kapitala na Poljsko"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-05T16:12:00.000Z"
-    },
-    {
-      "naslov": "Trumpova administracija uvaja poligrafske teste za osebje",
+      "naslov": "Skrajno desna AfD močno napredovala na nemških deželnih volitvah",
       "sektor": "Geopolitika",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Trumpova administracija je odredila poligrafske teste za svoje osebje, kar naj bi bil odziv na poročila o zmanjševanju zalog orožja ZDA in iskanju notranjih puščanj informacij v Pentagonu. Ta poteza nakazuje povečano notranjo napetost in skrb glede varnosti informacij v ameriški administraciji.",
-      "analiza": "Uvedba poligrafskih testov v Trumpovi administraciji odraža visoko stopnjo nezaupanja in skrbi glede varnosti informacij, zlasti v luči poročil o zmanjševanju zalog orožja. Ozadje je v občutljivosti informacij, povezanih z obrambno politiko in vojaškimi zalogami, ter v Trumpovi nagnjenosti k iskanju odgovornih za morebitne uhajanje informacij. Mehanizem vpliva je predvsem notranji, vendar lahko vpliva na zunanjo percepcijo stabilnosti administracije. Posledice za delnice so lahko posredne, saj lahko negotovost glede notranje politike vpliva na splošno zaupanje vlagateljev. Obveznice lahko doživijo pritisk, če se poveča negotovost glede stabilnosti ameriške vlade. Valute, kot je ameriški dolar, bi lahko oslabele, če bi takšne novice povzročile dvome o učinkovitosti administracije. Kriptovalute bi lahko v takšnem okolju videle povečano zanimanje kot alternativno naložbo, čeprav je povezava bolj posredna. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati stabilnost in predvidljivost ključnih svetovnih političnih akterjev, saj lahko notranji pretresi vplivajo na globalno gospodarsko in finančno okolje.",
+      "intenziteta": 3,
+      "povzetek": "Skrajno desna stranka Alternativa za Nemčijo (AfD) je po izhodnih anketah dosegla več kot 44 odstotkov glasov v deželi Saška-Anhalt. Ta rezultat predstavlja velik volilni udarec za uveljavljene stranke v Nemčiji. Stranka AfD je ta rezultat označila za 'zgodovinskega', čeprav še ni jasno, ali bo lahko oblikovala vlado. Uspeh AfD odraža naraščajoče nezadovoljstvo volivcev z obstoječimi političnimi strankami in politikami. To je pomemben pokazatelj premikov v nemški politični pokrajini in širše v Evropi.",
+      "analiza": "Vzpon skrajno desnih strank v Evropi ni novost, vendar je uspeh AfD v Nemčiji, največjem gospodarstvu evroobmočja, še posebej pomemben. Ozadje vključuje zaskrbljenost glede migracij, ekonomske politike in nezadovoljstvo z bruseljsko birokracijo. Ta rezultat je relevanten zdaj, saj lahko vpliva na stabilnost nemške vlade, njeno politiko znotraj EU in na splošno evropsko integracijo. Mehanizem vpliva na finančne trge je posreden, a pomemben: politična nestabilnost v Nemčiji lahko povzroči negotovost glede prihodnjih gospodarskih politik in fiskalne discipline. To lahko vpliva na vrednost evra (EUR/USD je danes že padel za 0.09 % na 1.1621), saj vlagatelji iščejo varnejša zatočišča. Delnice nemških podjetij, še posebej tistih, ki so močno odvisne od stabilne domače in evropske politike, bi lahko bile pod pritiskom. Donosnosti nemških obveznic bi se lahko zvišale zaradi povečane premije za tveganje. Zgodovinsko gledano, politični pretresi v ključnih članicah EU vedno povzročijo nervozo na trgih. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba spremljati politično dogajanje v Nemčiji, saj lahko vpliva na stabilnost evroobmočja in s tem na slovensko gospodarstvo, ki je tesno povezano z Nemčijo.",
       "vpliv": [
-        "povečana notranja napetost v administraciji ZDA",
-        "dvomi o varnosti obrambnih informacij",
-        "potencialni vpliv na zaupanje vlagateljev v stabilnost ZDA",
-        "negativni signali za politično stabilnost"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/5/why-has-the-trump-administration-ordered-staff-to-take-polygraph-tests?traffic_source=rss",
-      "objavljeno": "2026-09-05T13:54:33.000Z"
-    },
-    {
-      "naslov": "Protesti proti priseljevanju blokirali pristanišče Dover",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Maskirani protestniki so blokirali ceste okoli pristanišča Dover v Veliki Britaniji, kar je povzročilo začasno ustavitev prometa. Vlada Združenega kraljestva je obsodila proteste, ki so bili usmerjeni proti priseljevanju. Dogodek je povzročil motnje v logistiki in poudaril napetosti glede migracijske politike.",
-      "analiza": "Blokada pristanišča Dover s strani protestnikov proti priseljevanju je pomemben dogodek, ki odraža naraščajoče socialne in politične napetosti v Veliki Britaniji. Ozadje je v migracijski politiki vlade in odzivih dela javnosti. Ta dogodek lahko vpliva na gospodarsko aktivnost in logistične verige, ki so ključne za britansko gospodarstvo. Mehanizem vpliva je neposreden na lokalno gospodarstvo in posreden na širše trge. Posledice za delnice britanskih podjetij, ki so odvisna od logistike ali mednarodne trgovine, so lahko negativne zaradi motenj. Obveznice lahko doživijo pritisk, če se poveča negotovost glede ekonomske stabilnosti države. Valute, kot je britanski funt, bi lahko oslabele zaradi negativnih novic o notranji stabilnosti. Kriptovalute niso neposredno prizadete, vendar lahko splošna negotovost na trgih vpliva nanje. Za slovenskega dolgoročnega vlagatelja to pomeni opozorilo na potencialne gospodarske in politične nestabilnosti v ključnih evropskih državah, ki lahko vplivajo tudi na naložbe v teh regijah.",
-      "vpliv": [
-        "motnje v logistiki in trgovini",
-        "negativni signali za britansko gospodarstvo",
-        "potencialna oslabitev britanskega funta",
-        "povečana negotovost glede socialne stabilnosti v ZK"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/5/uk-govt-condemns-masked-anti-immigrant-protesters-blocking-dover-port?traffic_source=rss",
-      "objavljeno": "2026-09-05T13:51:29.000Z"
-    },
-    {
-      "naslov": "Varnost pokojninskih skladov in iskanje naložbenih priložnosti",
-      "sektor": "Finance",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Novice izhajajo iz MarketWatcha in se osredotočajo na vprašanja pokojninskega varčevanja in naložb. Ena novica obravnava iskanje novih naložbenih priložnosti na cenejših trgih, kot je Poljska, druga pa se osredotoča na to, ali je pri 60. letih še prepozno za Roth konverzije v 403(b) skladih. Tretja novica se dotika vprašanja, ali naj starejši porabijo del svojih 401(k) za nakup nepremičnine z hipoteko.",
-      "analiza": "Te novice izhajajo iz MarketWatcha in se osredotočajo na osebne finance in pokojninsko varčevanje v ZDA. Ozadje je v naraščajoči skrbi posameznikov glede zagotavljanja finančne varnosti v starosti, zlasti ob spreminjajočih se gospodarskih razmerah in dolžini življenjske dobe. Novice obravnavajo različne strategije, od iskanja novih naložbenih priložnosti do specifičnih odločitev o porabi in konverziji sredstev. Mehanizem vpliva je predvsem na posameznike, vendar lahko kolektivni premiki vlagateljev vplivajo na trge. Posledice za delnice so lahko povezane z večjim povpraševanjem po določenih sektorjih ali regijah (kot je Poljska). Obveznice lahko doživijo spremembe, če se vlagatelji odločajo za bolj tvegane naložbe. Valute niso neposredno prizadete. Kriptovalute bi lahko bile del širšega iskanja alternativnih naložb. Za slovenskega dolgoročnega vlagatelja so te novice pomembne kot vpogled v razmišljanja ameriških vlagateljev in potencialne trende, ki bi se lahko prenesli tudi v Evropo, zlasti glede dolgoročnega varčevanja in upravljanja s premoženjem v poznejših življenjskih obdobjih.",
-      "vpliv": [
-        "povečano zanimanje za naložbe na razvijajočih se trgih (npr. Poljska)",
-        "razprave o strategijah pokojninskega varčevanja",
-        "potencialni premiki sredstev med različnimi naložbenimi razredi",
-        "poudarek na dolgoročnem finančnem načrtovanju"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-05T16:12:00.000Z"
-    },
-    {
-      "naslov": "Rusko-ukrajinska mirovna pogajanja bi se lahko začela prihodnje leto",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Nekdanji vodja britanske obveščevalne službe MI6, John Sawers, je v pogovoru za FT Weekend Festival izrazil mnenje, da bi se mirovna pogajanja med Rusijo in Ukrajino lahko začela že prihodnje leto. Kljub temu je dodal, da trajnega miru ni mogoče pričakovati, dokler je Vladimir Putin na oblasti. Novica nakazuje možnost premika v diplomatskih prizadevanjih, a hkrati poudarja vztrajnost konflikta.",
-      "analiza": "Napoved možnosti začetka rusko-ukrajinskih mirovnih pogajanj prihodnje leto, kot jo je podal nekdanji šef MI6, je pomemben signal, čeprav z zadržki. Ozadje je v dolgotrajnem konfliktu, ki ima globalne posledice, vključno z energetsko in prehransko varnostjo. Sawersova ocena, da trajnega miru ni mogoče doseči, dokler je Putin na oblasti, poudarja globino političnih ovir. Mehanizem vpliva je predvsem na geopolitično sliko in pričakovanja vlagateljev. Posledice za delnice bi lahko bile pozitivne, če bi se napetosti zmanjšale, kar bi spodbudilo gospodarsko aktivnost. Obveznice bi lahko doživele rast donosnosti, če bi se zmanjšala potreba po 'varnih naložbah'. Valute, kot je evro, bi lahko okrepile zaradi večje stabilnosti v Evropi. Kriptovalute bi lahko imele koristi od splošnega zmanjšanja tveganj na trgih. Za slovenskega dolgoročnega vlagatelja je ključno spremljati razvoj dogodkov, saj bi stabilizacija razmer v Ukrajini pozitivno vplivala na evropsko gospodarstvo in s tem na naložbe v regiji.",
-      "vpliv": [
-        "potencialno zmanjšanje geopolitičnih napetosti",
-        "pozitivni signali za evropsko gospodarstvo",
-        "spremembe v dinamiki obvezniških trgov",
-        "vpliv na energetske in surovinske trge"
+        "Povečana politična negotovost v Nemčiji",
+        "Potencialni pritisk na evro (EUR/USD -0.09 %)",
+        "Zaskrbljenost glede stabilnosti evroobmočja",
+        "Možna volatilnost na nemškem borznem trgu (DAX +0.17 %)"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/4826a106-9cd4-45bc-8436-69e2519d0205",
-      "objavljeno": "2026-09-05T15:50:30.000Z"
+      "vir_url": "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-06T16:26:54.000Z"
+    },
+    {
+      "naslov": "Minister se bo srečal z vodstvom Jaguar Land Roverja zaradi pričakovanih odpuščanj",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Britanski minister se bo srečal z vodjem podjetja Jaguar Land Rover (JLR), saj se pričakujejo tisoči odpuščanj. Podjetje se sooča s težavami zaradi vpliva carin in posledic velikega kibernetskega napada, ki se je zgodil lani. Ta situacija poudarja izzive, s katerimi se sooča avtomobilska industrija, vključno z geopolitičnimi trgovinskimi ovirami in ranljivostjo kibernetske varnosti. Pričakuje se, da bodo odpuščanja imela pomemben vpliv na zaposlovanje in lokalno gospodarstvo v Združenem kraljestvu.",
+      "analiza": "Avtomobilska industrija je globalno pomemben sektor, ki se sooča s številnimi izzivi, od prehoda na električna vozila do motenj v dobavnih verigah in trgovinskih vojn. Ozadje te novice vključuje carine, ki povečujejo stroške proizvodnje in prodaje, ter kibernetski napad, ki je verjetno povzročil operativne in finančne izgube. To je relevantno zdaj, saj poudarja ranljivost velikih podjetij in širši vpliv na trg dela in potrošniško zaupanje. Mehanizem vpliva na finančne trge je večplasten: napovedana odpuščanja lahko zmanjšajo potrošniško moč in zaupanje, kar vpliva na celotno gospodarstvo. Delnice JLR (če so javno kotirane) in drugih avtomobilskih proizvajalcev bi lahko bile pod pritiskom. Povečana brezposelnost lahko vpliva na vladne finance in socialne programe. Za britansko gospodarstvo to pomeni dodatne izzive ob že obstoječih makroekonomskih pritiskih. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati zdravje ključnih industrijskih sektorjev, kot je avtomobilska industrija, saj so ti indikatorji širšega gospodarskega zdravja in lahko vplivajo na globalne dobavne verige in povpraševanje.",
+      "vpliv": [
+        "Pričakovana odpuščanja v tisočih",
+        "Vpliv carin na poslovanje",
+        "Posledice kibernetskega napada",
+        "Potencialno zmanjšanje potrošniškega zaupanja v Združenem kraljestvu"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-06T16:32:59.000Z"
+    },
+    {
+      "naslov": "Ali ZDA izgubljajo status varnega zatočišča? Centralne banke umikajo zlato.",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Vprašanje, ali ZDA izgubljajo svoj status varnega zatočišča, se postavlja, saj globalne centralne banke umikajo zlato iz New Yorka. Nizozemska centralna banka sledi Franciji pri umiku zlata iz ZDA. Ta trend kaže na spremembe v globalnem finančnem zaupanju in strategijah upravljanja rezerv. Umik zlata lahko nakazuje na diverzifikacijo rezerv in zmanjšanje odvisnosti od ameriških finančnih institucij.",
+      "analiza": "Zlato je tradicionalno veljalo za varno zatočišče v časih negotovosti, ameriški dolar in ameriške obveznice pa so bili prav tako ključni elementi globalnega finančnega sistema. Ozadje te novice vključuje geopolitične napetosti, spremembe v globalni moči in morebitno zaskrbljenost glede dolgoročne stabilnosti ameriškega gospodarstva ali dolga. To je relevantno zdaj, saj se dogaja v času, ko se dolar sooča z nihanji (EUR/USD -0.09 % na 1.1621) in ko se donosnosti ameriških obveznic zvišujejo (10Y US Treasury +0.46 % na 4.78 %). Mehanizem vpliva na finančne trge je kompleksen: umik zlata s strani centralnih bank lahko signalizira zmanjšano zaupanje v ameriški finančni sistem ali željo po večji neodvisnosti. To bi lahko dolgoročno vplivalo na povpraševanje po ameriških obveznicah in dolarju, kar bi lahko povzročilo devalvacijo dolarja in višje donosnosti obveznic. Kljub temu je zlato danes padlo za 1.39 % na 4476.60 USD/oz, kar je lahko kratkoročna reakcija na druge tržne dejavnike ali pa odraz splošnega umika iz tveganih sredstev. Za slovenskega dolgoročnega vlagatelja je pomembno, da razume, da se globalna finančna arhitektura spreminja. Diverzifikacija in spremljanje globalnih trendov v upravljanju rezerv sta ključna za razumevanje dolgoročnih gibanj valut in surovin.",
+      "vpliv": [
+        "Zmanjšano zaupanje v status ZDA kot varnega zatočišča",
+        "Umik zlata s strani centralnih bank",
+        "Potencialni dolgoročni pritisk na USD",
+        "Spremembe v globalni finančni arhitekturi"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-06T13:00:00.000Z"
+    },
+    {
+      "naslov": "Trumpovi odposlanci se srečali z Zelenskim v Kijevu po pogovorih s Putinom",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Ameriška odposlanca Jared Kushner in Steve Witkoff sta se v Kijevu pogovarjala z ukrajinskim predsednikom Zelenskim, potem ko sta se dan prej srečala z ruskim predsednikom Vladimirjem Putinom v Moskvi. Ti pogovori so del novih prizadevanj Trumpove administracije za posredovanje pri dogovoru o končanju vojne. Srečanje v Kijevu je bilo opisano kot 'substantivno'. To nakazuje na aktivno diplomatsko iniciativo, ki bi lahko vplivala na prihodnost konflikta med Rusijo in Ukrajino.",
+      "analiza": "Konflikt med Rusijo in Ukrajino je imel in še vedno ima daljnosežne posledice za globalno gospodarstvo, še posebej za Evropo, kar zadeva energetsko varnost in inflacijo. Ozadje vključuje dolgotrajna prizadevanja za iskanje diplomatske rešitve, ki so bila doslej večinoma neuspešna. Trumpovi odposlanci poskušajo oživiti prejšnje predloge za končanje vojne. To je relevantno zdaj, saj morebiten preboj v pogajanjih lahko prinese stabilizacijo v regiji in zmanjšanje geopolitičnega tveganja. Mehanizem vpliva na finančne trge je predvsem prek zmanjšanja negotovosti: napredek v mirovnih pogovorih bi lahko zmanjšal cene energentov, ki so danes zrasle (Brent +0.80 % na 96.28 USD/sod), in izboljšal obete za gospodarsko rast v Evropi. Delnice evropskih podjetij, še posebej tistih, ki so bile prizadete zaradi konflikta in sankcij, bi lahko imele koristi. Evro bi se lahko okrepil proti dolarju (EUR/USD -0.09 % na 1.1621). Obveznice bi lahko izgubile nekaj svojega statusa varnega zatočišča, kar bi lahko zvišalo njihove donosnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba spremljati diplomatska prizadevanja, saj lahko vplivajo na širšo evropsko stabilnost, cene energentov in s tem na inflacijo ter gospodarsko rast v regiji.",
+      "vpliv": [
+        "Potencialno zmanjšanje geopolitičnega tveganja v Evropi",
+        "Možna stabilizacija cen energentov",
+        "Vpliv na evropske delniške trge",
+        "Spremembe v vrednosti evra"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/1e2d9db0-cb2c-4c79-942b-f0aff960e4c5?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-06T15:06:49.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-05T17:44:35.718Z",
+    "posodobljenoOb": "2026-09-06T17:48:12.849Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -198,8 +164,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 80067.95,
-        "sprememba_pct": 0.49,
+        "vrednost": 79735.93,
+        "sprememba_pct": -0.12,
         "enota": "USD"
       }
     ],
