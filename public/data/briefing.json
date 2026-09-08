@@ -1,117 +1,134 @@
 {
-  "generiranoOb": "2026-09-08T08:52:15.026Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-09-08T18:56:29.458Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-09-08",
-  "povzetek": "Jutranja izdaja, 8. september 2026. Ameriški delniški trgi so noč zaključili mešano, kjer je S&P 500 zabeležil padec za 0,38 % na 7719 točk, medtem ko je tehnološko usmerjeni Nasdaq 100 zrasel za 0,21 % na 29544 točk. Azijski trgi so bili pod pritiskom, Nikkei 225 je padel za 1,70 % na 65269 točk. Evropski trgi, vključno z DAX-om, ki je danes pri 25856 točkah z 0,58-odstotnim padcem, se bodo verjetno odprli previdno. Cene nafte so močno poskočile, saj je WTI nafta zrasla za 3,18 % na 94,39 USD/sod, Brent pa za 2,92 % na 99,09 USD/sod, po poročilih o napadu na rafinerijo Saudi Aramco. Kanadske povračilne carine na ameriške izdelke v vrednosti 20 milijard dolarjev stopajo v veljavo, kar napoveduje zaostritev trgovinske vojne. Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v evroobmočju, ki bi lahko vplivali na pričakovanja glede monetarne politike Evropske centralne banke.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z rahlimi padci, medtem ko so ameriški trgi v zgodnjem popoldanskem trgovanju kazali mešano sliko. Nemški indeks DAX je padel za 0,15 % na 26008 točk. V ZDA je indeks S&P 500 beležil padec za 0,44 % na 7685 točk, medtem ko je tehnološki Nasdaq 100 ostal skoraj nespremenjen z rastjo 0,02 % na 29550 točk. Volatilnost trga, merjena z indeksom VIX, je zrasla za 5,78 % na 15.37. Na trgu surovin je cena nafte WTI zrasla za 1,48 % na 92,83 USD za sod, Brent pa za 1,47 % na 97,70 USD za sod, medtem ko je zlato padlo za 1,04 % na 4430,20 USD za unčo. Donosnost 10-letne ameriške državne obveznice se je povečala za 0,33 % na 4,80 %. Geopolitične napetosti, vključno s pogovori med Trumpom in Putinom ter zaostrovanjem trgovinske vojne med ZDA in Kanado, so vplivale na razpoloženje vlagateljev. Vlagatelji naj bodo pozorni na prihajajoče makroekonomske objave in morebitne odločitve centralnih bank, ki bi lahko vplivale na smer trga v prihodnjih dneh, saj specifični ključni ekonomski dogodki za ta teden niso bili navedeni v razpoložljivih informacijah.",
   "novice": [
     {
-      "naslov": "Cene nafte poskočile po napadu Hutijev na rafinerijo Saudi Aramco",
-      "sektor": "Energetika",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Poročila o napadih hutijskih upornikov na rafinerijo Saudi Aramco so povzročila občuten dvig cen nafte. Nafta WTI je zrasla za 3,18 % na 94,39 USD za sod, medtem ko se je cena Brent nafte povzpela za 2,92 % na 99,09 USD za sod. Ti dogodki so cene nafte potisnili na skoraj sedemtedenske vrhove. Napadi so se zgodili v kontekstu širših spopadov v Jemnu, kjer so hutijski uporniki napadli civilne in energetske objekte v Savdski Arabiji. Savdska Arabija poroča o 73 ranjenih civilistih v teh napadih.",
-      "analiza": "Ozadje teh dogodkov je dolgotrajen konflikt v Jemnu, kjer se spopadajo hutijski uporniki in sile, ki jih podpira Savdska Arabija. Napadi na savdsko naftno infrastrukturo niso novost, vendar vsak tak incident takoj sproži zaskrbljenost glede globalne oskrbe z nafto. To je še posebej relevantno zdaj, ko so globalne zaloge nafte že napete in povpraševanje stabilno. Mehanizem vpliva je neposreden: zmanjšana ponudba ali tveganje za zmanjšano ponudbo zaradi geopolitične nestabilnosti v ključni regiji za proizvodnjo nafte. Posledice so takojšen dvig cen nafte, kar vpliva na stroške transporta in proizvodnje po vsem svetu. Za delnice to pomeni pritisk na podjetja z visokimi stroški energije, medtem ko lahko delnice energetskih podjetij pridobijo. Obveznice bi lahko bile pod pritiskom zaradi inflacijskih pričakovanj, valute pa bi se lahko odzvale glede na odvisnost države od uvoza/izvoza nafte. Slovenski dolgoročni vlagatelj mora razumeti, da so cene nafte pomemben dejavnik inflacije in stroškov poslovanja podjetij, kar lahko vpliva na donosnost naložb v širšem gospodarstvu.",
-      "vpliv": [
-        "WTI nafta +3,18 % na 94,39 USD/sod",
-        "Brent nafta +2,92 % na 99,09 USD/sod",
-        "Povečana inflacijska tveganja",
-        "Rast delnic energetskih podjetij"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-08T03:09:00.000Z"
-    },
-    {
-      "naslov": "Kanada uvaja povračilne carine na ameriške izdelke v vrednosti 20 milijard dolarjev",
+      "naslov": "Trump in Putin sta imela \"iskren\" pogovor o Ukrajini",
       "sektor": "Geopolitika",
-      "smer": "negativno",
+      "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Kanada je uvedla povračilne carine na ameriške izdelke v vrednosti 20 milijard dolarjev, kar stopa v veljavo in napoveduje morebitno dolgotrajno trgovinsko vojno. Te carine so odgovor na ameriške tarife in bodo vplivale na približno 700 različnih ameriških izdelkov. Ta poteza ogroža stabilnost največjega bilateralnega trgovinskega odnosa na svetu med ZDA in Kanado. Napetosti so se zaostrile, saj Kanada \"dolar za dolar\" izenačuje ameriške carine, kar vpliva na več industrij.",
-      "analiza": "Ozadje te trgovinske zaostritve leži v preteklih trgovinskih sporih med ZDA in Kanado, ki so se pogosto nanašali na sektorje, kot so les, jeklo in aluminij. Trenutna situacija je relevantna, ker kaže na nadaljnjo fragmentacijo globalne trgovine in odmik od multilateralnih sporazumov. Mehanizem vpliva je, da carine povečujejo stroške uvoženega blaga, kar lahko zmanjša obseg trgovine, zviša cene za potrošnike in zmanjša dobičke podjetij, ki so odvisna od čezmejnih dobavnih verig. Posledice za delnice so lahko negativne za podjetja, ki poslujejo v obeh državah ali so močno odvisna od uvoza/izvoza med Kanado in ZDA. Obveznice bi lahko postale privlačnejše kot varno zatočišče, če se poveča negotovost. Valute, zlasti kanadski dolar in ameriški dolar, bi lahko nihale glede na pričakovanja o gospodarskem vplivu. Slovenski dolgoročni vlagatelj mora biti pozoren na to, da trgovinske vojne povečujejo globalno negotovost in lahko vplivajo na globalno gospodarsko rast, kar posredno vpliva na donosnost vseh naložb.",
+      "povzetek": "Ameriški predsednik Trump in ruski predsednik Putin sta danes imela \"iskren\" telefonski pogovor. Ta pogovor sledi obiskom posebnih odposlancev ZDA v Rusiji in Ukrajini, kjer so razpravljali o \"predlogu za končanje vojne\". Podrobnosti pogovora ali predloga niso bile objavljene, vendar dogodek nakazuje na ponovne diplomatske napore za rešitev konflikta. To lahko potencialno zmanjša geopolitično tveganje, a hkrati ohranja negotovost glede izida. Vpliv na trge je bil danes mešan, saj so cene nafte zrasle, indeksi pa so bili v padcu ali stagnaciji.",
+      "analiza": "Geopolitične napetosti, še posebej tiste, ki vključujejo velesile, imajo pomemben vpliv na globalne finančne trge. Konflikt v Ukrajini je v preteklosti povzročil znatno nestabilnost, predvsem na trgih energentov in surovin. Morebitni napredek pri mirovnih pogovorih bi lahko zmanjšal geopolitično tveganje, kar bi se odrazilo v umirjanju cen nafte in plina, ki so danes sicer zrasle (WTI za 1,48 % na 92,83 USD/sod, Brent za 1,47 % na 97,70 USD/sod). Po drugi strani pa negotovost glede izida pogovorov in morebitnih kompromisov ohranja previdnost med vlagatelji. Zgodovinsko gledano so obdobja diplomatskih prizadevanj pogosto spremljana z nihanjem na trgih, saj vlagatelji tehtajo verjetnost uspeha. Povečana donosnost ameriških 10-letnih obveznic za 0,33 % na 4,80 % lahko kaže na splošno previdnost. Za slovenskega dolgoročnega vlagatelja je to opomin na pomen diverzifikacije portfelja in odpornosti na geopolitične šoke, saj takšni dogodki lahko povzročijo kratkoročno volatilnost, dolgoročni trendi pa so odvisni od širših ekonomskih dejavnikov.",
       "vpliv": [
-        "Povečani stroški uvoza/izvoza",
-        "Zmanjšan obseg trgovine",
-        "Negativen vpliv na delnice podjetij z izpostavljenostjo",
-        "Povečana globalna negotovost"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-08T04:39:14.000Z"
-    },
-    {
-      "naslov": "Švicarsko podjetje povzročilo padec Dow Jones indeksa zaradi neuspeha zdravila",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Terminske pogodbe na indeks Dow Jones so bile bistveno slabše od S&P 500 zaradi slabih novic, povezanih s švicarskim podjetjem. Težave so nastale zaradi neuspeha kardiovaskularnega zdravila v pozni fazi testiranja. Ta specifična novica je imela nesorazmeren vpliv na Dow Jones, kar kaže na občutljivost indeksa na dogodke, povezane z njegovimi sestavnimi podjetji.",
-      "analiza": "Ozadje te novice je specifičen dogodek v farmacevtski industriji, kjer neuspeh zdravila v pozni fazi razvoja predstavlja velik finančni udarec za podjetje. To je relevantno zdaj, ker poudarja tveganja, povezana z naložbami v posamezna podjetja, zlasti v sektorjih z visokimi stroški raziskav in razvoja, kot je farmacija. Mehanizem vpliva je neposreden: slabe novice o ključnem izdelku podjetja povzročijo padec njegove delnice, kar, če je podjetje dovolj veliko in del Dow Jones indeksa, lahko vpliva na celoten indeks. Posledice so padec delnic zadevnega podjetja in morebiten pritisk na širši farmacevtski sektor. Dow Jones je indeks, ki je cenovno utežen, zato imajo delnice z višjo ceno večji vpliv. Za obveznice, valute in kripto je vpliv minimalen, razen če bi šlo za sistemsko tveganje. Slovenski dolgoročni vlagatelj mora razumeti, da so posamezne delnice izpostavljene specifičnim tveganjem podjetja, zato je diverzifikacija portfelja ključna za zmanjšanje vpliva takšnih dogodkov.",
-      "vpliv": [
-        "Padec delnic švicarskega podjetja",
-        "Negativen vpliv na Dow Jones indeks",
-        "Povečana tveganja v farmacevtskem sektorju",
-        "Poudarek na pomembnosti diverzifikacije"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/why-the-dow-is-being-dragged-down-by-a-swiss-companys-bad-news-7d3eaa06?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-08T08:15:00.000Z"
-    },
-    {
-      "naslov": "Tretji največji davkoplačevalec Združenega kraljestva se seli v Grčijo",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Chris Rokos, tretji največji davkoplačevalec v Združenem kraljestvu, naj bi se preselil v Grčijo in tam odprl pisarno v Atenah. Rokos je bil uvrščen na tretje mesto na seznamu Sunday Timesa med največjimi davkoplačevalci v Združenem kraljestvu. Ta poteza poudarja vprašanja o davčni politiki Združenega kraljestva in privlačnosti države za bogate posameznike in kapitalske tokove.",
-      "analiza": "Ozadje te novice je globalna konkurenca med državami za privabljanje bogatih posameznikov in kapitala, pogosto preko davčnih spodbud ali ugodnejših davčnih režimov. To je relevantno zdaj, ko se države soočajo z visokimi javnimi dolgovi in iščejo načine za povečanje davčnih prihodkov, hkrati pa tvegajo odliv kapitala, če so davki previsoki. Mehanizem vpliva je, da odhod visokih davkoplačevalcev zmanjšuje davčne prihodke države in lahko pošlje negativen signal o poslovnem okolju. To lahko vpliva na valuto (šibkejši funt) in na privlačnost države za tuje investicije. Posledice za delnice so lahko posredne, saj odliv kapitala lahko vpliva na likvidnost in razpoložljivost kapitala za investicije. Za obveznice to lahko pomeni večji pritisk na javne finance. Slovenski dolgoročni vlagatelj mora razumeti, da davčna politika in kapitalski tokovi vplivajo na gospodarsko rast in stabilnost države, kar posredno vpliva na vrednost naložb v tej državi.",
-      "vpliv": [
-        "Zmanjšanje davčnih prihodkov Združenega kraljestva",
-        "Potencialni odliv kapitala",
-        "Negativen signal o poslovnem okolju",
-        "Vpliv na valuto (GBP)"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-08T08:23:31.000Z"
-    },
-    {
-      "naslov": "Iran poziva državljane k varčevanju z gorivom ob ponovnem dvigu cen",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Ob ponovnem dvigu cen goriva iranska vlada poziva državljane k zmanjšanju porabe. Nova politika določanja cen goriva cilja na porabo nad 110 litrov mesečno, kar podvoji stroške na 100.000 rialov na liter za presežno porabo. Ta poteza prihaja v času, ko se država sooča z gospodarskimi pritiski in morebitnimi pomanjkanjem goriva.",
-      "analiza": "Ozadje te novice je iranska gospodarska situacija, ki je pogosto pod pritiskom mednarodnih sankcij in notranjih izzivov. Iran je velik proizvajalec nafte, vendar se sooča z izzivi pri rafiniranju in distribuciji goriva za domačo porabo. To je relevantno zdaj, saj dvig cen goriva in pozivi k varčevanju kažejo na notranje gospodarske napetosti, ki lahko vplivajo na družbeno stabilnost in morebitne spremembe v energetski politiki. Mehanizem vpliva je, da notranji pritiski v veliki državi proizvajalki nafte lahko posredno vplivajo na globalne energetske trge, če se spremeni izvozna politika ali pride do večjih motenj v proizvodnji. Dvig cen goriva za potrošnike lahko povzroči inflacijske pritiske in zmanjša kupno moč. Posledice za delnice so posredne, saj lahko nestabilnost v Iranu vpliva na cene nafte in s tem na globalno gospodarstvo. Za obveznice in valute je vpliv odvisen od širšega geopolitičnega razvoja. Slovenski dolgoročni vlagatelj mora razumeti, da so notranje napetosti v ključnih državah proizvajalkah nafte pomemben dejavnik tveganja za globalne energetske trge in s tem za globalno gospodarstvo.",
-      "vpliv": [
-        "Povečani stroški goriva za iranske potrošnike",
-        "Potencialna družbena nestabilnost v Iranu",
-        "Posreden vpliv na globalne cene nafte",
-        "Inflacijski pritiski v Iranu"
+        "Potencialno zmanjšanje geopolitičnega tveganja",
+        "Možno umirjanje cen nafte in plina",
+        "Povečana kratkoročna volatilnost trga",
+        "Vpliv na obrambne delnice"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back?traffic_source=rss",
-      "objavljeno": "2026-09-08T08:15:29.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
+      "objavljeno": "2026-09-08T18:31:30.000Z"
+    },
+    {
+      "naslov": "Delnice Bombardierja padajo ob zaostrovanju trgovinske vojne ZDA-Kanada",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Delnice kanadskega proizvajalca letal Bombardier so padle, saj se trgovinska vojna med ZDA in Kanado zaostruje. Boj vključuje visoke uvozne dajatve in morebitne prepovedi, ki bi se lahko še stopnjevale že danes. Japonski pivovar Sapporo je že napovedal, da bo del proizvodnje brezalkoholnega piva preselil iz Kanade v ZDA zaradi carin. Bombardier se brani s poudarkom na svoji prisotnosti v ZDA, saj njegovi letali že vsebujejo komponente, izdelane v Teksasu in Kaliforniji. To kaže na neposreden vpliv na posamezna podjetja in dobavne verige.",
+      "analiza": "Trgovinske vojne in protekcionistične politike imajo neposreden negativen vpliv na mednarodno trgovino in podjetja, ki so odvisna od globalnih dobavnih verig. Zaostrovanje konflikta med ZDA in Kanado, ki vključuje \"strme uvozne dajatve in morebitne prepovedi\", ustvarja negotovost in povečuje stroške poslovanja. Padec delnic Bombardierja je neposredna posledica teh napetosti, saj vlagatelji pričakujejo zmanjšanje dobičkonosnosti in tržnega deleža. Primer Sappora, ki seli proizvodnjo iz Kanade v ZDA, kaže na širše posledice, saj podjetja prilagajajo svoje strategije, da bi se izognila carinam. To lahko vodi do višjih cen za potrošnike in zmanjšane konkurenčnosti. Vpliv na širše trge se kaže v previdnosti do delnic podjetij, ki so izpostavljena trgovinskim tveganjem, kar prispeva k splošnemu padcu indeksa S&P 500 za 0,44 % na 7685. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da takšni konflikti lahko povzročijo sektorju specifične padce in spremembe v globalnih dobavnih verigah, kar poudarja pomen geografske in sektorske diverzifikacije.",
+      "vpliv": [
+        "Padec delnic Bombardierja",
+        "Preusmeritev proizvodnje (Sapporo)",
+        "Povečani stroški poslovanja podjetij",
+        "Negotovost v mednarodni trgovini"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-08T18:16:00.000Z"
+    },
+    {
+      "naslov": "Močnejši jen bi lahko ogrozil delnice AI in tehnologije",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Hitro razpletanje \"carry trade\" strategije z japonskim jenom bi lahko sprožilo razprodajo delnic, še posebej tistih z visokimi vrednotenji v ameriškem tehnološkem sektorju. Carry trade vključuje izposojanje jena po nizkih obrestnih merah in vlaganje v sredstva z višjimi donosi drugod. Če se jen okrepi, se ta strategija obrne, kar povzroči prodajo tveganih sredstev za poplačilo posojil v jenu. To bi lahko imelo globalne posledice za kapitalske trge.",
+      "analiza": "Japonski jen je bil dolgo časa ključna valuta za \"carry trade\" strategije zaradi izjemno nizkih obrestnih mer na Japonskem. Vlagatelji so si izposojali jene in jih vlagali v donosnejša sredstva po svetu, vključno z ameriškimi tehnološkimi delnicami. Če se japonska valuta okrepi, kot je danes EUR/USD zrasel za 0,05 % na 1.1631, to pomeni, da je poplačilo posojil v jenu dražje, kar prisili vlagatelje k prodaji drugih, bolj tveganih sredstev, da bi pokrili svoje obveznosti. To bi lahko povzročilo znatno razprodajo, še posebej v visoko vrednotenih ameriških tehnoloških delnicah, ki so v zadnjem času doživele velik razcvet (Nasdaq 100 je danes sicer zrasel za 0,02 % na 29550, vendar je S&P 500 padel za 0,44 % na 7685). Takšen scenarij bi imel globalne posledice, saj bi se zmanjšala likvidnost in povečala volatilnost, kar se odraža tudi v današnjem porastu VIX indeksa za 5,78 % na 15.37. Za slovenskega dolgoročnega vlagatelja to poudarja tveganja, povezana z visoko koncentracijo v določenih sektorjih, kot je tehnologija, in pomen razumevanja globalnih valutnih tokov, ki lahko vplivajo na vrednotenja delnic.",
+      "vpliv": [
+        "Potencialna razprodaja tehnoloških delnic",
+        "Povečana volatilnost trga",
+        "Zmanjšana likvidnost na trgih",
+        "Vpliv na globalne kapitalske tokove"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/why-a-stronger-japanese-currency-could-spell-trouble-for-ai-and-technology-stocks-6441f782?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-08T18:33:00.000Z"
+    },
+    {
+      "naslov": "Vojna in vreme grozita z novim valom inflacije v Združenem kraljestvu",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Guverner Bank of England (BoE) Andrew Bailey opozarja, da vojna in vremenske razmere grozijo z novim valom inflacije v Združenem kraljestvu. Njegovi komentarji dodajajo težave, s katerimi se sooča Andy Burnham pred prihodnjim mesecem. Specifične podrobnosti o vrsti vojne ali vremenskih vplivih niso navedene, vendar je jasno, da gre za zunanje dejavnike, ki lahko vplivajo na cene. To opozorilo poudarja stalne inflacijske pritiske v globalnem gospodarstvu.",
+      "analiza": "Inflacija ostaja ključna skrb za centralne banke po vsem svetu, vključno z Bank of England. Opozorilo guvernerja Andrewa Baileyja poudarja, kako globalni dejavniki, kot so geopolitični konflikti (npr. vojna v Ukrajini, ki vpliva na cene energentov, danes WTI nafta +1,48 % na 92,83 USD/sod, Brent +1,47 % na 97,70 USD/sod) in ekstremni vremenski pojavi (ki vplivajo na kmetijstvo in dobavne verige), lahko ponovno sprožijo inflacijske pritiske. Višja inflacija običajno pomeni, da centralne banke ohranjajo višje obrestne mere ali jih celo zvišajo, kar lahko negativno vpliva na gospodarsko rast in vrednotenja delnic. Povečana donosnost ameriških 10-letnih obveznic za 0,33 % na 4,80 % kaže na splošno pričakovanje višjih obrestnih mer ali inflacije. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub morebitnemu umirjanju inflacije v preteklosti, tveganje za ponoven porast še vedno prisotno. To poudarja pomen naložb, ki so odporne na inflacijo, kot so nepremičnine ali surovine, in previdnost pri dolgoročnih obvezniških naložbah v okolju potencialno višjih obrestnih mer.",
+      "vpliv": [
+        "Potencialno višje obrestne mere",
+        "Povečani inflacijski pritiski",
+        "Negativen vpliv na gospodarsko rast",
+        "Vpliv na vrednotenje delnic"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/faa622d9-0faa-4578-b908-4e77b72a8d44?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-08T17:48:40.000Z"
+    },
+    {
+      "naslov": "Delnice Qualcomma rastejo po dogovoru z Amazonom o čipih",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Delnice Qualcomma so zrasle, saj dogovor o čipih z Amazonom vlagateljem ponuja prepotrebne dobre novice. Delnice Qualcomma so letos zaostajale za rastjo v sektorju čipov, vendar podjetje zdaj sodeluje z Amazonom pri različnih projektih čipov. To sodelovanje nakazuje na potencialno širitev tržnega deleža in diverzifikacijo prihodkov za Qualcomm. Novica je pozitivno vplivala na vrednost delnic podjetja.",
+      "analiza": "V sektorju polprevodnikov, ki je v zadnjem letu doživel precejšen razcvet, je Qualcomm zaostajal za nekaterimi svojimi konkurenti. Novica o sodelovanju z Amazonom pri \"različnih projektih čipov\" je pomemben pozitivni katalizator. Amazon je tehnološki velikan z obsežnimi potrebami po čipih za svoje storitve v oblaku, naprave in umetno inteligenco. Ta dogovor lahko Qualcommu zagotovi stabilen vir prihodkov in mu pomaga pri ponovni pridobitvi tržnega zagona. Povečanje delnic Qualcomma odraža zaupanje vlagateljev v to partnerstvo in potencial za prihodnjo rast. Medtem ko je širši S&P 500 danes padel za 0,44 % na 7685, je ta novica specifična za podjetje in sektor. Za slovenskega dolgoročnega vlagatelja je to primer, kako strateška partnerstva lahko vplivajo na posamezne delnice in kako pomembno je spremljati inovacije in sodelovanja v hitro razvijajočih se sektorjih, kot je tehnologija. Kljub temu je treba upoštevati, da so delnice v tehnološkem sektorju lahko volatilne, kot kaže tudi širši Nasdaq 100, ki je danes zrasel le za 0,02 % na 29550.",
+      "vpliv": [
+        "Rast delnic Qualcomma",
+        "Potencialna rast prihodkov Qualcomma",
+        "Širitev tržnega deleža Qualcomma",
+        "Pozitiven signal za sektor čipov"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-08T17:39:00.000Z"
+    },
+    {
+      "naslov": "Združeno kraljestvo prepovedalo blago iz izraelskih naselbin",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Združeno kraljestvo je napovedalo prepoved uvoza vsega blaga, proizvedenega v nezakonitih izraelskih naselbinah na okupiranem Zahodnem bregu. Francija in Kanada sta se pridružili tej akciji, britanski zunanji minister pa je naseljence obtožil \"etničnega čiščenja\" Palestincev. Izrael je že napovedal povračilne ukrepe. Sekretar ZDA Marco Rubio je izjavil, da se ZDA \"očitno ne bodo\" pridružile Združenemu kraljestvu pri sankcioniranju nezakonitih izraelskih naselbin. To kaže na razdeljenost mednarodne skupnosti glede tega vprašanja.",
+      "analiza": "Odločitev Združenega kraljestva, da prepove uvoz blaga iz izraelskih naselbin, predstavlja pomemben diplomatski in ekonomski premik v mednarodnih odnosih. Pridružitev Francije in Kanade tej akciji kaže na širšo mednarodno zaskrbljenost glede statusa teh naselbin. Takšne sankcije imajo neposreden ekonomski vpliv na podjetja in posameznike, ki poslujejo v teh regijah, saj omejujejo dostop do ključnih trgov. Izraelski napovedani povračilni ukrepi in odločitev ZDA, da se ne pridružijo, poudarjajo kompleksnost in razdeljenost mednarodne skupnosti glede tega vprašanja. Čeprav ne gre za globalno gospodarsko novico, lahko takšni dogodki povečajo geopolitično tveganje v regiji, kar lahko posredno vpliva na cene nafte in stabilnost dobavnih verig. Za slovenskega dolgoročnega vlagatelja je to opomin na tveganja, povezana z naložbami v regijah z visoko geopolitično nestabilnostjo in na to, kako lahko politične odločitve vplivajo na poslovanje podjetij in trgovinske tokove. Povečana volatilnost trga (VIX +5,78 % na 15.37) lahko delno odraža tudi takšne regionalne napetosti.",
+      "vpliv": [
+        "Prepoved uvoza blaga v ZK, Francijo, Kanado",
+        "Ekonomski udarec za izraelske naselbine",
+        "Napovedani povračilni ukrepi Izraela",
+        "Povečano geopolitično tveganje v regiji"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/a-bit-too-late-but-important-uk-bans-goods-from-israeli-settlements?traffic_source=rss",
+      "objavljeno": "2026-09-08T17:11:16.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-08T08:51:27.094Z",
+    "posodobljenoOb": "2026-09-08T18:55:02.442Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7718.6,
-        "sprememba_pct": -0.38
+        "vrednost": 7684.9,
+        "sprememba_pct": -0.44
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29544.154,
-        "sprememba_pct": 0.21
+        "vrednost": 29549.635,
+        "sprememba_pct": 0.02
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25856.29,
-        "sprememba_pct": -0.58
+        "vrednost": 26007.63,
+        "sprememba_pct": -0.15
       },
       {
         "simbol": "^N225",
@@ -124,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4439.2,
-        "sprememba_pct": -0.84,
+        "vrednost": 4430.2,
+        "sprememba_pct": -1.04,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 94.39,
-        "sprememba_pct": 3.18,
+        "vrednost": 92.83,
+        "sprememba_pct": 1.48,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 99.09,
-        "sprememba_pct": 2.92,
+        "vrednost": 97.7,
+        "sprememba_pct": 1.47,
         "enota": "USD/sod"
       }
     ],
@@ -147,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1617,
-        "sprememba_pct": -0.07
+        "vrednost": 1.1631,
+        "sprememba_pct": 0.05
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.784,
-        "sprememba_pct": 0,
+        "vrednost": 4.8,
+        "sprememba_pct": 0.33,
         "enota": "%"
       }
     ],
@@ -164,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 78387.91,
-        "sprememba_pct": -0.89,
+        "vrednost": 78361.31,
+        "sprememba_pct": -0.93,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.85,
-      "sprememba_pct": 3.59
+      "vrednost": 15.37,
+      "sprememba_pct": 5.78
     }
   }
 }
