@@ -1,151 +1,134 @@
 {
-  "generiranoOb": "2026-09-09T10:10:30.927Z",
-  "izdaja": "morning",
-  "model": "gemini-2.5-flash",
+  "generiranoOb": "2026-09-09T18:51:01.676Z",
+  "izdaja": "afternoon",
+  "model": "gemini-2.5-flash-lite",
   "tier": "free",
   "datum": "2026-09-09",
-  "povzetek": "Jutranji pregled trgov kaže na previdnost vlagateljev, saj so ameriški indeksi noč zaključili v rdečem, S&P 500 pri 7674 z -0.58 % in Nasdaq 100 pri 29508 z -0.12 %. Evropski trgi so prav tako sledili negativnemu trendu, DAX je zaprl pri 25733 z -1.06 %, medtem ko je Nikkei 225 zabeležil -0.19 % in se ustavil pri 65143. Najbolj izrazit premik je bil v sektorju energentov, saj je cena nafte Brent presegla 100 USD za sod, dosegel je 100.85 USD/sod z rastjo +2.99 %, WTI nafta pa 95.41 USD/sod z rastjo +2.56 %, kar je posledica stopnjevanja konflikta med ZDA in Iranom. Vlagatelji so pozorni tudi na prihajajočo odločitev Evropske centralne banke o obrestnih merah, medtem ko so se pojavile zaskrbljujoče novice o tveganjih, ki jih prinaša umetna inteligenca. Ta teden bo ključnega pomena odločitev Evropske centralne banke o obrestnih merah, ki je pričakovana v četrtek.",
+  "povzetek": "Evropski trgi so se danes poslovili v rdečih številkah, saj je DAX padel za 1,66 % na 25.576 točk. Ameriški trgi so ob zaprtju evropskih borz prav tako beležili padce, S&P 500 je bil pri 7.645 točkah (-0,37 %) in Nasdaq 100 pri 29.440 točkah (-0,23 %). Cene nafte WTI in Brent so se dvignile za več kot 3 %, kar nakazuje na povečano geopolitično napetost, medtem ko je zlato zabeležilo skromno rast. Donosi ameriških 10-letnih obveznic so skokovito narasli na 4,84 %, kar odraža zaskrbljenost vlagateljev glede inflacije in morebitnih nadaljnjih dvigov obrestnih mer. V ospredju novic so Appleovo predstavitev prvega zložljivega iPhone-a, napetosti na Bližnjem vzhodu, ki bi lahko vplivale na dobavo nafte, ter zaskrbljenost glede prihodnjih obrestnih mer, ki jih poganjajo inflacijski podatki. Vlagatelji bodo v prihodnjih dneh pozorno spremljali ključne inflacijske poročila, ki bodo vplivala na odločitve Federal Reserve.",
   "novice": [
     {
-      "naslov": "Cena nafte Brent presegla 100 dolarjev ob stopnjevanju konflikta med ZDA in Iranom",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Cena nafte Brent je danes presegla prag 100 dolarjev za sod, dosegel je 100.85 USD/sod, kar predstavlja rast za +2.99 %. Tudi WTI nafta je zabeležila močno rast, in sicer za +2.56 % na 95.41 USD/sod. Ta dvig cen je neposredna posledica stopnjevanja konflikta med ZDA in Iranom, saj so ZDA uničile pet iranskih tankerjev za surovo nafto. Dogodek je sprožil strahove pred obnovljenim globalnim pomanjkanjem oskrbe in morebitnimi motnjami v dobavnih verigah. Poročila kažejo, da se vojna v Iranu intenzivira, kar dodatno podžiga negotovost na trgu energentov. To je prvič po juliju, da je cena nafte presegla to mejo, kar kaže na občutljivost trga na geopolitične napetosti.",
-      "analiza": "Ozadje trenutnega skoka cen nafte je stopnjevanje napetosti med ZDA in Iranom, ki je doseglo kritično točko z uničenjem iranskih tankerjev. Ta dogodek se vpenja v dolgoročni trend, kjer geopolitična nestabilnost na Bližnjem vzhodu pogosto vpliva na globalne cene nafte. Mehanizem vpliva je preprost: vsaka grožnja oskrbi iz regije, ki je ključna za svetovno proizvodnjo nafte, povzroči takojšen dvig cen zaradi strahu pred pomanjkanjem. Posledice so večplastne: za delnice to pomeni pritisk na podjetja, ki so odvisna od nizkih cen energentov (npr. letalske družbe, transport), medtem ko energetska podjetja lahko beležijo rast. Višje cene nafte lahko prispevajo k inflaciji, kar vpliva na obveznice, saj bi centralne banke lahko bile prisiljene k bolj agresivnemu zaostrovanju monetarne politike. Valute držav, ki so neto uvoznice nafte, lahko oslabijo, medtem ko valute izvoznic pridobijo. Zgodovinsko gledano so podobni geopolitični dogodki (npr. Zalivska vojna) vedno povzročili skoke cen nafte. V prihodnje bo ključno opazovati razvoj dogodkov v konfliktu med ZDA in Iranom ter morebitne nadaljnje motnje v Hormuški ožini. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja ključna za ublažitev tveganj, povezanih z nestanovitnostjo cen energentov in geopolitičnimi dogodki, ki lahko vplivajo na globalno gospodarstvo.",
-      "vpliv": [
-        "Brent nafta pri 100.85 USD/sod (+2.99 %)",
-        "WTI nafta pri 95.41 USD/sod (+2.56 %)",
-        "Pritisk na inflacijo in monetarno politiko",
-        "Povečana geopolitična tveganja"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-09T08:49:36.000Z"
-    },
-    {
-      "naslov": "Evropska centralna banka skoraj zagotovo zvišuje obrestne mere",
-      "sektor": "Makro & Centralne banke",
+      "naslov": "Apple predstavlja prvi zložljivi iPhone, cene se dvigajo",
+      "sektor": "Tehnologija & AI",
       "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Evropska centralna banka (ECB) bo v četrtek skoraj zagotovo zvišala obrestne mere, kar je splošno pričakovano med opazovalci trga. Kljub temu obstaja razhajanje med trgi obveznic glede končne obrestne mere za ta cikel zaostrovanja monetarne politike ECB. Pričakovanja so močno odvisna od dogodkov na Bližnjem vzhodu in njihovega vpliva na cene energentov ter inflacijo. Morebitno zvišanje obrestnih mer je del širšega prizadevanja centralnih bank za obvladovanje inflacije v evroobmočju. Odločitev bo imela pomemben vpliv na gospodarstvo in finančne trge v Evropi.",
-      "analiza": "Ozadje te novice je vztrajno visoka inflacija v evroobmočju in prizadevanja ECB, da jo zajezijo z zaostrovanjem monetarne politike. To se vpenja v globalni trend, kjer centralne banke po svetu zvišujejo obrestne mere za boj proti inflaciji, ki jo poganjajo motnje v dobavnih verigah in visoke cene energentov. Mehanizem vpliva je, da višje obrestne mere zmanjšujejo povpraševanje po posojilih, kar ohlaja gospodarstvo in s tem inflacijske pritiske. Posledice za delnice so lahko negativne, saj višji stroški zadolževanja in manjša gospodarska rast zmanjšujejo dobičke podjetij. Za obveznice zvišanje obrestnih mer običajno pomeni padec cen, saj nove obveznice ponujajo višje donose. Donosnost 10-letnih ameriških državnih obveznic je danes pri 4.81 % (+0.46 %), kar kaže na splošni trend rasti donosnosti. Za valute, zlasti evro, bi zvišanje obrestnih mer lahko pomenilo krepitev v primerjavi z drugimi valutami, kot je ameriški dolar, čeprav je danes EUR/USD ostal nespremenjen pri 1.1629. Vpliv na surovine je posreden, preko vpliva na gospodarsko aktivnost in s tem povpraševanje. V prihodnje bo ključno spremljati izjave ECB po odločitvi o obrestnih merah, ki bodo dale vpogled v nadaljnje načrte. Za slovenskega dolgoročnega vlagatelja to pomeni, da so obveznice lahko manj privlačne, medtem ko je pri delnicah potrebna previdnost, zlasti pri podjetjih z visoko zadolženostjo. Višje obrestne mere lahko tudi povečajo stroške hipotekarnih posojil.",
+      "povzetek": "Apple je na dogodku predstavil svoj prvi zložljivi iPhone, kar predstavlja najpomembnejšo oblikovno spremembo v skoraj 20 letih. Novica je bila objavljena 9. septembra 2026 ob 18:39:45 UTC. Hkrati so se pojavile informacije, da Apple pred lansiranjem zložljive naprave dviguje cene obstoječih modelov iPhonov. Novi izvršni direktor John Ternus naj bi predstavil zložljivi iPhone Duo v sredo.",
+      "analiza": "Predstavitev zložljivega iPhone-a je ključen trenutek za Apple in celoten trg pametnih telefonov, saj lahko ponovno definira kategorijo izdelkov. Povečanje cen obstoječih modelov pred lansiranjem nove, verjetno dražje naprave, je običajna strategija za povečanje marž in ustvarjanje pričakovanja. Vpliv na delnice Appla je lahko pozitiven, če bo izdelek dobro sprejet, vendar lahko višje cene in negotovost glede povpraševanja vplivajo na prodajo. Vlagatelji bodo pozorno spremljali odziv trga in morebitne spremembe v povpraševanju po dražjih napravah. Za slovenskega vlagatelja to pomeni nadaljnjo potrditev trenda višanja cen v tehnološkem sektorju, kar lahko vpliva na vrednost njihovih naložb v tehnološke delnice.",
       "vpliv": [
-        "Zvišanje obrestnih mer ECB",
-        "Padec cen obveznic",
-        "Potencialna krepitev evra",
-        "Pritisk na delnice podjetij"
+        "Potencialna rast cene delnic Appla",
+        "Povečanje povprečne prodajne cene pametnih telefonov",
+        "Povečana konkurenca na trgu zložljivih naprav",
+        "Možen pritisk na potrošnike zaradi višjih cen"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-09T07:42:00.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-09T18:39:45.000Z"
     },
     {
-      "naslov": "ZDA prepovedujejo uvoz nekaterih kanadskih izdelkov v trgovinski vojni",
+      "naslov": "Napetosti na Bližnjem vzhodu: Pakistan opozarja na aktivacijo obrambnega pakta",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Združene države Amerike so napovedale prepoved uvoza nekaterih kanadskih alkoholnih pijač, mlečnih izdelkov in motornih koles. Ta poteza predstavlja najnovejši udarec v dolgotrajni trgovinski vojni med državama. Odločitev prihaja po tem, ko so v veljavo stopile kanadske povratne carine na ameriško blago. Trgovinski spor med ZDA in Kanado se vleče že dlje časa, s periodičnimi zaostrovanji in protiukrepi. Obe državi sta pomembni trgovinski partnerici, zato imajo takšne prepovedi lahko širše gospodarske posledice.",
-      "analiza": "Ozadje te novice je nadaljevanje trgovinskih sporov med ZDA in Kanado, ki so se začeli že pred leti zaradi različnih trgovinskih politik in zaščitniških ukrepov. To se vpenja v širši trend protekcionizma, ki ga opažamo v globalnem gospodarstvu, kjer države vse pogosteje uporabljajo carine in prepovedi uvoza za zaščito domačih industrij. Mehanizem vpliva je direkten: prepovedi uvoza zmanjšujejo obseg trgovine med državama, kar negativno vpliva na podjetja, ki so vpletena v te sektorje. Posledice za delnice so lahko negativne za podjetja, ki proizvajajo omenjene izdelke v Kanadi in so odvisna od ameriškega trga, ter za ameriške uvoznike. Na valute lahko vpliva povečana negotovost, kar lahko oslabi kanadski dolar v primerjavi z ameriškim. Na surovine je vpliv posreden, preko morebitnega zmanjšanja gospodarske aktivnosti. Zgodovinsko gledano so trgovinske vojne pogosto povzročile negotovost in zmanjšale globalno rast. V prihodnje bo pomembno opazovati, ali se bo trgovinski spor še stopnjeval ali pa bodo države našle pot do kompromisa. Za slovenskega dolgoročnega vlagatelja je to opomin na tveganja, povezana z globalnimi trgovinskimi politikami, ki lahko vplivajo na dobičkonosnost mednarodno usmerjenih podjetij in stabilnost globalnih dobavnih verig.",
+      "povzetek": "Pakistan je opozoril, da bi se lahko aktiviral obrambni pakt z Meko, če bodo jemenski uporniki Huti še naprej ciljali Savdsko Arabijo. Novica je bila objavljena 9. septembra 2026 ob 18:31:10 UTC. Houthi napadi na Savdsko Arabijo bi lahko povzročili širšo regionalno eskalacijo, ki bi vključevala tudi Pakistan. V luči teh napetosti je cena nafte WTI zrasla za 3,11 % na 95,92 USD/sod, Brent pa za 3,25 % na 101,10 USD/sod.",
+      "analiza": "Povečane napetosti na Bližnjem vzhodu, zlasti v povezavi z napadi Houthijev na Savdsko Arabijo, imajo neposredne posledice na cene nafte. Savdska Arabija je ključna proizvajalka nafte, in vsako tveganje za njeno proizvodnjo ali infrastrukturo povzroči skokovit dvig cen. Opozorilo Pakistana o aktivaciji obrambnega pakta dodaja novo plast geopolitične negotovosti, ki bi lahko vplivala na stabilnost regije. Višje cene nafte neposredno vplivajo na inflacijo, povečujejo stroške prevoza in proizvodnje ter lahko negativno vplivajo na gospodarsko rast. Delnice energetskih podjetij bi lahko imele koristi od višjih cen, medtem ko bi lahko potrošniki in podjetja, ki so odvisni od energije, čutili pritisk. Za slovenskega vlagatelja to pomeni potencialno višje stroške energije in inflacijske pritiske, kar lahko vpliva na domače in evropsko gospodarstvo.",
       "vpliv": [
-        "Zmanjšanje trgovine med ZDA in Kanado",
-        "Negativen vpliv na delnice prizadetih podjetij",
-        "Potencialno oslabitev kanadskega dolarja",
-        "Povečana negotovost v globalni trgovini"
+        "Rast cen nafte (WTI in Brent)",
+        "Povečana inflacija",
+        "Potencialno negativni vpliv na gospodarsko rast",
+        "Povečana nestanovitnost na energetskih trgih"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-09T09:21:50.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/9/pakistan-warns-mecca-defense-pact-will-activate-after-houthi-attacks?traffic_source=rss",
+      "objavljeno": "2026-09-09T18:31:10.000Z"
     },
     {
-      "naslov": "Raziskovalec pri Anthropicu verjame v več kot 10 % možnost, da bi AI uničila človeštvo",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Raziskovalec pri podjetju Anthropic, ki se ukvarja z umetno inteligenco, verjame, da obstaja več kot 10-odstotna verjetnost, da bi umetna inteligenca 'lahko ubila vse ljudi'. To je najnovejše v vrsti naraščajočih opozoril o varnostni grožnji, ki jo predstavlja umetna inteligenca. Pred tem je drug raziskovalec podjetja Anthropic odstopil zaradi zaskrbljenosti, da laboratoriji za umetno inteligenco 'igrajo z našimi življenji'. Te izjave poudarjajo naraščajoče nelagodje znotraj podjetij v Silicijevi dolini, ki tekmujejo v razvoju vse močnejših sistemov umetne inteligence.",
-      "analiza": "Ozadje te novice je hiter razvoj umetne inteligence in naraščajoče etične ter varnostne dileme, ki jih ta razvoj prinaša. To se vpenja v širši trend, kjer se tehnološki napredek sooča z vprašanji regulacije in dolgoročnih posledic za družbo. Mehanizem vpliva na finančne trge je predvsem skozi povečano regulativno tveganje in morebitno upočasnitev razvoja, če se bodo varnostni pomisleki stopnjevali. Posledice za delnice podjetij, ki razvijajo umetno inteligenco (npr. Nvidia, Microsoft, Alphabet), so lahko mešane: na eni strani velik potencial za rast, na drugi pa tveganje zaradi morebitnih strožjih regulacij, ki bi lahko povečale stroške razvoja in omejile uporabo. Za obveznice in valute je vpliv posreden, preko vpliva na splošno gospodarsko stabilnost in inovacije. Kriptovalute, zlasti tiste, povezane z AI projekti, bi lahko bile občutljive na takšna opozorila. Zgodovinsko gledano so se nove tehnologije vedno soočale z regulativnimi izzivi, vendar so opozorila o eksistencialnih tveganjih nova. V prihodnje bo ključno opazovati odziv zakonodajalcev in tehnoloških podjetij na ta opozorila ter morebitne predloge za regulacijo. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor umetne inteligence sicer obetaven, vendar nosi tudi znatna tveganja, ki jih je treba upoštevati pri naložbenih odločitvah. Diverzifikacija je pomembna tudi pri naložbah v rastoče tehnološke sektorje.",
-      "vpliv": [
-        "Povečano regulativno tveganje za AI podjetja",
-        "Potencialno upočasnitev razvoja AI",
-        "Mešan vpliv na delnice tehnoloških podjetij",
-        "Naraščajoča etična in varnostna vprašanja"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-09T09:58:27.000Z"
-    },
-    {
-      "naslov": "Ameriški finančni minister Bessent opozarja trgovce z valutami, naj ne stavijo proti jenu",
+      "naslov": "Donosi obveznic skokovito naraščajo, Bessentov načrt odvrača vlagatelje",
       "sektor": "Finance",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Ameriški finančni minister Scott Bessent je na poslovni šoli Southern Methodist University izrekel močno opozorilo trgovcem z valutami, naj ne stavijo proti jenu, rekoč: 'Jaz sem zdaj hiša.' Ta izjava sledi redki skupni intervenciji ZDA in Tokia julija, katere cilj je bil podpreti japonsko valuto. Bessentovo opozorilo poudarja odločenost ameriških oblasti, da podprejo stabilnost jena. Njegovi komentarji imajo lahko pomembne posledice za jen in ameriške delnice, saj nakazujejo na morebitne nadaljnje intervencije na valutnih trgih.",
-      "analiza": "Ozadje te novice je dolgotrajna šibkost japonskega jena v primerjavi z ameriškim dolarjem, ki je posledica razlik v monetarnih politikah med Japonsko banko (BoJ) in Federal Reserve. To se vpenja v širši trend, kjer države uporabljajo različne mehanizme za vplivanje na vrednost svojih valut, vključno z direktnimi intervencijami. Mehanizem vpliva je, da verbalne intervencije visokih uradnikov, kot je finančni minister, lahko vplivajo na pričakovanja trgovcev in s tem na gibanje valute. Bessentovo opozorilo nakazuje na morebitno usklajeno prodajo dolarjev in nakup jenov s strani centralnih bank, kar bi okrepilo jen. Posledice za valute so neposredne: jen bi se lahko okrepil, kar bi vplivalo na japonske izvoznike. Za delnice bi močnejši jen lahko negativno vplival na japonske izvozne delnice, medtem ko bi ameriške delnice lahko občutile posreden vpliv zaradi spremenjenih pričakovanj glede globalnih tokov kapitala. Na obveznice je vpliv posreden, preko vpliva na monetarno politiko. Zgodovinsko gledano so bile verbalne intervencije pogosto predhodnica dejanskih intervencij na valutnih trgih. V prihodnje bo ključno opazovati gibanje jena in morebitne nadaljnje izjave ali ukrepe s strani ameriških in japonskih oblasti. Za slovenskega dolgoročnega vlagatelja to pomeni, da so valutna tveganja pomemben dejavnik pri mednarodnih naložbah, zlasti pri izpostavljenosti japonskemu trgu, in da so intervencije centralnih bank in vlad lahko močan dejavnik, ki vpliva na donose.",
-      "vpliv": [
-        "Potencialna krepitev japonskega jena",
-        "Vpliv na japonske izvozne delnice",
-        "Povečana negotovost na valutnih trgih",
-        "Možnost nadaljnjih intervencij"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-09T08:31:00.000Z"
-    },
-    {
-      "naslov": "GameStop ustvarja več prihodkov od zbirateljskih predmetov kot videoiger",
-      "sektor": "Potrošniki",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "GameStop, nekoč znana kot 'meme delnica', zdaj ustvarja več prihodkov od prodaje zbirateljskih predmetov kot od videoiger. To razkritje poudarja preobrazbo podjetja, ki ni več zgolj prodajalec videoiger, kot je bilo prikazano v filmu 'Dumb Money'. Ta sprememba v virih prihodkov kaže na prilagajanje podjetja spreminjajočim se trendom v industriji iger in zabave. Premik poudarja, da se podjetje poskuša diverzificirati in najti nove poti do dobičkonosnosti v digitaliziranem svetu.",
-      "analiza": "Ozadje te novice je drastična sprememba v industriji videoiger, kjer se fizične kopije iger umikajo digitalnim prenosom, kar je močno prizadelo tradicionalne prodajalce, kot je GameStop. To se vpenja v širši trend, kjer se podjetja v maloprodaji soočajo z izzivi e-trgovine in morajo iskati inovativne načine za preživetje in rast. Mehanizem vpliva na finančne trge je, da sprememba v virih prihodkov kaže na sposobnost podjetja za prilagajanje, kar lahko vpliva na njegovo dolgoročno vzdržnost in privlačnost za vlagatelje. Posledice za delnice GameStopa so mešane: na eni strani je to znak, da podjetje aktivno išče nove vire rasti in se oddaljuje od propadajočega poslovnega modela, kar je pozitivno. Na drugi strani pa to pomeni, da je podjetje v prehodu, kar prinaša negotovost in stroške. Vpliv na širši trg potrošniških delnic je, da poudarja pomen diverzifikacije in inovacij v maloprodaji. Zgodovinsko gledano so se mnoga podjetja, ki se niso uspela prilagoditi novim trendom (npr. Blockbuster), soočila s propadom. V prihodnje bo ključno opazovati, ali bo GameStop uspel uspešno kapitalizirati na trgu zbirateljskih predmetov in ali bo ta segment dovolj velik za dolgoročno rast. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pri naložbah v podjetja pomembno spremljati ne le trenutne dobičke, temveč tudi njihovo sposobnost prilagajanja in inoviranja v spreminjajočem se poslovnem okolju. Podjetja v prehodu so lahko priložnost, a tudi tveganje.",
-      "vpliv": [
-        "Sprememba poslovnega modela GameStopa",
-        "Povečana diverzifikacija prihodkov",
-        "Mešan vpliv na delnice podjetja",
-        "Opozorilo na trende v maloprodaji"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/gamestop-now-generates-more-revenue-from-collectibles-than-video-games-9f3451f4?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-09T10:06:00.000Z"
-    },
-    {
-      "naslov": "Airlines pozivajo k odstopu vodje kontrole zračnega prometa zaradi motenj",
-      "sektor": "Potrošniki",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Letalske družbe pozivajo k odstopu Martina Rolfeja, vodje kontrole zračnega prometa, saj se motnje v letalskem prometu nadaljujejo. Ta pritisk prihaja po napaki programske opreme, ki je prizemljila več kot 1.000 letov. Zaradi tehničnih težav, ki so prizadele ponudnika kontrole zračnega prometa Nats, so še vedno prizadeti odhodi z več letališč, kar povzroča dodatne zamude. Potniki se soočajo z dolgimi čakalnimi dobami in odpovedmi letov, kar vpliva na njihove potovalne načrte. Težave so sprožile tudi vprašanja o pravicah potnikov v primeru odpovedi ali zamude letov.",
-      "analiza": "Ozadje te novice je nedavna tehnična okvara v sistemu kontrole zračnega prometa, ki je povzročila obsežne motnje v letalskem prometu. To se vpenja v širši trend, kjer se infrastruktura in tehnološki sistemi soočajo z izzivi staranja in kompleksnosti, kar lahko privede do operativnih težav. Mehanizem vpliva na finančne trge je, da motnje v letalskem prometu neposredno vplivajo na letalske družbe, ki se soočajo z izgubo prihodkov zaradi odpovedanih letov in stroškov odškodnin potnikom. Posledice za delnice letalskih družb so negativne, saj se povečujejo operativni stroški in zmanjšujejo dobički. Vpliv na potrošniški sektor je, da se zmanjšuje zaupanje v letalski promet in povzročajo finančne izgube potnikom. Na širše gospodarstvo lahko vpliva motenje poslovnih potovanj in turizma. Zgodovinsko gledano so tehnične okvare in stavke v letalskem prometu vedno imele negativen vpliv na sektor. V prihodnje bo ključno opazovati, kako hitro bodo rešene tehnične težave in ali bodo sprejeti ukrepi za preprečevanje podobnih incidentov v prihodnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da so naložbe v letalski sektor lahko izpostavljene operativnim in regulativnim tveganjem, ki lahko povzročijo nestanovitnost delnic. Pomembno je upoštevati tudi širši vpliv na turizem in potovanja.",
+      "povzetek": "Donosi 10-letnih ameriških obveznic so dosegli najvišjo raven v skoraj treh letih, kljub povečanemu programu odkupa obveznic, kar je razjezilo vlagatelje. Novica je bila objavljena 9. septembra 2026 ob 18:22:29 UTC. Donosnost 10Y US Treasury je narasla za 0,65 % na 4,84 %. Finančni minister Bessentov načrt odkupa v vrednosti 6 milijard dolarjev ni uspel pomiriti trga.",
+      "analiza": "Naraščajoči donosi obveznic so pogosto znak pričakovanj višje inflacije ali strožje monetarne politike s strani centralne banke. Dejstvo, da Bessentov načrt odkupa obveznic ni uspel pomiriti trga, nakazuje na globoko nezaupanje vlagateljev v sposobnost vlade, da nadzoruje dolgoročne obrestne mere. To lahko povzroči nadaljnji pritisk na cene obveznic (in s tem rast donosov) ter potencialno negativno vpliva na delniške trge, saj postanejo varnejše naložbe, kot so obveznice, bolj privlačne. Vpliv na delnice je lahko negativen, saj višji stroški zadolževanja otežujejo financiranje podjetij in zmanjšujejo njihove dobičke. Za slovenskega vlagatelja to pomeni, da lahko pričakuje višje obrestne mere na posojila in hipoteke, ter potencialno nižje donose na delniških trgih v primeru nadaljnjega naraščanja donosov obveznic.",
       "vpliv": [
-        "Negativen vpliv na delnice letalskih družb",
-        "Izguba prihodkov in povečani stroški za letalske družbe",
-        "Motnje v turizmu in poslovnih potovanjih",
-        "Povečana negotovost za potnike"
+        "Rast donosov 10-letnih ameriških obveznic",
+        "Pritisk na cene obveznic",
+        "Potencialno negativen vpliv na delniške trge",
+        "Višji stroški zadolževanja za podjetja in države"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/88614cc3-6769-47c2-8fcb-76784cef5fca?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-09T09:35:45.000Z"
+      "vir_url": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-09T18:22:29.000Z"
+    },
+    {
+      "naslov": "Evropske sankcije proti izraelskim naselbinam – kakšen je njihov pomen?",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Evropska unija je uvedla nove sankcije proti izraelskim naselbinam na zasedenih palestinskih ozemljih, ki jih obtožujejo etničnega čiščenja Palestincev. Novica je bila objavljena 9. septembra 2026 ob 18:23:27 UTC. Vprašanje je, kako pomembne so te sankcije v luči nadaljevanja izraelske politike in obtožb o krutosti v izraelskih zaporih. ZDA se pripravljajo na večjo vlogo v pogovorih med Rusijo in Ukrajino, kar nakazuje na nadaljevanje geopolitičnih napetosti.",
+      "analiza": "Uvedba evropskih sankcij proti izraelskim naselbinam je diplomatski ukrep, ki odraža naraščajoče mednarodne kritike izraelske politike do Palestincev. Vendar pa njihov dejanski vpliv na terenu in na finančne trge ostaja vprašljiv, če ne bodo spremljani s konkretnimi ukrepi in mednarodnim pritiskom. Takšni geopolitični dogodki lahko vplivajo na odnose med državami, trgovinske tokove in lahko povzročijo negotovost na trgih, ki vpliva na naložbe v regiji. Priprava ZDA na večjo vlogo v pogovorih med Rusijo in Ukrajino kaže na nadaljevanje globalnih geopolitičnih napetosti, ki lahko vplivajo na energetske trge in splošno gospodarsko stabilnost. Za slovenskega vlagatelja to pomeni, da je pomembno spremljati razvoj dogodkov na Bližnjem vzhodu in v Vzhodni Evropi, saj lahko ti vplivajo na globalne finančne trge in s tem na vrednost njihovih naložb.",
+      "vpliv": [
+        "Potencialne trgovinske omejitve za Izrael",
+        "Povečana diplomatska napetost med EU in Izraelom",
+        "Negotovost na regionalnih finančnih trgih",
+        "Možen vpliv na cene surovin zaradi širših geopolitičnih napetosti"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/inside-story/2026/9/9/how-significant-are-new-european-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
+      "objavljeno": "2026-09-09T18:23:27.000Z"
+    },
+    {
+      "naslov": "Letalski promet odpovedan zaradi napake, preiskava v teku",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 1,
+      "povzetek": "Več kot 2.000 letalskih poletov je bilo odpovedanih zaradi tehnične napake, ki naj bi bila po mnenju prometnega ministra povsem izognljiva. Novica je bila objavljena 9. septembra 2026 ob 18:21:16 UTC. Preiskava je v teku, da bi ugotovili vzrok za motnjo. Ta dogodek poudarja ranljivost sodobnih infrastrukturnih sistemov.",
+      "analiza": "Velika motnja v letalskem prometu, ki je povzročila odpoved tisočev poletov, ima neposredne ekonomske posledice za letalske družbe, potnike in turistično industrijo. Poleg neposrednih finančnih izgub zaradi odpovedi in zamud, takšni dogodki lahko vplivajo na zaupanje potrošnikov v zanesljivost letalskega prometa. Poudarjajo tudi pomen robustnosti in varnosti kritične infrastrukture. Vpliv na delnice letalskih družb je lahko negativen, medtem ko lahko podjetja, ki ponujajo rešitve za upravljanje zračnih poti ali kibernetsko varnost, vidijo priložnost. Za slovenskega vlagatelja to pomeni, da je pomembno spremljati učinkovitost upravljanja z infrastrukturnimi tveganji, saj lahko ti dogodki vplivajo na globalno mobilnost in s tem na gospodarsko aktivnost.",
+      "vpliv": [
+        "Finančne izgube letalskih družb",
+        "Motnje v dobavnih verigah zaradi zamud pri prevozu",
+        "Zmanjšano zaupanje potrošnikov v letalski promet",
+        "Povečana pozornost varnosti letalske infrastrukture"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-09T18:21:16.000Z"
+    },
+    {
+      "naslov": "Ameriški vohunski šef se pripravlja na večjo vlogo v pogovorih Rusija-Ukrajina",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Direktor Cie John Ratcliffe se bo vključil v diplomatska prizadevanja med Moskvo in Kijevom, kar nakazuje na povečano vlogo ZDA pri reševanju konflikta. Novica je bila objavljena 9. septembra 2026 ob 18:05:21 UTC. Ta poteza bi lahko vplivala na dinamiko pogajanj in posledično na globalno varnost ter energetske trge.",
+      "analiza": "Povečana vpletenost ameriškega vohunskega šefa v pogovore med Rusijo in Ukrajino je znak, da ZDA želijo aktivno prispevati k reševanju konflikta. To bi lahko vodilo v bolj konstruktivna pogajanja in potencialno zmanjšanje geopolitičnih napetosti, kar bi imelo pozitiven vpliv na energetske trge in splošno gospodarsko stabilnost. Vendar pa je vpletenost Cie lahko tudi znak, da so diplomatske poti zapletene in da so potrebna močnejša orodja za dosego preboja. Vpliv na delnice bi bil verjetno pozitiven, če bi to vodilo k miru in stabilnosti, medtem ko bi lahko negotovost glede izida pogajanj še naprej povzročala volatilnost. Za slovenskega vlagatelja to pomeni, da je pomembno spremljati razvoj dogodkov v Vzhodni Evropi, saj lahko vsak premik v tem konfliktu vpliva na globalne trge in s tem na vrednost njihovih naložb.",
+      "vpliv": [
+        "Potencialno zmanjšanje geopolitičnih napetosti",
+        "Vpliv na energetske trge (nafta, plin)",
+        "Možna stabilizacija finančnih trgov",
+        "Povečana vloga ZDA v mednarodni diplomaciji"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-09T18:05:21.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-09T10:07:40.202Z",
+    "posodobljenoOb": "2026-09-09T18:48:04.326Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7673.52,
-        "sprememba_pct": -0.58
+        "vrednost": 7645.48,
+        "sprememba_pct": -0.37
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29507.701,
-        "sprememba_pct": -0.12
+        "vrednost": 29440.46,
+        "sprememba_pct": -0.23
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25732.58,
-        "sprememba_pct": -1.06
+        "vrednost": 25576.45,
+        "sprememba_pct": -1.66
       },
       {
         "simbol": "^N225",
@@ -158,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4434,
-        "sprememba_pct": -0.11,
+        "vrednost": 4459.6,
+        "sprememba_pct": 0.46,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 95.41,
-        "sprememba_pct": 2.56,
+        "vrednost": 95.92,
+        "sprememba_pct": 3.11,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 100.85,
-        "sprememba_pct": 2.99,
+        "vrednost": 101.1,
+        "sprememba_pct": 3.25,
         "enota": "USD/sod"
       }
     ],
@@ -181,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1629,
-        "sprememba_pct": 0
+        "vrednost": 1.1633,
+        "sprememba_pct": 0.03
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.806,
-        "sprememba_pct": 0.46,
+        "vrednost": 4.837,
+        "sprememba_pct": 0.65,
         "enota": "%"
       }
     ],
@@ -198,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 79001.61,
-        "sprememba_pct": 0.71,
+        "vrednost": 78514.99,
+        "sprememba_pct": 0.09,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16.06,
-      "sprememba_pct": 2.16
+      "vrednost": 16.24,
+      "sprememba_pct": 3.31
     }
   }
 }
