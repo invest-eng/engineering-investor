@@ -1,182 +1,162 @@
 {
-  "generiranoOb": "2026-09-10T18:44:18.902Z",
-  "izdaja": "afternoon",
-  "model": "gemini-2.5-flash",
+  "generiranoOb": "2026-09-11T08:58:00.884Z",
+  "izdaja": "morning",
+  "model": "gemini-2.5-flash-lite",
   "tier": "free",
-  "datum": "2026-09-10",
-  "povzetek": "Evropski delniški trgi so danes zaključili trgovanje v občutni rdečini, kjer je nemški indeks DAX padel za -2.49 % na 25361 točk, kar odraža široko zaskrbljenost. Tudi ameriški trgi, dve uri po odprtju, kažejo negativno smer, saj je S&P 500 pri 7591 točkah (-0.59 %), Nasdaq 100 pa pri 29145 točkah (-0.94 %). Glavni dejavnik padca so močno naraščajoče cene nafte, saj je WTI nafta poskočila za +6.22 % na 102.02 USD/sod, Brent pa za +5.96 % na 107.24 USD/sod, kar je posledica eskalacije napetosti na Bližnjem vzhodu in strahov pred inflacijo. To je sprožilo globalno razprodajo obveznic, pri čemer so donosi na 10-letne ameriške državne obveznice zrasli za +2.25 % na 4.95 %. V luči teh pritiskov je Evropska centralna banka (ECB) zvišala obrestne mere na 2.5 %, kar signalizira pričakovanja daljše inflacije. Indeks volatilnosti VIX je poskočil za +12.91 % na 17.75, kar poudarja povečano negotovost na trgih. Najpomembnejši ekonomski dogodek tega tedna, ki ga vlagatelji morajo imeti na radarju, je objava ključnih podatkov o inflaciji v ZDA, ki bo verjetno dodatno vplivala na pričakovanja glede monetarne politike.",
+  "datum": "2026-09-11",
+  "povzetek": "Jutranje trgovanje na azijskih trgih je zaznamoval padec, pri čemer je Nikkei 225 izgubil 1,93 %. Ameriški trgi so se včeraj zaprli z negativnim predznakom, S&P 500 je padel za 0,58 % na 7592 točk, Nasdaq 100 pa za 1,08 % na 29104 točk. Evropski indeksi naj bi se danes odprli mešano, DAX je včeraj pridobil 0,42 %. Cene nafte WTI in Brent so se znižale za več kot 2 %, medtem ko je zlato zabeležilo rahel padec. Bitcoin je medtem nadaljeval rast in dosegel 77322 USD. V ospredju novic so ponovni dvigi obrestnih mer po svetu, vpliv umetne inteligence na gospodarstvo, geopolitične napetosti, povezane z vojno proti terorizmu, ter varnostna tveganja pri razvoju umetne inteligence. Teden bo zaznamovala pomembna objava podatkov o inflaciji v ZDA.",
   "novice": [
     {
-      "naslov": "Globalna razprodaja obveznic se nadaljuje ob rastočih cenah nafte in inflacijskih strahovih",
-      "sektor": "Geopolitika & Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Globalna razprodaja državnih obveznic se je nadaljevala, saj so naraščajoče cene nafte okrepile strahove pred inflacijo. Cena soda nafte je poskočila za približno 6 % in presegla 107 dolarjev, kar je najvišja raven od konca maja. Glavni razlog za skok cen nafte so skrbi, da bi napredovanje hutijevskih upornikov ob obali Rdečega morja v Jemnu lahko prekinilo izvoz savdske surove nafte. Nervozni vlagatelji po vseh velikih gospodarstvih so se znebili državnih obveznic, kar je zvišalo stroške zadolževanja vlad. To dogajanje poudarja občutljivost finančnih trgov na geopolitične napetosti in vpliv energentov na širšo ekonomijo.",
-      "analiza": "Ozadje trenutnega dogajanja je kompleksna kombinacija geopolitičnih napetosti na Bližnjem vzhodu in vztrajnih inflacijskih pritiskov. Eskalacija konflikta v regiji, zlasti morebitna prekinitev dobav nafte, neposredno vpliva na cene energentov. V preteklosti so podobni dogodki, kot so naftni šoki v 70. letih, povzročili recesije in visoko inflacijo. Danes se to kaže v skoku cen WTI nafte za +6.22 % na 102.02 USD/sod in Brent nafte za +5.96 % na 107.24 USD/sod. Mehanizem vpliva je direkten: dražja nafta pomeni višje stroške za podjetja in potrošnike, kar povečuje inflacijo. Centralne banke, kot je ECB, se na to odzivajo z dvigovanjem obrestnih mer, kar dodatno zvišuje donose na obveznice, kot je 10-letna ameriška državna obveznica, ki je danes zrasla za +2.25 % na 4.95 %. Posledice za delnice so negativne, saj višje obrestne mere in inflacija zmanjšujejo dobičkonosnost podjetij in privlačnost delnic. Valute, kot je EUR/USD, so prav tako pod pritiskom, saj se evro danes znižuje za -0.18 % na 1.1618. Zlato, ki velja za varno zatočišče, je presenetljivo padlo za -1.88 % na 4376.80 USD/oz, kar lahko kaže na likvidnostne pritiske. Za slovenskega dolgoročnega vlagatelja to pomeni, da je obdobje visokih donosov na obveznice verjetno minilo, hkrati pa je potrebna previdnost pri delniških naložbah zaradi negotovosti in višjih stroškov zadolževanja. Pomembno je spremljati razvoj geopolitičnih dogodkov in odzive centralnih bank.",
-      "vpliv": [
-        "Cena Brent nafte +5.96 % na 107.24 USD/sod",
-        "Cena WTI nafte +6.22 % na 102.02 USD/sod",
-        "Donos 10-letne ameriške obveznice +2.25 % na 4.95 %",
-        "DAX -2.49 %",
-        "S&P 500 -0.59 %",
-        "Zlato -1.88 %"
-      ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing",
-      "objavljeno": "2026-09-10T18:05:15.000Z"
-    },
-    {
-      "naslov": "Donosi ameriških državnih obveznic poskočili po neuspešni dražbi 30-letnih obveznic",
+      "naslov": "Obrestne mere bi se lahko ponovno dvignile po vsem svetu",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Donosi ameriških državnih obveznic so močno poskočili, potem ko slaba dražba 30-letnih obveznic in nova operacija odkupa nista uspeli umiriti trga. Cene nafte so dosegle najvišje ravni od konca maja, medtem ko so naraščajoči podatki o veleprodajni inflaciji potisnili donose referenčnih 10-letnih obveznic bližje ključni ravni 5 %. To kaže na povečano zaskrbljenost vlagateljev glede inflacije in sposobnosti vlade, da se zadolžuje po ugodnih cenah. Trg obveznic je pod pritiskom, saj se vlagatelji bojijo, da bo Federal Reserve morda morala še naprej zaostrovati monetarno politiko.",
-      "analiza": "Ozadje tega dogajanja je vztrajno visoka inflacija in velika potreba ameriške vlade po zadolževanju. Ko dražba obveznic ni uspešna, to pomeni, da je povpraševanje vlagateljev šibko, kar prisili vlado, da ponudi višje donose, da bi pritegnila kupce. To se je danes odrazilo v skoku donosa 10-letne ameriške državne obveznice za +2.25 % na 4.95 %. Mehanizem vpliva je jasen: višji donosi na državne obveznice pomenijo višje stroške zadolževanja za podjetja in potrošnike, saj so državne obveznice referenčna točka za druge obrestne mere. To negativno vpliva na delnice, saj zmanjšuje dobičkonosnost podjetij in vrednotenje delnic, še posebej tistih z visoko rastjo, ki so odvisne od poceni kapitala. Za valute to pomeni, da se lahko dolar okrepi zaradi višjih donosov, čeprav je danes EUR/USD padel le za -0.18 %. Na surovine vpliva posredno, saj višje obrestne mere lahko upočasnijo gospodarsko rast in s tem povpraševanje po surovinah, vendar so danes cene nafte poskočile zaradi geopolitike. Za kriptovalute, kot je Bitcoin, višje obrestne mere zmanjšujejo privlačnost tveganih sredstev, kar se kaže v padcu Bitcoina za -1.51 % na 77113 USD. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da se obdobje nizkih obrestnih mer in poceni denarja končuje, kar zahteva prilagoditev naložbenih strategij in poudarek na podjetjih z močnimi bilancami.",
-      "vpliv": [
-        "Donos 10-letne ameriške obveznice +2.25 % na 4.95 %",
-        "S&P 500 -0.59 %",
-        "Nasdaq 100 -0.94 %",
-        "Bitcoin -1.51 %",
-        "VIX +12.91 %"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-10T18:37:00.000Z"
-    },
-    {
-      "naslov": "ECB se pripravlja na dolgotrajnejšo inflacijo in zvišuje obrestne mere na 2.5 %",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Evropska centralna banka (ECB) se pripravlja na 'dalj časa trajajočo' inflacijo in je zvišala obrestne mere na 2.5 %. Predsednica centralne banke Christine Lagarde je opozorila, da bo cenovni šok, ki ga poganja konflikt na Bližnjem vzhodu, vztrajal daleč v leto 2027. To je bil odločen korak ECB, ki poskuša zajeziti inflacijske pritiske, ki jih dodatno podžigajo naraščajoče cene energentov. Zvišanje obrestnih mer bo imelo posledice za celotno evroobmočje, saj bo podražilo zadolževanje za podjetja in gospodinjstva.",
-      "analiza": "Odločitev ECB o zvišanju obrestnih mer na 2.5 % je neposreden odziv na vztrajno visoko inflacijo v evroobmočju, ki jo dodatno poganjajo geopolitične napetosti in rast cen energentov. Predsednica Lagarde je jasno izrazila zaskrbljenost, da bo inflacija ostala povišana dlje, kot so sprva pričakovali. Zgodovinsko gledano, centralne banke zvišujejo obrestne mere, da ohladijo gospodarstvo in zmanjšajo povpraševanje, s čimer poskušajo zajeziti inflacijo. Mehanizem vpliva je ta, da višje obrestne mere podražijo posojila za podjetja, kar zmanjšuje investicije in rast, ter za potrošnike, kar zmanjšuje porabo. Posledice za delnice v evroobmočju so negativne, saj višji stroški zadolževanja zmanjšujejo dobičkonosnost in vrednotenje podjetij, kar se odraža v padcu indeksa DAX za -2.49 %. Za obveznice to pomeni nadaljnji pritisk na zvišanje donosov, saj so nove obveznice izdane po višjih obrestnih merah. Valute, kot je evro, bi se teoretično lahko okrepile zaradi višjih obrestnih mer, vendar je danes EUR/USD padel za -0.18 %, kar kaže na prevlado strahu pred gospodarsko upočasnitvijo. Za surovine višje obrestne mere pomenijo potencialno zmanjšanje povpraševanja v prihodnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da se je obdobje poceni denarja v Evropi zaključilo, kar zahteva bolj selektiven pristop k naložbam in iskanje podjetij, ki so odporna na višje obrestne mere in inflacijo. Pomembno je spremljati prihodnje izjave ECB in podatke o inflaciji.",
-      "vpliv": [
-        "ECB dvignila obrestne mere na 2.5 %",
-        "DAX -2.49 %",
-        "EUR/USD -0.18 % na 1.1618",
-        "Povečani stroški zadolževanja"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/7816ad68-58ed-494c-a66f-091a9cca2cbc?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-10T16:59:07.000Z"
-    },
-    {
-      "naslov": "30-letna hipotekarna obrestna mera presegla 7 % prvič po več kot letu dni",
-      "sektor": "Finance & Potrošniki",
-      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "30-letna hipotekarna obrestna mera je prvič po več kot letu dni presegla 7 %. To predstavlja nov vrhunec v letu 2026 in drastično podraži nakup nepremičnine s posojilom. Naraščajoče obrestne mere so neposredna posledica splošnega dviga donosov na obveznice, ki so jih poganjali inflacijski strahovi in zaostrovanje monetarne politike centralnih bank. Višje hipotekarne obrestne mere zmanjšujejo kupno moč potrošnikov in otežujejo dostop do lastništva nepremičnin, kar lahko dodatno ohladi nepremičninski trg, kljub povečani ponudbi.",
-      "analiza": "Ozadje tega dogajanja je tesno povezano z odločitvami centralnih bank in dogajanjem na trgu obveznic. Ko se donosi na državne obveznice zvišajo, se zvišajo tudi obrestne mere za hipotekarna posojila, saj so te pogosto vezane na dolgoročne donose. Današnji skok donosa 10-letne ameriške obveznice za +2.25 % na 4.95 % je neposredno vplival na hipotekarne obrestne mere. Mehanizem vpliva na potrošnike je očiten: višje obrestne mere pomenijo višje mesečne obroke in s tem manjšo dostopnost stanovanj. To lahko vodi do upada povpraševanja po nepremičninah, kljub temu, da je ponudba na trgu najvišja v več kot desetletju, kot kažejo novice o padcu prodaje domov v avgustu. Posledice za delnice so negativne za sektorje, povezane z nepremičninami (gradbeništvo, nepremičninske agencije) in za banke, ki se soočajo z manjšim povpraševanjem po hipotekah. Za valute in surovine je vpliv posreden, preko splošnega upočasnjevanja gospodarstva. Za slovenskega dolgoročnega vlagatelja to pomeni, da je nepremičninski trg v ZDA pod znatnim pritiskom, kar lahko vpliva na globalno gospodarsko rast. Vlagatelji v nepremičninske sklade ali podjetja, ki so močno izpostavljena temu sektorju, morajo biti previdni. Pomembno je spremljati nadaljnje gibanje obrestnih mer in podatke o prodaji nepremičnin.",
+      "povzetek": "Članek BBC Business poroča, da bi se lahko obrestne mere po svetu ponovno dvignile, saj se države soočajo z višjimi stroški energije, ki vodijo v inflacijo. Centralne banke bodo morale sprejeti odločitve, kako se bodo odzvale na te pritiske.",
+      "analiza": "Novica o potencialnem dvigu obrestnih mer po svetu je ključnega pomena za finančne trge. Visoka inflacija, ki jo poganjajo naraščajoči stroški energije, centralne banke postavlja pred težko odločitev med obvladovanjem cen in ohranjanjem gospodarske rasti. Če bodo centralne banke sledile dvigu obrestnih mer, to običajno pomeni dražje zadolževanje za podjetja in potrošnike, kar lahko zavre gospodarsko aktivnost. Za delniške trge bi to pomenilo potencialni pritisk navzdol, saj bi se zmanjšala pričakovana dobičkonosnost podjetij in privlačnost delnic v primerjavi z obveznicami z višjimi donosi. Obvezniški trgi bi lahko videli nadaljnji pritisk na rast donosov, kar pomeni padanje cen obveznic. Valute bi lahko doživele spremembe glede na to, katere centralne banke bodo bolj agresivne pri dvigovanju obrestnih mer. Surovine, kot je nafta, bi lahko doživele zmanjšanje povpraševanja zaradi upada gospodarske aktivnosti. Kriptovalute, ki so pogosto občutljive na spremembe v obrestnih merah in likvidnosti, bi lahko prav tako negativno reagirale. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba spremljati odločitve centralnih bank, saj lahko vplivajo na vrednost naložb v delnice, obveznice in druge razrede sredstev.",
       "vpliv": [
-        "30-letna hipotekarna obrestna mera nad 7 %",
-        "Povečani stroški nakupa doma",
-        "Negativen vpliv na nepremičninski trg",
-        "Zmanjšana kupna moč potrošnikov"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-30-year-mortgage-rate-just-crossed-7-for-the-first-time-in-over-a-year-a3fba38f?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-10T18:18:00.000Z"
-    },
-    {
-      "naslov": "OpenAI s ChatGPT za finančne storitve cilja na delo mlajših bančnikov",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "OpenAI je lansiral ChatGPT za finančne storitve, s čimer cilja na delovno intenzivne naloge raziskav, modeliranja in priprave predstavitvenih gradiv, ki jih tradicionalno opravljajo mlajši bančniki. Ta poteza nakazuje na nadaljnjo avtomatizacijo in preoblikovanje delovnih mest v finančni industriji s pomočjo umetne inteligence. Cilj je povečati učinkovitost in zmanjšati stroške v sektorju, ki je znan po visokih plačah in dolgih delovnikih. Uvedba takšnih orodij bi lahko pomenila revolucijo v načinu dela na Wall Streetu in širše v finančnih institucijah.",
-      "analiza": "V ozadju te novice je hitra rast in razvoj umetne inteligence, ki se vse bolj integrira v različne industrije. Finančni sektor, ki je močno odvisen od analize podatkov in kompleksnih izračunov, je naraven kandidat za avtomatizacijo. Uvedba ChatGPT za finančne storitve s strani OpenAI je pomemben korak v tej smeri. Mehanizem vpliva je dvojen: na eni strani lahko AI znatno poveča produktivnost in učinkovitost finančnih institucij, saj lahko avtomatizira ponavljajoče se in časovno potratne naloge. To lahko zmanjša operativne stroške in poveča dobičkonosnost. Na drugi strani pa to predstavlja izziv za delovna mesta, zlasti za vloge na začetni ravni, ki so tradicionalno služile kot izhodišče za kariero v financah. Posledice za delnice so lahko pozitivne za podjetja, ki razvijajo in implementirajo AI rešitve (kot je OpenAI, čeprav je zasebno podjetje, vpliva na celoten sektor AI) ter za finančne institucije, ki uspešno integrirajo AI in s tem izboljšajo svojo učinkovitost. Za valute in surovine je vpliv posreden, preko splošnega vpliva na gospodarsko rast in produktivnost. Za slovenskega dolgoročnega vlagatelja to pomeni, da je tehnološka preobrazba finančnega sektorja v polnem zamahu. Vlagatelji bi morali biti pozorni na podjetja, ki so vodilna na področju AI in tista v finančnem sektorju, ki se uspešno prilagajajo novim tehnologijam, saj imajo potencial za dolgoročno rast. Hkrati pa je treba upoštevati morebitne družbene posledice avtomatizacije delovnih mest.",
-      "vpliv": [
-        "Povečana učinkovitost v financah",
-        "Potencialna avtomatizacija delovnih mest",
-        "Rast sektorja AI",
-        "Zmanjšanje operativnih stroškov bank"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-      "objavljeno": "2026-09-10T18:01:08.000Z"
-    },
-    {
-      "naslov": "Ford napoveduje milijardno investicijo v tovarno v Kentuckyju po kritikah DOT glede Kitajske",
-      "sektor": "Podjetja",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Ford Motor je danes napovedal milijardo dolarjev naložbe v izgradnjo nove lakirnice v svoji ključni tovarni tovornjakov v Kentuckyju. Ta odločitev sledi kritikam Ministrstva za promet (DOT) glede odvisnosti podjetja od Kitajske. Naložba poudarja prizadevanja Forda za krepitev domače proizvodnje in zmanjšanje odvisnosti od tujih dobavnih verig, kar je v skladu s širšimi trendi 'reshoringa' in 'friendshoringa' v ameriški industriji. Ta poteza bi lahko imela dolgoročne strateške koristi za podjetje in ameriško gospodarstvo.",
-      "analiza": "Ozadje Fordove naložbe je kompleksno in vključuje tako strateške poslovne odločitve kot tudi širše geopolitične in trgovinske pritiske. Kritike Ministrstva za promet glede odvisnosti od Kitajske odražajo naraščajočo zaskrbljenost ameriške vlade glede nacionalne varnosti in odpornosti dobavnih verig. Podobni trendi so bili opazni že med pandemijo COVID-19, ko so bile motnje v dobavnih verigah izrazite. Mehanizem vpliva je, da takšne naložbe v domačo proizvodnjo krepijo lokalna gospodarstva, ustvarjajo delovna mesta in zmanjšujejo tveganja, povezana z mednarodnimi napetostmi. Za Ford to pomeni povečanje operativne učinkovitosti in potencialno zmanjšanje stroškov transporta ter carinskih dajatev na dolgi rok. Posledice za delnice Forda so lahko pozitivne, saj naložba kaže na strateško prilagajanje in zavezanost domačemu trgu, kar lahko izboljša zaupanje vlagateljev. Za širši avtomobilski sektor to pomeni trend k večji lokalizaciji proizvodnje. Na valute in surovine je vpliv posreden, čeprav povečana domača proizvodnja lahko vpliva na povpraševanje po določenih surovinah. Za slovenskega dolgoročnega vlagatelja je to primer, kako se velika podjetja odzivajo na geopolitične in trgovinske izzive. Naložbe v domačo proizvodnjo lahko zmanjšajo tveganja, vendar so lahko tudi dražje. Pomembno je spremljati, kako se bodo ta prizadevanja odrazila na konkurenčnosti in dobičkonosnosti podjetij v avtomobilski industriji.",
-      "vpliv": [
-        "Fordova naložba 1 milijarde USD v Kentucky",
-        "Krepitev domače proizvodnje ZDA",
-        "Zmanjšanje odvisnosti od Kitajske",
-        "Potencialno pozitivno za delnice Forda"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
-      "objavljeno": "2026-09-10T17:31:38.000Z"
-    },
-    {
-      "naslov": "Cene nafte in stroški zadolževanja poskočili ob eskalaciji strahov glede Bližnjega vzhoda",
-      "sektor": "Geopolitika & Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Cena nafte je poskočila na 105 dolarjev za sod, saj se krepijo znaki, da se vojna v Iranu ne bo hitro rešila. To je dodatno podžgalo stroške zadolževanja po vsem svetu. Povečane napetosti na Bližnjem vzhodu, zlasti v zvezi z iranskim konfliktom, neposredno vplivajo na globalne dobavne verige nafte in plina. Vlagatelji so zaskrbljeni zaradi morebitnih prekinitev dobav in dolgotrajnih posledic za globalno gospodarstvo, kar se odraža v povečani volatilnosti in odklonu od tveganih naložb.",
-      "analiza": "Eskalacija konflikta na Bližnjem vzhodu, zlasti vpletenost Irana, je ključni dejavnik za današnje gibanje na trgih. Regija je vitalna za globalno oskrbo z nafto, in vsaka nestabilnost tam takoj vpliva na cene energentov. Podobni geopolitični dogodki v preteklosti so vedno povzročili skok cen nafte, kar je imelo širše makroekonomske posledice. Mehanizem vpliva je direkten: strah pred pomanjkanjem nafte dvigne cene, kar poveča inflacijske pritiske. To prisili centralne banke k zaostrovanju monetarne politike, kar se kaže v dvigu obrestnih mer in stroškov zadolževanja. Danes je WTI nafta poskočila za +6.22 % na 102.02 USD/sod, Brent pa za +5.96 % na 107.24 USD/sod. Posledice za delnice so negativne, saj višje cene energentov in stroški zadolževanja zmanjšujejo dobičkonosnost podjetij in zaupanje vlagateljev, kar se odraža v padcih indeksov S&P 500 (-0.59 %) in DAX (-2.49 %). Obveznice so pod pritiskom, saj se donosi zvišujejo (10-letna ameriška obveznica +2.25 % na 4.95 %). Valute so nestabilne, zlato, kljub statusu varnega zatočišča, je padlo za -1.88 % na 4376.80 USD/oz, kar lahko kaže na likvidnostne pritiske. Kriptovalute, kot je Bitcoin, so prav tako padle za -1.51 % na 77113 USD, saj vlagatelji bežijo iz tveganih sredstev. Za slovenskega dolgoročnega vlagatelja to pomeni povečano negotovost in potrebo po diverzifikaciji portfelja. Vlagatelji morajo biti pripravljeni na morebitno nadaljnjo volatilnost in se osredotočiti na podjetja, ki so odporna na energetske šoke in imajo močne bilance. Geopolitična tveganja ostajajo ključni dejavnik, ki ga je treba spremljati.",
-      "vpliv": [
-        "Cena nafte nad 105 USD/sod",
-        "Povišani stroški zadolževanja",
-        "Povečana geopolitična negotovost",
-        "Negativen vpliv na delniške trge"
+        "Pritisk navzdol na delniške indekse",
+        "Rast donosov na obvezniških trgih",
+        "Potencialno zmanjšanje povpraševanja po surovinah",
+        "Negativna reakcija kriptovalut"
       ],
       "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-10T17:38:31.000Z"
+      "vir_url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-11T08:28:47.000Z"
+    },
+    {
+      "naslov": "AI boom spodbuja presenetljivo rast britanskega gospodarstva",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Uradni podatki kažejo, da se je britansko gospodarstvo julija razširilo za 0,4 %, kar je preseglo pričakovanja analitikov, ki so napovedovali stagnacijo. Rast je deloma pripisana boomu umetne inteligence (AI), ki pozitivno vpliva na produktivnost in inovacije.",
+      "analiza": "Presenetljiva rast britanskega gospodarstva v juliju, ki jo je spodbudil sektor umetne inteligence, je pomemben signal za makroekonomsko sliko Velike Britanije. Ta rast kaže na odpornost gospodarstva kljub morebitnim globalnim pritiskom. Sektor AI postaja vse pomembnejši gonilnik gospodarske aktivnosti, saj prinaša nove tehnologije, izboljšuje učinkovitost in ustvarja nova delovna mesta. Za delniške trge bi to lahko pomenilo pozitivno naravnanost do britanskih podjetij, zlasti tistih v tehnološkem sektorju ali tistih, ki uspešno vključujejo AI v svoje poslovanje. Obvezniški trgi bi lahko na takšne novice reagirali manj izrazito, razen če bi rast nakazovala na morebitne prihodnje dvige obrestnih mer s strani Bank of England. Valute, kot je britanski funt, bi lahko pridobile na vrednosti zaradi pozitivnih gospodarskih obetov. Surovine in kripto trgi bi bili manj neposredno prizadeti, razen če bi splošno izboljšanje gospodarskih razmer vodilo k povečanemu povpraševanju. Za slovenskega dolgoročnega vlagatelja je pomembno opazovati, kako se tehnološki napredek, kot je AI, odraža v realni gospodarski rasti različnih držav in kako to vpliva na naložbene priložnosti.",
+      "vpliv": [
+        "Pozitivna naravnanost do britanskih delnic",
+        "Potencialna krepitev britanskega funta",
+        "Povečano zanimanje za tehnološka podjetja",
+        "Okrevanje gospodarske aktivnosti"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-11T08:04:22.000Z"
+    },
+    {
+      "naslov": "Anthropic opozarja na poskuse uporabe AI za izdelavo biološkega orožja",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Podjetje Anthropic opozarja na naraščajoče primere zlorabe modelov umetne inteligence (AI), vključno s tveganji pri razvoju biološkega orožja. Strokovnjaki pozivajo k strožjemu nadzoru nad dostopom do naprednih AI modelov, saj obstaja nevarnost njihove uporabe v škodljive namene.",
+      "analiza": "Opozorilo podjetja Anthropic glede zlorabe umetne inteligence za razvoj biološkega orožja predstavlja resno varnostno in etično vprašanje z možnimi posledicami za finančne trge. Če bi se takšni scenariji uresničili, bi to lahko povzročilo povečano negotovost in nestabilnost na globalni ravni. Delniški trgi bi lahko negativno reagirali na novice o povečanih geopolitičnih tveganjih ali na morebitne strožje regulacije tehnološkega sektorja. Podjetja, ki se ukvarjajo z razvojem AI, bi lahko doživela pritisk na svoje delnice, če bi vlagatelji ocenili, da so tveganja večja od potencialnih koristi. Obvezniški trgi bi lahko videli povečano povpraševanje po varnih naložbah v primeru povečane negotovosti. Valute bi lahko oslabile v državah, ki so bolj izpostavljene geopolitičnim tveganjem. Surovine, kot je zlato, bi lahko pridobile na vrednosti kot varno pribežališče. Kriptovalute bi lahko bile nepredvidljive, odvisno od splošnega sentimenta na trgu. Za slovenskega dolgoročnega vlagatelja je pomembno zavedanje o dvojnemu potencialu tehnologije: lahko prinaša napredek, a tudi nova tveganja, ki jih je treba upoštevati pri diverzifikaciji portfelja.",
+      "vpliv": [
+        "Povečana negotovost na delniških trgih",
+        "Potencialna rast cen zlata",
+        "Pritisk na delnice tehnoloških podjetij",
+        "Povečano povpraševanje po varnih naložbah"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/11/anthropic-warns-of-bids-to-use-ai-to-build-biological-weapons?traffic_source=rss",
+      "objavljeno": "2026-09-11T08:08:43.000Z"
+    },
+    {
+      "naslov": "Ameriški dizel dosegel rekordnih 6 dolarjev na galono zaradi Irana",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Cena ameriškega dizelskega goriva je dosegla rekordno vrednost 6 dolarjev na galono, kar je posledica motenj v dobavi iz Irana. Naraščajoči stroški goriva, ključnega za kmetijstvo in industrijo, povečujejo inflacijske pritiske in poslabšujejo finančne težave potrošnikov.",
+      "analiza": "Rekordno visoka cena ameriškega dizelskega goriva, ki jo povzročajo napetosti z Iranom, ima pomembne posledice za gospodarstvo. Dizel je ključni energent za transport, kmetijstvo in industrijo, zato njegovo podražitev neposredno občutijo tako podjetja kot potrošniki. To lahko vodi v višje stroške proizvodnje, višje cene končnih izdelkov in s tem v nadaljnjo inflacijo. Za delniške trge bi to lahko pomenilo pritisk navzdol na podjetja, ki so odvisna od transporta ali imajo visoke stroške energije. Energetski sektor, zlasti proizvajalci nafte, bi lahko imeli koristi od višjih cen, čeprav je treba upoštevati tudi morebitne negativne učinke na povpraševanje zaradi višjih cen. Obvezniški trgi bi lahko videli nadaljnji pritisk na rast donosov, saj bi centralne banke morda morale ukrepati proti inflaciji z dvigom obrestnih mer. Valute bi lahko oslabile v državah, ki so močno odvisne od uvoza energije. Surovine, kot je nafta, bi lahko ostale visoko ali celo še narasle, če se napetosti ne bi umirile. Kriptovalute bi bile verjetno manj neposredno prizadete, razen če bi splošna gospodarska nestabilnost vplivala na naložbeni sentiment. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba spremljati razvoj geopolitičnih napetosti in njihov vpliv na cene energentov, saj to neposredno vpliva na inflacijo in stroške poslovanja podjetij.",
+      "vpliv": [
+        "Povečanje inflacijskih pritiskov",
+        "Negativni vpliv na podjetja z visokimi stroški energije",
+        "Potencialna rast cen nafte",
+        "Pritisk na potrošniško povpraševanje"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/ebfa69a3-323b-450d-8bfd-0b12e01d2a5b?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-11T07:56:26.000Z"
+    },
+    {
+      "naslov": "BRICS: Ali blok resnično izziva zahodno dominacijo?",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Članek Al Jazeere analizira, ali BRICS (Brazilija, Rusija, Indija, Kitajska, Južna Afrika) resnično predstavlja izziv svetu, ki mu dominuje Zahod. Nekateri strokovnjaki menijo, da BRICS ne potrebuje nadomestiti Zahoda, da bi bil uspešen, temveč le otežiti njegovo dominacijo.",
+      "analiza": "Vprašanje, ali BRICS izziva zahodno dominacijo, je ključnega pomena za globalno geopolitično in ekonomsko prihodnost. Krepitev bloka BRICS in njegova prizadevanja za večjo vlogo na mednarodni sceni lahko vplivajo na globalno trgovino, finančne tokove in politično ravnotežje. Če BRICS uspe pri svojem cilju, da zmanjša zahodno dominacijo, bi to lahko vodilo do večje diverzifikacije svetovnega gospodarstva in financ. Za delniške trge bi to lahko pomenilo premik v naložbenih tokovih, z večjim poudarkom na trgih držav BRICS. Obvezniški trgi bi lahko doživeli spremembe v povpraševanju glede na to, kako bodo države BRICS financirale svoje projekte. Valute držav BRICS bi lahko pridobile na pomembnosti, medtem ko bi lahko nekatere zahodne valute doživele pritisk. Surovine bi lahko bile pod vplivom povečanega povpraševanja s strani rastočih gospodarstev BRICS. Kriptovalute bi lahko postale bolj pomembne kot alternativa tradicionalnim finančnim sistemom, če bi BRICS spodbujal njihovo uporabo. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti te globalne premike in razmisliti o diverzifikaciji naložb v različne regije in valute, da bi zmanjšali tveganja in izkoristili nove priložnosti.",
+      "vpliv": [
+        "Premik v globalnih naložbenih tokovih",
+        "Potencialna rast pomena valut držav BRICS",
+        "Povečano povpraševanje po surovinah",
+        "Diverzifikacija svetovnega gospodarstva"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/11/bric-by-bric-has-brics-challenged-the-western-dominated-world?traffic_source=rss",
+      "objavljeno": "2026-09-11T07:42:24.000Z"
+    },
+    {
+      "naslov": "Tradicionalna diverzifikacija portfelja ne zadostuje več",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Upravljavec sklada v vrednosti 624 milijard dolarjev svetuje, da tradicionalna diverzifikacija portfelja ni več dovolj. Predlaga, da bi se vlagatelji morali osredotočiti na vključevanje bolj likvidnih alternativnih naložb v svoje strategije, da bi se prilagodili spremenjenim tržnim razmeram.",
+      "analiza": "Nasvet upravljavca sklada Allspring Global Investments o nezadostnosti tradicionalne diverzifikacije portfelja odraža spreminjajoče se razmere na finančnih trgih. V času visoke inflacije, geopolitične negotovosti in hitrih tehnoloških sprememb tradicionalni pristopi morda ne nudijo več optimalne zaščite pred tveganji ali donosa. Poudarek na likvidnih alternativnih naložbah, kot so zasebni kapital, tvegani kapital ali alternativni skladi, lahko ponudi nove poti za diverzifikacijo in potencialno višje donose, vendar tudi prinaša svoja tveganja in zahteva drugačno analizo. Za delniške trge to pomeni, da je treba razmisliti o širšem naboru naložb, ki bi lahko vključeval tudi manj tradicionalne razrede sredstev. Obvezniški trgi bi lahko postali manj privlačni v okolju naraščajočih obrestnih mer, kar bi povečalo pomen alternativnih naložb. Valute bi lahko ostale pomembne, vendar bi se lahko povečala pozornost na valute držav z močnimi alternativnimi sektorji. Surovine in kriptovalute bi lahko ostale del diverzificiranega portfelja, vendar bi se njihova vloga lahko spremenila glede na splošni naložbeni sentiment. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno ostati informiran o novih naložbenih strategijah in razmisliti o posvetu s finančnim svetovalcem o morebitni vključitvi alternativnih naložb v svoj portfelj, ob upoštevanju lastne tolerance do tveganja.",
+      "vpliv": [
+        "Povečano zanimanje za alternativne naložbe",
+        "Potencialno zmanjšanje poudarka na tradicionalnih obveznicah",
+        "Potreba po prilagajanju naložbenih strategij",
+        "Iskanje novih virov donosov"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/traditional-portfolio-diversification-isnt-cutting-it-anymore-heres-where-to-pivot-says-this-624-billion-fund-manager-0b552566?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-11T07:19:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-10T18:43:26.324Z",
+    "posodobljenoOb": "2026-09-11T08:54:40.639Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7591.08,
-        "sprememba_pct": -0.59
+        "vrednost": 7591.7,
+        "sprememba_pct": -0.58
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29145.023,
-        "sprememba_pct": -0.94
+        "vrednost": 29103.514,
+        "sprememba_pct": -1.08
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25361.15,
-        "sprememba_pct": -2.49
+        "vrednost": 25468.68,
+        "sprememba_pct": 0.42
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 65270.95,
-        "sprememba_pct": 0.2
+        "vrednost": 64011.34,
+        "sprememba_pct": -1.93
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4376.8,
-        "sprememba_pct": -1.88,
+        "vrednost": 4394.8,
+        "sprememba_pct": -0.28,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 102.02,
-        "sprememba_pct": 6.22,
+        "vrednost": 100.05,
+        "sprememba_pct": -2.37,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 107.24,
-        "sprememba_pct": 5.96,
+        "vrednost": 104.67,
+        "sprememba_pct": -2.75,
         "enota": "USD/sod"
       }
     ],
@@ -184,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1618,
-        "sprememba_pct": -0.18
+        "vrednost": 1.1604,
+        "sprememba_pct": -0.08
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.946,
-        "sprememba_pct": 2.25,
+        "vrednost": 4.944,
+        "sprememba_pct": 2.21,
         "enota": "%"
       }
     ],
@@ -201,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 77113.06,
-        "sprememba_pct": -1.51,
+        "vrednost": 77322.44,
+        "sprememba_pct": 1.03,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 17.75,
-      "sprememba_pct": 12.91
+      "vrednost": 17.43,
+      "sprememba_pct": -2.3
     }
   }
 }
