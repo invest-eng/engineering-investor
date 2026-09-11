@@ -1,128 +1,128 @@
 {
-  "generiranoOb": "2026-09-11T18:43:50.630Z",
+  "generiranoOb": "2026-09-11T18:47:56.832Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-09-11",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v pretežno mirnem tonu, pri čemer je nemški indeks DAX zabeležil minimalen padec za 0,03 % na 25569 točk. V nasprotju z Evropo so ameriški trgi, ki so odprti že dve uri, pokazali moč, saj je indeks S&P 500 zrasel za 0,99 % na 7667 točk, tehnološki Nasdaq 100 pa za 1,11 % na 29427 točk. Na surovinskih trgih je bil opazen padec cen nafte, saj se je WTI nafta pocenila za 2,32 % na 100,10 USD za sod, Brent nafta pa za 2,77 % na 104,65 USD za sod, deloma zaradi geopolitičnih napetosti v Rdečem morju. Donosnost 10-letne ameriške državne obveznice se je zvišala za 0,38 % na 4,96 %, kar kaže na nadaljnje pritiske na trgu obveznic. Medtem ko se v ZDA razpravlja o morebitnih treh dvigih obrestnih mer s strani Feda in vplivu rastočih cen bencina na inflacijo, je v Združenem kraljestvu gospodarstvo julija nepričakovano zraslo za 0,4 %, deloma zaradi porasta umetne inteligence. Vlagatelji ostajajo osredotočeni na prihodnje odločitve centralnih bank in objave makroekonomskih podatkov, ki bodo vplivali na smer globalnih trgov.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanimi občutki, medtem ko so ameriški indeksi po dveh urah trgovanja kazali rast. Nemški DAX je dan zaključil z minimalnim padcem za 0,03 % pri 25569 točkah, medtem ko sta v ZDA S&P 500 in Nasdaq 100 pridobivala, in sicer S&P 500 za 0,96 % na 7665 točk ter Nasdaq 100 za 1,07 % na 29415 točk. Na trgu surovin je nafta doživela občuten padec, saj je WTI nafta padla za 2,51 % na 99,91 USD/sod, Brent nafta pa za 3,00 % na 104,40 USD/sod. Donosnost 10-letne ameriške državne obveznice se je zvišala za 0,47 % na 4,97 %, kar odraža pričakovanja glede morebitnega nadaljnjega zviševanja obrestnih mer s strani Feda. VIX indeks, merilec volatilnosti, je padel za 12,16 % na 15,67, kar nakazuje zmanjšanje negotovosti. Bitcoin je medtem zrasel za 0,68 % na 77060 USD, zlato pa je padlo za 0,34 % na 4392,10 USD/oz.",
   "novice": [
     {
-      "naslov": "Hutiji prevzeli nadzor nad otoki v Rdečem morju, kar vpliva na energetske trge",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Jemenski uporniki Hutiji so v bliskoviti ofenzivi prevzeli nadzor nad otoki v Rdečem morju, kar je pomemben korak pri utrjevanju njihovega nadzora nad ključno pomorsko potjo. Ta poteza, usmerjena proti silam, ki jih podpira Savdska Arabija, ima neposreden vpliv na stabilnost regije. Prevzem nadzora nad to vitalno ladijsko arterijo je že povzročil nemir na energetskih trgih. Poročila kažejo, da so Hutiji s tem dejanjem utrdili svoj položaj in vpliv na celotni zahodni obali Rdečega morja. To dogajanje poudarja naraščajoče geopolitične napetosti v regiji, ki so ključne za globalno trgovino.",
-      "analiza": "Prevzem nadzora Hutijev nad otoki v Rdečem morju predstavlja pomembno eskalacijo konflikta v Jemnu in ima daljnosežne posledice za globalno gospodarstvo. Rdeče morje je ključna pomorska pot, ki povezuje Sredozemlje z Indijskim oceanom preko Sueškega prekopa, in je vitalna za transport nafte, plina in drugega blaga med Azijo in Evropo. Ta poteza Hutijev, ki so že pred tem opozarjali na varnost plovbe razen za savdske ladje, povečuje tveganje za motnje v dobavnih verigah. Na finančnih trgih se to odraža v nestabilnosti cen nafte; danes sta WTI nafta padla za 2,32 % na 100,10 USD/sod, Brent nafta pa za 2,77 % na 104,65 USD/sod, kar kaže na kompleksno reakcijo trga, kjer se morebitne motnje v dobavi prepletajo s širšimi makroekonomskimi dejavniki. Povečana geopolitična tveganja običajno vodijo v rast cen zlata kot varnega zatočišča, čeprav je danes zlato padlo za 0,42 % na 4388,70 USD/oz, kar kaže na prevlado drugih dejavnikov. Za slovenske dolgoročne vlagatelje to pomeni povečano negotovost, zlasti v sektorjih, odvisnih od stabilnih dobavnih verig in cen energentov, kar zahteva pozorno spremljanje razvoja dogodkov v regiji.",
-      "vpliv": [
-        "Povečana geopolitična tveganja",
-        "Motnje v globalnih dobavnih verigah",
-        "Nestabilnost cen nafte",
-        "Potencialni vpliv na inflacijo"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/976fa0d6-ed09-4a6f-be02-ff4317b45f40?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-11T17:19:36.000Z"
-    },
-    {
-      "naslov": "Analitiki opozarjajo na možnost treh dvigov obrestnih mer s strani Feda",
+      "naslov": "Fed razmišlja o trojnem dvigu obrestnih mer, trgi pred izzivom",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Ekonomisti opozarjajo, da bi lahko ameriška centralna banka (Fed) v prihodnosti obrestne mere dvignila kar trikrat, kar bi predstavljalo največji preizkus za trge. Zgodovinsko gledano se Fed ni zadovoljil zgolj z enim dvigom obrestnih mer, ko je začel zaostrovati monetarno politiko. Takšna poteza bi imela pomembne posledice za stroške zadolževanja podjetij in potrošnikov. Pričakovanja glede agresivnejšega dvigovanja obrestnih mer že vplivajo na donosnosti obveznic. To kaže na nadaljnjo zaskrbljenost glede inflacije in potrebe po njenem zajezitvi.",
-      "analiza": "Razprava o morebitnih treh dvigih obrestnih mer s strani Feda odraža trajno zaskrbljenost glede inflacije in odločnost centralne banke, da jo obvlada. Višje obrestne mere pomenijo dražje zadolževanje za podjetja in posameznike, kar lahko upočasni gospodarsko rast. Na trgu obveznic se to že kaže v rastočih donosnostih; donosnost 10-letne ameriške državne obveznice je danes zrasla za 0,38 % na 4,96 %. Rast donosnosti obveznic zmanjšuje privlačnost delnic, saj se povečujejo stroški financiranja podjetij in se zmanjšujejo prihodnji denarni tokovi. To je lahko dejavnik, ki omejuje rast delniških indeksov, kljub današnji rasti S&P 500 za 0,99 % in Nasdaq 100 za 1,11 %. Močnejša monetarna politika Feda običajno krepi ameriški dolar, kar se odraža v današnjem padcu para EUR/USD za 0,14 % na 1,1597. Zgodovinsko gledano so obdobja hitrega dvigovanja obrestnih mer pogosto povezana s povečano volatilnostjo na trgih. Slovenski dolgoročni vlagatelji bi morali biti pozorni na vpliv višjih obrestnih mer na podjetja z visokim dolgom in na splošno na vrednotenja delnic, saj se lahko spremeni razmerje med tveganjem in donosnostjo različnih naložbenih razredov.",
+      "povzetek": "Ekonomisti opozarjajo, da bi lahko ameriška centralna banka (Fed) obrestne mere zvišala še trikrat, saj zgodovinsko ni bila zadovoljna zgolj z enim dvigom. To bi predstavljalo pomemben preizkus za finančne trge, ki se že soočajo z višjimi donosnostmi obveznic. Morebitni dodatni dvigi so odgovor na vztrajno inflacijo in robusten trg dela, kar bi lahko vplivalo na stroške zadolževanja podjetij in potrošnikov. Takšna poteza bi povišala privlačnost varnejših naložb, kot so obveznice, in potencialno ohladila gospodarsko rast.",
+      "analiza": "Ozadje te novice je vztrajno visoka inflacija v ZDA, ki jo delno poganjajo tudi visoke cene goriv, kot je razvidno iz avgustovskega skoka cen bencina. Fed se že dlje časa bori proti inflaciji z zaostrovanjem monetarne politike, vendar se zdi, da en sam dvig ni dovolj za dosego ciljne ravni. Pomen te novice je v signaliziranju morebitnega agresivnejšega pristopa Feda, kar bi lahko imelo daljnosežne posledice za globalno gospodarstvo. Mehanizem vpliva je direkten: višje obrestne mere pomenijo dražje zadolževanje za podjetja, kar lahko zmanjša investicije in dobičke, s tem pa negativno vpliva na delniške trge. Donosnosti obveznic, kot je 10-letna ameriška državna obveznica, ki je danes pri 4,97 %, bi se še zvišale, saj vlagatelji zahtevajo višje donose za posojanje denarja v okolju rastočih obrestnih mer. To bi lahko povzročilo odliv kapitala iz delnic v obveznice. Valutni par EUR/USD bi se lahko gibal v korist USD, saj višje obrestne mere v ZDA privabljajo kapital. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati odločitve Feda, saj vplivajo na globalne obrestne mere in s tem na donosnost naložb v različne razrede sredstev, od delnic do obveznic.",
       "vpliv": [
-        "Rast donosnosti obveznic (10Y US Treasury +0.38% na 4.96%)",
-        "Potencialno zmanjšanje privlačnosti delnic",
-        "Krepitev ameriškega dolarja (EUR/USD -0.14% na 1.1597)",
-        "Povečani stroški zadolževanja"
+        "Potencialni dvig obrestnih mer s strani Feda",
+        "Rast donosnosti obveznic (10Y US Treasury pri 4.97%)",
+        "Pritisk na delniške trge",
+        "Krepitev USD"
       ],
       "vir": "MarketWatch",
       "vir_url": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
       "objavljeno": "2026-09-11T18:09:00.000Z"
     },
     {
-      "naslov": "Naraščajoči stroški bencina povzročili oster dvig inflacije v ZDA avgusta",
+      "naslov": "Hutiji prevzeli nadzor nad otoki v Rdečem morju, vpliv na energijo",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Jemenski uporniki Hutiji so v bliskoviti ofenzivi prevzeli nadzor nad otoki v Rdečem morju, kar utrjuje njihov nadzor nad vitalno ladijsko potjo in povzroča nemir na energetskih trgih. Ta poteza je usmerjena proti silam, ki jih podpira Savdska Arabija, in dodatno zaostruje regionalne napetosti. Hutiji so tudi izjavili, da je pomorska plovba v Rdečem morju varna, razen za savdske ladje, kar kaže na selektivno grožnjo. Mednarodna organizacija za migracije (IOM) opozarja na naraščajoče število razseljenih oseb v Jemnu, ki je že preseglo 46.000.",
+      "analiza": "Ozadje te novice je dolgotrajen konflikt v Jemnu, kjer Hutiji, podprti z Iranom, nadzorujejo pomembne dele države. Prevzem nadzora nad otoki v Rdečem morju je strateško pomemben, saj Rdeče morje predstavlja ključno pomorsko pot za globalno trgovino, še posebej za transport nafte in plina skozi Sueški prekop. Pomen te novice je v neposrednem vplivu na energetske trge in globalne dobavne verige. Mehanizem vpliva je jasen: negotovost in potencialne ovire v ključni ladijski poti povečujejo tveganje za dobavo nafte, kar običajno povzroči rast cen. Vendar pa so danes cene nafte WTI in Brent padle za 2,51 % na 99,91 USD/sod oziroma za 3,00 % na 104,40 USD/sod, kar kaže na kompleksnejše tržne dinamike, morda povezane s splošnim umirjanjem trga ali drugimi dejavniki ponudbe in povpraševanja. Kljub temu dolgoročno zaostrovanje razmer v regiji nosi tveganje za prihodnje skoke cen. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da geopolitične napetosti v ključnih regijah lahko hitro vplivajo na cene surovin, kar se odraža v stroških poslovanja podjetij in inflaciji, ter s tem posredno na vrednost naložb.",
+      "vpliv": [
+        "Povečana geopolitična tveganja v Rdečem morju",
+        "Potencialne motnje v globalnih dobavnih verigah",
+        "Negotovost na energetskih trgih",
+        "Padec cen nafte (WTI -2.51%, Brent -3.00%)"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/976fa0d6-ed09-4a6f-be02-ff4317b45f40?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-11T17:19:36.000Z"
+    },
+    {
+      "naslov": "Rast cen bencina poganja avgustovsko inflacijo v ZDA",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Cene bencina v ZDA so se avgusta medmesečno zvišale za 3,9 odstotka, kar je predstavljalo eno tretjino celotnega povečanja inflacije. Ta skok cen goriva je bil ključen dejavnik za oster dvig inflacije v Združenih državah. Naraščajoči stroški energentov neposredno vplivajo na kupno moč potrošnikov in povečujejo operativne stroške podjetij. Takšni podatki krepijo pričakovanja, da bo Federal Reserve nadaljeval z zaostrovanjem monetarne politike. To je pomemben pokazatelj vztrajnosti inflacijskih pritiskov v gospodarstvu.",
-      "analiza": "Poročilo o avgustovskem dvigu inflacije v ZDA, ki ga je v veliki meri poganjala 3,9-odstotna rast cen bencina, poudarja občutljivost gospodarstva na energetske šoke. Visoke cene goriva neposredno vplivajo na potrošnike, saj zmanjšujejo razpoložljivi dohodek za druge dobrine in storitve, kar lahko upočasni potrošnjo. Za podjetja, zlasti v transportnem in logističnem sektorju, to pomeni višje operativne stroške, kar lahko zmanjša dobičkonosnost in se prenese na končne cene izdelkov. Takšni inflacijski pritiski krepijo argumente za nadaljnje ukrepanje centralne banke, kot je Federal Reserve, ki bi lahko, kot je bilo že omenjeno, obrestne mere dvignila večkrat. Posledično se lahko poveča donosnost obveznic, saj vlagatelji zahtevajo višje donose za zaščito pred inflacijo, kar se je danes pokazalo pri 10-letni ameriški državni obveznici, ki je zrasla na 4,96 %. Na delniških trgih lahko podjetja, ki so močno odvisna od transporta ali imajo nizke marže, občutijo pritisk. Slovenski vlagatelji bi morali biti pozorni na podjetja, ki so odporna na inflacijo ali imajo močno cenovno moč, ter na splošno na vpliv inflacije na globalno gospodarsko rast.",
+      "intenziteta": 3,
+      "povzetek": "Cene bencina so v ZDA avgusta poskočile za 3,9 % na mesečni ravni, kar je prispevalo k tretjini celotnega povečanja inflacije v tem mesecu. To povišanje stroškov goriva je ključni dejavnik, ki poganja splošno inflacijo in ustvarja pritisk na gospodinjstva. Povečana inflacija zaradi višjih cen bencina krepi argumente za nadaljnje zaostrovanje monetarne politike s strani Feda. To neposredno vpliva na kupno moč potrošnikov in povečuje stroške prevoza za podjetja.",
+      "analiza": "Ozadje te novice je vztrajna inflacija v ZDA, ki ostaja nad ciljno ravnjo Feda, kljub preteklim dvigom obrestnih mer. Pomen je v tem, da visoke cene energentov, zlasti bencina, neposredno vplivajo na življenjske stroške in inflacijska pričakovanja, kar otežuje delo centralne banke. Mehanizem vpliva je večplasten: višje cene bencina zmanjšujejo razpoložljiv dohodek potrošnikov, kar lahko zmanjša potrošnju za druge dobrine in storitve. Hkrati povečujejo operativne stroške podjetij, še posebej tistih v transportnem sektorju, kar se lahko prenese na končne cene izdelkov in storitev. To ustvarja spiralno inflacijo. Za finančne trge to pomeni večji pritisk na Fed za nadaljnje dvige obrestnih mer, kar se odraža v višjih donosnostih obveznic (10-letna ameriška državna obveznica je danes pri 4,97 %). Delniški trgi so pod pritiskom zaradi višjih stroškov zadolževanja in potencialno nižje potrošnje. Valutni par EUR/USD je danes padel za 0,15 % na 1,1596, kar kaže na močnejši dolar, saj višja inflacija in pričakovani dvigi obrestnih mer privabljajo kapital v ZDA. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da inflacija v velikih gospodarstvih, kot so ZDA, vpliva na globalno ekonomijo in s tem na donosnost naložb, še posebej na podjetja, ki so odvisna od transporta ali imajo visoke energetske stroške.",
       "vpliv": [
-        "Povečani inflacijski pritiski",
-        "Zmanjšana kupna moč potrošnikov",
-        "Višji operativni stroški podjetij",
-        "Krepitev argumentov za dvig obrestnih mer Feda"
+        "Povečan inflacijski pritisk v ZDA",
+        "Višje cene bencina (+3.9% m-o-m)",
+        "Večja verjetnost dvigov obrestnih mer Feda",
+        "Zmanjšana kupna moč potrošnikov"
       ],
       "vir": "Al Jazeera",
       "vir_url": "https://www.aljazeera.com/economy/2026/9/11/rising-petrol-costs-drive-sharp-inflation-increase-in-us-in-august?traffic_source=rss",
       "objavljeno": "2026-09-11T17:28:11.000Z"
     },
     {
-      "naslov": "OpenAI uvaja ChatGPT za finančne storitve, cilja na delo mlajših bankirjev",
+      "naslov": "OpenAI z novim ChatGPT cilja na delo finančnih analitikov",
       "sektor": "Tehnologija & AI",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "OpenAI je predstavil ChatGPT za finančne storitve, s čimer cilja na delovno intenzivne naloge, kot so raziskave, modeliranje in priprava predstavitvenih materialov (pitchbookov), ki jih tradicionalno opravljajo mlajši bankirji na Wall Streetu. Ta nova rešitev umetne inteligence obljublja avtomatizacijo in optimizacijo procesov v finančnem sektorju. Uvedba takšne tehnologije bi lahko bistveno spremenila delovna mesta in strukturo stroškov v investicijskem bančništvu. To predstavlja tako priložnosti za učinkovitost kot tudi izzive za zaposlovanje.",
-      "analiza": "Uvedba ChatGPT za finančne storitve s strani OpenAI je pomemben korak v integraciji umetne inteligence v visoko specializirane sektorje. Ciljanje na naloge mlajših bankirjev, kot so raziskave in modeliranje, kaže na potencial AI za avtomatizacijo ponavljajočih se in časovno potratnih opravil. To lahko vodi do znatnega zmanjšanja operativnih stroškov za finančne institucije in povečanja produktivnosti, kar bi se lahko dolgoročno pozitivno odrazilo na njihovo dobičkonosnost. Po drugi strani pa to predstavlja izziv za trg dela, saj se lahko zmanjša povpraševanje po določenih vrstah delovne sile. Za tehnološka podjetja, kot je OpenAI, to odpira nove tržne priložnosti in krepi njihov položaj v sektorju umetne inteligence. Delnice tehnoloških podjetij, ki so v ospredju razvoja AI, bi lahko imele koristi od takšnih inovacij, kar se delno odraža v današnji rasti Nasdaq 100 za 1,11 %. Finančne institucije, ki bodo uspešno implementirale AI, bodo lahko pridobile konkurenčno prednost. Slovenski dolgoročni vlagatelji bi morali spremljati, kako se bo AI integrirala v različne industrije in katere družbe bodo vodilne pri njenem razvoju in uporabi, saj to lahko vpliva na dolgoročno rast in stabilnost posameznih sektorjev.",
+      "povzetek": "OpenAI je lansiral ChatGPT za finančne storitve, ki je namenjen avtomatizaciji delovno intenzivnih nalog, kot so raziskave, modeliranje in priprava predstavitvenih gradiv, ki jih tradicionalno opravljajo mlajši bančniki. Ta poteza nakazuje, da umetna inteligenca (AI) prodira v visoko kvalificirane sektorje, kar bi lahko preoblikovalo delovna mesta in povečalo učinkovitost v finančni industriji. Cilj je optimizirati procese in zmanjšati potrebo po ročnem delu pri ponavljajočih se nalogah.",
+      "analiza": "Ozadje te novice je eksponentna rast in razvoj umetne inteligence, ki se vse bolj uveljavlja v različnih panogah. Finančni sektor, znan po svoji podatkovni intenzivnosti in potrebi po hitri analizi, je naravno okolje za implementacijo AI rešitev. Pomen te novice je v demonstraciji, kako AI spreminja ne le rutinska, ampak tudi kompleksna intelektualna dela, kar ima lahko daljnosežne posledice za trg dela in produktivnost. Mehanizem vpliva na finančne trge je dvojen: na eni strani lahko poveča učinkovitost in zmanjša stroške poslovanja finančnih institucij, kar je pozitivno za njihove delnice. Na drugi strani pa sproža vprašanja o prihodnosti delovnih mest v sektorju, kar lahko povzroči socialne in ekonomske izzive. Podjetja, ki razvijajo in implementirajo takšne AI rešitve, kot je OpenAI, lahko pričakujejo povečano povpraševanje. Za delniške trge to pomeni potencialno rast tehnoloških podjetij, ki so v ospredju razvoja AI, in morebitno preoblikovanje vrednotenja podjetij v finančnem sektorju glede na njihovo sposobnost integracije AI. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da AI predstavlja dolgoročen trend, ki bo preoblikoval mnoga podjetja in panoge, zato je smiselno spremljati naložbe v podjetja, ki so inovatorji ali zgodnji uporabniki te tehnologije.",
       "vpliv": [
-        "Zmanjšanje operativnih stroškov v finančnem sektorju",
-        "Povečana produktivnost finančnih institucij",
-        "Potencialni vpliv na zaposlovanje v bančništvu",
-        "Nove priložnosti za podjetja na področju AI"
+        "Avtomatizacija dela v finančnem sektorju",
+        "Potencialno povečanje učinkovitosti finančnih institucij",
+        "Vpliv na trg dela v financah",
+        "Rast povpraševanja po AI rešitvah"
       ],
       "vir": "CNBC",
       "vir_url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
       "objavljeno": "2026-09-11T16:06:31.000Z"
     },
     {
-      "naslov": "Britansko gospodarstvo julija nepričakovano zraslo za 0,4 % zaradi porasta AI",
-      "sektor": "Makro & Centralne banke",
+      "naslov": "Tesla Semi bi lahko preoblikoval transport in izkoristil visoke cene dizla",
+      "sektor": "Energetika & Tehnologija",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Gospodarstvo Združenega kraljestva je julija nepričakovano zraslo za 0,4 odstotka, kar predstavlja odporen začetek tretjega četrtletja. K tej rasti je pomembno prispeval porast umetne inteligence. Kljub temu pa naraščajoče cene nafte ponovno sprožajo strahove pred inflacijo, kar bi lahko vplivalo na prihodnje odločitve centralne banke. Ta mešanica podatkov kaže na kompleksno gospodarsko okolje, kjer tehnološki napredek poganja rast, medtem ko zunanji dejavniki, kot so cene energentov, predstavljajo tveganje.",
-      "analiza": "Nepričakovana rast britanskega gospodarstva v juliju za 0,4 % je pozitiven znak, ki kaže na odpornost in sposobnost prilagajanja. Posebej zanimiv je poudarek na prispevku umetne inteligence k tej rasti, kar potrjuje vlogo tehnoloških inovacij kot gonilne sile sodobnih gospodarstev. Vendar pa ta pozitivna novica prihaja v času, ko naraščajoče cene nafte, kot je danes viden padec WTI nafte za 2,32 % na 100,10 USD/sod in Brent nafte za 2,77 % na 104,65 USD/sod, ponovno oživljajo inflacijske strahove. To ustvarja dilemo za Bank of England, ki mora uravnotežiti podporo rasti z zajezitvijo inflacije. Na delniških trgih bi to lahko pomenilo podporo za britanska podjetja, zlasti tista v tehnološkem sektorju ali tista, ki so sposobna izkoristiti AI. Vendar pa splošni inflacijski pritiski lahko omejujejo optimizem. Za slovenske dolgoročne vlagatelje je to primer, kako lahko tehnološki napredek blaži makroekonomske izzive, hkrati pa je pomembno spremljati globalne cene surovin in odzive centralnih bank, saj ti dejavniki vplivajo na širše naložbeno okolje.",
+      "povzetek": "Tesla si prizadeva, da bi svoj dolgo pričakovani električni tovornjak Semi končno zagnala v polni prestavi, kar bi lahko odprlo ogromno priložnost, menijo pri Morgan Stanleyu. S tem bi lahko podjetje preoblikovalo tovorni promet in izkoristilo visoke cene dizla, ki so danes pomemben dejavnik inflacije. Prehod na električni pogon v tovornem prometu bi zmanjšal odvisnost od fosilnih goriv in operativne stroške za transportna podjetja. To bi lahko pomenilo pomemben premik v logistični industriji.",
+      "analiza": "Ozadje te novice je globalni trend dekarbonizacije in elektrifikacije transporta, ki se širi tudi na težka tovorna vozila. Pomen je v tem, da bi uspešna implementacija Teslinega Semi tovornjaka lahko predstavljala prelomnico v industriji, ki je tradicionalno močno odvisna od dizelskega goriva. Visoke cene dizla, ki so del širšega problema inflacije in rasti cen energentov, ustvarjajo močno spodbudo za iskanje alternativ. Mehanizem vpliva je direkten: če se Tesla Semi izkaže za stroškovno učinkovitejšega in okolju prijaznejšega, bi to lahko vodilo do masovnega prehoda transportnih podjetij na električna vozila. To bi imelo pozitiven vpliv na delnice Tesle in drugih podjetij v verigi dobave električnih vozil, medtem ko bi lahko negativno vplivalo na podjetja, ki so močno odvisna od prodaje dizelskih tovornjakov ali naftnih derivatov. Padec cen nafte WTI in Brent danes (za 2,51 % in 3,00 %) sicer zmanjšuje neposredni pritisk, a dolgoročni trend ostaja. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor električnih vozil in zelene energije še vedno obetaven, vendar je pomembno spremljati konkurenco in dejansko implementacijo novih tehnologij.",
       "vpliv": [
-        "Nepričakovana gospodarska rast v ZK (+0.4%)",
-        "Porast umetne inteligence kot gonilo rasti",
-        "Ponovno oživljeni inflacijski strahovi zaradi cen nafte",
-        "Dilema za Bank of England glede monetarne politike"
+        "Potencialna preoblikovanje tovornega prometa",
+        "Povečana priložnost za Teslo",
+        "Zmanjšanje odvisnosti od dizelskega goriva",
+        "Vpliv na delnice Tesle in transportnih podjetij"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-11T17:41:00.000Z"
+    },
+    {
+      "naslov": "Britansko gospodarstvo julija nepričakovano zraslo, pogon AI",
+      "sektor": "Makro & Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Britansko gospodarstvo je julija nepričakovano zraslo za 0,4 %, kar predstavlja odporen začetek tretjega četrtletja. Rast je bila delno spodbujena z razcvetom umetne inteligence (AI), kar kaže na vpliv tehnoloških inovacij na gospodarsko aktivnost. Ta rast prihaja v času, ko naraščajoče cene nafte ponovno oživljajo strahove pred inflacijo. Kljub temu je podatek o rasti pozitiven znak za britansko gospodarstvo in kaže na njegovo sposobnost prilagajanja.",
+      "analiza": "Ozadje te novice je splošna negotovost v globalnem gospodarstvu, ki se sooča z inflacijskimi pritiski in morebitnimi recesijskimi strahovi. Pomen te novice je v tem, da kaže na nepričakovano odpornost britanskega gospodarstva, ki je uspelo doseči rast kljub izzivom. Posebej zanimiv je poudarek na vlogi umetne inteligence kot gonilne sile rasti, kar potrjuje, da tehnološke inovacije lahko pomembno prispevajo h gospodarski ekspanziji. Mehanizem vpliva je, da rast BDP običajno pozitivno vpliva na delniške trge, saj kaže na zdravo gospodarsko okolje in potencial za rast dobičkov podjetij. Vendar pa je rast BDP v kontekstu naraščajočih cen nafte (čeprav so danes padle) in inflacijskih strahov mešano sporočilo za centralno banko, saj lahko spodbudi razmisleke o zaostrovanju monetarne politike. Kljub temu, da je DAX danes padel za 0,03 %, je širši evropski kontekst mešan. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja v gospodarstva, ki kažejo odpornost in so usmerjena v inovacije, kot je AI, lahko koristna. Hkrati je pomembno spremljati inflacijske pritiske in odzive centralnih bank, ki lahko vplivajo na celotno ekonomsko sliko.",
+      "vpliv": [
+        "Nepričakovana rast britanskega BDP (+0.4%)",
+        "Vpliv umetne inteligence na gospodarsko rast",
+        "Odporen začetek tretjega četrtletja",
+        "Mešani signali za monetarno politiko"
       ],
       "vir": "Financial Times",
       "vir_url": "https://www.ft.com/content/e1aacb1c-45d1-4d21-b5e9-0166c12c54cd?syn-25a6b1a6=1",
       "objavljeno": "2026-09-11T16:40:38.000Z"
-    },
-    {
-      "naslov": "Naraščajoči donosi obveznic lahko uničijo nekatere portfelje, druge pa napolnijo z denarjem",
-      "sektor": "Finance",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Članek razpravlja o tem, kako naraščajoči donosi obveznic različno vplivajo na naložbene portfelje. Medtem ko lahko nekateri portfelji utrpijo izgube zaradi padca cen obveznic, drugi, zlasti tisti z veliko gotovine ali kratkoročnimi naložbami, lahko izkoristijo višje donose. To poudarja pomen diverzifikacije in prilagajanja naložbene strategije spreminjajočim se tržnim razmeram. Naraščajoči donosi so neposredna posledica zaostrovanja monetarne politike in inflacijskih pritiskov.",
-      "analiza": "Naraščajoči donosi obveznic so trenutno ena izmed ključnih tem na finančnih trgih, kar se odraža tudi v današnji rasti donosnosti 10-letne ameriške državne obveznice za 0,38 % na 4,96 %. Ta trend ima kompleksne in raznolike posledice za vlagatelje. Za tiste, ki imajo v portfeljih dolgoročne obveznice, še posebej tiste, kupljene v obdobjih nižjih donosov, pomeni rast donosnosti padec tržne vrednosti njihovih naložb. Nasprotno pa vlagatelji, ki imajo veliko gotovine ali vlagajo v kratkoročne obveznice, lahko izkoristijo višje donose in s tem povečajo svoje prihodke. To ustvarja priložnost za 're-investiranje' po višjih stopnjah. Na delniških trgih višji donosi obveznic povečujejo stroške zadolževanja za podjetja in zmanjšujejo privlačnost delnic v primerjavi z manj tveganimi obveznicami, kar lahko povzroči pritisk na vrednotenja. Vendar pa lahko podjetja z močnimi bilancami in generiranjem prostega denarnega toka ostanejo odporna. Za slovenskega dolgoročnega vlagatelja je ključno razumevanje, da se v okolju rastočih obrestnih mer spreminja optimalna alokacija sredstev. Namesto panike je pomembno pregledati strukturo portfelja, razmisliti o diverzifikaciji in se zavedati, da so višji donosi obveznic lahko tudi priložnost za prihodnje donose, če se sredstva ustrezno prerazporedijo.",
-      "vpliv": [
-        "Padec tržne vrednosti dolgoročnih obveznic",
-        "Višji donosi za gotovinske in kratkoročne naložbe",
-        "Povečani stroški zadolževanja za podjetja",
-        "Zmanjšana privlačnost delnic v primerjavi z obveznicami"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/how-rising-bond-yields-can-wreck-some-portfolios-while-pumping-up-others-with-cash-c415faf3?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-11T16:17:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-11T18:42:47.633Z",
+    "posodobljenoOb": "2026-09-11T18:47:00.942Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7666.82,
-        "sprememba_pct": 0.99
+        "vrednost": 7664.61,
+        "sprememba_pct": 0.96
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29426.652,
-        "sprememba_pct": 1.11
+        "vrednost": 29414.945,
+        "sprememba_pct": 1.07
       },
       {
         "simbol": "^GDAXI",
@@ -141,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4388.7,
-        "sprememba_pct": -0.42,
+        "vrednost": 4392.1,
+        "sprememba_pct": -0.34,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 100.1,
-        "sprememba_pct": -2.32,
+        "vrednost": 99.91,
+        "sprememba_pct": -2.51,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 104.65,
-        "sprememba_pct": -2.77,
+        "vrednost": 104.4,
+        "sprememba_pct": -3,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1597,
-        "sprememba_pct": -0.14
+        "vrednost": 1.1596,
+        "sprememba_pct": -0.15
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.963,
-        "sprememba_pct": 0.38,
+        "vrednost": 4.967,
+        "sprememba_pct": 0.47,
         "enota": "%"
       }
     ],
@@ -181,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 77145.59,
-        "sprememba_pct": 0.8,
+        "vrednost": 77059.63,
+        "sprememba_pct": 0.68,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.65,
-      "sprememba_pct": -12.28
+      "vrednost": 15.67,
+      "sprememba_pct": -12.16
     }
   }
 }
