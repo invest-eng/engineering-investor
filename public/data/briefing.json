@@ -1,99 +1,116 @@
 {
-  "generiranoOb": "2026-09-12T17:51:04.164Z",
+  "generiranoOb": "2026-09-12T17:55:14.380Z",
   "izdaja": "afternoon",
-  "model": "gemini-2.5-flash",
+  "model": "gemini-2.5-flash-lite",
   "tier": "free",
   "datum": "2026-09-12",
-  "povzetek": "Evropski delniški trgi so danes zaključili s pozitivno rastjo, pri čemer je nemški indeks DAX zrasel za 0.82 % na 25569 točk. Tudi ameriški trgi so po dveh urah trgovanja kazali optimizem, saj je S&P 500 beležil rast za 0.86 % na 7657 točk, tehnološko usmerjeni Nasdaq 100 pa je pridobil 0.91 % in dosegel 29368 točk. Medtem ko so delnice rasle, so cene nafte padle; WTI nafta se je znižala za 2.37 % na 100.05 USD/sod, Brent nafta pa za 2.81 % na 104.61 USD/sod, kar je morda odraz zaskrbljenosti glede povpraševanja ali geopolitičnih dogodkov. Zlato je ostalo stabilno pri 4408.90 USD/oz (+0.04 %), medtem ko je VIX indeks volatilnosti padel za 11.21 % na 15.84, kar nakazuje na zmanjšanje negotovosti na trgu. Geopolitične napetosti na Bližnjem vzhodu, zlasti glede Houthijev in prizadevanj BRICS za mir v Zalivu, ostajajo v fokusu, prav tako pa tudi razprave o regulaciji umetne inteligence in razvoj domačih dobavnih verig za baterije v ZDA. Vlagatelji bodo v prihodnjih dneh pozorno spremljali objave makroekonomskih podatkov in morebitne izjave centralnih bankirjev, ki bi lahko vplivale na pričakovanja glede obrestnih mer.",
+  "povzetek": "Evropski trgi so se danes ob koncu trgovanja zabeležili rast, saj je DAX dosegel 25.569 točk (+0,82 %). Ameriški trgi so ob odprtju pokazali podobno pozitivno sliko, pri čemer je S&P 500 dosegel 7.657 točk (+0,86 %) in Nasdaq 100 29.368 točk (+0,91 %). Medtem ko so cene nafte WTI in Brent zabeležile padec za več kot 2,5 %, je zlato ostalo skoraj nespremenjeno. V ospredju novic je bilo poročilo o pozivu vodilnih podjetij na področju umetne inteligence k upočasnitvi razvoja zaradi varnostnih pomislekov, medtem ko je v geopolitiki odmevala novica o prevzemu strateškega otoka Mayun s strani Houthijev v Jemnu, kar je povzročilo zaskrbljenost glede pomorskih poti. V ZDA je sodna odločitev zavrnila poskus ohranjanja premogovne elektrarne odprte, kar nakazuje na nadaljnji pritisk na fosilna goriva. Vlagatelji bodo ta teden pozorno spremljali objave podatkov o inflaciji v ZDA in Evropi ter zasedanje Evropske centralne banke.",
   "novice": [
     {
-      "naslov": "Musk podpira pozive k upočasnitvi razvoja umetne inteligence zaradi tveganj",
+      "naslov": "Voditelji AI pozivajo k upočasnitvi razvoja zaradi varnostnih tveganj",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Elon Musk je izrazil podporo pozivom podjetja Anthropic, da se upočasni napredek na področju umetne inteligence, preden 'zlonamerni boti prevzamejo celoten internet'. Vodilni v večjih podjetjih za umetno inteligenco se strinjajo z izvršnim direktorjem Anthropic, Dariom Amodeijem, ki je pozval tehnološko industrijo k počasnejšemu razvoju modelov. Novica, objavljena 12. septembra 2026 ob 17:20:00.000Z, poudarja naraščajočo zaskrbljenost glede varnosti in etike v hitro razvijajočem se sektorju umetne inteligence.",
-      "analiza": "Ozadje te novice je hitra in eksponentna rast zmogljivosti umetne inteligence v zadnjih letih, ki je sprožila tako navdušenje kot tudi resne pomisleke glede njenega potencialnega vpliva na družbo in varnost. Pozivi k upočasnitvi razvoja niso novi, vendar pridobivajo na teži, ko jih podpirajo vplivne osebnosti, kot je Elon Musk, in vodilni v industriji. Za finančne trge to pomeni potencialno povečanje regulativnega tveganja za podjetja v sektorju umetne inteligence. Morebitne strožje regulacije bi lahko upočasnile inovacije, povečale stroške razvoja in zmanjšale pričakovane dobičke, kar bi lahko negativno vplivalo na vrednotenja delnic tehnoloških podjetij, še posebej tistih, ki so močno izpostavljena razvoju AI. Vpliv bi se lahko razširil tudi na širši trg, saj je AI gonilna sila rasti v mnogih sektorjih. Zgodovinsko gledano so regulativni posegi v hitro rastoče industrije (npr. farmacija, internet v zgodnjih fazah) pogosto povzročili kratkoročno volatilnost, dolgoročno pa so lahko pripomogli k stabilizaciji in trajnostni rasti. Slovenski dolgoročni vlagatelji, ki imajo v portfeljih globalne tehnološke sklade ali delnice podjetij, ki razvijajo AI, naj bodo pozorni na razvoj regulativnih okvirov, saj lahko ti pomembno vplivajo na prihodnje donose.",
+      "intenziteta": 3,
+      "povzetek": "Voditelji vodilnih podjetij na področju umetne inteligence, vključno z Anthropic, so javno podprli poziv k upočasnitvi razvoja novih modelov umetne inteligence. Glavni razlogi so zaskrbljenost glede morebitne zlorabe tehnologije in nevarnosti nekontroliranega širjenja 'rogue botov' po internetu. Ta pobuda je bila objavljena 12. septembra 2026 ob 17:20 UTC. Elon Musk je javno podprl to stališče.",
+      "analiza": "Novica o pozivu k upočasnitvi razvoja umetne inteligence predstavlja pomemben premik v industriji, ki je bila doslej usmerjena v hitro inovativnost. Ozadje je v naraščajoči moči in potencialni zlorabi naprednih AI sistemov, kar je postalo tema javne razprave med vodilnimi akterji. Ta premik lahko vpliva na naložbe v AI podjetja, saj lahko upočasnitev razvoja pomeni daljše cikle razvoja in manjše, a bolj premišljene inovacije. Delnice podjetij, ki so močno odvisna od hitrega lansiranja novih AI produktov, bi lahko doživele kratkoročni pritisk. Po drugi strani pa bi lahko podjetja, ki se osredotočajo na varnost in etiko AI, pridobila na ugledu in zaupanju. Vpliv na obveznice je verjetno omejen, razen če bi širše gospodarske posledice upočasnitve tehnološkega napredka postale opazne. Kriptovalute, ki se vse bolj povezujejo z AI, bi lahko prav tako občutile negotovost. Za slovenskega dolgoročnega vlagatelja to pomeni potrebo po bolj skrbni oceni naložb v tehnološki sektor, s poudarkom na podjetjih, ki se zavedajo in obvladujejo etična tveganja.",
       "vpliv": [
-        "Povečano regulativno tveganje za AI podjetja",
-        "Potencialno zmanjšanje rasti v tehnološkem sektorju",
-        "Negativen vpliv na delnice podjetij, ki razvijajo AI",
-        "Povečana volatilnost v tehnoloških delnicah"
+        "potencialno zmanjšanje naložb v hitro rastoča AI podjetja",
+        "povečano zanimanje za podjetja s poudarkom na varnosti AI",
+        "negotovost na tehnoloških delniških trgih",
+        "možen vpliv na razvoj s kriptovalutami povezanih AI projektov"
       ],
       "vir": "MarketWatch",
       "vir_url": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
       "objavljeno": "2026-09-12T17:20:00.000Z"
     },
     {
-      "naslov": "Houthiji zavzeli strateški otok Mayun, kar povečuje napetosti v Rdečem morju",
+      "naslov": "Houthiji prevzeli strateški otok Mayun, krepi se napetost v regiji",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Houthiji, ki jih podpira Iran, so zavzeli strateški otok Mayun v Jemnu, kar utrjuje njihov položaj v Bab al-Mandebu, ključnem pomorskem prehodu med Rdečim morjem in Adenskim zalivom. Čeprav je dolgoročno zadržanje otoka lahko težavno, ta poteza močno krepi njihov nadzor nad pomembno ladijsko potjo. Iranski uradniki so pozdravili zmage Houthijev, vendar niso govorili o neposrednem zaprtju Bab al-Mandeba. Novica je bila objavljena 12. septembra 2026 ob 13:45:00.000Z na Al Jazeeri.",
-      "analiza": "Zavzetje otoka Mayun s strani Houthijev predstavlja pomembno eskalacijo v dolgotrajnem jemenskem konfliktu in ima daljnosežne geopolitične posledice. Otok Mayun je strateško lociran ob Bab al-Mandebu, eni najpomembnejših svetovnih pomorskih poti za transport nafte in blaga. Nadzor nad tem prehodom omogoča Houthijem potencialno motenje globalne trgovine, kar neposredno vpliva na cene surovin, zlasti nafte. Že sedaj so cene WTI nafte padle za 2.37 % na 100.05 USD/sod in Brent nafte za 2.81 % na 104.61 USD/sod, kar bi se lahko ob morebitni eskalaciji hitro obrnilo. Povečane napetosti v regiji običajno vodijo do višjih premij za tveganje, kar se odraža v padcu delniških trgov in rasti cen varnih zatočišč, kot je zlato, ki je danes pri 4408.90 USD/oz. Obvezniški donosi, kot je 10-letna ameriška obveznica pri 4.97 %, bi se lahko znižali, če bi vlagatelji iskali varnost. Za valute bi to pomenilo krepitev USD kot varne valute. Slovenski dolgoročni vlagatelji naj bodo pozorni na razvoj dogodkov v Rdečem morju, saj lahko vsaka motnja v ladijskem prometu povzroči inflacijske pritiske in vpliva na globalne dobavne verige, kar se odraža v cenah energentov in širši gospodarski stabilnosti.",
+      "povzetek": "Jemenske sile, ki jih podpira Iran, so prevzele nadzor nad strateško pomembnim otokom Mayun v Bab al-Mandabski ožini. Ta poteza krepi položaj Houthijev ob Rdečem morju, vendar pa bi lahko dolgoročno obdržanje otoka predstavljalo izziv. Novica je bila objavljena 12. septembra 2026 ob 13:45 UTC. Iran je prevzem pozdravil kot 'božjo zmago'.",
+      "analiza": "Prevzem otoka Mayun s strani Houthijev je pomemben strateški premik v regiji Rdečega morja, ki je ključna za globalno pomorsko trgovino. Houthiji s tem utrjujejo svoj nadzor nad Bab al-Mandabsko ožino, ki je ena najpomembnejših pomorskih poti na svetu. To lahko povzroči dodatne napetosti med Iranom in Savdsko Arabijo ter drugimi zalivskimi državami, ki podpirajo jemensko vlado. Geopolitična nestabilnost v regiji ima neposredne posledice na cene nafte, saj lahko skrbi glede varnosti pomorskih poti povzročijo dvig cen zaradi strahu pred motnjami v dobavi. Trenutno ceni nafte WTI in Brent beležita padec, kar nakazuje, da trgi še ne pričakujejo resnih motenj, vendar pa je ta dogodek potencialni katalizator za prihodnje gibanje cen. Vpliv na valute je lahko opazen v obliki oslabitve valut držav v regiji ali povečane vrednosti ameriškega dolarja kot varnega pribežališča. Delniški trgi, zlasti energetskega sektorja, bodo pozorno spremljali razvoj dogodkov. Za slovenskega dolgoročnega vlagatelja to pomeni povečano tveganje zaradi geopolitične nestabilnosti, ki lahko vpliva na globalne dobavne verige in cene energentov.",
       "vpliv": [
-        "Potencialno motenje globalnega ladijskega prometa",
-        "Povečanje cen nafte in plina ob eskalaciji",
-        "Rast premije za tveganje na finančnih trgih",
-        "Krepitev USD kot varne valute"
+        "potencialno zvišanje cen nafte v primeru motenj v dobavi",
+        "povečana nestabilnost valut v regiji",
+        "negativen vpliv na delnice energetskih podjetij, ki so izpostavljene regiji",
+        "povečana pozornost na varnost pomorskih poti"
       ],
       "vir": "Al Jazeera",
       "vir_url": "https://www.aljazeera.com/news/2026/9/12/iran-backed-houthis-seize-strategic-mayun-island-can-they-hold-it?traffic_source=rss",
       "objavljeno": "2026-09-12T13:45:00.000Z"
     },
     {
-      "naslov": "GM načrtuje razvoj baterij v ZDA, medtem ko Trump napada Forda zaradi Kitajske",
+      "naslov": "Ameriško sodišče zavrnilo Trumpov ukaz za ohranitev premogovne elektrarne",
       "sektor": "Energetika",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "General Motors (GM) načrtuje razvoj baterij v ZDA, da bi vzpostavil domače dobavne verige za električna vozila (EV) in shranjevanje energije. Večina baterijskih celic trenutno temelji na surovinah iz Kitajske. To se dogaja v času, ko Trumpovo ministrstvo za promet (DOT) kritizira Ford zaradi njegovih vezi s Kitajsko. Novica, objavljena 12. septembra 2026 ob 12:00:01.000Z, poudarja prizadevanja ZDA za zmanjšanje odvisnosti od tujih dobavnih verig, zlasti od Kitajske, v ključnih industrijskih sektorjih.",
-      "analiza": "Ta novica se nanaša na širši globalni trend zmanjševanja odvisnosti od posameznih dobaviteljev in krepitve domačih dobavnih verig, kar je še posebej izrazito v sektorju električnih vozil in baterij. Geopolitične napetosti med ZDA in Kitajsko, skupaj s pandemijo COVID-19 in vojno v Ukrajini, so poudarile ranljivost globaliziranih dobavnih verig. Poteza GM-a je pozitivna za ameriško gospodarstvo, saj bo ustvarila delovna mesta in zmanjšala tveganja v dobavni verigi, kar bi lahko dolgoročno stabiliziralo proizvodnjo EV. Vendar pa Trumpova kritika Forda kaže na politično polarizacijo in morebitne protekcionistične ukrepe, ki bi lahko vplivali na mednarodne avtomobilske proizvajalce. Za delnice avtomobilskih podjetij bi to lahko pomenilo višje stroške v kratkem roku zaradi vzpostavljanja novih verig, a dolgoročno večjo odpornost. Na surovinskem trgu bi se lahko povečalo povpraševanje po kritičnih mineralih, pridobljenih izven Kitajske. Za slovenske dolgoročne vlagatelje, ki so izpostavljeni globalnemu avtomobilskemu sektorju ali sektorju baterij, je to pomemben signal o preoblikovanju industrije in premikanju proizvodnih zmogljivosti, kar lahko vpliva na konkurenčnost in profitabilnost podjetij v portfelju.",
-      "vpliv": [
-        "Spodbujanje domače proizvodnje baterij v ZDA",
-        "Potencialno višji stroški za avtomobilske proizvajalce v kratkem roku",
-        "Zmanjšanje odvisnosti od kitajskih dobavnih verig",
-        "Povečano povpraševanje po kritičnih mineralih izven Kitajske"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
-      "objavljeno": "2026-09-12T12:00:01.000Z"
-    },
-    {
-      "naslov": "Ameriško sodišče zavrnilo Trumpov nujni ukaz za ohranitev elektrarne na premog",
-      "sektor": "Energetika",
-      "smer": "mešano",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Ameriško sodišče je zavrnilo nujni ukaz Donalda Trumpa, ki bi ohranil delovanje elektrarne na premog v Michiganu. Sodišče je odločilo, da je Ministrstvo za energijo preseglo svoja pooblastila z razširitvijo delovanja elektrarne. Novica je bila objavljena 12. septembra 2026 ob 15:34:51.000Z na Al Jazeeri.",
-      "analiza": "Ta sodna odločitev poudarja nenehno napetost med prizadevanji za okoljsko trajnost in energetsko varnostjo, še posebej v kontekstu ameriške energetske politike. Zavrnitev Trumpovega ukaza kaže na omejitve izvršne oblasti in pomen sodne veje pri določanju energetske prihodnosti države. Za sektor energetike to pomeni nadaljevanje trenda opuščanja fosilnih goriv in prehod na čistejše vire energije, kar je dolgoročno pozitivno za podjetja v sektorju obnovljivih virov in negativno za tiste, ki so močno odvisni od premoga. Na trgu obveznic bi lahko to vplivalo na obveznice podjetij, ki so izpostavljena premogu, saj se povečuje njihovo tveganje. Za delnice podjetij, ki se ukvarjajo z obnovljivimi viri energije, bi to lahko bil pozitiven signal. Hkrati pa lahko zapiranje premogovnih elektrarn kratkoročno vpliva na stabilnost omrežja in cene električne energije, kar bi lahko povzročilo nihanja. V širšem kontekstu to odraža globalna prizadevanja za zmanjšanje emisij, ki so ključna za boj proti podnebnim spremembam. Slovenski dolgoročni vlagatelji, ki imajo naložbe v globalni energetski sektor, naj bodo pozorni na regulativne spremembe in sodne odločitve, saj te pomembno vplivajo na poslovne modele in dolgoročno vrednost podjetij v tem sektorju.",
+      "povzetek": "Ameriško sodišče je zavrnilo izredno odredbo predsednika Trumpa, ki bi ohranila premogovno elektrarno v Michiganu odprto. Sodišče je presodilo, da je Ministrstvo za energijo preseglo svoja pooblastila z podaljšanjem obratovanja elektrarne. Novica je bila objavljena 12. septembra 2026 ob 15:34 UTC.",
+      "analiza": "Odločitev ameriškega sodišča predstavlja nadaljnji korak v smeri zmanjševanja odvisnosti od fosilnih goriv v ZDA, kar je v skladu s širšimi globalnimi trendi prehoda na čistejše vire energije. Čeprav je bil ukaz predsednika Trumpa namenjen ohranitvi delovnih mest in zagotavljanju energetske varnosti, je sodišče poudarilo pravne okvire, ki omejujejo takšne posege. Ta odločitev lahko pospeši prehod na obnovljive vire energije in druge čistejše tehnologije v energetskem sektorju ZDA. Vpliv na delnice podjetij, ki se ukvarjajo z obnovljivimi viri energije, je lahko pozitiven, medtem ko bi lahko podjetja, ki so močno odvisna od premoga, doživela dodatne pritiske. Cene fosilnih goriv, kot sta nafta in plin, bi lahko na dolgi rok doživele zmanjšanje povpraševanja zaradi takšnih regulativnih odločitev. Vpliv na obveznice je lahko posreden, preko splošnega gospodarskega okolja. Za slovenskega dolgoročnega vlagatelja to pomeni, da se trend prehoda na zeleno energijo v razvitih gospodarstvih nadaljuje, kar ponuja priložnosti v podjetjih, ki so del te tranzicije.",
       "vpliv": [
-        "Pospeševanje prehoda na obnovljive vire energije v ZDA",
-        "Negativen vpliv na podjetja, odvisna od premoga",
-        "Potencialno kratkoročno nihanje cen električne energije",
-        "Povečana regulativna negotovost za fosilna goriva"
+        "potencialno povečanje naložb v obnovljive vire energije v ZDA",
+        "pritisk na podjetja, ki še vedno temeljijo na premogu",
+        "dolgooročno zmanjšanje povpraševanja po fosilnih gorivih",
+        "pozitiven vpliv na podjetja s tehnologijami za shranjevanje energije"
       ],
       "vir": "Al Jazeera",
       "vir_url": "https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss",
       "objavljeno": "2026-09-12T15:34:51.000Z"
     },
     {
-      "naslov": "Stranka Reform UK prejela rekordni donaciji v višini 72 milijonov funtov",
+      "naslov": "Donacije kripto milijarderjev Reform UK rekordne, vpliv na politiko",
       "sektor": "Finance",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Stranka Reform UK je prejela dve rekordni donaciji v skupni višini 72 milijonov funtov od kripto milijarderjev Bena Dela in Christopherja Harborna. Ti dve donaciji, vsaka v višini 36 milijonov funtov, sta največji donaciji v britanski politični zgodovini. Novica je bila objavljena 12. septembra 2026 ob 12:25:10.000Z v Financial Timesu.",
-      "analiza": "Ta novica poudarja naraščajoč vpliv posameznikov z velikim premoženjem, zlasti iz sektorja kriptovalut, na politično krajino. Rekordne donacije stranki Reform UK, ki je znana po svojih evroskeptičnih in desničarskih stališčih, bi lahko pomembno spremenile dinamiko britanske politike pred prihodnjimi volitvami. To lahko povzroči povečano politično negotovost, kar se običajno odraža v nihanjih na finančnih trgih, še posebej na britanskem funtu (EUR/USD je danes pri 1.1601 z -0.10 % spremembo) in delniškem trgu v Londonu. Vpliv kripto milijarderjev na tradicionalno politiko kaže tudi na vse večje prepletanje med digitalnim premoženjem in realno ekonomijo, kar lahko sproži razprave o regulaciji političnega financiranja in preglednosti. Za kripto trge, kot je Bitcoin, ki je danes pri 77220 USD (+0.02 %), to morda pomeni večjo prepoznavnost in legitimizacijo, a hkrati tudi tveganje za strožjo regulacijo, če se bo vpliv kripto premoženja na politiko štel za problematičnega. Slovenski dolgoročni vlagatelji, ki imajo naložbe v britanske delnice ali funt, naj bodo pozorni na politični razvoj v Združenem kraljestvu, saj lahko spremembe v vladni politiki in stabilnosti vplivajo na gospodarsko okolje in vrednost naložb.",
+      "povzetek": "Britanska politična stranka Reform UK je prejela dve rekordni donaciji v skupni vrednosti 72 milijonov funtov od kripto milijarderjev Bena Dela in Christopherja Harborna. To so največje donacije v zgodovini britanske politike. Novica je bila objavljena 12. septembra 2026 ob 12:25 UTC.",
+      "analiza": "Ogromne donacije kripto milijarderjev politični stranki Reform UK kažejo na naraščajoč vpliv kripto industrije in njenih akterjev na politično dogajanje, ne le v Veliki Britaniji, temveč potencialno tudi širše. Takšne donacije lahko vplivajo na oblikovanje političnih prioritet in regulacij, zlasti na področju financ in tehnologije. Vpliv na finančne trge je lahko dvojak: na eni strani lahko pozitivno vpliva na vrednost kriptovalut, če stranka zagovarja pro-kripto politike, na drugi strani pa lahko poveča negotovost glede prihodnje regulacije kripto sektorja. Delnice podjetij, ki so povezana s kripto, bi lahko bile bolj nestanovitne. Obvezniški trgi so manj neposredno prizadeti, razen če bi šlo za širše gospodarske posledice sprememb v politiki. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati, kako se bo ta trend vpliva kripto kapitala na politiko razvijal, saj lahko to dolgoročno vpliva na regulativno okolje za finančne inovacije.",
       "vpliv": [
-        "Povečana politična negotovost v Združenem kraljestvu",
-        "Potencialno nihanje vrednosti britanskega funta",
-        "Razprave o regulaciji političnega financiranja",
-        "Povečan vpliv kripto premoženja na politiko"
+        "potencialno povečanje vrednosti kriptovalut zaradi politične podpore",
+        "povečana negotovost glede prihodnje regulacije kripto sektorja",
+        "vpliv na delnice podjetij, povezanih s kripto",
+        "možen pritisk na tradicionalne finančne institucije"
       ],
       "vir": "Financial Times",
       "vir_url": "https://www.ft.com/content/936ac952-43a6-44d5-be69-afa344e042f5?syn-25a6b1a6=1",
       "objavljeno": "2026-09-12T12:25:10.000Z"
+    },
+    {
+      "naslov": "Indija poziva k opolnomočenju Globalnega juga na vrhu BRICS",
+      "sektor": "Makro & Centralne banke",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Indijski premier Narendra Modi je na vrhu BRICS pozval k prenovi globalnega upravljanja in opolnomočenju Globalnega juga. Poudaril je potrebo po večji vključenosti držav v razvoju v odločevalske procese. Novica je bila objavljena 12. septembra 2026 ob 12:19 UTC.",
+      "analiza": "Poziv Indije k opolnomočenju Globalnega juga na vrhu BRICS odraža naraščajoče geopolitične in ekonomske ambicije držav v razvoju, ki želijo večji vpliv v mednarodnih institucijah. To bi lahko vodilo do sprememb v globalnih trgovinskih sporazumih, finančnih tokovih in načinih reševanja globalnih izzivov. Vpliv na finančne trge bi bil lahko v obliki večje nestanovitnosti v času prehoda na novo globalno ureditev, vendar pa bi lahko dolgoročno prinesel večjo stabilnost in pravičnost. Delnice podjetij, ki so usmerjena v rast v državah v razvoju, bi lahko imele koristi. Valute držav Globalnega juga bi lahko pridobile na vrednosti, če bi se njihova gospodarska moč dejansko povečala. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba spremljati premike v globalnem gospodarskem in političnem ravnotežju, saj lahko vplivajo na dolgoročne naložbene strategije.",
+      "vpliv": [
+        "potencialno povečanje naložb v države v razvoju",
+        "večja konkurenca za razvite trge",
+        "spremembe v globalnih trgovinskih tokovih",
+        "povečana vloga BRICS v globalnem upravljanju"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss",
+      "objavljeno": "2026-09-12T12:19:56.000Z"
+    },
+    {
+      "naslov": "GM načrtuje razvoj baterij v ZDA, Trump kritizira Fordove povezave s Kitajsko",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "General Motors (GM) načrtuje razvoj baterij v ZDA, da bi zmanjšal odvisnost od Kitajske, medtem ko predsednik Trump kritizira Fordove poslovne povezave s Kitajsko. Večina baterijskih celic trenutno uporablja surovine iz Kitajske. GM si prizadeva za vzpostavitev domačih dobavnih verig tako za električna vozila kot za shranjevanje energije. Novica je bila objavljena 12. septembra 2026 ob 12:00 UTC.",
+      "analiza": "Prizadevanja GM za razvoj domačih dobavnih verig za baterije odražajo širši trend v avtomobilski industriji, ki se želi zmanjšati odvisnost od Kitajske, zlasti glede kritičnih surovin in proizvodnje. Ta poteza bi lahko pozitivno vplivala na ameriško gospodarstvo z ustvarjanjem novih delovnih mest in tehnološkim razvojem. Kritike predsednika Trumpa na račun Forda poudarjajo politični pritisk na podjetja, naj preusmerijo svoje proizvodne in dobavne verige stran od Kitajske. Vpliv na delnice avtomobilskih proizvajalcev je lahko mešan: podjetja, ki uspešno vzpostavljajo domače dobavne verige, bi lahko pridobila konkurenčno prednost, medtem ko bi tista, ki ostajajo odvisna od Kitajske, lahko čutila pritisk. Cene surovin za baterije bi lahko postale bolj nestanovitne, če se bo povpraševanje po domačih virih povečalo. Za slovenskega dolgoročnega vlagatelja to pomeni, da se globalna avtomobilska industrija transformira, pri čemer postaja strateška pomembnost dobavnih verig in zmanjševanje odvisnosti od posameznih držav ključnega pomena.",
+      "vpliv": [
+        "potencialno povečanje naložb v podjetja, ki proizvajajo baterije v ZDA",
+        "pritisk na avtomobilska podjetja z močnimi vezmi s Kitajsko",
+        "možno povečanje stroškov proizvodnje baterij v kratkem roku",
+        "spremembe v globalnih dobavnih verigah za avtomobilsko industrijo"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
+      "objavljeno": "2026-09-12T12:00:01.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-12T17:47:38.000Z",
+    "posodobljenoOb": "2026-09-12T17:54:13.177Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -164,8 +181,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 77219.58,
-        "sprememba_pct": 0.02,
+        "vrednost": 77165.41,
+        "sprememba_pct": -0.05,
         "enota": "USD"
       }
     ],
