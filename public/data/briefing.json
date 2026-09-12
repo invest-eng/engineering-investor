@@ -1,116 +1,99 @@
 {
-  "generiranoOb": "2026-09-12T08:38:56.208Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-09-12T17:51:04.164Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-09-12",
-  "povzetek": "Jutranja izdaja, 12. september 2026. Ameriški trgi so noč zaključili v pozitivnem tonu, saj je S&P 500 zrasel za 0,86 % na 7657 točk, tehnološko usmerjeni Nasdaq 100 pa za 0,91 % na 29368 točk. Evropski DAX je sledil trendu z rastjo 0,82 % na 25569 točk, medtem ko so azijski trgi, zlasti Nikkei 225, zabeležili padec za 1,93 % na 64011 točk. Cene nafte so se znižale, WTI nafta je padla za 2,37 % na 100,05 USD/sod, Brent pa za 2,81 % na 104,61 USD/sod, kar je verjetno odraz geopolitičnih napetosti in skrbi glede povpraševanja. Donosnost 10-letne ameriške državne obveznice se je zvišala za 0,63 % na 4,97 %, kar kaže na povečane inflacijske pritiske ali pričakovanja glede monetarne politike. V ospredju so danes odprtje vrha BRICS v Indiji, napadi na naftovod v Savdski Arabiji in razprave o morebitnih zvišanjih obrestnih mer s strani ameriške centralne banke. Vlagatelji bodo ta teden pozorno spremljali morebitne objave o inflaciji in odločitve centralnih bank.",
+  "povzetek": "Evropski delniški trgi so danes zaključili s pozitivno rastjo, pri čemer je nemški indeks DAX zrasel za 0.82 % na 25569 točk. Tudi ameriški trgi so po dveh urah trgovanja kazali optimizem, saj je S&P 500 beležil rast za 0.86 % na 7657 točk, tehnološko usmerjeni Nasdaq 100 pa je pridobil 0.91 % in dosegel 29368 točk. Medtem ko so delnice rasle, so cene nafte padle; WTI nafta se je znižala za 2.37 % na 100.05 USD/sod, Brent nafta pa za 2.81 % na 104.61 USD/sod, kar je morda odraz zaskrbljenosti glede povpraševanja ali geopolitičnih dogodkov. Zlato je ostalo stabilno pri 4408.90 USD/oz (+0.04 %), medtem ko je VIX indeks volatilnosti padel za 11.21 % na 15.84, kar nakazuje na zmanjšanje negotovosti na trgu. Geopolitične napetosti na Bližnjem vzhodu, zlasti glede Houthijev in prizadevanj BRICS za mir v Zalivu, ostajajo v fokusu, prav tako pa tudi razprave o regulaciji umetne inteligence in razvoj domačih dobavnih verig za baterije v ZDA. Vlagatelji bodo v prihodnjih dneh pozorno spremljali objave makroekonomskih podatkov in morebitne izjave centralnih bankirjev, ki bi lahko vplivale na pričakovanja glede obrestnih mer.",
   "novice": [
     {
-      "naslov": "Vrh BRICS v New Delhiju se osredotoča na vojne, napetosti in carine",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "V New Delhiju se je odprl vrh držav BRICS, ki poteka v senci globalnih vojn, naraščajočih geopolitičnih napetosti in trgovinskih carin. Glavne teme razprav vključujejo tarife in geopolitične razkole, ki vplivajo na svetovno gospodarstvo. Predsednika Rusije in Irana, Putin in Pezeshkian, sta pred začetkom vrha kritizirala prevlado ameriškega dolarja, kar poudarja prizadevanja bloka za zmanjšanje odvisnosti od zahodnih finančnih sistemov. Kitajski predsednik Xi Jinping je prav tako prispel v Indijo, kar kaže na pomen dogodka za države članice. Summit se osredotoča tudi na vojne na Bližnjem vzhodu in v Ukrajini ter na globalno energetsko varnost.",
-      "analiza": "Vrh BRICS, ki se odvija v New Delhiju, je ključen dogodek za razumevanje spreminjajočega se globalnega geopolitičnega in ekonomskega reda. V ozadju so naraščajoče napetosti med zahodnimi državami in blokom BRICS, ki si prizadeva za večjo avtonomijo in vpliv na svetovni oder. Razprave o carinah in globalnih razkolih neposredno vplivajo na mednarodno trgovino in globalne dobavne verige. Prizadevanja za zmanjšanje prevlade ameriškega dolarja, kot sta jih izrazila Putin in Pezeshkian, lahko dolgoročno vplivajo na stabilnost valutnih trgov in povpraševanje po ameriških državnih obveznicah. To bi lahko povzročilo nihanja pri valutnem paru EUR/USD, ki je danes pri 1.1602. Za surovine, kot sta nafta in zlato, bi povečana geopolitična nestabilnost lahko pomenila rast cen, čeprav so danes cene nafte padle (WTI na 100,05 USD/sod, Brent na 104,61 USD/sod). Za delniške trge, vključno z S&P 500 in DAX, bi nadaljnje zaostrovanje trgovinskih vojn in geopolitičnih trenj predstavljalo tveganje za dobičke multinacionalnih podjetij. V preteklosti so podobna prizadevanja za oblikovanje alternativnih ekonomskih blokov pogosto vodila do povečane volatilnosti na trgih, kar se odraža tudi v današnjem VIX-u pri 15.84. Vlagatelji bodo morali pozorno spremljati izjave in morebitne dogovore s srečanja, saj lahko ti določijo smer globalne trgovine in finančnih tokov. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja in razumevanje globalnih makroekonomskih trendov ključnega pomena za obvladovanje tveganj v vse bolj polariziranem svetu.",
-      "vpliv": [
-        "Povečana geopolitična tveganja",
-        "Potencialno zmanjšanje prevlade USD",
-        "Nihanja na valutnih in surovinskih trgih",
-        "Tveganje za globalno trgovino"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
-      "objavljeno": "2026-09-12T07:40:50.000Z"
-    },
-    {
-      "naslov": "Savdska Arabija zaprla naftovod po napadu z droni iz Iraka",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Savdska Arabija je zaprla svoj ključni naftovod East-West po napadu z droni, ki naj bi izviral iz Iraka. Napad je povzročil škodo na naftovodu, kar je potrdila tudi satelitska slika. Rijad je napad pripisal silam iz Iraka, medtem ko je Irak napad obsodil in odpustil vojaškega poveljnika, ki je vodil operacije v provinci Maysan. Incident se je zgodil v času, ko jemenska vlada izvaja protinapade na Hutije z zračnimi napadi, kar kaže na širšo regionalno nestabilnost. Zaprtje naftovoda, ki je ključnega pomena za izvoz nafte, ima takojšnje posledice za globalno oskrbo z energijo.",
-      "analiza": "Napad na savdski naftovod East-West in njegovo posledično zaprtje predstavlja resno grožnjo globalni energetski varnosti in stabilnosti cen nafte. Ta dogodek se dogaja v kontekstu naraščajočih napetosti na Bližnjem vzhodu, vključno z vojno v Jemnu in širšimi konflikti, ki vključujejo Iran. Zaprtje naftovoda neposredno zmanjšuje dobavne kapacitete Savdske Arabije, kar bi v normalnih okoliščinah povzročilo rast cen nafte. Vendar pa so danes cene WTI nafte padle za 2,37 % na 100,05 USD/sod, Brent nafte pa za 2,81 % na 104,61 USD/sod, kar lahko kaže na pričakovanja o hitri obnovitvi ali na širše skrbi glede globalnega povpraševanja. Geopolitična tveganja v regiji so se povečala, kar lahko vodi do večje volatilnosti na trgih surovin. Zgodovinsko gledano so napadi na ključno energetsko infrastrukturo, kot je bil napad na objekte Aramco leta 2019, povzročili skokovito rast cen nafte. Vpliv na delniške trge je lahko negativen, saj višje cene energije povečujejo stroške poslovanja podjetij in zmanjšujejo kupno moč potrošnikov. Vlagatelji bodo pozorno spremljali razvoj dogodkov v regiji in hitrost popravila naftovoda. Za slovenskega dolgoročnega vlagatelja to pomeni, da je izpostavljenost energetskemu sektorju in geopolitičnim tveganjem pomemben dejavnik pri ocenjevanju tveganja portfelja, saj lahko takšni dogodki hitro spremenijo tržne razmere.",
-      "vpliv": [
-        "Zmanjšana dobava nafte",
-        "Povečana geopolitična tveganja",
-        "Nihanja cen nafte (WTI na 100,05 USD/sod, Brent na 104,61 USD/sod)",
-        "Potencialno višji stroški za podjetja"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
-      "objavljeno": "2026-09-11T21:30:47.000Z"
-    },
-    {
-      "naslov": "Ameriška centralna banka bi lahko obrestne mere zvišala trikrat",
-      "sektor": "Makro & Centralne banke",
+      "naslov": "Musk podpira pozive k upočasnitvi razvoja umetne inteligence zaradi tveganj",
+      "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Ekonomisti opozarjajo, da bi ameriška centralna banka (Fed) lahko obrestne mere zvišala kar trikrat, saj se v preteklosti ni zadovoljila zgolj z enim zvišanjem. Takšen scenarij bi predstavljal velik preizkus za finančne trge. Zvišanje obrestnih mer je običajno odziv na inflacijske pritiske in prizadevanje za ohladitev gospodarstva. To bi lahko imelo pomembne posledice za stroške zadolževanja, potrošnjo in investicije.",
-      "analiza": "Možnost treh zvišanj obrestnih mer s strani Feda je ključna makroekonomska novica, ki lahko pomembno vpliva na globalne finančne trge. V ozadju so verjetno vztrajni inflacijski pritiski, ki zahtevajo odločen odziv centralne banke. Zvišanje obrestnih mer pomeni dražje zadolževanje za podjetja in potrošnike, kar lahko upočasni gospodarsko rast. Donosnost 10-letne ameriške državne obveznice je že zrasla za 0,63 % na 4,97 %, kar odraža pričakovanja trga. Višje obrestne mere so običajno negativne za delniške trge, saj zmanjšujejo privlačnost tveganih naložb in pritiskajo na vrednotenja podjetij, še posebej tistih z visoko rastjo, kot so tehnološka podjetja. S&P 500 in Nasdaq 100, ki sta danes sicer zrasla, bi bila ob takšnih napovedih pod pritiskom. Za obvezniške trge bi to pomenilo nadaljnjo rast donosnosti in padec cen obveznic. Valutni par EUR/USD bi lahko doživel krepitev dolarja, saj višje obrestne mere v ZDA privabljajo kapital. V preteklosti so agresivni cikli zvišanja obrestnih mer pogosto vodili do recesij ali znatnih popravkov na delniških trgih. Vlagatelji bodo pozorno spremljali prihodnje izjave Feda in makroekonomske podatke, zlasti inflacijo in podatke o zaposlovanju. Za slovenskega dolgoročnega vlagatelja je pomembno, da razume vpliv višjih obrestnih mer na različne razrede sredstev in prilagodi svojo strategijo glede na pričakovano makroekonomsko okolje, s poudarkom na podjetjih z močnimi bilancami in stabilnimi denarnimi tokovi.",
+      "povzetek": "Elon Musk je izrazil podporo pozivom podjetja Anthropic, da se upočasni napredek na področju umetne inteligence, preden 'zlonamerni boti prevzamejo celoten internet'. Vodilni v večjih podjetjih za umetno inteligenco se strinjajo z izvršnim direktorjem Anthropic, Dariom Amodeijem, ki je pozval tehnološko industrijo k počasnejšemu razvoju modelov. Novica, objavljena 12. septembra 2026 ob 17:20:00.000Z, poudarja naraščajočo zaskrbljenost glede varnosti in etike v hitro razvijajočem se sektorju umetne inteligence.",
+      "analiza": "Ozadje te novice je hitra in eksponentna rast zmogljivosti umetne inteligence v zadnjih letih, ki je sprožila tako navdušenje kot tudi resne pomisleke glede njenega potencialnega vpliva na družbo in varnost. Pozivi k upočasnitvi razvoja niso novi, vendar pridobivajo na teži, ko jih podpirajo vplivne osebnosti, kot je Elon Musk, in vodilni v industriji. Za finančne trge to pomeni potencialno povečanje regulativnega tveganja za podjetja v sektorju umetne inteligence. Morebitne strožje regulacije bi lahko upočasnile inovacije, povečale stroške razvoja in zmanjšale pričakovane dobičke, kar bi lahko negativno vplivalo na vrednotenja delnic tehnoloških podjetij, še posebej tistih, ki so močno izpostavljena razvoju AI. Vpliv bi se lahko razširil tudi na širši trg, saj je AI gonilna sila rasti v mnogih sektorjih. Zgodovinsko gledano so regulativni posegi v hitro rastoče industrije (npr. farmacija, internet v zgodnjih fazah) pogosto povzročili kratkoročno volatilnost, dolgoročno pa so lahko pripomogli k stabilizaciji in trajnostni rasti. Slovenski dolgoročni vlagatelji, ki imajo v portfeljih globalne tehnološke sklade ali delnice podjetij, ki razvijajo AI, naj bodo pozorni na razvoj regulativnih okvirov, saj lahko ti pomembno vplivajo na prihodnje donose.",
       "vpliv": [
-        "Dražje zadolževanje",
-        "Potencialno upočasnitev gospodarske rasti",
-        "Pritisk na delniške trge",
-        "Rast donosnosti obveznic (10Y US Treasury na 4,97 %)"
+        "Povečano regulativno tveganje za AI podjetja",
+        "Potencialno zmanjšanje rasti v tehnološkem sektorju",
+        "Negativen vpliv na delnice podjetij, ki razvijajo AI",
+        "Povečana volatilnost v tehnoloških delnicah"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-11T23:54:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-12T17:20:00.000Z"
     },
     {
-      "naslov": "Larry Ellison prodaja delnice Oracle v vrednosti do 7,5 milijarde dolarjev",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Larry Ellison, ustanovitelj podjetja Oracle, namerava prodati do 50 milijonov delnic podjetja v vrednosti do 7,5 milijarde dolarjev. Ta poteza prihaja v času, ko podjetje beleži višje prihodke iz podatkovnih centrov, vendar se sooča s strahovi vlagateljev, da je preveč zavezano umetni inteligenci (AI). Prodaja delnic s strani tako pomembne osebe v podjetju lahko sproži vprašanja o prihodnji strategiji in zaupanju vlagateljev.",
-      "analiza": "Prodaja delnic v vrednosti 7,5 milijarde dolarjev s strani Larryja Ellisona, ustanovitelja in ključne figure podjetja Oracle, je pomemben dogodek za tehnološki sektor in širše delniške trge. Čeprav podjetje beleži rast prihodkov iz podatkovnih centrov, se vlagatelji bojijo, da je Oracle preveč izpostavljen tveganjem, povezanim z umetno inteligenco. Takšna velika prodaja s strani insajderja lahko trg interpretira kot signal, da je delnica morda precenjena ali da so pred podjetjem izzivi. To bi lahko povzročilo kratkoročni pritisk na delnico Oracle in potencialno na celoten tehnološki sektor, ki je že tako občutljiv na spremembe obrestnih mer (Nasdaq 100 je danes zrasel za 0,91 % na 29368 točk). V preteklosti so podobne prodaje s strani ustanoviteljev ali vodilnih delničarjev pogosto povzročile nihanja cen delnic. Vlagatelji bodo pozorno spremljali razloge za prodajo in morebitne izjave podjetja glede strategije AI. Za slovenskega dolgoročnega vlagatelja to poudarja pomen spremljanja notranjih transakcij in razumevanja tveganj, povezanih s posameznimi sektorji, kot je hitro rastoči, a tudi tvegani sektor umetne inteligence. Kljub temu, da je prodaja lahko del osebne finančne strategije, lahko vpliva na tržno percepcijo podjetja.",
-      "vpliv": [
-        "Potencialni pritisk na delnico Oracle",
-        "Vprašanja o strategiji podjetja",
-        "Vpliv na tehnološki sektor",
-        "Povečana previdnost vlagateljev"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/25b1abb0-790f-4315-9b0c-530d959a086f?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-12T01:06:54.000Z"
-    },
-    {
-      "naslov": "Trumpova politika bi lahko okrepila blok BRICS in trgovinske vojne",
+      "naslov": "Houthiji zavzeli strateški otok Mayun, kar povečuje napetosti v Rdečem morju",
       "sektor": "Geopolitika",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Članek Al Jazeere predvideva, da bi ameriški predsednik, kljub želji po oslabitvi bloka BRICS, lahko dosegel ravno nasprotno in postal njegov najboljši \"agent za novačenje\". Njegova protekcionistična politika in grožnje s carinami, kot so tiste, ki jih pričakujejo Kanadčani, silijo države, da iščejo alternative in se združujejo. Kanadčani se že pripravljajo na morebitno trgovinsko vojno, ki bi lahko preizkusila njihovo pripravljenost plačevati več za lokalne izdelke. To kaže na širše globalne posledice ameriške trgovinske politike.",
-      "analiza": "Potencialni vpliv Trumpove trgovinske politike na krepitev bloka BRICS in globalne trgovinske vojne je pomembna tema, ki vpliva na mednarodne odnose in ekonomske tokove. V ozadju so prizadevanja ZDA za zaščito domače industrije in zmanjšanje trgovinskega deficita, kar pa lahko sproži povračilne ukrepe in iskanje alternativnih trgovinskih partnerstev. Če se Trumpova politika uresniči, bi to lahko pomenilo povečanje carin in ovir v mednarodni trgovini, kar bi negativno vplivalo na globalno gospodarsko rast. Delniški trgi, zlasti multinacionalna podjetja, bi bili izpostavljeni tveganju zaradi motenj v dobavnih verigah in zmanjšanega dostopa do trgov. Cene surovin bi lahko nihale glede na spremembe v povpraševanju in dobavi, ki bi jih povzročile trgovinske ovire. Valutni tečaji, kot je EUR/USD (trenutno 1.1602), bi bili pod pritiskom zaradi negotovosti in premikov kapitala. Zgodovinsko gledano so trgovinske vojne v preteklosti povzročile upočasnitev globalne rasti in povečano volatilnost na trgih (VIX je danes pri 15.84). Vlagatelji bodo morali pozorno spremljati razvoj trgovinske politike in odzive drugih držav. Za slovenskega dolgoročnega vlagatelja to pomeni, da je razumevanje globalnih trgovinskih trendov in potencialnih protekcionističnih ukrepov ključno za ocenjevanje tveganj in priložnosti v mednarodno povezanem gospodarstvu.",
+      "intenziteta": 3,
+      "povzetek": "Houthiji, ki jih podpira Iran, so zavzeli strateški otok Mayun v Jemnu, kar utrjuje njihov položaj v Bab al-Mandebu, ključnem pomorskem prehodu med Rdečim morjem in Adenskim zalivom. Čeprav je dolgoročno zadržanje otoka lahko težavno, ta poteza močno krepi njihov nadzor nad pomembno ladijsko potjo. Iranski uradniki so pozdravili zmage Houthijev, vendar niso govorili o neposrednem zaprtju Bab al-Mandeba. Novica je bila objavljena 12. septembra 2026 ob 13:45:00.000Z na Al Jazeeri.",
+      "analiza": "Zavzetje otoka Mayun s strani Houthijev predstavlja pomembno eskalacijo v dolgotrajnem jemenskem konfliktu in ima daljnosežne geopolitične posledice. Otok Mayun je strateško lociran ob Bab al-Mandebu, eni najpomembnejših svetovnih pomorskih poti za transport nafte in blaga. Nadzor nad tem prehodom omogoča Houthijem potencialno motenje globalne trgovine, kar neposredno vpliva na cene surovin, zlasti nafte. Že sedaj so cene WTI nafte padle za 2.37 % na 100.05 USD/sod in Brent nafte za 2.81 % na 104.61 USD/sod, kar bi se lahko ob morebitni eskalaciji hitro obrnilo. Povečane napetosti v regiji običajno vodijo do višjih premij za tveganje, kar se odraža v padcu delniških trgov in rasti cen varnih zatočišč, kot je zlato, ki je danes pri 4408.90 USD/oz. Obvezniški donosi, kot je 10-letna ameriška obveznica pri 4.97 %, bi se lahko znižali, če bi vlagatelji iskali varnost. Za valute bi to pomenilo krepitev USD kot varne valute. Slovenski dolgoročni vlagatelji naj bodo pozorni na razvoj dogodkov v Rdečem morju, saj lahko vsaka motnja v ladijskem prometu povzroči inflacijske pritiske in vpliva na globalne dobavne verige, kar se odraža v cenah energentov in širši gospodarski stabilnosti.",
       "vpliv": [
-        "Povečanje globalnih trgovinskih napetosti",
-        "Potencialno višje carine",
-        "Motnje v dobavnih verigah",
-        "Negativen vpliv na multinacionalna podjetja"
+        "Potencialno motenje globalnega ladijskega prometa",
+        "Povečanje cen nafte in plina ob eskalaciji",
+        "Rast premije za tveganje na finančnih trgih",
+        "Krepitev USD kot varne valute"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent?traffic_source=rss",
-      "objavljeno": "2026-09-12T07:44:06.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/9/12/iran-backed-houthis-seize-strategic-mayun-island-can-they-hold-it?traffic_source=rss",
+      "objavljeno": "2026-09-12T13:45:00.000Z"
     },
     {
-      "naslov": "Reform UK prejme rekordno donacijo 36 milijonov funtov od kripto milijarderja",
+      "naslov": "GM načrtuje razvoj baterij v ZDA, medtem ko Trump napada Forda zaradi Kitajske",
+      "sektor": "Energetika",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "General Motors (GM) načrtuje razvoj baterij v ZDA, da bi vzpostavil domače dobavne verige za električna vozila (EV) in shranjevanje energije. Večina baterijskih celic trenutno temelji na surovinah iz Kitajske. To se dogaja v času, ko Trumpovo ministrstvo za promet (DOT) kritizira Ford zaradi njegovih vezi s Kitajsko. Novica, objavljena 12. septembra 2026 ob 12:00:01.000Z, poudarja prizadevanja ZDA za zmanjšanje odvisnosti od tujih dobavnih verig, zlasti od Kitajske, v ključnih industrijskih sektorjih.",
+      "analiza": "Ta novica se nanaša na širši globalni trend zmanjševanja odvisnosti od posameznih dobaviteljev in krepitve domačih dobavnih verig, kar je še posebej izrazito v sektorju električnih vozil in baterij. Geopolitične napetosti med ZDA in Kitajsko, skupaj s pandemijo COVID-19 in vojno v Ukrajini, so poudarile ranljivost globaliziranih dobavnih verig. Poteza GM-a je pozitivna za ameriško gospodarstvo, saj bo ustvarila delovna mesta in zmanjšala tveganja v dobavni verigi, kar bi lahko dolgoročno stabiliziralo proizvodnjo EV. Vendar pa Trumpova kritika Forda kaže na politično polarizacijo in morebitne protekcionistične ukrepe, ki bi lahko vplivali na mednarodne avtomobilske proizvajalce. Za delnice avtomobilskih podjetij bi to lahko pomenilo višje stroške v kratkem roku zaradi vzpostavljanja novih verig, a dolgoročno večjo odpornost. Na surovinskem trgu bi se lahko povečalo povpraševanje po kritičnih mineralih, pridobljenih izven Kitajske. Za slovenske dolgoročne vlagatelje, ki so izpostavljeni globalnemu avtomobilskemu sektorju ali sektorju baterij, je to pomemben signal o preoblikovanju industrije in premikanju proizvodnih zmogljivosti, kar lahko vpliva na konkurenčnost in profitabilnost podjetij v portfelju.",
+      "vpliv": [
+        "Spodbujanje domače proizvodnje baterij v ZDA",
+        "Potencialno višji stroški za avtomobilske proizvajalce v kratkem roku",
+        "Zmanjšanje odvisnosti od kitajskih dobavnih verig",
+        "Povečano povpraševanje po kritičnih mineralih izven Kitajske"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
+      "objavljeno": "2026-09-12T12:00:01.000Z"
+    },
+    {
+      "naslov": "Ameriško sodišče zavrnilo Trumpov nujni ukaz za ohranitev elektrarne na premog",
+      "sektor": "Energetika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Ameriško sodišče je zavrnilo nujni ukaz Donalda Trumpa, ki bi ohranil delovanje elektrarne na premog v Michiganu. Sodišče je odločilo, da je Ministrstvo za energijo preseglo svoja pooblastila z razširitvijo delovanja elektrarne. Novica je bila objavljena 12. septembra 2026 ob 15:34:51.000Z na Al Jazeeri.",
+      "analiza": "Ta sodna odločitev poudarja nenehno napetost med prizadevanji za okoljsko trajnost in energetsko varnostjo, še posebej v kontekstu ameriške energetske politike. Zavrnitev Trumpovega ukaza kaže na omejitve izvršne oblasti in pomen sodne veje pri določanju energetske prihodnosti države. Za sektor energetike to pomeni nadaljevanje trenda opuščanja fosilnih goriv in prehod na čistejše vire energije, kar je dolgoročno pozitivno za podjetja v sektorju obnovljivih virov in negativno za tiste, ki so močno odvisni od premoga. Na trgu obveznic bi lahko to vplivalo na obveznice podjetij, ki so izpostavljena premogu, saj se povečuje njihovo tveganje. Za delnice podjetij, ki se ukvarjajo z obnovljivimi viri energije, bi to lahko bil pozitiven signal. Hkrati pa lahko zapiranje premogovnih elektrarn kratkoročno vpliva na stabilnost omrežja in cene električne energije, kar bi lahko povzročilo nihanja. V širšem kontekstu to odraža globalna prizadevanja za zmanjšanje emisij, ki so ključna za boj proti podnebnim spremembam. Slovenski dolgoročni vlagatelji, ki imajo naložbe v globalni energetski sektor, naj bodo pozorni na regulativne spremembe in sodne odločitve, saj te pomembno vplivajo na poslovne modele in dolgoročno vrednost podjetij v tem sektorju.",
+      "vpliv": [
+        "Pospeševanje prehoda na obnovljive vire energije v ZDA",
+        "Negativen vpliv na podjetja, odvisna od premoga",
+        "Potencialno kratkoročno nihanje cen električne energije",
+        "Povečana regulativna negotovost za fosilna goriva"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss",
+      "objavljeno": "2026-09-12T15:34:51.000Z"
+    },
+    {
+      "naslov": "Stranka Reform UK prejela rekordni donaciji v višini 72 milijonov funtov",
       "sektor": "Finance",
       "smer": "mešano",
-      "intenziteta": 1,
-      "povzetek": "Stranka Reform UK je prejela rekordno donacijo v višini 36 milijonov funtov od kripto milijarderja Bena Dela. To je največja donacija v zgodovini britanske politike. Donacija poudarja naraščajoči vpliv posameznikov iz sveta kriptovalut na tradicionalno politiko in financiranje strank. To bi lahko imelo posledice za prihodnje politične prioritete in regulacijo kriptovalut v Združenem kraljestvu.",
-      "analiza": "Rekordna donacija v višini 36 milijonov funtov stranki Reform UK s strani kripto milijarderja Bena Dela je pomembna novica, ki osvetljuje prepletanje financ, politike in rastočega vpliva kripto sektorja. V ozadju je naraščajoča moč posameznikov, ki so obogateli s kriptovalutami, in njihova želja po vplivanju na politično krajino. Takšna donacija lahko vpliva na prihodnje politične odločitve, zlasti glede regulacije kriptovalut in širše finančne politike v Združenem kraljestvu. Za finančne trge to pomeni povečano politično tveganje in morebitne spremembe v regulativnem okolju, kar lahko vpliva na investicijsko klimo. Čeprav Bitcoin danes beleži rast za 0,16 % na 77328 USD, bi morebitne spremembe v regulaciji lahko vplivale na celoten kripto trg. V preteklosti so velike donacije pogosto spremljale spremembe v političnih prioritetah. Vlagatelji bodo pozorno spremljali, kako se bo stranka Reform UK odzvala na to donacijo in kakšne bodo njene politike, zlasti glede finančnega sektorja in tehnologije. Za slovenskega dolgoročnega vlagatelja to poudarja pomen spremljanja političnega dogajanja v ključnih gospodarstvih, saj lahko politične odločitve, še posebej tiste, ki vplivajo na regulacijo in davke, pomembno vplivajo na donosnost naložb.",
+      "intenziteta": 2,
+      "povzetek": "Stranka Reform UK je prejela dve rekordni donaciji v skupni višini 72 milijonov funtov od kripto milijarderjev Bena Dela in Christopherja Harborna. Ti dve donaciji, vsaka v višini 36 milijonov funtov, sta največji donaciji v britanski politični zgodovini. Novica je bila objavljena 12. septembra 2026 ob 12:25:10.000Z v Financial Timesu.",
+      "analiza": "Ta novica poudarja naraščajoč vpliv posameznikov z velikim premoženjem, zlasti iz sektorja kriptovalut, na politično krajino. Rekordne donacije stranki Reform UK, ki je znana po svojih evroskeptičnih in desničarskih stališčih, bi lahko pomembno spremenile dinamiko britanske politike pred prihodnjimi volitvami. To lahko povzroči povečano politično negotovost, kar se običajno odraža v nihanjih na finančnih trgih, še posebej na britanskem funtu (EUR/USD je danes pri 1.1601 z -0.10 % spremembo) in delniškem trgu v Londonu. Vpliv kripto milijarderjev na tradicionalno politiko kaže tudi na vse večje prepletanje med digitalnim premoženjem in realno ekonomijo, kar lahko sproži razprave o regulaciji političnega financiranja in preglednosti. Za kripto trge, kot je Bitcoin, ki je danes pri 77220 USD (+0.02 %), to morda pomeni večjo prepoznavnost in legitimizacijo, a hkrati tudi tveganje za strožjo regulacijo, če se bo vpliv kripto premoženja na politiko štel za problematičnega. Slovenski dolgoročni vlagatelji, ki imajo naložbe v britanske delnice ali funt, naj bodo pozorni na politični razvoj v Združenem kraljestvu, saj lahko spremembe v vladni politiki in stabilnosti vplivajo na gospodarsko okolje in vrednost naložb.",
       "vpliv": [
-        "Povečan vpliv kripto sektorja na politiko",
-        "Potencialne spremembe v regulaciji kriptovalut",
-        "Povečano politično tveganje v Združenem kraljestvu",
-        "Vpliv na investicijsko klimo"
+        "Povečana politična negotovost v Združenem kraljestvu",
+        "Potencialno nihanje vrednosti britanskega funta",
+        "Razprave o regulaciji političnega financiranja",
+        "Povečan vpliv kripto premoženja na politiko"
       ],
       "vir": "Financial Times",
       "vir_url": "https://www.ft.com/content/936ac952-43a6-44d5-be69-afa344e042f5?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-11T22:00:13.000Z"
+      "objavljeno": "2026-09-12T12:25:10.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-12T08:37:58.063Z",
+    "posodobljenoOb": "2026-09-12T17:47:38.000Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -164,8 +147,8 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1602,
-        "sprememba_pct": -0.09
+        "vrednost": 1.1601,
+        "sprememba_pct": -0.1
       }
     ],
     "obveznice": [
@@ -181,8 +164,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 77327.6,
-        "sprememba_pct": 0.16,
+        "vrednost": 77219.58,
+        "sprememba_pct": 0.02,
         "enota": "USD"
       }
     ],
