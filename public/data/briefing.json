@@ -1,116 +1,116 @@
 {
-  "generiranoOb": "2026-09-12T17:55:14.380Z",
-  "izdaja": "afternoon",
-  "model": "gemini-2.5-flash-lite",
+  "generiranoOb": "2026-09-13T09:34:37.126Z",
+  "izdaja": "morning",
+  "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-09-12",
-  "povzetek": "Evropski trgi so se danes ob koncu trgovanja zabeležili rast, saj je DAX dosegel 25.569 točk (+0,82 %). Ameriški trgi so ob odprtju pokazali podobno pozitivno sliko, pri čemer je S&P 500 dosegel 7.657 točk (+0,86 %) in Nasdaq 100 29.368 točk (+0,91 %). Medtem ko so cene nafte WTI in Brent zabeležile padec za več kot 2,5 %, je zlato ostalo skoraj nespremenjeno. V ospredju novic je bilo poročilo o pozivu vodilnih podjetij na področju umetne inteligence k upočasnitvi razvoja zaradi varnostnih pomislekov, medtem ko je v geopolitiki odmevala novica o prevzemu strateškega otoka Mayun s strani Houthijev v Jemnu, kar je povzročilo zaskrbljenost glede pomorskih poti. V ZDA je sodna odločitev zavrnila poskus ohranjanja premogovne elektrarne odprte, kar nakazuje na nadaljnji pritisk na fosilna goriva. Vlagatelji bodo ta teden pozorno spremljali objave podatkov o inflaciji v ZDA in Evropi ter zasedanje Evropske centralne banke.",
+  "datum": "2026-09-13",
+  "povzetek": "Jutranji pregled finančnih trgov kaže mešano sliko, kjer so ameriški indeksi nadaljevali rast, medtem ko so azijski trgi zabeležili padec. Indeks S&P 500 je zrasel za 0.86 % na 7657 točk, Nasdaq 100 za 0.91 % na 29368 točk, nemški DAX pa za 0.82 % na 25569 točk. V Aziji je Nikkei 225 padel za 1.93 % na 64011 točk. Kljub geopolitičnim napetostim so cene nafte WTI in Brent čez noč zabeležile padec, na 100.05 USD/sod (-2.37 %) oziroma 104.61 USD/sod (-2.81 %), vendar pa širša zaskrbljenost glede energentov pred zimo ostaja. Donosnost 10-letne ameriške državne obveznice se je povišala za 0.63 % na 4.97 %, kar kaže na morebitne inflacijske pritiske ali pričakovanja zvišanja obrestnih mer. VIX indeks, merilo volatilnosti, je padel za 11.21 % na 15.84, kar nakazuje umiritev kratkoročne negotovosti. Vlagatelji bodo ta teden pozorno spremljali prihajajoče objave o inflaciji, ki bi lahko vplivale na pričakovanja glede monetarne politike centralnih bank.",
   "novice": [
     {
-      "naslov": "Voditelji AI pozivajo k upočasnitvi razvoja zaradi varnostnih tveganj",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Voditelji vodilnih podjetij na področju umetne inteligence, vključno z Anthropic, so javno podprli poziv k upočasnitvi razvoja novih modelov umetne inteligence. Glavni razlogi so zaskrbljenost glede morebitne zlorabe tehnologije in nevarnosti nekontroliranega širjenja 'rogue botov' po internetu. Ta pobuda je bila objavljena 12. septembra 2026 ob 17:20 UTC. Elon Musk je javno podprl to stališče.",
-      "analiza": "Novica o pozivu k upočasnitvi razvoja umetne inteligence predstavlja pomemben premik v industriji, ki je bila doslej usmerjena v hitro inovativnost. Ozadje je v naraščajoči moči in potencialni zlorabi naprednih AI sistemov, kar je postalo tema javne razprave med vodilnimi akterji. Ta premik lahko vpliva na naložbe v AI podjetja, saj lahko upočasnitev razvoja pomeni daljše cikle razvoja in manjše, a bolj premišljene inovacije. Delnice podjetij, ki so močno odvisna od hitrega lansiranja novih AI produktov, bi lahko doživele kratkoročni pritisk. Po drugi strani pa bi lahko podjetja, ki se osredotočajo na varnost in etiko AI, pridobila na ugledu in zaupanju. Vpliv na obveznice je verjetno omejen, razen če bi širše gospodarske posledice upočasnitve tehnološkega napredka postale opazne. Kriptovalute, ki se vse bolj povezujejo z AI, bi lahko prav tako občutile negotovost. Za slovenskega dolgoročnega vlagatelja to pomeni potrebo po bolj skrbni oceni naložb v tehnološki sektor, s poudarkom na podjetjih, ki se zavedajo in obvladujejo etična tveganja.",
-      "vpliv": [
-        "potencialno zmanjšanje naložb v hitro rastoča AI podjetja",
-        "povečano zanimanje za podjetja s poudarkom na varnosti AI",
-        "negotovost na tehnoloških delniških trgih",
-        "možen vpliv na razvoj s kriptovalutami povezanih AI projektov"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-12T17:20:00.000Z"
-    },
-    {
-      "naslov": "Houthiji prevzeli strateški otok Mayun, krepi se napetost v regiji",
+      "naslov": "Napad na komercialno ladjo v Hormuški ožini stopnjuje geopolitične napetosti in skrbi",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Jemenske sile, ki jih podpira Iran, so prevzele nadzor nad strateško pomembnim otokom Mayun v Bab al-Mandabski ožini. Ta poteza krepi položaj Houthijev ob Rdečem morju, vendar pa bi lahko dolgoročno obdržanje otoka predstavljalo izziv. Novica je bila objavljena 12. septembra 2026 ob 13:45 UTC. Iran je prevzem pozdravil kot 'božjo zmago'.",
-      "analiza": "Prevzem otoka Mayun s strani Houthijev je pomemben strateški premik v regiji Rdečega morja, ki je ključna za globalno pomorsko trgovino. Houthiji s tem utrjujejo svoj nadzor nad Bab al-Mandabsko ožino, ki je ena najpomembnejših pomorskih poti na svetu. To lahko povzroči dodatne napetosti med Iranom in Savdsko Arabijo ter drugimi zalivskimi državami, ki podpirajo jemensko vlado. Geopolitična nestabilnost v regiji ima neposredne posledice na cene nafte, saj lahko skrbi glede varnosti pomorskih poti povzročijo dvig cen zaradi strahu pred motnjami v dobavi. Trenutno ceni nafte WTI in Brent beležita padec, kar nakazuje, da trgi še ne pričakujejo resnih motenj, vendar pa je ta dogodek potencialni katalizator za prihodnje gibanje cen. Vpliv na valute je lahko opazen v obliki oslabitve valut držav v regiji ali povečane vrednosti ameriškega dolarja kot varnega pribežališča. Delniški trgi, zlasti energetskega sektorja, bodo pozorno spremljali razvoj dogodkov. Za slovenskega dolgoročnega vlagatelja to pomeni povečano tveganje zaradi geopolitične nestabilnosti, ki lahko vpliva na globalne dobavne verige in cene energentov.",
+      "povzetek": "V Hormuški ožini je bila napadena komercialna ladja, pri čemer je ena oseba umrla, štiri pa so bile ranjene. Ta najnovejši incident se je zgodil v času, ko se iranski voditelji pripravljajo na srečanje z uradniki zalivskih držav, da bi razpravljali o nadzoru nad to ključno plovno potjo. Napad poudarja naraščajoče napetosti v regiji, ki so povezane z iransko-ameriškim konfliktom in delovanjem hutijevcev. Dogodek ima neposredne posledice za pomorski promet in globalno oskrbo z energijo. Plovna pot skozi Hormuško ožino je vitalna za svetovno trgovino z nafto.",
+      "analiza": "Napad na komercialno ladjo v Hormuški ožini je pomemben dogodek, ki se vpenja v širši kontekst naraščajočih geopolitičnih napetosti med Iranom in zahodnimi zavezniki, pa tudi regionalnih konfliktov, kot je tista v Jemnu. Hormuška ožina je ključna točka za globalni transport nafte, saj skozi njo poteka velik del svetovne oskrbe. Takšni incidenti povečujejo tveganje za motnje v dobavnih verigah in dvigujejo stroške pomorskega zavarovanja, kar se neposredno odraža na cenah surovin. Čeprav so cene nafte WTI in Brent čez noč padle na 100.05 USD/sod oziroma 104.61 USD/sod, takšni dogodki običajno dodajo geopolitično premijo na ceno nafte, saj se vlagatelji bojijo morebitnih prekinitev dobave. To lahko vodi v višjo inflacijo, kar posledično pritiska na centralne banke k zaostrovanju monetarne politike, kar se lahko odrazi v višjih donosnostih obveznic, kot je povišanje 10-letne ameriške državne obveznice na 4.97 %. Za delniške trge to pomeni povečano volatilnost, še posebej za podjetja, odvisna od globalnih dobavnih verig in cen energentov. V preteklosti so podobni incidenti, kot so napadi na tankerje ali naftne objekte v regiji, povzročili kratkoročne skoke cen nafte. Vlagatelji bodo pozorno spremljali nadaljnje diplomatske korake in morebitne povračilne ukrepe. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati tveganja, povezana z globalno dobavo energentov in geopolitično stabilnostjo, ter imeti diverzificiran portfelj, ki je odporen na morebitne šoke cen surovin in inflacijske pritiske.",
       "vpliv": [
-        "potencialno zvišanje cen nafte v primeru motenj v dobavi",
-        "povečana nestabilnost valut v regiji",
-        "negativen vpliv na delnice energetskih podjetij, ki so izpostavljene regiji",
-        "povečana pozornost na varnost pomorskih poti"
+        "Povečana geopolitična premija na cene nafte",
+        "Višji stroški pomorskega zavarovanja",
+        "Potencial za inflacijske pritiske",
+        "Povečana volatilnost na delniških trgih"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/12/iran-backed-houthis-seize-strategic-mayun-island-can-they-hold-it?traffic_source=rss",
-      "objavljeno": "2026-09-12T13:45:00.000Z"
+      "vir_url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
+      "objavljeno": "2026-09-13T00:00:40.000Z"
     },
     {
-      "naslov": "Ameriško sodišče zavrnilo Trumpov ukaz za ohranitev premogovne elektrarne",
+      "naslov": "Opozorila o nevarnostih umetne inteligence naletela na skepticizem v Silicijevi dolini",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Nedavna vrsta ostrih opozoril o nevarnostih umetne inteligence (AI) je naletela na skepticizem med nekaterimi vodilnimi delavci in vlagatelji v Silicijevi dolini. Kljub temu, da nekdanji raziskovalci podjetij, kot je Anthropic, izražajo 'pristen strah' za prihodnost človeštva, se zdi, da se vlagatelji osredotočajo predvsem na potencialne dobičke. To ustvarja razkol med etičnimi pomisleki in komercialnim zagonom za razvoj AI. Generalni direktor podjetja Anthropic je sicer pozval k upočasnitvi razvoja tehnologije zaradi 'resnih' tveganj.",
+      "analiza": "Razprava o nevarnostih in etiki umetne inteligence je v polnem teku, saj se tehnologija razvija z izjemno hitrostjo. Na eni strani so razvijalci in raziskovalci, ki opozarjajo na potencialne eksistencialne grožnje, na drugi pa vlagatelji in podjetja, ki vidijo ogromen ekonomski potencial. Ta razkol vpliva na trge tako, da ustvarja negotovost glede prihodnje regulacije in javnega sprejemanja AI. Če bi se uveljavile stroge regulacije, bi to lahko upočasnilo inovacije in rast v sektorju AI, kar bi negativno vplivalo na delnice tehnoloških podjetij, ki so močno vložila v AI. Po drugi strani pa skepticizem vlagateljev kaže, da trg trenutno daje prednost rasti in dobičku, kar lahko kratkoročno podpira visoke vrednotenja AI podjetij. Vendar pa dolgoročno lahko neupoštevanje opozoril privede do nepredvidenih tveganj, ki bi lahko imela širše družbene in ekonomske posledice. Zgodovinsko gledano so se podobne razprave pojavljale pri drugih prelomnih tehnologijah, kjer je bil pogosto potreben čas za vzpostavitev ravnovesja med inovacijami in varnostjo. Vlagatelji bodo morali pozorno spremljati tako tehnološki napredek kot tudi morebitne regulativne pobude in javno mnenje. Za slovenskega dolgoročnega vlagatelja to pomeni, da je ključno razumeti tako potencialne koristi kot tudi tveganja naložb v sektor AI in razmisliti o diverzifikaciji znotraj tehnološkega segmenta, da se zmanjša izpostavljenost morebitnim regulativnim šokom ali etičnim dilemam.",
+      "vpliv": [
+        "Negotovost glede prihodnje regulacije AI",
+        "Potencialno upočasnjena rast v AI sektorju",
+        "Vpliv na vrednotenje delnic tehnoloških podjetij",
+        "Povečana razprava o etiki in varnosti AI"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-13T09:05:10.000Z"
+    },
+    {
+      "naslov": "Skladi zasebnega kapitala iz obdobja razcveta verjetno ne bodo izpolnili obljub",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Vodstveni delavci v industriji zasebnega kapitala opozarjajo, da donosi skladov, ki so bili ustanovljeni v frenetičnem obdobju med letoma 2019 in 2021, verjetno ne bodo izpolnili pričakovanj. To obdobje je bilo zaznamovano z nizkimi obrestnimi merami in visokimi vrednotenji, kar je spodbudilo obsežne naložbe. Opozorilo pomeni, da bodo vlagatelji v te sklade, vključno z velikimi institucionalnimi vlagatelji, kot so pokojninski skladi, verjetno prejeli nižje donose od napovedanih. To bi lahko imelo širše posledice za celotno finančno industrijo in zaupanje v zasebni kapital.",
+      "analiza": "Opozorilo o slabših donosih skladov zasebnega kapitala iz obdobja 2019-2021 je pomembno, saj to obdobje sovpada z izjemno ekspanzivno monetarno politiko in nizkimi obrestnimi merami, ki so omogočale poceni zadolževanje in napihovale vrednotenja podjetij. Sedaj, ko se obrestne mere višajo – kar se odraža tudi v povišanju 10-letne ameriške državne obveznice na 4.97 % – in se gospodarska rast umirja, se razmere za zasebni kapital spreminjajo. Mehanizem vpliva je večplasten: višji stroški zadolževanja zmanjšujejo privlačnost prevzemov z dolgom, medtem ko se visoka vrednotenja težje upravičijo. To lahko vodi v zmanjšanje povpraševanja po novih skladih zasebnega kapitala in pritiske na obstoječe. Posledice se lahko kažejo v nižjih donosih za institucionalne vlagatelje, kar lahko vpliva na pokojninske sklade in druge dolgoročne naložbene portfelje. To lahko tudi zmanjša likvidnost na trgu zasebnega kapitala in povzroči prevrednotenje nekaterih naložb. V preteklosti so se po obdobjih pretiranega optimizma in poceni denarja pogosto pojavile korekcije na trgu zasebnega kapitala. Vlagatelji bodo morali pozorno spremljati poročila o donosih teh skladov in splošno zdravje trga zasebnega kapitala. Za slovenskega dolgoročnega vlagatelja je to opomin na pomen realističnih pričakovanj glede donosov in na tveganja, povezana z naložbami v manj likvidne razrede sredstev, kot je zasebni kapital, še posebej v obdobjih visoke inflacije in višjih obrestnih mer. Pomembna je diverzifikacija in razumevanje, da visoki donosi iz preteklosti niso zagotovilo za prihodnost.",
+      "vpliv": [
+        "Nižji donosi za vlagatelje v zasebni kapital",
+        "Potencialno zmanjšanje povpraševanja po novih PE skladih",
+        "Pritisk na vrednotenja podjetij v portfeljih PE",
+        "Vpliv na institucionalne vlagatelje (npr. pokojninske sklade)"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/183569b4-8102-4b38-8a20-a3597a442f26?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-13T04:00:12.000Z"
+    },
+    {
+      "naslov": "Volitve na Švedskem potekajo, skrajna desnica bi lahko vstopila v vlado",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Na Švedskem potekajo volitve, ki bi lahko prvič v zgodovini države privedle do vstopa skrajno desne stranke Švedski demokrati v vlado, če bo zmagal desničarski blok. Ta dogodek je pomemben pokazatelj širših političnih trendov v Evropi, kjer se krepi podpora populističnim in skrajno desnim strankam. Rezultati volitev bi lahko imeli posledice za švedsko notranjo in zunanjo politiko, vključno z njenim odnosom do Evropske unije in priseljevanja. To ustvarja negotovost na trgih glede prihodnje politične stabilnosti in smeri države.",
+      "analiza": "Volitve na Švedskem in morebiten vstop skrajne desnice v vlado so del širšega trenda vzpona populističnih strank po Evropi, kar se odraža tudi v novici 'As Europe’s memory fades, radicalism is returning'. Ta politična sprememba lahko vpliva na finančne trge predvsem skozi povečano politično negotovost in morebitne spremembe v gospodarski politiki. Mehanizem vpliva se kaže v morebitnih fiskalnih politikah, ki bi lahko bile bolj protekcionistične ali manj naklonjene mednarodnemu sodelovanju, kar bi lahko vplivalo na švedsko krono (SEK) in donosnosti švedskih državnih obveznic. Vlagatelji bi lahko zahtevali višjo tvegano premijo za švedske naložbe, kar bi se odrazilo v zvišanju donosnosti obveznic. Za delniške trge bi to pomenilo negotovost za podjetja, ki so močno odvisna od mednarodne trgovine ali imajo veliko izpostavljenost do priseljenske delovne sile. Zgodovinsko gledano so politične spremembe v stabilnih evropskih državah, kot je Švedska, redko povzročile dramatične tržne pretrese, vendar lahko dolgoročno vplivajo na investicijsko klimo. Vlagatelji bodo pozorno spremljali sestavo nove vlade in njene prve politične poteze, še posebej tiste, ki se nanašajo na fiskalno politiko in mednarodne odnose. Za slovenskega dolgoročnega vlagatelja je to opomin, da je politična stabilnost in smer vladanja pomemben dejavnik pri ocenjevanju naložb v posamezne države in regije, ter da je diverzifikacija portfelja ključna za zmanjšanje izpostavljenosti specifičnim političnim tveganjem.",
+      "vpliv": [
+        "Povečana politična negotovost na Švedskem",
+        "Potencialne spremembe v fiskalni in zunanji politiki",
+        "Vpliv na vrednost švedske krone (SEK)",
+        "Povečana tvegana premija za švedske obveznice"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss",
+      "objavljeno": "2026-09-13T08:39:49.000Z"
+    },
+    {
+      "naslov": "Naraščajoči stroški življenja bremenijo delovne družine, pozivi k vladni pomoči",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 1,
+      "povzetek": "Dobrodelna organizacija v Rotherhamu opozarja na naraščajoče stroške življenja, ki močno bremenijo delovne družine, in poziva vlado k večji podpori. Opis 'stroški na stroške' poudarja, da se družine soočajo z večkratnimi finančnimi pritiski, ne da bi prejele ustrezno pomoč. Ta situacija odraža širši problem inflacije in pritiska na kupno moč gospodinjstev, kar lahko vpliva na potrošniško porabo in splošno gospodarsko rast. Vlada mora storiti več za podporo delovnim družinam, so sporočili.",
+      "analiza": "Opozorila o naraščajočih stroških življenja in pomanjkanju podpore delovnim družinam so odraz širših makroekonomskih trendov, kot so visoka inflacija in morebitna stagnacija plač. Čeprav se novica osredotoča na Združeno kraljestvo, je to globalni fenomen, ki vpliva na kupno moč potrošnikov po vsem svetu. Mehanizem vpliva na finančne trge je predvsem prek zmanjšanja diskrecijske porabe potrošnikov. Ko se gospodinjstva borijo s pokrivanjem osnovnih stroškov, imajo manj sredstev za nakupe, ki niso nujni. To negativno vpliva na podjetja v sektorjih, kot so maloprodaja, turizem in zabava, kar se lahko odrazi v nižjih prihodkih in dobičkih, posledično pa v padcu vrednosti njihovih delnic. Pritiski na vlade za povečanje socialne pomoči ali zmanjšanje davkov lahko vodijo v povečanje javnega dolga ali spremembe v fiskalni politiki, kar lahko vpliva na donosnosti državnih obveznic. Zgodovinsko gledano so obdobja visoke inflacije in zmanjšane kupne moči pogosto vodila v gospodarsko upočasnitev ali recesijo. Vlagatelji bodo pozorno spremljali podatke o potrošniški porabi, inflaciji in vladnih ukrepih za podporo gospodinjstvom. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati vpliv inflacije na realne donose naložb in biti previden pri naložbah v podjetja, ki so močno odvisna od diskrecijske porabe potrošnikov. Namesto tega se lahko osredotoči na podjetja, ki ponujajo osnovne dobrine in storitve, ki so manj občutljive na ekonomske cikle.",
+      "vpliv": [
+        "Zmanjšana diskrecijska potrošnja potrošnikov",
+        "Negativen vpliv na podjetja v sektorju maloprodaje in storitev",
+        "Pritisk na vladne fiskalne politike",
+        "Potencialno upočasnjena gospodarska rast"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/c158l7zz5n5o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-13T06:09:16.000Z"
+    },
+    {
+      "naslov": "Cene nafte povzročajo 'veliko zaskrbljenost' pred prihajajočo zimo",
       "sektor": "Energetika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Ameriško sodišče je zavrnilo izredno odredbo predsednika Trumpa, ki bi ohranila premogovno elektrarno v Michiganu odprto. Sodišče je presodilo, da je Ministrstvo za energijo preseglo svoja pooblastila z podaljšanjem obratovanja elektrarne. Novica je bila objavljena 12. septembra 2026 ob 15:34 UTC.",
-      "analiza": "Odločitev ameriškega sodišča predstavlja nadaljnji korak v smeri zmanjševanja odvisnosti od fosilnih goriv v ZDA, kar je v skladu s širšimi globalnimi trendi prehoda na čistejše vire energije. Čeprav je bil ukaz predsednika Trumpa namenjen ohranitvi delovnih mest in zagotavljanju energetske varnosti, je sodišče poudarilo pravne okvire, ki omejujejo takšne posege. Ta odločitev lahko pospeši prehod na obnovljive vire energije in druge čistejše tehnologije v energetskem sektorju ZDA. Vpliv na delnice podjetij, ki se ukvarjajo z obnovljivimi viri energije, je lahko pozitiven, medtem ko bi lahko podjetja, ki so močno odvisna od premoga, doživela dodatne pritiske. Cene fosilnih goriv, kot sta nafta in plin, bi lahko na dolgi rok doživele zmanjšanje povpraševanja zaradi takšnih regulativnih odločitev. Vpliv na obveznice je lahko posreden, preko splošnega gospodarskega okolja. Za slovenskega dolgoročnega vlagatelja to pomeni, da se trend prehoda na zeleno energijo v razvitih gospodarstvih nadaljuje, kar ponuja priložnosti v podjetjih, ki so del te tranzicije.",
+      "povzetek": "Opozorilo o 'veliki zaskrbljenosti' zaradi cen nafte prihaja v času, ko se približuje zima, in po tem, ko je konflikt med ZDA in Iranom že povzročil dvig stroškov kurilnega olja in goriva. Kljub temu, da so cene nafte WTI in Brent čez noč padle na 100.05 USD/sod oziroma 104.61 USD/sod, ostaja dolgoročna perspektiva zaskrbljujoča. Visoke cene energentov predstavljajo breme za gospodinjstva in podjetja, kar lahko vpliva na inflacijo in gospodarsko rast. Pričakuje se, da bo povpraševanje po energiji v zimskih mesecih še naraslo.",
+      "analiza": "Zaskrbljenost glede cen nafte pred zimo je ključna tema, ki vpliva na globalne finančne trge. Čeprav je tržni posnetek pokazal padec cen nafte WTI za 2.37 % in Brenta za 2.81 % čez noč, je dolgoročni trend in pričakovanja zaradi geopolitičnih napetosti (kot je napad na ladjo v Hormuški ožini) in sezonskega povpraševanja v zimskih mesecih še vedno usmerjen navzgor. Mehanizem vpliva je neposreden: višje cene nafte se prenašajo na stroške goriva, ogrevanja in proizvodnje, kar povečuje inflacijske pritiske. To lahko prisili centralne banke, da ohranijo ali celo zaostrijo monetarno politiko, kar se odraža v višjih obrestnih merah in donosnostih obveznic, kot je povišanje 10-letne ameriške državne obveznice na 4.97 %. Za delniške trge to pomeni višje stroške poslovanja za mnoga podjetja in zmanjšano kupno moč potrošnikov, kar lahko negativno vpliva na dobičke in vrednotenja delnic. Podjetja v energetskem sektorju lahko sicer kratkoročno profitirajo. Zgodovinsko gledano so visoke cene nafte pogosto predhodile gospodarskim upočasnitvam, saj delujejo kot 'inflacijski davek' na potrošnike in podjetja. Vlagatelji bodo pozorno spremljali razvoj dogodkov v regijah, ki so ključne za dobavo nafte, in napovedi o povpraševanju. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati vpliv cen energentov na inflacijo in potencialne odločitve centralnih bank, kar lahko vpliva na vsa področja naložb, od delnic do obveznic. Razmisliti je treba o naložbah v sektorje, ki so manj občutljivi na cene energentov, ali pa v podjetja, ki imajo močno cenovno moč, da lahko višje stroške prenesejo na potrošnike.",
       "vpliv": [
-        "potencialno povečanje naložb v obnovljive vire energije v ZDA",
-        "pritisk na podjetja, ki še vedno temeljijo na premogu",
-        "dolgooročno zmanjšanje povpraševanja po fosilnih gorivih",
-        "pozitiven vpliv na podjetja s tehnologijami za shranjevanje energije"
+        "Povečani inflacijski pritiski",
+        "Potencialno zaostrovanje monetarne politike",
+        "Višji stroški za podjetja in gospodinjstva",
+        "Vpliv na dobičke podjetij in vrednotenja delnic"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss",
-      "objavljeno": "2026-09-12T15:34:51.000Z"
-    },
-    {
-      "naslov": "Donacije kripto milijarderjev Reform UK rekordne, vpliv na politiko",
-      "sektor": "Finance",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Britanska politična stranka Reform UK je prejela dve rekordni donaciji v skupni vrednosti 72 milijonov funtov od kripto milijarderjev Bena Dela in Christopherja Harborna. To so največje donacije v zgodovini britanske politike. Novica je bila objavljena 12. septembra 2026 ob 12:25 UTC.",
-      "analiza": "Ogromne donacije kripto milijarderjev politični stranki Reform UK kažejo na naraščajoč vpliv kripto industrije in njenih akterjev na politično dogajanje, ne le v Veliki Britaniji, temveč potencialno tudi širše. Takšne donacije lahko vplivajo na oblikovanje političnih prioritet in regulacij, zlasti na področju financ in tehnologije. Vpliv na finančne trge je lahko dvojak: na eni strani lahko pozitivno vpliva na vrednost kriptovalut, če stranka zagovarja pro-kripto politike, na drugi strani pa lahko poveča negotovost glede prihodnje regulacije kripto sektorja. Delnice podjetij, ki so povezana s kripto, bi lahko bile bolj nestanovitne. Obvezniški trgi so manj neposredno prizadeti, razen če bi šlo za širše gospodarske posledice sprememb v politiki. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati, kako se bo ta trend vpliva kripto kapitala na politiko razvijal, saj lahko to dolgoročno vpliva na regulativno okolje za finančne inovacije.",
-      "vpliv": [
-        "potencialno povečanje vrednosti kriptovalut zaradi politične podpore",
-        "povečana negotovost glede prihodnje regulacije kripto sektorja",
-        "vpliv na delnice podjetij, povezanih s kripto",
-        "možen pritisk na tradicionalne finančne institucije"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/936ac952-43a6-44d5-be69-afa344e042f5?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-12T12:25:10.000Z"
-    },
-    {
-      "naslov": "Indija poziva k opolnomočenju Globalnega juga na vrhu BRICS",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Indijski premier Narendra Modi je na vrhu BRICS pozval k prenovi globalnega upravljanja in opolnomočenju Globalnega juga. Poudaril je potrebo po večji vključenosti držav v razvoju v odločevalske procese. Novica je bila objavljena 12. septembra 2026 ob 12:19 UTC.",
-      "analiza": "Poziv Indije k opolnomočenju Globalnega juga na vrhu BRICS odraža naraščajoče geopolitične in ekonomske ambicije držav v razvoju, ki želijo večji vpliv v mednarodnih institucijah. To bi lahko vodilo do sprememb v globalnih trgovinskih sporazumih, finančnih tokovih in načinih reševanja globalnih izzivov. Vpliv na finančne trge bi bil lahko v obliki večje nestanovitnosti v času prehoda na novo globalno ureditev, vendar pa bi lahko dolgoročno prinesel večjo stabilnost in pravičnost. Delnice podjetij, ki so usmerjena v rast v državah v razvoju, bi lahko imele koristi. Valute držav Globalnega juga bi lahko pridobile na vrednosti, če bi se njihova gospodarska moč dejansko povečala. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba spremljati premike v globalnem gospodarskem in političnem ravnotežju, saj lahko vplivajo na dolgoročne naložbene strategije.",
-      "vpliv": [
-        "potencialno povečanje naložb v države v razvoju",
-        "večja konkurenca za razvite trge",
-        "spremembe v globalnih trgovinskih tokovih",
-        "povečana vloga BRICS v globalnem upravljanju"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss",
-      "objavljeno": "2026-09-12T12:19:56.000Z"
-    },
-    {
-      "naslov": "GM načrtuje razvoj baterij v ZDA, Trump kritizira Fordove povezave s Kitajsko",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "General Motors (GM) načrtuje razvoj baterij v ZDA, da bi zmanjšal odvisnost od Kitajske, medtem ko predsednik Trump kritizira Fordove poslovne povezave s Kitajsko. Večina baterijskih celic trenutno uporablja surovine iz Kitajske. GM si prizadeva za vzpostavitev domačih dobavnih verig tako za električna vozila kot za shranjevanje energije. Novica je bila objavljena 12. septembra 2026 ob 12:00 UTC.",
-      "analiza": "Prizadevanja GM za razvoj domačih dobavnih verig za baterije odražajo širši trend v avtomobilski industriji, ki se želi zmanjšati odvisnost od Kitajske, zlasti glede kritičnih surovin in proizvodnje. Ta poteza bi lahko pozitivno vplivala na ameriško gospodarstvo z ustvarjanjem novih delovnih mest in tehnološkim razvojem. Kritike predsednika Trumpa na račun Forda poudarjajo politični pritisk na podjetja, naj preusmerijo svoje proizvodne in dobavne verige stran od Kitajske. Vpliv na delnice avtomobilskih proizvajalcev je lahko mešan: podjetja, ki uspešno vzpostavljajo domače dobavne verige, bi lahko pridobila konkurenčno prednost, medtem ko bi tista, ki ostajajo odvisna od Kitajske, lahko čutila pritisk. Cene surovin za baterije bi lahko postale bolj nestanovitne, če se bo povpraševanje po domačih virih povečalo. Za slovenskega dolgoročnega vlagatelja to pomeni, da se globalna avtomobilska industrija transformira, pri čemer postaja strateška pomembnost dobavnih verig in zmanjševanje odvisnosti od posameznih držav ključnega pomena.",
-      "vpliv": [
-        "potencialno povečanje naložb v podjetja, ki proizvajajo baterije v ZDA",
-        "pritisk na avtomobilska podjetja z močnimi vezmi s Kitajsko",
-        "možno povečanje stroškov proizvodnje baterij v kratkem roku",
-        "spremembe v globalnih dobavnih verigah za avtomobilsko industrijo"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
-      "objavljeno": "2026-09-12T12:00:01.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cwyzegz38wlo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-13T06:01:53.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-12T17:54:13.177Z",
+    "posodobljenoOb": "2026-09-13T09:33:44.642Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -181,8 +181,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 77165.41,
-        "sprememba_pct": -0.05,
+        "vrednost": 76552.29,
+        "sprememba_pct": -0.93,
         "enota": "USD"
       }
     ],
