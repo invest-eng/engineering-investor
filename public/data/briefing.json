@@ -1,134 +1,134 @@
 {
-  "generiranoOb": "2026-09-14T09:52:37.595Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-09-14T19:55:57.503Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-09-14",
-  "povzetek": "Jutranji pregled finančnih trgov kaže mešano sliko po nočnih dogodkih. Ameriški indeksi so trgovanje zaključili v zelenem, pri čemer je S&P 500 zrasel za 0.86 % na 7657 točk, Nasdaq 100 pa za 0.91 % na 29368 točk. Azijski trgi so medtem beležili padce, Nikkei 225 je upadel za 0.81 % na 63493 točk, podobno kot nemški DAX, ki je izgubil 0.66 % in se ustavil pri 25399 točkah. Na trgu surovin je cena nafte WTI poskočila za 2.53 % na 102.58 USD/sod, Brent pa za 2.60 % na 107.33 USD/sod, medtem ko je zlato padlo za 2.00 % na 4320.60 USD/oz. Donosnost 10-letne ameriške državne obveznice se je povečala za 0.63 % na 4.97 %, kar kaže na povečan pritisk na obvezniške trge. Evropski trgi danes pričakujejo nadaljevanje previdnega trgovanja, obremenjenega z geopolitičnimi tveganji in vplivom cen energentov. Vlagatelji bodo ta teden pozorno spremljali objave inflacijskih podatkov iz evroobmočja in ZDA.",
+  "povzetek": "Evropski trgi so danes, 14. septembra 2026, zaključili trgovanje v negativnem območju, medtem ko so ameriški indeksi po dveh urah trgovanja prav tako kazali rdeče številke. Nemški DAX je dan zaključil z -0.50 % padcem pri 25441 točkah, medtem ko je S&P 500 upadel za -0.41 % na 7625 točk, tehnološki Nasdaq 100 pa za -0.68 % na 29169 točk. Trge so zaznamovale predvsem skrbi glede umetne inteligence, saj so vodilni v panogi pozvali k upočasnitvi razvoja, kar je povzročilo padec delnic, povezanih z AI. Geopolitične napetosti na Bližnjem vzhodu so še naprej poganjale cene nafte navzgor, saj je WTI nafta zrasla za +1.44 % na 101.49 USD/sod, Brent pa za +1.22 % na 105.89 USD/sod. To je prispevalo k rasti donosnosti 10-letne ameriške državne obveznice, ki je kljub kratkemu umiku ostala blizu kritične meje 5 % (trenutno 4.96 %). Zlato je medtem padlo za -1.74 % na 4332.00 USD/oz, medtem ko je Bitcoin izstopal z rastjo +2.92 % na 79047 USD. Indeks volatilnosti VIX je poskočil za +6.50 % na 16.87, kar kaže na povečano negotovost. Vlagatelji bodo ta teden pozorno spremljali objave o inflaciji in morebitne izjave centralnih bankirjev glede prihodnje denarne politike.",
   "novice": [
     {
-      "naslov": "Tehnološke delnice padajo po pozivih AI podjetij k upočasnitvi razvoja",
+      "naslov": "Ameriški stroški zadolževanja dosegli 5 % ob prodaji obveznic in rasti nafte",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Donosnost 10-letnih ameriških državnih obveznic je danes dosegla 5 %, kar je prvič po letu 2023, saj so naraščajoče cene nafte, ki jih poganja vojna na Bližnjem vzhodu, sprožile intenzivno razprodajo na svetovnem trgu obveznic. Cena nafte je presegla 108 dolarjev za sod po napadih Hutijev na savdsko infrastrukturo, kar je okrepilo inflacijske strahove. Ta psihološko pomembna meja donosnosti je bila dosežena v ponedeljek, ko je Wall Street doživel ponoven pritisk prodaje. Povečani stroški zadolževanja za ameriško vlado so neposredna posledica teh dogodkov.",
+      "analiza": "Ozadje dogajanja je v eskalaciji geopolitičnih napetosti na Bližnjem vzhodu, zlasti po napadih Hutijev na savdsko naftno infrastrukturo. Ti napadi so neposredno vplivali na ponudbo nafte, kar je pognalo cene Brent nafte nad 108 dolarjev za sod. Naraščajoče cene nafte so ključni dejavnik inflacije, saj se dražji energenti prenašajo v celotno gospodarstvo. To je relevantno zdaj, ker trgi že tako opazujejo znake morebitnega ponovnega pospeševanja inflacije, kar bi lahko prisililo centralne banke k nadaljnjemu zaostrovanju denarne politike. Mehanizem vpliva je jasen: višje cene nafte pomenijo višjo inflacijo, kar zmanjšuje realno vrednost fiksnih donosov obveznic. Vlagatelji zato zahtevajo višje donosnosti, da bi nadomestili pričakovano inflacijo, kar povzroči padec cen obveznic in rast donosnosti. Posledice so vidne v rasti donosnosti 10-letne ameriške državne obveznice na 4.96 %, kar pomeni višje stroške zadolževanja za vlade in podjetja. To se prenaša tudi na hipotekarne obrestne mere, kar negativno vpliva na nepremičninski trg. Za delnice to pomeni višje diskontne stopnje za prihodnje denarne tokove, kar lahko zmanjša njihovo privlačnost, še posebej za rastna podjetja. V preteklosti, na primer v 70. letih, so naftni šoki prav tako vodili v visoko inflacijo in rast obrestnih mer. Slovenski dolgoročni vlagatelj mora razumeti, da višje obrestne mere vplivajo na vrednotenje vseh naložb in povečujejo stroške financiranja, kar lahko upočasni gospodarsko rast.",
+      "vpliv": [
+        "Donosnost 10-letne US Treasury na 4.96 %",
+        "Cena Brent nafte nad 105.89 USD/sod",
+        "Povečani inflacijski strahovi",
+        "Pritisk na delniške trge"
+      ],
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+      "objavljeno": "2026-09-14T16:48:34.000Z"
+    },
+    {
+      "naslov": "Delnice, povezane z AI, padajo po pozivih k upočasnitvi razvoja",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Tehnološke delnice so danes zabeležile padce, potem ko so vodilna podjetja na področju umetne inteligence, kot je Anthropic, pozvala k upočasnitvi razvoja naprednih modelov. Odziv vlagateljev na te pozive je bil negativen, čeprav ne katastrofalen. Južnokorejski tehnološko usmerjeni indeks Kospi je zdrsnil, medtem ko se Wall Street pripravlja na nižje odprtje. To se dogaja kljub poročilom, da je Anthropic že drugo četrtletje zapored posloval z dobičkom, čeprav s pomembno omejitvijo. Trgi so zaskrbljeni zaradi morebitnega vpliva na hitrost inovacij in prihodnje dobičke v sektorju.",
-      "analiza": "Ozadje te novice leži v hitrem in eksponentnem razvoju umetne inteligence, ki je v zadnjih letih poganjala rast tehnološkega sektorja. Vodilna podjetja, kot je Anthropic, so se znašla pod drobnogledom zaradi etičnih in varnostnih vprašanj, kar je privedlo do pozivov po regulaciji in morebitni upočasnitvi. To je relevantno zdaj, ker se vlagatelji sprašujejo, ali bo morebitna regulacija ali samoiniciativna upočasnitev omejila potencial rasti, ki so ga pričakovali od AI podjetij. Mehanizem vpliva je preprost: pričakovanja o prihodnji rasti in dobičkih so ključna za vrednotenje delnic, še posebej v visoko rastočih sektorjih, kot je AI. Morebitna upočasnitev razvoja ali strožja regulacija bi lahko zmanjšala te projekcije. Posledice so vidne v padcu tehnoloških delnic, kot je bil zabeležen na južnokorejskem Kospi indeksu. To lahko povzroči širšo korekcijo v tehnološkem sektorju, vpliva na delnice podjetij, ki so močno izpostavljena AI tehnologijam, in morda celo na obveznice, saj bi upočasnitev rasti lahko vplivala na pričakovanja glede inflacije in obrestnih mer. Za slovenskega dolgoročnega vlagatelja to pomeni, da je ključno spremljati razvoj regulacije AI in odzive podjetij. Visoka volatilnost v tehnološkem sektorju je pričakovana, zato je diverzifikacija portfelja pomembna.",
-      "vpliv": [
-        "Padec tehnoloških delnic (npr. Kospi)",
-        "Negativen odziv vlagateljev na pozive za upočasnitev AI",
-        "Povečana negotovost glede prihodnjih dobičkov AI podjetij",
-        "Potencialna širša korekcija v tehnološkem sektorju"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-14T09:10:38.000Z"
-    },
-    {
-      "naslov": "Cena nafte Brent presega 107 USD zaradi geopolitičnih napetosti in preloženih pogovorov",
-      "sektor": "Energetika",
-      "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Cena nafte je močno poskočila, pri čemer je Brent nafta dosegla 107.33 USD/sod (+2.60 %), WTI nafta pa 102.58 USD/sod (+2.53 %). To se je zgodilo po preložitvi pogovorov med zalivskimi državami in Iranom glede vitalne plovne poti Hormuške ožine. Novica o preloženem srečanju se je pojavila po tem, ko je bil prejšnji teden po napadu z dronom zaprt savdski naftovod, kar je že povzročilo zaskrbljenost glede dobave. Geopolitične napetosti v regiji so se tako ponovno okrepile, kar neposredno vpliva na cene energentov.",
-      "analiza": "Ozadje te rasti cen nafte je v dolgotrajnih geopolitičnih napetostih na Bližnjem vzhodu, ki so ključne za globalno oskrbo z nafto. Hormuška ožina je strateška točka, skozi katero poteka velik del svetovnega pomorskega prometa z nafto. Preložitev pogovorov med zalivskimi državami in Iranom, ki bi lahko stabilizirali razmere, skupaj z nedavnim napadom na savdski naftovod, ustvarja negotovost glede stabilnosti dobav. To je relevantno zdaj, ker se globalno gospodarstvo sooča z inflacijskimi pritiski, visoke cene nafte pa te pritiske še povečujejo. Mehanizem vpliva je direkten: vsaka grožnja dobavi nafte iz ključnih regij, kot je Bližnji vzhod, takoj povzroči rast cen na trgu surovin, saj se vlagatelji in trgovci bojijo pomanjkanja. Posledice so vidne v rasti cen WTI nafte na 102.58 USD/sod in Brent nafte na 107.33 USD/sod. To bo vplivalo na stroške proizvodnje in transporta po vsem svetu, kar lahko povzroči višjo inflacijo in zmanjša kupno moč potrošnikov. Centralne banke, kot je Banka Anglije (kot kaže druga novica), bi lahko bile prisiljene k dvigu obrestnih mer, kar bi vplivalo na obveznice in delnice. Za slovenskega dolgoročnega vlagatelja to pomeni, da je energetska varnost in stabilnost cen nafte ključnega pomena za globalno gospodarsko rast. Naložbe v energetske sektorje so lahko volatilne, vendar tudi ponujajo zaščito pred inflacijo.",
+      "povzetek": "Delnice podjetij, povezanih z umetno inteligenco (AI), so v ponedeljek močno padle, potem ko so vodilni predstavniki podjetij Anthropic, OpenAI in SpaceX pozvali k upočasnitvi 'nepremišljenega' razvoja AI, navajajoč strahove, da bi tehnologija lahko kmalu ušla izpod nadzora. Delnice proizvajalca polprevodnikov Nvidia, ki je najvrednejše podjetje na svetu, so se v zgodnjem popoldnevu v New Yorku znižale za 3 %. Delnice Advanced Micro Devices (AMD) so padle za 4.4 %, medtem ko so delnice Micron Technology in Sandisk strmoglavile za 5 %. Donald Trump je medtem poskuse povečanja nadzora nad umetno inteligenco označil za 'bolno zaroto'.",
+      "analiza": "Ozadje te novice je v naraščajočih etičnih in varnostnih pomislekih glede hitrega napredka umetne inteligence. Vodilni v industriji, vključno z direktorji podjetij kot so Anthropic in OpenAI, so izrazili zaskrbljenost glede potencialnih tveganj, če se razvoj ne bo upočasnil in ustrezno reguliral. To je relevantno zdaj, ker je sektor AI v zadnjih letih gonilna sila rasti delniških trkov, zlasti v ZDA. Kakršnakoli negotovost glede prihodnjega razvoja ali morebitne regulacije lahko močno vpliva na zaupanje vlagateljev. Mehanizem vpliva je neposreden: pozivi k upočasnitvi in morebitni regulaciji zmanjšujejo pričakovane prihodnje prihodke in dobičke podjetij, ki so močno odvisna od AI tehnologije. To vodi do razprodaje delnic v tem sektorju. Posledice so vidne v padcu delnic ključnih igralcev, kot so Nvidia (-3 %), AMD (-4.4 %), Micron Technology in Sandisk (-5 %). To vpliva na celoten tehnološki sektor in širše trge, saj AI predstavlja pomemben del tržne kapitalizacije. V preteklosti so podobni pozivi k regulaciji v drugih hitro rastočih sektorjih (npr. biotehnologija, internet v zgodnjih fazah) povzročili kratkoročne pretrese. Slovenski dolgoročni vlagatelj mora biti pozoren na tveganja, povezana s hitro rastočimi, a potencialno nereguliranimi sektorji, in razumeti, da so visoke rasti pogosto povezane z visoko volatilnostjo.",
       "vpliv": [
-        "Rast cen WTI nafte na 102.58 USD/sod",
-        "Rast cen Brent nafte na 107.33 USD/sod",
-        "Povečana geopolitična tveganja na Bližnjem vzhodu",
-        "Potencialno višja globalna inflacija"
+        "Delnice Nvidia -3 %",
+        "Delnice AMD -4.4 %",
+        "Delnice Micron Technology in Sandisk -5 %",
+        "Povečana negotovost v tehnološkem sektorju"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-14T07:31:04.000Z"
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
+      "objavljeno": "2026-09-14T18:17:47.000Z"
     },
     {
-      "naslov": "Rast cen nafte povečuje verjetnost dviga obrestnih mer Banke Anglije",
+      "naslov": "Obrestna mera za 30-letno hipoteko poskočila na 7.17 %, najvišje v skoraj dveh letih",
       "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Zvišanje cen nafte, ki je Brent nafto potisnilo na 107.33 USD/sod, ponovno oživlja pričakovanja o morebitnem dvigu obrestnih mer s strani Banke Anglije (BoE) še letos. Čeprav vlagatelji pričakujejo, da bo BoE ta teden zadržala stroške zadolževanja, signalizirajo možnost povišanja obrestnih mer v drugi polovici leta. To je neposredna posledica inflacijskih pritiskov, ki jih povzročajo dražji energenti, kar centralno banko sili k razmisleku o zaostrovanju denarne politike.",
-      "analiza": "Ozadje te novice je v mandatu centralnih bank, da ohranjajo cenovno stabilnost. Ko cene ključnih surovin, kot je nafta, močno narastejo, se povečajo tudi inflacijski pritiski v gospodarstvu. Banka Anglije, podobno kot druge centralne banke, mora uravnotežiti boj proti inflaciji z ohranjanjem gospodarske rasti. To je relevantno zdaj, ker visoke cene nafte, kot je Brent na 107.33 USD/sod, neposredno vplivajo na stroške podjetij in gospodinjstev v Združenem kraljestvu. Mehanizem vpliva je takšen, da višje cene energentov povečujejo splošno raven cen, kar lahko vodi do spirale plač in cen. Centralne banke se na to odzovejo z dvigom obrestnih mer, da bi ohladile gospodarstvo in zajezile inflacijo. Posledice za finančne trge so večplastne: pričakovanja o višjih obrestnih merah običajno negativno vplivajo na delnice, saj se povečajo stroški zadolževanja za podjetja in zmanjša privlačnost tveganih naložb. Obveznice so prav tako pod pritiskom, saj višje obrestne mere znižujejo njihove cene. Po drugi strani pa lahko višje obrestne mere okrepijo nacionalno valuto, v tem primeru britanski funt. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati odločitve centralnih bank, saj imajo neposreden vpliv na donosnost različnih razredov sredstev. Obdobja višjih obrestnih mer lahko pomenijo nižje vrednotenje delnic in višje donose obveznic.",
-      "vpliv": [
-        "Povečana verjetnost dviga obrestnih mer BoE",
-        "Potencialni pritisk na delnice v Združenem kraljestvu",
-        "Padec cen obveznic v Združenem kraljestvu",
-        "Možna krepitev britanskega funta"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/050b2863-a164-431f-bd04-2e416adf9a38?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-14T04:00:12.000Z"
-    },
-    {
-      "naslov": "Jemenske vladne sile napredujejo v Taizu, medtem ko Hutiji trdijo o napadu na Savdsko Arabijo",
-      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Jemenske vladne sile so napredovale v zahodnem Taizu, potem ko so uspešno odbile ofenzivo Hutijev. Hkrati so Hutiji trdili, da so izvedli napad na Savdsko Arabijo. Ta dogodek poudarja nadaljevanje konflikta v Jemnu, ki ima širše regionalne posledice, še posebej za Savdsko Arabijo, ključnega proizvajalca nafte. Napadi Hutijev na savdska ozemlja so v preteklosti že povzročali zaskrbljenost na energetskih trgih.",
-      "analiza": "Ozadje jemenske državljanske vojne je kompleksno, vključuje regionalne rivalstva med Savdsko Arabijo in Iranom, ki podpirata nasprotujoče si strani. Konflikt je povzročil eno največjih humanitarnih kriz na svetu. To je relevantno zdaj, ker nadaljevanje in morebitno stopnjevanje konflikta neposredno ogroža stabilnost Bližnjega vzhoda, regije, ki je ključna za globalno oskrbo z nafto. Mehanizem vpliva je posreden, a pomemben: čeprav novica ne omenja neposrednega napada na naftno infrastrukturo, vsak napad Hutijev na Savdsko Arabijo povečuje geopolitično tveganje v regiji. To lahko vpliva na cene nafte, saj se vlagatelji bojijo morebitnih motenj v dobavi. Posledice so predvsem v povečani negotovosti in tveganju. Cene nafte, ki so že povišane (Brent na 107.33 USD/sod), bi se lahko še zvišale, kar bi povzročilo nadaljnje inflacijske pritiske. Povečana nestabilnost v regiji lahko vpliva tudi na regionalne delniške trge in valute, saj se zmanjša privlačnost naložb. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so geopolitična tveganja na Bližnjem vzhodu stalni dejavnik, ki lahko vpliva na cene energentov in s tem na globalno gospodarstvo. Diverzifikacija in spremljanje dogajanja v regiji sta ključna.",
+      "povzetek": "Povprečna obrestna mera za 30-letno hipotekarno posojilo je poskočila na 7.17 %, kar predstavlja skoraj dvoletni vrh in nov udarec za stanovanjski trg. Ta skok je bil posledica prečkanja ključnega 5-odstotnega praga donosnosti 10-letne ameriške državne obveznice v ponedeljek. Višje obrestne mere neposredno vplivajo na stroške zadolževanja za kupce nepremičnin, kar zmanjšuje njihovo kupno moč in dostopnost stanovanj.",
+      "analiza": "Ozadje te novice je v splošnem trendu rasti obrestnih mer, ki so posledica zaostrene denarne politike centralnih bank v boju proti inflaciji. Donosnost 10-letne ameriške državne obveznice, ki je ključna referenčna točka za dolgoročne obrestne mere, je danes presegla 5 %, kar je neposredno vplivalo na hipotekarne obrestne mere. To je relevantno zdaj, ker visoke obrestne mere za hipoteke močno obremenjujejo stanovanjski trg, ki je bil v zadnjih letih že pod pritiskom. Mehanizem vpliva je preprost: višje obrestne mere pomenijo višje mesečne obroke za hipotekarna posojila, kar zmanjšuje povpraševanje po nepremičninah in lahko vodi v stagnacijo ali padec cen nepremičnin. Posledice so negativne za nepremičninski sektor, gradbena podjetja in banke, ki so izpostavljene hipotekarnim posojilom. Prav tako to vpliva na potrošnike, ki se soočajo z dražjim financiranjem nakupa domov. Zgodovinsko gledano, so obdobja visokih obrestnih mer pogosto sovpadala z ohlajanjem nepremičninskih trgov. Slovenski dolgoročni vlagatelj mora razumeti, da so obrestne mere ključni dejavnik za vrednotenje nepremičnin in da spremembe v denarni politiki centralnih bank močno vplivajo na ceno kapitala in s tem na vse vrste naložb.",
       "vpliv": [
-        "Povečana geopolitična tveganja na Bližnjem vzhodu",
-        "Potencialni pritisk na rast cen nafte",
-        "Negativni vpliv na regionalne delniške trge",
-        "Povečana negotovost v globalnem gospodarstvu"
+        "30-letna hipotekarna mera 7.17 %",
+        "Udar na stanovanjski trg",
+        "Zmanjšana kupna moč potrošnikov",
+        "Pritisk na gradbeni sektor"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/14/yemen-govt-forces-advance-in-taiz-as-houthis-claim-attack-on-saudi-arabia?traffic_source=rss",
-      "objavljeno": "2026-09-14T09:21:56.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/30-year-mortgage-rate-jumps-to-7-17-a-nearly-2-year-high-in-the-latest-blow-to-the-housing-market-aadbd63e?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-14T18:42:00.000Z"
     },
     {
-      "naslov": "Rusija napadla ukrajinski vlak kmalu po odhodu Borisa Johnsona",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Ruski dron je zadel vlak blizu ukrajinsko-poljske meje, in sicer kmalu po tem, ko je nekdanji britanski premier Boris Johnson zapustil postajo. Ta incident poudarja nadaljevanje in stopnjevanje konflikta v Ukrajini, ki ostaja vir geopolitične nestabilnosti v Evropi. Napad, ki se je zgodil v bližini meje z državo članico EU in Nata, kaže na širše tveganje in nepredvidljivost vojne.",
-      "analiza": "Ozadje te novice je v dolgotrajni in brutalni ruski invaziji na Ukrajino, ki je povzročila največji konflikt v Evropi po drugi svetovni vojni. Vojna ima daljnosežne posledice za globalno geopolitiko, energetske trge in dobavne verige. To je relevantno zdaj, ker incident, ki se je zgodil tako blizu meje z Natovo državo, poudarja tveganje za širjenje konflikta in eskalacijo. Prisotnost visokega tujega uradnika, kot je Boris Johnson, v bližini napada, še dodatno poudarja politično občutljivost situacije. Mehanizem vpliva je predvsem psihološki in tveganjski: vsak takšen incident povečuje negotovost na trgih. Povečana geopolitična tveganja v Evropi lahko vplivajo na zaupanje vlagateljev, kar se odraža v padcu evropskih delniških indeksov, kot je DAX (-0.66 %). Posledice so lahko v nadaljnjem umiku kapitala iz regije, pritisk na valute, kot je evro (EUR/USD je padel za 0.48 % na 1.1545), in morebitno povečanje cen energentov, če bi se dobavne poti še bolj motile. Poveča se tudi povpraševanje po varnih zatočiščih, kot sta zlato (čeprav je danes padlo, kar je lahko kratkoročna anomalija) in ameriške državne obveznice. Za slovenskega dolgoročnega vlagatelja to pomeni, da je vojna v Ukrajini še vedno ključen dejavnik tveganja v Evropi. Naložbe v evropske delnice in obveznice so izpostavljene tej negotovosti, zato je pomembna diverzifikacija in spremljanje političnega dogajanja.",
-      "vpliv": [
-        "Povečana geopolitična tveganja v Evropi",
-        "Potencialni pritisk na evropske delniške trge (npr. DAX -0.66 %)",
-        "Padec vrednosti evra (EUR/USD -0.48 %)",
-        "Povečana negotovost vlagateljev"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/russia-hits-ukrainian-train-shortly-after-boris-johnson-leaves-station?traffic_source=rss",
-      "objavljeno": "2026-09-14T03:37:12.000Z"
-    },
-    {
-      "naslov": "Združeno kraljestvo se sooča z ogromno vrzeljo v infrastrukturnih naložbah",
+      "naslov": "Bank of America pričakuje padec prihodkov od investicijskega bančništva",
       "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Poročilo opozarja, da se Združeno kraljestvo sooča z ogromno vrzeljo v infrastrukturnih naložbah v višini 258 milijard funtov. Da bi država uresničila načrtovane projekte, kot so rezervoarji, zaporne ustanove in šole, mora vlada povečati naložbe za dve tretjini. Ta podatek poudarja velik izziv za britansko gospodarstvo in javne finance, saj bo zahteval znatne fiskalne napore in strateško načrtovanje.",
-      "analiza": "Ozadje te novice je v dolgotrajnem pomanjkanju naložb v javno infrastrukturo v mnogih razvitih državah, vključno z Združenim kraljestvom. Infrastruktura je ključna za gospodarsko rast, produktivnost in kakovost življenja. Poročilo izpostavlja, da so pretekle odločitve ali pomanjkanje le-teh privedle do te vrzeli. To je relevantno zdaj, ker se Združeno kraljestvo sooča z izzivi po Brexitu in potrebuje močno gospodarsko podlago za prihodnjo rast. Pomanjkljiva infrastruktura lahko zavira produktivnost in konkurenčnost. Mehanizem vpliva je takšen, da velika infrastrukturna vrzel zahteva znatne javne izdatke. To lahko pomeni višje davke, večje zadolževanje države ali prerazporeditev sredstev iz drugih sektorjev. Vse to ima lahko posledice za finančne trge. Povečano zadolževanje lahko povzroči pritisk na britanske državne obveznice (gilts) in morebitno znižanje bonitetne ocene. Višji davki lahko negativno vplivajo na potrošnjo in dobičke podjetij, kar se odraža na delniških trgih. Po drugi strani pa bi povečane naložbe v infrastrukturo dolgoročno lahko spodbudile gospodarsko rast in produktivnost, kar bi bilo pozitivno. Za slovenskega dolgoročnega vlagatelja to pomeni, da je fiskalna stabilnost in sposobnost države za financiranje ključnih projektov pomembna za dolgoročno gospodarsko zdravje. Naložbe v države z velikimi fiskalnimi izzivi lahko nosijo večje tveganje, vendar pa dolgoročne infrastrukturne naložbe lahko ustvarijo tudi priložnosti v določenih sektorjih.",
+      "povzetek": "Bank of America, druga največja banka v ZDA po sredstvih, pričakuje, da bodo njeni prihodki od investicijskega bančništva v tretjem četrtletju padli za več kot 10 %. Ta zadržana napoved je povzročila padec delnic banke in bi lahko bila zgodnji znak, da je 'AI boom' na Wall Streetu naletel na turbulence. Padec prihodkov od investicijskega bančništva običajno kaže na zmanjšano aktivnost na področju združitev in prevzemov ter izdaj delnic in obveznic.",
+      "analiza": "Ozadje te novice je v splošnem ohlajanju globalnega gospodarstva in morebitnem koncu obdobja izjemne rasti, ki jo je poganjal predvsem sektor umetne inteligence. Investicijsko bančništvo je zelo ciklično in močno odvisno od aktivnosti na kapitalskih trgih. Zmanjšanje prihodkov za več kot 10 % pri tako veliki instituciji kot je Bank of America je pomemben indikator. To je relevantno zdaj, ker bi lahko ta napoved nakazovala širše ohlajanje v finančnem sektorju in na Wall Streetu, kar bi lahko vplivalo na celotno gospodarstvo. Mehanizem vpliva je, da zmanjšana aktivnost na področju združitev in prevzemov (M&A) ter izdaj primarnega kapitala (IPO, obveznice) pomeni manj provizij za investicijske banke. To je pogosto znak, da podjetja postajajo previdnejša glede širitev in investicij v negotovih gospodarskih razmerah. Posledice so neposredne za delnice Bank of America in širši finančni sektor, saj se zmanjšujejo pričakovani dobički. To lahko vpliva tudi na zaupanje vlagateljev v splošno zdravje gospodarstva. V preteklosti so padci prihodkov investicijskega bančništva pogosto predhodili širšim gospodarskim upočasnitvam. Slovenski dolgoročni vlagatelj mora spremljati kazalnike finančnega sektorja, saj so banke in investicijske hiše ključni barometer za gospodarsko aktivnost in razpoloženje na trgu.",
       "vpliv": [
-        "Potreba po 258 milijardah funtov dodatnih infrastrukturnih naložb",
-        "Potencialno povečanje javnega dolga Združenega kraljestva",
-        "Možen pritisk na britanske državne obveznice",
-        "Dolgoročni vpliv na gospodarsko rast in produktivnost Združenega kraljestva"
+        "Prihodki od investicijskega bančništva -10 %",
+        "Padec delnic Bank of America",
+        "Ohlajanje aktivnosti na Wall Streetu",
+        "Zmanjšana M&A in IPO aktivnost"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/cfcc5bc1-56cc-4e9f-8f0e-ef45932b76ab?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-14T04:00:12.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+      "objavljeno": "2026-09-14T18:39:08.000Z"
+    },
+    {
+      "naslov": "Ugledni ekonomisti opozarjajo na morebitno napako ameriške centralne banke",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Nekateri ugledni ekonomisti opozarjajo, da bi se ameriška centralna banka (Fed) lahko znašla na robu resne napake. Pozivajo Fed, naj počaka z morebitnim dvigom obrestnih mer, saj jih skrbi, da je gospodarstvo pod površjem ranljivo. To opozorilo prihaja v času, ko se trgi soočajo z naraščajočimi inflacijskimi pritiski in negotovostjo glede prihodnje gospodarske rasti.",
+      "analiza": "Ozadje te debate je v stalnem boju centralnih bank z inflacijo in hkrati poskusom, da ne bi preveč ohladile gospodarstva in ga pahnile v recesijo. Fed je v zadnjem času agresivno dvigoval obrestne mere, vendar nekateri ekonomisti menijo, da bi lahko bil ta pristop preoster. To je relevantno zdaj, ker so odločitve Feda ključne za globalne finančne trge. Napačna poteza bi lahko imela daljnosežne posledice za delnice, obveznice in valute po vsem svetu. Mehanizem vpliva je, da pretirano zaostrovanje denarne politike lahko zaduši gospodarsko rast, poveča brezposelnost in povzroči recesijo. Po drugi strani pa prehitro opuščanje boja proti inflaciji lahko privede do ponovnega pospeševanja cen. Posledice morebitne napake Feda bi se odrazile v povečani volatilnosti na delniških trgih (S&P 500 je že pri -0.41 %), morebitnem padcu cen obveznic, če bi se inflacija ponovno razplamtela, ali pa v močnem padcu donosnosti, če bi se gospodarstvo drastično upočasnilo. Vplivalo bi tudi na vrednost ameriškega dolarja (EUR/USD je že pri 1.1551, z -0.43 % padcem EUR). Zgodovinsko gledano, so bile napake centralnih bank, kot je npr. prehitro znižanje obrestnih mer v 70. letih, pogosto povezane z dolgotrajnimi obdobji stagflacije. Slovenski dolgoročni vlagatelj mora razumeti, da so odločitve Feda ključne za globalno likvidnost in ceno kapitala, kar posredno vpliva na vse naložbe.",
+      "vpliv": [
+        "Povečana negotovost glede denarne politike",
+        "Potencialno ohlajanje gospodarstva",
+        "Povečana volatilnost na trgih",
+        "Vpliv na vrednost USD"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-14T18:37:00.000Z"
+    },
+    {
+      "naslov": "Napetosti na Bližnjem vzhodu dvigajo cene nafte nad 100 dolarjev",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Cena Brent nafte je presegla 100 dolarjev za sod, saj vojna v Iranu moti ladijski promet skozi Hormuško ožino. Ta ključna pomorska pot je bistvena za globalno dobavo nafte, saj skozi njo potuje velik del svetovnega izvoza nafte. Geopolitične napetosti na Bližnjem vzhodu so glavni dejavnik za ta porast cen. WTI nafta je danes zrasla za +1.44 % na 101.49 USD/sod, Brent pa za +1.22 % na 105.89 USD/sod.",
+      "analiza": "Ozadje te situacije je v eskalaciji konflikta v Iranu, ki neposredno ogroža ladijski promet skozi Hormuško ožino. Ta ožina je strateško izjemno pomembna, saj skozi njo poteka približno petina svetovne porabe nafte in tretjina svetovnega utekočinjenega zemeljskega plina. Kakršnakoli motnja v tej regiji ima takojšen in dramatičen vpliv na globalne cene energentov. To je relevantno zdaj, ker visoke cene nafte neposredno prispevajo k inflacijskim pritiskom po svetu in povečujejo stroške za podjetja in potrošnike. Mehanizem vpliva je preprost: zmanjšana ali ogrožena dobava nafte iz ključne regije ustvarja pomanjkanje na trgu, kar povzroči rast cen. Posledice so vidne v rasti cen WTI nafte na 101.49 USD/sod in Brent nafte na 105.89 USD/sod. To vpliva na vse sektorje gospodarstva, ki so odvisni od transporta in energije. Višje cene nafte lahko zmanjšajo potrošniško porabo in dobičke podjetij, kar negativno vpliva na delniške trge. Povečujejo tudi inflacijske pritiske, kar lahko prisili centralne banke k nadaljnjemu zaostrovanju denarne politike, kar posledično vpliva na obveznice in valute. Zgodovinsko gledano, so konflikti na Bližnjem vzhodu pogosto povzročali naftne šoke, ki so imeli globalne gospodarske posledice, kot je bilo v 70. in zgodnjih 90. letih. Slovenski dolgoročni vlagatelj mora biti pozoren na geopolitična tveganja, saj imajo ta lahko neposreden vpliv na cene surovin in s tem na globalno gospodarstvo.",
+      "vpliv": [
+        "Brent nafta 105.89 USD/sod",
+        "WTI nafta 101.49 USD/sod",
+        "Moten ladijski promet skozi Hormuško ožino",
+        "Povečani globalni inflacijski pritiski"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-middle-east-tensions-are-pushing-oil-prices-above-100?traffic_source=rss",
+      "objavljeno": "2026-09-14T16:36:05.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-14T09:51:00.223Z",
+    "posodobljenoOb": "2026-09-14T19:54:50.873Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7656.98,
-        "sprememba_pct": 0.86
+        "vrednost": 7625.24,
+        "sprememba_pct": -0.41
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29368.44,
-        "sprememba_pct": 0.91
+        "vrednost": 29169.232,
+        "sprememba_pct": -0.68
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25398.96,
-        "sprememba_pct": -0.66
+        "vrednost": 25440.81,
+        "sprememba_pct": -0.5
       },
       {
         "simbol": "^N225",
@@ -141,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4320.6,
-        "sprememba_pct": -2,
+        "vrednost": 4332,
+        "sprememba_pct": -1.74,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 102.58,
-        "sprememba_pct": 2.53,
+        "vrednost": 101.49,
+        "sprememba_pct": 1.44,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 107.33,
-        "sprememba_pct": 2.6,
+        "vrednost": 105.89,
+        "sprememba_pct": 1.22,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1545,
-        "sprememba_pct": -0.48
+        "vrednost": 1.1551,
+        "sprememba_pct": -0.43
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.975,
-        "sprememba_pct": 0.63,
+        "vrednost": 4.961,
+        "sprememba_pct": -0.28,
         "enota": "%"
       }
     ],
@@ -181,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 78047.79,
-        "sprememba_pct": 1.62,
+        "vrednost": 79047.19,
+        "sprememba_pct": 2.92,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 18.08,
-      "sprememba_pct": 14.14
+      "vrednost": 16.87,
+      "sprememba_pct": 6.5
     }
   }
 }
