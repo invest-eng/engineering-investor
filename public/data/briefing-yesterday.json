@@ -1,158 +1,162 @@
 {
-  "generiranoOb": "2026-09-14T19:59:07.965Z",
+  "generiranoOb": "2026-09-15T19:19:13.536Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-09-14",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, pri čemer je nemški indeks DAX padel za 0,50 % na 25441 točk. Tudi čezatlantski trgi so začeli dan v rdečem, saj je indeks S&P 500 po dveh urah trgovanja beležil padec za 0,43 % na 7624 točk, medtem ko je tehnološki Nasdaq 100 zdrsnil za 0,75 % na 29148 točk. Glavni razlogi za pesimizem so bili pozivi k upočasnitvi razvoja umetne inteligence, ki so povzročili padec delnic v tehnološkem sektorju, ter naraščajoče cene nafte, ki so ponovno spodbudile inflacijske skrbi. Cena nafte WTI je zrasla za 1,66 % na 101,71 USD za sod, Brent pa za 1,43 % na 106,11 USD za sod. Donosnost 10-letne ameriške državne obveznice je sicer po dosegu 5 % tekom dneva popustila na 4,96 %, vendar so obrestne mere za 30-letne hipoteke poskočile na 7,17 %. Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v ZDA, ki bo ključna za prihodnje odločitve centralnih bank.",
+  "datum": "2026-09-15",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, medtem ko so ameriški indeksi po dveh urah trgovanja prav tako kazali rdeče številke. Nemški DAX je dan zaključil pri 25402 točkah z -0.15 % padcem, medtem ko sta v ZDA S&P 500 pri 7583 točkah beležil -0.49 % padec, Nasdaq 100 pa pri 28929 točkah -0.68 %. Posebno pozornost so pritegnili donosi 10-letnih ameriških državnih obveznic, ki so zrasli za +0.71 % na 5.00 %, kar je najvišja raven po letu 2007. Cene nafte so občutno poskočile, saj je WTI nafta zrasla za +4.08 % na 105.53 USD/sod, Brent nafta pa za +2.56 % na 108.39 USD/sod, kar kaže na povečane geopolitične napetosti, medtem ko je Bitcoin padel za -2.54 % na 76194 USD. Vlagatelji bodo ta teden pozorno spremljali morebitne izjave predstavnikov Federal Reserve glede prihodnje monetarne politike, še posebej v luči rastočih donosov obveznic.",
   "novice": [
     {
-      "naslov": "Delnice podjetij, povezanih z umetno inteligenco, padajo po pozivih k upočasnitvi razvoja.",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Vodilni predstavniki podjetij Anthropic, OpenAI in SpaceX so danes pozvali k upočasnitvi \"nepremišljenega\" razvoja umetne inteligence, opozarjajoč na tveganja, da bi tehnologija lahko ušla izpod nadzora. Ti pozivi so sprožili padec delnic podjetij, povezanih z umetno inteligenco, na ameriških borzah. Delnice proizvajalca polprevodnikov Nvidia, ki velja za najvrednejše podjetje na svetu, so se v zgodnjem popoldnevu v New Yorku znižale za 3 %. Podobno so delnice Advanced Micro Devices (AMD) padle za 4,4 %, medtem ko so delnice Micron Technology in Sandisk zabeležile padec za 5 %. Ameriški predsednik Donald Trump je medtem poskuse povečanja nadzora nad umetno inteligenco označil za \"bolno zaroto\".",
-      "analiza": "Ozadje te novice leži v hitrem napredku in vse večjih pomislekih glede varnosti in etike umetne inteligence. V zadnjih letih je sektor AI doživel izjemno rast, poganjano z velikimi naložbami in pričakovanji o transformativnem potencialu. Vendar pa se ob tem pojavljajo tudi opozorila o morebitnih negativnih posledicah, vključno z izgubo nadzora nad naprednimi sistemi. Relevantnost te novice je v tem, da se te skrbi zdaj prelivajo na finančne trge, saj so pozivi k upočasnitvi razvoja sprožili negativen odziv med vlagatelji. Mehanizem vpliva je dvojni: po eni strani se zmanjšujejo pričakovanja o hitri rasti in dobičkih podjetij v sektorju AI, po drugi strani pa se povečuje negotovost glede morebitnih regulativnih ukrepov, ki bi lahko omejili inovacije. Posledično so delnice tehnoloških podjetij, še posebej tistih, ki so močno odvisne od AI (kot so proizvajalci čipov), doživele padec. Nvidia, AMD, Micron Technology in Sandisk so vsi zabeležili pomembne padce, kar kaže na preusmeritev kapitala iz tveganih naložb. Na širše trge to vpliva kot splošen dejavnik negotovosti, medtem ko obveznice in surovine niso neposredno prizadete, razen posredno preko splošnega sentimenta. Zgodovinsko gledano, podobne faze hitre rasti in kasnejših pomislekov so bile vidne v preteklosti pri drugih prelomnih tehnologijah, kjer so regulativne negotovosti pogosto povzročile kratkoročno volatilnost. Vlagatelji bodo morali pozorno spremljati razvoj regulativnih okvirov in odzive tehnoloških podjetij. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub dolgoročnemu potencialu AI sektorja, kratkoročno prisotna povečana volatilnost in tveganje, kar zahteva previdno oceno naložb v ta segment.",
-      "vpliv": [
-        "Delnice Nvidia padle za 3 %",
-        "Delnice AMD padle za 4,4 %",
-        "Delnice Micron Technology in Sandisk padle za 5 %",
-        "Povečana regulativna negotovost v sektorju AI"
-      ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
-      "objavljeno": "2026-09-14T18:17:47.000Z"
-    },
-    {
-      "naslov": "Stroški zadolževanja ZDA dosegli 5 % ob prodaji obveznic in rasti cen nafte.",
-      "sektor": "Energetika / Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Stroški zadolževanja ameriške vlade so danes dosegli 5 % prvič po letu 2023, kar je posledica intenzivne razprodaje na globalnem trgu obveznic. Donosnost 10-letnih ameriških državnih obveznic je v ponedeljek presegla psihološko pomembno mejo 5 %. Ta rast je bila pogojena z naraščajočimi cenami nafte, ki so presegle 108 dolarjev za sod, po napadih Hutijev na savdsko infrastrukturo. Visoke cene nafte, ki jih poganja vojna na Bližnjem vzhodu, so ponovno spodbudile strahove pred inflacijo. Nafta Brent je danes dosegla 106,11 USD za sod, kar predstavlja rast za 1,43 %.",
-      "analiza": "Ozadje te situacije je v nadaljevanju geopolitičnih napetosti na Bližnjem vzhodu, zlasti napadov Hutijev na savdsko naftno infrastrukturo, kar neposredno vpliva na globalno ponudbo nafte. Ta dogodek je sprožil močan dvig cen nafte, saj je Brent nafta presegla 106 dolarjev za sod, kar je povzročilo ponovno oživitev inflacijskih skrbi po svetu. Relevantnost je v tem, da višje cene energentov neposredno vplivajo na proizvodne stroške in potrošniške cene, kar lahko prisili centralne banke, kot je ameriški Fed, k nadaljnjemu zaostrovanju monetarne politike ali vsaj k ohranjanju visokih obrestnih mer dlje časa. Mehanizem vpliva na finančne trge je jasen: inflacijski pritiski vodijo do višjih donosnosti obveznic, saj vlagatelji zahtevajo večje nadomestilo za tveganje inflacije. Donosnost 10-letne ameriške državne obveznice je tako dosegla 5 % prvič po letu 2023, čeprav se je kasneje umirila na 4,96 %. To pomeni višje stroške zadolževanja za podjetja in države. Posledice so vidne v padcu delniških trgov, saj višje obrestne mere zmanjšujejo privlačnost delnic in povečujejo stroške financiranja podjetij. Valute so prav tako pod pritiskom, saj se evro v primerjavi z dolarjem znižuje (EUR/USD pri 1.1551, padec za 0,43 %), kar odraža moč dolarja v času negotovosti. Zgodovinsko gledano, so obdobja geopolitičnih kriz in naftnih šokov pogosto povzročila stagflacijske pritiske in volatilnost na trgih. Vlagatelji bodo morali pozorno spremljati razvoj dogodkov na Bližnjem vzhodu in odzive centralnih bank. Za slovenskega dolgoročnega vlagatelja to pomeni, da so inflacijski pritiski in višje obrestne mere še vedno pomemben dejavnik, ki vpliva na vrednotenje vseh razredov sredstev, zato je diverzifikacija portfelja ključna.",
-      "vpliv": [
-        "Donosnost 10-letne ameriške obveznice dosegla 5 %",
-        "Cena nafte Brent presegla 106 USD/sod",
-        "Povečani inflacijski strahovi",
-        "Padec delniških trgov"
-      ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-      "objavljeno": "2026-09-14T16:48:34.000Z"
-    },
-    {
-      "naslov": "Obrestna mera za 30-letne hipoteke poskočila na 7,17 %, skoraj dveletni vrh.",
+      "naslov": "Donosi ameriških državnih obveznic dosegli najvišjo raven po letu 2007",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Povprečna obrestna mera za 30-letne hipoteke v ZDA je danes poskočila na 7,17 %, kar predstavlja skoraj dveletni vrh. Ta skok je nov udarec za stanovanjski trg. Glavni razlog za dvig je bil prestop donosnosti 10-letne ameriške državne obveznice čez ključno mejo 5 % v ponedeljek. Višje obrestne mere neposredno vplivajo na stroške zadolževanja za nakup nepremičnin.",
-      "analiza": "Ozadje te novice je v splošnem trendu naraščajočih obrestnih mer, ki so posledica inflacijskih pritiskov in zaostrene monetarne politike centralnih bank. Čeprav je donosnost 10-letne ameriške državne obveznice ob koncu dneva znašala 4,96 %, je tekom dneva presegla 5 %, kar je neposredno vplivalo na dolgoročne obrestne mere, vključno s hipotekarnimi. Relevantnost te novice je v njenem neposrednem vplivu na potrošnike in stanovanjski trg. Višje hipotekarne obrestne mere pomenijo dražje stanovanjske kredite, kar zmanjšuje kupno moč in dostopnost nepremičnin za povprečnega kupca. Mehanizem vpliva je preprost: ko se dvignejo donosnosti državnih obveznic, ki služijo kot referenčna točka za dolgoročne obrestne mere, se dvignejo tudi obrestne mere za hipoteke. Posledice so upočasnitev stanovanjskega trga, zmanjšanje povpraševanja po nepremičninah in potencialno znižanje cen nepremičnin. To lahko vpliva tudi na širše gospodarstvo, saj je stanovanjski sektor pomemben del BDP. Za delniške trge to pomeni pritisk na podjetja, povezana z nepremičninami (gradbeništvo, nepremičninske agencije), medtem ko na valute in surovine vpliva posredno, preko splošnega ekonomskega sentimenta. Zgodovinsko gledano, so visoke hipotekarne obrestne mere pogosto sovpadale z upočasnitvijo gospodarske rasti. Vlagatelji bodo morali spremljati podatke o prodaji nepremičnin in gradbenih dovoljenjih. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so obrestne mere ključen dejavnik za oceno vrednosti nepremičnin in podjetij, povezanih s stanovanjskim sektorjem, tudi če neposredno ne vlagajo v ameriške hipoteke.",
+      "intenziteta": 3,
+      "povzetek": "Stroški zadolževanja ZDA so dosegli najvišjo raven po letu 2007, saj se je efektivna obrestna mera za 10-letne ameriške državne obveznice, znana kot donos 10-letne zakladne obveznice, povzpela na 5.00 %, kar predstavlja +0.71 % rast. Čeprav se je kasneje nekoliko umirila, je pred tem dosegla celo 5.04 %. Ta rast je posledica zaskrbljenosti glede inflacije in pričakovanj o višjih obrestnih merah. Finančni analitiki opozarjajo, da bi lahko ta trend, ki ga spremljamo že nekaj časa, pomenil konec dvo-desetletnega obdobja nizkih obrestnih mer. Visoki donosi obveznic lahko vplivajo na delniške trge, čeprav so se ti doslej uspešno upirali zaradi močne rasti dobičkov podjetij.",
+      "analiza": "Rast donosov 10-letnih ameriških državnih obveznic na 5.00 % in celo 5.04 % je ključen makroekonomski dogodek, saj ta donos služi kot referenčna točka za številne druge obrestne mere po svetu. Ozadje te rasti so vztrajni inflacijski pritiski in pričakovanja, da bo Federal Reserve morda morala ohraniti visoke obrestne mere dlje časa, da bi zajezila inflacijo. To je relevantno zdaj, ker višji donosi obveznic neposredno povečujejo stroške zadolževanja za podjetja in vlade, kar lahko upočasni gospodarsko rast. Mehanizem vpliva na finančne trge je večplasten: višji donosi obveznic zmanjšujejo privlačnost delnic, saj se donosi brez tveganja (obveznice) povečujejo, kar zmanjšuje diskontno stopnjo za vrednotenje prihodnjih denarnih tokov podjetij. Posledično lahko to povzroči pritisk na delnice, zlasti tiste z visoko rastjo, ki so odvisne od prihodnjih dobičkov. Valute so prav tako pod vplivom, saj višji donosi USD obveznic običajno krepijo ameriški dolar (EUR/USD je danes padel za -0.10 % na 1.1545). Za slovenskega dolgoročnega vlagatelja to pomeni, da so naložbe v obveznice postale privlačnejše, medtem ko je lahko pričakovana donosnost delniških naložb pod pritiskom, kar zahteva preudarno izbiro podjetij z močnimi bilancami in stabilnimi dobički.",
       "vpliv": [
-        "30-letna hipotekarna mera 7,17 %",
-        "Upočasnitev stanovanjskega trga",
-        "Višji stroški zadolževanja za kupce nepremičnin"
+        "Donos 10-letne ameriške obveznice +0.71 % na 5.00 %",
+        "Pritisk na delniške trge, zlasti rastne delnice",
+        "Krepitev ameriškega dolarja (-0.10 % EUR/USD)",
+        "Višji stroški zadolževanja za podjetja in vlade"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/30-year-mortgage-rate-jumps-to-7-17-a-nearly-2-year-high-in-the-latest-blow-to-the-housing-market-aadbd63e?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-14T18:42:00.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-15T18:51:43.000Z"
     },
     {
-      "naslov": "Bank of America pričakuje padec prihodkov od investicijskega bančništva za več kot 10 %.",
+      "naslov": "Vojna v Iranu povzročila pomanjkanje streliva v ZDA, opozarja Pentagon",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Nadzornik Pentagona opozarja, da je vojna v Iranu povzročila 'pomanjkanje streliva' v ZDA. Poročilo navaja 'ozka grla v industrijski bazi' po tem, ko je vojska v prvih štirih mesecih konflikta porabila 22 milijard USD za strelivo. Ta podatek poudarja obremenitev ameriške obrambne industrije in logistike, ki jo prinašajo dolgotrajni konflikti. Pomanjkanje streliva lahko vpliva na sposobnost ZDA za odzivanje na druge globalne varnostne izzive in potencialno vpliva na zunanjo politiko. Opozorilo prihaja v času, ko se geopolitične napetosti po svetu povečujejo.",
+      "analiza": "Novica o pomanjkanju streliva v ZDA zaradi vojne v Iranu, ki jo je izpostavil nadzornik Pentagona, je pomembna z vidika geopolitike in obrambne industrije. Ozadje je dolgotrajen konflikt, ki izčrpava vojaške zaloge in razkriva ranljivosti v dobavnih verigah obrambne industrije. To je relevantno zdaj, saj povečana poraba in 'ozka grla v industrijski bazi' (po porabi 22 milijard USD v štirih mesecih) kažejo na omejitve v proizvodnih zmogljivostih, kar lahko vpliva na prihodnje obrambne proračune in strategije. Mehanizem vpliva na finančne trge je predvsem prek povečanih geopolitičnih tveganj, ki lahko vplivajo na cene surovin (npr. nafte, če se konflikt razširi), in prek morebitnih sprememb v delnicah obrambnih podjetij. Čeprav pomanjkanje pomeni pritisk na dobavne verige, lahko dolgoročno spodbudi naložbe v obrambno industrijo. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba biti pozoren na globalna geopolitična tveganja, ki lahko povečajo volatilnost trgov in vplivajo na določene sektorje, kot so energetika in obramba.",
+      "vpliv": [
+        "Povečana geopolitična tveganja",
+        "Potencialni pritisk na obrambne proračune",
+        "Možna rast naložb v obrambno industrijo",
+        "Negotovost na trgih surovin"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/e89bfb29-2aef-40ec-9c9d-b9c1afa783a8?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-15T16:10:59.000Z"
+    },
+    {
+      "naslov": "Egipt in Savdska Arabija za varno plovbo v Rdečem morju, prizadeti prihodki Sueškega prekopa",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Egiptovski predsednik el-Sisi se je srečal s savdskim prestolonaslednikom MBS-jem in podprl poziv Savdske Arabije k varni plovbi v Rdečem morju. Ta tema je postala ključna, saj motnje v Rdečem morju, ki so se v zadnjih dveh letih stopnjevale, močno vplivajo na egiptovsko gospodarstvo. Prihodki Sueškega prekopa, vitalne žile za globalno trgovino, so se v tem obdobju zmanjšali za kar 7 milijard USD. Povečana nestabilnost v regiji in napadi na ladijski promet silijo ladjarje v daljše in dražje obvoze okoli Afrike, kar ima širše ekonomske posledice.",
+      "analiza": "Srečanje med egiptovskim predsednikom el-Sisijem in savdskim prestolonaslednikom MBS-jem, osredotočeno na varnost plovbe v Rdečem morju, poudarja kritično geopolitično in ekonomsko situacijo v regiji. Ozadje so ponavljajoči se napadi na ladijski promet, ki so povzročili motnje v eni najpomembnejših svetovnih pomorskih poti. To je relevantno zdaj, saj so te motnje že povzročile 7 milijard USD izgube prihodkov Sueškega prekopa za Egipt in prisilile ladjarje v daljše in dražje obvoze. Mehanizem vpliva na finančne trge je neposreden: daljše pomorske poti pomenijo višje stroške prevoza, kar se odraža v višjih cenah blaga in surovin, vključno z nafto (WTI nafta +4.08 %, Brent nafta +2.56 %). To lahko prispeva k inflacijskim pritiskom po svetu in negativno vpliva na globalne dobavne verige. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba upoštevati tveganja, povezana z globalnimi dobavnimi verigami in energetskimi trgi, saj lahko geopolitične napetosti v ključnih regijah povzročijo nepričakovane stroške in nihanja cen.",
+      "vpliv": [
+        "Zmanjšanje prihodkov Sueškega prekopa za 7 milijard USD",
+        "Višji stroški ladijskega prevoza in zavarovanj",
+        "Pritisk na globalne dobavne verige",
+        "Potencialno višje cene surovin (nafta WTI +4.08 %, Brent +2.56 %)"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/15/egypts-sisi-meets-mbs-backs-saudi-call-for-secure-red-sea-navigation?traffic_source=rss",
+      "objavljeno": "2026-09-15T18:05:24.000Z"
+    },
+    {
+      "naslov": "Delnice umetne inteligence se krepijo, analitiki ne vidijo upočasnitve porabe",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Medtem ko so širši tehnološki indeksi danes beležili padce (Nasdaq 100 -0.68 %), se delnice podjetij, povezanih z umetno inteligenco (AI), krepijo. Eden od analitikov trdi, da v sektorju AI ni videti upočasnitve porabe. Stranke namreč sklepajo večletne pogodbe za čipe in druge storitve, kar kaže na močno in dolgoročno povpraševanje. To nakazuje, da so strahovi pred morebitno upočasnitvijo rasti AI morda pretirani, in da sektor ostaja ključen gonilnik inovacij in investicij v tehnološkem svetu.",
+      "analiza": "Novica o krepitvi delnic umetne inteligence in pomanjkanju upočasnitve porabe v sektorju je pomembna, saj kaže na odpornost in močan potencial rasti določenih segmentov tehnološkega trga. Ozadje je splošna negotovost v tehnološkem sektorju, ki se odraža v padcu indeksa Nasdaq 100 za -0.68 %. Kljub temu AI ostaja področje intenzivnih naložb. To je relevantno zdaj, ker poudarja, da kljub širšim tržnim nihanjem določeni inovativni sektorji ohranjajo zagon. Mehanizem vpliva na finančne trge je, da močno povpraševanje po AI čipih in storitvah (stranke sklepajo večletne pogodbe) podpira dobičke in rast podjetij v tem segmentu. To lahko ustvari divergenčno gibanje znotraj tehnološkega sektorja, kjer bodo podjetja, močno vpletena v AI, prekašala druga. Posledice so lahko pozitivne za delnice proizvajalcev čipov, razvijalcev programske opreme za AI in ponudnikov storitev v oblaku. Za slovenskega dolgoročnega vlagatelja to pomeni, da je ključno razlikovati med splošnimi trendi v tehnološkem sektorju in specifičnimi podsegmenti, kot je AI, ki lahko ponujajo priložnosti za rast tudi v zahtevnejših tržnih razmerah.",
+      "vpliv": [
+        "Podpora za delnice podjetij v sektorju AI",
+        "Optimizem glede dolgoročne rasti AI",
+        "Povečano povpraševanje po AI čipih in storitvah",
+        "Divergenca znotraj tehnološkega sektorja"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-15T17:18:00.000Z"
+    },
+    {
+      "naslov": "Prihodnost upokojevanja: delo do smrti ob izginotju socialne varnosti",
       "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Bank of America, druga največja banka v ZDA po sredstvih, pričakuje, da se bodo njeni prihodki od investicijskega bančništva v tretjem četrtletju znižali za več kot 10 %. Ta zadržana napoved je sprožila padec delnic banke. Po mnenju analitikov bi to lahko bil zgodnji znak, da je \"AI boom\" na Wall Streetu naletel na turbulence. Padec prihodkov od investicijskega bančništva običajno kaže na zmanjšano aktivnost na področju združitev in prevzemov ter izdaj delnic.",
-      "analiza": "Ozadje te napovedi je v splošnem umirjanju aktivnosti na kapitalskih trgih, ki je delno povezano z višjimi obrestnimi merami in povečano negotovostjo. Investicijsko bančništvo je močno odvisno od poslov, kot so združitve in prevzemi (M&A), javne ponudbe delnic (IPO) in izdaje obveznic. Ko se gospodarska rast upočasnjuje in obrestne mere rastejo, se zmanjša apetit podjetij po tovrstnih transakcijah. Relevantnost te novice je v tem, da napoved Bank of America, kot ene največjih finančnih institucij, služi kot pomemben indikator za celoten finančni sektor in širše gospodarstvo. Mehanizem vpliva je direkten: manj poslov pomeni manj provizij za investicijske banke, kar se odraža v nižjih prihodkih in dobičkih. To neposredno vpliva na delnice finančnih institucij, kot je Bank of America, ki so že zabeležile padec. Posredno pa to kaže tudi na morebitno upočasnitev \"AI booma\", saj so številna tehnološka podjetja v zadnjem času iskala financiranje preko investicijskih bank. Na obvezniške in surovinske trge vpliva manj neposredno, vendar prispeva k splošnemu negativnemu sentimentu na trgu. Zgodovinsko gledano, so padci prihodkov od investicijskega bančništva pogosto predhodili širšim gospodarskim upočasnitvam. Vlagatelji bodo morali pozorno spremljati poročila o dobičkih drugih velikih bank in aktivnost na področju M&A. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor financ občutljiv na makroekonomske spremembe in da napovedi velikih bank lahko služijo kot opozorilo o širših trendih na kapitalskih trgih.",
+      "povzetek": "Avtor članka na MarketWatchu napoveduje, da bo socialna varnost, nekoč obravnavana kot 'zavarovanje za starost', sčasoma izginila. Ta drzna trditev nakazuje na prihodnost, v kateri bo delo do smrti postalo norma za mnoge posameznike. Novica poudarja naraščajoče demografske in finančne izzive, s katerimi se soočajo pokojninski sistemi po svetu. To ima globoke posledice za individualno finančno načrtovanje, varčevanje in splošno blaginjo prebivalstva v starosti, saj se bo breme zagotavljanja finančne varnosti v starosti preneslo predvsem na posameznike.",
+      "analiza": "Članek, ki napoveduje 'delo do smrti' in izginotje socialne varnosti, odpira pomembna vprašanja o dolgoročni finančni stabilnosti in socialnih sistemih. Ozadje so demografske spremembe (staranje prebivalstva) in finančni pritiski na pokojninske sisteme po svetu, vključno s socialno varnostjo, ki se soočajo z vse večjimi izzivi. To je relevantno zdaj, saj se razprave o trajnosti pokojninskih sistemov stopnjujejo in posamezniki se morajo vse bolj zavedati potrebe po samostojnem varčevanju za starost. Mehanizem vpliva na finančne trge je posreden, a dolgoročen: povečana negotovost glede pokojninskih prejemkov lahko spodbudi višje stopnje individualnega varčevanja, kar lahko vpliva na potrošnjo in naložbene vzorce. Lahko tudi poveča povpraševanje po finančnih produktih, namenjenih dolgoročnemu varčevanju. Posledice so povečana potreba po finančnem izobraževanju in odgovornosti posameznikov za lastno finančno prihodnost. Za slovenskega dolgoročnega vlagatelja to pomeni, da je aktivno in zgodnje načrtovanje upokojitve, vključno z diverzifikacijo naložb, ključnega pomena, saj se lahko zanašanje zgolj na državne pokojninske sisteme izkaže za nezadostno.",
       "vpliv": [
-        "Prihodki Bank of America od investicijskega bančništva padli za >10 %",
-        "Padec delnic Bank of America",
-        "Zmanjšana aktivnost na področju M&A in IPO"
+        "Povečana negotovost za prihodnje upokojence",
+        "Spodbuda za individualno varčevanje in naložbe",
+        "Potencialni pritiski na javne finance",
+        "Spremembe v potrošniških vzorcih starejših"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-15T18:52:00.000Z"
+    },
+    {
+      "naslov": "Ford povečuje dostopnost V-8 motorjev in znižuje cene zmogljivih F-150 tovornjakov za leto 2027",
+      "sektor": "Potrošniki",
+      "smer": "mešano",
+      "intenziteta": 1,
+      "povzetek": "Ford je napovedal spremembe za svoje tovornjake F-150 za leto 2027, vključno s povečanjem dostopnosti V-8 motorjev in znižanjem cen zmogljivih modelov. Izvršni direktor Jim Farley je poudaril, da so te spremembe namenjene zagotavljanju večje izbire strankam in povečanju prodaje ključnih modelov. Ta strategija kaže na prizadevanja Forda za ohranjanje konkurenčnosti in zadovoljevanje specifičnih potreb potrošnikov na trgu tovornjakov. Poteza bi lahko vplivala na dinamiko prodaje v segmentu lahkih tovornjakov, ki je ključen za ameriški avtomobilski trg.",
+      "analiza": "Novica o Fordovi strategiji povečanja dostopnosti V-8 motorjev in znižanja cen zmogljivih F-150 tovornjakov za leto 2027 ponuja vpogled v dinamiko avtomobilske industrije in potrošniškega povpraševanja. Ozadje je konkurenčen trg lahkih tovornjakov, kjer proizvajalci nenehno iščejo načine za privabljanje kupcev. To je relevantno zdaj, saj kaže na Fordova prizadevanja za povečanje tržnega deleža in prodaje ključnih modelov, kar je strateška prioriteta izvršnega direktorja Jima Farleyja. Mehanizem vpliva na finančne trge je predvsem prek potencialnega vpliva na Fordove prihodke in dobičkonosnost, če bo strategija uspešna. Znižanje cen lahko sicer zmanjša marže na posameznih vozilih, a povečanje obsega prodaje lahko to nadomesti. Posledice so lahko tudi pritisk na konkurente, da prilagodijo svoje cene ali ponudbo. Za slovenskega dolgoročnega vlagatelja ta novica poudarja pomen razumevanja specifičnih strategij podjetij in dinamike sektorja, v katerega vlagajo. Poteza lahko kaže na močno povpraševanje po določenih segmentih vozil ali pa na povečano konkurenco, ki zahteva prilagoditve cen.",
+      "vpliv": [
+        "Potencialno povečanje prodaje za Ford",
+        "Pritisk na konkurente v avtomobilskem sektorju",
+        "Vpliv na Fordove prihodke in dobičkonosnost",
+        "Pokazatelj stanja potrošniškega povpraševanja v avtomobilskem sektorju"
       ],
       "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
-      "objavljeno": "2026-09-14T18:39:08.000Z"
-    },
-    {
-      "naslov": "Kanada vabi največje svetovne vlagatelje sredi trgovinske vojne z ZDA.",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Kanadski premier Carney je izkoristil svoje povezave v globalnih financah in povabil nekatere največje svetovne vlagatelje v Kanado. To se dogaja sredi trgovinske vojne z ZDA. Cilj je privabiti kapital in spodbuditi gospodarsko rast v Kanadi, kljub napetostim z južno sosedo. Na dogodku v Torontu se bo zbralo na stotine vlagateljev, ki upravljajo skoraj 120 bilijonov dolarjev sredstev.",
-      "analiza": "Ozadje te novice je v zaostrovanju trgovinskih odnosov med Kanado in ZDA, kar ustvarja negotovost za kanadsko gospodarstvo. Kanada se, soočena s temi izzivi, aktivno trudi diverzificirati svoje gospodarske odnose in privabiti tuje neposredne naložbe. Relevantnost te novice je v prizadevanjih Kanade, da zmanjša svojo odvisnost od ameriškega trga in ohrani gospodarsko stabilnost kljub trgovinski vojni. Mehanizem vpliva je poskus neposrednega privabljanja kapitala, kar bi lahko okrepilo kanadsko gospodarstvo in valuto (CAD), hkrati pa signalizira odločnost države pri iskanju alternativnih poti rasti. Za delniške trge v Kanadi bi to lahko pomenilo povečano zanimanje za kanadska podjetja, medtem ko bi na globalni ravni lahko vplivalo na sentiment glede mednarodnih trgovinskih odnosov. Na valute bi lahko vplivalo z morebitno krepitvijo kanadskega dolarja, če bodo naložbe dejansko pritekle. Surovine, kot so nafta in plin, ki so pomemben del kanadskega izvoza, bi lahko prav tako pridobile, če se bo povečalo zaupanje v kanadsko gospodarstvo. Zgodovinsko gledano, so države pogosto uporabljale diplomatska in ekonomska orodja za privabljanje naložb v času geopolitičnih napetosti. Vlagatelji bodo morali spremljati konkretne objave naložb in razvoj trgovinske vojne med Kanado in ZDA. Za slovenskega dolgoročnega vlagatelja to poudarja pomen geopolitike in trgovinskih odnosov pri ocenjevanju naložbenih priložnosti v posameznih državah.",
-      "vpliv": [
-        "Kanada aktivno privablja tuje naložbe",
-        "Poskus zmanjšanja odvisnosti od ZDA",
-        "Potencialna krepitev kanadskega gospodarstva"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-14T19:29:12.000Z"
-    },
-    {
-      "naslov": "NATO obljublja povečano podporo Ukrajini po ruskih napadih blizu meje.",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "NATO je danes obljubil povečano podporo Ukrajini, potem ko je Rusija izvedla napade blizu ukrajinske meje, vključno z napadom na vlak, namenjen v Varšavo. Generalni sekretar Nata Rutte je poudaril, da zahodni zavezniki ne bodo prestrašeni z ruskimi napadi, ki so namenjeni zastraševanju. Ta izjava prihaja v času nadaljevanja konflikta in zaostrovanja retorike med Rusijo in zahodnimi državami.",
-      "analiza": "Ozadje te novice je v dolgotrajnem konfliktu v Ukrajini in nenehnih napetostih med Rusijo ter državami Nata. Ruski napadi blizu meje in na civilne cilje, kot je vlak, namenjen v Varšavo, predstavljajo eskalacijo in poskus pritiska na zahodne zaveznike. Relevantnost te novice je v tem, da kaže na nadaljevanje in morebitno zaostrovanje geopolitičnih tveganj v Evropi, kar vpliva na stabilnost in zaupanje v regiji. Mehanizem vpliva na finančne trge je predvsem preko povečane negotovosti in tveganja. Geopolitične napetosti lahko vodijo do višjih cen surovin, zlasti energentov, saj se vlagatelji bojijo motenj v dobavnih verigah. Nafta WTI je danes zrasla za 1,66 % na 101,71 USD/sod, Brent pa za 1,43 % na 106,11 USD/sod, deloma tudi zaradi teh napetosti. Delniški trgi so običajno občutljivi na geopolitična tveganja, saj lahko ta vplivajo na gospodarsko rast in dobičke podjetij, kar se odraža v padcih indeksov, kot sta S&P 500 (-0,43 %) in DAX (-0,50 %). Obveznice lahko v času negotovosti služijo kot varno zatočišče, vendar so trenutno pod pritiskom inflacije. Zgodovinsko gledano, so vojaški konflikti in geopolitične krize vedno imeli pomemben vpliv na globalne trge. Vlagatelji bodo morali pozorno spremljati razvoj dogodkov v Ukrajini in odzive mednarodne skupnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da so geopolitična tveganja stalen dejavnik, ki lahko vpliva na globalne trge in zahteva previdno oceno tveganj v portfelju.",
-      "vpliv": [
-        "Povečana geopolitična tveganja v Evropi",
-        "Potencialni dvig cen energentov",
-        "Negativni vpliv na delniške trge"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss",
-      "objavljeno": "2026-09-14T18:40:23.000Z"
+      "vir_url": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html",
+      "objavljeno": "2026-09-15T18:08:12.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-14T19:57:58.190Z",
+    "posodobljenoOb": "2026-09-15T19:18:24.287Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7624.05,
-        "sprememba_pct": -0.43
+        "vrednost": 7582.87,
+        "sprememba_pct": -0.49
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29148.33,
-        "sprememba_pct": -0.75
+        "vrednost": 28929.104,
+        "sprememba_pct": -0.68
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25440.81,
-        "sprememba_pct": -0.5
+        "vrednost": 25402.28,
+        "sprememba_pct": -0.15
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 63492.99,
-        "sprememba_pct": -0.81
+        "vrednost": 63484.1,
+        "sprememba_pct": -0.01
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4330.3,
-        "sprememba_pct": -1.78,
+        "vrednost": 4344.5,
+        "sprememba_pct": -0.17,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 101.71,
-        "sprememba_pct": 1.66,
+        "vrednost": 105.53,
+        "sprememba_pct": 4.08,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 106.11,
-        "sprememba_pct": 1.43,
+        "vrednost": 108.39,
+        "sprememba_pct": 2.56,
         "enota": "USD/sod"
       }
     ],
@@ -160,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1551,
-        "sprememba_pct": -0.43
+        "vrednost": 1.1545,
+        "sprememba_pct": -0.1
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.961,
-        "sprememba_pct": -0.28,
+        "vrednost": 4.996,
+        "sprememba_pct": 0.71,
         "enota": "%"
       }
     ],
@@ -177,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 78983.12,
-        "sprememba_pct": 2.83,
+        "vrednost": 76193.73,
+        "sprememba_pct": -2.54,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16.88,
-      "sprememba_pct": 6.57
+      "vrednost": 17.43,
+      "sprememba_pct": 1.93
     }
   }
 }
