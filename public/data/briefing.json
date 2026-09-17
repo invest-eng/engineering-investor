@@ -1,162 +1,144 @@
 {
-  "generiranoOb": "2026-09-16T19:09:25.513Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-09-17T09:29:06.172Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-09-16",
-  "povzetek": "Evropski delniški trgi so danes zaključili s pozitivnim predznakom, kjer je DAX zrasel za 0.53 % na 25538 točk, Nikkei 225 pa je zabeležil rast za 0.69 % na 63923 točk. Na drugi strani Atlantika, po dveh urah trgovanja, ameriški indeksi kažejo negativno smer, saj je S&P 500 padel za 0.55 % na 7544 točk, Nasdaq 100 pa za 0.11 % na 28905 točk. Ključni dogodek dneva je bilo zvišanje obrestnih mer s strani ameriške centralne banke (Fed) prvič po letu 2023, kar je povzročilo krepitev dolarja, saj je EUR/USD padel za 0.55 % na 1.1478. Cene nafte so se danes znižale, WTI nafta je padla za 3.11 % na 102.54 USD/sod, Brent pa za 2.70 % na 105.81 USD/sod, delno zaradi geopolitičnih novic in pričakovanj. Vlagatelji bodo ta teden pozorno spremljali prihajajoča poročila o inflaciji, še posebej poročilo o indeksu cen življenjskih potrebščin (CPI) v ZDA, ki bo ključno za nadaljnje odločitve centralnih bank.",
+  "datum": "2026-09-17",
+  "povzetek": "Jutranji pregled trgov 17. septembra 2026 kaže mešano sliko po nočnih dogodkih. Ameriški delniški trgi so se zaprli z rahlimi premiki, kjer je S&P 500 padel za 0,45 % na 7552 točk, medtem ko je Nasdaq 100 zabeležil minimalno rast za 0,02 % na 28945 točk. Azijski trgi so bili bolj optimistični, saj je Nikkei 225 zrasel za 0,33 % na 64136 točk, medtem ko je DAX v Evropi že v plusu za 0,58 % pri 25685 točkah. Med ključnimi novicami izstopajo opozorila o potencialnem napredovanju S&P 500 po dvigu obrestnih mer s strani Feda, kljub pričakovanim trgovinskim napetostim, ki jih nakazujejo grožnje Donalda Trumpa glede EU-Kanada sporazuma. Poleg tega zaskrbljenost vzbuja poročanje OpenAI o 'zaskrbljujočem' vedenju modelov umetne inteligence, medtem ko Kitajska zmanjšuje svoje imetje ameriških državnih obveznic na najnižjo raven po letu 2008. Vlagatelji naj bodo ta teden pozorni na prihajajočo objavo podatkov o inflaciji v evroobmočju.",
   "novice": [
     {
-      "naslov": "Ameriška centralna banka zvišala obrestne mere prvič po letu 2023",
+      "naslov": "S&P 500 lahko napreduje tudi po dvigu obrestnih mer Feda",
       "sektor": "Makro & Centralne banke",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Po mnenju stratega z Wall Streeta bi lahko delniški indeks S&P 500 nadaljeval z rastjo tudi po dvigu obrestnih mer s strani Federalnih rezerv. Analiza investicijske banke je pokazala, da sektorji energetike in informacijske tehnologije v povprečju beležijo najboljše rezultate eno leto po dvigu obrestnih mer Feda. To nakazuje, da določeni segmenti trga lahko kljub strožji monetarni politiki najdejo pot do rasti. Objava je bila objavljena 17. septembra 2026 ob 09:16 UTC.",
+      "analiza": "Dvig obrestnih mer s strani Federalnih rezerv običajno pomeni višje stroške zadolževanja za podjetja in potrošnike, kar lahko upočasni gospodarsko rast in negativno vpliva na delniške trge. Vendar pa ta analiza ponuja drugačen pogled, saj poudarja, da določeni sektorji, kot sta energetika in informacijska tehnologija, lahko celo prosperirajo v takšnem okolju. To je pomembno, saj se trgi pogosto osredotočajo na splošni vpliv višjih obrestnih mer, ne pa na diferencirane učinke. Mehanizem vpliva je v tem, da imajo nekateri sektorji, kot je energetika, koristi od višjih cen surovin, ki so lahko posledica inflacijskih pritiskov, medtem ko tehnološka podjetja z močnimi bilancami in inovativnimi produkti lahko ohranijo rast tudi v zahtevnejših razmerah. Za delnice to pomeni, da bi se vlagatelji lahko preusmerili v te specifične sektorje, kar bi lahko povzročilo selektivno rast. Na obvezniške trge bi dvig obrestnih mer še naprej pritiskal na donosnosti, kot je že videno pri 10-letni ameriški državni obveznici, ki je pri 5,01 % (+0,20 %). Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno razmisliti o diverzifikaciji portfelja in morebitni izpostavljenosti sektorjem, ki so zgodovinsko odporni ali celo pridobivajo v obdobjih dviga obrestnih mer, namesto zgolj slediti splošnim tržnim trendom.",
+      "vpliv": [
+        "Potencialna rast delnic v sektorjih energetike in IT",
+        "Pritisk na obvezniške donosnosti",
+        "Selektivna preusmeritev kapitala"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-17T09:16:00.000Z"
+    },
+    {
+      "naslov": "Kitajska zmanjšuje imetje ameriških državnih obveznic na najnižjo raven",
+      "sektor": "Geopolitika & Finance",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Ameriška centralna banka (Fed) je danes zvišala ključno obrestno mero za četrtino odstotne točke, na razpon med 3,75 % in 4 %. To je prvo zvišanje po juliju 2023, odločitev pa je bila soglasna. Predsednik Feda, Kevin Warsh, je poudaril, da je inflacija previsoka in vztraja predolgo, zato je prioriteta stabilnost cen. Goldman Sachs Asset Management pričakuje še eno zvišanje obrestnih mer letos, verjetno decembra, odvisno od prihodnjih poročil o CPI in cenah energentov.",
-      "analiza": "Ozadje zvišanja obrestnih mer s strani Feda je vztrajno visoka inflacija, ki je že dlje časa presegala cilje centralne banke. Kljub prejšnjim pričakovanjem o morebitnem znižanju obrestnih mer, so se razmere spremenile, kar je Fed prisililo v zaostrovanje denarne politike. To je pomembno, saj višje obrestne mere podražijo zadolževanje za podjetja in potrošnike, kar lahko upočasni gospodarsko rast in zmanjša inflacijske pritiske. Na finančnih trgih se to običajno odraža v padcu delniških indeksov, kot sta danes S&P 500 (-0.55 % na 7544) in Nasdaq 100 (-0.11 % na 28905), saj višje obrestne mere zmanjšujejo privlačnost tveganih naložb. Donosnost 10-letnih ameriških državnih obveznic je kljub zvišanju obrestnih mer danes rahlo padla (-0.16 % na 4.99 %), kar lahko kaže na pričakovanja upočasnitve gospodarstva. Valutni par EUR/USD je danes padel za 0.55 % na 1.1478, saj močnejša denarna politika običajno krepi dolar. Za slovenskega dolgoročnega vlagatelja to pomeni, da se lahko sooča z višjimi stroški financiranja in potencialno nižjimi donosi na delniških trgih, vendar pa boj proti inflaciji dolgoročno stabilizira kupno moč.",
+      "povzetek": "Kitajska je zmanjšala svoje imetje ameriških državnih obveznic na najnižjo raven po letu 2008. To postopno zmanjševanje se dogaja v času poglabljanja razkola med dvema največjima gospodarstvoma na svetu. Poteza Kitajske odraža širše geopolitične in ekonomske napetosti med ZDA in Kitajsko, ki vplivajo na globalne finančne trge. Novica je bila objavljena 17. septembra 2026 ob 07:43:48 UTC.",
+      "analiza": "Zmanjševanje kitajskega imetja ameriških državnih obveznic je pomemben dogodek, saj je Kitajska eden največjih tujih imetnikov ameriškega dolga. To ima neposredne posledice za ameriški obvezniški trg in s tem za globalne finance. V preteklosti je Kitajska s kupovanjem ameriških obveznic pomagala financirati ameriški proračunski primanjkljaj in ohranjati nizke dolgoročne obrestne mere. Mehanizem vpliva je, da zmanjšanje povpraševanja po ameriških obveznicah s strani tako velikega kupca lahko povzroči rast donosnosti, saj mora ameriška vlada ponuditi višje obrestne mere, da privabi druge kupce. To je že videno pri 10-letni ameriški državni obveznici, katere donosnost je pri 5,01 % (+0,20 %). Višje donosnosti obveznic lahko pomenijo višje stroške zadolževanja za ameriško vlado in podjetja, kar lahko negativno vpliva na gospodarsko rast in delniške trge, kot je S&P 500, ki je danes padel za 0,45 %. Na valutnem trgu lahko zmanjšanje povpraševanja po ameriških obveznicah oslabi dolar, čeprav je EUR/USD danes zrasel za 0,08 % na 1,1478. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitične napetosti med ZDA in Kitajsko, saj imajo lahko dolgoročne posledice na stabilnost globalnih finančnih trgov in vrednost glavnih valut, kar vpliva na mednarodno diverzificirane portfelje.",
       "vpliv": [
-        "Zvišanje obrestne mere na 3.75%-4%",
-        "Padec S&P 500 za 0.55%",
-        "Padec Nasdaq 100 za 0.11%",
-        "Krepitev USD glede na EUR (-0.55 %)"
+        "Rast donosnosti ameriških državnih obveznic",
+        "Potencialno višji stroški zadolževanja za ZDA",
+        "Možno dolgoročno slabljenje ameriškega dolarja",
+        "Povečana geopolitična tveganja"
       ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/live/2026/sep/16/federal-reserve-interest-rate-increase-live-updates",
-      "objavljeno": "2026-09-16T18:54:10.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/69f02abc-e0dc-46e5-aa6c-61d209e095d9?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-17T07:43:48.000Z"
     },
     {
-      "naslov": "Inflacija v Združenem kraljestvu narasla zaradi vojne v Iranu",
-      "sektor": "Geopolitika",
+      "naslov": "Trump grozi z ostrimi carinami EU, če odobri sporazum s Kanado",
+      "sektor": "Geopolitika & Trgovina",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Britanski premier Andy Burnham je opozoril na 'težke odločitve' v prihodnjem proračunu, saj je inflacija v Združenem kraljestvu avgusta narasla na 3,1 %. To je posledica rasti cen energentov, ki jo je sprožila vojna v Iranu. Inflacija se je z julijskih 2,9 % povzpela na 3,1 %, kar predstavlja nov udarec za življenjski standard gospodinjstev. Banka Anglije se pripravlja na odločitev o obrestnih merah, medtem ko se globalno gospodarstvo sooča s posledicami konflikta na Bližnjem vzhodu.",
-      "analiza": "Vojna v Iranu je povzročila motnje v globalnih dobavah nafte, kar je neposredno vplivalo na cene energentov in posledično na inflacijo po svetu, vključno z Združenim kraljestvom. Rast inflacije na 3,1 % v Veliki Britaniji, ki jo poganjajo predvsem višje cene goriva, kaže na ranljivost gospodarstev na geopolitične konflikte. Višje cene nafte, kot sta WTI (-3.11 % na 102.54 USD/sod) in Brent (-2.70 % na 105.81 USD/sod), čeprav so danes padle, so v preteklem obdobju prispevale k inflacijskim pritiskom. Centralne banke, kot je Banka Anglije, so pod pritiskom, da ukrepajo z morebitnimi zvišanji obrestnih mer, kar bi lahko dodatno obremenilo gospodinjstva in podjetja. Povečana inflacija zmanjšuje kupno moč potrošnikov in lahko vpliva na dobičkonosnost podjetij, kar se odraža na delniških trgih. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da geopolitična tveganja lahko hitro spremenijo gospodarske obete in vplivajo na vrednost naložb, še posebej tistih, ki so občutljive na cene energentov.",
+      "povzetek": "Donald Trump je izjavil, da bi bil morebitni sporazum o pridruženem članstvu med EU in Kanado 'sovražno dejanje' in zagrozil z uvedbo 'zelo resnih' carin na EU, če bo ta ukrep odobren. Ta izjava prihaja v času, ko je Trump že predhodno grozil s prekinitvijo trgovanja z Mehiko in Evropo po dvigu obrestnih mer Feda, kar kaže na dosledno protekcionistično držo. Novica je bila objavljena 17. septembra 2026 ob 07:20:25 UTC in 04:43:01 UTC.",
+      "analiza": "Grožnje Donalda Trumpa z uvedbo carin in prekinitvijo trgovinskih sporazumov predstavljajo pomembno geopolitično tveganje za globalno gospodarstvo. Takšne protekcionistične politike lahko povzročijo trgovinske vojne, ki negativno vplivajo na mednarodno trgovino, dobavne verige in gospodarsko rast. V preteklosti so trgovinske napetosti že povzročile negotovost na trgih in vplivale na dobičke podjetij. Mehanizem vpliva je, da carine povečajo stroške uvoženega blaga, kar lahko zmanjša potrošnjo in investicije, hkrati pa povzroči povračilne ukrepe drugih držav. To lahko prizadene delnice izvozno usmerjenih podjetij in podjetij z globalnimi dobavnimi verigami. Na valutne trge lahko vpliva povečana negotovost, kar lahko povzroči nihanja valutnih tečajev, kot je EUR/USD, ki je danes pri 1.1478. Za surovine bi lahko zmanjšanje globalne gospodarske aktivnosti zmanjšalo povpraševanje, kar bi lahko vplivalo na cene, čeprav sta WTI in Brent nafta danes že padli za 0,91 % oziroma 1,22 %. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno biti pozoren na politična tveganja in morebitne spremembe v mednarodnih trgovinskih odnosih, saj lahko ti dejavniki močno vplivajo na globalne trge in s tem na donosnost naložb v mednarodno izpostavljena podjetja.",
       "vpliv": [
-        "Inflacija v UK narasla na 3.1%",
-        "Rast cen energentov",
-        "Pritisk na Banko Anglije za zvišanje obrestnih mer",
-        "Zmanjšanje kupne moči gospodinjstev"
-      ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates",
-      "objavljeno": "2026-09-16T15:17:49.000Z"
-    },
-    {
-      "naslov": "Soustanovitelj DeepMinda opozarja na potrebo po nadzoru umetne inteligence",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Shane Legg, soustanovitelj DeepMinda, je za Financial Times izjavil, da umetna inteligenca ne sme prehiteti varnostnih kontrol. Njegovo opozorilo prihaja ob lansiranju novega DeepMind Inštituta, ki bo raziskoval posledice splošne umetne inteligence (AGI), medtem ko se krepijo pozivi k upočasnitvi razvoja v industriji. Rastoča zaskrbljenost glede ekološkega odtisa AI, kot je pokazala anketa, kjer več kot polovica Američanov skrbi zaradi porabe električne energije in vode s strani podatkovnih centrov, dodaja k pozivom po regulaciji.",
-      "analiza": "Hitri razvoj umetne inteligence (AI) prinaša ogromen potencial, a hkrati tudi pomembna tveganja, tako etična kot ekonomska. Opozorila vodilnih strokovnjakov, kot je Shane Legg iz DeepMinda, poudarjajo potrebo po odgovornem razvoju in implementaciji varnostnih mehanizmov. To je ključno za dolgoročno sprejemanje in trajnost rasti sektorja AI. Povečana zaskrbljenost glede ekološkega odtisa AI, vključno z visoko porabo energije in vode, lahko vodi do strožjih regulativ in višjih operativnih stroškov za podjetja v sektorju. Na delniških trgih lahko takšna opozorila in morebitne regulacije povzročijo nihanja v vrednosti delnic tehnoloških podjetij, še posebej tistih, ki so močno vpletena v razvoj AGI. Dolgoročno pa bi odgovoren razvoj in jasni varnostni protokoli lahko povečali zaupanje v tehnologijo in zagotovili stabilnejšo rast. Za slovenskega dolgoročnega vlagatelja je pomembno, da razume, da naložbe v tehnološki sektor, še posebej v AI, nosijo tako visoke donosne priložnosti kot tudi tveganja, povezana z regulacijo, etiko in družbenim sprejemanjem.",
-      "vpliv": [
-        "Povečana pozornost na regulacijo AI",
-        "Potencialno višji operativni stroški za AI podjetja",
-        "Nihanja v vrednosti delnic tehnoloških podjetij",
-        "Dolgoročno povečanje zaupanja v AI ob odgovornem razvoju"
+        "Povečana negotovost na globalnih trgih",
+        "Potencialne trgovinske vojne in carine",
+        "Negativen vpliv na izvozno usmerjena podjetja",
+        "Nihanja valutnih tečajev"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-16T14:59:57.000Z"
+      "vir_url": "https://www.ft.com/content/7b0f8f90-b3ad-4640-916a-f8b5495920a3?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-17T07:20:25.000Z"
     },
     {
-      "naslov": "Amazon zvišuje minimalno plačo na 20 dolarjev na uro",
-      "sektor": "Potrošniki",
-      "smer": "mešano",
+      "naslov": "Argentinski sodnik odredil ustavitev naftnega projekta na Falklandih",
+      "sektor": "Energetika & Geopolitika",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Amazon je zvišal svojo minimalno plačo v ZDA na 20 dolarjev na uro, pri čemer povprečna plača v podjetju dosega 24 dolarjev na uro. To zvišanje za 1 dolar na uro prinaša Amazonovo minimalno plačo v ZDA v skladu s tisto pri Costco in vključuje tudi novo ugodnost popusta za Whole Foods. Poteza sledi širšim trendom na trgu dela, kjer podjetja tekmujejo za delavce in se soočajo z inflacijskimi pritiski.",
-      "analiza": "Zvišanje minimalne plače s strani Amazona, enega največjih delodajalcev na svetu, ima večplastne posledice. Na eni strani to izboljšuje kupno moč delavcev in lahko pozitivno vpliva na potrošnjo, kar je dolgoročno ugodno za gospodarstvo. Na drugi strani pa to pomeni povečanje operativnih stroškov za Amazon in potencialno za druga podjetja, ki bodo morala slediti temu trendu, da ostanejo konkurenčna na trgu dela. Povečani stroški dela lahko zmanjšajo dobičkonosnost podjetij, kar se lahko odrazi v nižjih cenah delnic ali višjih cenah izdelkov za potrošnike. V kontekstu splošne inflacije, ki je v Združenem kraljestvu narasla na 3,1 %, lahko zvišanje plač prispeva k nadaljnjim inflacijskim pritiskom, saj podjetja višje stroške prenašajo na kupce. Za slovenskega dolgoročnega vlagatelja je pomembno opazovati trende na trgu dela in vpliv rasti plač na marže podjetij, saj to vpliva na dolgoročno vrednost naložb v delnice.",
+      "povzetek": "Argentinski sodnik je odredil ustavitev naftnega projekta na Falklandskih otokih, kar je simbolična poteza, ki prihaja v času, ko Argentina stopnjuje svoje zahteve po ozemlju, ki je pod britansko upravo. Ta odločitev poudarja dolgotrajne geopolitične napetosti med Argentino in Združenim kraljestvom glede suverenosti nad otoki, ki imajo potencialno bogata nahajališča nafte. Novica je bila objavljena 17. septembra 2026 ob 04:52:07 UTC.",
+      "analiza": "Odredba argentinskega sodnika o ustavitvi naftnega projekta na Falklandskih otokih je predvsem geopolitične narave, vendar ima lahko posredne posledice za energetski trg. Čeprav je poteza simbolična, poudarja tveganja, povezana z raziskovanjem in črpanjem nafte v spornih regijah. Vpliv na globalne cene nafte, kot sta WTI (101,50 USD/sod) in Brent (104,54 USD/sod), ki sta danes padli, verjetno ne bo takojšen ali dramatičen, saj gre za potencialni, ne pa že obstoječi vir dobave. Vendar pa takšni dogodki prispevajo k splošni negotovosti na trgu surovin. Mehanizem vpliva je, da geopolitične napetosti in pravni spori lahko odložijo ali preprečijo razvoj novih naftnih polj, kar dolgoročno vpliva na globalno ponudbo. Za delnice energetskih podjetij, ki so vpletena v raziskovanje v spornih območjih, to pomeni povečano tveganje in morebitne zamude pri projektih. Za slovenskega dolgoročnega vlagatelja je pomembno, da razume, kako geopolitična tveganja, tudi tista v oddaljenih regijah, lahko vplivajo na cene surovin in s tem na podjetja v energetskem sektorju, kar lahko vpliva na diverzificirane portfelje, ki vključujejo izpostavljenost do surovin ali energetskih delnic.",
       "vpliv": [
-        "Zvišanje minimalne plače na 20 USD/uro",
-        "Povečani stroški dela za Amazon",
-        "Potencialno povečanje potrošnje",
-        "Vpliv na inflacijske pritiske"
+        "Povečana geopolitična tveganja v energetskem sektorju",
+        "Potencialne zamude pri razvoju naftnih polj",
+        "Vpliv na delnice energetskih podjetij",
+        "Prispevek k splošni negotovosti na trgu surovin"
       ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/technology/2026/sep/16/amazon-minimum-wage-whole-foods-benefit",
-      "objavljeno": "2026-09-16T17:43:05.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/17/argentinian-judge-orders-suspension-of-falklands-oil-project?traffic_source=rss",
+      "objavljeno": "2026-09-17T04:52:07.000Z"
     },
     {
-      "naslov": "Zaveznik Trumpa investira v venezuelsko naftno industrijo",
-      "sektor": "Energetika",
-      "smer": "mešano",
+      "naslov": "Indija opozarja ZDA pred carinami na rusko nafto, ki bi vplivale na odnose",
+      "sektor": "Geopolitika & Energetika",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Harold Hamm, zaveznik Donalda Trumpa in ustanovitelj Continental Resources, bo investiral v Venezuelo. Ta poteza pomeni najnovejši vstop zahodnega proizvajalca nafte v državo, potem ko je ameriška vojska zasegla predsednika Nicolása Madura. Investicija prihaja v času, ko so cene nafte visoke, WTI nafta je danes pri 102.54 USD/sod (-3.11 %), Brent pa pri 105.81 USD/sod (-2.70 %), in ko se globalni trg sooča z motnjami zaradi vojne v Iranu.",
-      "analiza": "Investicija Harolda Hamma v venezuelsko naftno industrijo je pomemben dogodek, ki združuje geopolitiko in energetiko. Venezuela ima eno največjih zalog nafte na svetu, vendar je njena proizvodnja že dolgo ovirana zaradi politične nestabilnosti in sankcij. Vstop zahodnega igralca, še posebej s povezavami do ameriške administracije, lahko nakazuje na spremembe v ameriški politiki do Venezuele in potencialno odpravo nekaterih sankcij. To bi lahko vodilo do povečanja ponudbe nafte na globalnem trgu, kar bi lahko dolgoročno umirilo cene. Kljub današnjemu padcu cen nafte (WTI -3.11 %, Brent -2.70 %), so te še vedno na relativno visokih ravneh zaradi globalnih napetosti, kot je vojna v Iranu. Povečana ponudba iz Venezuele bi lahko ublažila te pritiske. Po drugi strani pa takšne investicije nosijo tudi geopolitična tveganja, saj je politična situacija v Venezueli še vedno nestabilna. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba spremljati razvoj dogodkov v Venezueli in širše geopolitične napetosti, saj lahko ti dogodki pomembno vplivajo na cene energentov in s tem na stroške poslovanja podjetij in inflacijo.",
+      "povzetek": "Indija je opozorila, da bi nove ameriške carine na rusko nafto lahko negativno vplivale na odnose med državama. New Delhi je jasno sporočil svojo odločenost, da bo 'zaščitil svoje trgovinske in gospodarske interese'. To kaže na kompleksnost globalnih energetskih trgov in geopolitičnih zavezništev, saj Indija ostaja pomemben kupec ruske nafte kljub zahodnim sankcijam. Novica je bila objavljena 17. septembra 2026 ob 07:32:49 UTC.",
+      "analiza": "Opozorilo Indije Združenim državam Amerike glede morebitnih carin na rusko nafto poudarja prepletenost geopolitike in energetike. Indija, kot ena največjih svetovnih porabnic energije, je v zadnjem času povečala uvoz ruske nafte, ki jo kupuje po znižanih cenah. Morebitne ameriške carine bi lahko prisilile Indijo k iskanju alternativnih virov ali k plačevanju višjih cen, kar bi vplivalo na njeno gospodarstvo. Mehanizem vpliva je, da bi takšne carine lahko povzročile preusmeritev globalnih tokov nafte, kar bi lahko vplivalo na cene in dobavno verigo. Za cene nafte, kot sta WTI (101,50 USD/sod) in Brent (104,54 USD/sod), ki sta danes padli, bi to lahko pomenilo dolgoročno nestabilnost, saj bi se povečala negotovost glede ponudbe in povpraševanja. Za delnice energetskih podjetij bi to lahko pomenilo spremembe v dobičkonosnosti, odvisno od njihove izpostavljenosti posameznim trgom in dobavnim verigam. Na širše delniške trge, kot je S&P 500, bi lahko vplivala splošna gospodarska negotovost, ki jo povzročajo trgovinske napetosti. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj dogodkov v mednarodnih energetskih odnosih, saj imajo lahko neposredne posledice na cene surovin in stabilnost globalnega gospodarstva, kar vpliva na naložbe v energetski sektor in širše trge.",
       "vpliv": [
-        "Potencialno povečanje ponudbe nafte iz Venezuele",
-        "Možna sprememba ameriške politike do Venezuele",
-        "Vpliv na globalne cene nafte",
-        "Geopolitična tveganja v Venezueli"
+        "Potencialna nestabilnost na globalnih naftnih trgih",
+        "Povečana geopolitična tveganja med ZDA in Indijo",
+        "Spremembe v globalnih dobavnih verigah nafte",
+        "Vpliv na cene surovin"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/7be92efe-13d6-4d02-9f77-0e8229b3b8fa?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-16T18:31:15.000Z"
-    },
-    {
-      "naslov": "American Airlines: 30 % sedežev prinaša polovico prihodkov",
-      "sektor": "Potrošniki",
-      "smer": "pozitivno",
-      "intenziteta": 1,
-      "povzetek": "American Airlines poroča, da manjši delež njihovih sedežev, natančneje 30 %, zdaj ustvarja polovico vseh prihodkov. To poudarja naraščajoče povpraševanje po premium kabinah in storitvah v letalski industriji. Izjava izvršnega direktorja American Airlinesa kaže na strategijo letalskih prevoznikov, da se osredotočajo na potnike, ki so pripravljeni plačati več za udobje in dodatne storitve.",
-      "analiza": "Ugotovitev American Airlinesa, da 30 % premium sedežev generira 50 % prihodkov, je pomemben pokazatelj trendov v letalski industriji in širše v potrošniškem sektorju. To kaže na močno povpraševanje po luksuznih in premium storitvah, tudi v času, ko se gospodarstvo sooča z inflacijskimi pritiski in višjimi obrestnimi merami. Ta trend lahko pomeni, da so določeni segmenti potrošnikov še vedno finančno močni in pripravljeni plačati več za izboljšano izkušnjo. Za letalske družbe to pomeni priložnost za povečanje marž in dobičkonosnosti z optimizacijo ponudbe premium storitev. Hkrati pa to lahko pomeni tudi izzive za tiste, ki se osredotočajo izključno na ekonomične lete. Na delniških trgih lahko podjetja, ki uspešno izkoriščajo ta trend, beležijo boljšo uspešnost. Za slovenskega dolgoročnega vlagatelja je zanimivo opazovati, kako se spreminjajo potrošniške navade in kako se podjetja prilagajajo tem spremembam, saj to vpliva na dolgoročno rast in stabilnost posameznih sektorjev.",
-      "vpliv": [
-        "Rast povpraševanja po premium letalskih storitvah",
-        "Povečanje prihodkov iz premium segmenta",
-        "Potencialno višje marže za letalske družbe",
-        "Spremenjene potrošniške navade v potovalni industriji"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html",
-      "objavljeno": "2026-09-16T18:33:51.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/17/india-warns-new-us-tariffs-over-russian-oil-could-impact-ties?traffic_source=rss",
+      "objavljeno": "2026-09-17T07:32:49.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-16T19:08:37.035Z",
+    "posodobljenoOb": "2026-09-17T09:26:15.089Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7543.78,
-        "sprememba_pct": -0.55
+        "vrednost": 7551.81,
+        "sprememba_pct": -0.45
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 28904.934,
-        "sprememba_pct": -0.11
+        "vrednost": 28945.06,
+        "sprememba_pct": 0.02
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25537.75,
-        "sprememba_pct": 0.53
+        "vrednost": 25684.66,
+        "sprememba_pct": 0.58
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 63923,
-        "sprememba_pct": 0.69
+        "vrednost": 64136.25,
+        "sprememba_pct": 0.33
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4307.2,
-        "sprememba_pct": -0.59,
+        "vrednost": 4353.5,
+        "sprememba_pct": -0.77,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 102.54,
-        "sprememba_pct": -3.11,
+        "vrednost": 101.5,
+        "sprememba_pct": -0.91,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 105.81,
-        "sprememba_pct": -2.7,
+        "vrednost": 104.54,
+        "sprememba_pct": -1.22,
         "enota": "USD/sod"
       }
     ],
@@ -165,15 +147,15 @@
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
         "vrednost": 1.1478,
-        "sprememba_pct": -0.55
+        "sprememba_pct": 0.08
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.988,
-        "sprememba_pct": -0.16,
+        "vrednost": 5.006,
+        "sprememba_pct": 0.2,
         "enota": "%"
       }
     ],
@@ -181,16 +163,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 75918.87,
-        "sprememba_pct": 0.44,
+        "vrednost": 76621.54,
+        "sprememba_pct": 0.63,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 17.35,
-      "sprememba_pct": 0.87
+      "vrednost": 15.98,
+      "sprememba_pct": -9.77
     }
   }
 }
