@@ -1,116 +1,134 @@
 {
-  "generiranoOb": "2026-09-17T09:29:06.172Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-09-17T19:12:38.700Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-09-17",
-  "povzetek": "Jutranji pregled trgov 17. septembra 2026 kaže mešano sliko po nočnih dogodkih. Ameriški delniški trgi so se zaprli z rahlimi premiki, kjer je S&P 500 padel za 0,45 % na 7552 točk, medtem ko je Nasdaq 100 zabeležil minimalno rast za 0,02 % na 28945 točk. Azijski trgi so bili bolj optimistični, saj je Nikkei 225 zrasel za 0,33 % na 64136 točk, medtem ko je DAX v Evropi že v plusu za 0,58 % pri 25685 točkah. Med ključnimi novicami izstopajo opozorila o potencialnem napredovanju S&P 500 po dvigu obrestnih mer s strani Feda, kljub pričakovanim trgovinskim napetostim, ki jih nakazujejo grožnje Donalda Trumpa glede EU-Kanada sporazuma. Poleg tega zaskrbljenost vzbuja poročanje OpenAI o 'zaskrbljujočem' vedenju modelov umetne inteligence, medtem ko Kitajska zmanjšuje svoje imetje ameriških državnih obveznic na najnižjo raven po letu 2008. Vlagatelji naj bodo ta teden pozorni na prihajajočo objavo podatkov o inflaciji v evroobmočju.",
+  "povzetek": "Evropski delovni dan se je zaključil v pozitivnem tonu, saj je nemški indeks DAX zrasel za 1,24 % in dosegel 25717 točk. Tudi ameriški trgi so po dveh urah trgovanja kazali močno rast, pri čemer je S&P 500 pridobil 1,15 % na 7639 točk, tehnološko usmerjeni Nasdaq 100 pa je poskočil za 1,69 % na 29435 točk. Optimizem na trgih je bil podprt z zmanjšanjem indeksa volatilnosti VIX, ki je padel za 9,36 % na 15,59. Medtem ko so delnice pridobivale, so cene nafte padle, saj se je WTI nafta znižala za 0,62 % na 101,80 USD/sod, Brent nafta pa za 1,13 % na 104,63 USD/sod. Donosnost 10-letne ameriške državne obveznice se je znižala za 1,14 % na 4,95 %, kar kaže na povečano povpraševanje po varnih naložbah ali pričakovanja nižjih obrestnih mer. Vlagatelji bodo ta teden pozorno spremljali objavo ključnih makroekonomskih podatkov, kot so inflacija in podatki o zaposlovanju, ki lahko vplivajo na prihodnje odločitve centralnih bank.",
   "novice": [
     {
-      "naslov": "S&P 500 lahko napreduje tudi po dvigu obrestnih mer Feda",
-      "sektor": "Makro & Centralne banke",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Po mnenju stratega z Wall Streeta bi lahko delniški indeks S&P 500 nadaljeval z rastjo tudi po dvigu obrestnih mer s strani Federalnih rezerv. Analiza investicijske banke je pokazala, da sektorji energetike in informacijske tehnologije v povprečju beležijo najboljše rezultate eno leto po dvigu obrestnih mer Feda. To nakazuje, da določeni segmenti trga lahko kljub strožji monetarni politiki najdejo pot do rasti. Objava je bila objavljena 17. septembra 2026 ob 09:16 UTC.",
-      "analiza": "Dvig obrestnih mer s strani Federalnih rezerv običajno pomeni višje stroške zadolževanja za podjetja in potrošnike, kar lahko upočasni gospodarsko rast in negativno vpliva na delniške trge. Vendar pa ta analiza ponuja drugačen pogled, saj poudarja, da določeni sektorji, kot sta energetika in informacijska tehnologija, lahko celo prosperirajo v takšnem okolju. To je pomembno, saj se trgi pogosto osredotočajo na splošni vpliv višjih obrestnih mer, ne pa na diferencirane učinke. Mehanizem vpliva je v tem, da imajo nekateri sektorji, kot je energetika, koristi od višjih cen surovin, ki so lahko posledica inflacijskih pritiskov, medtem ko tehnološka podjetja z močnimi bilancami in inovativnimi produkti lahko ohranijo rast tudi v zahtevnejših razmerah. Za delnice to pomeni, da bi se vlagatelji lahko preusmerili v te specifične sektorje, kar bi lahko povzročilo selektivno rast. Na obvezniške trge bi dvig obrestnih mer še naprej pritiskal na donosnosti, kot je že videno pri 10-letni ameriški državni obveznici, ki je pri 5,01 % (+0,20 %). Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno razmisliti o diverzifikaciji portfelja in morebitni izpostavljenosti sektorjem, ki so zgodovinsko odporni ali celo pridobivajo v obdobjih dviga obrestnih mer, namesto zgolj slediti splošnim tržnim trendom.",
-      "vpliv": [
-        "Potencialna rast delnic v sektorjih energetike in IT",
-        "Pritisk na obvezniške donosnosti",
-        "Selektivna preusmeritev kapitala"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-17T09:16:00.000Z"
-    },
-    {
-      "naslov": "Kitajska zmanjšuje imetje ameriških državnih obveznic na najnižjo raven",
-      "sektor": "Geopolitika & Finance",
+      "naslov": "OpenAI se sooča z obtožbami o uporabi avtorsko zaščitenih vsebin in eksistencialnimi tveganji",
+      "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Kitajska je zmanjšala svoje imetje ameriških državnih obveznic na najnižjo raven po letu 2008. To postopno zmanjševanje se dogaja v času poglabljanja razkola med dvema največjima gospodarstvoma na svetu. Poteza Kitajske odraža širše geopolitične in ekonomske napetosti med ZDA in Kitajsko, ki vplivajo na globalne finančne trge. Novica je bila objavljena 17. septembra 2026 ob 07:43:48 UTC.",
-      "analiza": "Zmanjševanje kitajskega imetja ameriških državnih obveznic je pomemben dogodek, saj je Kitajska eden največjih tujih imetnikov ameriškega dolga. To ima neposredne posledice za ameriški obvezniški trg in s tem za globalne finance. V preteklosti je Kitajska s kupovanjem ameriških obveznic pomagala financirati ameriški proračunski primanjkljaj in ohranjati nizke dolgoročne obrestne mere. Mehanizem vpliva je, da zmanjšanje povpraševanja po ameriških obveznicah s strani tako velikega kupca lahko povzroči rast donosnosti, saj mora ameriška vlada ponuditi višje obrestne mere, da privabi druge kupce. To je že videno pri 10-letni ameriški državni obveznici, katere donosnost je pri 5,01 % (+0,20 %). Višje donosnosti obveznic lahko pomenijo višje stroške zadolževanja za ameriško vlado in podjetja, kar lahko negativno vpliva na gospodarsko rast in delniške trge, kot je S&P 500, ki je danes padel za 0,45 %. Na valutnem trgu lahko zmanjšanje povpraševanja po ameriških obveznicah oslabi dolar, čeprav je EUR/USD danes zrasel za 0,08 % na 1,1478. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitične napetosti med ZDA in Kitajsko, saj imajo lahko dolgoročne posledice na stabilnost globalnih finančnih trgov in vrednost glavnih valut, kar vpliva na mednarodno diverzificirane portfelje.",
+      "povzetek": "New York Times trdi, da so zaposleni v podjetju OpenAI vedeli za 'eksistencialno grožnjo', ki jo umetna inteligenca predstavlja za založnike. Pravniki navajajo, da je soustanovitelja AI, Grega Brockmana, motivirala želja po 'gazilijonih', ki jih je upal pridobiti z modeli, usposobljenimi na avtorsko zaščitenih vsebinah. To razkritje prihaja v času, ko se podjetja, ki razvijajo umetno inteligenco, soočajo z vse večjim nadzorom glede uporabe podatkov za usposabljanje svojih modelov. Obtožbe poudarjajo napetosti med inovacijami v AI in zaščito intelektualne lastnine. Primer New York Times proti OpenAI je eden izmed več pravnih sporov, ki bi lahko določili prihodnost uporabe avtorsko zaščitenih vsebin v AI. To lahko vpliva na poslovne modele in prihodnje strategije podjetij v sektorju umetne inteligence.",
+      "analiza": "Ta novica razkriva naraščajoče pravne in etične izzive, s katerimi se sooča industrija umetne inteligence, še posebej glede uporabe avtorsko zaščitenih vsebin. V ozadju so obtožbe, da so podjetja, kot je OpenAI, uporabljala obsežne količine spletnih podatkov, vključno z novinarskimi članki, za usposabljanje svojih jezikovnih modelov brez ustreznega dovoljenja ali nadomestila. To je relevantno zdaj, saj se AI tehnologije hitro razvijajo in vplivajo na vse več sektorjev, vključno z mediji in založništvom. Mehanizem vpliva na finančne trge je večplasten: morebitne visoke odškodnine in stroški licenciranja bi lahko zmanjšali dobičkonosnost AI podjetij, kar bi negativno vplivalo na njihove delnice. Povečana regulacija in pravni spori bi lahko upočasnili inovacije in rast celotnega sektorja Tehnologija & AI. Za delnice podjetij, kot je OpenAI (če bi bile javno kotirane) ali drugih velikih tehnoloških podjetij z AI oddelki, bi to pomenilo pritisk navzdol. Dolgoročno bi lahko to privedlo do novih poslovnih modelov, kjer bodo podjetja AI morala plačevati za vsebino, kar bi lahko koristilo medijskim hišam. Slovenski dolgoročni vlagatelj naj bo pozoren na regulatorno okolje in pravne bitke v sektorju AI, saj lahko to bistveno vpliva na dolgoročno vrednost tehnoloških naložb.",
       "vpliv": [
-        "Rast donosnosti ameriških državnih obveznic",
-        "Potencialno višji stroški zadolževanja za ZDA",
-        "Možno dolgoročno slabljenje ameriškega dolarja",
-        "Povečana geopolitična tveganja"
+        "Povečana pravna tveganja za podjetja AI",
+        "Potencialno zmanjšanje dobičkonosnosti AI podjetij",
+        "Možna upočasnitev inovacij v sektorju AI",
+        "Povečana regulacija uporabe podatkov za AI"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/69f02abc-e0dc-46e5-aa6c-61d209e095d9?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-17T07:43:48.000Z"
+      "vir_url": "https://www.ft.com/content/3df8edae-ae3b-4f56-83a3-40602edc17a3?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-17T18:09:19.000Z"
     },
     {
-      "naslov": "Trump grozi z ostrimi carinami EU, če odobri sporazum s Kanado",
-      "sektor": "Geopolitika & Trgovina",
+      "naslov": "Angleška centralna banka napoveduje verjetno zvišanje obrestnih mer po pregledu prodaje obveznic",
+      "sektor": "Makro & Centralne banke",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Donald Trump je izjavil, da bi bil morebitni sporazum o pridruženem članstvu med EU in Kanado 'sovražno dejanje' in zagrozil z uvedbo 'zelo resnih' carin na EU, če bo ta ukrep odobren. Ta izjava prihaja v času, ko je Trump že predhodno grozil s prekinitvijo trgovanja z Mehiko in Evropo po dvigu obrestnih mer Feda, kar kaže na dosledno protekcionistično držo. Novica je bila objavljena 17. septembra 2026 ob 07:20:25 UTC in 04:43:01 UTC.",
-      "analiza": "Grožnje Donalda Trumpa z uvedbo carin in prekinitvijo trgovinskih sporazumov predstavljajo pomembno geopolitično tveganje za globalno gospodarstvo. Takšne protekcionistične politike lahko povzročijo trgovinske vojne, ki negativno vplivajo na mednarodno trgovino, dobavne verige in gospodarsko rast. V preteklosti so trgovinske napetosti že povzročile negotovost na trgih in vplivale na dobičke podjetij. Mehanizem vpliva je, da carine povečajo stroške uvoženega blaga, kar lahko zmanjša potrošnjo in investicije, hkrati pa povzroči povračilne ukrepe drugih držav. To lahko prizadene delnice izvozno usmerjenih podjetij in podjetij z globalnimi dobavnimi verigami. Na valutne trge lahko vpliva povečana negotovost, kar lahko povzroči nihanja valutnih tečajev, kot je EUR/USD, ki je danes pri 1.1478. Za surovine bi lahko zmanjšanje globalne gospodarske aktivnosti zmanjšalo povpraševanje, kar bi lahko vplivalo na cene, čeprav sta WTI in Brent nafta danes že padli za 0,91 % oziroma 1,22 %. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno biti pozoren na politična tveganja in morebitne spremembe v mednarodnih trgovinskih odnosih, saj lahko ti dejavniki močno vplivajo na globalne trge in s tem na donosnost naložb v mednarodno izpostavljena podjetja.",
+      "intenziteta": 3,
+      "povzetek": "Angleška centralna banka (BoE) je sporočila, da so obrestne mere verjetno v porastu, kljub temu da jih je trenutno ohranila pri 3,75 %. Ta napoved prihaja po pregledu prodaje državnih obveznic (gilt sales), kar kaže na premik v monetarni politiki. BoE signalizira verjetno višje stroške zadolževanja v prihodnosti, kar je pomemben signal za trge. Odločitev odraža zaskrbljenost centralne banke glede inflacije in potrebo po stabilizaciji gospodarstva. Takšne izjave običajno vplivajo na pričakovanja vlagateljev in finančne trge. To pomeni, da bi se lahko posojila podražila tako za podjetja kot za gospodinjstva.",
+      "analiza": "Izjava Angleške centralne banke, da so obrestne mere verjetno v porastu, kljub temu da jih je ohranila pri 3,75 %, predstavlja pomemben signal za finančne trge. Ozadje te odločitve je verjetno vztrajna inflacija in robusten trg dela, ki centralno banko silita k zaostrovanju monetarne politike. To je relevantno zdaj, saj se globalna gospodarstva še vedno spopadajo z inflacijskimi pritiski, centralne banke pa iščejo ravnotežje med obvladovanjem inflacije in preprečevanjem recesije. Mehanizem vpliva je direkten: višje obrestne mere povečajo stroške zadolževanja za podjetja, kar lahko zmanjša njihove investicije in dobičke, s tem pa negativno vpliva na delnice. Za obveznice to pomeni padec cen, saj so nove obveznice z višjimi donosi privlačnejše. Valute, kot je britanski funt, bi lahko pridobile na vrednosti v pričakovanju višjih obrestnih mer. Surovine, ki so pogosto občutljive na gospodarsko rast, bi se lahko soočile s pritiskom navzdol. Slovenski dolgoročni vlagatelj naj bo pozoren na signale centralnih bank, saj višje obrestne mere lahko vplivajo na vrednotenje vseh naložbenih razredov, še posebej na delnice podjetij z visokim dolgom ali tistih, ki so odvisne od potrošniških posojil.",
       "vpliv": [
-        "Povečana negotovost na globalnih trgih",
-        "Potencialne trgovinske vojne in carine",
-        "Negativen vpliv na izvozno usmerjena podjetja",
-        "Nihanja valutnih tečajev"
+        "Potencialno zvišanje obrestnih mer v Veliki Britaniji",
+        "Padec cen obveznic",
+        "Pritisk na delnice podjetij z visokim dolgom",
+        "Možna krepitev britanskega funta"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/7b0f8f90-b3ad-4640-916a-f8b5495920a3?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-17T07:20:25.000Z"
+      "vir_url": "https://www.ft.com/content/44bc4245-f235-4c1d-af93-deb5810f635a?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-17T16:12:23.000Z"
     },
     {
-      "naslov": "Argentinski sodnik odredil ustavitev naftnega projekta na Falklandih",
-      "sektor": "Energetika & Geopolitika",
+      "naslov": "Misija ZN poroča o možnih vojnih zločinih ZDA v Iranu, kar povečuje geopolitične napetosti",
+      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Argentinski sodnik je odredil ustavitev naftnega projekta na Falklandskih otokih, kar je simbolična poteza, ki prihaja v času, ko Argentina stopnjuje svoje zahteve po ozemlju, ki je pod britansko upravo. Ta odločitev poudarja dolgotrajne geopolitične napetosti med Argentino in Združenim kraljestvom glede suverenosti nad otoki, ki imajo potencialno bogata nahajališča nafte. Novica je bila objavljena 17. septembra 2026 ob 04:52:07 UTC.",
-      "analiza": "Odredba argentinskega sodnika o ustavitvi naftnega projekta na Falklandskih otokih je predvsem geopolitične narave, vendar ima lahko posredne posledice za energetski trg. Čeprav je poteza simbolična, poudarja tveganja, povezana z raziskovanjem in črpanjem nafte v spornih regijah. Vpliv na globalne cene nafte, kot sta WTI (101,50 USD/sod) in Brent (104,54 USD/sod), ki sta danes padli, verjetno ne bo takojšen ali dramatičen, saj gre za potencialni, ne pa že obstoječi vir dobave. Vendar pa takšni dogodki prispevajo k splošni negotovosti na trgu surovin. Mehanizem vpliva je, da geopolitične napetosti in pravni spori lahko odložijo ali preprečijo razvoj novih naftnih polj, kar dolgoročno vpliva na globalno ponudbo. Za delnice energetskih podjetij, ki so vpletena v raziskovanje v spornih območjih, to pomeni povečano tveganje in morebitne zamude pri projektih. Za slovenskega dolgoročnega vlagatelja je pomembno, da razume, kako geopolitična tveganja, tudi tista v oddaljenih regijah, lahko vplivajo na cene surovin in s tem na podjetja v energetskem sektorju, kar lahko vpliva na diverzificirane portfelje, ki vključujejo izpostavljenost do surovin ali energetskih delnic.",
+      "povzetek": "Misija Združenih narodov za ugotavljanje dejstev je sporočila, da so ZDA morda zagrešile vojne zločine v Iranu. Poročilo misije navaja tudi, da so iranske oblasti zagrešile zločine proti človečnosti med zatiranjem nedavnih protestov. To poročilo bi lahko dodatno zaostrilo že tako napete odnose med ZDA in Iranom. Takšne obtožbe imajo lahko resne diplomatske in politične posledice na mednarodnem prizorišču. Poročilo poudarja kompleksnost in občutljivost razmer v regiji ter vpliv mednarodnega prava na delovanje držav. To lahko vpliva na stabilnost Bližnjega vzhoda in globalno varnost.",
+      "analiza": "Poročilo misije ZN o možnih vojnih zločinih ZDA v Iranu in zločinih proti človečnosti iranskih oblasti je izjemno občutljiva geopolitična novica. V ozadju so dolgotrajne napetosti med ZDA in Iranom, ki so se v preteklosti kazale v sankcijah, vojaških incidentih in proxy konfliktih. To je relevantno zdaj, saj takšna poročila lahko dodatno polarizirajo mednarodno skupnost in otežijo diplomatske rešitve. Mehanizem vpliva na finančne trge je predvsem prek povečane geopolitične negotovosti. Povečane napetosti v regiji Bližnjega vzhoda, ki je ključna za globalno oskrbo z nafto, lahko povzročijo rast cen nafte, čeprav so danes cene WTI (-0,62 % na 101,80 USD/sod) in Brent (-1,13 % na 104,63 USD/sod) padle. Vendar pa bi eskalacija lahko hitro obrnila ta trend. Zlato, ki velja za varno zatočišče, bi lahko pridobilo na vrednosti. Delnice obrambnih podjetij bi lahko zrasle, medtem ko bi širši trgi lahko doživeli padec zaradi povečanega tveganja. Slovenski dolgoročni vlagatelj naj bo pozoren na razvoj dogodkov na Bližnjem vzhodu, saj lahko geopolitična tveganja hitro vplivajo na cene surovin in globalno stabilnost, kar se odraža v volatilnosti trgov.",
       "vpliv": [
-        "Povečana geopolitična tveganja v energetskem sektorju",
-        "Potencialne zamude pri razvoju naftnih polj",
-        "Vpliv na delnice energetskih podjetij",
-        "Prispevek k splošni negotovosti na trgu surovin"
+        "Povečana geopolitična negotovost",
+        "Potencialna rast cen nafte v primeru eskalacije",
+        "Povečano povpraševanje po varnih naložbah (zlato)",
+        "Možna volatilnost na delniških trgih"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/17/argentinian-judge-orders-suspension-of-falklands-oil-project?traffic_source=rss",
-      "objavljeno": "2026-09-17T04:52:07.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss",
+      "objavljeno": "2026-09-17T17:02:31.000Z"
     },
     {
-      "naslov": "Indija opozarja ZDA pred carinami na rusko nafto, ki bi vplivale na odnose",
-      "sektor": "Geopolitika & Energetika",
+      "naslov": "Presenetljiva moč delnic rasti morda opozarja na tržni mehurček",
+      "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Indija je opozorila, da bi nove ameriške carine na rusko nafto lahko negativno vplivale na odnose med državama. New Delhi je jasno sporočil svojo odločenost, da bo 'zaščitil svoje trgovinske in gospodarske interese'. To kaže na kompleksnost globalnih energetskih trgov in geopolitičnih zavezništev, saj Indija ostaja pomemben kupec ruske nafte kljub zahodnim sankcijam. Novica je bila objavljena 17. septembra 2026 ob 07:32:49 UTC.",
-      "analiza": "Opozorilo Indije Združenim državam Amerike glede morebitnih carin na rusko nafto poudarja prepletenost geopolitike in energetike. Indija, kot ena največjih svetovnih porabnic energije, je v zadnjem času povečala uvoz ruske nafte, ki jo kupuje po znižanih cenah. Morebitne ameriške carine bi lahko prisilile Indijo k iskanju alternativnih virov ali k plačevanju višjih cen, kar bi vplivalo na njeno gospodarstvo. Mehanizem vpliva je, da bi takšne carine lahko povzročile preusmeritev globalnih tokov nafte, kar bi lahko vplivalo na cene in dobavno verigo. Za cene nafte, kot sta WTI (101,50 USD/sod) in Brent (104,54 USD/sod), ki sta danes padli, bi to lahko pomenilo dolgoročno nestabilnost, saj bi se povečala negotovost glede ponudbe in povpraševanja. Za delnice energetskih podjetij bi to lahko pomenilo spremembe v dobičkonosnosti, odvisno od njihove izpostavljenosti posameznim trgom in dobavnim verigam. Na širše delniške trge, kot je S&P 500, bi lahko vplivala splošna gospodarska negotovost, ki jo povzročajo trgovinske napetosti. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj dogodkov v mednarodnih energetskih odnosih, saj imajo lahko neposredne posledice na cene surovin in stabilnost globalnega gospodarstva, kar vpliva na naložbe v energetski sektor in širše trge.",
+      "povzetek": "Še en opozorilni znak tržnega mehurčka prihaja iz presenetljive moči delnic rasti, poroča MarketWatch. Analitiki opozarjajo, da bi lahko pretirana rast določenih delnic, zlasti v sektorju rasti, kazala na precenjenost trga. To pomeni, da se vrednotenja nekaterih podjetij oddaljujejo od njihovih temeljnih vrednosti. Takšna situacija lahko ustvarja tveganje za nenaden popravek na trgu. Opozorila o mehurčkih so se v preteklosti že pojavljala pred večjimi padci na borzah. Vlagatelji so pozvani k previdnosti in pregledu svojih portfeljev.",
+      "analiza": "Opozorilo o morebitnem tržnem mehurčku, ki ga poganja presenetljiva moč delnic rasti, je pomembno za razumevanje trenutnega tržnega sentimenta. V ozadju so lahko dejavniki, kot so nizke obrestne mere v preteklosti, obilen denar v obtoku in optimizem glede tehnoloških inovacij, ki so napihnili vrednotenja nekaterih hitro rastočih podjetij. To je relevantno zdaj, saj so glavni indeksi, kot sta S&P 500 (7639 točk) in Nasdaq 100 (29435 točk), dosegli visoke ravni, kar sproža vprašanja o vzdržnosti rasti. Mehanizem vpliva je, da pretirana vrednotenja povečujejo tveganje za ostre popravke. Če se ta opozorila uresničijo, bi lahko delnice rasti, zlasti tiste z visokimi P/E razmerji, doživele znatne padce. To bi lahko sprožilo širši padec na delniških trgih. Obveznice bi lahko v takem scenariju pridobile kot varno zatočišče, medtem ko bi se volatilnost (VIX) verjetno povečala. Slovenski dolgoročni vlagatelj naj bo previden pri naložbah v visoko vrednotene delnice rasti in naj razmisli o diverzifikaciji portfelja. Pomembno je razumeti, da dolgoročna rast temelji na trdnih temeljih in ne le na tržnem navdušenju.",
       "vpliv": [
-        "Potencialna nestabilnost na globalnih naftnih trgih",
-        "Povečana geopolitična tveganja med ZDA in Indijo",
-        "Spremembe v globalnih dobavnih verigah nafte",
-        "Vpliv na cene surovin"
+        "Povečano tveganje za korekcijo na delniških trgih",
+        "Potencialni padec delnic rasti",
+        "Povečana volatilnost trga (VIX)",
+        "Povečano povpraševanje po varnih naložbah"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/why-growth-stocks-surprising-strength-may-be-warning-of-a-market-bubble-5288a7dc?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-17T17:16:00.000Z"
+    },
+    {
+      "naslov": "Amazonov tajni načrt za prevlado nad Walmartom: masivna širitev dostave isti dan",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Amazonov 'tajni načrt' v boju proti Walmartu bi lahko bil masiven napad na področju dostave isti dan, poroča MarketWatch. Analitiki Bank of America menijo, da Amazonovi načrti za širitev centrov za izpolnjevanje naročil z dostavo isti dan predstavljajo prizadevanje, da bi osnovno blago postalo 'takoj dostopno'. To bi Amazonu omogočilo, da se še bolj približa potrošnikom in konkurira tradicionalnim trgovcem. Poteza poudarja intenzivno konkurenco med dvema maloprodajnima velikanoma. Cilj je izboljšati uporabniško izkušnjo in povečati tržni delež. To bi lahko spremenilo dinamiko spletne in fizične trgovine.",
+      "analiza": "Amazonova strategija masivne širitve dostave isti dan je ključna poteza v nenehni bitki za prevlado v maloprodaji, še posebej proti Walmartu. V ozadju je pritisk po čim hitrejši in učinkovitejši dostavi, ki je postala standard v e-trgovini. To je relevantno zdaj, saj se potrošniki vse bolj zanašajo na spletno nakupovanje, hitrost dostave pa je pogosto odločilen dejavnik. Mehanizem vpliva na finančne trge je, da takšne investicije v logistiko in infrastrukturo lahko povečajo operativne stroške, vendar dolgoročno krepijo konkurenčno prednost. Za delnice Amazona bi to lahko pomenilo pozitivno novico, saj kaže na agresivno strategijo za rast in povečanje tržnega deleža. Delnice Walmartu in drugim tradicionalnim trgovcem bi se lahko soočile s pritiskom, saj se bo konkurenca za potrošnike zaostrila. Sektor potrošnikov bi bil priča nadaljnji konsolidaciji in inovacijam. Slovenski dolgoročni vlagatelj naj bo pozoren na konkurenčne prednosti in inovacije v maloprodajnem sektorju, saj podjetja, ki uspešno prilagajajo svoje poslovne modele pričakovanjem potrošnikov, lahko dolgoročno ustvarjajo vrednost. Vendar pa je treba upoštevati tudi stroške takšnih investicij in njihovo vpliv na dobičkonosnost.",
+      "vpliv": [
+        "Povečana konkurenca v maloprodaji",
+        "Potencialno povečanje tržnega deleža Amazona",
+        "Pritisk na delnice tradicionalnih trgovcev",
+        "Rast operativnih stroškov za izboljšanje logistike"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-17T17:42:00.000Z"
+    },
+    {
+      "naslov": "Pet mrtvih v napadih med Savdsko Arabijo in jemenskimi Hutiji, kar povečuje regionalno nestabilnost",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Pet ljudi je bilo ubitih v napadih med Savdsko Arabijo in jemenskimi Hutiji, poroča Al Jazeera. Vodja Hutijev, Abdel-Malik al-Houthi, je savdske trditve, da je skupina ciljala Meko, označil za 'gnusno laž'. Ta izmenjava napadov poudarja nadaljevanje konflikta v Jemnu in njegovo širjenje na sosednje države. Regionalna nestabilnost se tako nadaljuje, kar ima lahko širše posledice. Dogodek kaže na stopnjevanje napetosti in pomanjkanje diplomatskih rešitev. Konflikt v Jemnu je že dolgo vir humanitarne krize in geopolitičnih trenj.",
+      "analiza": "Izmenjava napadov med Savdsko Arabijo in jemenskimi Hutiji, ki je terjala pet življenj, je zaskrbljujoč znak nadaljevanja in morebitnega stopnjevanja konflikta v regiji. V ozadju je dolgotrajen jemenski konflikt, ki je proxy vojna med Savdsko Arabijo in Iranom, ter prizadevanja Hutijev za uveljavitev svoje oblasti. To je relevantno zdaj, saj se kljub občasnim poskusom premirja nasilje nadaljuje, kar ogroža stabilnost Bližnjega vzhoda. Mehanizem vpliva na finančne trge je predvsem prek energentov. Regija je ključna za globalno oskrbo z nafto, in vsaka eskalacija konflikta lahko povzroči motnje v dobavi. Čeprav so danes cene WTI (-0,62 % na 101,80 USD/sod) in Brent (-1,13 % na 104,63 USD/sod) padle, bi se lahko v primeru nadaljnje eskalacije hitro obrnile navzgor. Povečana geopolitična negotovost lahko povzroči tudi beg v varne naložbe, kot je zlato, in pritisk na delniške trge. Slovenski dolgoročni vlagatelj naj bo pozoren na razvoj dogodkov v tej regiji, saj imajo lahko neposreden vpliv na cene nafte in s tem na globalno gospodarstvo ter inflacijo, kar posredno vpliva na vse naložbene razrede.",
+      "vpliv": [
+        "Povečana regionalna nestabilnost na Bližnjem vzhodu",
+        "Potencialna rast cen nafte v primeru eskalacije",
+        "Povečano povpraševanje po varnih naložbah",
+        "Negativni vpliv na globalno gospodarsko rast"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/17/india-warns-new-us-tariffs-over-russian-oil-could-impact-ties?traffic_source=rss",
-      "objavljeno": "2026-09-17T07:32:49.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss",
+      "objavljeno": "2026-09-17T16:10:49.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-17T09:26:15.089Z",
+    "posodobljenoOb": "2026-09-17T19:11:25.334Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7551.81,
-        "sprememba_pct": -0.45
+        "vrednost": 7638.97,
+        "sprememba_pct": 1.15
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 28945.06,
-        "sprememba_pct": 0.02
+        "vrednost": 29435.344,
+        "sprememba_pct": 1.69
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25684.66,
-        "sprememba_pct": 0.58
+        "vrednost": 25716.71,
+        "sprememba_pct": 1.24
       },
       {
         "simbol": "^N225",
@@ -123,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4353.5,
-        "sprememba_pct": -0.77,
+        "vrednost": 4393.1,
+        "sprememba_pct": 0.13,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 101.5,
-        "sprememba_pct": -0.91,
+        "vrednost": 101.8,
+        "sprememba_pct": -0.62,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 104.54,
-        "sprememba_pct": -1.22,
+        "vrednost": 104.63,
+        "sprememba_pct": -1.13,
         "enota": "USD/sod"
       }
     ],
@@ -146,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1478,
-        "sprememba_pct": 0.08
+        "vrednost": 1.1481,
+        "sprememba_pct": 0.1
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 5.006,
-        "sprememba_pct": 0.2,
+        "vrednost": 4.949,
+        "sprememba_pct": -1.14,
         "enota": "%"
       }
     ],
@@ -163,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 76621.54,
-        "sprememba_pct": 0.63,
+        "vrednost": 76487.27,
+        "sprememba_pct": 0.45,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.98,
-      "sprememba_pct": -9.77
+      "vrednost": 15.59,
+      "sprememba_pct": -9.36
     }
   }
 }
