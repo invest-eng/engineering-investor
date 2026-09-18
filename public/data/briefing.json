@@ -1,100 +1,134 @@
 {
-  "generiranoOb": "2026-09-18T09:01:07.422Z",
-  "izdaja": "morning",
-  "model": "gemini-2.5-flash-lite",
+  "generiranoOb": "2026-09-18T18:43:06.187Z",
+  "izdaja": "afternoon",
+  "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-09-18",
-  "povzetek": "Jutranje trgovanje na ameriških borzah se obeta pozitivno, saj je S&P 500 zabeležil rast 1.14 % in se povzpel na 7638 točk, medtem ko je Nasdaq 100 pridobil 1.73 % in dosegel 29447 točk. Azijski trgi so prav tako sledili pozitivnemu trendu, z Nikkei 225 pri 65019 točkah (+1.38 %). Evropski indeksi pa so v pričakovanju novih podatkov bolj zadržani, kar nakazuje DAX s padcem 0.51 % na 25585 točk. Ključne novice vključujejo dvig obrestne mere Banke Japonske na najvišjo raven v 31 letih, kar je povzročilo depreciacijo jena, ter poročila o morebitni uporabi umetne inteligence s strani ISIL-a. Geopolitične napetosti na Bližnjem vzhodu in v Ukrajini še naprej vplivajo na cene surovin, medtem ko se Bitcoin trguje pri 78169 USD. Vlagatelji bodo ta teden pozorno spremljali objave podatkov o inflaciji in zasedanja centralnih bank.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z negativnim predznakom, medtem ko so ameriški trgi začeli dan mešano. Nemški indeks DAX je padel za 0.92 % na 25304 točk, medtem ko je S&P 500 trenutno pri 7634 točkah z minimalnim padcem za 0.04 %, tehnološki Nasdaq 100 pa je pridobil 0.15 % in dosegel 29491 točk. Na surovinskih trgih je cena zlata zrasla za 0.66 % na 4428.90 USD za unčo, medtem ko sta nafta WTI in Brent zabeležili padec za 1.31 % na 95.96 USD/sod oziroma za 0.78 % na 99.15 USD/sod, kar odraža negotovost glede geopolitičnih razmer in povpraševanja. Donosnost 10-letne ameriške državne obveznice je zrasla za 1.07 % na 5.00 %, kar kaže na nadaljnje pritiske na trgu obveznic. Bitcoin je medtem poskočil za 6.09 % na 81003 USD, indeks volatilnosti VIX pa je padel za 14.40 % na 15.16. Med ključnimi novicami dneva izstopa odstop Warrena Buffetta z mesta predsednika Berkshire Hathaway, nadaljevanje geopolitičnih napetosti med ZDA in Iranom, ki vplivajo na napovedi cen nafte, ter zaskrbljenost avtomobilske industrije glede kitajskih proizvajalcev. Vlagatelji bodo ta teden pozorno spremljali nadaljnje objave o inflaciji in morebitne komentarje centralnih bank glede prihodnjih obrestnih mer.",
   "novice": [
     {
-      "naslov": "ISIL naj bi uporabljal umetno inteligenco za razvoj orožja",
-      "sektor": "Tehnologija & AI",
+      "naslov": "JP Morgan se bori z napovedjo cen nafte zaradi vojne ZDA-Iran",
+      "sektor": "Geopolitika",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Poročilo Al Jazeere razkriva, da naj bi podporniki ISIL-a izkoriščali orodja umetne inteligence, vključno z 'Just ask Grok', za obvode varnostnih ukrepov in razvoj bomb. Dokazi kažejo, da se delijo načini za obvladovanje omejitev, ki jih nalagajo platforme umetne inteligence. To predstavlja nov in zaskrbljujoč vidik uporabe napredne tehnologije v teroristične namene.",
-      "analiza": "Novica o morebitni uporabi umetne inteligence s strani ISIL-a za razvoj orožja je skrb vzbujajoča in poudarja dvojni rob tehnološkega napredka. Medtem ko AI ponuja ogromne potenciale za izboljšanje življenja, se lahko uporabi tudi za škodljive namene. Poročilo nakazuje, da so varnostni ukrepi, implementirani v AI modelih, morda nezadostni ali da obstajajo načini za njihovo obvladovanje. To postavlja pod vprašaj učinkovitost nadzora nad razvojem in uporabo AI. Vpliv na finančne trge je lahko posreden, vendar bi lahko povečal pritisk na tehnološka podjetja, da okrepijo svoje varnostne protokole in regulativne organe, da razmislijo o strožji nadzor nad AI. Delnice podjetij, ki razvijajo AI, bi lahko doživele negativen sentiment, če se bo ta praksa razširila. Za slovenske vlagatelje to pomeni, da je sektor AI lahko podvržen večji regulativni negotovosti in da je treba skrbno oceniti tveganja, povezana z družbeno odgovornostjo podjetij v tem sektorju.",
+      "intenziteta": 3,
+      "povzetek": "Banka JP Morgan je izrazila težave pri napovedovanju cen nafte zaradi vojne med ZDA in Iranom, saj \"preprosto ne ve\", kako se bo situacija razvijala. Predpostavljajo, da obstajajo ekonomske \"rdeče črte\", kot je cena nafte pri 100 dolarjih za sod, ki jih ZDA ne bi bile pripravljene prestopiti. Medtem so se Iranci zbrali na največjem shodu proti ZDA od začetka vojne, pri čemer so prostovoljci v Teheranu poudarjali \"samopožrtvovalnost\" za Iran. Ti dogodki kažejo na naraščajoče napetosti, ki bi lahko dodatno destabilizirale globalne energetske trge.",
+      "analiza": "Konflikt med ZDA in Iranom predstavlja pomembno geopolitično tveganje, ki ima neposreden vpliv na globalne energetske trge. Iran je ključni proizvajalec nafte in vsaka eskalacija konflikta v regiji lahko povzroči motnje v dobavi. Priznanje JP Morgan, da ne more zanesljivo napovedati cen nafte, poudarja izjemno negotovost, ki jo ta konflikt prinaša. Zgodovinsko gledano so geopolitične napetosti na Bližnjem vzhodu vedno povzročile skoke cen nafte, saj trgi v ceno vključijo premijo za tveganje. Trenutno sta nafta WTI in Brent sicer zabeležili padec za 1.31 % na 95.96 USD/sod oziroma za 0.78 % na 99.15 USD/sod, kar bi lahko bil kratkoročni odziv na druge dejavnike ali pa zgolj trenutni predah pred morebitno eskalacijo. Dolgoročno bi morebiten preboj cene nafte nad 100 dolarjev, ki ga omenja JP Morgan kot \"rdečo črto\", močno vplival na inflacijo in centralne banke, kar bi lahko povzročilo strožjo monetarno politiko in upočasnitev gospodarske rasti. Za slovenskega dolgoročnega vlagatelja to pomeni povečano tveganje za inflacijo in morebitno zmanjšanje kupne moči, hkrati pa lahko podražitve energentov vplivajo na dobičkonosnost podjetij v energetsko intenzivnih panogah.",
       "vpliv": [
-        "Povečan nadzor nad AI podjetji",
-        "Potencialni negativni sentiment za AI delnice",
-        "Povečani stroški za varnostne ukrepe v AI",
-        "Zaskrbljenost glede varnosti tehnologije"
+        "Povečana negotovost na trgu nafte",
+        "Potencialni skok cen nafte nad 100 USD/sod",
+        "Vpliv na globalno inflacijo",
+        "Povečana volatilnost na trgih surovin"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs?traffic_source=rss",
-      "objavljeno": "2026-09-18T08:39:59.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-18T17:57:30.000Z"
     },
     {
-      "naslov": "Indonezija pridobila prvo letalonosilko v sklopu vojaške modernizacije",
-      "sektor": "Geopolitika",
+      "naslov": "Warren Buffett odstopa po šestih desetletjih vodenja Berkshire Hathaway",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Warren Buffett, legendarni vlagatelj in \"Oracle iz Omahe\", odstopa z mesta predsednika uprave Berkshire Hathaway po šestih desetletjih vodenja. Pod njegovim vodstvom se je podjetje, ki je bilo leta 1965 propadajoča tekstilna tovarna, razvilo v globalni konglomerat. Njegov sin, Howard G. Buffett, ga bo nasledil na mestu predsednika, medtem ko bo Warren Buffett prevzel vlogo predsednika emeritusa. Čeprav je novica pričakovana glede na Buffettovo starost, predstavlja konec ene najvplivnejših er v zgodovini financ.",
+      "analiza": "Odstop Warrena Buffetta je zgodovinski dogodek za finančni svet, saj je bil sinonim za vrednostno investiranje in dolgoročno rast. Njegova zapuščina v Berkshire Hathaway, ki je pod njegovim vodstvom postala globalni konglomerat, je izjemna. Čeprav je bil njegov odstop pričakovan zaradi starosti, prinaša obdobje negotovosti glede prihodnje smeri podjetja, kljub temu da je nasledstvo že določeno z njegovim sinom Howardom G. Buffettom. Trgi so se na novico odzvali relativno mirno, saj je podjetje že dolgo pripravljeno na ta prehod, z operativnim vodenjem s strani Grega Abela in Ajita Jaina. Vendar pa nekateri analitiki, kot je omenjeno v drugi novici (MarketWatch), že opozarjajo, da delnice Berkshire Hathaway morda niso prekašale indeksa S&P 500 v zadnjih 30 letih in svetujejo prodajo. To poudarja, da se tudi za tako uveljavljene institucije s spremembo vodstva pojavljajo vprašanja o prihodnji uspešnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub stabilnosti in uveljavljenosti podjetja pomembno spremljati, kako se bo novo vodstvo spopadalo z izzivi in ali bo ohranilo prejšnjo filozofijo, še posebej v luči spremenjenih tržnih razmer in rasti tehnoloških podjetij.",
+      "vpliv": [
+        "Konec ere Warrena Buffetta",
+        "Sprememba vodstva v Berkshire Hathaway",
+        "Potencialna negotovost glede dolgoročne strategije Berkshire Hathaway",
+        "Vpliv na vrednostno investiranje"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-18T17:15:02.000Z"
+    },
+    {
+      "naslov": "Dva znaka, da se vlagateljem ni treba bati upočasnitve umetne inteligence",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Podjetji CoreWeave in Nebius, ki delujeta na področju \"neocloud\" storitev, signalizirata močno povpraševanje in naraščajoče cene za čipe umetne inteligence (AI). To je po mnenju analitikov dober znak, da se vlagateljem ni treba bati upočasnitve rasti na področju AI. Njihovi signali kažejo na nadaljnjo robustnost trga AI čipov, kar potrjuje tezo o dolgoročni rasti sektorja.",
+      "analiza": "Sektor umetne inteligence (AI) ostaja ključni gonilnik rasti na globalnih trgih, in novica o močnem povpraševanju ter naraščajočih cenah za AI čipe s strani podjetij CoreWeave in Nebius potrjuje to tezo. To je pomembno, saj se vlagatelji pogosto sprašujejo o vzdržnosti hitre rasti v tehnološkem sektorju. Povečano povpraševanje po AI čipih neposredno vpliva na proizvajalce teh komponent, kot so NVIDIA, AMD in Intel, kar lahko vodi do nadaljnje rasti njihovih delnic. Nasdaq 100, ki je danes pridobil 0.15 % na 29491 točk, je že odraz optimizma v tehnološkem sektorju. Dolgoročno to pomeni, da so podjetja, ki so v ospredju razvoja in implementacije AI tehnologij, še vedno privlačna za vlagatelje. Vendar pa je pomembno opozoriti, da visoka rast prinaša tudi visoke vrednotenja, zato je selekcija podjetij ključna. Za slovenskega dolgoročnega vlagatelja to pomeni, da je izpostavljenost sektorju AI še vedno relevantna, vendar je priporočljiva diverzifikacija in previdnost pri izbiri posameznih delnic, saj se trg hitro spreminja in so tveganja povečana.",
+      "vpliv": [
+        "Nadaljnje močno povpraševanje po AI čipih",
+        "Rast cen AI čipov",
+        "Pozitiven vpliv na proizvajalce AI strojne opreme",
+        "Ohranjanje optimizma v tehnološkem sektorju"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-18T17:02:00.000Z"
+    },
+    {
+      "naslov": "Kaj resnično poganja inflacijo in naraščajoče obrestne mere",
+      "sektor": "Makro & Centralne banke",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Indonezija je pridobila svojo prvo letalonosilko, kar je del širše vojaške modernizacije države. Uradno je bilo sporočeno, da bo plovilo namenjeno pomoči pri odzivanju na naravne nesreče po arhipelagu. Ta poteza krepi vojaško zmogljivost Indonezije v regiji, ki je strateško pomembna zaradi pomorskih poti.",
-      "analiza": "Pridobitev letalonosilke s strani Indonezije je pomemben strateški korak, ki odraža njena prizadevanja za krepitev regionalne varnosti in projekcijo moči. Čeprav je uradni namen pomoči pri naravnih nesrečah, vojaška letalonosilka nedvomno povečuje obrambne zmogljivosti države. To lahko vpliva na regionalno ravnovesje moči v jugovzhodni Aziji, regiji, ki je že zdaj zaznamovana s kitajskimi pomorskimi ambicijami. Povečana vojaška prisotnost Indonezije lahko vpliva na pomorske trgovinske poti in varnost v Južnokitajskem morju. Za finančne trge to pomeni potencialno povečano povpraševanje po obrambni industriji, tako v Indoneziji kot med dobavitelji opreme. Delnice obrambnih podjetij bi lahko imele koristi. Za slovenske vlagatelje, ki morda vlagajo v globalne sklade ali podjetja, je pomembno razumeti, kako se takšni geopolitični premiki odražajo v stabilnosti regije in globalnih dobavnih verigah, ki bi lahko bile posredno prizadete.",
+      "povzetek": "Članek razpravlja o dejavnikih, ki resnično poganjajo inflacijo in naraščajoče obrestne mere, kar je ključno vprašanje za globalno gospodarstvo. Poleg tega se dotika tem, kot so nepremičninski trg, načrtovanje upokojitve z razliko v starosti in kombinacija opozoril ter priložnosti na borznem trgu. Razumevanje teh dejavnikov je bistveno za vlagatelje, saj vplivajo na vrednotenje vseh razredov sredstev.",
+      "analiza": "Inflacija in obrestne mere ostajajo v središču pozornosti finančnih trgov, saj neposredno vplivajo na stroške zadolževanja, dobičkonosnost podjetij in kupno moč potrošnikov. Članek poudarja kompleksnost teh dejavnikov, kar kaže na to, da ni enostavnih rešitev ali jasnih napovedi. Naraščajoče obrestne mere, kot je razvidno iz donosnosti 10-letne ameriške državne obveznice, ki je danes zrasla za 1.07 % na 5.00 %, običajno negativno vplivajo na delniške trge, saj povečujejo stroške financiranja podjetij in zmanjšujejo privlačnost delnic v primerjavi z manj tveganimi obveznicami. Hkrati visoka inflacija zmanjšuje realno vrednost naložb. Vendar pa so trgi včasih sposobni absorbirati zvišanje obrestnih mer, če je gospodarska rast dovolj močna. Za kriptovalute, kot je Bitcoin, ki je danes poskočil za 6.09 % na 81003 USD, lahko visoka inflacija deluje kot katalizator, saj nekateri vlagatelji vidijo kriptovalute kot zaščito pred devalvacijo fiat valut, čeprav so izjemno volatilne. Za slovenskega dolgoročnega vlagatelja je ključno razumeti, da so inflacija in obrestne mere ciklični pojavi, ki zahtevajo prilagoditev naložbene strategije, predvsem skozi diverzifikacijo in morebitno izpostavljenost podjetjem, ki so odporna na inflacijo ali imajo močno cenovno moč.",
       "vpliv": [
-        "Povečanje vojaške zmogljivosti Indonezije",
-        "Potencialno povečano povpraševanje v obrambni industriji",
-        "Vpliv na regionalno varnost v jugovzhodni Aziji",
-        "Odzivi sosednjih držav na krepitev vojaške moči"
+        "Povečan pritisk na delniške trge zaradi višjih obrestnih mer",
+        "Zmanjšana kupna moč zaradi inflacije",
+        "Potencialna privlačnost določenih razredov sredstev (npr. zlato, nekatere surovine) kot zaščita pred inflacijo",
+        "Vpliv na vrednotenje podjetij"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/18/indonesia-acquires-first-aircraft-carrier-amid-military-upgrade?traffic_source=rss",
-      "objavljeno": "2026-09-18T07:54:49.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/whats-really-driving-inflation-and-rising-interest-rates-59a9cd51?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-18T16:50:00.000Z"
     },
     {
-      "naslov": "Italija bo poslala vojaške ladje za zaščito pomorskega prometa skozi Bab al-Mandeb",
+      "naslov": "Franšiza Wendy's vloži zahtevo za zaščito pred stečajem v ZDA",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Meritage Hospitality Group, eden največjih franšizojemalcev verige hitre prehrane Wendy's v ZDA, je vložil zahtevo za zaščito pred stečajem po poglavju 11. Ta poteza prihaja v času, ko se veriga burgerjev spopada s težavami, kar kaže na morebitne širše izzive v sektorju hitre prehrane ali na splošno v potrošniškem sektorju. Stečajni postopek bo omogočil reorganizacijo poslovanja.",
+      "analiza": "Stečaj velikega franšizojemalca, kot je Meritage Hospitality Group za Wendy's, je pomemben indikator morebitnih težav v potrošniškem sektorju, še posebej v segmentu hitre prehrane. To lahko kaže na več dejavnikov: bodisi na naraščajoče stroške poslovanja (npr. delovna sila, surovine), zmanjšano kupno moč potrošnikov, ki manj pogosto obiskujejo restavracije, ali pa na močno konkurenco in spremenjene potrošniške navade. Čeprav gre za specifičen primer, lahko takšni dogodki sprožijo vprašanja o zdravju celotne industrije in odpornosti potrošnikov. Vpliv na delnice matičnega podjetja Wendy's je lahko negativen, saj stečaj franšizojemalca pomeni izgubo prihodkov od licenčnin in morebitno škodo ugledu blagovne znamke. Za širši trg to lahko služi kot opozorilo, da kljub splošni rasti nekateri segmenti gospodarstva trpijo. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati kazalnike potrošniške porabe in zdravje podjetij v sektorju potrošniških storitev, saj so ta podjetja pogosto občutljiva na ekonomske cikle in spremembe v razpoložljivem dohodku prebivalstva.",
+      "vpliv": [
+        "Negativen vpliv na delnice Wendy's",
+        "Opozorilo za sektor hitre prehrane",
+        "Indikator morebitnih širših težav v potrošniškem sektorju",
+        "Povečana tveganja za franšizne modele"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/09/18/wendys-franchisee-files-for-chapter-11-bankruptcy-protection.html",
+      "objavljeno": "2026-09-18T16:13:00.000Z"
+    },
+    {
+      "naslov": "Avtomobilska industrija poziva Trumpa k prepovedi kitajskih avtomobilov",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Italija napoveduje, da bo poslala vojaške ladje za zaščito pomorskega prometa skozi strateško pomemben preliv Bab al-Mandeb. Italijanski obrambni minister opozarja na resne gospodarske posledice, če bi preliv postal neprehoden. Ta poteza naj bi zaobšla morebitne zamude pri odobritvah Evropske unije.",
-      "analiza": "Odločitev Italije, da pošlje vojaške ladje v regijo Bab al-Mandeb, poudarja naraščajoče napetosti v pomorskih prehodih, ki so ključni za globalno trgovino z energijo. Preliv Bab al-Mandeb je ozko grlo med Rdečim morjem in Adenskim zalivom, skozi katerega poteka znaten del svetovne nafte in plina. Vsakršna motnja v tem prehodu bi lahko povzročila znatne motnje v dobavnih verigah in dvig cen energije. Poteza Italije, ki se odloči za samostojno ukrepanje, nakazuje tudi potencialne razpoke v enotnosti EU glede zunanjepolitičnih in varnostnih vprašanj. Vpliv na finančne trge bi bil neposreden: dvig cen nafte in plina (WTI nafta je trenutno pri 95.54 USD/sod, Brent pri 98.52 USD/sod), potencialno povečanje inflacijskih pritiskov in negotovost na finančnih trgih. Delnice energetskih podjetij bi lahko imele koristi, medtem ko bi lahko potrošniška podjetja in letalski prevozniki čutili negativne posledice višjih stroškov goriva. Za slovenske vlagatelje to pomeni, da bi lahko višje cene energije vplivale na inflacijo in kupno moč, kar se lahko odraža v vrednosti njihovih naložb, še posebej tistih, ki so občutljive na stroške energije.",
+      "povzetek": "Predstavniki šestih velikih avtomobilskih trgovinskih skupin so se združili in podpisali pismo predsedniku Trumpu, v katerem ga pozivajo k prepovedi kitajskih avtomobilov v ZDA. Ta poziv prihaja pred obiskom kitajskega predsednika Xi Jinpinga in poudarja naraščajoče trgovinske napetosti med državama. Glavni razlog za zaskrbljenost je domnevno nelojalna konkurenca in varnostna tveganja, povezana s kitajskimi vozili.",
+      "analiza": "Poziv ameriške avtomobilske industrije k prepovedi kitajskih avtomobilov v ZDA je jasen znak stopnjevanja trgovinskih napetosti med največjima gospodarstvoma na svetu. To se dogaja v kontekstu prihajajočega obiska predsednika Xi Jinpinga, kar kaže na visoko politično občutljivost vprašanja. Zgodovinsko gledano so trgovinske vojne in protekcionistične politike pogosto povzročile nestabilnost na globalnih trgih, saj vplivajo na dobavne verige, cene izdelkov in dobičkonosnost podjetij. Morebitna prepoved kitajskih avtomobilov bi lahko sprožila povračilne ukrepe s strani Kitajske, kar bi prizadelo ameriška podjetja, ki poslujejo na kitajskem trgu, in globalne delniške indekse. To bi lahko imelo negativne posledice za industrijo avtomobilskih delov in surovine, kot so kovine. Za valute bi lahko eskalacija trgovinskih napetosti povzročila povečano volatilnost, še posebej med USD in CNY. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati globalne trgovinske politike, saj lahko vplivajo na podjetja, ki so del mednarodnih dobavnih verig, in na splošno gospodarsko rast. Diverzifikacija naložb in izogibanje preveliki izpostavljenosti specifičnim sektorjem, ki so tarča trgovinskih sporov, je priporočljiva.",
       "vpliv": [
-        "Povečanje cen nafte (WTI in Brent)",
-        "Potencialno povečanje inflacije",
-        "Negotovost na finančnih trgih",
-        "Povečano povpraševanje po varnostnih storitvah v pomorstvu"
+        "Povečanje trgovinskih napetosti med ZDA in Kitajsko",
+        "Potencialni povračilni ukrepi Kitajske",
+        "Negativen vpliv na globalne dobavne verige",
+        "Povečana volatilnost na delniških in valutnih trgih"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
-      "objavljeno": "2026-09-18T02:53:05.000Z"
-    },
-    {
-      "naslov": "ZDA: Gospodarski pritisk bi lahko vplival na volivce",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Članek raziskuje, ali bi lahko trenutni gospodarski pritisk v ZDA, vključno z višjimi stroški zadolževanja in nižjo kupno močjo, vplival na odločitve volivcev. Posebej so poudarjeni Američani z nižjimi dohodki, ki najbolj občutijo posledice teh gospodarskih razmer.",
-      "analiza": "Vprašanje, ali gospodarski pritisk vpliva na volilna nagnjenja, je ključno za razumevanje politične dinamike v ZDA. Višji stroški zadolževanja, ki so posledica zviševanja obrestnih mer s strani Federal Reserve, in splošna inflacija zmanjšujejo kupno moč gospodinjstev. Ta pojav je še posebej izrazit pri nižje dohodkovnih skupinah, ki imajo manj prostora za prilagajanje in se bolj zanašajo na razpoložljiva sredstva. Vpliv na finančne trge je lahko večplasten. Če volivci glasujejo na podlagi gospodarskih skrbi, bi to lahko vplivalo na politike, ki jih bodo sprejele nove vlade, kar bi lahko imelo posledice za davke, potrošniške izdatke in regulacije. Delnice podjetij, ki so odvisna od domače potrošnje, bi lahko bile pod vplivom sprememb v potrošniških navadah. Obvezniški trgi bi lahko reagirali na pričakovanja glede prihodnje monetarne politike. Za slovenske vlagatelje je to pomemben opomnik, da so gospodarski in politični cikli pogosto povezani. Gospodarska stabilnost v ključnih svetovnih gospodarstvih, kot so ZDA, ima vpliv na globalne trge in s tem tudi na vrednost naložb slovenskih vlagateljev, ne glede na to, ali vlagajo neposredno v ameriške delnice ali preko globalnih skladov.",
-      "vpliv": [
-        "Potencialne spremembe v potrošniških navadah",
-        "Vpliv na politike glede davkov in regulacij",
-        "Negotovost na delniških trgih, ki so odvisni od domače potrošnje",
-        "Odzivi obvezniških trgov na pričakovanja glede monetarne politike"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss",
-      "objavljeno": "2026-09-18T04:27:25.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html",
+      "objavljeno": "2026-09-18T17:11:39.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-18T08:59:38.781Z",
+    "posodobljenoOb": "2026-09-18T18:36:36.902Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7637.76,
-        "sprememba_pct": 1.14
+        "vrednost": 7634.36,
+        "sprememba_pct": -0.04
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29446.98,
-        "sprememba_pct": 1.73
+        "vrednost": 29490.707,
+        "sprememba_pct": 0.15
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25585.47,
-        "sprememba_pct": -0.51
+        "vrednost": 25304.06,
+        "sprememba_pct": -0.92
       },
       {
         "simbol": "^N225",
@@ -107,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4427,
-        "sprememba_pct": 0.62,
+        "vrednost": 4428.9,
+        "sprememba_pct": 0.66,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 95.54,
-        "sprememba_pct": -1.74,
+        "vrednost": 95.96,
+        "sprememba_pct": -1.31,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 98.52,
-        "sprememba_pct": -1.41,
+        "vrednost": 99.15,
+        "sprememba_pct": -0.78,
         "enota": "USD/sod"
       }
     ],
@@ -138,8 +172,8 @@
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.947,
-        "sprememba_pct": -1.18,
+        "vrednost": 5,
+        "sprememba_pct": 1.07,
         "enota": "%"
       }
     ],
@@ -147,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 78169.4,
-        "sprememba_pct": 2.38,
+        "vrednost": 81002.84,
+        "sprememba_pct": 6.09,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.25,
-      "sprememba_pct": -1.23
+      "vrednost": 15.16,
+      "sprememba_pct": -14.4
     }
   }
 }
