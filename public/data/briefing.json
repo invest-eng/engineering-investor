@@ -1,162 +1,128 @@
 {
-  "generiranoOb": "2026-09-17T19:21:43.900Z",
-  "izdaja": "afternoon",
-  "model": "gemini-2.5-flash",
+  "generiranoOb": "2026-09-18T09:01:07.422Z",
+  "izdaja": "morning",
+  "model": "gemini-2.5-flash-lite",
   "tier": "free",
-  "datum": "2026-09-17",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z rastjo, medtem ko so ameriški indeksi nadaljevali pozitivno smer. Nemški DAX je dan zaključil pri 25.717 točkah, kar predstavlja rast za 1,24 %. Na drugi strani Atlantika je S&P 500 po dveh urah trgovanja dosegel 7640 točk z rastjo 1,17 %, tehnološko usmerjeni Nasdaq 100 pa je poskočil za 1,73 % na 29445 točk. Optimizem na trgih se odraža tudi v padcu indeksa volatilnosti VIX, ki je upadel za 9,77 % na 15,52. Med surovinami je zlato zabeležilo skromno rast za 0,16 % na 4394,50 USD/oz, medtem ko sta ceni nafte WTI in Brent padli za 1,04 % oziroma 1,57 %, na 101,36 USD/sod in 104,17 USD/sod. Donosnost 10-letne ameriške državne obveznice se je znižala za 1,18 % na 4,95 %, medtem ko je evro v primerjavi z dolarjem pridobil 0,10 % in se giblje pri 1,1481 EUR/USD. Bitcoin je medtem zrasel za 0,47 % na 76498 USD. Vlagatelji so pozorni na dogajanje v tehnološkem sektorju, geopolitične napetosti in signale centralnih bank, zlasti glede morebitnih dvigov obrestnih mer. Najpomembnejši ekonomski dogodek tega tedna, ki ga vlagatelji morajo imeti na radarju, je objava inflacijskih podatkov za evroobmočje.",
+  "datum": "2026-09-18",
+  "povzetek": "Jutranje trgovanje na ameriških borzah se obeta pozitivno, saj je S&P 500 zabeležil rast 1.14 % in se povzpel na 7638 točk, medtem ko je Nasdaq 100 pridobil 1.73 % in dosegel 29447 točk. Azijski trgi so prav tako sledili pozitivnemu trendu, z Nikkei 225 pri 65019 točkah (+1.38 %). Evropski indeksi pa so v pričakovanju novih podatkov bolj zadržani, kar nakazuje DAX s padcem 0.51 % na 25585 točk. Ključne novice vključujejo dvig obrestne mere Banke Japonske na najvišjo raven v 31 letih, kar je povzročilo depreciacijo jena, ter poročila o morebitni uporabi umetne inteligence s strani ISIL-a. Geopolitične napetosti na Bližnjem vzhodu in v Ukrajini še naprej vplivajo na cene surovin, medtem ko se Bitcoin trguje pri 78169 USD. Vlagatelji bodo ta teden pozorno spremljali objave podatkov o inflaciji in zasedanja centralnih bank.",
   "novice": [
     {
-      "naslov": "ZDA odobrile 24 milijard dolarjev vredno prodajo lovcev F-35 Savdski Arabiji",
+      "naslov": "ISIL naj bi uporabljal umetno inteligenco za razvoj orožja",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Poročilo Al Jazeere razkriva, da naj bi podporniki ISIL-a izkoriščali orodja umetne inteligence, vključno z 'Just ask Grok', za obvode varnostnih ukrepov in razvoj bomb. Dokazi kažejo, da se delijo načini za obvladovanje omejitev, ki jih nalagajo platforme umetne inteligence. To predstavlja nov in zaskrbljujoč vidik uporabe napredne tehnologije v teroristične namene.",
+      "analiza": "Novica o morebitni uporabi umetne inteligence s strani ISIL-a za razvoj orožja je skrb vzbujajoča in poudarja dvojni rob tehnološkega napredka. Medtem ko AI ponuja ogromne potenciale za izboljšanje življenja, se lahko uporabi tudi za škodljive namene. Poročilo nakazuje, da so varnostni ukrepi, implementirani v AI modelih, morda nezadostni ali da obstajajo načini za njihovo obvladovanje. To postavlja pod vprašaj učinkovitost nadzora nad razvojem in uporabo AI. Vpliv na finančne trge je lahko posreden, vendar bi lahko povečal pritisk na tehnološka podjetja, da okrepijo svoje varnostne protokole in regulativne organe, da razmislijo o strožji nadzor nad AI. Delnice podjetij, ki razvijajo AI, bi lahko doživele negativen sentiment, če se bo ta praksa razširila. Za slovenske vlagatelje to pomeni, da je sektor AI lahko podvržen večji regulativni negotovosti in da je treba skrbno oceniti tveganja, povezana z družbeno odgovornostjo podjetij v tem sektorju.",
+      "vpliv": [
+        "Povečan nadzor nad AI podjetji",
+        "Potencialni negativni sentiment za AI delnice",
+        "Povečani stroški za varnostne ukrepe v AI",
+        "Zaskrbljenost glede varnosti tehnologije"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs?traffic_source=rss",
+      "objavljeno": "2026-09-18T08:39:59.000Z"
+    },
+    {
+      "naslov": "Indonezija pridobila prvo letalonosilko v sklopu vojaške modernizacije",
       "sektor": "Geopolitika",
       "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Trumpova administracija je odobrila prodajo lovskih letal F-35 Savdski Arabiji v vrednosti 24 milijard dolarjev. Ta posel predstavlja pomembno zmago za Rijad, še posebej v luči regionalne krize, ki jo je sprožila vojna v Iranu. Prodaja najsodobnejših bojnih letal Savdski Arabiji krepi njeno vojaško moč in strateški položaj na Bližnjem vzhodu. Posel je bil objavljen 17. septembra 2026 ob 18:58:29 UTC in je bil deležen pozornosti Financial Timesa.",
-      "analiza": "Prodaja naprednih lovcev F-35 Savdski Arabiji je pomemben geopolitični dogodek, ki se odvija v ozadju naraščajočih napetosti na Bližnjem vzhodu, še posebej zaradi vojne v Iranu. ZDA s to potezo krepijo svoje zavezništvo s Savdsko Arabijo in poskušajo stabilizirati regijo, hkrati pa podpirajo svojo obrambno industrijo. V preteklosti so podobne prodaje orožja pogosto sprožile pomisleke glede regionalnega ravnovesja moči in morebitne eskalacije konfliktov. Za finančne trge to pomeni potencialno povečanje prihodkov za ameriška obrambna podjetja, ki proizvajajo F-35, kar bi lahko pozitivno vplivalo na njihove delnice. Hkrati pa povečane napetosti v regiji lahko vplivajo na cene nafte, saj je Bližnji vzhod ključen vir svetovne oskrbe. Morebitna nestabilnost bi lahko povzročila rast cen nafte, čeprav so danes cene WTI in Brent padle za 1,04 % oziroma 1,57 %. Za obveznice bi lahko geopolitična tveganja pomenila beg v varno zavetje, kar bi znižalo donosnosti, kot je danes že opazno pri 10-letni ameriški obveznici (-1,18 % na 4,95 %). Slovenski dolgoročni vlagatelj naj bo pozoren na morebitne posredne vplive na globalno gospodarstvo in cene energentov, ki lahko vplivajo na inflacijo in potrošniško moč.",
+      "intenziteta": 2,
+      "povzetek": "Indonezija je pridobila svojo prvo letalonosilko, kar je del širše vojaške modernizacije države. Uradno je bilo sporočeno, da bo plovilo namenjeno pomoči pri odzivanju na naravne nesreče po arhipelagu. Ta poteza krepi vojaško zmogljivost Indonezije v regiji, ki je strateško pomembna zaradi pomorskih poti.",
+      "analiza": "Pridobitev letalonosilke s strani Indonezije je pomemben strateški korak, ki odraža njena prizadevanja za krepitev regionalne varnosti in projekcijo moči. Čeprav je uradni namen pomoči pri naravnih nesrečah, vojaška letalonosilka nedvomno povečuje obrambne zmogljivosti države. To lahko vpliva na regionalno ravnovesje moči v jugovzhodni Aziji, regiji, ki je že zdaj zaznamovana s kitajskimi pomorskimi ambicijami. Povečana vojaška prisotnost Indonezije lahko vpliva na pomorske trgovinske poti in varnost v Južnokitajskem morju. Za finančne trge to pomeni potencialno povečano povpraševanje po obrambni industriji, tako v Indoneziji kot med dobavitelji opreme. Delnice obrambnih podjetij bi lahko imele koristi. Za slovenske vlagatelje, ki morda vlagajo v globalne sklade ali podjetja, je pomembno razumeti, kako se takšni geopolitični premiki odražajo v stabilnosti regije in globalnih dobavnih verigah, ki bi lahko bile posredno prizadete.",
       "vpliv": [
-        "Povečanje prihodkov za obrambna podjetja",
-        "Potencialna rast cen nafte v primeru eskalacije",
-        "Beg v varno zavetje za obveznice",
-        "Vpliv na regionalno stabilnost"
+        "Povečanje vojaške zmogljivosti Indonezije",
+        "Potencialno povečano povpraševanje v obrambni industriji",
+        "Vpliv na regionalno varnost v jugovzhodni Aziji",
+        "Odzivi sosednjih držav na krepitev vojaške moči"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/9934acc6-6b06-4f2e-a37a-6cf0869092cb?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-17T18:58:29.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/18/indonesia-acquires-first-aircraft-carrier-amid-military-upgrade?traffic_source=rss",
+      "objavljeno": "2026-09-18T07:54:49.000Z"
     },
     {
-      "naslov": "Angleška centralna banka nakazuje verjetno zvišanje obrestnih mer",
+      "naslov": "Italija bo poslala vojaške ladje za zaščito pomorskega prometa skozi Bab al-Mandeb",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Italija napoveduje, da bo poslala vojaške ladje za zaščito pomorskega prometa skozi strateško pomemben preliv Bab al-Mandeb. Italijanski obrambni minister opozarja na resne gospodarske posledice, če bi preliv postal neprehoden. Ta poteza naj bi zaobšla morebitne zamude pri odobritvah Evropske unije.",
+      "analiza": "Odločitev Italije, da pošlje vojaške ladje v regijo Bab al-Mandeb, poudarja naraščajoče napetosti v pomorskih prehodih, ki so ključni za globalno trgovino z energijo. Preliv Bab al-Mandeb je ozko grlo med Rdečim morjem in Adenskim zalivom, skozi katerega poteka znaten del svetovne nafte in plina. Vsakršna motnja v tem prehodu bi lahko povzročila znatne motnje v dobavnih verigah in dvig cen energije. Poteza Italije, ki se odloči za samostojno ukrepanje, nakazuje tudi potencialne razpoke v enotnosti EU glede zunanjepolitičnih in varnostnih vprašanj. Vpliv na finančne trge bi bil neposreden: dvig cen nafte in plina (WTI nafta je trenutno pri 95.54 USD/sod, Brent pri 98.52 USD/sod), potencialno povečanje inflacijskih pritiskov in negotovost na finančnih trgih. Delnice energetskih podjetij bi lahko imele koristi, medtem ko bi lahko potrošniška podjetja in letalski prevozniki čutili negativne posledice višjih stroškov goriva. Za slovenske vlagatelje to pomeni, da bi lahko višje cene energije vplivale na inflacijo in kupno moč, kar se lahko odraža v vrednosti njihovih naložb, še posebej tistih, ki so občutljive na stroške energije.",
+      "vpliv": [
+        "Povečanje cen nafte (WTI in Brent)",
+        "Potencialno povečanje inflacije",
+        "Negotovost na finančnih trgih",
+        "Povečano povpraševanje po varnostnih storitvah v pomorstvu"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
+      "objavljeno": "2026-09-18T02:53:05.000Z"
+    },
+    {
+      "naslov": "ZDA: Gospodarski pritisk bi lahko vplival na volivce",
       "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Angleška centralna banka (BoE) je sporočila, da so obrestne mere verjetno v porastu, kljub temu da jih je na zadnjem zasedanju ohranila na 3,75 %. To signalizira verjetnost višjih stroškov zadolževanja v prihodnosti. BoE je ob tem napovedala tudi prenovo prodaje državnih obveznic (gilt sales). Novica, objavljena 17. septembra 2026 ob 16:12:23 UTC, poudarja, da centralna banka ostaja pozorna na inflacijske pritiske in si prizadeva za stabilnost cen.",
-      "analiza": "Izjava Angleške centralne banke, da so obrestne mere verjetno v porastu, je ključna makroekonomska novica, ki vpliva na globalne finančne trge. Čeprav je BoE obrestno mero ohranila pri 3,75 %, signaliziranje prihodnjih dvigov kaže na nadaljnjo borbo proti inflaciji. To sledi splošnemu trendu centralnih bank po svetu, ki se soočajo z vztrajno inflacijo. Višje obrestne mere običajno pomenijo višje stroške zadolževanja za podjetja in potrošnike, kar lahko upočasni gospodarsko rast. Za delniške trge to lahko predstavlja negativen dejavnik, saj višji stroški kapitala zmanjšujejo dobičkonosnost podjetij. Po drugi strani pa lahko višje obrestne mere okrepijo valuto – v tem primeru britanski funt – in privabijo tuje vlagatelje, ki iščejo višje donose. Donosnosti obveznic, kot je 10-letna ameriška obveznica, ki je danes padla za 1,18 % na 4,95 %, so občutljive na pričakovanja glede obrestnih mer; v Združenem kraljestvu bi signal BoE lahko povzročil rast donosnosti britanskih obveznic. Slovenski dolgoročni vlagatelj naj bo pozoren na vpliv monetarne politike na globalno gospodarsko rast in inflacijo, saj to posredno vpliva na vrednost naložb v različnih sektorjih.",
-      "vpliv": [
-        "Potencialno zvišanje donosnosti britanskih obveznic",
-        "Možna krepitev britanskega funta",
-        "Negativen vpliv na delnice podjetij z visoko zadolženostjo",
-        "Upočasnitev gospodarske rasti"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/44bc4245-f235-4c1d-af93-deb5810f635a?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-17T16:12:23.000Z"
-    },
-    {
-      "naslov": "Zaposleni OpenAI naj bi vedeli za \"eksistencialno grožnjo\" AI založnikom",
-      "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "New York Times trdi, da so zaposleni v OpenAI vedeli za \"eksistencialno grožnjo\", ki jo umetna inteligenca predstavlja založnikom. Pravniki navajajo, da je soustanovitelja AI podjetja Grega Brockmana \"motiviral ogromen zaslužek\", ki ga je upal pridobiti z modeli, usposobljenimi na avtorsko zaščiteni vsebini. Novica, objavljena 17. septembra 2026 ob 18:09:19 UTC, poudarja naraščajoče pravne in etične dileme glede uporabe avtorsko zaščitenih vsebin za učenje AI modelov.",
-      "analiza": "Trditve New York Timesa o vedenju zaposlenih v OpenAI glede \"eksistencialne grožnje\" založnikom in motivaciji za zaslužek poudarjajo ključno vprašanje v razvoju umetne inteligence: uporabo avtorsko zaščitenih vsebin. To ni nov problem; podobne dileme so se pojavile že pri digitalizaciji knjig in glasbe. Trenutno se soočamo z valom tožb, ki bi lahko postavile precedense za prihodnjo regulacijo AI. Negativen razplet za OpenAI bi lahko pomenil visoke odškodnine ali omejitve pri usposabljanju modelov, kar bi vplivalo na celoten sektor umetne inteligence. Za delnice tehnoloških podjetij, še posebej tistih, ki so močno vpletena v razvoj AI, bi to lahko pomenilo povečano volatilnost in negotovost. Vlagatelji so že tako pozorni na regulativna tveganja v tehnološkem sektorju, kar se odraža v gibanju indeksov, kot je Nasdaq 100, ki je danes zrasel za 1,73 % na 29445 točk, vendar so takšne novice lahko zaviralni dejavnik. Posledice bi se lahko razširile tudi na medijski sektor, saj bi morebitne odškodnine ali licenčnine lahko spremenile poslovne modele založnikov. Slovenski dolgoročni vlagatelj naj bo pozoren na razvoj regulacije AI in morebitne spremembe v poslovnih modelih tehnoloških podjetij, saj to lahko vpliva na dolgoročno rast in dobičkonosnost.",
+      "povzetek": "Članek raziskuje, ali bi lahko trenutni gospodarski pritisk v ZDA, vključno z višjimi stroški zadolževanja in nižjo kupno močjo, vplival na odločitve volivcev. Posebej so poudarjeni Američani z nižjimi dohodki, ki najbolj občutijo posledice teh gospodarskih razmer.",
+      "analiza": "Vprašanje, ali gospodarski pritisk vpliva na volilna nagnjenja, je ključno za razumevanje politične dinamike v ZDA. Višji stroški zadolževanja, ki so posledica zviševanja obrestnih mer s strani Federal Reserve, in splošna inflacija zmanjšujejo kupno moč gospodinjstev. Ta pojav je še posebej izrazit pri nižje dohodkovnih skupinah, ki imajo manj prostora za prilagajanje in se bolj zanašajo na razpoložljiva sredstva. Vpliv na finančne trge je lahko večplasten. Če volivci glasujejo na podlagi gospodarskih skrbi, bi to lahko vplivalo na politike, ki jih bodo sprejele nove vlade, kar bi lahko imelo posledice za davke, potrošniške izdatke in regulacije. Delnice podjetij, ki so odvisna od domače potrošnje, bi lahko bile pod vplivom sprememb v potrošniških navadah. Obvezniški trgi bi lahko reagirali na pričakovanja glede prihodnje monetarne politike. Za slovenske vlagatelje je to pomemben opomnik, da so gospodarski in politični cikli pogosto povezani. Gospodarska stabilnost v ključnih svetovnih gospodarstvih, kot so ZDA, ima vpliv na globalne trge in s tem tudi na vrednost naložb slovenskih vlagateljev, ne glede na to, ali vlagajo neposredno v ameriške delnice ali preko globalnih skladov.",
       "vpliv": [
-        "Povečana regulativna tveganja za AI podjetja",
-        "Možne visoke odškodnine za OpenAI",
-        "Negotovost za delnice tehnoloških podjetij",
-        "Spremembe poslovnih modelov medijskih založnikov"
+        "Potencialne spremembe v potrošniških navadah",
+        "Vpliv na politike glede davkov in regulacij",
+        "Negotovost na delniških trgih, ki so odvisni od domače potrošnje",
+        "Odzivi obvezniških trgov na pričakovanja glede monetarne politike"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/3df8edae-ae3b-4f56-83a3-40602edc17a3?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-17T18:09:19.000Z"
-    },
-    {
-      "naslov": "Delnice podjetij Micron, Intel in drugih proizvajalcev čipov nadaljujejo rast",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Delnice podjetij Micron, Intel in drugih proizvajalcev čipov nadaljujejo svojo močno vrnitev na trg. Vlagatelji so manj zaskrbljeni glede upočasnitve porabe za umetno inteligenco in vpliva dvigov obrestnih mer. Novica, objavljena 17. septembra 2026 ob 15:22:00 UTC, poudarja obnovljeno zaupanje v sektor polprevodnikov, ki je ključen za razvoj AI in drugih naprednih tehnologij.",
-      "analiza": "Nadaljevanje rasti delnic podjetij, kot so Micron in Intel, signalizira obnovljeno zaupanje v sektor polprevodnikov. Ta sektor je temelj za razvoj umetne inteligence, računalništva v oblaku in drugih naprednih tehnologij, kar ga dela izjemno pomembnega za celotno tehnološko industrijo. Zmanjšanje strahov glede upočasnitve porabe za AI in vpliva višjih obrestnih mer je ključno za ta optimizem. V preteklosti so ciklične narave povpraševanja po čipih povzročale precejšnjo volatilnost v tem sektorju. Trenutni trend kaže na močno povpraševanje, ki ga poganja predvsem AI. Za delniške trge to pomeni nadaljnjo podporo tehnološkim indeksom, kot je Nasdaq 100, ki je danes zrasel za 1,73 % na 29445 točk. Rast v sektorju čipov lahko pozitivno vpliva tudi na podjetja, ki so odvisna od teh komponent. Vpliv na obveznice je posreden, saj močna rast v tehnološkem sektorju lahko signalizira robustno gospodarstvo, kar bi lahko vplivalo na pričakovanja glede inflacije in obrestnih mer. Slovenski dolgoročni vlagatelj naj bo pozoren na dolgoročne trende v sektorju polprevodnikov, saj je ta ključen za inovacije in gospodarsko rast, a hkrati izpostavljen geopolitičnim tveganjem in cikličnosti.",
-      "vpliv": [
-        "Pozitiven vpliv na delnice proizvajalcev čipov",
-        "Podpora tehnološkim indeksom, kot je Nasdaq 100",
-        "Zmanjšanje strahov glede porabe za AI",
-        "Indikator robustnega povpraševanja po tehnologiji"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-17T15:22:00.000Z"
-    },
-    {
-      "naslov": "Amazonov tajni adut proti Walmartu: masivna širitev dostave isti dan",
-      "sektor": "Potrošniki",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Analitiki Bank of America menijo, da bi Amazonovo poročano načrtovano širjenje centrov za izpolnjevanje naročil z dostavo isti dan lahko predstavljalo \"tajno orožje\" proti Walmartu. Cilj je, da bi osnovno blago postalo \"takoj dostopno\". Novica, objavljena 17. septembra 2026 ob 17:42:00 UTC, poudarja intenziviranje konkurence v sektorju maloprodaje in e-trgovine.",
-      "analiza": "Amazonova strategija masivne širitve dostave isti dan je ključen razvoj v sektorju maloprodaje in e-trgovine. V ozadju je intenzivna bitka za tržni delež med giganti, kot sta Amazon in Walmart, ki se borita za prevlado v segmentu osnovnih dobrin. Zmožnost hitre dostave je postala ključni dejavnik pri izbiri potrošnikov, še posebej po pandemiji, ki je pospešila trend spletnega nakupovanja. Ta poteza bi lahko Amazonu omogočila pridobitev dodatnih strank in povečanje prihodkov, kar bi se pozitivno odrazilo na vrednosti delnic podjetja. Po drugi strani pa to predstavlja velik pritisk na konkurente, kot je Walmart, ki bodo morali pospešiti lastne logistične zmogljivosti, kar lahko pomeni povečane stroške in zmanjšanje marž. Za širši potrošniški sektor to pomeni nadaljnje izboljšanje storitev in večjo dostopnost izdelkov. Vpliv na delniške trge bi bil pozitiven za Amazon, medtem ko bi lahko konkurenca občutila pritisk. Slovenski dolgoročni vlagatelj naj bo pozoren na inovacije v logistiki in e-trgovini, saj te preoblikujejo potrošniške navade in imajo dolgoročen vpliv na dobičkonosnost podjetij v maloprodaji.",
-      "vpliv": [
-        "Povečanje tržnega deleža za Amazon",
-        "Pritisk na konkurente, kot je Walmart",
-        "Izboljšanje storitev za potrošnike",
-        "Potencialna rast delnic Amazona"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-17T17:42:00.000Z"
-    },
-    {
-      "naslov": "Presenetljiva moč delnic rasti morda opozarja na tržni mehurček",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Še en opozorilni znak o morebitnem tržnem mehurčku prihaja iz presenetljive moči delnic rasti. Novica, objavljena 17. septembra 2026 ob 17:16:00 UTC, poudarja zaskrbljenost analitikov glede pretiranih vrednotenj in morebitne nestabilnosti na trgu. To nakazuje, da bi lahko trenutna rast, zlasti v določenih segmentih, temeljila na špekulacijah in ne na temeljnih ekonomskih dejavnikih.",
-      "analiza": "Opozorilo o morebitnem tržnem mehurčku, ki ga nakazuje presenetljiva moč delnic rasti, je pomembna tema za finančne analitike in vlagatelje. Delnice rasti, pogosto v tehnološkem sektorju, so v zadnjih letih beležile izjemno rast, kar se odraža tudi v današnjem gibanju indeksov, kot je Nasdaq 100 (+1,73 % na 29445 točk) in S&P 500 (+1,17 % na 7640 točk). Vendar pa visoka vrednotenja, ki presegajo temeljne kazalnike, lahko signalizirajo pregrevanje trga. Zgodovinsko gledano so obdobja pretirane rasti delnic rasti pogosto sledila korekcijam ali celo pokom mehurčkov, kot je bil dot-com mehurček v zgodnjih 2000-ih. To lahko pomeni povečano tveganje za vlagatelje, še posebej tiste, ki so močno izpostavljeni tem delnicam. Za obveznice bi morebitna korekcija na delniških trgih lahko pomenila beg v varno zavetje in s tem padec donosnosti. Slovenski dolgoročni vlagatelj naj bo previden pri alokaciji sredstev, razprši svoje naložbe in se osredotoči na podjetja z močnimi temelji, namesto da sledi kratkoročnim trendom in špekulativnim naložbam.",
-      "vpliv": [
-        "Povečano tveganje za korekcijo na delniških trgih",
-        "Opozorilo na visoka vrednotenja delnic rasti",
-        "Možen beg v varno zavetje za obveznice",
-        "Potreba po previdnosti pri naložbenih strategijah"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/why-growth-stocks-surprising-strength-may-be-warning-of-a-market-bubble-5288a7dc?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-17T17:16:00.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss",
+      "objavljeno": "2026-09-18T04:27:25.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-17T19:20:16.297Z",
+    "posodobljenoOb": "2026-09-18T08:59:38.781Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7640.23,
-        "sprememba_pct": 1.17
+        "vrednost": 7637.76,
+        "sprememba_pct": 1.14
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29444.531,
+        "vrednost": 29446.98,
         "sprememba_pct": 1.73
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25716.71,
-        "sprememba_pct": 1.24
+        "vrednost": 25585.47,
+        "sprememba_pct": -0.51
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 64136.25,
-        "sprememba_pct": 0.33
+        "vrednost": 65018.95,
+        "sprememba_pct": 1.38
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4394.5,
-        "sprememba_pct": 0.16,
+        "vrednost": 4427,
+        "sprememba_pct": 0.62,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 101.36,
-        "sprememba_pct": -1.04,
+        "vrednost": 95.54,
+        "sprememba_pct": -1.74,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 104.17,
-        "sprememba_pct": -1.57,
+        "vrednost": 98.52,
+        "sprememba_pct": -1.41,
         "enota": "USD/sod"
       }
     ],
@@ -164,8 +130,8 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1481,
-        "sprememba_pct": 0.1
+        "vrednost": 1.1485,
+        "sprememba_pct": 0.04
       }
     ],
     "obveznice": [
@@ -181,16 +147,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 76497.98,
-        "sprememba_pct": 0.47,
+        "vrednost": 78169.4,
+        "sprememba_pct": 2.38,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.52,
-      "sprememba_pct": -9.77
+      "vrednost": 15.25,
+      "sprememba_pct": -1.23
     }
   }
 }
