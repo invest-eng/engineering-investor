@@ -1,162 +1,162 @@
 {
-  "generiranoOb": "2026-09-17T19:21:43.900Z",
+  "generiranoOb": "2026-09-18T18:43:06.187Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-09-17",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z rastjo, medtem ko so ameriški indeksi nadaljevali pozitivno smer. Nemški DAX je dan zaključil pri 25.717 točkah, kar predstavlja rast za 1,24 %. Na drugi strani Atlantika je S&P 500 po dveh urah trgovanja dosegel 7640 točk z rastjo 1,17 %, tehnološko usmerjeni Nasdaq 100 pa je poskočil za 1,73 % na 29445 točk. Optimizem na trgih se odraža tudi v padcu indeksa volatilnosti VIX, ki je upadel za 9,77 % na 15,52. Med surovinami je zlato zabeležilo skromno rast za 0,16 % na 4394,50 USD/oz, medtem ko sta ceni nafte WTI in Brent padli za 1,04 % oziroma 1,57 %, na 101,36 USD/sod in 104,17 USD/sod. Donosnost 10-letne ameriške državne obveznice se je znižala za 1,18 % na 4,95 %, medtem ko je evro v primerjavi z dolarjem pridobil 0,10 % in se giblje pri 1,1481 EUR/USD. Bitcoin je medtem zrasel za 0,47 % na 76498 USD. Vlagatelji so pozorni na dogajanje v tehnološkem sektorju, geopolitične napetosti in signale centralnih bank, zlasti glede morebitnih dvigov obrestnih mer. Najpomembnejši ekonomski dogodek tega tedna, ki ga vlagatelji morajo imeti na radarju, je objava inflacijskih podatkov za evroobmočje.",
+  "datum": "2026-09-18",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z negativnim predznakom, medtem ko so ameriški trgi začeli dan mešano. Nemški indeks DAX je padel za 0.92 % na 25304 točk, medtem ko je S&P 500 trenutno pri 7634 točkah z minimalnim padcem za 0.04 %, tehnološki Nasdaq 100 pa je pridobil 0.15 % in dosegel 29491 točk. Na surovinskih trgih je cena zlata zrasla za 0.66 % na 4428.90 USD za unčo, medtem ko sta nafta WTI in Brent zabeležili padec za 1.31 % na 95.96 USD/sod oziroma za 0.78 % na 99.15 USD/sod, kar odraža negotovost glede geopolitičnih razmer in povpraševanja. Donosnost 10-letne ameriške državne obveznice je zrasla za 1.07 % na 5.00 %, kar kaže na nadaljnje pritiske na trgu obveznic. Bitcoin je medtem poskočil za 6.09 % na 81003 USD, indeks volatilnosti VIX pa je padel za 14.40 % na 15.16. Med ključnimi novicami dneva izstopa odstop Warrena Buffetta z mesta predsednika Berkshire Hathaway, nadaljevanje geopolitičnih napetosti med ZDA in Iranom, ki vplivajo na napovedi cen nafte, ter zaskrbljenost avtomobilske industrije glede kitajskih proizvajalcev. Vlagatelji bodo ta teden pozorno spremljali nadaljnje objave o inflaciji in morebitne komentarje centralnih bank glede prihodnjih obrestnih mer.",
   "novice": [
     {
-      "naslov": "ZDA odobrile 24 milijard dolarjev vredno prodajo lovcev F-35 Savdski Arabiji",
+      "naslov": "JP Morgan se bori z napovedjo cen nafte zaradi vojne ZDA-Iran",
       "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Trumpova administracija je odobrila prodajo lovskih letal F-35 Savdski Arabiji v vrednosti 24 milijard dolarjev. Ta posel predstavlja pomembno zmago za Rijad, še posebej v luči regionalne krize, ki jo je sprožila vojna v Iranu. Prodaja najsodobnejših bojnih letal Savdski Arabiji krepi njeno vojaško moč in strateški položaj na Bližnjem vzhodu. Posel je bil objavljen 17. septembra 2026 ob 18:58:29 UTC in je bil deležen pozornosti Financial Timesa.",
-      "analiza": "Prodaja naprednih lovcev F-35 Savdski Arabiji je pomemben geopolitični dogodek, ki se odvija v ozadju naraščajočih napetosti na Bližnjem vzhodu, še posebej zaradi vojne v Iranu. ZDA s to potezo krepijo svoje zavezništvo s Savdsko Arabijo in poskušajo stabilizirati regijo, hkrati pa podpirajo svojo obrambno industrijo. V preteklosti so podobne prodaje orožja pogosto sprožile pomisleke glede regionalnega ravnovesja moči in morebitne eskalacije konfliktov. Za finančne trge to pomeni potencialno povečanje prihodkov za ameriška obrambna podjetja, ki proizvajajo F-35, kar bi lahko pozitivno vplivalo na njihove delnice. Hkrati pa povečane napetosti v regiji lahko vplivajo na cene nafte, saj je Bližnji vzhod ključen vir svetovne oskrbe. Morebitna nestabilnost bi lahko povzročila rast cen nafte, čeprav so danes cene WTI in Brent padle za 1,04 % oziroma 1,57 %. Za obveznice bi lahko geopolitična tveganja pomenila beg v varno zavetje, kar bi znižalo donosnosti, kot je danes že opazno pri 10-letni ameriški obveznici (-1,18 % na 4,95 %). Slovenski dolgoročni vlagatelj naj bo pozoren na morebitne posredne vplive na globalno gospodarstvo in cene energentov, ki lahko vplivajo na inflacijo in potrošniško moč.",
-      "vpliv": [
-        "Povečanje prihodkov za obrambna podjetja",
-        "Potencialna rast cen nafte v primeru eskalacije",
-        "Beg v varno zavetje za obveznice",
-        "Vpliv na regionalno stabilnost"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/9934acc6-6b06-4f2e-a37a-6cf0869092cb?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-17T18:58:29.000Z"
-    },
-    {
-      "naslov": "Angleška centralna banka nakazuje verjetno zvišanje obrestnih mer",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Angleška centralna banka (BoE) je sporočila, da so obrestne mere verjetno v porastu, kljub temu da jih je na zadnjem zasedanju ohranila na 3,75 %. To signalizira verjetnost višjih stroškov zadolževanja v prihodnosti. BoE je ob tem napovedala tudi prenovo prodaje državnih obveznic (gilt sales). Novica, objavljena 17. septembra 2026 ob 16:12:23 UTC, poudarja, da centralna banka ostaja pozorna na inflacijske pritiske in si prizadeva za stabilnost cen.",
-      "analiza": "Izjava Angleške centralne banke, da so obrestne mere verjetno v porastu, je ključna makroekonomska novica, ki vpliva na globalne finančne trge. Čeprav je BoE obrestno mero ohranila pri 3,75 %, signaliziranje prihodnjih dvigov kaže na nadaljnjo borbo proti inflaciji. To sledi splošnemu trendu centralnih bank po svetu, ki se soočajo z vztrajno inflacijo. Višje obrestne mere običajno pomenijo višje stroške zadolževanja za podjetja in potrošnike, kar lahko upočasni gospodarsko rast. Za delniške trge to lahko predstavlja negativen dejavnik, saj višji stroški kapitala zmanjšujejo dobičkonosnost podjetij. Po drugi strani pa lahko višje obrestne mere okrepijo valuto – v tem primeru britanski funt – in privabijo tuje vlagatelje, ki iščejo višje donose. Donosnosti obveznic, kot je 10-letna ameriška obveznica, ki je danes padla za 1,18 % na 4,95 %, so občutljive na pričakovanja glede obrestnih mer; v Združenem kraljestvu bi signal BoE lahko povzročil rast donosnosti britanskih obveznic. Slovenski dolgoročni vlagatelj naj bo pozoren na vpliv monetarne politike na globalno gospodarsko rast in inflacijo, saj to posredno vpliva na vrednost naložb v različnih sektorjih.",
-      "vpliv": [
-        "Potencialno zvišanje donosnosti britanskih obveznic",
-        "Možna krepitev britanskega funta",
-        "Negativen vpliv na delnice podjetij z visoko zadolženostjo",
-        "Upočasnitev gospodarske rasti"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/44bc4245-f235-4c1d-af93-deb5810f635a?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-17T16:12:23.000Z"
-    },
-    {
-      "naslov": "Zaposleni OpenAI naj bi vedeli za \"eksistencialno grožnjo\" AI založnikom",
-      "sektor": "Tehnologija & AI",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "New York Times trdi, da so zaposleni v OpenAI vedeli za \"eksistencialno grožnjo\", ki jo umetna inteligenca predstavlja založnikom. Pravniki navajajo, da je soustanovitelja AI podjetja Grega Brockmana \"motiviral ogromen zaslužek\", ki ga je upal pridobiti z modeli, usposobljenimi na avtorsko zaščiteni vsebini. Novica, objavljena 17. septembra 2026 ob 18:09:19 UTC, poudarja naraščajoče pravne in etične dileme glede uporabe avtorsko zaščitenih vsebin za učenje AI modelov.",
-      "analiza": "Trditve New York Timesa o vedenju zaposlenih v OpenAI glede \"eksistencialne grožnje\" založnikom in motivaciji za zaslužek poudarjajo ključno vprašanje v razvoju umetne inteligence: uporabo avtorsko zaščitenih vsebin. To ni nov problem; podobne dileme so se pojavile že pri digitalizaciji knjig in glasbe. Trenutno se soočamo z valom tožb, ki bi lahko postavile precedense za prihodnjo regulacijo AI. Negativen razplet za OpenAI bi lahko pomenil visoke odškodnine ali omejitve pri usposabljanju modelov, kar bi vplivalo na celoten sektor umetne inteligence. Za delnice tehnoloških podjetij, še posebej tistih, ki so močno vpletena v razvoj AI, bi to lahko pomenilo povečano volatilnost in negotovost. Vlagatelji so že tako pozorni na regulativna tveganja v tehnološkem sektorju, kar se odraža v gibanju indeksov, kot je Nasdaq 100, ki je danes zrasel za 1,73 % na 29445 točk, vendar so takšne novice lahko zaviralni dejavnik. Posledice bi se lahko razširile tudi na medijski sektor, saj bi morebitne odškodnine ali licenčnine lahko spremenile poslovne modele založnikov. Slovenski dolgoročni vlagatelj naj bo pozoren na razvoj regulacije AI in morebitne spremembe v poslovnih modelih tehnoloških podjetij, saj to lahko vpliva na dolgoročno rast in dobičkonosnost.",
+      "intenziteta": 3,
+      "povzetek": "Banka JP Morgan je izrazila težave pri napovedovanju cen nafte zaradi vojne med ZDA in Iranom, saj \"preprosto ne ve\", kako se bo situacija razvijala. Predpostavljajo, da obstajajo ekonomske \"rdeče črte\", kot je cena nafte pri 100 dolarjih za sod, ki jih ZDA ne bi bile pripravljene prestopiti. Medtem so se Iranci zbrali na največjem shodu proti ZDA od začetka vojne, pri čemer so prostovoljci v Teheranu poudarjali \"samopožrtvovalnost\" za Iran. Ti dogodki kažejo na naraščajoče napetosti, ki bi lahko dodatno destabilizirale globalne energetske trge.",
+      "analiza": "Konflikt med ZDA in Iranom predstavlja pomembno geopolitično tveganje, ki ima neposreden vpliv na globalne energetske trge. Iran je ključni proizvajalec nafte in vsaka eskalacija konflikta v regiji lahko povzroči motnje v dobavi. Priznanje JP Morgan, da ne more zanesljivo napovedati cen nafte, poudarja izjemno negotovost, ki jo ta konflikt prinaša. Zgodovinsko gledano so geopolitične napetosti na Bližnjem vzhodu vedno povzročile skoke cen nafte, saj trgi v ceno vključijo premijo za tveganje. Trenutno sta nafta WTI in Brent sicer zabeležili padec za 1.31 % na 95.96 USD/sod oziroma za 0.78 % na 99.15 USD/sod, kar bi lahko bil kratkoročni odziv na druge dejavnike ali pa zgolj trenutni predah pred morebitno eskalacijo. Dolgoročno bi morebiten preboj cene nafte nad 100 dolarjev, ki ga omenja JP Morgan kot \"rdečo črto\", močno vplival na inflacijo in centralne banke, kar bi lahko povzročilo strožjo monetarno politiko in upočasnitev gospodarske rasti. Za slovenskega dolgoročnega vlagatelja to pomeni povečano tveganje za inflacijo in morebitno zmanjšanje kupne moči, hkrati pa lahko podražitve energentov vplivajo na dobičkonosnost podjetij v energetsko intenzivnih panogah.",
       "vpliv": [
-        "Povečana regulativna tveganja za AI podjetja",
-        "Možne visoke odškodnine za OpenAI",
-        "Negotovost za delnice tehnoloških podjetij",
-        "Spremembe poslovnih modelov medijskih založnikov"
+        "Povečana negotovost na trgu nafte",
+        "Potencialni skok cen nafte nad 100 USD/sod",
+        "Vpliv na globalno inflacijo",
+        "Povečana volatilnost na trgih surovin"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/3df8edae-ae3b-4f56-83a3-40602edc17a3?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-17T18:09:19.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-18T17:57:30.000Z"
     },
     {
-      "naslov": "Delnice podjetij Micron, Intel in drugih proizvajalcev čipov nadaljujejo rast",
+      "naslov": "Warren Buffett odstopa po šestih desetletjih vodenja Berkshire Hathaway",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Warren Buffett, legendarni vlagatelj in \"Oracle iz Omahe\", odstopa z mesta predsednika uprave Berkshire Hathaway po šestih desetletjih vodenja. Pod njegovim vodstvom se je podjetje, ki je bilo leta 1965 propadajoča tekstilna tovarna, razvilo v globalni konglomerat. Njegov sin, Howard G. Buffett, ga bo nasledil na mestu predsednika, medtem ko bo Warren Buffett prevzel vlogo predsednika emeritusa. Čeprav je novica pričakovana glede na Buffettovo starost, predstavlja konec ene najvplivnejših er v zgodovini financ.",
+      "analiza": "Odstop Warrena Buffetta je zgodovinski dogodek za finančni svet, saj je bil sinonim za vrednostno investiranje in dolgoročno rast. Njegova zapuščina v Berkshire Hathaway, ki je pod njegovim vodstvom postala globalni konglomerat, je izjemna. Čeprav je bil njegov odstop pričakovan zaradi starosti, prinaša obdobje negotovosti glede prihodnje smeri podjetja, kljub temu da je nasledstvo že določeno z njegovim sinom Howardom G. Buffettom. Trgi so se na novico odzvali relativno mirno, saj je podjetje že dolgo pripravljeno na ta prehod, z operativnim vodenjem s strani Grega Abela in Ajita Jaina. Vendar pa nekateri analitiki, kot je omenjeno v drugi novici (MarketWatch), že opozarjajo, da delnice Berkshire Hathaway morda niso prekašale indeksa S&P 500 v zadnjih 30 letih in svetujejo prodajo. To poudarja, da se tudi za tako uveljavljene institucije s spremembo vodstva pojavljajo vprašanja o prihodnji uspešnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub stabilnosti in uveljavljenosti podjetja pomembno spremljati, kako se bo novo vodstvo spopadalo z izzivi in ali bo ohranilo prejšnjo filozofijo, še posebej v luči spremenjenih tržnih razmer in rasti tehnoloških podjetij.",
+      "vpliv": [
+        "Konec ere Warrena Buffetta",
+        "Sprememba vodstva v Berkshire Hathaway",
+        "Potencialna negotovost glede dolgoročne strategije Berkshire Hathaway",
+        "Vpliv na vrednostno investiranje"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-18T17:15:02.000Z"
+    },
+    {
+      "naslov": "Dva znaka, da se vlagateljem ni treba bati upočasnitve umetne inteligence",
       "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Delnice podjetij Micron, Intel in drugih proizvajalcev čipov nadaljujejo svojo močno vrnitev na trg. Vlagatelji so manj zaskrbljeni glede upočasnitve porabe za umetno inteligenco in vpliva dvigov obrestnih mer. Novica, objavljena 17. septembra 2026 ob 15:22:00 UTC, poudarja obnovljeno zaupanje v sektor polprevodnikov, ki je ključen za razvoj AI in drugih naprednih tehnologij.",
-      "analiza": "Nadaljevanje rasti delnic podjetij, kot so Micron in Intel, signalizira obnovljeno zaupanje v sektor polprevodnikov. Ta sektor je temelj za razvoj umetne inteligence, računalništva v oblaku in drugih naprednih tehnologij, kar ga dela izjemno pomembnega za celotno tehnološko industrijo. Zmanjšanje strahov glede upočasnitve porabe za AI in vpliva višjih obrestnih mer je ključno za ta optimizem. V preteklosti so ciklične narave povpraševanja po čipih povzročale precejšnjo volatilnost v tem sektorju. Trenutni trend kaže na močno povpraševanje, ki ga poganja predvsem AI. Za delniške trge to pomeni nadaljnjo podporo tehnološkim indeksom, kot je Nasdaq 100, ki je danes zrasel za 1,73 % na 29445 točk. Rast v sektorju čipov lahko pozitivno vpliva tudi na podjetja, ki so odvisna od teh komponent. Vpliv na obveznice je posreden, saj močna rast v tehnološkem sektorju lahko signalizira robustno gospodarstvo, kar bi lahko vplivalo na pričakovanja glede inflacije in obrestnih mer. Slovenski dolgoročni vlagatelj naj bo pozoren na dolgoročne trende v sektorju polprevodnikov, saj je ta ključen za inovacije in gospodarsko rast, a hkrati izpostavljen geopolitičnim tveganjem in cikličnosti.",
+      "povzetek": "Podjetji CoreWeave in Nebius, ki delujeta na področju \"neocloud\" storitev, signalizirata močno povpraševanje in naraščajoče cene za čipe umetne inteligence (AI). To je po mnenju analitikov dober znak, da se vlagateljem ni treba bati upočasnitve rasti na področju AI. Njihovi signali kažejo na nadaljnjo robustnost trga AI čipov, kar potrjuje tezo o dolgoročni rasti sektorja.",
+      "analiza": "Sektor umetne inteligence (AI) ostaja ključni gonilnik rasti na globalnih trgih, in novica o močnem povpraševanju ter naraščajočih cenah za AI čipe s strani podjetij CoreWeave in Nebius potrjuje to tezo. To je pomembno, saj se vlagatelji pogosto sprašujejo o vzdržnosti hitre rasti v tehnološkem sektorju. Povečano povpraševanje po AI čipih neposredno vpliva na proizvajalce teh komponent, kot so NVIDIA, AMD in Intel, kar lahko vodi do nadaljnje rasti njihovih delnic. Nasdaq 100, ki je danes pridobil 0.15 % na 29491 točk, je že odraz optimizma v tehnološkem sektorju. Dolgoročno to pomeni, da so podjetja, ki so v ospredju razvoja in implementacije AI tehnologij, še vedno privlačna za vlagatelje. Vendar pa je pomembno opozoriti, da visoka rast prinaša tudi visoke vrednotenja, zato je selekcija podjetij ključna. Za slovenskega dolgoročnega vlagatelja to pomeni, da je izpostavljenost sektorju AI še vedno relevantna, vendar je priporočljiva diverzifikacija in previdnost pri izbiri posameznih delnic, saj se trg hitro spreminja in so tveganja povečana.",
       "vpliv": [
-        "Pozitiven vpliv na delnice proizvajalcev čipov",
-        "Podpora tehnološkim indeksom, kot je Nasdaq 100",
-        "Zmanjšanje strahov glede porabe za AI",
-        "Indikator robustnega povpraševanja po tehnologiji"
+        "Nadaljnje močno povpraševanje po AI čipih",
+        "Rast cen AI čipov",
+        "Pozitiven vpliv na proizvajalce AI strojne opreme",
+        "Ohranjanje optimizma v tehnološkem sektorju"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-17T15:22:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-18T17:02:00.000Z"
     },
     {
-      "naslov": "Amazonov tajni adut proti Walmartu: masivna širitev dostave isti dan",
-      "sektor": "Potrošniki",
+      "naslov": "Kaj resnično poganja inflacijo in naraščajoče obrestne mere",
+      "sektor": "Makro & Centralne banke",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Analitiki Bank of America menijo, da bi Amazonovo poročano načrtovano širjenje centrov za izpolnjevanje naročil z dostavo isti dan lahko predstavljalo \"tajno orožje\" proti Walmartu. Cilj je, da bi osnovno blago postalo \"takoj dostopno\". Novica, objavljena 17. septembra 2026 ob 17:42:00 UTC, poudarja intenziviranje konkurence v sektorju maloprodaje in e-trgovine.",
-      "analiza": "Amazonova strategija masivne širitve dostave isti dan je ključen razvoj v sektorju maloprodaje in e-trgovine. V ozadju je intenzivna bitka za tržni delež med giganti, kot sta Amazon in Walmart, ki se borita za prevlado v segmentu osnovnih dobrin. Zmožnost hitre dostave je postala ključni dejavnik pri izbiri potrošnikov, še posebej po pandemiji, ki je pospešila trend spletnega nakupovanja. Ta poteza bi lahko Amazonu omogočila pridobitev dodatnih strank in povečanje prihodkov, kar bi se pozitivno odrazilo na vrednosti delnic podjetja. Po drugi strani pa to predstavlja velik pritisk na konkurente, kot je Walmart, ki bodo morali pospešiti lastne logistične zmogljivosti, kar lahko pomeni povečane stroške in zmanjšanje marž. Za širši potrošniški sektor to pomeni nadaljnje izboljšanje storitev in večjo dostopnost izdelkov. Vpliv na delniške trge bi bil pozitiven za Amazon, medtem ko bi lahko konkurenca občutila pritisk. Slovenski dolgoročni vlagatelj naj bo pozoren na inovacije v logistiki in e-trgovini, saj te preoblikujejo potrošniške navade in imajo dolgoročen vpliv na dobičkonosnost podjetij v maloprodaji.",
+      "povzetek": "Članek razpravlja o dejavnikih, ki resnično poganjajo inflacijo in naraščajoče obrestne mere, kar je ključno vprašanje za globalno gospodarstvo. Poleg tega se dotika tem, kot so nepremičninski trg, načrtovanje upokojitve z razliko v starosti in kombinacija opozoril ter priložnosti na borznem trgu. Razumevanje teh dejavnikov je bistveno za vlagatelje, saj vplivajo na vrednotenje vseh razredov sredstev.",
+      "analiza": "Inflacija in obrestne mere ostajajo v središču pozornosti finančnih trgov, saj neposredno vplivajo na stroške zadolževanja, dobičkonosnost podjetij in kupno moč potrošnikov. Članek poudarja kompleksnost teh dejavnikov, kar kaže na to, da ni enostavnih rešitev ali jasnih napovedi. Naraščajoče obrestne mere, kot je razvidno iz donosnosti 10-letne ameriške državne obveznice, ki je danes zrasla za 1.07 % na 5.00 %, običajno negativno vplivajo na delniške trge, saj povečujejo stroške financiranja podjetij in zmanjšujejo privlačnost delnic v primerjavi z manj tveganimi obveznicami. Hkrati visoka inflacija zmanjšuje realno vrednost naložb. Vendar pa so trgi včasih sposobni absorbirati zvišanje obrestnih mer, če je gospodarska rast dovolj močna. Za kriptovalute, kot je Bitcoin, ki je danes poskočil za 6.09 % na 81003 USD, lahko visoka inflacija deluje kot katalizator, saj nekateri vlagatelji vidijo kriptovalute kot zaščito pred devalvacijo fiat valut, čeprav so izjemno volatilne. Za slovenskega dolgoročnega vlagatelja je ključno razumeti, da so inflacija in obrestne mere ciklični pojavi, ki zahtevajo prilagoditev naložbene strategije, predvsem skozi diverzifikacijo in morebitno izpostavljenost podjetjem, ki so odporna na inflacijo ali imajo močno cenovno moč.",
       "vpliv": [
-        "Povečanje tržnega deleža za Amazon",
-        "Pritisk na konkurente, kot je Walmart",
-        "Izboljšanje storitev za potrošnike",
-        "Potencialna rast delnic Amazona"
+        "Povečan pritisk na delniške trge zaradi višjih obrestnih mer",
+        "Zmanjšana kupna moč zaradi inflacije",
+        "Potencialna privlačnost določenih razredov sredstev (npr. zlato, nekatere surovine) kot zaščita pred inflacijo",
+        "Vpliv na vrednotenje podjetij"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-17T17:42:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/whats-really-driving-inflation-and-rising-interest-rates-59a9cd51?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-18T16:50:00.000Z"
     },
     {
-      "naslov": "Presenetljiva moč delnic rasti morda opozarja na tržni mehurček",
-      "sektor": "Finance",
+      "naslov": "Franšiza Wendy's vloži zahtevo za zaščito pred stečajem v ZDA",
+      "sektor": "Potrošniki",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Še en opozorilni znak o morebitnem tržnem mehurčku prihaja iz presenetljive moči delnic rasti. Novica, objavljena 17. septembra 2026 ob 17:16:00 UTC, poudarja zaskrbljenost analitikov glede pretiranih vrednotenj in morebitne nestabilnosti na trgu. To nakazuje, da bi lahko trenutna rast, zlasti v določenih segmentih, temeljila na špekulacijah in ne na temeljnih ekonomskih dejavnikih.",
-      "analiza": "Opozorilo o morebitnem tržnem mehurčku, ki ga nakazuje presenetljiva moč delnic rasti, je pomembna tema za finančne analitike in vlagatelje. Delnice rasti, pogosto v tehnološkem sektorju, so v zadnjih letih beležile izjemno rast, kar se odraža tudi v današnjem gibanju indeksov, kot je Nasdaq 100 (+1,73 % na 29445 točk) in S&P 500 (+1,17 % na 7640 točk). Vendar pa visoka vrednotenja, ki presegajo temeljne kazalnike, lahko signalizirajo pregrevanje trga. Zgodovinsko gledano so obdobja pretirane rasti delnic rasti pogosto sledila korekcijam ali celo pokom mehurčkov, kot je bil dot-com mehurček v zgodnjih 2000-ih. To lahko pomeni povečano tveganje za vlagatelje, še posebej tiste, ki so močno izpostavljeni tem delnicam. Za obveznice bi morebitna korekcija na delniških trgih lahko pomenila beg v varno zavetje in s tem padec donosnosti. Slovenski dolgoročni vlagatelj naj bo previden pri alokaciji sredstev, razprši svoje naložbe in se osredotoči na podjetja z močnimi temelji, namesto da sledi kratkoročnim trendom in špekulativnim naložbam.",
+      "povzetek": "Meritage Hospitality Group, eden največjih franšizojemalcev verige hitre prehrane Wendy's v ZDA, je vložil zahtevo za zaščito pred stečajem po poglavju 11. Ta poteza prihaja v času, ko se veriga burgerjev spopada s težavami, kar kaže na morebitne širše izzive v sektorju hitre prehrane ali na splošno v potrošniškem sektorju. Stečajni postopek bo omogočil reorganizacijo poslovanja.",
+      "analiza": "Stečaj velikega franšizojemalca, kot je Meritage Hospitality Group za Wendy's, je pomemben indikator morebitnih težav v potrošniškem sektorju, še posebej v segmentu hitre prehrane. To lahko kaže na več dejavnikov: bodisi na naraščajoče stroške poslovanja (npr. delovna sila, surovine), zmanjšano kupno moč potrošnikov, ki manj pogosto obiskujejo restavracije, ali pa na močno konkurenco in spremenjene potrošniške navade. Čeprav gre za specifičen primer, lahko takšni dogodki sprožijo vprašanja o zdravju celotne industrije in odpornosti potrošnikov. Vpliv na delnice matičnega podjetja Wendy's je lahko negativen, saj stečaj franšizojemalca pomeni izgubo prihodkov od licenčnin in morebitno škodo ugledu blagovne znamke. Za širši trg to lahko služi kot opozorilo, da kljub splošni rasti nekateri segmenti gospodarstva trpijo. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati kazalnike potrošniške porabe in zdravje podjetij v sektorju potrošniških storitev, saj so ta podjetja pogosto občutljiva na ekonomske cikle in spremembe v razpoložljivem dohodku prebivalstva.",
       "vpliv": [
-        "Povečano tveganje za korekcijo na delniških trgih",
-        "Opozorilo na visoka vrednotenja delnic rasti",
-        "Možen beg v varno zavetje za obveznice",
-        "Potreba po previdnosti pri naložbenih strategijah"
+        "Negativen vpliv na delnice Wendy's",
+        "Opozorilo za sektor hitre prehrane",
+        "Indikator morebitnih širših težav v potrošniškem sektorju",
+        "Povečana tveganja za franšizne modele"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/why-growth-stocks-surprising-strength-may-be-warning-of-a-market-bubble-5288a7dc?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-17T17:16:00.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/09/18/wendys-franchisee-files-for-chapter-11-bankruptcy-protection.html",
+      "objavljeno": "2026-09-18T16:13:00.000Z"
+    },
+    {
+      "naslov": "Avtomobilska industrija poziva Trumpa k prepovedi kitajskih avtomobilov",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Predstavniki šestih velikih avtomobilskih trgovinskih skupin so se združili in podpisali pismo predsedniku Trumpu, v katerem ga pozivajo k prepovedi kitajskih avtomobilov v ZDA. Ta poziv prihaja pred obiskom kitajskega predsednika Xi Jinpinga in poudarja naraščajoče trgovinske napetosti med državama. Glavni razlog za zaskrbljenost je domnevno nelojalna konkurenca in varnostna tveganja, povezana s kitajskimi vozili.",
+      "analiza": "Poziv ameriške avtomobilske industrije k prepovedi kitajskih avtomobilov v ZDA je jasen znak stopnjevanja trgovinskih napetosti med največjima gospodarstvoma na svetu. To se dogaja v kontekstu prihajajočega obiska predsednika Xi Jinpinga, kar kaže na visoko politično občutljivost vprašanja. Zgodovinsko gledano so trgovinske vojne in protekcionistične politike pogosto povzročile nestabilnost na globalnih trgih, saj vplivajo na dobavne verige, cene izdelkov in dobičkonosnost podjetij. Morebitna prepoved kitajskih avtomobilov bi lahko sprožila povračilne ukrepe s strani Kitajske, kar bi prizadelo ameriška podjetja, ki poslujejo na kitajskem trgu, in globalne delniške indekse. To bi lahko imelo negativne posledice za industrijo avtomobilskih delov in surovine, kot so kovine. Za valute bi lahko eskalacija trgovinskih napetosti povzročila povečano volatilnost, še posebej med USD in CNY. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati globalne trgovinske politike, saj lahko vplivajo na podjetja, ki so del mednarodnih dobavnih verig, in na splošno gospodarsko rast. Diverzifikacija naložb in izogibanje preveliki izpostavljenosti specifičnim sektorjem, ki so tarča trgovinskih sporov, je priporočljiva.",
+      "vpliv": [
+        "Povečanje trgovinskih napetosti med ZDA in Kitajsko",
+        "Potencialni povračilni ukrepi Kitajske",
+        "Negativen vpliv na globalne dobavne verige",
+        "Povečana volatilnost na delniških in valutnih trgih"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html",
+      "objavljeno": "2026-09-18T17:11:39.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-17T19:20:16.297Z",
+    "posodobljenoOb": "2026-09-18T18:36:36.902Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7640.23,
-        "sprememba_pct": 1.17
+        "vrednost": 7634.36,
+        "sprememba_pct": -0.04
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 29444.531,
-        "sprememba_pct": 1.73
+        "vrednost": 29490.707,
+        "sprememba_pct": 0.15
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25716.71,
-        "sprememba_pct": 1.24
+        "vrednost": 25304.06,
+        "sprememba_pct": -0.92
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 64136.25,
-        "sprememba_pct": 0.33
+        "vrednost": 65018.95,
+        "sprememba_pct": 1.38
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4394.5,
-        "sprememba_pct": 0.16,
+        "vrednost": 4428.9,
+        "sprememba_pct": 0.66,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 101.36,
-        "sprememba_pct": -1.04,
+        "vrednost": 95.96,
+        "sprememba_pct": -1.31,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 104.17,
-        "sprememba_pct": -1.57,
+        "vrednost": 99.15,
+        "sprememba_pct": -0.78,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1481,
-        "sprememba_pct": 0.1
+        "vrednost": 1.1485,
+        "sprememba_pct": 0.04
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.947,
-        "sprememba_pct": -1.18,
+        "vrednost": 5,
+        "sprememba_pct": 1.07,
         "enota": "%"
       }
     ],
@@ -181,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 76497.98,
-        "sprememba_pct": 0.47,
+        "vrednost": 81002.84,
+        "sprememba_pct": 6.09,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.52,
-      "sprememba_pct": -9.77
+      "vrednost": 15.16,
+      "sprememba_pct": -14.4
     }
   }
 }
