@@ -1,134 +1,117 @@
 {
-  "generiranoOb": "2026-09-21T20:09:39.919Z",
-  "izdaja": "afternoon",
-  "model": "gemini-2.5-flash",
+  "generiranoOb": "2026-09-22T13:31:30.097Z",
+  "izdaja": "morning",
+  "model": "gemini-2.5-flash-lite",
   "tier": "free",
-  "datum": "2026-09-21",
-  "povzetek": "Finančni trgi so danes, 21. septembra 2026, pokazali močno rast delniških indeksov, medtem ko so cene nafte občutno padle. Evropski indeks DAX je dan zaključil z rastjo za 1,07 % pri 25575 točkah, ameriška trga pa sta po dveh urah trgovanja nadaljevala v pozitivnem tonu, saj je S&P 500 pridobil 1,49 % in dosegel 7765 točk, tehnološko usmerjeni Nasdaq 100 pa je poskočil za 2,83 % na 30482 točk. Ta rast je bila deloma pogojena z optimizmom glede umetne inteligence, saj je Meta zabeležila izjemen mesec zaradi svojega novega AI asistenta. Naftni trgi so medtem doživeli padec, saj je cena Brent nafte upadla za 3,10 % na 96,21 USD za sod, kar je bilo povezano s špekulacijami o morebitnem srečanju med Donaldom Trumpom in iranskim predsednikom. Kriptovalute so bile izjemno volatilne, Bitcoin je zrasel za 6,83 % na 86709 USD, vendar pa se pojavljajo tudi opozorila o tveganjih na nekaterih platformah. Vlagatelji bodo ta teden pozorno spremljali objavo inflacijskih podatkov, ki lahko vplivajo na prihodnje odločitve centralnih bank.",
+  "datum": "2026-09-22",
+  "povzetek": "Jutranje trgovanje na azijskih trgih je zabeležilo rast, pri čemer je Nikkei 225 pridobil 1,38 %, medtem ko so ameriški indeksi, kot je S&P 500 pri 7774 (+0,11 %), in Nasdaq 100 pri 30523 (+0,13 %), pokazali zmerno rast. Evropski indeksi, kot je DAX pri 25777 (+0,79 %), prav tako kažejo pozitivne trende. Cene nafte so padle, WTI je pri 89,68 USD/sod (-2,91 %) in Brent pri 98,17 USD/sod (-2,16 %), zaradi poročil o ponudbi iranskih pomorskih poti in signalov Savdske Arabije o ponovnem odprtju naftovoda. Zlato je zabeležilo rahel padec na 4376,00 USD/oz (-0,18 %). V ospredju novic so napetosti med Iranom in ZDA ob Generalni skupščini ZN, kjer se bo predsednik Trump srečal z voditelji, vključno z iranskim predsednikom. V Združenem kraljestvu se soočajo z naraščajočim zadolževanjem vlade, medtem ko tehnološka podjetja, kot je Meta, dosegajo dobre rezultate zaradi napredka na področju umetne inteligence. Ta teden vlagatelji pozorno spremljajo objave o inflaciji in odločitve centralnih bank glede obrestnih mer.",
   "novice": [
     {
-      "naslov": "Padec cen nafte ob špekulacijah o srečanju Trumpa in iranskega predsednika",
+      "naslov": "Padajoče cene nafte zaradi iranskih pogajanj in odprtja savdskega naftovoda",
       "sektor": "Energetika",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Cena Brent nafte je danes, 21. septembra 2026, občutno upadla za 3,10 % na 96,21 USD za sod, medtem ko je WTI nafta zabeležila padec za 4,09 % na 92,15 USD za sod. Ta padec je bil sprožen z medijskimi špekulacijami, da bi se Donald Trump lahko ta teden srečal z iranskim predsednikom. Takšno srečanje bi lahko nakazovalo na morebitno omilitev napetosti med ZDA in Iranom ter potencialno spremembo v iranski naftni politiki. Morebitna sprostitev sankcij ali povečanje iranske proizvodnje bi lahko povečalo globalno ponudbo nafte. Poročilo Financial Timesa poudarja, da je to eden ključnih dejavnikov za današnje gibanje cen surovin.",
-      "analiza": "Ozadje dogodka leži v geopolitičnih napetostih med ZDA in Iranom, ki so v preteklosti vplivale na globalne cene nafte. Morebitno srečanje med voditeljema, ki ga omenja Financial Times, bi lahko pomenilo diplomatski preboj in zmanjšanje tveganj v regiji. To je relevantno zdaj, saj so cene nafte v zadnjem obdobju visoke (Brent nad 96 USD), deloma zaradi geopolitičnih tveganj in morebitne 'vojne v Iranu', kot je omenjeno v drugih novicah. Mehanizem vpliva je preprost: zmanjšanje geopolitičnih tveganj in pričakovanje morebitnega povečanja ponudbe iranske nafte zmanjšujeta premijo za tveganje v ceni nafte. To se neposredno odraža v padcu cen WTI in Brent nafte. Posledice so vidne na trgih surovin, kjer so cene nafte padle, kar pa lahko posredno vpliva pozitivno na delniške trge (manjši stroški za podjetja in potrošnike), kar se ujema z današnjo rastjo indeksov. Za slovenskega dolgoročnega vlagatelja to pomeni, da so geopolitični dogodki ključni dejavnik za cene energentov, ki vplivajo na inflacijo in stroške poslovanja podjetij. Zmanjšanje cen nafte lahko dolgoročno prispeva k stabilizaciji gospodarstva.",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Cene surove nafte so v torek znatno padle, pri čemer je WTI nafta zdrsnila pod 90 USD za sod (-2,91 %) na 89,68 USD, Brent pa je bil pri 98,17 USD za sod (-2,16 %). Padec je posledica poročil, da naj bi Iran ponudil odprtje Hormuške ožine, ključne pomorske poti za transport nafte, ter signalov Savdske Arabije o ponovnem odprtju vzhodno-zahodnega naftovoda, ki je bil zaprt zaradi napadov. Bank of America pa opozarja, da bi lahko cene nafte presegle 150 USD, če se bodo dobave še naprej zmanjševale zaradi motenj na Bližnjem vzhodu.",
+      "analiza": "Padajoče cene nafte so neposredna posledica zmanjšanja geopolitičnih tveganj v regiji Perzijskega zaliva in pričakovanj o povečanju ponudbe. Poročila o iranski ponudbi za odprtje Hormuške ožine, kljub preteklim napetostim, in signalizacija Savdske Arabije o ponovnem odprtju ključnega naftovoda neposredno vplivata na zmanjšanje premije za tveganje, ki je bila vgrajena v cene nafte. To zmanjšuje stroške za podjetja, ki so odvisna od energentov, in lahko pozitivno vpliva na potrošnike, vendar hkrati zmanjšuje prihodke energetskih podjetij in držav izvoznic nafte. Vendar pa Bank of America opozarja na možnost ponovnega dviga cen, če se bodo motnje v dobavah zaradi konfliktov na Bližnjem vzhodu nadaljevale. Za slovenske vlagatelje to pomeni potencialno nižje stroške poslovanja za podjetja, ki uporabljajo nafto, vendar lahko vpliva na delnice energetskih podjetij v portfelju. Dolgoročno je pomembno spremljati razvoj geopolitičnih razmer in zmožnost Savdske Arabije ter drugih proizvajalk, da zagotovijo stabilnost ponudbe.",
       "vpliv": [
-        "Padec Brent nafte za 3,10 % na 96,21 USD/sod",
-        "Padec WTI nafte za 4,09 % na 92,15 USD/sod",
-        "Potencialno zmanjšanje geopolitičnih tveganj",
-        "Pozitiven vpliv na delniške trge (nižji stroški)"
+        "Nižji stroški za podjetja, odvisna od nafte",
+        "Potencialno nižji inflacijski pritiski",
+        "Negativen vpliv na delnice energetskih podjetij",
+        "Zmanjšanje premije za geopolitično tveganje v cenah surovin"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-21T19:47:04.000Z"
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
+      "objavljeno": "2026-09-22T13:18:04.000Z"
     },
     {
-      "naslov": "Meta dosega najboljši mesec v 13 letih zaradi novega AI asistenta",
+      "naslov": "Meta dosega najboljše rezultate v več kot dveh letih zaradi uspešnega AI asistenta",
       "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "Delnice podjetja Meta doživljajo svoj najboljši mesec v zadnjih 13 letih, kar je pripisano izjemni popularnosti njihovega novega AI asistenta, imenovanega Muse. Uspeh Muse prepričuje vlagatelje, da se Metine naložbe v umetno inteligenco obrestujejo. To je prispevalo k širšemu tehnološkemu vzponu na trgih, saj je Nasdaq 100 danes zrasel za 2,83 % na 30482 točk. Rast delnic Mete kaže na močno zaupanje vlagateljev v potencial umetne inteligence za generiranje prihodkov in rast podjetij.",
-      "analiza": "Ozadje te novice je v intenzivni tekmi tehnoloških velikanov na področju umetne inteligence. Meta, ki je v preteklosti veliko vlagala v metaverse, zdaj kaže oprijemljive rezultate na področju AI, kar je ključno za zaupanje vlagateljev. To je relevantno zdaj, saj je AI eden glavnih gonilnikov rasti na delniških trgih, še posebej v tehnološkem sektorju. Uspeh Metinega asistenta Muse potrjuje, da so naložbe v razvoj AI tehnologij donosne in lahko vodijo do znatnega povečanja vrednosti podjetij. Mehanizem vpliva je neposreden: pozitivne novice o inovacijah in komercialnem uspehu AI produktov povečajo povpraševanje po delnicah podjetij, ki so v ospredju tega razvoja. To se odraža v rasti indeksov, kot je Nasdaq 100, ki je danes zrasel za 2,83 %. Posledice so vidne v močni rasti tehnoloških delnic, kar lahko privede do nadaljnjega preusmerjanja kapitala v ta sektor. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor umetne inteligence še vedno v fazi hitre rasti in inovacij, kar ponuja priložnosti, vendar je pomembno prepoznati podjetja z dejanskimi, tržno uspešnimi produkti.",
+      "povzetek": "Delnice podjetja Meta so v zadnjem mesecu zabeležile najboljše rezultate v več kot dveh letih, predvsem zaradi uspeha novega asistenta z umetno inteligenco, imenovanega Muse. Ta je pridobil na priljubljenosti in prepričuje vlagatelje, da se naložbe podjetja v AI obrestujejo. Vlagatelji pozorno spremljajo tudi druge sklade, ki se prilagajajo trendu AI, kot je ETF, ki se rebalansira četrtletno in bolje sledi temu trendu kot širši indeks.",
+      "analiza": "Uspeh Metinega asistenta Muse poudarja vse večji pomen umetne inteligence kot gonilne sile rasti v tehnološkem sektorju. To potrjuje trend, ki ga vlagatelji že nekaj časa spremljajo, saj podjetja vse bolj vlagajo v razvoj AI rešitev za izboljšanje svojih produktov in storitev. Povečana priljubljenost Muse lahko privede do večje uporabniške baze in s tem do novih prihodkovnih tokov za Meto. Hkrati pa članek opozarja na potencialno tveganje za diverzificirane portfelje, če se tehnologija AI ne bo izkazala za tako obetavno, kot se pričakuje. Za slovenske vlagatelje to pomeni, da je lahko vlaganje v podjetja, ki vodijo na področju AI, donosno, vendar je pomembno razumeti tudi tveganja, povezana s to hitro razvijajočo se tehnologijo. Spremljanje uspešnosti novih AI produktov in strategij podjetij je ključno za dolgoročno uspešno alokacijo sredstev.",
       "vpliv": [
-        "Močna rast delnic Mete",
-        "Rast Nasdaq 100 za 2,83 %",
-        "Povečano zaupanje vlagateljev v AI sektor",
-        "Potencialno nadaljnje preusmerjanje kapitala v tehnološke delnice"
+        "Rast cene delnic Meta",
+        "Povečano zanimanje za AI naložbe",
+        "Potencialno tveganje za portfelje, preveč izpostavljene AI",
+        "Spodbujanje nadaljnjih naložb v AI"
       ],
       "vir": "MarketWatch",
       "vir_url": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-21T17:45:00.000Z"
+      "objavljeno": "2026-09-22T12:02:00.000Z"
     },
     {
-      "naslov": "Tehnološki velikani se srečujejo s kitajskim predsednikom Xi Jinpingom",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Elon Musk (Tesla), Jensen Huang (Nvidia) in Tim Cook (Apple, čeprav vir omenja Citi za bančništvo, je Cook bolj povezan z Apple) naj bi se ta teden srečali s kitajskim predsednikom Xi Jinpingom. Srečanje poudarja izpostavljenost ameriških korporacij Kitajski, od Tesline tovarne v Šanghaju do Nvidiinih blokiranih AI čipov in Citi-jeve dolgo pričakovane borznoposredniške licence. Cilj teh podjetij je zagotoviti nadaljnji dostop do kitajskega trga in rešiti morebitne trgovinske ovire.",
-      "analiza": "Ozadje te novice je v kompleksnih gospodarskih in geopolitičnih odnosih med ZDA in Kitajsko, ki vplivajo na globalne dobavne verige in dostop do trga za tehnološka podjetja. Srečanje vodilnih mož ameriških tehnoloških velikanov s kitajskim predsednikom je relevantno zdaj, saj se podjetja soočajo z izzivi, kot so trgovinske omejitve (npr. Nvidia in AI čipi) in regulativne ovire. Mehanizem vpliva je, da takšna srečanja lahko bodisi ublažijo napetosti in odprejo nove priložnosti za poslovanje v Kitajski, bodisi poudarijo obstoječe razlike. Pozitiven izid bi lahko pomenil stabilnejše poslovanje in rast za vpletena podjetja, medtem ko bi neuspeh lahko povečal negotovost. Posledice za delnice teh podjetij so odvisne od izida pogovorov; potencialno lahko izboljšajo obete za prihodnje prihodke in dobičke. Za slovenskega dolgoročnega vlagatelja to poudarja tveganja in priložnosti, povezane z globalizacijo in geopolitiko, še posebej v tehnološkem sektorju, kjer je Kitajska ključen trg in proizvodni center.",
-      "vpliv": [
-        "Potencialno izboljšanje dostopa do kitajskega trga za Tesla, Nvidia, Citi",
-        "Zmanjšanje trgovinskih ovir za AI čipe",
-        "Vpliv na globalne dobavne verige",
-        "Povečana geopolitična tveganja za podjetja, odvisna od Kitajske"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/elon-musk-jensen-huang-and-tim-cook-are-set-to-dine-this-week-with-xi-heres-what-their-companies-want-from-china-cd1a1814?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-21T19:46:00.000Z"
-    },
-    {
-      "naslov": "Paramount in države ZDA dosegli poravnavo, odprta pot za združitev z Warner Bros.",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Paramount je dosegel poravnavo z državami ZDA, ki so vložile protimonopolno tožbo proti predlagani združitvi podjetja z Warner Bros. Discovery. Ta poravnava odpravlja pomembno regulativno oviro, ki je grozila, da bo zamaknila prevzem do sredine leta 2027 in podjetje stala na stotine milijonov dolarjev stroškov. Združitev v vrednosti 110 milijard USD je zdaj na poti, da se zaključi, kar bo konsolidiralo nekatere najbolj prepoznavne hollywoodske TV mreže in studije pod enim lastnikom.",
-      "analiza": "Ozadje te novice je v konsolidaciji medijskega sektorja, kjer se podjetja združujejo, da bi konkurirala na vse bolj konkurenčnem trgu, zaznamovanem z rastjo pretočnih storitev. Tožba s strani 12 zveznih držav, vključno s Kalifornijo in New Yorkom, je izražala zaskrbljenost glede 'izumrtja konkurence' in manjšega števila filmov. Poravnava je relevantna zdaj, saj odstranjuje veliko negotovost in pravne ovire za eno največjih združitev v medijski industriji. Mehanizem vpliva je, da odprava regulativnih tveganj običajno pozitivno vpliva na delnice vpletenih podjetij, saj omogoča realizacijo sinergij in ustvarjanje večje tržne moči. Posledice so, da se bo združitev verjetno nadaljevala, kar bo preoblikovalo medijsko krajino in lahko vplivalo na konkurenčnost, cene storitev in vsebine. Za slovenskega dolgoročnega vlagatelja to pomeni, da je medijski sektor v nenehnem prestrukturiranju, kjer so združitve in prevzemi pogosti. Pomembno je spremljati, kako takšne konsolidacije vplivajo na konkurenčnost in inovacije v industriji.",
-      "vpliv": [
-        "Odprava regulativnih ovir za združitev Paramount-Warner Bros.",
-        "Potencialna realizacija sinergij v vrednosti 110 milijard USD",
-        "Preoblikovanje medijske krajine",
-        "Pozitiven vpliv na delnice vpletenih podjetij"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
-      "objavljeno": "2026-09-21T19:00:48.000Z"
-    },
-    {
-      "naslov": "Ameriško električno omrežje se sooča s pomanjkanjem energije, priložnosti za nekatere delnice",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Ameriško električno omrežje se sooča s pomanjkanjem energije, kar je posledica naraščajočega povpraševanja, še posebej zaradi intenzivne rabe umetne inteligence. Morgan Stanley je identificiral SpaceX kot enega izmed potencialnih upravičencev, ki bi lahko izkoristili to 'intenzivirajoče pomanjkanje energije za AI'. To nakazuje na potrebo po znatnih naložbah v energetsko infrastrukturo in razvoj novih virov energije za podporo rastočim potrebam tehnološkega sektorja.",
-      "analiza": "Ozadje te novice je v hitri rasti sektorja umetne inteligence, ki zahteva ogromne količine električne energije za delovanje podatkovnih centrov in superračunalnikov. Ameriško električno omrežje, ki je bilo v preteklosti zasnovano za drugačne potrebe, se zdaj sooča z izzivi, da bi zadostilo temu povečanemu povpraševanju. To je relevantno zdaj, saj pomanjkanje energije lahko ovira nadaljnjo rast AI in povzroči širše gospodarske posledice. Mehanizem vpliva je dvojen: po eni strani pomanjkanje energije predstavlja tveganje za stabilnost gospodarstva in rast tehnološkega sektorja, po drugi strani pa ustvarja ogromne investicijske priložnosti za podjetja, ki se ukvarjajo z energetsko infrastrukturo, proizvodnjo energije in inovativnimi rešitvami (kot je SpaceX). Posledice so, da se bodo verjetno povečale naložbe v energetski sektor, kar lahko koristi delnicam podjetij, ki so v tem segmentu. Za slovenskega dolgoročnega vlagatelja to pomeni, da je rast AI povezana ne le z razvojem programske opreme, temveč tudi z osnovno infrastrukturo. Naložbe v energetski sektor, ki podpira AI, lahko predstavljajo zanimivo priložnost, vendar je treba upoštevati tudi regulativna in okoljska tveganja.",
-      "vpliv": [
-        "Povečano povpraševanje po električni energiji zaradi AI",
-        "Potencialne naložbene priložnosti za podjetja v energetski infrastrukturi (npr. SpaceX)",
-        "Tveganja za stabilnost električnega omrežja",
-        "Vpliv na rast AI sektorja"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/americas-power-grid-is-running-out-of-juice-and-these-stocks-stand-to-gain-85364aca?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-21T20:02:00.000Z"
-    },
-    {
-      "naslov": "Vlagatelj izgubil 1,1 milijona USD na kripto platformi, opozorilo o tveganjih",
+      "naslov": "Združeno kraljestvo: Vlada beleži rekordno zadolževanje, kar skrbi vlagatelje",
       "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Vlagatelj, ki je v kripto platformo vložil 1,1 milijona USD, se sprašuje, ali je izgubil celotno naložbo, saj bi njegovo skupno stanje moralo znašati 20 milijonov USD. Primer poudarja visoka tveganja, povezana z naložbami v kriptovalute in nekatere kripto platforme, še posebej tiste, ki niso strogo regulirane. Vlagatelj je naložbo opravil na priporočilo izvršnega podpredsednika velike newyorške investicijske banke, kar kaže na to, da tveganja niso omejena le na neizkušene vlagatelje.",
-      "analiza": "Ozadje te novice je v inherentni volatilnosti in pogosto pomanjkljivi regulaciji trga kriptovalut. Medtem ko Bitcoin danes beleži močno rast (+6,83 % na 86709 USD), ta primer opozarja na temno plat sektorja. Relevantno je zdaj, saj kljub rasti Bitcoina in splošnemu optimizmu v kripto skupnosti, ostajajo tveganja za izgubo kapitala na nereguliranih platformah. Mehanizem vpliva je predvsem na zaupanje vlagateljev v celoten ekosistem kriptovalut. Takšni primeri lahko povzročijo previdnost in odvrnejo potencialne vlagatelje, kar lahko vpliva na likvidnost in cene drugih kriptovalut. Posledice so, da se lahko poveča pritisk na regulatorje za strožji nadzor nad kripto platformami, kar bi lahko dolgoročno stabiliziralo trg, a kratkoročno povzročilo negotovost. Za slovenskega dolgoročnega vlagatelja to pomeni, da so naložbe v kriptovalute izjemno tvegane in zahtevajo temeljito raziskavo platform in projektov. Pomembno je razumeti, da visoki donosi pogosto pomenijo tudi visoka tveganja in da regulativna zaščita, ki jo ponujajo tradicionalni finančni trgi, v svetu kriptovalut pogosto manjka.",
+      "povzetek": "Avgustovsko zadolževanje britanske vlade je doseglo 18 milijard funtov, kar je najvišji znesek v tem mesecu doslej in predstavlja \"katastrofalno sliko\" za finančnega ministra Johna Healeyja pred predstavitvijo proračuna. Naraščajoči stroški servisiranja javnega dolga so prispevali k povečanju zadolževanja. Analitiki ocenjujejo, da je vlada izgubila skoraj polovico razpoložljivega manevrskega prostora, kar bi lahko vodilo v višje davke ali dodatno zadolževanje za pokrivanje dnevnih izdatkov.",
+      "analiza": "Visoko avgustovsko zadolževanje britanske vlade je zaskrbljujoče, saj kaže na naraščajoče fiskalne pritiske. Povečani stroški servisiranja dolga, ki so posledica višjih obrestnih mer, skupaj z morebitnim povečanjem javne porabe zaradi visokih cen energije, postavljajo vlado v težak položaj. Zmanjšanje fiskalnega manevrskega prostora pomeni, da bo vlada imela manj možnosti za financiranje novih pobud ali odzivanje na nepričakovane izdatke brez dodatnega obremenjevanja proračuna. To lahko negativno vpliva na zaupanje vlagateljev v britansko gospodarstvo in povzroči pritisk na funt. Za slovenske vlagatelje, ki imajo v portfeljih britanske obveznice ali delnice, to pomeni potencialno povečano tveganje zaradi fiskalne nestabilnosti. Dolgoročno je pomembno spremljati strategijo vlade za zmanjšanje zadolževanja in stabilizacijo javnih financ.",
       "vpliv": [
-        "Poudarjena visoka tveganja naložb v kriptovalute",
-        "Potencialna izguba 1,1 milijona USD za vlagatelja",
-        "Povečan pritisk na regulacijo kripto platform",
-        "Vpliv na zaupanje vlagateljev v kripto ekosistem"
+        "Pritisk na britanski funt",
+        "Potencialno višji davki ali zmanjšanje javnih storitev",
+        "Negativen vpliv na obvezniške donosnosti Združenega kraljestva",
+        "Zmanjšanje zaupanja vlagateljev v britansko fiskalno politiko"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/a17b2217-e49f-432c-8fdb-31e9bc3a4361?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-22T11:32:13.000Z"
+    },
+    {
+      "naslov": "EU uvozi trikrat več iz Kitajske kot izvozi, kar kaže na velik trgovinski primanjkljaj",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Evropska unija je julija uvozila trikrat več blaga s Kitajske, kot ga je izvozila tja, kar je povzročilo trgovinski primanjkljaj v višini več kot milijarde evrov na dan. Ta trend se nadaljuje kljub napovedanemu vrhu med predsednikom Xi Jinpingom in Donaldom Trumpom. Podatki kažejo na vse večjo odvisnost EU od kitajskih izdelkov, kar lahko predstavlja strateško tveganje.",
+      "analiza": "Velik trgovinski primanjkljaj EU zunaj Kitajske poudarja strukturno neravnovesje v trgovinskih odnosih. To pomeni, da EU kupuje bistveno več kot prodaja na Kitajskem, kar lahko dolgoročno vpliva na evropsko industrijo in zaposlovanje. Povečana odvisnost od kitajskih uvozov lahko tudi poveča ranljivost EU v primeru geopolitičnih napetosti ali motenj v dobavnih verigah. Medtem ko se EU sooča s tem primanjkljajem, se hkrati zvišujejo stroški financiranja v ZDA, kar kaže na splošno zaostrovanje finančnih pogojev. Za slovenske vlagatelje to pomeni, da je pomembno spremljati, kako se evropska podjetja prilagajajo tem trgovinskim tokovom. Podjetja, ki so močno odvisna od uvoza iz Kitajske ali izvoza tja, so lahko bolj izpostavljena tveganjem. Dolgoročno je lahko koristno vlagati v podjetja, ki krepijo lokalno proizvodnjo ali diverzificirajo svoje dobavne verige.",
+      "vpliv": [
+        "Pritisk na evropske proizvajalce",
+        "Potencialno povečanje inflacije zaradi dražjega uvoza",
+        "Strateško tveganje zaradi odvisnosti od Kitajske",
+        "Vpliv na menjalne tečaje valut"
+      ],
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
+      "objavljeno": "2026-09-22T11:54:08.000Z"
+    },
+    {
+      "naslov": "Finančni pogoji se zaostrovanje: zakaj bi morali vlagatelji biti pozorni",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Finančni pogoji po svetu se zaostrovanje, kar je opozorilo za vlagatelje v delnice. Razširjene kreditne razlike (credit spreads) po svetu kažejo na spremembe v vrednotenju delnic, ki bi lahko bile negativne. To je posledica višjih obrestnih mer in splošnega zaostrovanja monetarne politike centralnih bank.",
+      "analiza": "Zaostrovanje finančnih pogojev, ki ga zaznamujejo širše kreditne razlike, je pomemben signal za vlagatelje. To pomeni, da postaja zadolževanje dražje, kar lahko zmanjša naložbeno aktivnost podjetij in potrošnikov. Višji stroški financiranja lahko negativno vplivajo na dobičke podjetij, kar posledično pritisne na cene delnic. Poleg tega širše kreditne razlike pogosto nakazujejo povečano tveganje v gospodarstvu in potencialno večje število neplačil obveznic. Za slovenske vlagatelje to pomeni, da je v času zaostrovanja finančnih pogojev potrebna večja previdnost pri naložbah v delnice, zlasti v sektorje, ki so bolj občutljivi na obrestne mere ali zadolženost. Morda je smiselno razmisliti o povečanju naložb v bolj varne naložbene razrede ali pa se osredotočiti na podjetja z močnimi bilancami in stabilnimi tokovi denarja. Pomembno je spremljati odločitve centralnih bank in makroekonomske kazalnike, ki vplivajo na obrestne mere in kreditne razmere.",
+      "vpliv": [
+        "Potencialni pritisk na cene delnic",
+        "Povečano tveganje vlaganj v podjetja z visoko zadolženostjo",
+        "Višji stroški financiranja za podjetja in potrošnike",
+        "Zaostrovanje pogojev za pridobitev posojil"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-21T19:30:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/financial-conditions-are-tightening-heres-why-stock-investors-should-pay-attention-a7d12134?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-22T11:48:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-21T20:08:35.132Z",
+    "posodobljenoOb": "2026-09-22T13:30:45.118Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7764.7,
-        "sprememba_pct": 1.49
+        "vrednost": 7773.58,
+        "sprememba_pct": 0.11
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 30482.352,
-        "sprememba_pct": 2.83
+        "vrednost": 30522.514,
+        "sprememba_pct": 0.13
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25575.01,
-        "sprememba_pct": 1.07
+        "vrednost": 25777.18,
+        "sprememba_pct": 0.79
       },
       {
         "simbol": "^N225",
@@ -141,22 +124,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4383.9,
-        "sprememba_pct": -0.93,
+        "vrednost": 4376,
+        "sprememba_pct": -0.18,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 92.15,
-        "sprememba_pct": -4.09,
+        "vrednost": 89.68,
+        "sprememba_pct": -2.91,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 96.21,
-        "sprememba_pct": -3.1,
+        "vrednost": 98.17,
+        "sprememba_pct": -2.16,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +147,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1467,
-        "sprememba_pct": -0.2
+        "vrednost": 1.1456,
+        "sprememba_pct": -0.11
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.963,
-        "sprememba_pct": -0.7,
+        "vrednost": 4.935,
+        "sprememba_pct": -0.56,
         "enota": "%"
       }
     ],
@@ -181,16 +164,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 86709,
-        "sprememba_pct": 6.83,
+        "vrednost": 85610.72,
+        "sprememba_pct": -1.14,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 14.82,
-      "sprememba_pct": 0.07
+      "vrednost": 14.64,
+      "sprememba_pct": -1.55
     }
   }
 }
