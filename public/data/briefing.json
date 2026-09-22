@@ -1,117 +1,134 @@
 {
-  "generiranoOb": "2026-09-22T13:31:30.097Z",
-  "izdaja": "morning",
-  "model": "gemini-2.5-flash-lite",
+  "generiranoOb": "2026-09-22T19:03:12.750Z",
+  "izdaja": "afternoon",
+  "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-09-22",
-  "povzetek": "Jutranje trgovanje na azijskih trgih je zabeležilo rast, pri čemer je Nikkei 225 pridobil 1,38 %, medtem ko so ameriški indeksi, kot je S&P 500 pri 7774 (+0,11 %), in Nasdaq 100 pri 30523 (+0,13 %), pokazali zmerno rast. Evropski indeksi, kot je DAX pri 25777 (+0,79 %), prav tako kažejo pozitivne trende. Cene nafte so padle, WTI je pri 89,68 USD/sod (-2,91 %) in Brent pri 98,17 USD/sod (-2,16 %), zaradi poročil o ponudbi iranskih pomorskih poti in signalov Savdske Arabije o ponovnem odprtju naftovoda. Zlato je zabeležilo rahel padec na 4376,00 USD/oz (-0,18 %). V ospredju novic so napetosti med Iranom in ZDA ob Generalni skupščini ZN, kjer se bo predsednik Trump srečal z voditelji, vključno z iranskim predsednikom. V Združenem kraljestvu se soočajo z naraščajočim zadolževanjem vlade, medtem ko tehnološka podjetja, kot je Meta, dosegajo dobre rezultate zaradi napredka na področju umetne inteligence. Ta teden vlagatelji pozorno spremljajo objave o inflaciji in odločitve centralnih bank glede obrestnih mer.",
+  "povzetek": "Evropski trgi so danes zaključili z mešanim, a večinoma stabilnim trgovanjem, medtem ko so ameriški indeksi po dveh urah trgovanja kazali rahlo rast. Nemški DAX je dan zaključil s skromno rastjo +0,02 % pri 25579 točkah. Na drugi strani Atlantika je S&P 500 beležil rast +0,05 % na 7768 točk, tehnološko usmerjeni Nasdaq 100 pa je bil močnejši z rastjo +0,67 % na 30688 točk. Cene nafte so se znižale, saj je WTI nafta padla za -1,94 % na 90,58 USD/sod, Brent pa za -0,98 % na 99,36 USD/sod, kljub geopolitičnim napetostim. Zlato je medtem rahlo pridobilo na vrednosti (+0,15 % na 4390,30 USD/oz), medtem ko je donosnost 10-letne ameriške obveznice zrasla na 4,97 % (+0,10 %). Evro je glede na dolar oslabel, saj je par EUR/USD padel za -0,20 % na 1.1446. Bitcoin je ostal relativno stabilen z minimalnim padcem -0,09 % na 86521 USD. Glavni dogodek, ki bo vplival na trge v tem tednu, so prihajajoči podatki o inflaciji v ZDA.",
   "novice": [
     {
-      "naslov": "Padajoče cene nafte zaradi iranskih pogajanj in odprtja savdskega naftovoda",
+      "naslov": "ZDA predlagajo 10 milijard dolarjev vreden sklad za obvod Hormuške ožine",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Predsednik Trump se pogovarja o ustanovitvi 10 milijard dolarjev vrednega sklada z arabskimi zaveznicami. Cilj sklada je izgradnja nove energetske infrastrukture po Bližnjem vzhodu. Namen je obiti Hormuško ožino, ključno pomorsko pot za transport nafte. Predlog prihaja v času, ko Trumpova vojna v Iranu povzroča skokovite cene goriva. Sklad bi zmanjšal odvisnost od te strateško občutljive poti in povečal energetsko varnost. Pogovori potekajo z namenom dolgoročne stabilizacije dobav. To bi lahko imelo pomemben vpliv na globalne energetske trge.",
+      "analiza": "Ozadje tega predloga je naraščajoča geopolitična nestabilnost na Bližnjem vzhodu, zlasti v luči napetosti med ZDA in Iranom, ki so po poročanju Financial Timesa povzročile 'Trumpovo vojno v Iranu' in posledično visoke cene goriv. Hormuška ožina je ključna točka za globalni transport nafte, saj skozi njo poteka približno petina svetovne nafte. Vsaka grožnja tej poti povzroči takojšen odziv na trgih surovin. Predlog za 10 milijard dolarjev vreden sklad za izgradnjo alternativne energetske infrastrukture je pomemben poskus zmanjšanja tveganja, povezanega z morebitno blokado ali motnjami v ožini. To bi lahko dolgoročno stabiliziralo cene nafte, saj bi zmanjšalo premijo za geopolitično tveganje. Kratkoročno pa lahko sam predlog, ki se pojavlja v kontekstu 'Trumpove vojne v Iranu', še poveča napetosti in s tem volatilnost na trgih nafte. Za delniške trge bi to pomenilo mešan signal: energetska podjetja bi lahko imela koristi od novih infrastrukturnih projektov, medtem ko bi širši trg lahko občutil pritisk zaradi negotovosti. Donosnosti obveznic bi se lahko zvišale zaradi povečanega tveganja. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja ključna, saj so geopolitična tveganja in njihovi vplivi na energetske trge nepredvidljivi. Spremljati je treba razvoj dogodkov na Bližnjem vzhodu in morebitno implementacijo predlaganega sklada.",
+      "vpliv": [
+        "Zmanjšanje odvisnosti od Hormuške ožine",
+        "Potencialna dolgoročna stabilizacija cen nafte",
+        "Kratkoročno povečanje geopolitičnih napetosti",
+        "Vpliv na delniške trge energetskih podjetij"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/99ba134a-6252-45f3-b312-07b8752a5a98?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-22T17:32:53.000Z"
+    },
+    {
+      "naslov": "ZDA preučujejo prepoved izvoza dizelskega goriva zaradi visokih cen",
       "sektor": "Energetika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Cene surove nafte so v torek znatno padle, pri čemer je WTI nafta zdrsnila pod 90 USD za sod (-2,91 %) na 89,68 USD, Brent pa je bil pri 98,17 USD za sod (-2,16 %). Padec je posledica poročil, da naj bi Iran ponudil odprtje Hormuške ožine, ključne pomorske poti za transport nafte, ter signalov Savdske Arabije o ponovnem odprtju vzhodno-zahodnega naftovoda, ki je bil zaprt zaradi napadov. Bank of America pa opozarja, da bi lahko cene nafte presegle 150 USD, če se bodo dobave še naprej zmanjševale zaradi motenj na Bližnjem vzhodu.",
-      "analiza": "Padajoče cene nafte so neposredna posledica zmanjšanja geopolitičnih tveganj v regiji Perzijskega zaliva in pričakovanj o povečanju ponudbe. Poročila o iranski ponudbi za odprtje Hormuške ožine, kljub preteklim napetostim, in signalizacija Savdske Arabije o ponovnem odprtju ključnega naftovoda neposredno vplivata na zmanjšanje premije za tveganje, ki je bila vgrajena v cene nafte. To zmanjšuje stroške za podjetja, ki so odvisna od energentov, in lahko pozitivno vpliva na potrošnike, vendar hkrati zmanjšuje prihodke energetskih podjetij in držav izvoznic nafte. Vendar pa Bank of America opozarja na možnost ponovnega dviga cen, če se bodo motnje v dobavah zaradi konfliktov na Bližnjem vzhodu nadaljevale. Za slovenske vlagatelje to pomeni potencialno nižje stroške poslovanja za podjetja, ki uporabljajo nafto, vendar lahko vpliva na delnice energetskih podjetij v portfelju. Dolgoročno je pomembno spremljati razvoj geopolitičnih razmer in zmožnost Savdske Arabije ter drugih proizvajalk, da zagotovijo stabilnost ponudbe.",
+      "povzetek": "Scott Bessent je izjavil, da ZDA 'preučujejo' prepoved izvoza dizelskega goriva. Potencialne omejitve prihajajo v času, ko je 'Trumpova vojna v Iranu' povzročila skokovite cene goriva. Cilj te poteze bi bil znižanje domačih cen dizla. Takšna prepoved bi imela pomembne posledice za globalne energetske trge. Poteza bi lahko vplivala na dobavne verige in razpoložljivost goriva po svetu. Odločitev bi bila odziv na trenutne visoke cene goriva.",
+      "analiza": "Izjava Scotta Bessenta o morebitni prepovedi izvoza dizelskega goriva s strani ZDA je neposredna reakcija na visoke cene goriva, ki so po navedbah Financial Timesa posledica 'Trumpove vojne v Iranu'. ZDA so pomemben izvoznik dizla, zato bi taka prepoved imela globalne posledice. Mehanizem vpliva je preprost: zmanjšanje ponudbe dizla na svetovnem trgu bi povzročilo dvig cen izven ZDA, medtem ko bi se domače cene v ZDA verjetno znižale. To bi lahko povzročilo motnje v dobavnih verigah in dodatno inflacijo v državah, ki so odvisne od ameriškega dizla. Za delniške trge bi to pomenilo pritisk na podjetja, ki se zanašajo na uvoz dizla, medtem ko bi ameriška transportna in logistična podjetja lahko imela koristi od nižjih domačih cen. Na trgu obveznic bi se lahko povečala volatilnost zaradi inflacijskih pritiskov izven ZDA. Valutni pari bi se lahko odzvali na spremenjeno trgovinsko bilanco in kapitalske tokove. Podobne omejitve izvoza so bile v preteklosti uporabljene za stabilizacijo domačih trgov, vendar vedno z globalnimi stranskimi učinki. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati globalne energetske politike, saj lahko neposredno vplivajo na stroške poslovanja podjetij in inflacijo, kar se odraža v donosnosti naložb. Morebitna prepoved bi lahko povečala nestabilnost na svetovnih trgih.",
       "vpliv": [
-        "Nižji stroški za podjetja, odvisna od nafte",
-        "Potencialno nižji inflacijski pritiski",
-        "Negativen vpliv na delnice energetskih podjetij",
-        "Zmanjšanje premije za geopolitično tveganje v cenah surovin"
-      ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
-      "objavljeno": "2026-09-22T13:18:04.000Z"
-    },
-    {
-      "naslov": "Meta dosega najboljše rezultate v več kot dveh letih zaradi uspešnega AI asistenta",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Delnice podjetja Meta so v zadnjem mesecu zabeležile najboljše rezultate v več kot dveh letih, predvsem zaradi uspeha novega asistenta z umetno inteligenco, imenovanega Muse. Ta je pridobil na priljubljenosti in prepričuje vlagatelje, da se naložbe podjetja v AI obrestujejo. Vlagatelji pozorno spremljajo tudi druge sklade, ki se prilagajajo trendu AI, kot je ETF, ki se rebalansira četrtletno in bolje sledi temu trendu kot širši indeks.",
-      "analiza": "Uspeh Metinega asistenta Muse poudarja vse večji pomen umetne inteligence kot gonilne sile rasti v tehnološkem sektorju. To potrjuje trend, ki ga vlagatelji že nekaj časa spremljajo, saj podjetja vse bolj vlagajo v razvoj AI rešitev za izboljšanje svojih produktov in storitev. Povečana priljubljenost Muse lahko privede do večje uporabniške baze in s tem do novih prihodkovnih tokov za Meto. Hkrati pa članek opozarja na potencialno tveganje za diverzificirane portfelje, če se tehnologija AI ne bo izkazala za tako obetavno, kot se pričakuje. Za slovenske vlagatelje to pomeni, da je lahko vlaganje v podjetja, ki vodijo na področju AI, donosno, vendar je pomembno razumeti tudi tveganja, povezana s to hitro razvijajočo se tehnologijo. Spremljanje uspešnosti novih AI produktov in strategij podjetij je ključno za dolgoročno uspešno alokacijo sredstev.",
-      "vpliv": [
-        "Rast cene delnic Meta",
-        "Povečano zanimanje za AI naložbe",
-        "Potencialno tveganje za portfelje, preveč izpostavljene AI",
-        "Spodbujanje nadaljnjih naložb v AI"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-22T12:02:00.000Z"
-    },
-    {
-      "naslov": "Združeno kraljestvo: Vlada beleži rekordno zadolževanje, kar skrbi vlagatelje",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Avgustovsko zadolževanje britanske vlade je doseglo 18 milijard funtov, kar je najvišji znesek v tem mesecu doslej in predstavlja \"katastrofalno sliko\" za finančnega ministra Johna Healeyja pred predstavitvijo proračuna. Naraščajoči stroški servisiranja javnega dolga so prispevali k povečanju zadolževanja. Analitiki ocenjujejo, da je vlada izgubila skoraj polovico razpoložljivega manevrskega prostora, kar bi lahko vodilo v višje davke ali dodatno zadolževanje za pokrivanje dnevnih izdatkov.",
-      "analiza": "Visoko avgustovsko zadolževanje britanske vlade je zaskrbljujoče, saj kaže na naraščajoče fiskalne pritiske. Povečani stroški servisiranja dolga, ki so posledica višjih obrestnih mer, skupaj z morebitnim povečanjem javne porabe zaradi visokih cen energije, postavljajo vlado v težak položaj. Zmanjšanje fiskalnega manevrskega prostora pomeni, da bo vlada imela manj možnosti za financiranje novih pobud ali odzivanje na nepričakovane izdatke brez dodatnega obremenjevanja proračuna. To lahko negativno vpliva na zaupanje vlagateljev v britansko gospodarstvo in povzroči pritisk na funt. Za slovenske vlagatelje, ki imajo v portfeljih britanske obveznice ali delnice, to pomeni potencialno povečano tveganje zaradi fiskalne nestabilnosti. Dolgoročno je pomembno spremljati strategijo vlade za zmanjšanje zadolževanja in stabilizacijo javnih financ.",
-      "vpliv": [
-        "Pritisk na britanski funt",
-        "Potencialno višji davki ali zmanjšanje javnih storitev",
-        "Negativen vpliv na obvezniške donosnosti Združenega kraljestva",
-        "Zmanjšanje zaupanja vlagateljev v britansko fiskalno politiko"
+        "Potencialno znižanje cen dizla v ZDA",
+        "Dvig globalnih cen dizla",
+        "Motnje v svetovnih dobavnih verigah",
+        "Dodatni inflacijski pritiski izven ZDA"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/a17b2217-e49f-432c-8fdb-31e9bc3a4361?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-22T11:32:13.000Z"
+      "vir_url": "https://www.ft.com/content/16d676c9-94c4-4df1-8fa6-56966b2c9aa7",
+      "objavljeno": "2026-09-22T18:09:07.000Z"
     },
     {
-      "naslov": "EU uvozi trikrat več iz Kitajske kot izvozi, kar kaže na velik trgovinski primanjkljaj",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
+      "naslov": "ZDA, Danska in Grenlandija podpisale prelomni arktični varnostni sporazum",
+      "sektor": "Geopolitika",
+      "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Evropska unija je julija uvozila trikrat več blaga s Kitajske, kot ga je izvozila tja, kar je povzročilo trgovinski primanjkljaj v višini več kot milijarde evrov na dan. Ta trend se nadaljuje kljub napovedanemu vrhu med predsednikom Xi Jinpingom in Donaldom Trumpom. Podatki kažejo na vse večjo odvisnost EU od kitajskih izdelkov, kar lahko predstavlja strateško tveganje.",
-      "analiza": "Velik trgovinski primanjkljaj EU zunaj Kitajske poudarja strukturno neravnovesje v trgovinskih odnosih. To pomeni, da EU kupuje bistveno več kot prodaja na Kitajskem, kar lahko dolgoročno vpliva na evropsko industrijo in zaposlovanje. Povečana odvisnost od kitajskih uvozov lahko tudi poveča ranljivost EU v primeru geopolitičnih napetosti ali motenj v dobavnih verigah. Medtem ko se EU sooča s tem primanjkljajem, se hkrati zvišujejo stroški financiranja v ZDA, kar kaže na splošno zaostrovanje finančnih pogojev. Za slovenske vlagatelje to pomeni, da je pomembno spremljati, kako se evropska podjetja prilagajajo tem trgovinskim tokovom. Podjetja, ki so močno odvisna od uvoza iz Kitajske ali izvoza tja, so lahko bolj izpostavljena tveganjem. Dolgoročno je lahko koristno vlagati v podjetja, ki krepijo lokalno proizvodnjo ali diverzificirajo svoje dobavne verige.",
+      "povzetek": "ZDA so podpisale 'prelomni' arktični varnostni sporazum z Dansko in Grenlandijo. Sporazum so pozdravili tako NATO kot Evropska unija. Končuje večmesečni zastoj, ki je sledil grožnji Trumpa, da bo prevzel Grenlandijo. Sporazum krepi varnostno sodelovanje v arktični regiji. Ta regija postaja vse bolj strateško pomembna zaradi podnebnih sprememb in dostopa do naravnih virov. Dogovor prispeva k stabilnosti in sodelovanju v občutljivem območju.",
+      "analiza": "Podpis arktičnega varnostnega sporazuma med ZDA, Dansko in Grenlandijo predstavlja pomemben korak k stabilizaciji in varnosti v strateško pomembni arktični regiji. Ozadje dogovora vključuje pretekle napetosti, zlasti po izjavi predsednika Trumpa o morebitnem nakupu Grenlandije, kar je sprožilo diplomatski zastoj. Arktika je postala žarišče geopolitičnih interesov zaradi taljenja ledu, ki odpira nove pomorske poti in omogoča dostop do bogatih zalog naravnih virov, vključno z nafto, plinom in minerali. Ta sporazum zmanjšuje tveganje za konflikte in spodbuja sodelovanje, kar je pozitivno za dolgoročno stabilnost. Za finančne trge to pomeni zmanjšanje geopolitičnega tveganja v regiji, kar bi lahko pozitivno vplivalo na podjetja, ki delujejo na področju raziskovanja virov ali pomorskega transporta. Povečana stabilnost lahko privabi tudi tuje investicije. Vpliv na cene surovin je lahko posreden, saj bi lažji dostop do virov dolgoročno lahko vplival na ponudbo. Podobni sporazumi v preteklosti so pogosto utrli pot za gospodarski razvoj in zmanjšanje tveganj. Za slovenskega dolgoročnega vlagatelja je to znak, da se geopolitična tveganja v nekaterih regijah zmanjšujejo, kar lahko ustvarja priložnosti za naložbe v podjetja, ki so posredno ali neposredno povezana z arktično regijo in njenim gospodarskim razvojem.",
       "vpliv": [
-        "Pritisk na evropske proizvajalce",
-        "Potencialno povečanje inflacije zaradi dražjega uvoza",
-        "Strateško tveganje zaradi odvisnosti od Kitajske",
-        "Vpliv na menjalne tečaje valut"
+        "Zmanjšanje geopolitičnih napetosti na Arktiki",
+        "Krepitev varnostnega sodelovanja",
+        "Potencialne priložnosti za investicije v regiji",
+        "Dolgoročna stabilizacija pomorskih poti"
       ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
-      "objavljeno": "2026-09-22T11:54:08.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss",
+      "objavljeno": "2026-09-22T18:46:32.000Z"
     },
     {
-      "naslov": "Finančni pogoji se zaostrovanje: zakaj bi morali vlagatelji biti pozorni",
+      "naslov": "Anthropic pred IPO izdaja cenejši model umetne inteligence",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Anthropic je izdal cenejši model umetne inteligence, kar je pomemben korak pred načrtovano prvo javno ponudbo delnic (IPO). Novi model Claude izostri ponudbo podjetja za vlagatelje. To kaže na strategijo podjetja za povečanje tržnega deleža in privabljanje širšega kroga uporabnikov. Znižanje cen lahko pospeši sprejemanje AI tehnologij v različnih panogah. Poteza je ključna za uspeh prihajajočega IPO in konkurenčnost na trgu AI. Podjetje si prizadeva za vodilno vlogo v sektorju umetne inteligence.",
+      "analiza": "Izdaja cenejšega modela umetne inteligence s strani podjetja Anthropic pred načrtovanim IPO je strateška poteza, namenjena povečanju privlačnosti podjetja za vlagatelje in širitvi njegovega tržnega deleža. Trg umetne inteligence je izjemno konkurenčen, z velikimi igralci, kot je Meta (ki je nedavno predstavila svojo aplikacijo Muse, ki prekaša začetni tempo prenosa ChatGPT), in številnimi startupi. Znižanje cen lahko demokratizira dostop do naprednih AI orodij, kar bi lahko pospešilo njihovo integracijo v podjetja in vsakodnevno življenje. Mehanizem vpliva na finančne trge je večplasten: uspešen IPO podjetja Anthropic bi lahko spodbudil optimizem v celotnem tehnološkem sektorju, še posebej v segmentu AI. Konkurenčni pritiski bi lahko vplivali na marže drugih AI podjetij, vendar bi lahko tudi spodbudili inovacije. Za delniške trge to pomeni, da so delnice tehnoloških podjetij, še posebej tistih v AI sektorju, pod drobnogledom. Vlagatelji iščejo podjetja z jasnimi konkurenčnimi prednostmi in strategijami za rast. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da je sektor umetne inteligence visoko rastoč, a tudi visoko tvegan, zato je potrebna previdnost in temeljita analiza posameznih podjetij. Diverzifikacija znotraj tehnološkega sektorja je priporočljiva, da se zmanjša tveganje, povezano z uspehom posameznih podjetij.",
+      "vpliv": [
+        "Povečanje konkurenčnosti Anthropic",
+        "Potencialno uspešen IPO",
+        "Pritiski na cene in inovacije v AI sektorju",
+        "Vpliv na sentiment v tehnološkem sektorju"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-22T16:31:37.000Z"
+    },
+    {
+      "naslov": "Airtel Money se pripravlja na enega največjih IPO-jev v Londonu",
       "sektor": "Finance",
-      "smer": "negativno",
+      "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Finančni pogoji po svetu se zaostrovanje, kar je opozorilo za vlagatelje v delnice. Razširjene kreditne razlike (credit spreads) po svetu kažejo na spremembe v vrednotenju delnic, ki bi lahko bile negativne. To je posledica višjih obrestnih mer in splošnega zaostrovanja monetarne politike centralnih bank.",
-      "analiza": "Zaostrovanje finančnih pogojev, ki ga zaznamujejo širše kreditne razlike, je pomemben signal za vlagatelje. To pomeni, da postaja zadolževanje dražje, kar lahko zmanjša naložbeno aktivnost podjetij in potrošnikov. Višji stroški financiranja lahko negativno vplivajo na dobičke podjetij, kar posledično pritisne na cene delnic. Poleg tega širše kreditne razlike pogosto nakazujejo povečano tveganje v gospodarstvu in potencialno večje število neplačil obveznic. Za slovenske vlagatelje to pomeni, da je v času zaostrovanja finančnih pogojev potrebna večja previdnost pri naložbah v delnice, zlasti v sektorje, ki so bolj občutljivi na obrestne mere ali zadolženost. Morda je smiselno razmisliti o povečanju naložb v bolj varne naložbene razrede ali pa se osredotočiti na podjetja z močnimi bilancami in stabilnimi tokovi denarja. Pomembno je spremljati odločitve centralnih bank in makroekonomske kazalnike, ki vplivajo na obrestne mere in kreditne razmere.",
+      "povzetek": "Afriška skupina za mobilna plačila Airtel Money se pripravlja na eno največjih prvih javnih ponudb delnic (IPO) v Londonu v zadnjih letih. Podjetje naj bi dokumentacijo vložilo že ta teden. Cilj je zbrati 800 milijonov dolarjev pri ocenjeni vrednosti med 8 in 9 milijardami dolarjev. Ta IPO bi bil pomemben dogodek za londonsko borzo in afriški finančni sektor. Odražal bi rast mobilnih plačil na afriški celini. Uspešna ponudba bi lahko spodbudila tudi druge afriške tehnološke družbe k vstopu na borzo.",
+      "analiza": "Napovedani IPO podjetja Airtel Money v Londonu predstavlja pomemben dogodek za finančne trge, še posebej za londonsko borzo in sektor mobilnih plačil v Afriki. Ozadje je hitra rast mobilnih plačil na afriški celini, kjer milijoni ljudi nimajo dostopa do tradicionalnih bančnih storitev, vendar široko uporabljajo mobilne telefone za finančne transakcije. Airtel Money, kot del večje telekomunikacijske skupine, je v tem segmentu pomemben igralec. Zbiranje 800 milijonov dolarjev pri ocenjeni vrednosti do 9 milijard dolarjev bi bil eden največjih IPO-jev v Londonu v zadnjih letih, kar kaže na zaupanje vlagateljev v potencial rastočih trgov in tehnologij mobilnih plačil. Mehanizem vpliva na finančne trge je večplasten: uspešen IPO bi lahko okrepil ugled londonske borze kot centra za globalne IPO-je, še posebej za podjetja iz rastočih trgov. Prav tako bi lahko spodbudil zanimanje za druge afriške tehnološke in finančne družbe. Za delniške trge to pomeni priložnost za vlagatelje, da vstopijo v hitro rastoči sektor. Vpliv na valute bi bil posreden, saj bi priliv kapitala v London lahko okrepil funt. Za slovenskega dolgoročnega vlagatelja to pomeni, da so rastoči trgi in inovativne tehnologije, kot so mobilna plačila, vir potencialno visokih donosov, vendar tudi višjih tveganj. Pomembno je raziskati poslovni model podjetja in makroekonomsko okolje, v katerem deluje.",
       "vpliv": [
-        "Potencialni pritisk na cene delnic",
-        "Povečano tveganje vlaganj v podjetja z visoko zadolženostjo",
-        "Višji stroški financiranja za podjetja in potrošnike",
-        "Zaostrovanje pogojev za pridobitev posojil"
+        "Eden največjih IPO-jev v Londonu",
+        "Povečanje zanimanja za afriške tehnološke družbe",
+        "Krepitev londonske borze",
+        "Rast sektorja mobilnih plačil"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/financial-conditions-are-tightening-heres-why-stock-investors-should-pay-attention-a7d12134?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-22T11:48:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/62a6939f-7e24-492e-bdf6-b9ab9e1d3578?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-22T17:24:28.000Z"
+    },
+    {
+      "naslov": "EU odpravlja sankcije dvema ruskima oligarhoma v zameno za podaljšanje",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Evropska unija bo odpravila sankcije dvema ruskima oligarhoma, Mihailu Fridmanu in Ališerju Usmanovu. Odstranitev s seznama EU je del dogovora za podaljšanje omejitev za tri leta. Ta poteza kaže na kompleksnost diplomatskih pogajanj in sankcijskih režimov. Odločitev bi lahko imela širše politične in gospodarske posledice. Poteza je del širših prizadevanj za uravnoteženje pritiskov in diplomatskih rešitev. To nakazuje na morebitne spremembe v pristopu EU do sankcij.",
+      "analiza": "Odločitev EU o odpravi sankcij Mihailu Fridmanu in Ališerju Usmanovu v zameno za podaljšanje splošnih omejitev za tri leta, poudarja kompleksnost in dinamičnost sankcijskih režimov. Ozadje je dolgotrajen proces uveljavljanja in revizije sankcij, ki so bile uvedene po ruskem napadu na Ukrajino. Odstranitev posameznikov s seznama sankcioniranih oseb je pogosto rezultat pravnih izzivov ali diplomatskih pogajanj, ki vključujejo določene koncesije. Mehanizem vpliva na finančne trge je predvsem psihološki in posreden. Čeprav se sankcije za širši krog oseb in podjetij podaljšujejo, lahko odprava sankcij posameznikom signalizira morebitno mehčanje ali prilagoditev politike EU v prihodnosti. To bi lahko vplivalo na sentiment vlagateljev glede tveganja, povezanega z Rusijo in vzhodno Evropo. Za delniške trge bi to lahko pomenilo, da bi podjetja, ki so bila posredno povezana z omenjenima oligarhoma, lahko doživela določeno olajšanje, čeprav je neposreden vpliv verjetno omejen. Na valutne trge in cene surovin je vpliv verjetno minimalen, saj gre za izoliran primer. V preteklosti so podobne odločitve pogosto povzročile špekulacije o širših spremembah v mednarodnih odnosih. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj sankcijske politike EU, saj lahko ta vpliva na poslovanje podjetij, ki imajo izpostavljenost do vzhodnoevropskih trgov, in na širšo geopolitično stabilnost, kar se odraža v tveganju portfelja.",
+      "vpliv": [
+        "Odstranitev dveh oligarhov s seznama sankcij",
+        "Podaljšanje splošnih sankcij za tri leta",
+        "Potencialno mehčanje politike EU v prihodnosti",
+        "Vpliv na sentiment vlagateljev glede tveganja Rusije"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/760091dd-20be-4152-aa0d-561475a99ee8?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-22T17:15:48.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-22T13:30:45.118Z",
+    "posodobljenoOb": "2026-09-22T19:02:31.682Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7773.58,
-        "sprememba_pct": 0.11
+        "vrednost": 7768.24,
+        "sprememba_pct": 0.05
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 30522.514,
-        "sprememba_pct": 0.13
+        "vrednost": 30687.99,
+        "sprememba_pct": 0.67
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25777.18,
-        "sprememba_pct": 0.79
+        "vrednost": 25578.85,
+        "sprememba_pct": 0.02
       },
       {
         "simbol": "^N225",
@@ -124,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4376,
-        "sprememba_pct": -0.18,
+        "vrednost": 4390.3,
+        "sprememba_pct": 0.15,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 89.68,
-        "sprememba_pct": -2.91,
+        "vrednost": 90.58,
+        "sprememba_pct": -1.94,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 98.17,
-        "sprememba_pct": -2.16,
+        "vrednost": 99.36,
+        "sprememba_pct": -0.98,
         "enota": "USD/sod"
       }
     ],
@@ -147,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1456,
-        "sprememba_pct": -0.11
+        "vrednost": 1.1446,
+        "sprememba_pct": -0.2
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.935,
-        "sprememba_pct": -0.56,
+        "vrednost": 4.968,
+        "sprememba_pct": 0.1,
         "enota": "%"
       }
     ],
@@ -164,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 85610.72,
-        "sprememba_pct": -1.14,
+        "vrednost": 86520.54,
+        "sprememba_pct": -0.09,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 14.64,
-      "sprememba_pct": -1.55
+      "vrednost": 14.22,
+      "sprememba_pct": -4.37
     }
   }
 }
