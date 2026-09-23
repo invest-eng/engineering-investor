@@ -1,134 +1,134 @@
 {
-  "generiranoOb": "2026-09-21T20:09:39.919Z",
+  "generiranoOb": "2026-09-22T19:18:54.975Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-09-21",
-  "povzetek": "Finančni trgi so danes, 21. septembra 2026, pokazali močno rast delniških indeksov, medtem ko so cene nafte občutno padle. Evropski indeks DAX je dan zaključil z rastjo za 1,07 % pri 25575 točkah, ameriška trga pa sta po dveh urah trgovanja nadaljevala v pozitivnem tonu, saj je S&P 500 pridobil 1,49 % in dosegel 7765 točk, tehnološko usmerjeni Nasdaq 100 pa je poskočil za 2,83 % na 30482 točk. Ta rast je bila deloma pogojena z optimizmom glede umetne inteligence, saj je Meta zabeležila izjemen mesec zaradi svojega novega AI asistenta. Naftni trgi so medtem doživeli padec, saj je cena Brent nafte upadla za 3,10 % na 96,21 USD za sod, kar je bilo povezano s špekulacijami o morebitnem srečanju med Donaldom Trumpom in iranskim predsednikom. Kriptovalute so bile izjemno volatilne, Bitcoin je zrasel za 6,83 % na 86709 USD, vendar pa se pojavljajo tudi opozorila o tveganjih na nekaterih platformah. Vlagatelji bodo ta teden pozorno spremljali objavo inflacijskih podatkov, ki lahko vplivajo na prihodnje odločitve centralnih bank.",
+  "datum": "2026-09-22",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z rahlimi premiki, medtem ko so ameriški trgi, ki so odprti že dve uri, pokazali mešano, a večinoma pozitivno smer. Nemški indeks DAX je dan zaključil pri 25579 točkah z minimalno rastjo +0.02 %, kar kaže na zadržanost vlagateljev. Čez lužo pa je indeks S&P 500 zrasel za +0.09 % na 7772 točk, tehnološko usmerjeni Nasdaq 100 pa je zabeležil močnejšo rast +0.76 % na 30713 točk. Geopolitične napetosti med ZDA in Iranom, vključno z grožnjami predsednika Trumpa in razpravami o morebitni prepovedi izvoza dizla iz ZDA, so vplivale na cene nafte, saj je WTI nafta padla za -2.07 % na 90.46 USD/sod, Brent nafta pa za -1.10 % na 99.24 USD/sod. Medtem ko se donosnost 10-letnih ameriških državnih obveznic zvišuje na 4.97 % (+0.10 %), kar sproža opozorila o morebitni inverziji krivulje donosnosti, se trg kriptovalut giblje stabilno, Bitcoin je pri 86576 USD (-0.03 %). Vlagatelji bodo ta teden pozorno spremljali prihajajoče makroekonomske objave, ki lahko vplivajo na pričakovanja glede monetarne politike.",
   "novice": [
     {
-      "naslov": "Padec cen nafte ob špekulacijah o srečanju Trumpa in iranskega predsednika",
+      "naslov": "Trump grozi Iranu med zasedanjem OZN in dvostranskim srečanjem",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Ameriški predsednik Trump je v govoru pred Združenimi narodi zagrozil, da bo 'uničil' Iran, kar je stopnjevalo napetosti v regiji. Kljub ostrim besedam pa so se ameriški uradniki istočasno sestali z iransko delegacijo na dvostranskem srečanju, ki ga je Trump označil za 'zelo dobro'. To srečanje je trajalo tri ure, kar nakazuje na kompleksnost diplomatskih prizadevanj kljub javni retoriki. Dogajanje se odvija v kontekstu širše vojne med ZDA in Izraelom proti Iranu, kot je omenjeno v drugi novici Al Jazeere.",
+      "analiza": "Ozadje teh dogodkov je dolgotrajna napetost med ZDA in Iranom, ki se je v zadnjem času še zaostrila zaradi 'vojne v Iranu', kot jo opisujejo nekateri viri. Trumpova retorika je namenjena predvsem domači in mednarodni javnosti, medtem ko dvostranska srečanja kažejo na iskanje diplomatskih rešitev v ozadju. To je relevantno, ker morebitna eskalacija konflikta v Perzijskem zalivu neposredno vpliva na globalno oskrbo z nafto, še posebej glede na pomen Hormuške ožine. Mehanizem vpliva je jasen: grožnje in nestabilnost v regiji običajno povzročijo rast cen nafte zaradi strahu pred motnjami v dobavi. Vendar pa so danes cene nafte WTI (-2.07 % na 90.46 USD/sod) in Brent (-1.10 % na 99.24 USD/sod) padle, kar bi lahko kazalo na to, da trgi upoštevajo tudi diplomatska prizadevanja ali pa so zaskrbljeni zaradi povpraševanja v luči morebitne globalne upočasnitve. Za delnice to pomeni povečano volatilnost, še posebej za podjetja, odvisna od energentov, medtem ko obveznice lahko služijo kot varno zatočišče. Zgodovinsko gledano, so konflikti na Bližnjem vzhodu vedno povzročili pretrese na energetskih trgih, vendar so se dolgoročni vplivi razlikovali glede na obseg in trajanje konflikta. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitična tveganja in diverzificirati portfelj, saj so takšni dogodki nepredvidljivi in lahko povzročijo kratkoročne pretrese na trgih.",
+      "vpliv": [
+        "Povečana geopolitična tveganja",
+        "Potencialna nestabilnost cen nafte",
+        "Povečana volatilnost delniških trgov",
+        "Rast povpraševanja po varnih zatočiščih (obveznice, zlato)"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-22T18:19:56.000Z"
+    },
+    {
+      "naslov": "ZDA preučujejo morebitno prepoved izvoza dizla",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Scott Bessent, ameriški uradnik, je izjavil, da ZDA 'preučujejo' morebitno prepoved izvoza dizla. Ta poteza prihaja v času, ko je 'Trumpova vojna v Iranu' povzročila skok cen goriva, kar kaže na prizadevanja administracije za stabilizacijo domačih cen. Morebitna prepoved bi lahko imela daljnosežne posledice za globalne energetske trge, saj so ZDA pomemben izvoznik dizla.",
+      "analiza": "Ozadje te novice je prizadevanje ameriške administracije za obvladovanje visokih cen goriva na domačem trgu, ki so se zvišale zaradi geopolitičnih napetosti, povezanih z Iranom. Prepoved izvoza dizla bi lahko kratkoročno znižala cene goriva v ZDA, vendar bi hkrati povzročila pomanjkanje in rast cen dizla na mednarodnih trgih, še posebej v Evropi, ki je močno odvisna od uvoza. Mehanizem vpliva je preprost: zmanjšanje ponudbe na globalnem trgu ob nespremenjenem povpraševanju vodi v rast cen. To bi lahko dodatno obremenilo inflacijo v drugih državah in vplivalo na industrije, ki so odvisne od dizla, kot so transport in kmetijstvo. Za surovine bi to pomenilo pritisk na rast cen dizla, medtem ko bi se lahko cene surove nafte gibale bolj nepredvidljivo, odvisno od celotne energetske politike. Za delnice bi to lahko negativno vplivalo na podjetja v transportnem sektorju in tista, ki so močno izpostavljena mednarodnim trgom dizla. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so takšne regulativne odločitve lahko vir nestabilnosti na trgu energentov in lahko vplivajo na stroške poslovanja podjetij, kar se odraža tudi v njihovih bilancah.",
+      "vpliv": [
+        "Potencialno zvišanje cen dizla na mednarodnih trgih",
+        "Znižanje cen dizla v ZDA",
+        "Vpliv na inflacijo v uvoznicah dizla",
+        "Povečani stroški za transportna podjetja"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/16d676c9-94c4-4df1-8fa6-56966b2c9aa7",
+      "objavljeno": "2026-09-22T18:09:07.000Z"
+    },
+    {
+      "naslov": "ZDA predlagajo 10 milijard dolarjev vreden sklad za obvod Hormuške ožine",
       "sektor": "Energetika",
       "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Cena Brent nafte je danes, 21. septembra 2026, občutno upadla za 3,10 % na 96,21 USD za sod, medtem ko je WTI nafta zabeležila padec za 4,09 % na 92,15 USD za sod. Ta padec je bil sprožen z medijskimi špekulacijami, da bi se Donald Trump lahko ta teden srečal z iranskim predsednikom. Takšno srečanje bi lahko nakazovalo na morebitno omilitev napetosti med ZDA in Iranom ter potencialno spremembo v iranski naftni politiki. Morebitna sprostitev sankcij ali povečanje iranske proizvodnje bi lahko povečalo globalno ponudbo nafte. Poročilo Financial Timesa poudarja, da je to eden ključnih dejavnikov za današnje gibanje cen surovin.",
-      "analiza": "Ozadje dogodka leži v geopolitičnih napetostih med ZDA in Iranom, ki so v preteklosti vplivale na globalne cene nafte. Morebitno srečanje med voditeljema, ki ga omenja Financial Times, bi lahko pomenilo diplomatski preboj in zmanjšanje tveganj v regiji. To je relevantno zdaj, saj so cene nafte v zadnjem obdobju visoke (Brent nad 96 USD), deloma zaradi geopolitičnih tveganj in morebitne 'vojne v Iranu', kot je omenjeno v drugih novicah. Mehanizem vpliva je preprost: zmanjšanje geopolitičnih tveganj in pričakovanje morebitnega povečanja ponudbe iranske nafte zmanjšujeta premijo za tveganje v ceni nafte. To se neposredno odraža v padcu cen WTI in Brent nafte. Posledice so vidne na trgih surovin, kjer so cene nafte padle, kar pa lahko posredno vpliva pozitivno na delniške trge (manjši stroški za podjetja in potrošnike), kar se ujema z današnjo rastjo indeksov. Za slovenskega dolgoročnega vlagatelja to pomeni, da so geopolitični dogodki ključni dejavnik za cene energentov, ki vplivajo na inflacijo in stroške poslovanja podjetij. Zmanjšanje cen nafte lahko dolgoročno prispeva k stabilizaciji gospodarstva.",
+      "povzetek": "Združene države Amerike so v pogovorih z arabskimi zaveznicami o ustanovitvi sklada v višini 10 milijard dolarjev, namenjenega izgradnji nove energetske infrastrukture na Bližnjem vzhodu. Cilj tega projekta je obiti Hormuško ožino, ključno pomorsko pot za transport nafte, ki je pogosto vir geopolitičnih napetosti. Predlog prihaja v času, ko predsednik Trump išče rešitve za stabilizacijo energetskih trkov in zmanjšanje odvisnosti od ranljivih pomorskih poti.",
+      "analiza": "Ozadje tega predloga je dolgotrajna ranljivost globalne oskrbe z nafto zaradi geopolitičnih tveganj v Hormuški ožini, skozi katero poteka velik del svetovnega pomorskega prometa nafte. Sklad v višini 10 milijard dolarjev za novo infrastrukturo, kot so naftovodi in plinovodi, bi zmanjšal odvisnost od te ožine in s tem tudi tveganje za globalne energetske trge v primeru konflikta. Mehanizem vpliva je dolgoročno zmanjšanje geopolitične premije tveganja na ceno nafte, saj bi se zmanjšala možnost motenj v dobavi. Kratkoročno pa lahko sama napoved in izvedba projekta povzročita nihanja na trgu, saj se vlagatelji odzivajo na spremembe v pričakovanjih. Za surovine bi to pomenilo stabilizacijo cen nafte na dolgi rok, saj bi se zmanjšala tveganja, povezana z dobavo. Za delnice bi to lahko pozitivno vplivalo na energetska podjetja, ki bi sodelovala pri gradnji infrastrukture, in na podjetja, ki so odvisna od stabilnih cen energentov. Za obveznice bi se lahko zmanjšala premija tveganja v regiji. Za slovenskega dolgoročnega vlagatelja je to pomembna novica, saj kaže na dolgoročne strateške premike v energetiki, ki lahko zmanjšajo sistemska tveganja in prispevajo k večji stabilnosti globalnih trgov.",
       "vpliv": [
-        "Padec Brent nafte za 3,10 % na 96,21 USD/sod",
-        "Padec WTI nafte za 4,09 % na 92,15 USD/sod",
-        "Potencialno zmanjšanje geopolitičnih tveganj",
-        "Pozitiven vpliv na delniške trge (nižji stroški)"
+        "Potencialno zmanjšanje geopolitičnega tveganja za oskrbo z nafto",
+        "Dolgoročna stabilizacija cen nafte",
+        "Novi investicijski projekti v energetski infrastrukturi",
+        "Zmanjšana ranljivost globalnih dobavnih verig"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-21T19:47:04.000Z"
+      "vir_url": "https://www.ft.com/content/99ba134a-6252-45f3-b312-07b8752a5a98?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-22T17:32:53.000Z"
     },
     {
-      "naslov": "Meta dosega najboljši mesec v 13 letih zaradi novega AI asistenta",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Delnice podjetja Meta doživljajo svoj najboljši mesec v zadnjih 13 letih, kar je pripisano izjemni popularnosti njihovega novega AI asistenta, imenovanega Muse. Uspeh Muse prepričuje vlagatelje, da se Metine naložbe v umetno inteligenco obrestujejo. To je prispevalo k širšemu tehnološkemu vzponu na trgih, saj je Nasdaq 100 danes zrasel za 2,83 % na 30482 točk. Rast delnic Mete kaže na močno zaupanje vlagateljev v potencial umetne inteligence za generiranje prihodkov in rast podjetij.",
-      "analiza": "Ozadje te novice je v intenzivni tekmi tehnoloških velikanov na področju umetne inteligence. Meta, ki je v preteklosti veliko vlagala v metaverse, zdaj kaže oprijemljive rezultate na področju AI, kar je ključno za zaupanje vlagateljev. To je relevantno zdaj, saj je AI eden glavnih gonilnikov rasti na delniških trgih, še posebej v tehnološkem sektorju. Uspeh Metinega asistenta Muse potrjuje, da so naložbe v razvoj AI tehnologij donosne in lahko vodijo do znatnega povečanja vrednosti podjetij. Mehanizem vpliva je neposreden: pozitivne novice o inovacijah in komercialnem uspehu AI produktov povečajo povpraševanje po delnicah podjetij, ki so v ospredju tega razvoja. To se odraža v rasti indeksov, kot je Nasdaq 100, ki je danes zrasel za 2,83 %. Posledice so vidne v močni rasti tehnoloških delnic, kar lahko privede do nadaljnjega preusmerjanja kapitala v ta sektor. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor umetne inteligence še vedno v fazi hitre rasti in inovacij, kar ponuja priložnosti, vendar je pomembno prepoznati podjetja z dejanskimi, tržno uspešnimi produkti.",
-      "vpliv": [
-        "Močna rast delnic Mete",
-        "Rast Nasdaq 100 za 2,83 %",
-        "Povečano zaupanje vlagateljev v AI sektor",
-        "Potencialno nadaljnje preusmerjanje kapitala v tehnološke delnice"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-21T17:45:00.000Z"
-    },
-    {
-      "naslov": "Tehnološki velikani se srečujejo s kitajskim predsednikom Xi Jinpingom",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Elon Musk (Tesla), Jensen Huang (Nvidia) in Tim Cook (Apple, čeprav vir omenja Citi za bančništvo, je Cook bolj povezan z Apple) naj bi se ta teden srečali s kitajskim predsednikom Xi Jinpingom. Srečanje poudarja izpostavljenost ameriških korporacij Kitajski, od Tesline tovarne v Šanghaju do Nvidiinih blokiranih AI čipov in Citi-jeve dolgo pričakovane borznoposredniške licence. Cilj teh podjetij je zagotoviti nadaljnji dostop do kitajskega trga in rešiti morebitne trgovinske ovire.",
-      "analiza": "Ozadje te novice je v kompleksnih gospodarskih in geopolitičnih odnosih med ZDA in Kitajsko, ki vplivajo na globalne dobavne verige in dostop do trga za tehnološka podjetja. Srečanje vodilnih mož ameriških tehnoloških velikanov s kitajskim predsednikom je relevantno zdaj, saj se podjetja soočajo z izzivi, kot so trgovinske omejitve (npr. Nvidia in AI čipi) in regulativne ovire. Mehanizem vpliva je, da takšna srečanja lahko bodisi ublažijo napetosti in odprejo nove priložnosti za poslovanje v Kitajski, bodisi poudarijo obstoječe razlike. Pozitiven izid bi lahko pomenil stabilnejše poslovanje in rast za vpletena podjetja, medtem ko bi neuspeh lahko povečal negotovost. Posledice za delnice teh podjetij so odvisne od izida pogovorov; potencialno lahko izboljšajo obete za prihodnje prihodke in dobičke. Za slovenskega dolgoročnega vlagatelja to poudarja tveganja in priložnosti, povezane z globalizacijo in geopolitiko, še posebej v tehnološkem sektorju, kjer je Kitajska ključen trg in proizvodni center.",
-      "vpliv": [
-        "Potencialno izboljšanje dostopa do kitajskega trga za Tesla, Nvidia, Citi",
-        "Zmanjšanje trgovinskih ovir za AI čipe",
-        "Vpliv na globalne dobavne verige",
-        "Povečana geopolitična tveganja za podjetja, odvisna od Kitajske"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/elon-musk-jensen-huang-and-tim-cook-are-set-to-dine-this-week-with-xi-heres-what-their-companies-want-from-china-cd1a1814?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-21T19:46:00.000Z"
-    },
-    {
-      "naslov": "Paramount in države ZDA dosegli poravnavo, odprta pot za združitev z Warner Bros.",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Paramount je dosegel poravnavo z državami ZDA, ki so vložile protimonopolno tožbo proti predlagani združitvi podjetja z Warner Bros. Discovery. Ta poravnava odpravlja pomembno regulativno oviro, ki je grozila, da bo zamaknila prevzem do sredine leta 2027 in podjetje stala na stotine milijonov dolarjev stroškov. Združitev v vrednosti 110 milijard USD je zdaj na poti, da se zaključi, kar bo konsolidiralo nekatere najbolj prepoznavne hollywoodske TV mreže in studije pod enim lastnikom.",
-      "analiza": "Ozadje te novice je v konsolidaciji medijskega sektorja, kjer se podjetja združujejo, da bi konkurirala na vse bolj konkurenčnem trgu, zaznamovanem z rastjo pretočnih storitev. Tožba s strani 12 zveznih držav, vključno s Kalifornijo in New Yorkom, je izražala zaskrbljenost glede 'izumrtja konkurence' in manjšega števila filmov. Poravnava je relevantna zdaj, saj odstranjuje veliko negotovost in pravne ovire za eno največjih združitev v medijski industriji. Mehanizem vpliva je, da odprava regulativnih tveganj običajno pozitivno vpliva na delnice vpletenih podjetij, saj omogoča realizacijo sinergij in ustvarjanje večje tržne moči. Posledice so, da se bo združitev verjetno nadaljevala, kar bo preoblikovalo medijsko krajino in lahko vplivalo na konkurenčnost, cene storitev in vsebine. Za slovenskega dolgoročnega vlagatelja to pomeni, da je medijski sektor v nenehnem prestrukturiranju, kjer so združitve in prevzemi pogosti. Pomembno je spremljati, kako takšne konsolidacije vplivajo na konkurenčnost in inovacije v industriji.",
-      "vpliv": [
-        "Odprava regulativnih ovir za združitev Paramount-Warner Bros.",
-        "Potencialna realizacija sinergij v vrednosti 110 milijard USD",
-        "Preoblikovanje medijske krajine",
-        "Pozitiven vpliv na delnice vpletenih podjetij"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
-      "objavljeno": "2026-09-21T19:00:48.000Z"
-    },
-    {
-      "naslov": "Ameriško električno omrežje se sooča s pomanjkanjem energije, priložnosti za nekatere delnice",
+      "naslov": "Opozorilo trga obveznic za delniške trge: sektorji že nihajo",
       "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Ameriško električno omrežje se sooča s pomanjkanjem energije, kar je posledica naraščajočega povpraševanja, še posebej zaradi intenzivne rabe umetne inteligence. Morgan Stanley je identificiral SpaceX kot enega izmed potencialnih upravičencev, ki bi lahko izkoristili to 'intenzivirajoče pomanjkanje energije za AI'. To nakazuje na potrebo po znatnih naložbah v energetsko infrastrukturo in razvoj novih virov energije za podporo rastočim potrebam tehnološkega sektorja.",
-      "analiza": "Ozadje te novice je v hitri rasti sektorja umetne inteligence, ki zahteva ogromne količine električne energije za delovanje podatkovnih centrov in superračunalnikov. Ameriško električno omrežje, ki je bilo v preteklosti zasnovano za drugačne potrebe, se zdaj sooča z izzivi, da bi zadostilo temu povečanemu povpraševanju. To je relevantno zdaj, saj pomanjkanje energije lahko ovira nadaljnjo rast AI in povzroči širše gospodarske posledice. Mehanizem vpliva je dvojen: po eni strani pomanjkanje energije predstavlja tveganje za stabilnost gospodarstva in rast tehnološkega sektorja, po drugi strani pa ustvarja ogromne investicijske priložnosti za podjetja, ki se ukvarjajo z energetsko infrastrukturo, proizvodnjo energije in inovativnimi rešitvami (kot je SpaceX). Posledice so, da se bodo verjetno povečale naložbe v energetski sektor, kar lahko koristi delnicam podjetij, ki so v tem segmentu. Za slovenskega dolgoročnega vlagatelja to pomeni, da je rast AI povezana ne le z razvojem programske opreme, temveč tudi z osnovno infrastrukturo. Naložbe v energetski sektor, ki podpira AI, lahko predstavljajo zanimivo priložnost, vendar je treba upoštevati tudi regulativna in okoljska tveganja.",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Trg obveznic oddaja opozorilne signale za delniške trge, pri čemer nekateri sektorji že kažejo znake nestabilnosti. Guy LeBas, glavni strateg za obveznice pri Janney Montgomery Scott, opozarja na možnost inverzije krivulje donosnosti. Čeprav je inverzija krivulje donosnosti pogosto zanesljiv signal za recesijo, se postavlja vprašanje, ali bo to veljalo tudi tokrat, glede na trenutne gospodarske razmere. Donosnost 10-letnih ameriških državnih obveznic je danes pri 4.97 %, kar je +0.10 % več kot včeraj.",
+      "analiza": "Ozadje te novice je klasičen ekonomski indikator – inverzija krivulje donosnosti, kjer kratkoročne obveznice ponujajo višji donos kot dolgoročne. To običajno kaže na pričakovanja vlagateljev o prihodnji gospodarski upočasnitvi ali recesiji, saj pričakujejo, da bo centralna banka v prihodnosti znižala obrestne mere. Trenutna rast donosnosti 10-letnih ameriških državnih obveznic na 4.97 % (+0.10 %) prispeva k pritisku na krivuljo. Mehanizem vpliva je, da višji donosi obveznic povečujejo stroške zadolževanja za podjetja in potrošnike, kar lahko upočasni gospodarsko rast. Prav tako višji donosi obveznic delajo obveznice privlačnejše v primerjavi z delnicami, kar lahko povzroči odliv kapitala iz delniških trgov. Za delnice to pomeni povečano tveganje za korekcijo, še posebej v sektorjih, ki so občutljivi na obrestne mere ali visoko zadolženi. Obveznice so v takšnem okolju lahko varnejše zatočišče, čeprav njihovi donosi kažejo na negotovost. Zgodovinsko gledano, je inverzija krivulje donosnosti zanesljivo napovedala večino recesij v zadnjih desetletjih, vendar ni vedno takojšnja in lahko traja nekaj časa, preden se recesija dejansko materializira. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da je treba biti previden in pregledati izpostavljenost tveganim sredstvom, hkrati pa ne paničariti, saj so trgi dinamični in se prilagajajo.",
       "vpliv": [
-        "Povečano povpraševanje po električni energiji zaradi AI",
-        "Potencialne naložbene priložnosti za podjetja v energetski infrastrukturi (npr. SpaceX)",
-        "Tveganja za stabilnost električnega omrežja",
-        "Vpliv na rast AI sektorja"
+        "Povečano tveganje za gospodarsko upočasnitev/recesijo",
+        "Potencialna korekcija delniških trgov",
+        "Rast donosnosti obveznic",
+        "Povečana previdnost vlagateljev"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/americas-power-grid-is-running-out-of-juice-and-these-stocks-stand-to-gain-85364aca?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-21T20:02:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/the-bond-market-is-flashing-a-warning-for-stocks-these-sectors-are-already-wobbling-015dc707?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-22T19:00:00.000Z"
     },
     {
-      "naslov": "Vlagatelj izgubil 1,1 milijona USD na kripto platformi, opozorilo o tveganjih",
-      "sektor": "Finance",
-      "smer": "negativno",
+      "naslov": "Anthropic izdaja cenejši model umetne inteligence pred IPO",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Vlagatelj, ki je v kripto platformo vložil 1,1 milijona USD, se sprašuje, ali je izgubil celotno naložbo, saj bi njegovo skupno stanje moralo znašati 20 milijonov USD. Primer poudarja visoka tveganja, povezana z naložbami v kriptovalute in nekatere kripto platforme, še posebej tiste, ki niso strogo regulirane. Vlagatelj je naložbo opravil na priporočilo izvršnega podpredsednika velike newyorške investicijske banke, kar kaže na to, da tveganja niso omejena le na neizkušene vlagatelje.",
-      "analiza": "Ozadje te novice je v inherentni volatilnosti in pogosto pomanjkljivi regulaciji trga kriptovalut. Medtem ko Bitcoin danes beleži močno rast (+6,83 % na 86709 USD), ta primer opozarja na temno plat sektorja. Relevantno je zdaj, saj kljub rasti Bitcoina in splošnemu optimizmu v kripto skupnosti, ostajajo tveganja za izgubo kapitala na nereguliranih platformah. Mehanizem vpliva je predvsem na zaupanje vlagateljev v celoten ekosistem kriptovalut. Takšni primeri lahko povzročijo previdnost in odvrnejo potencialne vlagatelje, kar lahko vpliva na likvidnost in cene drugih kriptovalut. Posledice so, da se lahko poveča pritisk na regulatorje za strožji nadzor nad kripto platformami, kar bi lahko dolgoročno stabiliziralo trg, a kratkoročno povzročilo negotovost. Za slovenskega dolgoročnega vlagatelja to pomeni, da so naložbe v kriptovalute izjemno tvegane in zahtevajo temeljito raziskavo platform in projektov. Pomembno je razumeti, da visoki donosi pogosto pomenijo tudi visoka tveganja in da regulativna zaščita, ki jo ponujajo tradicionalni finančni trgi, v svetu kriptovalut pogosto manjka.",
+      "povzetek": "Podjetje Anthropic, razvijalec umetne inteligence, je izdalo nov, cenejši model Claude, s čimer želi izboljšati svojo privlačnost za vlagatelje pred pričakovano 'blockbuster' uvrstitvijo na borzo (IPO). Ta poteza kaže na strategijo podjetja, da poveča dostopnost in konkurenčnost svojih AI rešitev na trgu, kar je ključno za pridobivanje tržnega deleža in ustvarjanje prihodkov.",
+      "analiza": "Ozadje te novice je intenzivna konkurenca na področju umetne inteligence, kjer podjetja tekmujejo za prevlado z inovacijami in cenovno dostopnostjo. Anthropicov cenejši model Claude je strateška poteza pred IPO, s katero želijo pokazati močno poslovno strategijo in privabiti širši krog strank. Mehanizem vpliva je dvojni: po eni strani cenejši in bolj dostopen AI model lahko pospeši sprejemanje AI tehnologij v različnih industrijah, kar je pozitivno za celoten sektor. Po drugi strani pa to povečuje pritisk na konkurente, da tudi oni znižajo cene ali izboljšajo svoje ponudbe. Za delnice to pomeni, da bi lahko Anthropicov IPO bil zelo uspešen, kar bi lahko pozitivno vplivalo na celoten sektor umetne inteligence in tehnološke delnice, še posebej tiste, ki so v verigi vrednosti AI. Zgodovinsko gledano, so uspešni IPO-ji inovativnih podjetij pogosto sprožili val optimizma v celotnem sektorju. Vlagatelji bodo pozorno spremljali sprejem novega modela in rezultate IPO-ja. Za slovenskega dolgoročnega vlagatelja je to signal, da je sektor umetne inteligence še vedno v fazi hitre rasti in inovacij, kar ponuja priložnosti, vendar tudi tveganja, povezana s konkurenco in vrednotenjem podjetij.",
       "vpliv": [
-        "Poudarjena visoka tveganja naložb v kriptovalute",
-        "Potencialna izguba 1,1 milijona USD za vlagatelja",
-        "Povečan pritisk na regulacijo kripto platform",
-        "Vpliv na zaupanje vlagateljev v kripto ekosistem"
+        "Povečana konkurenca na trgu AI",
+        "Potencialno uspešen IPO Anthropic",
+        "Rast sprejemanja AI tehnologij",
+        "Vpliv na vrednotenje drugih AI podjetij"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-21T19:30:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-22T16:31:37.000Z"
+    },
+    {
+      "naslov": "Trump zavrača 'globalistično shemo' za nadzor umetne inteligence",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Ameriški predsednik Trump je zavrnil tisto, kar je poimenoval 'globalistična shema' za nadzor umetne inteligence, kar predstavlja udarec za zagovornike mednarodne regulacije AI. Trump je poudaril, da so ZDA 'daleč pred Kitajsko in vsemi ostalimi' na področju AI in da nameravajo to prednost ohraniti. Njegova izjava kaže na nacionalistični pristop k razvoju in regulaciji umetne inteligence, s poudarkom na ohranjanju ameriške prevlade.",
+      "analiza": "Ozadje te novice je globalna razprava o regulaciji umetne inteligence, ki se giblje med potrebo po mednarodnem sodelovanju za obvladovanje tveganj in željo posameznih držav po ohranjanju konkurenčne prednosti. Trumpova izjava poudarja suverenost ZDA pri razvoju AI in zavrača mednarodne poskuse nadzora, kar lahko vpliva na prihodnje globalne standarde in sodelovanje. Mehanizem vpliva je, da pomanjkanje enotne mednarodne regulacije lahko povzroči fragmentacijo trga in različne standarde, kar bi lahko otežilo mednarodno poslovanje podjetij, ki razvijajo AI. Po drugi strani pa bi lahko agresiven nacionalni pristop pospešil inovacije znotraj ZDA. Za delnice to pomeni, da bi lahko ameriška AI podjetja uživala večjo svobodo pri razvoju, vendar bi se lahko soočala z večjimi izzivi pri širjenju na mednarodne trge, ki imajo strožje regulative. To bi lahko vplivalo na vrednotenje tehnoloških podjetij, odvisno od njihove globalne izpostavljenosti. Zgodovinsko gledano, so podobni nacionalistični pristopi k regulaciji v drugih sektorjih pogosto vodili do trgovinskih trenj in neusklajenih politik. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da regulativno okolje za AI še ni določeno in da politične odločitve lahko močno vplivajo na prihodnost tega hitro rastočega sektorja.",
+      "vpliv": [
+        "Povečana neusklajenost globalnih AI regulativ",
+        "Potencialna fragmentacija trga AI",
+        "Poudarek na nacionalni prevladi v AI",
+        "Vpliv na mednarodno poslovanje AI podjetij"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-22T18:20:57.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-21T20:08:35.132Z",
+    "posodobljenoOb": "2026-09-22T19:17:53.462Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7764.7,
-        "sprememba_pct": 1.49
+        "vrednost": 7771.99,
+        "sprememba_pct": 0.09
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 30482.352,
-        "sprememba_pct": 2.83
+        "vrednost": 30712.635,
+        "sprememba_pct": 0.76
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25575.01,
-        "sprememba_pct": 1.07
+        "vrednost": 25578.85,
+        "sprememba_pct": 0.02
       },
       {
         "simbol": "^N225",
@@ -141,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4383.9,
-        "sprememba_pct": -0.93,
+        "vrednost": 4394.1,
+        "sprememba_pct": 0.23,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 92.15,
-        "sprememba_pct": -4.09,
+        "vrednost": 90.46,
+        "sprememba_pct": -2.07,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 96.21,
-        "sprememba_pct": -3.1,
+        "vrednost": 99.24,
+        "sprememba_pct": -1.1,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1467,
-        "sprememba_pct": -0.2
+        "vrednost": 1.1447,
+        "sprememba_pct": -0.19
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.963,
-        "sprememba_pct": -0.7,
+        "vrednost": 4.968,
+        "sprememba_pct": 0.1,
         "enota": "%"
       }
     ],
@@ -181,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 86709,
-        "sprememba_pct": 6.83,
+        "vrednost": 86575.79,
+        "sprememba_pct": -0.03,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 14.82,
-      "sprememba_pct": 0.07
+      "vrednost": 14.21,
+      "sprememba_pct": -4.44
     }
   }
 }
