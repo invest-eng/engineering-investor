@@ -1,116 +1,134 @@
 {
-  "generiranoOb": "2026-09-23T09:18:48.795Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-09-23T19:10:47.370Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-09-23",
-  "povzetek": "Jutranji pregled trgov kaže mešano sliko, kjer tehnološki sektor še naprej blesti, medtem ko makroekonomski in geopolitični dejavniki povzročajo zaskrbljenost. Ameriški indeks S&P 500 je dan zaključil nespremenjen pri 7765 točkah, medtem ko je Nasdaq 100 zabeležil rast za 0,82 % na 30732 točk, kar kaže na nadaljevanje navdušenja nad umetno inteligenco. Evropski DAX je medtem padel za 0,30 % na 25503 točk, japonski Nikkei 225 pa je zrasel za 1,38 % na 65019 točk. Cena nafte Brent se je zvišala za 0,35 % na 95,74 USD za sod, kar odraža zaskrbljenost zaradi motenj v pomorskem prometu, medtem ko so donosnosti 10-letnih ameriških državnih obveznic zrasle za 0,10 % na 4,97 %. Vlagatelji bodo ta teden pozorno spremljali prihajajoče objave inflacijskih podatkov in morebitne izjave centralnih bankirjev, ki bi lahko vplivale na monetarno politiko.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, medtem ko so ameriški indeksi po dveh urah trgovanja prav tako kazali padce. Nemški DAX je dan zaključil pri 25411 točkah z -0.66 % padcem, medtem ko sta v ZDA S&P 500 pri 7710 točkah (-0.71 %) in Nasdaq 100 pri 30473 točkah (-0.84 %) prav tako beležila rdeče številke. Izjema je bil Nikkei 225, ki je zrasel za 1.38 % na 65019 točk. Ključni dejavnik padcev na zahodnih trgih je bil ponoven skok donosnosti ameriških 10-letnih državnih obveznic, ki so se povzpele na 5.13 %, kar predstavlja 3.16 % rast in odraža strahove pred nadaljnjim zviševanjem obrestnih mer Federal Reserve. Cene nafte so medtem znatno porasle, saj je WTI nafta pridobila 1.92 % na 92.26 USD/sod, Brent pa kar 2.92 % na 98.20 USD/sod, kar kaže na zaskrbljenost glede ponudbe in povpraševanja. Zlato (-1.13 %) in Bitcoin (-2.20 %) sta beležila padce, EUR/USD pa je oslabel za 0.54 % na 1.1391. Vlagatelji bodo ta teden pozorno spremljali objave inflacijskih podatkov, ki bi lahko vplivali na prihodnje odločitve centralnih bank.",
   "novice": [
     {
-      "naslov": "Nasdaq dosegel rekord ob navdušenju nad umetno inteligenco",
+      "naslov": "Donosnost ameriških obveznic poskočila, Wall Street se boji novih dvigov obrestnih mer",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Donosnost 10-letnih ameriških državnih obveznic je danes poskočila na 5.13 %, kar predstavlja 3.16 % rast, saj vlagatelji na Wall Streetu izražajo strahove pred morebitnimi nadaljnjimi dvigi obrestnih mer s strani Federal Reserve. Ta skok donosnosti je povzročil tudi padec delniških trgov, saj sta se indeksa Nasdaq in S&P 500 umaknila z rekordnih vrednosti. Trgovci povečujejo stave na zvišanje obrestnih mer po novih podatkih, ki kažejo na pregrevanje gospodarstva.",
+      "analiza": "Ozadje dogajanja je v vztrajni inflaciji in robustnem ameriškem gospodarstvu, ki kljub preteklim dvigom obrestnih mer kaže znake odpornosti. Centralna banka Federal Reserve je v preteklih obdobjih agresivno dvigovala obrestne mere, da bi zajezila inflacijo, vendar se zdi, da trg zdaj pričakuje, da bo morala ukrepati še naprej. To je relevantno, ker višje obrestne mere povečajo stroške zadolževanja za podjetja in potrošnike, kar lahko upočasni gospodarsko rast in zmanjša dobičke podjetij. Mehanizem vpliva je direkten: ko donosnost obveznic raste, postanejo obveznice privlačnejša naložba v primerjavi z delnicami, saj ponujajo višji donos z manjšim tveganjem, kar povzroči odliv kapitala iz delniških trgov. Posledično so delniški indeksi, kot sta S&P 500 (-0.71 %) in Nasdaq 100 (-0.84 %), padli. Višje donosnosti obveznic prav tako krepijo dolar (EUR/USD je padel za 0.54 % na 1.1391), saj tuje vlagatelje privabljajo višji donosi v ZDA. Za surovine, kot je zlato (-1.13 %), višje obrestne mere pomenijo višje oportunitetne stroške držanja neobrestovanega premoženja. Za slovenskega dolgoročnega vlagatelja to pomeni, da so obdobja visokih obrestnih mer običajno povezana z večjo volatilnostjo na delniških trgih in morebitnimi priložnostmi za nakup obveznic z višjimi donosi. Pomembno je spremljati prihodnje izjave Federal Reserve in makroekonomske podatke, zlasti inflacijo in zaposlovanje.",
+      "vpliv": [
+        "10-letna donosnost ameriških obveznic na 5.13 %",
+        "S&P 500 in Nasdaq 100 padla za 0.71 % in 0.84 %",
+        "EUR/USD oslabel na 1.1391",
+        "Zlato padlo za 1.13 %"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-23T17:52:00.000Z"
+    },
+    {
+      "naslov": "Srečanje Trumpa in Xija: Kitajski avtomobilisti grožnja ameriški industriji",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Srečanje med ameriškim predsednikom Trumpom in kitajskim predsednikom Xijem poteka v času, ko ameriški avtomobilski proizvajalci in zakonodajalci pritiskajo na ohranitev omejitev za kitajska vozila in proizvajalce. Ameriška avtomobilska industrija se boji, da bi morebiten dostop kitajskih avtomobilskih podjetij na ameriški trg predstavljal 'Pandorino skrinjico' zaradi njihove konkurenčnosti in morebitnih varnostnih tveganj. To vprašanje je ključno v širših trgovinskih pogovorih med državama.",
+      "analiza": "Ozadje te novice je v dolgotrajnih trgovinskih napetostih med ZDA in Kitajsko, ki so se v preteklosti že kazale v obliki carin in omejitev. Ameriška stran izraža zaskrbljenost glede nelojalne konkurence, morebitnih subvencij kitajskim podjetjem in vprašanj nacionalne varnosti, povezanih s tehnologijo v vozilih. To je relevantno, ker bi odprtje ameriškega trga za kitajske avtomobile lahko imelo daljnosežne posledice za ameriško avtomobilsko industrijo, ki se že sooča z izzivi prehoda na električna vozila in močno konkurenco. Mehanizem vpliva je predvsem na delnice avtomobilskih proizvajalcev in povezanih industrij, saj bi povečana konkurenca lahko zmanjšala tržne deleže in dobičkonosnost. Morebitne nove carine ali trgovinske omejitve bi lahko vplivale tudi na globalne dobavne verige in cene surovin. Za valute bi eskalacija trgovinske vojne lahko povzročila povečano volatilnost, zlasti med USD in CNY. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da geopolitična tveganja in trgovinske politike lahko močno vplivajo na globalne sektorje, kot je avtomobilska industrija, in s tem na naložbe v podjetja, ki so izpostavljena tem tveganjem. Spremljanje izidov srečanja med Trumpom in Xijem bo ključno za oceno prihodnjih trendov.",
+      "vpliv": [
+        "Povečana konkurenca za ameriške avtomobilske proizvajalce",
+        "Potencialne nove carine ali trgovinske omejitve",
+        "Vpliv na globalne dobavne verige",
+        "Volatilnost valut USD/CNY"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html",
+      "objavljeno": "2026-09-23T18:47:29.000Z"
+    },
+    {
+      "naslov": "CEO McDonald'sa opozarja: Visoka inflacija in manj obiskov restavracij ostajata",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Izvršni direktor McDonald'sa, Chris Kempczinski, je izjavil, da pričakuje, da bosta visoka inflacija in stagnirajoč obisk restavracij še naprej obremenjevala industrijo hitre prehrane. Njegove izjave prihajajo v času, ko McDonald's razkriva nove strategije rasti, imenovane McDonald's > NEXT, ki vključujejo velika vlaganja v nadgradnjo restavracij in poudarek na piščančjih izdelkih ter umetni inteligenci. Kljub temu so delnice podjetja danes padle.",
+      "analiza": "Ozadje te izjave je v širšem makroekonomskem okolju, kjer se podjetja in potrošniki soočajo z vztrajno visoko inflacijo, ki zmanjšuje kupno moč in spreminja potrošniške navade. Potrošniki so bolj občutljivi na cene in morda zmanjšujejo pogostost obiskov restavracij ali se odločajo za cenejše alternative. Izjava CEO-ja McDonald'sa je relevantna, ker ponuja vpogled v pričakovanja vodstva enega največjih svetovnih podjetij v sektorju potrošniških storitev glede prihodnjih gospodarskih razmer. Mehanizem vpliva je na dobičkonosnost podjetij v sektorju hitre prehrane in širše v maloprodaji. Višji stroški surovin in dela, skupaj z manjšim povpraševanjem, lahko zmanjšajo marže in rast prihodkov. Posledično so delnice McDonald'sa padle, kar kaže na zaskrbljenost vlagateljev glede prihodnjih dobičkov. To lahko vpliva tudi na druge delnice v sektorju potrošniških dobrin. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da je treba pri naložbah v podjetja, ki so močno odvisna od potrošniške porabe, upoštevati vpliv inflacije in spremenjenih navad potrošnikov. Podjetja, ki se uspešno prilagodijo (npr. z inovacijami, kot so piščančji izdelki ali AI za optimizacijo), bodo morda bolj odporna.",
+      "vpliv": [
+        "Delnice McDonald'sa padle",
+        "Pričakovano zmanjšanje obiska restavracij",
+        "Povečani stroški poslovanja za podjetja",
+        "Zmanjšana kupna moč potrošnikov"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
+      "objavljeno": "2026-09-23T17:25:26.000Z"
+    },
+    {
+      "naslov": "Delnice Palantirja dosegajo najvišjo letno raven po dramatičnem povratku",
       "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Wall Street, predvsem tehnološko usmerjen indeks Nasdaq, je dosegel novo rekordno vrednost, saj vlagatelji še naprej kažejo močno zanimanje za podjetja, ki se ukvarjajo z umetno inteligenco. Kljub splošnim pomislekom glede varnosti umetne inteligence in vplivu vojne v Iranu na globalno gospodarstvo, je trg poslal Nasdaq na nov vrh. Ta rast kaže na močno prepričanje vlagateljev v dolgoročni potencial sektorja umetne inteligence. Vlagatelji so očitno presegli kratkoročne geopolitične in varnostne skrbi, osredotočajoč se na inovacije in potencialne dobičke. Nasdaq 100 je zrasel za 0,82 % na 30732 točk.",
-      "analiza": "Vzpon tehnološkega sektorja, še posebej podjetij, povezanih z umetno inteligenco, je bil v zadnjem obdobju eden ključnih gonilnikov rasti ameriških borznih indeksov. To ni osamljen pojav, temveč nadaljevanje trenda, ki se je začel že pred časom, ko so podjetja začela vlagati ogromna sredstva v razvoj in implementacijo AI tehnologij. Pomen tega dogodka je v tem, da kljub globalnim negotovostim, kot je vojna v Iranu, ki vpliva na cene nafte in logistiko, vlagatelji še vedno vidijo AI kot dovolj močan dejavnik za dolgoročno rast. Mehanizem vpliva je preprost: pričakovanje visokih prihodkov in dobičkov od AI tehnologij privablja kapital v delnice tehnoloških podjetij, kar dviguje njihovo vrednost in posledično celoten indeks Nasdaq. To ima za posledico rast delnic v tehnološkem sektorju, medtem ko lahko obveznice ostanejo pod pritiskom zaradi višjih donosov, ki jih ponujajo varnejše naložbe. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja ključna, saj se kljub rasti določenih sektorjev ohranjajo tudi tveganja, povezana z globalnimi dogodki. Pomembno je razumeti, da so visoke rasti pogosto povezane z višjimi tveganji.",
+      "intenziteta": 2,
+      "povzetek": "Delnice podjetja Palantir Technologies so na poti k najvišji zaključni vrednosti v letošnjem letu, kar predstavlja dramatičen povratek. Zadnje poročilo o dobičku podjetja je ponovno vzbudilo navdušenje vlagateljev, saj Palantir izkorišča razcvet umetne inteligence (AI) v realnem svetu. Podjetje je znano po svojih platformah za analizo podatkov, ki so še posebej iskane v sektorjih, ki se osredotočajo na AI rešitve.",
+      "analiza": "Ozadje rasti Palantirja je v globalnem trendu hitre rasti in implementacije umetne inteligence v različnih sektorjih, od obrambe do komercialnih aplikacij. Podjetja, ki ponujajo robustne AI rešitve in analitiko podatkov, so v zadnjem času deležna povečanega zanimanja vlagateljev. To je relevantno, ker Palantirjev uspeh kaže na močno zaupanje vlagateljev v podjetja, ki so v ospredju inovacij na področju AI. Mehanizem vpliva je na delnice tehnoloških podjetij, še posebej tistih, ki so močno vpletena v razvoj in uporabo umetne inteligence. Pozitivni rezultati in optimistične napovedi lahko dvignejo vrednost delnic posameznih podjetij in celotnega sektorja. Kljub splošnemu padcu na trgih (Nasdaq 100 -0.84 %), Palantirjev povratek kaže na selektivno moč določenih tehnoloških podjetij. Za širši tehnološki sektor to pomeni, da je AI še naprej ključni gonilnik rasti in investicij. Za slovenskega dolgoročnega vlagatelja je pomembno prepoznati, da tehnološke inovacije, kot je AI, ustvarjajo nove priložnosti za rast, vendar je ključno skrbno preučiti posamezna podjetja in njihove poslovne modele znotraj tega hitro razvijajočega se sektorja.",
       "vpliv": [
-        "Nasdaq 100 dosegel rekordnih 30732 točk (+0,82 %)",
-        "Povečano zanimanje za delnice podjetij v sektorju AI",
-        "Potencialno preusmerjanje kapitala iz manj tveganih naložb"
+        "Delnice Palantirja dosegle najvišjo letno vrednost",
+        "Povečano zanimanje vlagateljev za AI podjetja",
+        "Potencialna rast tehnološkega sektorja",
+        "Dramatičen povratek delnic"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-23T18:31:00.000Z"
+    },
+    {
+      "naslov": "Ameriško gospodarstvo raste najhitreje v štirih letih kljub vojni in inflaciji",
+      "sektor": "Makro & Centralne banke",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Ameriško gospodarstvo je v zgodnji jeseni pospešilo rast, saj podjetja beležijo najhitrejši tempo rasti v več kot štirih letih. To se dogaja kljub izzivom, kot so visoke cene goriva, naraščajoča inflacija, diplomatski zastoj z Iranom in višje obrestne mere. Članek poudarja, da se zdi, da ti dejavniki ne upočasnjujejo ameriškega gospodarstva, kar kaže na njegovo izjemno odpornost.",
+      "analiza": "Ozadje te novice je v splošni makroekonomski sliki ZDA, ki kljub globalnim in domačim izzivom ohranja robustno rast. To je v nasprotju s pričakovanji nekaterih analitikov, ki so napovedovali upočasnitev ali celo recesijo zaradi agresivnega dvigovanja obrestnih mer Federal Reserve in geopolitičnih napetosti. Novica je relevantna, ker kaže na močno osnovo ameriškega gospodarstva, ki lahko podpira dobičke podjetij in zaposlovanje, kar je dolgoročno pozitivno za delniške trge. Mehanizem vpliva je na splošno zaupanje vlagateljev in potrošnikov. Močno gospodarstvo lahko ublaži vpliv višjih obrestnih mer in inflacije na podjetja. Kljub temu, da so delniški indeksi danes padli (S&P 500 -0.71 %, Nasdaq 100 -0.84 %), ta novica predstavlja dolgoročno pozitivno podlago. Močno gospodarstvo lahko tudi pomeni, da bo Federal Reserve imela več prostora za nadaljnje dvige obrestnih mer, če bo to potrebno za boj proti inflaciji, kar je v skladu z novico o rasti donosnosti obveznic. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub kratkoročnim nihanjem in globalnim izzivom, osnovna moč največjega svetovnega gospodarstva pomemben dejavnik stabilnosti in potencialne rasti naložb.",
+      "vpliv": [
+        "Ameriško gospodarstvo raste najhitreje v 4+ letih",
+        "Odpornost gospodarstva kljub inflaciji in geopolitiki",
+        "Podpora dobičkom podjetij in zaposlovanju",
+        "Potencial za nadaljnje ukrepanje Federal Reserve"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/businesses-are-growing-at-the-fastest-pace-in-over-four-years-why-war-and-inflation-isnt-slowing-the-u-s-economy-down-2e39e7c7?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-23T18:06:00.000Z"
+    },
+    {
+      "naslov": "Iranski predsednik Pezeshkian kritizira ZDA, a poudarja diplomacijo v govoru ZN",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Iranski predsednik Pezeshkian je v svojem govoru pred Generalno skupščino Združenih narodov kritiziral ZDA kot 'teroristično' državo, a hkrati pustil odprta vrata za pogajanja. Opozoril je na ameriško blokado Irana v Hormuški ožini, ki je ključna za globalno dobavo nafte. Med njegovim govorom je ameriški odposlanec zapustil dvorano, kar kaže na nadaljnje napetosti med državama.",
+      "analiza": "Ozadje te novice je v dolgotrajnih napetostih med Iranom in ZDA, ki so se v zadnjih letih stopnjevale zaradi iranskega jedrskega programa, sankcij in regionalnih konfliktov. Hormuška ožina je strateško pomembna točka, skozi katero potuje velik del svetovne nafte, zato so kakršne koli grožnje stabilnosti v regiji izjemno pomembne za globalne energetske trge. Novica je relevantna, ker kaže na nadaljevanje diplomatskih napetosti, vendar tudi na možnost pogajanj, kar ustvarja mešano sliko. Mehanizem vpliva je predvsem na cene nafte in geopolitično tveganje. Ostra retorika in morebitna eskalacija bi lahko povzročile še večji dvig cen nafte, saj bi se vlagatelji bali motenj v dobavi. Danes sta ceni WTI in Brent nafte že zrasli za 1.92 % na 92.26 USD/sod oziroma za 2.92 % na 98.20 USD/sod, kar delno odraža to zaskrbljenost. Po drugi strani pa omemba diplomacije ponuja kanček upanja za deeskalacijo. Za valute bi povečane geopolitične napetosti lahko okrepile valute, ki veljajo za varna zatočišča, kot je ameriški dolar. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj dogodkov na Bližnjem vzhodu, saj imajo ti dogodki lahko velik vpliv na cene energentov in s tem na globalno inflacijo ter stroške poslovanja podjetij.",
+      "vpliv": [
+        "WTI nafta zrasla za 1.92 % na 92.26 USD/sod",
+        "Brent nafta zrasla za 2.92 % na 98.20 USD/sod",
+        "Potencialna nestabilnost v Hormuški ožini",
+        "Povečano geopolitično tveganje"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace?traffic_source=rss",
-      "objavljeno": "2026-09-23T02:50:36.000Z"
-    },
-    {
-      "naslov": "Stroški naftnih tankerjev dosegli rekord zaradi iranske vojne",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Stroški najema naftnih tankerjev so dosegli rekordnih 1,2 milijona dolarjev na dan, kar je posledica motenj v pomorskem prometu zaradi vojne v Iranu. Pomanjkanje največjih supertankerjev je povzročilo več kot podvojitev cen na ključnih pomorskih poteh med Bližnjim vzhodom in Kitajsko od konca avgusta. Konflikt v regiji Hormuške ožine, ključne točke za globalni naftni promet, ustvarja negotovost in povečuje stroške zavarovanja ter logistike. To neposredno vpliva na dobavne verige in cene energentov po svetu. Cena nafte Brent je danes pri 95,74 USD za sod, kar odraža te napetosti.",
-      "analiza": "Vojna v Iranu in njene posledice na pomorski promet so ključni dejavnik, ki trenutno vpliva na globalne energetske trge. Hormuška ožina je strateško izjemno pomembna, saj skozi njo poteka velik del svetovnega naftnega prometa. Vsaka motnja v tej regiji ima takojšen in dramatičen vpliv na cene nafte in stroške prevoza. Povečanje stroškov najema tankerjev za več kot dvakrat od konca avgusta na rekordnih 1,2 milijona dolarjev na dan kaže na resnost situacije. Ta mehanizem vpliva na finančne trge je večplasten: višje cene nafte (Brent na 95,74 USD/sod) povečujejo inflacijske pritiske, kar lahko prisili centralne banke k zaostrovanju monetarne politike. To posledično vpliva na delnice, saj višje obrestne mere zmanjšujejo privlačnost naložb v delnice in povečujejo stroške zadolževanja podjetij. Obveznice lahko postanejo bolj privlačne, vendar so tudi pod pritiskom inflacije. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so geopolitična tveganja inherentni del globalnih trgov in lahko povzročijo volatilnost. Diverzifikacija in dolgoročna strategija sta ključni za obvladovanje takšnih šokov.",
-      "vpliv": [
-        "Cena nafte Brent na 95,74 USD/sod (+0,35 %)",
-        "Povečani inflacijski pritiski",
-        "Potencialno višje obrestne mere centralnih bank",
-        "Zvišanje stroškov za podjetja, odvisna od transporta"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/f95db340-8c8f-435f-957d-4623255ac29e?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-23T04:00:29.000Z"
-    },
-    {
-      "naslov": "OECD opozarja na naraščajoče donosnosti državnih obveznic",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Organizacija za ekonomsko sodelovanje in razvoj (OECD) je izrazila zaskrbljenost zaradi naraščajočih donosnosti državnih obveznic po svetu. Pariška skupina opozarja, da se stroški obresti na vladne dolgove povečujejo, kar ustvarja dodaten pritisk na javne finance. Ta trend je posledica več dejavnikov, vključno z inflacijskimi pritiski, zaostrovanjem monetarne politike centralnih bank in povečanim povpraševanjem po kapitalu. Donosnost 10-letnih ameriških državnih obveznic je danes zrasla za 0,10 % na 4,97 %, kar je pomemben pokazatelj globalnih trendov. Višji stroški zadolževanja lahko omejijo fiskalni prostor vlad in vplivajo na gospodarsko rast.",
-      "analiza": "Naraščajoče donosnosti državnih obveznic so pomemben makroekonomski trend, ki odraža pričakovanja trgov glede inflacije in prihodnjih obrestnih mer. Ko donosnosti obveznic rastejo, to pomeni, da vlagatelji zahtevajo višje donose za posojanje denarja državam, kar je pogosto odziv na inflacijske pritiske ali povečano tveganje. Donosnost 10-letnih ameriških državnih obveznic pri 4,97 % (+0,10 %) je ključen kazalnik, saj vpliva na stroške zadolževanja po vsem svetu. Mehanizem vpliva je takšen, da višje donosnosti obveznic povečujejo stroške zadolževanja za podjetja in posameznike, kar lahko upočasni gospodarsko rast. Za delnice to pomeni, da postanejo manj privlačne v primerjavi z varnejšimi obveznicami, saj se znižujejo njihove prihodnje vrednosti. Valute so prav tako pod vplivom, saj višje obrestne mere lahko okrepijo valuto države. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati te trende, saj vplivajo na vrednost naložb v obveznice in delnice ter na splošno gospodarsko okolje. Povečani stroški zadolževanja lahko vplivajo tudi na državne proračune in s tem na javne storitve.",
-      "vpliv": [
-        "10-letne ameriške obveznice na 4,97 % (+0,10 %)",
-        "Povečani stroški zadolževanja za vlade in podjetja",
-        "Potencialno zmanjšana privlačnost delnic",
-        "Pritisk na javne finance"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/6c13ada9-f325-428b-b91e-bffcf92eddad?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-23T08:00:08.000Z"
-    },
-    {
-      "naslov": "Globalne banke opozarjajo na odliv kapitala iz Londona zaradi davka",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Globalne banke so opozorile, da bi morebitni davek na nepričakovane dobičke v Združenem kraljestvu lahko sprožil odliv kapitala iz Londona. Britanski finančni minister John Healey išče dodatne prihodke za proračun v prihajajočem mesecu, da bi nadomestil povečane stroške zadolževanja, ki so posledica vojne v Iranu. Vendar pa finančne institucije trdijo, da bi takšen davek zmanjšal konkurenčnost Londona kot globalnega finančnega centra. Opozorila poudarjajo občutljivost finančnega sektorja na davčno politiko in potencialne dolgoročne posledice za britansko gospodarstvo. To lahko vpliva na privlačnost Združenega kraljestva za tuje naložbe.",
-      "analiza": "Opozorilo globalnih bank glede davka na nepričakovane dobičke v Združenem kraljestvu je pomembno, saj poudarja občutljivo ravnovesje med fiskalnimi potrebami države in ohranjanjem konkurenčnosti finančnega sektorja. London je že dolgo eden vodilnih svetovnih finančnih centrov, privablja kapital in talente. Predlog finančnega ministra Healeyja, da bi z davkom na nepričakovane dobičke pokril višje stroške zadolževanja zaradi iranske vojne, kaže na pritisk na javne finance. Mehanizem vpliva je takšen, da višji davki zmanjšujejo donosnost poslovanja bank, kar jih lahko spodbudi k selitvi dejavnosti ali zmanjšanju naložb v Združenem kraljestvu. To bi imelo negativne posledice za delnice britanskih bank in celoten finančni sektor, saj bi se zmanjšala likvidnost in privlačnost trga. Na valute bi lahko vplivalo z oslabitvijo funta. Za slovenskega dolgoročnega vlagatelja je to opomin, da so regulativne in davčne politike pomemben dejavnik pri ocenjevanju naložbenih priložnosti. Spremembe v teh politikah lahko bistveno vplivajo na donosnost in tveganje naložb v določeni regiji.",
-      "vpliv": [
-        "Potencialni odliv kapitala iz Londona",
-        "Zmanjšana konkurenčnost britanskega finančnega sektorja",
-        "Negativen vpliv na delnice britanskih bank",
-        "Možna oslabitev britanskega funta"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/ab694096-0acf-4e13-9726-ec339a082a99?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-23T04:00:29.000Z"
-    },
-    {
-      "naslov": "OECD napoveduje manjšo rast britanskega gospodarstva prihodnje leto",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Organizacija za ekonomsko sodelovanje in razvoj (OECD) je znižala svojo napoved gospodarske rasti za Združeno kraljestvo za prihodnje leto. OECD pričakuje, da bo britansko gospodarstvo raslo manj, kot je bilo prvotno pričakovano, predvsem zaradi višjih cen energije, ki so posledica konflikta na Bližnjem vzhodu, in vplivov podnebnih sprememb. To opozorilo poudarja ranljivost gospodarstva na zunanje šoke in strukturne izzive. Višji stroški energije neposredno vplivajo na potrošnike in podjetja, kar zmanjšuje kupno moč in investicije. To lahko vodi v počasnejše okrevanje in večje pritiske na življenjski standard.",
-      "analiza": "Znižanje napovedi gospodarske rasti za Združeno kraljestvo s strani OECD je pomemben makroekonomski signal, ki kaže na negotove obete za eno izmed večjih evropskih gospodarstev. Glavni razlogi za to revizijo so višje cene energije, ki so neposredna posledica konflikta na Bližnjem vzhodu, in dolgoročni vplivi podnebnih sprememb. Ti dejavniki povečujejo inflacijske pritiske in zmanjšujejo razpoložljivi dohodek gospodinjstev, kar upočasnjuje potrošnjo in investicije. Mehanizem vpliva na finančne trge je takšen, da slabše gospodarske napovedi običajno vodijo v padec delnic, saj se pričakujejo nižji dobički podjetij. Obveznice so lahko pod pritiskom zaradi inflacije, hkrati pa lahko postanejo privlačnejše kot varno zatočišče. Oslabitev gospodarstva lahko vpliva tudi na vrednost britanskega funta. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati makroekonomske dejavnike in globalne povezave, saj dogodki v eni regiji lahko vplivajo na celotno svetovno gospodarstvo. Diverzifikacija naložb med različne regije in sektorje lahko pomaga zmanjšati tveganje.",
-      "vpliv": [
-        "Znižana napoved gospodarske rasti za Združeno kraljestvo",
-        "Povečani inflacijski pritiski zaradi višjih cen energije",
-        "Potencialen padec delnic britanskih podjetij",
-        "Možna oslabitev britanskega funta"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-23T08:44:53.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/9/23/irans-president-slams-trumps-bullying-in-defiant-unga-speech?traffic_source=rss",
+      "objavljeno": "2026-09-23T18:36:39.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-23T09:18:12.199Z",
+    "posodobljenoOb": "2026-09-23T19:09:50.768Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7764.64,
-        "sprememba_pct": 0
+        "vrednost": 7709.84,
+        "sprememba_pct": -0.71
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 30732.396,
-        "sprememba_pct": 0.82
+        "vrednost": 30472.867,
+        "sprememba_pct": -0.84
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25502.65,
-        "sprememba_pct": -0.3
+        "vrednost": 25410.63,
+        "sprememba_pct": -0.66
       },
       {
         "simbol": "^N225",
@@ -123,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4355.2,
-        "sprememba_pct": -0.48,
+        "vrednost": 4326.9,
+        "sprememba_pct": -1.13,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 90.04,
-        "sprememba_pct": -0.53,
+        "vrednost": 92.26,
+        "sprememba_pct": 1.92,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 95.74,
-        "sprememba_pct": 0.35,
+        "vrednost": 98.2,
+        "sprememba_pct": 2.92,
         "enota": "USD/sod"
       }
     ],
@@ -146,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1416,
-        "sprememba_pct": -0.32
+        "vrednost": 1.1391,
+        "sprememba_pct": -0.54
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 4.968,
-        "sprememba_pct": 0.1,
+        "vrednost": 5.125,
+        "sprememba_pct": 3.16,
         "enota": "%"
       }
     ],
@@ -163,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 85926.78,
-        "sprememba_pct": -0.31,
+        "vrednost": 84299.15,
+        "sprememba_pct": -2.2,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 14.13,
-      "sprememba_pct": -0.56
+      "vrednost": 15.01,
+      "sprememba_pct": 5.63
     }
   }
 }
