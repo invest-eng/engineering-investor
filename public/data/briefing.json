@@ -1,162 +1,140 @@
 {
-  "generiranoOb": "2026-09-24T19:27:07.927Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-09-25T09:36:35.385Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-09-24",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanimi občutki, medtem ko so ameriški indeksi po dveh urah trgovanja beležili minimalne premike. Nemški DAX je dan zaključil z -0.57 % padcem na 25267 točk, medtem ko je japonski Nikkei 225 zrasel za +0.76 % na 65514. V ZDA sta S&P 500 in Nasdaq 100 zabeležila skromno rast, oba za +0.03 %, pri čemer S&P 500 trenutno znaša 7708, Nasdaq 100 pa 30480. Na blagovnih trgih je izstopal skok cen nafte, saj je WTI nafta poskočila za +3.28 % na 95.18 USD/sod, Brent nafta pa za +4.04 % na 107.24 USD/sod, kar je verjetno povezano z zaostrovanjem geopolitičnih napetosti na Bližnjem vzhodu. Donosnost 10-letne ameriške državne obveznice se je povišala za +0.94 % na 5.16 %, kar kaže na nadaljnji pritisk na obvezniške trge in posledično na rast hipotekarnih obrestnih mer, ki so v ZDA prvič po 20 mesecih presegle 7 %. Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v evroobmočju, ki bo ključna za prihodnje odločitve Evropske centralne banke.",
+  "datum": "2026-09-25",
+  "povzetek": "Jutranji pregled finančnih trgov 25. septembra 2026 kaže mešano sliko po nočnem trgovanju. Ameriški indeksi so zaključili skoraj nespremenjeno, saj je S&P 500 zabeležil minimalen padec za 0.02 % na 7704 točk, medtem ko je Nasdaq 100 pridobil skromnih 0.03 % in dosegel 30479 točk. Azijski trgi so pokazali več optimizma, zlasti Nikkei 225, ki je zrasel za 1.30 % na 66364 točk. V Evropi se pričakuje nadaljevanje pozitivnega trenda, ki ga je včeraj nakazal DAX z rastjo za 0.89 % na 25491 točk. Na trgu surovin je zlato zraslo za 0.69 % na 4327.50 USD/oz, medtem ko sta ceni nafte WTI in Brent kljub poročilom o napadih Hutijev na savdske objekte zabeležili padec za 1.82 % oziroma 1.55 %, kar kaže na umiritev ali prilagoditev trga po začetnem šoku. Donosnost 10-letne ameriške obveznice je zrasla na 5.16 %, Bitcoin pa je pridobil 0.36 % in dosegel 84682 USD. Vlagatelji naj bodo pozorni na nadaljnji razvoj geopolitičnih napetosti in morebitne objave glede trgovinskih odnosov med EU in Združenim kraljestvom, saj v dostavljenih informacijah ni izpostavljenega enega samega ključnega ekonomskega dogodka, ki bi dominiral ta teden.",
   "novice": [
     {
-      "naslov": "Xi in Trump razpravljata o sodelovanju, trgovini in tveganjih AI",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Kitajski predsednik Xi Jinping se je danes v Beli hiši srečal z ameriškim predsednikom Donaldom Trumpom, kar je bil zgodovinski obisk. Glavne teme pogovorov so bile sodelovanje, trgovinske napetosti in tveganja, povezana z umetno inteligenco. Xi je poudaril, da morata ZDA in Kitajska \"mirno sobivati\", kljub obstoječim razlikam. Srečanje je potekalo v času, ko se obe velesili soočata z gospodarskimi in tehnološkimi izzivi. Predsednika sta razpravljala tudi o podaljšanju trgovinskega premirja, ki naj bi omililo nekatere napetosti.",
-      "analiza": "Srečanje med predsednikoma ZDA in Kitajske je vedno dogodek globalnega pomena, saj odnosi med tema dvema velesilama določajo velik del svetovne gospodarske in politične dinamike. V ozadju so dolgotrajne trgovinske napetosti, tehnološka tekma, zlasti na področju umetne inteligence, in geopolitična rivalstva. Dejstvo, da se voditelja srečata in razpravljata o sodelovanju, čeprav v kontekstu \"mirnega sobivanja\", kaže na obojestransko željo po stabilizaciji odnosov, kljub globokim razhajanjem. To je relevantno, ker morebitna eskalacija trgovinskih vojn ali tehnološke ločitve močno vpliva na globalne dobavne verige in gospodarsko rast. Mehanizem vpliva na finančne trge je večplasten: pozitivni signali lahko umirijo negotovost in spodbudijo vlaganja v delnice, še posebej v sektorjih, ki so odvisni od mednarodne trgovine. Negativni signali, kot so zaostrovanje sankcij, pa lahko povzročijo umik kapitala in padce na borzah. Za valute lahko stabilizacija pomeni manjšo volatilnost, medtem ko bi eskalacija lahko povzročila beg v varna zatočišča. Za slovenskega dolgoročnega vlagatelja to pomeni, da je globalna stabilnost ključna za rast izvoznih podjetij in širšega gospodarstva, zato je spremljanje teh odnosov pomembno za razumevanje širšega tržnega okolja.",
-      "vpliv": [
-        "Zmanjšanje trgovinske negotovosti",
-        "Potencialna stabilizacija globalnih dobavnih verig",
-        "Vpliv na tehnološke delnice, povezane z AI",
-        "Manjša volatilnost valutnih parov, kot je EUR/USD"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-24T17:53:11.000Z"
-    },
-    {
-      "naslov": "Netanyahu: Izrael in ZDA začela vojno z Iranom za rešitev civilizacije",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Izraelski premier Benjamin Netanyahu je na Združenih narodih izjavil, da sta Izrael in ZDA začela vojno proti Iranu z namenom \"rešitve civilizacije\". Ta izjava prihaja v času zaostrenih napetosti na Bližnjem vzhodu. Sočasno je iransko-ameriška skupina vložila tožbo proti predsedniku Trumpu zaradi vojne, navajajoč škodo, ki so jo utrpele družine v Iranu. To kaže na resno eskalacijo konflikta, ki ima daljnosežne posledice za regijo in svet.",
-      "analiza": "Izjava izraelskega premierja Netanyahua na ZN o začetku vojne proti Iranu s strani Izraela in ZDA predstavlja dramatično zaostritev geopolitičnih razmer na Bližnjem vzhodu. Regija je že dolgo vir nestabilnosti, vendar neposredna izjava o vojni signalizira prehod v novo, potencialno bolj nevarno fazo konflikta. Ozadje vključuje dolgotrajna rivalstva, iranski jedrski program in regionalne proxy vojne. Takšna eskalacija ima takojšen in močan mehanizem vpliva na finančne trge, predvsem na cene energentov. Bližnji vzhod je ključnega pomena za globalno oskrbo z nafto, zato vsaka grožnja stabilnosti v regiji povzroči skok cen. Danes sta WTI nafta in Brent nafta poskočili za +3.28 % na 95.18 USD/sod oziroma za +4.04 % na 107.24 USD/sod, kar je neposredna posledica teh napetosti. Poleg nafte lahko konflikt vpliva na delnice podjetij v obrambni industriji (pozitivno) in tistih, ki so odvisna od stabilnih dobavnih verig (negativno). Povečana negotovost lahko povzroči beg v varna zatočišča, kot sta zlato (ki je danes padlo za -0.33 %, kar je morda kratkoročna anomalija ali odraz drugih dejavnikov) in ameriške državne obveznice (čeprav so donosnosti danes rasle, kar kaže na pritisk inflacije ali pričakovanja višjih obrestnih mer). Za slovenskega dolgoročnega vlagatelja to pomeni višje cene goriv, potencialno višjo inflacijo in povečano volatilnost na trgih, kar zahteva previdnost pri naložbenih odločitvah.",
-      "vpliv": [
-        "Skok cen nafte (WTI +3.28%, Brent +4.04%)",
-        "Povečana geopolitična tveganja",
-        "Potencialna inflacija zaradi višjih cen energentov",
-        "Povečana volatilnost na globalnih trgih"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/979ae3ac-4623-4fe9-a771-43ce451a9e73",
-      "objavljeno": "2026-09-24T18:05:39.000Z"
-    },
-    {
-      "naslov": "Ameriške hipotekarne obrestne mere presegajo 7 % prvič po 20 mesecih",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Ameriške hipotekarne obrestne mere so prvič po januarju 2025 presegale 7 %, kar je potrdil zvezni posojilodajalec Freddie Mac. To povišanje sledi odločitvi ameriške centralne banke (Fed) za zvišanje obrestnih mer, kar je bil prvič po letu 2023, kot odgovor na visoko inflacijo. Višje obrestne mere dodatno obremenjujejo stanovanjski trg, ki se že leta sooča z visokimi obrestnimi merami in nizko ponudbo. Nekateri analitiki celo opozarjajo, da 8-odstotne hipotekarne obrestne mere niso \"nemogoče\".",
-      "analiza": "Rast hipotekarnih obrestnih mer v ZDA nad 7 % je pomemben makroekonomski dogodek, ki neposredno vpliva na stanovanjski trg in potrošniško moč. Ozadje je agresivna monetarna politika Feda, ki z dvigovanjem obrestnih mer poskuša zajeziti inflacijo. Povišanje donosnosti 10-letne ameriške državne obveznice za +0.94 % na 5.16 % kaže na pričakovanja nadaljnjih dvigov ali vztrajno visoke inflacije, kar se neposredno prenaša na hipotekarne obrestne mere. Mehanizem vpliva je jasen: višje obrestne mere zmanjšujejo dostopnost stanovanj, saj povečujejo mesečne obroke, kar posledično zmanjšuje povpraševanje, upočasnjuje rast cen nepremičnin in lahko celo vodi v padce. To vpliva na celotno gospodarstvo, saj je stanovanjski sektor pomemben del BDP. Za delnice to pomeni pritisk na gradbena podjetja, banke (zaradi manjšega obsega hipotekarnih posojil) in podjetja, ki so odvisna od potrošniške porabe (manj denarja za diskrecijsko porabo). Za obveznice rast donosnosti pomeni padec cen. Za slovenskega dolgoročnega vlagatelja je to pomembno, saj so ZDA ključni globalni trg, in upočasnitev tamkajšnjega gospodarstva se lahko prelije tudi v Evropo. Visoke obrestne mere vplivajo tudi na vrednotenje podjetij in s tem na donosnost naložb.",
-      "vpliv": [
-        "Zmanjšana dostopnost stanovanj v ZDA",
-        "Pritisk na stanovanjski trg in gradbeništvo",
-        "Potencialno zmanjšanje potrošniške porabe",
-        "Padec cen obveznic zaradi rastočih donosnosti"
-      ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market",
-      "objavljeno": "2026-09-24T16:31:58.000Z"
-    },
-    {
-      "naslov": "Revolucija AI agentov korak bližje z Meta Muse",
+      "naslov": "Akamai v 12 milijardnem poslu z Anthropicom, delnice Akamaija rastejo",
       "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Z lansiranjem Muse s strani podjetja Meta se je revolucija AI agentov bistveno približala masovnemu trgu. Ta razvoj ponuja vpogled v to, kako bi se lahko tehnologija umetne inteligence preoblikovala v široko dostopen izdelek. AI agenti, ki so sposobni samostojno opravljati naloge in komunicirati z uporabniki, predstavljajo naslednji korak v evoluciji umetne inteligence. To kaže na nadaljnje inovacije v tehnološkem sektorju, ki bi lahko imele daljnosežne posledice za različne industrije.",
-      "analiza": "Razvoj in lansiranje AI agentov, kot je Meta Muse, predstavlja pomemben mejnik v napredku umetne inteligence. Ozadje je hitra rast in komercializacija AI tehnologij v zadnjih letih, ki so prešle iz raziskovalnih laboratorijev v vsakdanjo uporabo. AI agenti so pomembni, ker obljubljajo avtomatizacijo kompleksnejših nalog in bolj intuitivno interakcijo med človekom in strojem, kar lahko poveča produktivnost in ustvari nove poslovne modele. Mehanizem vpliva na finančne trge je predvsem pozitiven za tehnološki sektor, še posebej za podjetja, ki so v ospredju razvoja AI (kot je Meta). To lahko spodbudi rast delnic teh podjetij in privabi naložbe v celoten sektor. Dolgoročno lahko AI agenti preoblikujejo različne industrije, od storitev do proizvodnje, kar lahko vpliva na delnice podjetij, ki uspešno implementirajo to tehnologijo. Hkrati pa lahko prinesejo tudi izzive, kot so etična vprašanja, vpliv na trg dela in potreba po regulaciji. Za slovenskega dolgoročnega vlagatelja to pomeni, da je tehnološki sektor, zlasti AI, še naprej vir potencialnih visokih donosov, vendar je pomembno razumevanje tveganj in izbira podjetij z močnim konkurenčnim položajem.",
+      "intenziteta": 3,
+      "povzetek": "Delnice podjetja Akamai so v porastu po objavi 12 milijard dolarjev vrednega posla z Anthropicom, vodilnim podjetjem na področju umetne inteligence. Akamai bo Anthropicu zagotavljal storitve računalništva v oblaku, kar poudarja močno konkurenčno prednost Akamaija pred tradicionalnimi ponudniki storitev v oblaku. Ta dogovor potrjuje naraščajoče povpraševanje po specializiranih infrastrukturnih rešitvah za umetno inteligenco. Posel je bil objavljen 25. septembra 2026, kar je povzročilo takojšen odziv na trgu in rast delnic Akamaija.",
+      "analiza": "Ta obsežen posel med Akamaijem in Anthropicom je pomemben pokazatelj trenutnega trenda v tehnološkem sektorju, kjer podjetja, ki ponujajo specializirane infrastrukturne rešitve za umetno inteligenco, pridobivajo na pomenu. Vrednost posla, ki znaša 12 milijard dolarjev, kaže na izjemno povpraševanje po zanesljivih in zmogljivih oblačnih storitvah za razvoj in delovanje naprednih AI modelov. Akamai, ki je tradicionalno znan po storitvah dostave vsebin in kibernetski varnosti, s tem poslom krepi svoj položaj na trgu računalništva v oblaku, še posebej v niši AI. To bi lahko pomenilo preusmeritev naložb od splošnih ponudnikov oblaka k bolj specializiranim. Posledice za delnice Akamaija so očitno pozitivne, kar se kaže v rasti. Za širši tehnološki sektor to pomeni nadaljnjo konsolidacijo in specializacijo. Za slovenskega dolgoročnega vlagatelja je to opomin, da je sektor umetne inteligence še vedno v fazi hitre rasti in da se naložbene priložnosti pojavljajo ne le pri razvijalcih AI modelov, temveč tudi pri ponudnikih ključne infrastrukture, ki omogoča njihov razvoj.",
       "vpliv": [
-        "Spodbujanje rasti tehnoloških delnic",
-        "Potencialna preobrazba različnih industrij",
-        "Povečana produktivnost",
-        "Nove naložbene priložnosti v AI sektorju"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/e60b40b6-dae5-4ccf-83cc-978269cbcaa5?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-24T17:33:10.000Z"
-    },
-    {
-      "naslov": "Hyundai naj bi prehitel Forda zaradi pomanjkanja hibridov",
-      "sektor": "Potrošniki",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Analitiki Coxa napovedujejo, da naj bi Hyundai v tretjem četrtletju presegel Forda po prodaji vozil. Glavni razlog za zaostajanje Forda in General Motorsa je pomanjkanje hibridnih vozil v njuni ponudbi. Potrošniki se vse bolj obračajo k hibridnim modelom, kar kaže na spreminjajoče se preference na avtomobilskem trgu. Ta trend poudarja pomen prilagoditve avtomobilskih proizvajalcev novim zahtevam trga in okoljskim standardom.",
-      "analiza": "Novica o tem, da naj bi Hyundai prehitel Forda v prodaji zaradi pomanjkanja hibridnih vozil, poudarja ključno spremembo v avtomobilski industriji in potrošniških preferencah. Ozadje je globalni prehod k bolj trajnostnim oblikam prevoza, ki ga poganjajo okoljska ozaveščenost, vladne spodbude in naraščajoče cene goriv (WTI nafta +3.28%, Brent nafta +4.04% danes). Hibridna vozila predstavljajo most med tradicionalnimi vozili z notranjim izgorevanjem in popolnoma električnimi vozili, saj ponujajo kompromis med dosegom, ceno in porabo goriva. Mehanizem vpliva na finančne trge je direkten: podjetja, ki se hitro prilagodijo tem trendom (kot je Hyundai), bodo verjetno beležila rast prodaje in s tem pozitivno vplivala na ceno svojih delnic. Nasprotno, podjetja, ki zaostajajo (kot Ford in GM v tem primeru), se lahko soočajo z upadom tržnega deleža in pritiskom na dobičkonosnost, kar se odraža v padcu cen delnic. To kaže na pomen inovacij in strateškega načrtovanja v industriji. Za slovenskega dolgoročnega vlagatelja je to opomin, da je pomembno spremljati dolgoročne trende v industriji in vlagati v podjetja, ki so sposobna inovirati in se prilagajati spreminjajočim se potrebam potrošnikov in regulativam.",
-      "vpliv": [
-        "Rast prodaje hibridnih vozil",
-        "Pritisk na tradicionalne avtomobilske proizvajalce",
-        "Spreminjajoče se potrošniške preference",
-        "Vpliv na delnice avtomobilskih podjetij"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
-      "objavljeno": "2026-09-24T18:46:46.000Z"
-    },
-    {
-      "naslov": "Tri alternative za vlagatelje, ki se izogibajo padcem obveznic",
-      "sektor": "Finance",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Medtem ko so ameriške delnice letos še naprej rasle, se obveznice niso uspele otresti petletnega padca. To je nekatere vlagatelje, ki iščejo diverzificiran portfelj, spodbudilo k iskanju alternativ. Članek predlaga tri alternative za vlagatelje, ki želijo ubežati padcem na obvezniškem trgu. To odraža širšo zaskrbljenost glede donosnosti tradicionalnih obvezniških naložb v trenutnem tržnem okolju.",
-      "analiza": "Petletni padec obvezniškega trga, ki ga omenja članek, in današnji porast donosnosti 10-letne ameriške državne obveznice za +0.94 % na 5.16 %, poudarjata izzive, s katerimi se soočajo vlagatelji v fiksnih dohodkih. Ozadje je obdobje visoke inflacije in dvigovanja obrestnih mer centralnih bank, kar zmanjšuje privlačnost obstoječih obveznic z nižjimi kuponskimi obrestnimi merami in povzroča padec njihovih cen. Tradicionalno so obveznice veljale za varno zatočišče in sredstvo za diverzifikacijo portfelja, vendar se ta vloga v trenutnem okolju spreminja. Mehanizem vpliva je, da vlagatelji iščejo boljše donose drugje, kar lahko preusmeri kapital v delnice, nepremičnine ali druge alternativne naložbe. To lahko prispeva k rasti delniških trgov, kot je danes S&P 500 (+0.03 %) in Nasdaq 100 (+0.03 %), kljub makroekonomskim izzivom. Povečano zanimanje za alternative kaže na spremembo v strategijah diverzifikacije portfelja. Za slovenskega dolgoročnega vlagatelja to pomeni, da je v trenutnem okolju ključno preveriti tradicionalne predpostavke o diverzifikaciji in razmisliti o širšem spektru naložbenih možnosti, ki presegajo zgolj delnice in obveznice, ob upoštevanju lastnega tveganja in naložbenih ciljev.",
-      "vpliv": [
-        "Preusmeritev kapitala iz obveznic v druge razrede sredstev",
-        "Povečano zanimanje za alternativne naložbe",
-        "Pritisk na cene obveznic",
-        "Spremembe v strategijah diverzifikacije portfelja"
+        "Rast delnic Akamaija",
+        "Povečano povpraševanje po AI infrastrukturi",
+        "Konkurenčni pritisk na splošne ponudnike oblaka"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/here-are-3-alternatives-for-investors-looking-to-dodge-the-bond-market-beatdown-ec8fda43?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-24T18:07:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/akamai-stock-is-surging-a-12-billion-anthropic-deal-reveals-its-powerful-edge-over-cloud-providers-0b60ca6d?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-25T08:42:00.000Z"
+    },
+    {
+      "naslov": "Novo Nordisk po neuspešnem dnevu za kapitalske trge sklenil licenčni posel",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Danski farmacevtski velikan Novo Nordisk je le nekaj dni po neuspešnem dnevu za kapitalske trge, ki je vlagatelje pustil v negotovosti glede prihodnosti podjetja, sklenil licenčni posel v vrednosti več kot milijarde dolarjev. Ta posel je povzročil močno rast delnic švedskega podjetja, s katerim je bil dogovor sklenjen. Novica, objavljena 25. septembra 2026, kaže na strateško potezo Novo Nordiska za okrepitev svojega portfelja in ponovno pridobitev zaupanja vlagateljev po preteklih razočaranjih.",
+      "analiza": "Dogovor Novo Nordiska, ki je vreden več kot milijardo dolarjev, je ključen za ponovno vzpostavitev zaupanja vlagateljev po nedavnem 'dnevu za kapitalske trge', ki ni izpolnil pričakovanj. V farmacevtski industriji so licenčni posli pogosta praksa za širitev portfelja zdravil in dostop do novih tehnologij. Ta poteza kaže na proaktivno strategijo Novo Nordiska za rast in inovacije, kar je pomembno za dolgoročno vrednost podjetja. Rast delnic švedskega podjetja, ki je partner v poslu, poudarja pozitivno percepcijo trga glede potenciala tega sodelovanja. Takšni dogovori lahko vplivajo na delnice obeh vpletenih podjetij, saj prinašajo nove prihodke in sinergije. Za slovenskega dolgoročnega vlagatelja to ponazarja, da tudi uveljavljena podjetja včasih potrebujejo strateške poteze za ohranjanje rasti in da so partnerstva v farmacevtski industriji ključna za inovacije in tržni uspeh. Pomembno je spremljati, kako se bo ta posel odrazil na finančnih rezultatih Novo Nordiska in ali bo prispeval k stabilni dolgoročni rasti.",
+      "vpliv": [
+        "Rast delnic švedskega podjetja partnerja",
+        "Krepitev portfelja Novo Nordiska",
+        "Povečanje zaupanja vlagateljev v Novo Nordisk"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/after-capital-markets-day-flop-novo-strikes-licensing-deal-that-sends-a-swedish-companys-stock-soaring-f3c99cbe?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-25T09:11:00.000Z"
+    },
+    {
+      "naslov": "EU poziva Združeno kraljestvo k višjim carinam na kitajske avtomobile",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Evropska unija poziva Združeno kraljestvo, naj zviša carine na kitajske avtomobile, da bi se izognila oviram pri izdelkih 'Made in Europe'. London si je intenzivno prizadeval za enako obravnavo britanskih izdelkov, vendar še naprej izključuje carinsko unijo z EU. Novica, objavljena 25. septembra 2026, poudarja kompleksnost post-Brexit trgovinskih odnosov in naraščajoče globalne napetosti glede uvoza kitajskih električnih vozil. To bi lahko imelo pomembne posledice za avtomobilsko industrijo v Evropi in Združenem kraljestvu ter za potrošnike.",
+      "analiza": "Poziv EU Združenemu kraljestvu k zvišanju carin na kitajske avtomobile je odraz širših globalnih trgovinskih napetosti, še posebej v sektorju električnih vozil. EU se sooča z izzivom poceni kitajskega uvoza, ki bi lahko ogrozil domačo avtomobilsko industrijo. S tem pozivom želi EU zagotoviti, da se Združeno kraljestvo uskladi z njenimi ukrepi, da bi preprečila preusmeritev kitajskega uvoza prek britanskih pristanišč in s tem izognila carinam. To kaže na nadaljnje zaplete v odnosih med EU in Združenim kraljestvom po Brexitu, saj London še vedno zavrača carinsko unijo, kar otežuje usklajeno trgovinsko politiko. Posledice bi lahko vključevale višje cene avtomobilov za potrošnike, morebitne povračilne ukrepe Kitajske in dodatne motnje v dobavnih verigah. Za slovenskega dolgoročnega vlagatelja to pomeni povečano tveganje v avtomobilskem sektorju in sektorju transporta, saj se trgovinske ovire lahko odrazijo na dobičkonosnosti podjetij in globalni gospodarski rasti. Spremljanje razvoja trgovinskih politik med EU, Združenim kraljestvom in Kitajsko je ključno.",
+      "vpliv": [
+        "Povečanje trgovinskih napetosti EU-UK-Kitajska",
+        "Potencialno višje cene avtomobilov",
+        "Vpliv na avtomobilsko industrijo"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/5453be91-7bd9-4097-9e83-870354d3a248?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-25T04:00:38.000Z"
+    },
+    {
+      "naslov": "Evropski avtomobilski proizvajalci v krizi, upajo na rešitev v oboroževanju",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Evropski avtomobilski proizvajalci se soočajo s krizo, vendar nekateri upajo, da bi jim grožnja vojne in s tem povezano ponovno oboroževanje lahko pomagalo ponovno okrepiti njihove industrijske zmogljivosti. Avtomobilski proizvajalci, ki imajo izkušnje z masovno proizvodnjo, bi lahko preusmerili del svojih kapacitet v proizvodnjo vojaške opreme. Novica, objavljena 25. septembra 2026, razkriva nenavaden pogled na reševanje industrijskih izzivov skozi geopolitične napetosti. To bi lahko pomenilo preusmeritev naložb in delovne sile v obrambni sektor.",
+      "analiza": "Ideja, da bi ponovno oboroževanje rešilo krizo evropskih avtomobilskih proizvajalcev, je zaskrbljujoč, a hkrati pragmatičen odraz trenutnih geopolitičnih razmer. Evropska avtomobilska industrija se sooča z izzivi, kot so prehod na električna vozila, močna kitajska konkurenca in strogi okoljski predpisi. Zgodovinsko gledano so se velike industrije v času vojne ali povečanih obrambnih potreb preusmerile v vojaško proizvodnjo, kar je zagotovilo delovna mesta in dobiček. Mehanizem vpliva bi bil preusmeritev proizvodnih linij in inženirskih zmogljivosti iz civilnega v vojaški sektor. To bi lahko kratkoročno stabiliziralo nekatere proizvajalce in zagotovilo nove tokove prihodkov. Vendar pa dolgoročno to ne rešuje temeljnih problemov konkurenčnosti in inovacij v civilnem sektorju. Posledice za delnice avtomobilskih podjetij bi bile odvisne od obsega in dobičkonosnosti takšne preusmeritve. Za slovenskega dolgoročnega vlagatelja to poudarja, kako se lahko geopolitika prepleta z industrijsko politiko in kako se lahko podjetja prilagodijo spremenjenim okoliščinam. Vendar pa je takšna strategija povezana tudi z etičnimi in dolgoročnimi tveganji, saj je odvisna od nadaljevanja globalnih napetosti.",
+      "vpliv": [
+        "Potencialna preusmeritev avtomobilske industrije v obrambno",
+        "Spremembe v dobavnih verigah",
+        "Vpliv na delnice avtomobilskih in obrambnih podjetij"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-25T08:31:56.000Z"
+    },
+    {
+      "naslov": "Trump in Xi izmenjala tople besede, a brez napredka pri ključnih vprašanjih",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Ameriški predsednik Trump in kitajski predsednik Xi sta si na državni večerji izmenjala tople besede, vendar je bil dosežen le majhen napredek pri ključnih vprašanjih, ki ločujejo voditelja. Kljub diplomatskim vljudnostim in darilom, objavljenim 25. septembra 2026, ni bilo bistvenih premikov glede pomembnih vprašanj. To poudarja nadaljevanje napetosti med ZDA in Kitajsko, ki kljub prizadevanjem za dialog ostajajo nerešene. Poročila kažejo, da je pompoznost prevladala nad vsebino, kar maskira nekatere Trumpove lastne težave, vključno z vojno v Iranu in padajočo domačo priljubljenostjo.",
+      "analiza": "Srečanje med ameriškim in kitajskim predsednikom je vedno dogodek, ki ga finančni trgi pozorno spremljajo, saj odnosi med tema dvema gospodarskima velesilama močno vplivajo na globalno trgovino, dobavne verige in tehnološki razvoj. Dejstvo, da kljub 'toplim besedam' ni bilo bistvenega napredka pri ključnih vprašanjih, pomeni, da se temeljne napetosti med državama nadaljujejo. To lahko vključuje trgovinske spore, tehnološko rivalstvo in geopolitične interese. Mehanizem vpliva je v negotovosti, ki jo takšna situacija ustvarja za podjetja, ki poslujejo na obeh trgih, in za globalne dobavne verige. Posledice za delnice podjetij, ki so močno odvisna od ameriško-kitajskih odnosov (npr. tehnološka podjetja, proizvajalci čipov), so lahko negativne zaradi povečanega tveganja. Obveznice lahko ostanejo privlačne kot varno zatočišče. Za slovenskega dolgoročnega vlagatelja to pomeni, da je globalna politična stabilnost ključnega pomena za gospodarsko rast in da je diverzifikacija portfelja med različne regije in sektorje pomembna za zmanjšanje tveganj, povezanih z geopolitičnimi trenji.",
+      "vpliv": [
+        "Nadaljevanje ameriško-kitajskih trgovinskih napetosti",
+        "Negotovost za globalne dobavne verige",
+        "Vpliv na delnice tehnoloških podjetij"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-25T08:09:26.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-24T19:26:13.181Z",
+    "posodobljenoOb": "2026-09-25T09:35:59.646Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7708.14,
-        "sprememba_pct": 0.03
+        "vrednost": 7704.13,
+        "sprememba_pct": -0.02
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 30479.72,
+        "vrednost": 30478.855,
         "sprememba_pct": 0.03
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25266.53,
-        "sprememba_pct": -0.57
+        "vrednost": 25490.79,
+        "sprememba_pct": 0.89
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 65513.99,
-        "sprememba_pct": 0.76
+        "vrednost": 66364.2,
+        "sprememba_pct": 1.3
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4304.2,
-        "sprememba_pct": -0.33,
+        "vrednost": 4327.5,
+        "sprememba_pct": 0.69,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 95.18,
-        "sprememba_pct": 3.28,
+        "vrednost": 92.89,
+        "sprememba_pct": -1.82,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 107.24,
-        "sprememba_pct": 4.04,
+        "vrednost": 98.67,
+        "sprememba_pct": -1.55,
         "enota": "USD/sod"
       }
     ],
@@ -164,8 +142,8 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1378,
-        "sprememba_pct": -0.09
+        "vrednost": 1.1393,
+        "sprememba_pct": 0.11
       }
     ],
     "obveznice": [
@@ -181,16 +159,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 84638.59,
-        "sprememba_pct": 0.32,
+        "vrednost": 84681.67,
+        "sprememba_pct": 0.36,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.61,
-      "sprememba_pct": 2.83
+      "vrednost": 15.36,
+      "sprememba_pct": -1.98
     }
   }
 }
