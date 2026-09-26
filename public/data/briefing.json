@@ -1,111 +1,145 @@
 {
-  "generiranoOb": "2026-09-25T19:37:07.208Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-09-26T09:21:20.493Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-09-25",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, saj je nemški indeks DAX zrasel za 0.56 % na 25409 točk. Tudi ameriški trgi so se odprli optimistično, pri čemer je S&P 500 trenutno pri 7733 točkah (+0.37 %), Nasdaq 100 pa pri 30568 točkah (+0.29 %). Kljub splošnemu optimizmu so cene nafte zabeležile občuten padec, saj je WTI nafta padla za 1.99 % na 92.73 USD/sod, Brent nafta pa za 2.36 % na 97.85 USD/sod. Medtem ko je zlato pridobilo 0.62 % in se giblje pri 4324.60 USD/oz, so donosnosti 10-letnih ameriških državnih obveznic zrasle za 0.43 % na 5.18 %. Geopolitične napetosti na Bližnjem vzhodu ostajajo v ospredju, saj Irak ustavlja iranske lete zaradi ameriških sankcij, Iran pa ponuja sedemdnevno prekinitev ognja. Vlagatelji bodo v prihodnjih dneh pozorno spremljali morebitne objave ključnih makroekonomskih podatkov, kot so inflacija ali odločitve centralnih bank.",
+  "datum": "2026-09-26",
+  "povzetek": "Jutranji pregled trgov kaže na pozitivno odprtje azijskih trgov in zmerno rast v ZDA. Indeks S&P 500 je zaključil pri 7743 (+0.51 %), Nasdaq 100 pri 30608 (+0.42 %), medtem ko je Nikkei 225 zrasel za 1.30 % na 66364. Evropski DAX je prav tako zabeležil rast, in sicer za 0.56 % na 25409. Na trgu surovin je zlato pridobilo 0.54 % in se giblje pri 4321.20 USD/oz, medtem ko sta ceni nafte WTI in Brent padli za 2.33 % oziroma 2.77 %, na 92.41 USD/sod in 97.44 USD/sod. Devizni par EUR/USD je zrasel na 1.1400 (+0.18 %), donosnost 10-letne ameriške obveznice pa se je povečala na 5.18 % (+0.43 %). Geopolitične napetosti, vpliv vojne v Iranu na iraško gospodarstvo in visoke cene goriva v Evropi ostajajo v ospredju, skupaj z naraščajočimi pravnimi izzivi za tehnološka podjetja. Vlagatelji bodo ta teden pozorno spremljali prihajajoče objave inflacijskih podatkov iz ključnih gospodarstev, ki lahko vplivajo na pričakovanja glede monetarne politike.",
   "novice": [
     {
-      "naslov": "Irak ustavil iranske lete zaradi novih ameriških sankcij",
+      "naslov": "Vojna v Iranu stiska iraško gospodarstvo, znižuje prihodke od nafte",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Irak je ustavil vse iranske lete na svojih štirih letališčih, vključno z Bagdadom, Nadžafom, Erbilom in Sulajmanijo, kot je poročala Al Jazeera 25. septembra 2026 ob 18:30:20 UTC. Ta odločitev je bila sprejeta po uvedbi novih ameriških sankcij, usmerjenih proti iranskemu letalskemu sektorju. Ukrep je del širših prizadevanj ZDA za povečanje pritiska na Iran. Iran je v odziv na te dogodke zagrozil s splošno motnjo v regiji, kar kaže na morebitno eskalacijo napetosti.",
-      "analiza": "Ozadje dogodka so naraščajoče napetosti med ZDA in Iranom, ki so se v zadnjem času stopnjevale z novimi sankcijami. ZDA želijo z zaostrovanjem sankcij omejiti iranski vpliv in financiranje, kar pa Iran dojema kot sovražno dejanje. To je relevantno zdaj, saj se geopolitične napetosti na Bližnjem vzhodu ne umirjajo, kar povečuje negotovost na globalnih trgih. Mehanizem vpliva je večplasten: neposredno vpliva na letalski promet in logistiko v regiji, posredno pa lahko eskalira v širši konflikt, ki bi ogrozil dobavne verige in predvsem cene nafte. Posledice za surovine so lahko dvig cen nafte, saj bi morebitna eskalacija ogrozila dobave iz regije, čeprav so danes cene WTI nafte padle za 1.99 % na 92.73 USD/sod in Brent nafte za 2.36 % na 97.85 USD/sod, kar kaže na kompleksnost tržnih odzivov. Za delnice bi to pomenilo povečano volatilnost in potencialne padce, še posebej v sektorjih, občutljivih na geopolitična tveganja. Zgodovinsko gledano so podobne napetosti (npr. krize v Hormuški ožini) vedno povzročile skoke cen nafte. Vlagatelji bodo pozorno spremljali nadaljnje diplomatske korake in morebitne iranske povračilne ukrepe. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati geopolitična tveganja v svojem portfelju, saj lahko vplivajo na globalno gospodarstvo in posredno na donosnost naložb.",
+      "povzetek": "Vojna v Iranu močno vpliva na iraško gospodarstvo, saj so motene dobave nafte in se zvišujejo cene uvoza. Po poročanju Al Jazeere, objavljenem 2026-09-26T08:13:06.000Z, to povzroča padec prihodkov od nafte in rast cen, kar razkriva veliko odvisnost Iraka od nafte in tujega blaga. Moteni izvoz nafte in dražji uvoz, skupaj z oslabelim dinarjem, izpostavljajo ranljivost iraškega gospodarstva. Država se sooča z dvojnim pritiskom zmanjšanih prihodkov in povečanih stroškov, kar vpliva na stabilnost regije. Ta situacija poudarja širše ekonomske posledice regionalnih konfliktov, ki presegajo neposredna bojišča.",
+      "analiza": "Konflikt v Iranu ima globoke in neposredne posledice za Irak, ki je ključen proizvajalec nafte v regiji. Motnje v izvozu nafte neposredno zmanjšujejo državne prihodke, kar vpliva na sposobnost vlade za financiranje javnih storitev in investicij. Hkrati se zaradi motenih dobav in višjih transportnih stroškov zvišujejo cene uvoženega blaga, kar povzroča inflacijo in zmanjšuje kupno moč prebivalstva. Za finančne trge to pomeni povečano nestabilnost na trgu nafte, kjer sta ceni WTI in Brent nafte že padli za 2.33 % oziroma 2.77 %, na 92.41 USD/sod in 97.44 USD/sod, kar kaže na kompleksnost vplivov, kjer se lahko geopolitična tveganja prepletajo z drugimi dejavniki ponudbe in povpraševanja. Dolgoročno lahko takšne razmere vodijo v devalvacijo lokalne valute in beg kapitala iz regije. V preteklosti so podobni konflikti, kot je invazija na Kuvajt leta 1990, povzročili drastične skoke cen nafte in globalno gospodarsko negotovost. Vlagatelji bodo pozorno spremljali razvoj dogodkov v Iranu in Iraku, saj lahko eskalacija ali deeskalacija konflikta močno vpliva na globalne cene energentov in s tem na inflacijske pritiske po svetu. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati geopolitična tveganja pri diverzifikaciji portfelja, še posebej pri naložbah v sektorje, občutljive na cene nafte in globalno stabilnost.",
       "vpliv": [
-        "Povečanje geopolitičnih tveganj",
-        "Potencialni dvig cen nafte",
-        "Motnje v regionalnem letalskem prometu",
-        "Povečana volatilnost na delniških trgih"
+        "Padec prihodkov Iraka od nafte",
+        "Rast cen uvoza v Iraku",
+        "Oslabel dinar v Iraku",
+        "Povečana nestabilnost na trgu nafte"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss",
-      "objavljeno": "2026-09-25T18:30:20.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/9/26/iran-war-squeezes-iraqs-economy-as-oil-revenues-fall-and-prices-rise?traffic_source=rss",
+      "objavljeno": "2026-09-26T08:13:06.000Z"
     },
     {
-      "naslov": "Iran predlaga ZDA sedemdnevno prekinitev ognja za Hormuško ožino",
-      "sektor": "Geopolitika",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Iran je Združenim državam Amerike predlagal nov sedemdnevni predlog prekinitve ognja, ki bi lahko v enem tednu omogočil ponovno odprtje Hormuške ožine. Novico je objavil Financial Times 25. septembra 2026 ob 16:16:21 UTC. Iranski zunanji minister je izrazil upanje, da bi ta poteza lahko privedla do deeskalacije napetosti v regiji in zagotovila varnejše pomorske poti. Predlog prihaja v času povečanih napetosti med državama.",
-      "analiza": "Ta predlog prihaja v času, ko so se napetosti med Iranom in ZDA ponovno zaostrile, kar je bilo danes vidno tudi pri odločitvi Iraka o ustavitvi iranskih letov zaradi ameriških sankcij. Ponudba za prekinitev ognja in ponovno odprtje Hormuške ožine, ključne pomorske poti za svetovno oskrbo z nafto, je izjemno pomembna. Hormuška ožina je strateška točka, skozi katero poteka velik del svetovnega pomorskega prometa z nafto. Mehanizem vpliva je neposreden: morebitno odprtje ožine bi zmanjšalo tveganje za motnje v dobavi nafte, kar bi lahko umirilo cene surovin. Čeprav so cene nafte danes že padle (WTI nafta -1.99 % na 92.73 USD/sod, Brent nafta -2.36 % na 97.85 USD/sod), bi takšen dogovor dolgoročno prispeval k stabilizaciji. Za delniške trge bi to pomenilo zmanjšanje geopolitičnega tveganja in potencialno pozitivno reakcijo, še posebej za podjetja, odvisna od stabilnih dobavnih verig. Za obveznice bi to lahko pomenilo zmanjšanje povpraševanja po varnih zatočiščih, kar bi lahko vplivalo na donosnosti. Vlagatelji bodo pozorno spremljali odziv ZDA na iranski predlog. Za slovenskega dolgoročnega vlagatelja je to pomemben signal, da se kljub trenutnim napetostim iščejo diplomatske rešitve, kar lahko zmanjša sistemska tveganja in prispeva k bolj predvidljivemu globalnemu gospodarskemu okolju.",
+      "naslov": "Škotski vozniki prizadeti, dizel presegel 2 £ na liter",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Škotske voznike je prizadela rast cen dizelskega goriva, ki je po vsej državi presegla 2 funta na liter. Po poročanju BBC Business, objavljenem 2026-09-26T08:05:30.000Z, avtomobilistična organizacija RAC pričakuje, da bo povprečna cena dizla v Združenem kraljestvu čez vikend dosegla nov rekord. Ta rast cen ne vpliva le na posamezne voznike, temveč ima tudi širše ekonomske posledice. Visoke cene goriva povečujejo stroške transporta za podjetja, kar se lahko prenese na potrošnike v obliki višjih cen blaga in storitev. To je že privedlo do pomanjkanja prosilcev za delovna mesta dostavljavcev hrane, kot je omenjeno v drugi novici.",
+      "analiza": "Rast cen dizelskega goriva nad 2 funta na liter na Škotskem je pomemben indikator širših inflacijskih pritiskov v Združenem kraljestvu. Dizel je ključno gorivo za komercialni transport in kmetijstvo, zato se njegovo podražitev hitro odrazi v celotni dobavni verigi. Povečani stroški transporta zmanjšujejo marže podjetjem, kar lahko vodi v zvišanje cen izdelkov in storitev za končne potrošnike, s tem pa še pospešuje inflacijo. To vpliva na kupno moč gospodinjstev in lahko zmanjša potrošnjo, kar se že kaže v težavah pri iskanju dostavljavcev hrane, kot navaja BBC. Za obvezniške trge to pomeni pritisk na centralne banke, da ohranijo ali celo zaostrijo monetarno politiko, kar bi lahko povzročilo višje donosnosti obveznic, kot je 10-letna ameriška obveznica, ki je že pri 5.18 %. V preteklosti so skoki cen nafte v 70. letih prejšnjega stoletja povzročili stagflacijo, kombinacijo visoke inflacije in nizke gospodarske rasti. Vlagatelji bodo pozorno spremljali inflacijske podatke in odzive centralnih bank. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati vpliv inflacije na realno donosnost naložb in morebitno preusmeritev naložb v sektorje, ki so manj občutljivi na cene energentov ali pa imajo moč prenesti višje stroške na potrošnike.",
       "vpliv": [
-        "Potencialna deeskalacija napetosti",
-        "Zmanjšanje tveganja za motnje v dobavi nafte",
-        "Možna stabilizacija cen surovin",
-        "Zmanjšanje geopolitičnega tveganja na trgih"
+        "Povečani inflacijski pritiski v Združenem kraljestvu",
+        "Zmanjšana kupna moč potrošnikov",
+        "Povečani stroški transporta za podjetja",
+        "Potencialno zaostrovanje monetarne politike"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cr86xn04gxj9o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-26T08:05:30.000Z"
+    },
+    {
+      "naslov": "Ali so podjetja AI lahko odgovorna za množična streljanja?",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Kanadske tožbe proti podjetju OpenAI sprožajo vprašanja o odgovornosti in dolžnosti opozarjanja v industriji umetne inteligence. Po poročanju Al Jazeere, objavljenem 2026-09-26T07:46:45.000Z, strokovnjaki opozarjajo na morebitno odgovornost podjetij AI za množična streljanja. To odpira novo fronto v pravnih in etičnih izzivih, s katerimi se sooča hitro rastoča industrija umetne inteligence. Vprašanje je, ali so razvijalci AI platform dolžni predvideti in preprečiti zlorabo svojih tehnologij, ki bi lahko vodila do resnih družbenih posledic. Ta primer postavlja precedens za prihodnje regulacije in pravne okvire za AI tehnologije po svetu.",
+      "analiza": "Vprašanje odgovornosti podjetij za umetno inteligenco (AI) za družbeno škodo, kot so množična streljanja, predstavlja pomemben pravni in regulativni izziv za celotno tehnološko industrijo. Kanadske tožbe proti OpenAI so ključne, saj bi lahko postavile precedens, ki bi od podjetij AI zahteval bistveno večjo skrbnost pri razvoju in implementaciji svojih sistemov. To bi lahko pomenilo povečane stroške za raziskave in razvoj, pravne stroške in stroške skladnosti, kar bi lahko vplivalo na profitabilnost in inovativnost v sektorju. Za delniške trge bi to lahko pomenilo pritisk na vrednotenje podjetij, kot je OpenAI, in širše na celoten sektor umetne inteligence, ki je bil v zadnjem času gonilna sila rasti indeksov, kot je Nasdaq 100, ki je pri 30608. Povečana regulacija in pravna tveganja bi lahko zmanjšala apetit vlagateljev za tvegane naložbe v ta sektor. V preteklosti smo videli, kako so regulativni pritiski vplivali na farmacevtsko industrijo glede odgovornosti za stranske učinke zdravil. Vlagatelji bodo pozorno spremljali razvoj teh tožb in morebitne nove zakonodaje, ki bi lahko določila obseg odgovornosti podjetij AI. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub privlačnosti sektorja AI pomembno upoštevati tudi regulativna in pravna tveganja, ki lahko vplivajo na dolgoročno stabilnost in rast podjetij v tem segmentu.",
+      "vpliv": [
+        "Povečani pravni in regulativni stroški za podjetja AI",
+        "Potencialni pritisk na vrednotenje delnic AI podjetij",
+        "Možna upočasnitev inovacij zaradi strožje regulacije",
+        "Povečana negotovost za vlagatelje v sektorju AI"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/26/could-ai-firms-be-held-responsible-for-mass-shootings?traffic_source=rss",
+      "objavljeno": "2026-09-26T07:46:45.000Z"
+    },
+    {
+      "naslov": "Facebook spoznan za odgovornega, TikTok poravnal tožbo za 100 milijonov",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Facebook je bil v Novi Mehiki spoznan za odgovornega zaradi zavajajočih dejanj, medtem ko je TikTok poravnal tožbo z Alabamo za 100 milijonov dolarjev zaradi pomislekov glede varnosti uporabnikov. Po poročanju Al Jazeere, objavljenem 2026-09-26T01:26:21.000Z, je TikTok dosegel poravnavo le nekaj dni pred začetkom sojenja. Ti dogodki poudarjajo naraščajoč regulativni pritisk in pravne izzive, s katerimi se soočajo velika tehnološka podjetja glede varovanja podatkov in varnosti uporabnikov, še posebej mladoletnih. To kaže na trend, kjer države in regulativni organi aktivno iščejo odgovornost podjetij za njihove poslovne prakse in vpliv na družbo.",
+      "analiza": "Sodba proti Facebooku in poravnava TikToka za 100 milijonov dolarjev sta jasen znak zaostrenega regulativnega okolja za velika tehnološka podjetja. Takšni primeri povečujejo pravna tveganja in finančne obremenitve za podjetja, ki se soočajo z obtožbami o zavajanju uporabnikov, pomanjkljivi varnosti in vplivu na mladoletnike. Finančne poravnave, kot je 100 milijonov dolarjev, ki jih bo TikTok plačal Alabami, neposredno vplivajo na dobičkonosnost podjetij. Poleg tega pa takšne sodbe in poravnave lahko vodijo v strožjo regulacijo, ki bi lahko zahtevala spremembe v poslovnih modelih, povečane naložbe v varnost in moderiranje vsebine, kar bi dolgoročno vplivalo na operativne stroške. Za delniške trge to pomeni povečano negotovost za delnice tehnoloških gigantov, ki so kljub temu še vedno visoko vrednotene, kot kaže rast indeksov S&P 500 in Nasdaq 100. V preteklosti so podobni regulativni udarci, kot so bili tisti proti Microsoftu zaradi monopolnih praks, povzročili precejšnje pretrese na trgu. Vlagatelji bodo pozorno spremljali nadaljnje tožbe in regulativne pobude, saj lahko te bistveno preoblikujejo krajino socialnih medijev in digitalnih platform. Za slovenskega dolgoročnega vlagatelja je pomembno, da razume, da so tudi največja in najuspešnejša tehnološka podjetja izpostavljena regulativnim tveganjem, ki lahko vplivajo na njihovo dolgoročno rast in vrednost.",
+      "vpliv": [
+        "Finančne kazni in poravnave za tehnološka podjetja",
+        "Povečani operativni stroški zaradi skladnosti in varnosti",
+        "Pritisk na dobičkonosnost in vrednotenje delnic",
+        "Možna strožja regulacija digitalnih platform"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/26/facebook-found-liable-as-tiktok-settles-for-100m-over-user-safety?traffic_source=rss",
+      "objavljeno": "2026-09-26T01:26:21.000Z"
+    },
+    {
+      "naslov": "Zakaj se Velika Britanija pripravlja na najhujše scenarije?",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Združeno kraljestvo se v luči podnebnih in geopolitičnih tveganj pripravlja na najhujše, prehajajoč od filozofije 'tik pred zdajci' (just in time) k 'za vsak primer' (just in case). Po poročanju Financial Timesa, objavljenem 2026-09-26T04:00:23.000Z, voditelji dvomijo v sposobnost države, da se spopade s krizo. Ta premik v vladni filozofiji odraža naraščajočo zaskrbljenost glede odpornosti nacionalne infrastrukture in dobavnih verig. Poudarek je na povečanju zalog, krepitvi obrambe in izboljšanju pripravljenosti na morebitne šoke, kar kaže na prepoznavanje kompleksnih in medsebojno povezanih tveganj, ki pretijo sodobnim gospodarstvom.",
+      "analiza": "Premik Združenega kraljestva k filozofiji 'just in case' je pomemben makroekonomski trend, ki odraža globalno naraščanje tveganj. Podnebne spremembe, geopolitične napetosti in pandemije so pokazale ranljivost globaliziranih dobavnih verig in nacionalnih sistemov. Ta sprememba pomeni povečane javne izdatke za obrambo, infrastrukturo, energetske zaloge in zdravstvo, kar lahko vpliva na javni dolg in proračunski primanjkljaj. Za obvezniške trge to pomeni morebitno povečanje izdaje državnih obveznic, kar bi lahko vplivalo na donosnosti. Za delniške trge pa bi lahko imelo mešane učinke: nekateri sektorji, kot so obramba, kibernetska varnost in logistika, bi lahko imeli koristi od povečanih vladnih naročil, medtem ko bi širše gospodarstvo lahko občutilo pritisk zaradi višjih davkov ali inflacije. V preteklosti so države med hladno vojno prav tako močno investirale v pripravljenost, kar je imelo dolgoročne ekonomske posledice. Vlagatelji bodo pozorno spremljali vladne strategije in proračunske odločitve, saj bodo te določale, kako se bo Združeno kraljestvo spopadalo z naraščajočimi tveganji. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati širše makroekonomske in geopolitične trende, ki vplivajo na stabilnost razvitih gospodarstev, in razmisliti o naložbah v podjetja, ki so odporna na šoke ali imajo koristi od povečanih izdatkov za varnost in odpornost.",
+      "vpliv": [
+        "Povečani javni izdatki v Združenem kraljestvu",
+        "Potencialno povečanje javnega dolga",
+        "Koristi za sektorje obrambe in logistike",
+        "Vpliv na inflacijo in davke"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/917a9cba-6afd-4ba3-8742-2b7601ecc2ba?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-25T16:16:21.000Z"
+      "vir_url": "https://www.ft.com/content/ba8011d3-37ba-4b8f-a900-f924a4a893db?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-26T04:00:23.000Z"
     },
     {
-      "naslov": "Delnice Microsofta dosegle najvišjo letošnjo vrednost ob navdušenju nad AI",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Delnice Microsofta so se po slabem začetku leta močno okrepile in so na poti k najvišjemu zaključku leta, kot je objavil MarketWatch 25. septembra 2026 ob 19:14:00 UTC. Vlagatelje je v zadnjih mesecih prepričala predvsem zgodba podjetja o umetni inteligenci (AI). To kaže na močno zaupanje v strategijo podjetja in njegov položaj v razvoju AI tehnologij ter na splošno pozitivno razpoloženje do sektorja umetne inteligence.",
-      "analiza": "Microsoft je ključni igralec v tehnološkem sektorju in njegovo okrevanje je pomemben pokazatelj širšega optimizma glede umetne inteligence. Po začetnih izzivih v začetku leta se je podjetje uspešno pozicioniralo kot vodilno na področju AI, kar je pritegnilo vlagatelje. To je relevantno zdaj, saj AI ostaja osrednja tema na tehnoloških trgih, z velikim potencialom za transformacijo različnih industrij. Mehanizem vpliva je neposreden: močno povpraševanje po delnicah tehnoloških velikanov, ki so v ospredju razvoja AI, poganja celoten sektor. Pozitivni sentiment glede Microsofta se lahko prelije tudi na druge tehnološke delnice, še posebej tiste, ki so vključene v ekosistem AI. Posledice za delnice so jasne: rast delnic Microsofta in potencialno celotnega Nasdaq 100 indeksa, ki je danes že zrasel za 0.29 % na 30568. To lahko tudi zmanjša povpraševanje po varnih zatočiščih, kot je zlato, ki je sicer danes zraslo za 0.62 % na 4324.60 USD/oz. Vlagatelji bodo spremljali nadaljnje inovacije in finančne rezultate podjetij na področju AI. Za slovenskega dolgoročnega vlagatelja to poudarja pomen spremljanja tehnoloških trendov in potencial za rast v sektorjih, ki so gonilna sila inovacij, kot je umetna inteligenca.",
-      "vpliv": [
-        "Rast delnic Microsofta",
-        "Pozitiven sentiment v tehnološkem sektorju",
-        "Poudarek na AI kot gonilu rasti",
-        "Potencialna rast Nasdaq 100 indeksa"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-25T19:14:00.000Z"
-    },
-    {
-      "naslov": "Pretresi na trgu obveznic kažejo na novo nevarno območje",
+      "naslov": "Podnebni pesimisti zdaj strašijo pred bankrotom državnega dolga",
       "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Finančni časi (Financial Times) so 25. septembra 2026 ob 17:00:09 UTC poročali, da pretresi na trgu obveznic kažejo na novo nevarno območje na trgih. Prodaje obveznic v takšnem obsegu in hitrosti imajo potencial, da sprožijo požare v drugih delih finančnega sistema. To opozorilo poudarja ranljivost trga obveznic in morebitne širše posledice za stabilnost finančnega sistema, kar zahteva povečano previdnost vlagateljev.",
-      "analiza": "Ozadje teh pretresov so lahko različni dejavniki, vključno z inflacijskimi pričakovanji, spremembami v monetarni politiki centralnih bank ali splošno negotovostjo glede gospodarske rasti. Visoka donosnost 10-letnih ameriških državnih obveznic, ki je danes zrasla za 0.43 % na 5.18 %, kaže na prodajni pritisk in povečana pričakovanja glede obrestnih mer. To je relevantno zdaj, saj so obveznice temelj finančnega sistema in njihova nestabilnost lahko sproži verižno reakcijo. Mehanizem vpliva je, da padec cen obveznic (in s tem rast donosnosti) poveča stroške zadolževanja za podjetja in države, kar lahko upočasni gospodarsko rast. Posledice za delnice so lahko negativne, saj višje obrestne mere zmanjšujejo privlačnost delnic in povečujejo stroške financiranja podjetij. Za valute lahko nestabilnost na trgu obveznic povzroči nihanja, odvisno od relativne privlačnosti posameznih gospodarstev. Zgodovinsko so bile hitre in obsežne prodaje obveznic pogosto predhodnica širših tržnih korekcij. Vlagatelji bodo pozorno spremljali odločitve centralnih bank in makroekonomske podatke, ki vplivajo na pričakovanja glede obrestnih mer. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja in razumevanje medsebojne povezanosti različnih razredov sredstev ključnega pomena v obdobju povečane nestabilnosti na trgu obveznic.",
+      "povzetek": "Podnebni pesimisti, ki so prej opozarjali na okoljske katastrofe, zdaj izražajo zaskrbljenost glede morebitnih bankrotov državnega dolga. Po poročanju Financial Timesa, objavljenem 2026-09-26T04:00:33.000Z, se isti argumenti in zaskrbljenosti ponavljajo, vendar so zdaj preusmerjeni na finančno stabilnost držav. To odraža naraščajoče zavedanje o finančnih posledicah podnebnih sprememb, vključno z uničenjem premoženja, motnjami v gospodarstvu in potrebo po velikih investicijah v zeleno tranzicijo. Povezava med podnebno krizo in fiskalno vzdržnostjo postaja vse bolj očitna, kar predstavlja novo tveganje za globalne finančne trge.",
+      "analiza": "Povezava med podnebnimi spremembami in tveganjem bankrota državnega dolga je pomemben in naraščajoč makrofinančni problem. Podnebne katastrofe, kot so poplave v Bangkoku, ki so bile nedavno razglašene za območje nesreče, povzročajo ogromno gospodarsko škodo, ki jo morajo kriti države. Hkrati so potrebne ogromne investicije v prilagoditev na podnebne spremembe in prehod na zeleno gospodarstvo, kar dodatno obremenjuje javne finance. To lahko vodi v povečanje državnega dolga in dvome o sposobnosti držav, da ga odplačajo, kar se neposredno odraža na obvezniških trgih. Višje tveganje za bankrot države pomeni, da vlagatelji zahtevajo višje donosnosti za nakup državnih obveznic, kar dviguje stroške zadolževanja za vlade. Donosnost 10-letne ameriške obveznice je že pri 5.18 %, kar kaže na splošno rast donosnosti. V preteklosti so bili bankroti državnega dolga pogosto povezani z vojnami ali gospodarskimi krizami, zdaj pa se jim pridružujejo tudi podnebna tveganja. Vlagatelji bodo pozorno spremljali fiskalno politiko držav, njihovo sposobnost obvladovanja podnebnih tveganj in razvoj novih finančnih instrumentov, povezanih z zelenimi naložbami. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati podnebna tveganja ne le kot okoljski, temveč tudi kot finančni dejavnik, ki lahko vpliva na stabilnost državnih obveznic in dolgoročno rast gospodarstev.",
       "vpliv": [
-        "Povečani stroški zadolževanja",
-        "Potencialna upočasnitev gospodarske rasti",
-        "Negativen vpliv na delniške trge",
-        "Povečana volatilnost na valutnih trgih"
+        "Povečano tveganje za bankrot državnega dolga",
+        "Višji stroški zadolževanja za vlade",
+        "Pritisk na obvezniške trge",
+        "Potencialna preusmeritev naložb v zelene obveznice"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/4acbdc1f-d898-4966-b865-924470de0066?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-25T17:00:09.000Z"
+      "vir_url": "https://www.ft.com/content/9c071d82-4a23-4b77-b5dd-384e39a95140?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-26T04:00:33.000Z"
     },
     {
-      "naslov": "Vrhovno sodišče ZDA odobrilo Trumpu sporni sistem preverjanja volivcev",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
+      "naslov": "Delnice kibernetske varnosti rastejo zaradi strahu pred katastrofo",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Vrhovno sodišče ZDA je predsedniku Trumpu dovolilo uporabo spornega sistema za preverjanje volivcev pred vmesnimi volitvami, kot je poročal Al Jazeera 25. septembra 2026 ob 17:45:24 UTC. Skupine za volilne pravice so opozorile, da bi sistem lahko lažno identificiral volivce kot ne-državljane, kar bi lahko povzročilo odvzem volilne pravice. Odločitev krepi predsednikova prizadevanja za preoblikovanje volilnih pravil pred novembrskim glasovanjem in sproža pomembna vprašanja o volilni integriteti.",
-      "analiza": "Ozadje te odločitve je dolgotrajna razprava o volilni integriteti in dostopu do volišč v ZDA, ki se je še posebej zaostrila v zadnjih letih. Predsednik Trump in njegovi zavezniki so poudarjali potrebo po strožjem preverjanju volivcev, medtem ko kritiki opozarjajo na potencialno diskriminacijo in odvzem volilne pravice določenim skupinam. To je relevantno zdaj, saj se bližajo vmesne volitve, in ta odločitev lahko pomembno vpliva na izid. Mehanizem vpliva na finančne trge je posreden: politična nestabilnost ali sporni volilni izidi lahko povečajo negotovost, kar se lahko odrazi v volatilnosti trga. Odločitev lahko vpliva na zaupanje v demokratične institucije, kar je pomembno za dolgoročno stabilnost gospodarstva. Posledice za delnice so lahko povečana previdnost vlagateljev pred volitvami. Za valute, kot je EUR/USD, ki je danes zrasel za 0.18 % na 1.1401, lahko politična negotovost v ZDA povzroči nihanja. Zgodovinsko so bile volitve in politične odločitve, ki so vplivale na volilni proces, pogosto vir tržne negotovosti. Vlagatelji bodo pozorno spremljali izvajanje sistema in morebitne pravne izzive. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati tudi domačo politiko ključnih globalnih gospodarstev, saj lahko politični dogodki vplivajo na širše gospodarsko okolje in s tem na naložbe.",
+      "povzetek": "Podjetja za kibernetsko varnost doživljajo rast delnic, saj organizacije povečujejo izdatke za obrambo pred naraščajočimi kibernetskimi grožnjami. Po poročanju Financial Timesa, objavljenem 2026-09-26T04:00:33.000Z, podjetja 'mečejo denar v problem', kar kaže na nujnost in obseg groženj. Ta trend je posledica vse pogostejših in sofisticiranih kibernetskih napadov, ki lahko povzročijo ogromno finančno škodo in izgubo podatkov. Povečano povpraševanje po rešitvah za kibernetsko varnost ustvarja ugodno okolje za rast podjetij v tem sektorju, kar se odraža v njihovi vrednosti na borzi.",
+      "analiza": "Naraščajoče kibernetske grožnje so postale stalnica v sodobnem digitalnem svetu, kar poganja močno rast v sektorju kibernetske varnosti. Organizacije, od vladnih agencij do zasebnih podjetij, se zavedajo, da so naložbe v kibernetsko varnost nujne za zaščito kritičnih podatkov in infrastrukture. To povečano povpraševanje se neposredno odraža v rasti delnic podjetij, ki ponujajo rešitve na tem področju. Medtem ko širši trg, kot kažejo indeksi S&P 500 (+0.51 %) in Nasdaq 100 (+0.42 %), beleži zmerno rast, sektor kibernetske varnosti izstopa zaradi strukturnih dejavnikov rasti. V preteklosti so podobni trendi, kot je bil bum interneta, ustvarili nove sektorje in vodilna podjetja. Vlagatelji bodo pozorno spremljali inovacije v tem sektorju in konsolidacijo trga, saj se pričakuje nadaljnja rast. Za slovenskega dolgoročnega vlagatelja to pomeni, da sektor kibernetske varnosti predstavlja zanimivo priložnost za diverzifikacijo portfelja, saj je odporen na nekatere makroekonomske nihajnosti in ima močne dolgoročne dejavnike rasti, ki jih poganja nenehna potreba po zaščiti digitalnih sredstev.",
       "vpliv": [
-        "Povečana politična negotovost v ZDA",
-        "Potencialni vpliv na izid vmesnih volitev",
-        "Možna volatilnost na trgih pred volitvami",
-        "Razprave o volilni integriteti"
+        "Rast delnic podjetij za kibernetsko varnost",
+        "Povečani izdatki organizacij za kibernetsko obrambo",
+        "Povečano povpraševanje po rešitvah za kibernetsko varnost",
+        "Potencialna konsolidacija v sektorju kibernetske varnosti"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss",
-      "objavljeno": "2026-09-25T17:45:24.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/c3d9c47c-5431-4b1f-a737-504be06c7c5a?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-26T04:00:33.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-25T19:36:06.989Z",
+    "posodobljenoOb": "2026-09-26T09:20:35.029Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7732.99,
-        "sprememba_pct": 0.37
+        "vrednost": 7743.41,
+        "sprememba_pct": 0.51
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 30567.826,
-        "sprememba_pct": 0.29
+        "vrednost": 30608.135,
+        "sprememba_pct": 0.42
       },
       {
         "simbol": "^GDAXI",
@@ -124,22 +158,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4324.6,
-        "sprememba_pct": 0.62,
+        "vrednost": 4321.2,
+        "sprememba_pct": 0.54,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 92.73,
-        "sprememba_pct": -1.99,
+        "vrednost": 92.41,
+        "sprememba_pct": -2.33,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 97.85,
-        "sprememba_pct": -2.36,
+        "vrednost": 97.44,
+        "sprememba_pct": -2.77,
         "enota": "USD/sod"
       }
     ],
@@ -147,7 +181,7 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1401,
+        "vrednost": 1.14,
         "sprememba_pct": 0.18
       }
     ],
@@ -164,16 +198,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 83987.13,
-        "sprememba_pct": -0.46,
+        "vrednost": 84002.76,
+        "sprememba_pct": -0.09,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 14.86,
-      "sprememba_pct": -5.17
+      "vrednost": 14.87,
+      "sprememba_pct": -5.11
     }
   }
 }
