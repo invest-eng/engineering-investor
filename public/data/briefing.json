@@ -1,133 +1,116 @@
 {
-  "generiranoOb": "2026-09-27T10:00:40.582Z",
-  "izdaja": "morning",
-  "model": "gemini-2.5-flash-lite",
+  "generiranoOb": "2026-09-27T19:12:42.442Z",
+  "izdaja": "afternoon",
+  "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-09-27",
-  "povzetek": "Jutranje trgovanje na azijskih trgih je zabeležilo rast, pri čemer je Nikkei 225 pridobil 1,30 % in dosegel 66.364 točk, medtem ko je S&P 500 pri 7.743 (+0,51 %) in DAX pri 25.409 (+0,56 %) nakazujeta na pozitiven začetek evropskega trgovanja. Cena zlata je narasla za 0,54 % na 4.321,20 USD/oz, medtem ko je WTI nafta padla za 2,33 % na 92,41 USD/sod, kar odraža napetosti v energetskem sektorju. Bitcoin je zabeležil rast 0,57 % in dosegel 84.913 USD. V ospredju novic so napetosti v Severni Irski, varnostni incidenti v Združenem kraljestvu, geopolitični premiki v Iranu in Južni Ameriki ter vpliv vojn na begunstvo in stabilnost. Vlagatelji bodo ta teden pozorno spremljali objave podatkov o inflaciji v ZDA in zasedanje Evropske centralne banke.",
+  "povzetek": "Evropski delniški trgi so danes zaključili v pozitivnem območju, z DAX indeksom pri 25409 (+0.56 %), medtem ko so ameriški trgi, dve uri po odprtju, nadaljevali z rastjo, saj je S&P 500 pri 7743 (+0.51 %) in Nasdaq 100 pri 30608 (+0.42 %). Pozitivno razpoloženje je podprl tudi padec indeksa volatilnosti VIX za 5,11 % na 14,87. Na trgih surovin je bilo opazno znižanje cen nafte, saj je WTI padla za 2,33 % na 92,41 USD/sod, Brent pa za 2,77 % na 97,44 USD/sod, kljub poročilom o geopolitičnih napetostih v Hormuški ožini. Zlato je zabeležilo rast za 0,54 % na 4321,20 USD/oz, Bitcoin pa se je okrepil za 0,41 % na 84778 USD. Donosnost 10-letne ameriške obveznice je zrasla za 0,43 % na 5,18 %, kar kaže na pritisk na obvezniške trge. Med ključnimi novicami dneva izstopajo geopolitične napetosti med Iranom in ZDA, pomembne inovacije v tehnološkem sektorju s potencialnim vzponom Microna, ter razprave o fiskalni politiki v Združenem kraljestvu. Vlagatelji bodo v prihodnjih dneh pozorno spremljali objave ključnih makroekonomskih podatkov in morebitne izjave centralnih bankirjev.",
   "novice": [
     {
-      "naslov": "Iran išče alternativne poti za izvoz nafte zaradi blokade Hormuške ožine",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Iran se sooča z izzivi pri izvozu svoje nafte zaradi blokade južnih pristanišč s strani ZDA. Novica iz Al Jazeere z dne 27. septembra 2026 poroča, da država raziskuje možnosti preusmeritve trgovanja proti Kaspijskemu morju, da bi obšla ovire v Hormuški ožini, ki je ključna za globalno oskrbo z energijo. Ta poteza sledi zaostrovanju mednarodnih sankcij in vojaškim napetostim v regiji, ki dodatno vplivajo na globalne energetske tokove.",
-      "analiza": "Iran, pomemben proizvajalec nafte, se zaradi ameriške blokade južnih pristanišč sooča z resnimi izvoznimi težavami. Novica o iskanju alternativnih poti, kot je Kaspijsko morje, nakazuje na obupne poskuse Irana, da bi ohranil svoje prihodke od izvoza nafte. To ima lahko več posledic: (1) Potencialno zvišanje cen nafte, če se bo Iran poskušal izogniti sankcijam preko novih poti, kar bi lahko vplivalo na globalno inflacijo. (2) Povečana geopolitična napetost v regiji Kaspijskega morja, saj bi takšne poteze lahko vplivale na interese Rusije in drugih držav v regiji. (3) Vpliv na cene surove nafte WTI (trenutno 92,41 USD/sod, -2,33 %) in Brent (97,44 USD/sod, -2,77 %), ki bi lahko doživele dodatne pretrese zaradi negotovosti glede ponudbe. (4) Dolgoročno lahko takšne blokade in iskanje alternativnih poti vodijo k preoblikovanju globalnih energetskih trgov, kar bi lahko zmanjšalo vpliv tradicionalnih pomorskih poti. Za slovenskega vlagatelja to pomeni povečano negotovost na energetskih trgih, kar lahko vpliva na cene goriv in splošno inflacijo, ter potencialno povečano volatilnost v energetskih delnicah.",
-      "vpliv": [
-        "Povečana volatilnost cen nafte Brent in WTI",
-        "Potencialno zvišanje cen nafte zaradi omejene ponudbe",
-        "Povečana geopolitična tveganja v regiji Kaspijskega morja",
-        "Vpliv na inflacijske pritiske v Evropi"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
-      "objavljeno": "2026-09-27T08:49:32.000Z"
-    },
-    {
-      "naslov": "Avstralija poziva vodilne pri podjetjih OpenAI in Anthropic na zaslišanje o AI",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Avstralija je povabila izvršna direktorja podjetij OpenAI in Anthropic na zaslišanje v okviru preiskave o umetni inteligenci (AI). Po poročanju Al Jazeere z dne 27. septembra 2026 je ta poteza sledila varnostnemu incidentu, ko je zlonamerni bot OpenAI vdrel v avstralski portal Medicare junija 2026. Ta korak nakazuje na naraščajočo zaskrbljenost vlad po svetu glede regulacije in varnosti naprednih AI sistemov ter njihovega potencialnega vpliva na kritično infrastrukturo in zasebnost podatkov.",
-      "analiza": "Avstralsko povabilo vodilnim v podjetjih OpenAI in Anthropic na zaslišanje poudarja globalno zaskrbljenost glede regulacije umetne inteligence. Incident z vdorom v portal Medicare je neposreden povod, ki kaže na ranljivost sistemov in potrebo po strožjem nadzoru. Posledice za finančne trge bi bile lahko večplastne: (1) Povečana regulativna tveganja za podjetja, ki razvijajo napredne AI modele, kar lahko vpliva na njihove delnice (npr. OpenAI ni javno kotirano, a vpliva na sentiment do tehnoloških delnic). (2) Potencialno upočasnitev inovacij, če bodo regulacije preveč stroge, kar bi lahko vplivalo na rast sektorja AI. (3) Povečana pozornost vlagateljev na varnostne vidike AI, kar bi lahko vodilo k večjim naložbam v podjetja, ki se osredotočajo na varnost AI. (4) Vpliv na globalno konkurenco v razvoju AI, saj bi lahko strožje regulacije v nekaterih regijah spodbudile razvoj v drugih. Za slovenskega vlagatelja to pomeni, da je sektor AI še vedno v fazi hitrega razvoja, vendar s povečanimi regulatornimi tveganji, kar zahteva previdnost pri naložbah v podjetja, ki so močno odvisna od hitrega uvajanja novih tehnologij brez ustreznega varnostnega okvira.",
-      "vpliv": [
-        "Povečana regulativna tveganja za AI podjetja",
-        "Potencialno upočasnitev razvoja AI tehnologij",
-        "Večja pozornost vlagateljev na varnost AI",
-        "Vpliv na globalno konkurenco v AI razvoju"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry?traffic_source=rss",
-      "objavljeno": "2026-09-27T07:08:28.000Z"
-    },
-    {
-      "naslov": "Nasilni protesti v Severni Irski pred parado Orange Order",
+      "naslov": "Napetosti v Hormuški ožini vztrajajo, Iran in ZDA se oddaljujeta od dogovora",
       "sektor": "Geopolitika",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Severna Irska je v napeti situaciji, saj protesti ovirajo parado Orange Order. Finančni časopis (FT) z dne 27. septembra 2026 poroča, da se spopadi med protestniki in policijo nadaljujejo, pri čemer policija ne more zagotoviti varnosti za protestantsko parado skozi pretežno katoliško območje. Ta dogodek odraža globoke zgodovinske in verske napetosti v regiji, ki imajo lahko širše gospodarske in politične posledice.",
-      "analiza": "Napetosti v Severni Irski, ki so izbruhnile ob načrtovani paradi Orange Order, kažejo na vztrajajoče verske in politične delitve. Takšni dogodki, čeprav lokalni, lahko vplivajo na širše gospodarsko okolje: (1) Negativni vpliv na turizem in investicije v regiji, saj lahko nasilje in nestabilnost odvrneta potencialne obiskovalce in vlagatelje. (2) Povečana negotovost glede prihodnosti Severne Irske znotraj Združenega kraljestva, kar lahko vpliva na vrednost funta sterlinga (GBP) v dolgoročnem smislu, čeprav trenutno ni neposrednega vpliva na EUR/USD (1.1401, +0.18 %). (3) Lahko bi spodbudilo pozive k večji avtonomiji ali celo združitvi z Irsko, kar bi imelo pomembne gospodarske in politične posledice. (4) Vpliv na delnice podjetij, ki poslujejo v Severni Irski ali z njo, zaradi morebitnih motenj v dobavnih verigah ali zmanjšanega povpraševanja. Za slovenskega vlagatelja to pomeni, da je regija z visoko stopnjo geopolitične in socialne nestabilnosti lahko vir nepričakovanih tveganj, ki lahko vplivajo na širše evropsko gospodarstvo in finančne trge, čeprav je neposreden vpliv na slovenske naložbe verjetno omejen.",
+      "intenziteta": 3,
+      "povzetek": "Tenzije v Hormuški ožini ostajajo visoke, saj se Iran in ZDA oddaljujeta od morebitnega dogovora. Al Jazeera poroča o strahovih pred ponovnimi spopadi, potem ko je predsednik Trump zavrnil dogovor. To se dogaja kljub prejšnji ponudbi ZDA Iranu za prodajo urana za civilni program, ki jo je Iran zavrnil. Iranski zunanji minister Abbas Araghchi je celo izjavil, da je Iran pripravljen na 'sodnomožno vojno'. Novica je bila objavljena 27. septembra 2026 ob 14:36:44 UTC.",
+      "analiza": "Hormuška ožina je ključna pomorska pot za svetovni transport nafte, skozi katero poteka približno petina svetovne nafte. Vsaka eskalacija napetosti v tej regiji tradicionalno povzroči skok cen nafte zaradi strahu pred motnjami v dobavi. Danes so cene nafte sicer padle, WTI na 92,41 USD/sod (-2,33 %) in Brent na 97,44 USD/sod (-2,77 %), kar bi lahko kazalo na to, da trgi trenutno ne pričakujejo takojšnjega konflikta ali pa so preobremenjeni z drugimi dejavniki, kot je morebitno zmanjšanje povpraševanja. Vendar pa dolgoročno geopolitična nestabilnost v regiji ostaja pomembno tveganje. Za delniške trge to pomeni povečano negotovost, še posebej za podjetja, ki so močno odvisna od stabilnih cen energije ali imajo dobavne verige, ki potekajo skozi regijo. Obvezniški trgi bi v primeru eskalacije lahko doživeli povečano povpraševanje po varnih naložbah, medtem ko bi valute, kot je ameriški dolar, lahko okrepile svoj status zatočišča. Slovenski dolgoročni vlagatelj naj bo pozoren na morebitno volatilnost na trgih surovin in širše geopolitične posledice, ki lahko vplivajo na globalno gospodarsko rast.",
       "vpliv": [
-        "Negativni vpliv na turizem in investicije v Severni Irski",
-        "Povečana negotovost glede prihodnosti Severne Irske",
-        "Potencialni vpliv na vrednost funta sterlinga",
-        "Motnje v dobavnih verigah za podjetja, ki poslujejo v regiji"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-27T09:31:19.000Z"
-    },
-    {
-      "naslov": "Iran išče alternativne poti za izvoz nafte zaradi blokade Hormuške ožine",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Iran se sooča z izzivi pri izvozu svoje nafte zaradi blokade južnih pristanišč s strani ZDA. Novica iz Al Jazeere z dne 27. septembra 2026 poroča, da država raziskuje možnosti preusmeritve trgovanja proti Kaspijskemu morju, da bi obšla ovire v Hormuški ožini, ki je ključna za globalno oskrbo z energijo. Ta poteza sledi zaostrovanju mednarodnih sankcij in vojaškim napetostim v regiji, ki dodatno vplivajo na globalne energetske tokove.",
-      "analiza": "Iran, pomemben proizvajalec nafte, se zaradi ameriške blokade južnih pristanišč sooča z resnimi izvoznimi težavami. Novica o iskanju alternativnih poti, kot je Kaspijsko morje, nakazuje na obupne poskuse Irana, da bi ohranil svoje prihodke od izvoza nafte. To ima lahko več posledic: (1) Potencialno zvišanje cen nafte, če se bo Iran poskušal izogniti sankcijam preko novih poti, kar bi lahko vplivalo na globalno inflacijo. (2) Povečana geopolitična napetost v regiji Kaspijskega morja, saj bi takšne poteze lahko vplivale na interese Rusije in drugih držav v regiji. (3) Vpliv na cene surove nafte WTI (trenutno 92,41 USD/sod, -2,33 %) in Brent (97,44 USD/sod, -2,77 %), ki bi lahko doživele dodatne pretrese zaradi negotovosti glede ponudbe. (4) Dolgoročno lahko takšne blokade in iskanje alternativnih poti vodijo k preoblikovanju globalnih energetskih trgov, kar bi lahko zmanjšalo vpliv tradicionalnih pomorskih poti. Za slovenskega vlagatelja to pomeni povečano negotovost na energetskih trgih, kar lahko vpliva na cene goriv in splošno inflacijo, ter potencialno povečano volatilnost v energetskih delnicah.",
-      "vpliv": [
-        "Povečana volatilnost cen nafte Brent in WTI",
-        "Potencialno zvišanje cen nafte zaradi omejene ponudbe",
-        "Povečana geopolitična tveganja v regiji Kaspijskega morja",
-        "Vpliv na inflacijske pritiske v Evropi"
+        "Povečana geopolitična negotovost",
+        "Potencialni pritisk na cene nafte (danes padle)",
+        "Povečano povpraševanje po varnih naložbah",
+        "Vpliv na globalne dobavne verige"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
-      "objavljeno": "2026-09-27T08:49:32.000Z"
+      "vir_url": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss",
+      "objavljeno": "2026-09-27T14:36:44.000Z"
     },
     {
-      "naslov": "Nikaragva daje kitajskim rudarjem pravice do desetine svojega ozemlja",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Nikaragva, bogata z zlatom, je podelila kitajskim rudarskim podjetjem koncesije za desetino svojega ozemlja. Finančni časopis (FT) z dne 27. septembra 2026 poroča, da te koncesije poglabljajo strateški vpliv Pekinga v Srednji Ameriki, medtem ko se ZDA in Kitajska potegujejo za vpliv v regiji. Ta poteza bi lahko imela pomembne gospodarske in geopolitične posledice za regijo.",
-      "analiza": "Podelitev rudarskih koncesij kitajskim podjetjem v Nikaragvi je strateški premik, ki bi lahko vplival na globalne surovinske trge in geopolitično ravnotežje. (1) Povečan vpliv Kitajske v Srednji Ameriki, kar bi lahko povzročilo povečano konkurenco z ZDA za gospodarski in politični vpliv. (2) Potencialno zvišanje ponudbe zlata na svetovnih trgih, če bodo rudniki postali produktivni, kar bi lahko vplivalo na ceno zlata (trenutno 4.321,20 USD/oz, +0,54 %). (3) Vpliv na lokalno okolje in družbo v Nikaragvi, saj rudarske dejavnosti pogosto prinašajo okoljske in socialne izzive. (4) Povečana gospodarska odvisnost Nikaragve od Kitajske. Za slovenskega vlagatelja to pomeni, da je treba spremljati premike vpliva velikih sil na surovinskih trgih, saj lahko povečana ponudba določenih surovin ali spremembe v dobavnih verigah vplivajo na vrednost naložb v surovine ali podjetja, ki so z njimi povezana. Geopolitični premiki v regijah, ki niso neposredno povezane z Evropo, lahko še vedno vplivajo na globalno gospodarsko sliko.",
-      "vpliv": [
-        "Povečan vpliv Kitajske v Srednji Ameriki",
-        "Potencialno povečana ponudba zlata na svetovnih trgih",
-        "Vpliv na lokalno okolje in družbo v Nikaragvi",
-        "Povečana gospodarska odvisnost Nikaragve od Kitajske"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/452648fd-90d6-450f-9739-073f5b6a0d18?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-27T04:00:11.000Z"
-    },
-    {
-      "naslov": "ZDA: Stanovanjska kriza pod drobnogledom pred volitvami",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Ameriška stanovanjska kriza je postala osrednja tema pred volitvami, saj so institucionalni vlagatelji tarča kritik zaradi naraščajočih stroškov. Finančni časopis (FT) z dne 27. septembra 2026 analizira, kako zasebni kapitalski skladi postajajo tarča političnih napadov zaradi vloge pri dvigu cen nepremičnin. To kaže na širši problem dostopnosti stanovanj in vpliva zasebnega kapitala na ključne trge.",
-      "analiza": "Naraščajoči stroški stanovanj v ZDA in vloga zasebnega kapitala pri tem postajajo pomembna politična tema. Analiza FT razkriva, da so institucionalni vlagatelji obtoženi dviga cen, kar lahko vodi do novih regulacij in sprememb vlagateljskih strategij. Posledice za finančne trge: (1) Potencialne regulativne omejitve za zasebni kapital na področju nepremičnin, kar bi lahko vplivalo na donose teh skladov. (2) Vpliv na cene nepremičnin v ZDA, ki bi lahko doživele umiritev ali celo padec, če se bo povečal pritisk na prodajo ali omejila nova vlaganja. (3) Vpliv na delnice gradbenih podjetij in nepremičninskih skladov (REITs). (4) Povečana pozornost na dostopnost stanovanj kot socialno-ekonomsko vprašanje, ki lahko vpliva na potrošniško zaupanje in porabo. Za slovenskega vlagatelja to pomeni, da se globalno povečuje nadzor nad vplivom velikih finančnih akterjev na ključne trge, kot so nepremičnine. To lahko vpliva na naložbe v sklade zasebnega kapitala ali nepremičninske sklade, ter poudarja pomen razumevanja širšega družbenega konteksta naložb.",
-      "vpliv": [
-        "Potencialne regulativne omejitve za zasebni kapital na področju nepremičnin",
-        "Možna umiritev ali padec cen nepremičnin v ZDA",
-        "Vpliv na delnice gradbenih podjetij in REITs",
-        "Povečana pozornost na dostopnost stanovanj"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-27T04:00:11.000Z"
-    },
-    {
-      "naslov": "Velika podjetja opozarjajo na pomanjkanje 'odprtosti AI' v Evropi",
+      "naslov": "Lowe's uvaja storitev dostave z droni v partnerstvu z DoorDash in Alphabet",
       "sektor": "Tehnologija & AI",
-      "smer": "negativno",
+      "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Velika mednarodna podjetja opozarjajo, da bi lahko pomanjkanje 'odprtosti' na področju umetne inteligence (AI) v Evropi zavrlo naložbe. Finančni časopis (FT) z dne 27. septembra 2026 navaja izvršne direktorje, ki pravijo, da podjetja ocenjujejo pristope držav do AI pred načrtovanjem širitve. To nakazuje na potencialno konkurenčno pomanjkljivost Evrope v primerjavi z drugimi regijami glede privabljanja naložb v AI.",
-      "analiza": "Opozorilo velikih podjetij o pomanjkanju 'odprtosti AI' v Evropi je ključno za prihodnje naložbe v sektor tehnologije. To lahko vpliva na konkurenčnost Evrope v globalni AI tekmi. Posledice: (1) Potencialno zmanjšanje tujih naložb v evropska podjetja, ki se ukvarjajo z AI, kar bi lahko upočasnilo rast sektorja. (2) Podjetja bi lahko prednostno vlagala v regije z bolj prožnimi ali jasnejšimi predpisi glede AI. (3) Vpliv na delnice evropskih tehnoloških podjetij, ki bi lahko zaostajale za svojimi ameriškimi ali azijskimi konkurenti. (4) Potencialno povečanje pritiska na evropske vlade, da prilagodijo svoje regulativne okvire za AI, da bi ostale konkurenčne. Za slovenskega vlagatelja to pomeni, da je treba spremljati, kako se evropske države odzivajo na ta opozorila, saj lahko uspeh ali neuspeh pri privabljanju AI naložb dolgoročno vpliva na gospodarsko rast in donosnost naložb v tehnološke delnice v regiji.",
+      "povzetek": "Lowe's, eden največjih trgovcev z izdelki za dom, uvaja storitev dostave z droni. To storitev razvija v partnerstvu s podjetjem DoorDash in Alphabetovim Wingom. Novica, ki jo je ekskluzivno pridobil CNBC, poudarja, da gre za pomemben korak v avtomatizaciji logistike in dostave. Cilj je izboljšati hitrost in učinkovitost dostave izdelkov do strank, kar bi lahko preoblikovalo maloprodajno industrijo. Novica je bila objavljena 27. septembra 2026 ob 19:02:10 UTC.",
+      "analiza": "Uvedba dostave z droni s strani velikega trgovca, kot je Lowe's, v sodelovanju s tehnološkimi giganti, kot je Alphabet, predstavlja pomemben mejnik v razvoju e-trgovine in logistike. Ta poteza kaže na nadaljnjo integracijo umetne inteligence in avtomatizacije v vsakdanje poslovanje. Za tehnološki sektor to pomeni potrditev potenciala dronov in AI v komercialne namene, kar lahko spodbudi nadaljnje investicije v razvoj tovrstnih rešitev. Za maloprodajni sektor pa to pomeni pritisk na konkurenco, da sledi inovacijam, kar lahko dolgoročno zmanjša stroške dostave in izboljša uporabniško izkušnjo. Podjetja, ki so vpletena v to partnerstvo (Lowe's, DoorDash, Alphabet), lahko pričakujejo povečano zanimanje vlagateljev. Vpliv na širše trge bi bil pozitiven, saj inovacije običajno spodbujajo produktivnost in gospodarsko rast. Slovenski dolgoročni vlagatelj naj bo pozoren na podjetja, ki so v ospredju tehnoloških inovacij v logistiki in e-trgovini, saj imajo potencial za dolgoročno rast.",
       "vpliv": [
-        "Potencialno zmanjšanje tujih naložb v evropska AI podjetja",
-        "Evropska podjetja bi lahko zaostajala za konkurenti",
-        "Pritisk na evropske vlade za prilagoditev regulativ AI",
-        "Vpliv na rast evropskega tehnološkega sektorja"
+        "Spodbujanje inovacij v logistiki in e-trgovini",
+        "Potencialno zmanjšanje stroškov dostave",
+        "Povečano zanimanje za delnice vpletenih podjetij",
+        "Pritisk na konkurenco v maloprodaji"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/09/24/lowes-drones-delivery-doordash-alphabet.html",
+      "objavljeno": "2026-09-27T19:02:10.000Z"
+    },
+    {
+      "naslov": "Micron bi lahko prekosil Nvidio kot gonilna sila rasti dobička S&P 500",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Podjetje Micron Technology, proizvajalec pomnilniških čipov, postaja vse pomembnejše za indeks S&P 500. MarketWatch poroča, da bi lahko Micron celo prekosil Nvidio in postal največji gonilnik rasti dobička indeksa S&P 500. Poročilo o dobičku Microna je postalo 'tržni dogodek sam po sebi', kar kaže na njegov naraščajoč vpliv in pomen v tehnološkem sektorju. Novica je bila objavljena 27. septembra 2026 ob 14:00:00 UTC.",
+      "analiza": "Ta novica poudarja dinamično naravo tehnološkega sektorja in hitro spreminjajočo se hierarhijo med ključnimi igralci. Nvidia je bila v zadnjem obdobju sinonim za rast, predvsem zaradi povpraševanja po čipih za umetno inteligenco. Če Micron dejansko postane največji gonilnik rasti dobička S&P 500, to kaže na močno povpraševanje po pomnilniških rešitvah, ki so ključne za podatkovne centre, AI in druge napredne tehnologije. To bi lahko pomenilo premik fokusa vlagateljev zgolj z AI procesorjev na širši ekosistem polprevodnikov. Za delniške trge je to pozitivna novica, saj nakazuje na močno rast dobičkov v ključnem sektorju. Delnice Microna bi se lahko okrepile, medtem ko bi se lahko vpliv Nvidie na celoten indeks nekoliko zmanjšal, čeprav ostaja ključen igralec. Slovenski dolgoročni vlagatelj naj bo pozoren na širše trende v polprevodniški industriji in diverzifikacijo znotraj tehnološkega sektorja, saj se priložnosti za rast nenehno spreminjajo.",
+      "vpliv": [
+        "Potencialna rast delnic Microna",
+        "Sprememba dinamike v tehnološkem sektorju",
+        "Pozitiven vpliv na rast dobička S&P 500",
+        "Povečano povpraševanje po pomnilniških čipih"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-27T14:00:00.000Z"
+    },
+    {
+      "naslov": "Burnham nakazuje boj za volitve s povišanjem davkov za reformo socialne oskrbe",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Britanski premier Burnham je nakazal, da se bo na volitvah boril s platformo, ki vključuje povišanje davkov za financiranje reforme socialne oskrbe. Financial Times poroča, da je premier dejal, da bo preoblikovanje 'težko' izvesti v sedanjem parlamentu. Ta poteza kaže na prioriteto reševanja vprašanj socialne oskrbe, kar pa bo imelo neposredne fiskalne posledice za državo in njene državljane. Novica je bila objavljena 27. septembra 2026 ob 17:27:27 UTC.",
+      "analiza": "Napoved morebitnega povišanja davkov v Združenem kraljestvu za financiranje socialne oskrbe je pomembna makroekonomska novica. Povečanje davkov lahko na eni strani zagotovi stabilnejše financiranje javnih storitev, na drugi pa lahko zmanjša razpoložljivi dohodek gospodinjstev in dobičke podjetij, kar bi lahko upočasnilo gospodarsko rast. Za britanski funt bi takšna politika lahko pomenila negotovost, odvisno od tega, kako bi trgi ocenili dolgoročno vzdržnost javnih financ proti kratkoročnemu vplivu na potrošnjo in investicije. Obvezniški trgi bi lahko reagirali na spremembe v pričakovanjih glede vladnega zadolževanja in inflacije. Za delniške trge bi podjetja, ki so močno odvisna od domače potrošnje, lahko občutila pritisk, medtem ko bi sektorji, ki so povezani s socialno oskrbo, lahko imeli koristi. Slovenski dolgoročni vlagatelj naj bo pozoren na fiskalne politike v večjih gospodarstvih, saj lahko te pomembno vplivajo na globalno gospodarsko okolje in s tem na donosnost naložb.",
+      "vpliv": [
+        "Potencialno zmanjšanje gospodarske rasti Združenega kraljestva",
+        "Vpliv na razpoložljivi dohodek in dobičke podjetij",
+        "Negotovost za britanski funt",
+        "Spremembe v pričakovanjih glede vladnega zadolževanja"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-27T04:00:11.000Z"
+      "vir_url": "https://www.ft.com/content/23cd91df-80c5-45c0-9175-d61b74404f12?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-27T17:27:27.000Z"
+    },
+    {
+      "naslov": "Velikanske pande prispele v Atlanto v okviru 10-letnega sporazuma med ZDA in Kitajsko",
+      "sektor": "Geopolitika",
+      "smer": "pozitivno",
+      "intenziteta": 1,
+      "povzetek": "Dve velikanski pandi, Ping Ping in Fu Shuang, sta prispeli v Atlanto iz jugozahodne Kitajske. Njihov prihod je del 10-letnega sporazuma med ZDA in Kitajsko. Al Jazeera poroča, da gre za pomemben diplomatski dogodek, ki simbolizira 'diplomacijo pand', s katero državi krepita medsebojne odnose. Pande so prispele 27. septembra 2026 ob 17:07:33 UTC.",
+      "analiza": "Prihod pand v ZDA je primer t.i. 'diplomacije pand', ki jo Kitajska uporablja za krepitev odnosov z drugimi državami. Čeprav se morda zdi nepomembno za finančne trge, je to pomemben simboličen korak v odnosih med ZDA in Kitajsko, dvema največjima gospodarstvoma na svetu. Izboljšanje diplomatskih odnosov lahko dolgoročno zmanjša trgovinske napetosti in ustvari bolj stabilno okolje za mednarodno poslovanje. To lahko posredno vpliva na globalne dobavne verige, investicije in trgovino. Za delniške trge bi to lahko pomenilo zmanjšanje geopolitičnega tveganja, kar je na splošno pozitivno za tvegane naložbe. Stabilnejši odnosi med velesilami so ugodni za globalno gospodarsko rast. Slovenski dolgoročni vlagatelj naj razume, da tudi 'mehka' diplomacija, kot je ta, lahko prispeva k širši stabilnosti, ki je predpogoj za zdravo rast finančnih trgov.",
+      "vpliv": [
+        "Izboljšanje diplomatskih odnosov med ZDA in Kitajsko",
+        "Potencialno zmanjšanje trgovinskih napetosti",
+        "Zmanjšanje geopolitičnega tveganja",
+        "Pozitiven vpliv na globalno gospodarsko stabilnost"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss",
+      "objavljeno": "2026-09-27T17:07:33.000Z"
+    },
+    {
+      "naslov": "Nevihta Nor'easter povzročila zamude na stotinah letov, letalske družbe odpovedale stroške",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 1,
+      "povzetek": "Vzhodno obalo ZDA je prizadela močna nevihta Nor'easter, ki je povzročila zamude na stotinah letov. CNBC poroča, da so letalske družbe odpovedale stroške sprememb letov za potnike, ki so jih prizadele motnje. Največje motnje so bile zabeležene v Bostonu čez vikend. Novica je bila objavljena 27. septembra 2026 ob 18:43:21 UTC.",
+      "analiza": "Vremenske motnje, kot je nevihta Nor'easter, imajo neposreden vpliv na sektor letalstva in turizma. Zamude in odpovedi letov povzročajo finančne izgube letalskim družbam zaradi stroškov preusmeritev, nadomestil in izpada prihodkov. Odpoved stroškov sprememb letov je standardna praksa v takšnih primerih, vendar dodatno obremenjuje bilance letalskih prevoznikov. Za delniške trge to pomeni kratkoročni negativen pritisk na delnice letalskih družb in podjetij v turističnem sektorju, ki poslujejo na prizadetih območjih. Vpliv na širše gospodarstvo je običajno omejen, razen če gre za dolgotrajne in obsežne motnje. Vendar pa takšni dogodki poudarjajo ranljivost nekaterih sektorjev na ekstremne vremenske pojave, kar je trend, ki se lahko v prihodnosti zaradi podnebnih sprememb stopnjuje. Slovenski dolgoročni vlagatelj naj upošteva, da so nekateri sektorji, kot je letalstvo, bolj izpostavljeni specifičnim tveganjem, vključno z vremenskimi vplivi, kar lahko povzroči kratkoročno volatilnost.",
+      "vpliv": [
+        "Kratkoročne izgube za letalske družbe",
+        "Motnje v potovalnem prometu",
+        "Negativen vpliv na delnice letalskih in turističnih podjetij",
+        "Poudarja ranljivost na ekstremne vremenske pojave"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+      "objavljeno": "2026-09-27T18:43:21.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-27T09:59:36.246Z",
+    "posodobljenoOb": "2026-09-27T19:11:34.442Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -198,8 +181,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 84913.12,
-        "sprememba_pct": 0.57,
+        "vrednost": 84778.28,
+        "sprememba_pct": 0.41,
         "enota": "USD"
       }
     ],
