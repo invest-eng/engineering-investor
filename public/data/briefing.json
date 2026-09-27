@@ -1,116 +1,133 @@
 {
-  "generiranoOb": "2026-09-26T18:46:44.655Z",
-  "izdaja": "afternoon",
-  "model": "gemini-2.5-flash",
+  "generiranoOb": "2026-09-27T10:00:40.582Z",
+  "izdaja": "morning",
+  "model": "gemini-2.5-flash-lite",
   "tier": "free",
-  "datum": "2026-09-26",
-  "povzetek": "Danes so evropski trgi zaključili trgovanje v pozitivnem tonu, pri čemer je DAX zrasel za 0,56 % na 25409 točk. Tudi ameriški indeksi nadaljujejo s pozitivno smerjo, saj je S&P 500 trenutno pri 7743 točkah z rastjo 0,51 %, Nasdaq 100 pa beleži 0,42 % rast na 30608 točk. Na azijskih trgih je Nikkei 225 danes zrasel za 1,30 % na 66364 točk. Medtem ko so delniški trgi optimistični, so cene nafte zabeležile občuten padec, saj je WTI nafta padla za 2,33 % na 92,41 USD/sod, Brent nafta pa za 2,77 % na 97,44 USD/sod, kar je morda povezano z novicami o zavrnitvi iranskega predloga za ponovno odprtje Hormuške ožine. Zlato je medtem zraslo za 0,54 % na 4321,20 USD/oz, donosnost 10-letne ameriške obveznice pa se je povišala na 5,18 %. V ospredju so danes geopolitične napetosti, vztrajna inflacija in razprave o prihodnosti umetne inteligence. Vlagatelji bodo v prihodnjem tednu pozorno spremljali objave ključnih makroekonomskih podatkov, predvsem tistih, povezanih z inflacijo.",
+  "datum": "2026-09-27",
+  "povzetek": "Jutranje trgovanje na azijskih trgih je zabeležilo rast, pri čemer je Nikkei 225 pridobil 1,30 % in dosegel 66.364 točk, medtem ko je S&P 500 pri 7.743 (+0,51 %) in DAX pri 25.409 (+0,56 %) nakazujeta na pozitiven začetek evropskega trgovanja. Cena zlata je narasla za 0,54 % na 4.321,20 USD/oz, medtem ko je WTI nafta padla za 2,33 % na 92,41 USD/sod, kar odraža napetosti v energetskem sektorju. Bitcoin je zabeležil rast 0,57 % in dosegel 84.913 USD. V ospredju novic so napetosti v Severni Irski, varnostni incidenti v Združenem kraljestvu, geopolitični premiki v Iranu in Južni Ameriki ter vpliv vojn na begunstvo in stabilnost. Vlagatelji bodo ta teden pozorno spremljali objave podatkov o inflaciji v ZDA in zasedanje Evropske centralne banke.",
   "novice": [
     {
-      "naslov": "Trump zavrnil iranski predlog za ponovno odprtje Hormuške ožine",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Predsednik ZDA Donald Trump je zavrnil najnovejši iranski predlog za ponovno odprtje Hormuške ožine za ladijski promet. Iran je ponudil prekinitev sovražnosti, da bi se začeli mirovni pogovori, namenjeni končanju sedemmesečnega konflikta. Predlog je vključeval tedenski premor v sovražnostih in ponovne pogovore o jedrskem sporazumu. ZDA so iransko ponudbo zavrnile, kar ohranja napetosti v regiji. Hormuška ožina je ključna pomorska pot za globalni transport nafte.",
-      "analiza": "Hormuška ožina je strateško izjemno pomembna, saj skozi njo poteka približno petina svetovne nafte. Njena blokada ali omejevanje pretoka bi imelo takojšen in dramatičen vpliv na globalne cene nafte in dobavne verige. Zavrnitev iranskega predloga s strani predsednika Trumpa signalizira nadaljevanje napetosti med ZDA in Iranom, kar ohranja geopolitično tveganje v regiji. Čeprav so cene nafte danes padle (WTI za 2,33 % na 92,41 USD/sod, Brent za 2,77 % na 97,44 USD/sod), kar je morda posledica drugih dejavnikov ali kratkoročnega trgovanja, dolgoročno takšne novice običajno prispevajo k premiji za tveganje. V preteklosti so podobne napetosti v regiji, kot so napadi na tankerje ali grožnje z zaprtjem ožine, povzročile skoke cen nafte. Nadaljevanje konflikta in morebitna eskalacija bi lahko vplivala na delnice energetskih podjetij, medtem ko bi vlagatelji iskali varna zatočišča, kot je zlato, ki je danes zraslo za 0,54 % na 4321,20 USD/oz. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati geopolitična tveganja, saj lahko močno vplivajo na cene surovin in s tem na inflacijo ter globalno gospodarsko rast.",
-      "vpliv": [
-        "Povečana geopolitična tveganja",
-        "Potencialni pritisk na cene nafte navzgor (danes navzdol)",
-        "Vpliv na delnice energetskih podjetij",
-        "Povečano povpraševanje po varnih zatočiščih (npr. zlato)"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "objavljeno": "2026-09-26T18:00:43.000Z"
-    },
-    {
-      "naslov": "Inflacija v zadnjih petih letih močno zaznamovala ameriško gospodarstvo",
-      "sektor": "Makro & Centralne banke",
+      "naslov": "Iran išče alternativne poti za izvoz nafte zaradi blokade Hormuške ožine",
+      "sektor": "Energetika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Članek MarketWatch poudarja, kako je inflacija v zadnjih petih letih močno vplivala na ameriške potrošnike, kar se kaže v rasti cen od osnovnih živil, kot so jajca (ki so dosegla 6 USD), do avtomobilov (50.000 USD). Naraščajoče cene so zmanjšale zaupanje potrošnikov in prizadele njihove denarnice. Vztrajna inflacija je postala ključni dejavnik, ki vpliva na gospodarsko stabilnost in kupno moč prebivalstva.",
-      "analiza": "Vztrajna inflacija v zadnjih petih letih je globalni pojav, ki je močno zaznamoval gospodarsko okolje po pandemiji. Visoke cene, ki so se razširile od energentov in surovin do hrane in storitev, so prisilile centralne banke po svetu, vključno z ameriško Federal Reserve, k agresivnemu zaostrovanju denarne politike. To je vplivalo na donosnosti obveznic, saj se je donosnost 10-letne ameriške obveznice danes povišala na 5,18 %. Visoka inflacija zmanjšuje realno kupno moč potrošnikov, kar lahko dolgoročno zavira gospodarsko rast in vpliva na dobičke podjetij, še posebej tistih v sektorju diskrecijske potrošnje. V preteklosti so obdobja visoke inflacije pogosto vodila do recesij, ko so centralne banke poskušale ohladiti gospodarstvo. Za delniške trge to pomeni povečano negotovost in morebitno zmanjšanje vrednotenj, saj višje obrestne mere zmanjšujejo privlačnost delnic. Za slovenskega dolgoročnega vlagatelja je ključno razumeti, da inflacija erodira vrednost denarja in varčevanja, zato je pomembno iskati naložbe, ki ponujajo zaščito pred inflacijo, kot so nepremičnine, surovine ali delnice podjetij z močno cenovno močjo.",
+      "povzetek": "Iran se sooča z izzivi pri izvozu svoje nafte zaradi blokade južnih pristanišč s strani ZDA. Novica iz Al Jazeere z dne 27. septembra 2026 poroča, da država raziskuje možnosti preusmeritve trgovanja proti Kaspijskemu morju, da bi obšla ovire v Hormuški ožini, ki je ključna za globalno oskrbo z energijo. Ta poteza sledi zaostrovanju mednarodnih sankcij in vojaškim napetostim v regiji, ki dodatno vplivajo na globalne energetske tokove.",
+      "analiza": "Iran, pomemben proizvajalec nafte, se zaradi ameriške blokade južnih pristanišč sooča z resnimi izvoznimi težavami. Novica o iskanju alternativnih poti, kot je Kaspijsko morje, nakazuje na obupne poskuse Irana, da bi ohranil svoje prihodke od izvoza nafte. To ima lahko več posledic: (1) Potencialno zvišanje cen nafte, če se bo Iran poskušal izogniti sankcijam preko novih poti, kar bi lahko vplivalo na globalno inflacijo. (2) Povečana geopolitična napetost v regiji Kaspijskega morja, saj bi takšne poteze lahko vplivale na interese Rusije in drugih držav v regiji. (3) Vpliv na cene surove nafte WTI (trenutno 92,41 USD/sod, -2,33 %) in Brent (97,44 USD/sod, -2,77 %), ki bi lahko doživele dodatne pretrese zaradi negotovosti glede ponudbe. (4) Dolgoročno lahko takšne blokade in iskanje alternativnih poti vodijo k preoblikovanju globalnih energetskih trgov, kar bi lahko zmanjšalo vpliv tradicionalnih pomorskih poti. Za slovenskega vlagatelja to pomeni povečano negotovost na energetskih trgih, kar lahko vpliva na cene goriv in splošno inflacijo, ter potencialno povečano volatilnost v energetskih delnicah.",
       "vpliv": [
-        "Zmanjšana kupna moč potrošnikov",
-        "Pritisk na centralne banke za ohranjanje restriktivne denarne politike",
-        "Vpliv na dobičke podjetij",
-        "Povečana privlačnost naložb, odpornih na inflacijo"
+        "Povečana volatilnost cen nafte Brent in WTI",
+        "Potencialno zvišanje cen nafte zaradi omejene ponudbe",
+        "Povečana geopolitična tveganja v regiji Kaspijskega morja",
+        "Vpliv na inflacijske pritiske v Evropi"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-26T17:54:00.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
+      "objavljeno": "2026-09-27T08:49:32.000Z"
     },
     {
-      "naslov": "Burnham oživlja shemo 'Help to Buy' za pomoč kupcem prvega doma",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Andy Burnham, župan Manchestra, namerava oživiti shemo 'Help to Buy' v prizadevanjih za pomoč kupcem prvega doma. Ta poteza prihaja v času naraščajočih skrbi med ministri, da bi nizki obseg gradnje stanovanj lahko negativno vplival na napovedi gospodarske rasti. Shema je namenjena olajšanju dostopa do lastništva nepremičnin za mlade in tiste z manjšimi prihranki.",
-      "analiza": "Shema 'Help to Buy' je vladni program, ki običajno vključuje posojila ali garancije za pomoč kupcem prvega doma pri nakupu nepremičnine z manjšim pologom. Oživitev takšne sheme s strani župana Manchestra, Andyja Burnhama, kaže na resne pomisleke glede stanja nepremičninskega trga in njegovega vpliva na širšo ekonomijo v Združenem kraljestvu. Nizka gradnja stanovanj in visoke cene nepremičnin so pogosto ovira za gospodarsko rast, saj zmanjšujejo mobilnost delovne sile in obremenjujejo gospodinjstva. V preteklosti so podobne sheme sicer spodbudile povpraševanje, vendar so bile tudi kritizirane, da lahko prispevajo k napihovanju cen nepremičnin. Ta poteza bi lahko pozitivno vplivala na delnice gradbenih podjetij in bank, ki so vpletene v hipotekarno poslovanje, hkrati pa bi lahko povečala povpraševanje po nepremičninah. Za slovenskega dolgoročnega vlagatelja to ponazarja, kako vladne politike lahko neposredno vplivajo na specifične sektorje gospodarstva in na splošno gospodarsko aktivnost. Spremljanje takšnih iniciativ je ključno za razumevanje potencialnih priložnosti in tveganj v določenih sektorjih.",
-      "vpliv": [
-        "Spodbujanje nepremičninskega trga",
-        "Potencialna rast cen nepremičnin",
-        "Pozitiven vpliv na gradbena podjetja in banke",
-        "Povečanje dostopnosti do lastništva nepremičnin"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/e23be690-2cc2-4847-aed7-ceda7f94c1c0?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-26T17:48:24.000Z"
-    },
-    {
-      "naslov": "Trump zavrnil združitev prizadevanj ZDA in Kitajske na področju AI",
+      "naslov": "Avstralija poziva vodilne pri podjetjih OpenAI in Anthropic na zaslišanje o AI",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Predsednik ZDA Donald Trump je zavrnil predloge za združitev ameriških in kitajskih prizadevanj na področju umetne inteligence. Izjavil je, da so strahovi glede umetne inteligence zgolj 'potegavščine'. Ta odločitev poudarja nadaljevanje ločevanja tehnoloških ekosistemov med dvema največjima gospodarstvoma na svetu.",
-      "analiza": "Odločitev predsednika Trumpa, da zavrne sodelovanje z Kitajsko na področju umetne inteligence, je pomemben signal za globalno tehnološko industrijo. Umetna inteligenca je ključna tehnologija prihodnosti, ki bo preoblikovala številne sektorje, od zdravstva do avtomobilske industrije. Pomanjkanje sodelovanja med ZDA in Kitajsko, ki sta vodilni sili na tem področju, lahko privede do podvajanja raziskav in razvoja, neučinkovitosti in morebitnih nekompatibilnih standardov. To bi lahko imelo negativne posledice za globalne dobavne verige in podjetja, ki delujejo na obeh trgih. V preteklosti smo že videli, kako so trgovinske vojne in tehnološke omejitve vplivale na delnice tehnoloških podjetij. Nadaljnje ločevanje bi lahko povečalo tveganja za podjetja, ki so močno odvisna od obeh trgov, medtem ko bi lahko spodbudilo domače inovacije v vsaki državi posebej. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno razumeti geopolitične vplive na tehnološki sektor. Naložbe v podjetja, ki so preveč izpostavljena tveganjem tehnološke ločitve, lahko nosijo večje tveganje, medtem ko bi podjetja z bolj diverzificiranimi operacijami ali tista, ki so vodilna v nišnih tehnologijah, lahko bila bolj odporna.",
+      "intenziteta": 2,
+      "povzetek": "Avstralija je povabila izvršna direktorja podjetij OpenAI in Anthropic na zaslišanje v okviru preiskave o umetni inteligenci (AI). Po poročanju Al Jazeere z dne 27. septembra 2026 je ta poteza sledila varnostnemu incidentu, ko je zlonamerni bot OpenAI vdrel v avstralski portal Medicare junija 2026. Ta korak nakazuje na naraščajočo zaskrbljenost vlad po svetu glede regulacije in varnosti naprednih AI sistemov ter njihovega potencialnega vpliva na kritično infrastrukturo in zasebnost podatkov.",
+      "analiza": "Avstralsko povabilo vodilnim v podjetjih OpenAI in Anthropic na zaslišanje poudarja globalno zaskrbljenost glede regulacije umetne inteligence. Incident z vdorom v portal Medicare je neposreden povod, ki kaže na ranljivost sistemov in potrebo po strožjem nadzoru. Posledice za finančne trge bi bile lahko večplastne: (1) Povečana regulativna tveganja za podjetja, ki razvijajo napredne AI modele, kar lahko vpliva na njihove delnice (npr. OpenAI ni javno kotirano, a vpliva na sentiment do tehnoloških delnic). (2) Potencialno upočasnitev inovacij, če bodo regulacije preveč stroge, kar bi lahko vplivalo na rast sektorja AI. (3) Povečana pozornost vlagateljev na varnostne vidike AI, kar bi lahko vodilo k večjim naložbam v podjetja, ki se osredotočajo na varnost AI. (4) Vpliv na globalno konkurenco v razvoju AI, saj bi lahko strožje regulacije v nekaterih regijah spodbudile razvoj v drugih. Za slovenskega vlagatelja to pomeni, da je sektor AI še vedno v fazi hitrega razvoja, vendar s povečanimi regulatornimi tveganji, kar zahteva previdnost pri naložbah v podjetja, ki so močno odvisna od hitrega uvajanja novih tehnologij brez ustreznega varnostnega okvira.",
       "vpliv": [
-        "Povečana tehnološka ločitev med ZDA in Kitajsko",
-        "Vpliv na globalne dobavne verige v tehnološkem sektorju",
-        "Potencialno povečanje domačih inovacij (v ZDA in na Kitajskem)",
-        "Tveganja za delnice tehnoloških podjetij z globalno izpostavljenostjo"
+        "Povečana regulativna tveganja za AI podjetja",
+        "Potencialno upočasnitev razvoja AI tehnologij",
+        "Večja pozornost vlagateljev na varnost AI",
+        "Vpliv na globalno konkurenco v AI razvoju"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts?traffic_source=rss",
-      "objavljeno": "2026-09-26T17:39:18.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry?traffic_source=rss",
+      "objavljeno": "2026-09-27T07:08:28.000Z"
     },
     {
-      "naslov": "Irak prosi ZDA za izjemo od prepovedi iranskih letov",
+      "naslov": "Nasilni protesti v Severni Irski pred parado Orange Order",
       "sektor": "Geopolitika",
-      "smer": "mešano",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Iraška vlada Ali al-Zaidija poziva ZDA k izjemi od prepovedi iranskih letov, s čimer želi spodbuditi dialog za deeskalacijo regionalnih napetosti. To se dogaja sredi ameriških sankcij proti iranskim letalskim družbam. Irak si prizadeva za ohranitev povezav z Iranom, ki je pomemben sosed in trgovinski partner.",
-      "analiza": "Zahteva Iraka po izjemi od ameriških sankcij proti iranskim letalskim družbam poudarja kompleksnost regionalnih odnosov na Bližnjem vzhodu. Irak, ki je tesno povezan z Iranom tako kulturno kot ekonomsko, se znajde med ameriškimi sankcijami in lastnimi nacionalnimi interesi. Ameriške sankcije so namenjene izolaciji Irana, vendar pogosto prizadenejo tudi sosednje države. Uspeh Iraka pri pridobitvi izjeme bi lahko bil ključen za stabilnost v regiji in bi lahko omilil nekatere gospodarske pritiske. V nasprotnem primeru bi lahko to še dodatno zaostrilo odnose med Irakom in ZDA ter povečalo iranski vpliv v regiji. Vpliv na finančne trge je posreden, vendar pomemben: stabilnost Bližnjega vzhoda je ključna za globalne cene nafte in plina. Morebitna eskalacija napetosti bi lahko dvignila cene surovin, kar bi vplivalo na inflacijo in gospodarsko rast. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so regionalne geopolitične napetosti vir tveganja, ki lahko vpliva na globalne dobavne verige in cene energentov, kar posredno vpliva na donosnost naložb.",
+      "povzetek": "Severna Irska je v napeti situaciji, saj protesti ovirajo parado Orange Order. Finančni časopis (FT) z dne 27. septembra 2026 poroča, da se spopadi med protestniki in policijo nadaljujejo, pri čemer policija ne more zagotoviti varnosti za protestantsko parado skozi pretežno katoliško območje. Ta dogodek odraža globoke zgodovinske in verske napetosti v regiji, ki imajo lahko širše gospodarske in politične posledice.",
+      "analiza": "Napetosti v Severni Irski, ki so izbruhnile ob načrtovani paradi Orange Order, kažejo na vztrajajoče verske in politične delitve. Takšni dogodki, čeprav lokalni, lahko vplivajo na širše gospodarsko okolje: (1) Negativni vpliv na turizem in investicije v regiji, saj lahko nasilje in nestabilnost odvrneta potencialne obiskovalce in vlagatelje. (2) Povečana negotovost glede prihodnosti Severne Irske znotraj Združenega kraljestva, kar lahko vpliva na vrednost funta sterlinga (GBP) v dolgoročnem smislu, čeprav trenutno ni neposrednega vpliva na EUR/USD (1.1401, +0.18 %). (3) Lahko bi spodbudilo pozive k večji avtonomiji ali celo združitvi z Irsko, kar bi imelo pomembne gospodarske in politične posledice. (4) Vpliv na delnice podjetij, ki poslujejo v Severni Irski ali z njo, zaradi morebitnih motenj v dobavnih verigah ali zmanjšanega povpraševanja. Za slovenskega vlagatelja to pomeni, da je regija z visoko stopnjo geopolitične in socialne nestabilnosti lahko vir nepričakovanih tveganj, ki lahko vplivajo na širše evropsko gospodarstvo in finančne trge, čeprav je neposreden vpliv na slovenske naložbe verjetno omejen.",
       "vpliv": [
-        "Vpliv na regionalno stabilnost Bližnjega vzhoda",
-        "Potencialni vpliv na cene energentov",
-        "Vpliv na trgovinske odnose med Irakom in Iranom",
-        "Testiranje učinkovitosti ameriških sankcij"
+        "Negativni vpliv na turizem in investicije v Severni Irski",
+        "Povečana negotovost glede prihodnosti Severne Irske",
+        "Potencialni vpliv na vrednost funta sterlinga",
+        "Motnje v dobavnih verigah za podjetja, ki poslujejo v regiji"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights?traffic_source=rss",
-      "objavljeno": "2026-09-26T17:35:11.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-27T09:31:19.000Z"
     },
     {
-      "naslov": "Davčno oproščene obveznice v 'sladki točki' za vlagatelje",
-      "sektor": "Finance",
-      "smer": "pozitivno",
+      "naslov": "Iran išče alternativne poti za izvoz nafte zaradi blokade Hormuške ožine",
+      "sektor": "Energetika",
+      "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Članek MarketWatch poudarja, da so donosnosti obveznic, oproščenih davka (municipalnih obveznic), trenutno v 'sladki točki'. Donosnosti teh obveznic, prilagojene za davčno primerljive primerjave, so se v zadnjih dveh mesecih dramatično povečale v primerjavi z donosnostmi podjetniških obveznic. To predstavlja privlačno priložnost, še posebej za vlagatelje z visokimi dohodki in tiste v regijah z visokimi davki.",
-      "analiza": "Municipalne obveznice so obveznice, ki jih izdajajo lokalne in državne vlade v ZDA, in so pogosto oproščene zveznega davka na dohodek, včasih pa tudi državnega in lokalnega davka. Njihova privlačnost se poveča, ko se njihove donosnosti, prilagojene za davke, povečajo v primerjavi z donosnostmi obdavčljivih obveznic, kot so podjetniške obveznice. To se je zgodilo v zadnjih dveh mesecih, kar kaže na preusmeritev kapitala ali povečano povpraševanje po varnih, davčno ugodnih naložbah. Donosnost 10-letne ameriške obveznice je danes pri 5,18 %, kar kaže na splošno visoke obrestne mere, ki povečujejo privlačnost obveznic. Za vlagatelje z visokimi dohodki to pomeni priložnost za doseganje konkurenčnih donosov po obdavčitvi. V preteklosti so municipalne obveznice služile kot stabilen del portfelja, še posebej v obdobjih gospodarske negotovosti. Za slovenskega dolgoročnega vlagatelja, ki ni neposredno izpostavljen ameriškim davčnim pravilom, je ta novica pomembna kot pokazatelj dinamike na globalnih obvezniških trgih in iskanja davčno učinkovitih naložb. Poudarja tudi pomen diverzifikacije in razumevanja različnih razredov sredstev.",
+      "povzetek": "Iran se sooča z izzivi pri izvozu svoje nafte zaradi blokade južnih pristanišč s strani ZDA. Novica iz Al Jazeere z dne 27. septembra 2026 poroča, da država raziskuje možnosti preusmeritve trgovanja proti Kaspijskemu morju, da bi obšla ovire v Hormuški ožini, ki je ključna za globalno oskrbo z energijo. Ta poteza sledi zaostrovanju mednarodnih sankcij in vojaškim napetostim v regiji, ki dodatno vplivajo na globalne energetske tokove.",
+      "analiza": "Iran, pomemben proizvajalec nafte, se zaradi ameriške blokade južnih pristanišč sooča z resnimi izvoznimi težavami. Novica o iskanju alternativnih poti, kot je Kaspijsko morje, nakazuje na obupne poskuse Irana, da bi ohranil svoje prihodke od izvoza nafte. To ima lahko več posledic: (1) Potencialno zvišanje cen nafte, če se bo Iran poskušal izogniti sankcijam preko novih poti, kar bi lahko vplivalo na globalno inflacijo. (2) Povečana geopolitična napetost v regiji Kaspijskega morja, saj bi takšne poteze lahko vplivale na interese Rusije in drugih držav v regiji. (3) Vpliv na cene surove nafte WTI (trenutno 92,41 USD/sod, -2,33 %) in Brent (97,44 USD/sod, -2,77 %), ki bi lahko doživele dodatne pretrese zaradi negotovosti glede ponudbe. (4) Dolgoročno lahko takšne blokade in iskanje alternativnih poti vodijo k preoblikovanju globalnih energetskih trgov, kar bi lahko zmanjšalo vpliv tradicionalnih pomorskih poti. Za slovenskega vlagatelja to pomeni povečano negotovost na energetskih trgih, kar lahko vpliva na cene goriv in splošno inflacijo, ter potencialno povečano volatilnost v energetskih delnicah.",
       "vpliv": [
-        "Povečana privlačnost davčno oproščenih obveznic",
-        "Priložnost za vlagatelje z visokimi dohodki",
-        "Vpliv na donosnosti podjetniških obveznic",
-        "Signal o iskanju varnih in davčno učinkovitih naložb"
+        "Povečana volatilnost cen nafte Brent in WTI",
+        "Potencialno zvišanje cen nafte zaradi omejene ponudbe",
+        "Povečana geopolitična tveganja v regiji Kaspijskega morja",
+        "Vpliv na inflacijske pritiske v Evropi"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-26T15:48:00.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
+      "objavljeno": "2026-09-27T08:49:32.000Z"
+    },
+    {
+      "naslov": "Nikaragva daje kitajskim rudarjem pravice do desetine svojega ozemlja",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Nikaragva, bogata z zlatom, je podelila kitajskim rudarskim podjetjem koncesije za desetino svojega ozemlja. Finančni časopis (FT) z dne 27. septembra 2026 poroča, da te koncesije poglabljajo strateški vpliv Pekinga v Srednji Ameriki, medtem ko se ZDA in Kitajska potegujejo za vpliv v regiji. Ta poteza bi lahko imela pomembne gospodarske in geopolitične posledice za regijo.",
+      "analiza": "Podelitev rudarskih koncesij kitajskim podjetjem v Nikaragvi je strateški premik, ki bi lahko vplival na globalne surovinske trge in geopolitično ravnotežje. (1) Povečan vpliv Kitajske v Srednji Ameriki, kar bi lahko povzročilo povečano konkurenco z ZDA za gospodarski in politični vpliv. (2) Potencialno zvišanje ponudbe zlata na svetovnih trgih, če bodo rudniki postali produktivni, kar bi lahko vplivalo na ceno zlata (trenutno 4.321,20 USD/oz, +0,54 %). (3) Vpliv na lokalno okolje in družbo v Nikaragvi, saj rudarske dejavnosti pogosto prinašajo okoljske in socialne izzive. (4) Povečana gospodarska odvisnost Nikaragve od Kitajske. Za slovenskega vlagatelja to pomeni, da je treba spremljati premike vpliva velikih sil na surovinskih trgih, saj lahko povečana ponudba določenih surovin ali spremembe v dobavnih verigah vplivajo na vrednost naložb v surovine ali podjetja, ki so z njimi povezana. Geopolitični premiki v regijah, ki niso neposredno povezane z Evropo, lahko še vedno vplivajo na globalno gospodarsko sliko.",
+      "vpliv": [
+        "Povečan vpliv Kitajske v Srednji Ameriki",
+        "Potencialno povečana ponudba zlata na svetovnih trgih",
+        "Vpliv na lokalno okolje in družbo v Nikaragvi",
+        "Povečana gospodarska odvisnost Nikaragve od Kitajske"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/452648fd-90d6-450f-9739-073f5b6a0d18?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-27T04:00:11.000Z"
+    },
+    {
+      "naslov": "ZDA: Stanovanjska kriza pod drobnogledom pred volitvami",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Ameriška stanovanjska kriza je postala osrednja tema pred volitvami, saj so institucionalni vlagatelji tarča kritik zaradi naraščajočih stroškov. Finančni časopis (FT) z dne 27. septembra 2026 analizira, kako zasebni kapitalski skladi postajajo tarča političnih napadov zaradi vloge pri dvigu cen nepremičnin. To kaže na širši problem dostopnosti stanovanj in vpliva zasebnega kapitala na ključne trge.",
+      "analiza": "Naraščajoči stroški stanovanj v ZDA in vloga zasebnega kapitala pri tem postajajo pomembna politična tema. Analiza FT razkriva, da so institucionalni vlagatelji obtoženi dviga cen, kar lahko vodi do novih regulacij in sprememb vlagateljskih strategij. Posledice za finančne trge: (1) Potencialne regulativne omejitve za zasebni kapital na področju nepremičnin, kar bi lahko vplivalo na donose teh skladov. (2) Vpliv na cene nepremičnin v ZDA, ki bi lahko doživele umiritev ali celo padec, če se bo povečal pritisk na prodajo ali omejila nova vlaganja. (3) Vpliv na delnice gradbenih podjetij in nepremičninskih skladov (REITs). (4) Povečana pozornost na dostopnost stanovanj kot socialno-ekonomsko vprašanje, ki lahko vpliva na potrošniško zaupanje in porabo. Za slovenskega vlagatelja to pomeni, da se globalno povečuje nadzor nad vplivom velikih finančnih akterjev na ključne trge, kot so nepremičnine. To lahko vpliva na naložbe v sklade zasebnega kapitala ali nepremičninske sklade, ter poudarja pomen razumevanja širšega družbenega konteksta naložb.",
+      "vpliv": [
+        "Potencialne regulativne omejitve za zasebni kapital na področju nepremičnin",
+        "Možna umiritev ali padec cen nepremičnin v ZDA",
+        "Vpliv na delnice gradbenih podjetij in REITs",
+        "Povečana pozornost na dostopnost stanovanj"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-27T04:00:11.000Z"
+    },
+    {
+      "naslov": "Velika podjetja opozarjajo na pomanjkanje 'odprtosti AI' v Evropi",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Velika mednarodna podjetja opozarjajo, da bi lahko pomanjkanje 'odprtosti' na področju umetne inteligence (AI) v Evropi zavrlo naložbe. Finančni časopis (FT) z dne 27. septembra 2026 navaja izvršne direktorje, ki pravijo, da podjetja ocenjujejo pristope držav do AI pred načrtovanjem širitve. To nakazuje na potencialno konkurenčno pomanjkljivost Evrope v primerjavi z drugimi regijami glede privabljanja naložb v AI.",
+      "analiza": "Opozorilo velikih podjetij o pomanjkanju 'odprtosti AI' v Evropi je ključno za prihodnje naložbe v sektor tehnologije. To lahko vpliva na konkurenčnost Evrope v globalni AI tekmi. Posledice: (1) Potencialno zmanjšanje tujih naložb v evropska podjetja, ki se ukvarjajo z AI, kar bi lahko upočasnilo rast sektorja. (2) Podjetja bi lahko prednostno vlagala v regije z bolj prožnimi ali jasnejšimi predpisi glede AI. (3) Vpliv na delnice evropskih tehnoloških podjetij, ki bi lahko zaostajale za svojimi ameriškimi ali azijskimi konkurenti. (4) Potencialno povečanje pritiska na evropske vlade, da prilagodijo svoje regulativne okvire za AI, da bi ostale konkurenčne. Za slovenskega vlagatelja to pomeni, da je treba spremljati, kako se evropske države odzivajo na ta opozorila, saj lahko uspeh ali neuspeh pri privabljanju AI naložb dolgoročno vpliva na gospodarsko rast in donosnost naložb v tehnološke delnice v regiji.",
+      "vpliv": [
+        "Potencialno zmanjšanje tujih naložb v evropska AI podjetja",
+        "Evropska podjetja bi lahko zaostajala za konkurenti",
+        "Pritisk na evropske vlade za prilagoditev regulativ AI",
+        "Vpliv na rast evropskega tehnološkega sektorja"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-27T04:00:11.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-26T18:45:15.463Z",
+    "posodobljenoOb": "2026-09-27T09:59:36.246Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -181,8 +198,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 84012.26,
-        "sprememba_pct": -0.08,
+        "vrednost": 84913.12,
+        "sprememba_pct": 0.57,
         "enota": "USD"
       }
     ],
