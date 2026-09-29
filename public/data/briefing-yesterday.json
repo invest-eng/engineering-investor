@@ -1,162 +1,163 @@
 {
-  "generiranoOb": "2026-09-27T19:12:42.442Z",
+  "generiranoOb": "2026-09-28T21:26:27.303Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-09-27",
-  "povzetek": "Evropski delniški trgi so danes zaključili v pozitivnem območju, z DAX indeksom pri 25409 (+0.56 %), medtem ko so ameriški trgi, dve uri po odprtju, nadaljevali z rastjo, saj je S&P 500 pri 7743 (+0.51 %) in Nasdaq 100 pri 30608 (+0.42 %). Pozitivno razpoloženje je podprl tudi padec indeksa volatilnosti VIX za 5,11 % na 14,87. Na trgih surovin je bilo opazno znižanje cen nafte, saj je WTI padla za 2,33 % na 92,41 USD/sod, Brent pa za 2,77 % na 97,44 USD/sod, kljub poročilom o geopolitičnih napetostih v Hormuški ožini. Zlato je zabeležilo rast za 0,54 % na 4321,20 USD/oz, Bitcoin pa se je okrepil za 0,41 % na 84778 USD. Donosnost 10-letne ameriške obveznice je zrasla za 0,43 % na 5,18 %, kar kaže na pritisk na obvezniške trge. Med ključnimi novicami dneva izstopajo geopolitične napetosti med Iranom in ZDA, pomembne inovacije v tehnološkem sektorju s potencialnim vzponom Microna, ter razprave o fiskalni politiki v Združenem kraljestvu. Vlagatelji bodo v prihodnjih dneh pozorno spremljali objave ključnih makroekonomskih podatkov in morebitne izjave centralnih bankirjev.",
+  "datum": "2026-09-28",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, medtem ko so ameriški indeksi po dveh urah trgovanja prav tako kazali rdeče številke. Nemški DAX je dan zaključil z blagim padcem za 0,13 % pri 25374 točkah, medtem ko sta v ZDA S&P 500 in Nasdaq 100 izgubljala, in sicer S&P 500 za 0,77 % na 7684 točk in Nasdaq 100 za 1,08 % na 30277 točk. Vzrok za to so predvsem nadaljnji pritiski na obvezniške donose, saj je donos 10-letne ameriške državne obveznice zrasel za 1,08 % na 5,24 %, kar je povzročilo umik iz tveganih naložb, še posebej v tehnološkem sektorju. Cene nafte so se zvišale, saj je Brent zrasel za 1,15 % na 98,56 USD/sod, kar je prispevalo k zaskrbljenosti glede inflacije in vpliva na potrošnike, kar se odraža tudi v napovedih podjetij kot je PepsiCo o dvigu cen. Zlato je medtem močno padlo, za 4,00 % na 4148.50 USD/oz, medtem ko je Bitcoin izgubil 1,19 % in se giblje pri 83448 USD. VIX, indeks volatilnosti, je zrasel za 8,07 % na 16,07, kar kaže na povečano negotovost na trgu. Vlagatelji bodo ta teden pozorno spremljali objave o inflaciji in morebitne komentarje centralnih bank glede prihodnje denarne politike.",
   "novice": [
     {
-      "naslov": "Napetosti v Hormuški ožini vztrajajo, Iran in ZDA se oddaljujeta od dogovora",
-      "sektor": "Geopolitika",
+      "naslov": "Nvidia razkrila varnostno platformo za AI in ogromen odkup delnic",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Nvidia je danes predstavila novo varnostno platformo, zasnovano za preprečevanje 'podivjanja' umetno inteligentnih agentov, kar je odziv na incidente pri vodilnih podjetjih. Hkrati je podjetje napovedalo odkup lastnih delnic v vrednosti 150 milijard dolarjev, kar predstavlja največji odkup v zgodovini ameriških korporacij. Nova platforma poudarja Nvidiino zavezanost k varnosti in zanesljivosti v razvoju AI. Odkup delnic je namenjen povečanju vrednosti za delničarje in signalizira močno finančno stanje podjetja. To kaže na Nvidiino vodilno vlogo v sektorju AI in njeno sposobnost inovacij.",
+      "analiza": "Nvidia, ključni igralec v industriji čipov za umetno inteligenco, s to potezo utrjuje svoj položaj na trgu. Predstavitev varnostne platforme je pomembna v luči naraščajočih etičnih in varnostnih pomislekov glede AI, saj podjetja iščejo rešitve za zanesljivo implementacijo AI agentov. To bi lahko povečalo zaupanje v Nvidiine rešitve in privabilo nove stranke. Odkup delnic v vrednosti 150 milijard dolarjev je izjemno pomemben, saj zmanjšuje število delnic v obtoku in s tem povečuje dobiček na delnico, kar je običajno pozitivno za ceno delnice. Takšna poteza signalizira močno bilanco stanja in optimističen pogled uprave na prihodnje poslovanje. Za delnice Nvidie to pomeni močno podporo, medtem ko bi lahko širši tehnološki sektor dobil zagon zaradi poudarka na inovacijah in zaupanju v AI. Obvezniški trgi in valute so manj neposredno prizadeti, razen posredno preko splošnega sentimenta. Za slovenskega dolgoročnega vlagatelja to pomeni, da so podjetja v sektorju AI še vedno v fazi hitre rasti in inovacij, vendar je pomembno spremljati tudi regulatorne in varnostne vidike.",
+      "vpliv": [
+        "Nvidia napovedala odkup delnic v vrednosti 150 milijard dolarjev",
+        "Predstavitev nove varnostne platforme za AI",
+        "Povečanje zaupanja v AI sektor",
+        "Pozitiven vpliv na ceno delnic Nvidie"
+      ],
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback",
+      "objavljeno": "2026-09-28T19:24:07.000Z"
+    },
+    {
+      "naslov": "Cena dizla v Združenem kraljestvu dosegla rekordno raven",
+      "sektor": "Energetika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Tenzije v Hormuški ožini ostajajo visoke, saj se Iran in ZDA oddaljujeta od morebitnega dogovora. Al Jazeera poroča o strahovih pred ponovnimi spopadi, potem ko je predsednik Trump zavrnil dogovor. To se dogaja kljub prejšnji ponudbi ZDA Iranu za prodajo urana za civilni program, ki jo je Iran zavrnil. Iranski zunanji minister Abbas Araghchi je celo izjavil, da je Iran pripravljen na 'sodnomožno vojno'. Novica je bila objavljena 27. septembra 2026 ob 14:36:44 UTC.",
-      "analiza": "Hormuška ožina je ključna pomorska pot za svetovni transport nafte, skozi katero poteka približno petina svetovne nafte. Vsaka eskalacija napetosti v tej regiji tradicionalno povzroči skok cen nafte zaradi strahu pred motnjami v dobavi. Danes so cene nafte sicer padle, WTI na 92,41 USD/sod (-2,33 %) in Brent na 97,44 USD/sod (-2,77 %), kar bi lahko kazalo na to, da trgi trenutno ne pričakujejo takojšnjega konflikta ali pa so preobremenjeni z drugimi dejavniki, kot je morebitno zmanjšanje povpraševanja. Vendar pa dolgoročno geopolitična nestabilnost v regiji ostaja pomembno tveganje. Za delniške trge to pomeni povečano negotovost, še posebej za podjetja, ki so močno odvisna od stabilnih cen energije ali imajo dobavne verige, ki potekajo skozi regijo. Obvezniški trgi bi v primeru eskalacije lahko doživeli povečano povpraševanje po varnih naložbah, medtem ko bi valute, kot je ameriški dolar, lahko okrepile svoj status zatočišča. Slovenski dolgoročni vlagatelj naj bo pozoren na morebitno volatilnost na trgih surovin in širše geopolitične posledice, ki lahko vplivajo na globalno gospodarsko rast.",
+      "povzetek": "Povprečna cena litra dizla na črpalkah v Združenem kraljestvu je dosegla rekordnih 198,32 penijev, poroča avtomobilistično združenje RAC. Glavni razlog za to podražitev je vojna med ZDA in Izraelom z Iranom, ki povzroča motnje v globalnih dobavah nafte. Ta geopolitična napetost je že povzročila rast cen surove nafte, vključno z Brent nafto, ki je danes zrasla za 1,15 % na 98,56 USD/sod. Združeno kraljestvo se prav tako sooča z grožnjo ameriškega predsednika Donalda Trumpa o ustavitvi izvoza dizla, kar bi lahko še dodatno poslabšalo situacijo. Vlada Združenega kraljestva se pogaja z ZDA, da bi preprečila takšno prepoved izvoza.",
+      "analiza": "Rast cen dizla na rekordne ravni v Združenem kraljestvu je neposredna posledica geopolitičnih napetosti, predvsem zaradi vojne med ZDA in Izraelom z Iranom. Ta konflikt povzroča negotovost na trgu nafte, kar se odraža v višjih cenah surovine in posledično dražjih gorivih za končne potrošnike. Cene Brent nafte so danes zrasle na 98,56 USD/sod, kar kaže na nadaljnje inflacijske pritiske. Grožnja ameriškega predsednika Trumpa z ustavitvijo izvoza dizla bi lahko imela daljnosežne ekonomske posledice, saj bi omejila dobavo na globalnem trgu in povzročila še večje cenovne skoke, kar bi prizadelo industrijo in potrošnike. Visoke cene energentov povečujejo proizvodne stroške podjetij in zmanjšujejo kupno moč gospodinjstev, kar lahko upočasni gospodarsko rast. Za obvezniške trge to pomeni nadaljnje pritiske na donose, saj centralne banke morda ne bodo mogle znižati obrestnih mer, če se inflacija zaradi energentov ne umiri. Za slovenskega dolgoročnega vlagatelja to pomeni, da so energenti in geopolitika še vedno pomembna gonilna sila trga, kar lahko vpliva na inflacijo in s tem na donosnost naložb.",
       "vpliv": [
-        "Povečana geopolitična negotovost",
-        "Potencialni pritisk na cene nafte (danes padle)",
-        "Povečano povpraševanje po varnih naložbah",
-        "Vpliv na globalne dobavne verige"
+        "Cena dizla v UK dosegla rekordnih 198,32 penijev/liter",
+        "Rast cen nafte zaradi geopolitičnih napetosti (Brent +1,15 % na 98,56 USD/sod)",
+        "Grožnja z ameriško prepovedjo izvoza dizla",
+        "Povečani inflacijski pritiski"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss",
-      "objavljeno": "2026-09-27T14:36:44.000Z"
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-09-28T20:42:56.000Z"
     },
     {
-      "naslov": "Lowe's uvaja storitev dostave z droni v partnerstvu z DoorDash in Alphabet",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Lowe's, eden največjih trgovcev z izdelki za dom, uvaja storitev dostave z droni. To storitev razvija v partnerstvu s podjetjem DoorDash in Alphabetovim Wingom. Novica, ki jo je ekskluzivno pridobil CNBC, poudarja, da gre za pomemben korak v avtomatizaciji logistike in dostave. Cilj je izboljšati hitrost in učinkovitost dostave izdelkov do strank, kar bi lahko preoblikovalo maloprodajno industrijo. Novica je bila objavljena 27. septembra 2026 ob 19:02:10 UTC.",
-      "analiza": "Uvedba dostave z droni s strani velikega trgovca, kot je Lowe's, v sodelovanju s tehnološkimi giganti, kot je Alphabet, predstavlja pomemben mejnik v razvoju e-trgovine in logistike. Ta poteza kaže na nadaljnjo integracijo umetne inteligence in avtomatizacije v vsakdanje poslovanje. Za tehnološki sektor to pomeni potrditev potenciala dronov in AI v komercialne namene, kar lahko spodbudi nadaljnje investicije v razvoj tovrstnih rešitev. Za maloprodajni sektor pa to pomeni pritisk na konkurenco, da sledi inovacijam, kar lahko dolgoročno zmanjša stroške dostave in izboljša uporabniško izkušnjo. Podjetja, ki so vpletena v to partnerstvo (Lowe's, DoorDash, Alphabet), lahko pričakujejo povečano zanimanje vlagateljev. Vpliv na širše trge bi bil pozitiven, saj inovacije običajno spodbujajo produktivnost in gospodarsko rast. Slovenski dolgoročni vlagatelj naj bo pozoren na podjetja, ki so v ospredju tehnoloških inovacij v logistiki in e-trgovini, saj imajo potencial za dolgoročno rast.",
-      "vpliv": [
-        "Spodbujanje inovacij v logistiki in e-trgovini",
-        "Potencialno zmanjšanje stroškov dostave",
-        "Povečano zanimanje za delnice vpletenih podjetij",
-        "Pritisk na konkurenco v maloprodaji"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/09/24/lowes-drones-delivery-doordash-alphabet.html",
-      "objavljeno": "2026-09-27T19:02:10.000Z"
-    },
-    {
-      "naslov": "Micron bi lahko prekosil Nvidio kot gonilna sila rasti dobička S&P 500",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
+      "naslov": "Prodaja obveznic se poglablja ob rasti cen nafte",
+      "sektor": "Finance",
+      "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Podjetje Micron Technology, proizvajalec pomnilniških čipov, postaja vse pomembnejše za indeks S&P 500. MarketWatch poroča, da bi lahko Micron celo prekosil Nvidio in postal največji gonilnik rasti dobička indeksa S&P 500. Poročilo o dobičku Microna je postalo 'tržni dogodek sam po sebi', kar kaže na njegov naraščajoč vpliv in pomen v tehnološkem sektorju. Novica je bila objavljena 27. septembra 2026 ob 14:00:00 UTC.",
-      "analiza": "Ta novica poudarja dinamično naravo tehnološkega sektorja in hitro spreminjajočo se hierarhijo med ključnimi igralci. Nvidia je bila v zadnjem obdobju sinonim za rast, predvsem zaradi povpraševanja po čipih za umetno inteligenco. Če Micron dejansko postane največji gonilnik rasti dobička S&P 500, to kaže na močno povpraševanje po pomnilniških rešitvah, ki so ključne za podatkovne centre, AI in druge napredne tehnologije. To bi lahko pomenilo premik fokusa vlagateljev zgolj z AI procesorjev na širši ekosistem polprevodnikov. Za delniške trge je to pozitivna novica, saj nakazuje na močno rast dobičkov v ključnem sektorju. Delnice Microna bi se lahko okrepile, medtem ko bi se lahko vpliv Nvidie na celoten indeks nekoliko zmanjšal, čeprav ostaja ključen igralec. Slovenski dolgoročni vlagatelj naj bo pozoren na širše trende v polprevodniški industriji in diverzifikacijo znotraj tehnološkega sektorja, saj se priložnosti za rast nenehno spreminjajo.",
+      "povzetek": "Prodaja obveznic se je poglobila, saj so cene nafte ponovno zrasle, kar je potisnilo donos 10-letne ameriške državne obveznice nad 5,2 %. Natančneje, donos je danes zrasel za 1,08 % na 5,24 %. Povečanje cen nafte, kjer je Brent nafta poskočila, je posledica upadajočih upanj za dogovor med ZDA in Iranom, kar ohranja geopolitične napetosti. To ustvarja pritisk na centralne banke, da ohranijo ali celo zvišajo obrestne mere, kar negativno vpliva na cene obveznic. VIX, indeks volatilnosti, je danes zrasel za 8,07 % na 16,07, kar kaže na povečano negotovost na trgu.",
+      "analiza": "Poglobljena prodaja obveznic, ki je danes potisnila donos 10-letne ameriške državne obveznice na 5,24 %, je ključni makroekonomski trend. Ta rast donosov je neposredno povezana z naraščajočimi cenami nafte, ki so posledica geopolitičnih napetosti in upadajočih upanj za stabilizacijo razmer med ZDA in Iranom. Višje cene nafte povečujejo inflacijske pritiske, kar zmanjšuje verjetnost, da bodo centralne banke kmalu znižale obrestne mere. To pomeni, da so obveznice manj privlačne, saj njihove cene padajo, ko donosi rastejo. Za delniške trge, še posebej za tehnološke delnice, višji donosi obveznic pomenijo večje stroške zadolževanja in nižje vrednotenje prihodnjih denarnih tokov, kar je danes prispevalo k padcu indeksov S&P 500 (-0,77 %) in Nasdaq 100 (-1,08 %). Zlato je v takšnem okolju, kljub negotovosti, padlo za 4,00 % na 4148.50 USD/oz, kar kaže na močnejši dolar in umik kapitala v bolj likvidne naložbe. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so obrestne mere in inflacija ključni dejavniki, ki vplivajo na vrednost vseh naložb, in da je trenutno okolje neugodno za dolgoročne obveznice.",
       "vpliv": [
-        "Potencialna rast delnic Microna",
-        "Sprememba dinamike v tehnološkem sektorju",
-        "Pozitiven vpliv na rast dobička S&P 500",
-        "Povečano povpraševanje po pomnilniških čipih"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-27T14:00:00.000Z"
-    },
-    {
-      "naslov": "Burnham nakazuje boj za volitve s povišanjem davkov za reformo socialne oskrbe",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Britanski premier Burnham je nakazal, da se bo na volitvah boril s platformo, ki vključuje povišanje davkov za financiranje reforme socialne oskrbe. Financial Times poroča, da je premier dejal, da bo preoblikovanje 'težko' izvesti v sedanjem parlamentu. Ta poteza kaže na prioriteto reševanja vprašanj socialne oskrbe, kar pa bo imelo neposredne fiskalne posledice za državo in njene državljane. Novica je bila objavljena 27. septembra 2026 ob 17:27:27 UTC.",
-      "analiza": "Napoved morebitnega povišanja davkov v Združenem kraljestvu za financiranje socialne oskrbe je pomembna makroekonomska novica. Povečanje davkov lahko na eni strani zagotovi stabilnejše financiranje javnih storitev, na drugi pa lahko zmanjša razpoložljivi dohodek gospodinjstev in dobičke podjetij, kar bi lahko upočasnilo gospodarsko rast. Za britanski funt bi takšna politika lahko pomenila negotovost, odvisno od tega, kako bi trgi ocenili dolgoročno vzdržnost javnih financ proti kratkoročnemu vplivu na potrošnjo in investicije. Obvezniški trgi bi lahko reagirali na spremembe v pričakovanjih glede vladnega zadolževanja in inflacije. Za delniške trge bi podjetja, ki so močno odvisna od domače potrošnje, lahko občutila pritisk, medtem ko bi sektorji, ki so povezani s socialno oskrbo, lahko imeli koristi. Slovenski dolgoročni vlagatelj naj bo pozoren na fiskalne politike v večjih gospodarstvih, saj lahko te pomembno vplivajo na globalno gospodarsko okolje in s tem na donosnost naložb.",
-      "vpliv": [
-        "Potencialno zmanjšanje gospodarske rasti Združenega kraljestva",
-        "Vpliv na razpoložljivi dohodek in dobičke podjetij",
-        "Negotovost za britanski funt",
-        "Spremembe v pričakovanjih glede vladnega zadolževanja"
+        "Donos 10-letne US Treasury zrasel za 1,08 % na 5,24 %",
+        "Padec cen obveznic",
+        "Rast cen nafte (Brent +1,15 % na 98,56 USD/sod)",
+        "Negativen vpliv na delnice, še posebej tehnološke (S&P 500 -0,77 %, Nasdaq 100 -1,08 %)",
+        "Povečana volatilnost (VIX +8,07 % na 16,07)"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/23cd91df-80c5-45c0-9175-d61b74404f12?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-27T17:27:27.000Z"
+      "vir_url": "https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-28T19:41:05.000Z"
     },
     {
-      "naslov": "Velikanske pande prispele v Atlanto v okviru 10-letnega sporazuma med ZDA in Kitajsko",
-      "sektor": "Geopolitika",
+      "naslov": "AMD za 8 milijard dolarjev prevzema AI startup Fei-Fei Li",
+      "sektor": "Tehnologija & AI",
       "smer": "pozitivno",
-      "intenziteta": 1,
-      "povzetek": "Dve velikanski pandi, Ping Ping in Fu Shuang, sta prispeli v Atlanto iz jugozahodne Kitajske. Njihov prihod je del 10-letnega sporazuma med ZDA in Kitajsko. Al Jazeera poroča, da gre za pomemben diplomatski dogodek, ki simbolizira 'diplomacijo pand', s katero državi krepita medsebojne odnose. Pande so prispele 27. septembra 2026 ob 17:07:33 UTC.",
-      "analiza": "Prihod pand v ZDA je primer t.i. 'diplomacije pand', ki jo Kitajska uporablja za krepitev odnosov z drugimi državami. Čeprav se morda zdi nepomembno za finančne trge, je to pomemben simboličen korak v odnosih med ZDA in Kitajsko, dvema največjima gospodarstvoma na svetu. Izboljšanje diplomatskih odnosov lahko dolgoročno zmanjša trgovinske napetosti in ustvari bolj stabilno okolje za mednarodno poslovanje. To lahko posredno vpliva na globalne dobavne verige, investicije in trgovino. Za delniške trge bi to lahko pomenilo zmanjšanje geopolitičnega tveganja, kar je na splošno pozitivno za tvegane naložbe. Stabilnejši odnosi med velesilami so ugodni za globalno gospodarsko rast. Slovenski dolgoročni vlagatelj naj razume, da tudi 'mehka' diplomacija, kot je ta, lahko prispeva k širši stabilnosti, ki je predpogoj za zdravo rast finančnih trgov.",
+      "intenziteta": 2,
+      "povzetek": "AMD je napovedal prevzem zagonskega podjetja World Labs, ki ga je ustanovila raziskovalka z univerze Stanford, Fei-Fei Li, za 8 milijard dolarjev. World Labs se osredotoča na razvoj modelov umetne inteligence, ki razumejo 3D okolja. Ta prevzem poudarja nadaljnjo konsolidacijo in intenzivno naložbeno dejavnost v sektorju umetne inteligence. AMD s to potezo krepi svoje zmogljivosti na področju AI, kar je ključno za konkurenčnost v hitro rastoči industriji čipov.",
+      "analiza": "Prevzem podjetja World Labs s strani AMD za 8 milijard dolarjev je pomemben korak v tekmi za prevlado v sektorju umetne inteligence. Fei-Fei Li je ugledna raziskovalka, in njeno podjetje prinaša specializirano znanje o AI modelih, ki razumejo 3D okolja, kar je ključno za aplikacije v virtualni resničnosti, robotiki in avtonomni vožnji. Ta poteza kaže na strateško usmeritev AMD-ja v širjenje portfelja AI rešitev in neposredno konkuriranje podjetjem kot je Nvidia. Prevzemi v AI sektorju so pogosti, saj velika podjetja iščejo inovativne tehnologije in talente za pospešitev lastnega razvoja. Za delnice AMD-ja je to dolgoročno pozitivno, saj krepi njihov položaj na rastočem trgu AI. Širši tehnološki sektor to vidi kot potrditev nenehnih inovacij in privlačnosti AI podjetij. Vpliv na obveznice, valute in surovine je minimalen, razen posredno preko splošnega optimizma v tehnološkem sektorju. Slovenski dolgoročni vlagatelj lahko iz tega sklepa, da je sektor umetne inteligence še vedno v fazi intenzivne rasti in da so strateški prevzemi ključni za ohranjanje konkurenčnosti.",
       "vpliv": [
-        "Izboljšanje diplomatskih odnosov med ZDA in Kitajsko",
-        "Potencialno zmanjšanje trgovinskih napetosti",
-        "Zmanjšanje geopolitičnega tveganja",
-        "Pozitiven vpliv na globalno gospodarsko stabilnost"
+        "AMD prevzel World Labs za 8 milijard dolarjev",
+        "Krepitev AMD-jevih zmogljivosti na področju AI",
+        "Nadaljevanje konsolidacije v AI sektorju",
+        "Pozitiven vpliv na delnice AMD dolgoročno"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-28T20:45:12.000Z"
+    },
+    {
+      "naslov": "Apple mora plačati 5,7 milijarde dolarjev v patentnem sporu",
+      "sektor": "Tehnologija",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Kalifornijska porota je odločila, da mora Apple plačati 5,7 milijarde dolarjev v primeru kršitve patentov. Ugotovljeno je bilo, da je Apple kršil dva patenta podjetja Taction, vendar ni namerno kršil pravic. Apple načrtuje pritožbo na to odločitev. Ta sodba predstavlja pomemben finančni udarec za tehnološkega velikana in poudarja tveganja, povezana z intelektualno lastnino v industriji.",
+      "analiza": "Sodba, ki Applu nalaga plačilo 5,7 milijarde dolarjev zaradi kršitve patentov, je pomemben dogodek za podjetje in širši tehnološki sektor. Čeprav Apple načrtuje pritožbo, takšna odločitev poudarja kompleksnost in tveganja, povezana z intelektualno lastnino v visoko tehnološki industriji. Znesek 5,7 milijarde dolarjev je sicer velik, vendar za podjetje velikosti Appla, z ogromnimi denarnimi rezervami, ne predstavlja eksistenčne grožnje, lahko pa vpliva na kratkoročno sentiment in dobičkonosnost. Za delnice Appla bi to lahko pomenilo kratkoročni pritisk, saj vlagatelji ocenjujejo finančni vpliv in pravna tveganja. Širši tehnološki sektor bo pozorno spremljal razvoj dogodkov, saj patentni spori niso redkost in lahko vplivajo na inovacije in konkurenčnost. Vpliv na obveznice, valute in surovine je minimalen, saj gre za specifičen primer podjetja. Slovenski dolgoročni vlagatelj naj bo pozoren na to, da so tudi največja podjetja izpostavljena pravnim tveganjem, ki lahko občasno vplivajo na njihovo poslovanje in vrednost delnic.",
+      "vpliv": [
+        "Apple mora plačati 5,7 milijarde dolarjev odškodnine",
+        "Kršitev dveh patentov podjetja Taction",
+        "Apple načrtuje pritožbo",
+        "Negativen vpliv na ceno delnic Appla"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss",
-      "objavljeno": "2026-09-27T17:07:33.000Z"
+      "vir_url": "https://www.aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case?traffic_source=rss",
+      "objavljeno": "2026-09-28T20:11:30.000Z"
     },
     {
-      "naslov": "Nevihta Nor'easter povzročila zamude na stotinah letov, letalske družbe odpovedale stroške",
+      "naslov": "PepsiCo načrtuje dvig cen, kar skrbi Wall Street",
       "sektor": "Potrošniki",
-      "smer": "negativno",
-      "intenziteta": 1,
-      "povzetek": "Vzhodno obalo ZDA je prizadela močna nevihta Nor'easter, ki je povzročila zamude na stotinah letov. CNBC poroča, da so letalske družbe odpovedale stroške sprememb letov za potnike, ki so jih prizadele motnje. Največje motnje so bile zabeležene v Bostonu čez vikend. Novica je bila objavljena 27. septembra 2026 ob 18:43:21 UTC.",
-      "analiza": "Vremenske motnje, kot je nevihta Nor'easter, imajo neposreden vpliv na sektor letalstva in turizma. Zamude in odpovedi letov povzročajo finančne izgube letalskim družbam zaradi stroškov preusmeritev, nadomestil in izpada prihodkov. Odpoved stroškov sprememb letov je standardna praksa v takšnih primerih, vendar dodatno obremenjuje bilance letalskih prevoznikov. Za delniške trge to pomeni kratkoročni negativen pritisk na delnice letalskih družb in podjetij v turističnem sektorju, ki poslujejo na prizadetih območjih. Vpliv na širše gospodarstvo je običajno omejen, razen če gre za dolgotrajne in obsežne motnje. Vendar pa takšni dogodki poudarjajo ranljivost nekaterih sektorjev na ekstremne vremenske pojave, kar je trend, ki se lahko v prihodnosti zaradi podnebnih sprememb stopnjuje. Slovenski dolgoročni vlagatelj naj upošteva, da so nekateri sektorji, kot je letalstvo, bolj izpostavljeni specifičnim tveganjem, vključno z vremenskimi vplivi, kar lahko povzroči kratkoročno volatilnost.",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "PepsiCo načrtuje dvig cen za svoje izdelke, vključno z gaziranimi pijačami, čipsom in pomakami, kar skrbi Wall Street. Analitiki TD Cowen so opozorili na 'spreminjajočo se pripoved o cenovni dostopnosti' kot tveganje za podjetje. Ta poteza kaže na nadaljnje inflacijske pritiske v sektorju potrošniškega blaga, saj podjetja poskušajo prenesti višje stroške na potrošnike. To bi lahko vplivalo na obseg prodaje in kupno moč gospodinjstev.",
+      "analiza": "Napoved PepsiCo o dvigu cen je pomemben indikator nadaljnjih inflacijskih pritiskov v gospodarstvu. Podjetja v sektorju potrošniškega blaga se soočajo z naraščajočimi stroški surovin, dela in logistike, kar jih sili v prilagajanje cen. Čeprav dvig cen lahko kratkoročno izboljša marže podjetja, kot je PepsiCo, obstaja tveganje, da bo to zmanjšalo povpraševanje potrošnikov, še posebej ob 'spreminjajoči se pripovedi o cenovni dostopnosti'. Za delnice PepsiCo bi to lahko pomenilo mešan odziv – potencialno višje prihodke, a tudi tveganje za zmanjšanje obsega prodaje. Širše gledano, takšne napovedi krepijo pričakovanja, da bo inflacija ostala povišana, kar lahko vpliva na odločitve centralnih bank glede obrestnih mer. Višje obrestne mere pa posledično vplivajo na obvezniške trge in vrednotenje delnic. Za valute bi to lahko pomenilo močnejši dolar, če ameriška inflacija ostane visoka. Slovenski dolgoročni vlagatelj naj bo pozoren na to, kako se podjetja v sektorju potrošniškega blaga spopadajo z inflacijskimi pritiski in ali lahko ohranijo svojo konkurenčnost in dobičkonosnost kljub višjim cenam.",
       "vpliv": [
-        "Kratkoročne izgube za letalske družbe",
-        "Motnje v potovalnem prometu",
-        "Negativen vpliv na delnice letalskih in turističnih podjetij",
-        "Poudarja ranljivost na ekstremne vremenske pojave"
+        "PepsiCo načrtuje dvig cen izdelkov",
+        "Zaskrbljenost Wall Streeta glede vpliva na povpraševanje",
+        "Nadaljnji inflacijski pritiski v sektorju potrošniškega blaga",
+        "Potencialno zmanjšanje kupne moči potrošnikov"
       ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
-      "objavljeno": "2026-09-27T18:43:21.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/pepsico-plans-to-raise-prices-on-sodas-chips-and-dip-and-that-has-wall-street-worried-0ec355bf?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-28T19:37:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-27T19:11:34.442Z",
+    "posodobljenoOb": "2026-09-28T21:25:36.307Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7743.41,
-        "sprememba_pct": 0.51
+        "vrednost": 7683.69,
+        "sprememba_pct": -0.77
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 30608.135,
-        "sprememba_pct": 0.42
+        "vrednost": 30276.81,
+        "sprememba_pct": -1.08
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25408.64,
-        "sprememba_pct": 0.56
+        "vrednost": 25374.42,
+        "sprememba_pct": -0.13
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 66364.2,
-        "sprememba_pct": 1.3
+        "vrednost": 65877.62,
+        "sprememba_pct": -0.73
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4321.2,
-        "sprememba_pct": 0.54,
+        "vrednost": 4148.5,
+        "sprememba_pct": -4,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 92.41,
-        "sprememba_pct": -2.33,
+        "vrednost": 93.29,
+        "sprememba_pct": 0.95,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 97.44,
-        "sprememba_pct": -2.77,
+        "vrednost": 98.56,
+        "sprememba_pct": 1.15,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +165,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1401,
-        "sprememba_pct": 0.18
+        "vrednost": 1.1373,
+        "sprememba_pct": -0.18
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 5.184,
-        "sprememba_pct": 0.43,
+        "vrednost": 5.24,
+        "sprememba_pct": 1.08,
         "enota": "%"
       }
     ],
@@ -181,16 +182,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 84778.28,
-        "sprememba_pct": 0.41,
+        "vrednost": 83448.45,
+        "sprememba_pct": -1.19,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 14.87,
-      "sprememba_pct": -5.11
+      "vrednost": 16.07,
+      "sprememba_pct": 8.07
     }
   }
 }
