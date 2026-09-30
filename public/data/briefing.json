@@ -1,151 +1,117 @@
 {
-  "generiranoOb": "2026-09-30T10:30:23.563Z",
-  "izdaja": "morning",
-  "model": "gemini-2.5-flash-lite",
+  "generiranoOb": "2026-09-30T20:15:23.506Z",
+  "izdaja": "afternoon",
+  "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-09-30",
-  "povzetek": "Jutranje trgovanje na azijskih trgih je bilo mešano, pri čemer je Nikkei 225 zabeležil rast 1,94 %, medtem ko so se ameriški indeksi, kot je S&P 500 pri 7671 (-0,17 %), rahlo umaknili. Evropski trgi se bodo danes soočili z novicami o regulaciji umetne inteligence, potencialnim vplivom geopolitičnih napetosti na cene nafte, ki je pri 90,27 USD za WTI in 97,27 USD za Brent, ter s poročili o inflaciji stroškov energije v Združenem kraljestvu. Vlagatelji bodo pozorno spremljali tudi novice o poslovanju podjetij, kot je Novo Nordisk, ter širše ekonomske trende, kot je rast britanskega gospodarstva. Danes se bo nadaljevalo spremljanje dogajanja na obvezniških trgih, kjer je donosnost 10-letnih ameriških obveznic dosegla 5,25 %. Ključni dogodek tega tedna, ki ga morajo vlagatelji imeti na radarju, so prihajajoče objave podatkov o inflaciji v ZDA in Evropi.",
+  "povzetek": "Evropski trgi so danes, 30. septembra 2026, zaključili trgovanje v negativnem območju, pri čemer je nemški indeks DAX padel za 0,79 % na 25199 točk. Na drugi strani Atlantika so ameriški trgi, dve uri po odprtju, kazali mešano sliko; indeks S&P 500 je bil pri 7652 točkah z blagim padcem za 0,25 %, medtem ko je tehnološki Nasdaq 100 zrasel za 0,23 % na 30409 točk. Dvig donosnosti ameriških 10-letnih državnih obveznic za 0,72 % na 5,29 % je bil ključen dejavnik, ki je vplival na razpoloženje vlagateljev, saj se je v zadnjih mesecih zgodil največji skok donosnosti v generaciji. Cene nafte so se zvišale, WTI nafta za 1,39 % na 90,62 USD/sod in Brent nafta za 2,13 % na 98,21 USD/sod, kar deloma odraža zaskrbljenost glede geopolitičnih tveganj, kot je opozorilo Rusije glede Kaliningrada. Evro je oslabel proti dolarju, par EUR/USD je padel za 0,17 % na 1.1328. Vlagatelji bodo v prihodnjih dneh pozorno spremljali prihajajoče podatke o inflaciji v ZDA, ki lahko vplivajo na pričakovanja glede monetarne politike.",
   "novice": [
     {
-      "naslov": "Regulacija umetne inteligence ni pravi začetek, pravi guverner centralne banke",
+      "naslov": "Donosnosti ameriških obveznic v generaciji največji skok, vlagatelje pretresa globalni padec",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Poročilo MarketWatcha z dne 30. septembra 2026 ob 19:42:00Z poudarja, da so donosnosti ameriških državnih obveznic v zadnjih mesecih doživele največji skok v generaciji. Globalni trg obveznic, vreden več kot 30 bilijonov dolarjev, ni bil imun na ta trend. 10-letna ameriška državna obveznica je danes zabeležila donosnost 5,29 %, kar predstavlja rast za 0,72 %. Ta hitrost in obseg rasti donosnosti sta pretresla vlagatelje po vsem svetu in povzročila globalni padec na trgu obveznic.",
+      "analiza": "Ozadje dogajanja na trgu obveznic je povezano z inflacijskimi pritiski in pričakovanji glede nadaljnjega zaostrovanja monetarne politike centralnih bank, zlasti ameriške Federal Reserve. Visoke donosnosti obveznic so pomembne, saj predstavljajo referenčno obrestno mero za številne druge finančne produkte in posojila. Ko donosnosti državnih obveznic rastejo, se povečujejo stroški zadolževanja za podjetja in potrošnike, kar lahko upočasni gospodarsko rast. To lahko negativno vpliva na delniške trge, saj se zmanjšuje privlačnost tveganih naložb v primerjavi z relativno varnimi obveznicami. Prav tako lahko vpliva na valutne tečaje, saj višje donosnosti v ZDA privabljajo kapital in krepijo dolar, kar se odraža v padcu para EUR/USD za 0,17 % na 1.1328. Za slovenskega dolgoročnega vlagatelja to pomeni, da se lahko sooča z višjimi stroški financiranja in potencialno nižjimi donosi delnic, hkrati pa višje donosnosti obveznic ponujajo priložnost za boljše donose v fiksnem dohodku.",
+      "vpliv": [
+        "Višji stroški zadolževanja za podjetja in potrošnike",
+        "Zmanjšana privlačnost delniških naložb",
+        "Krepitev ameriškega dolarja (EUR/USD -0.17%)",
+        "Potencialno upočasnjena gospodarska rast"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-30T19:42:00.000Z"
+    },
+    {
+      "naslov": "Ameriški regulator sprožil preiskavo podjetij na področju umetne inteligence",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Guverner angleške centralne banke Andrew Bailey je izjavil, da regulacija umetne inteligence (AI) ni pravi kraj za začetek. Poudaril je potrebo po \"rigoroznem\" testiranju in varnostnih ukrepih za obvladovanje tveganj, povezanih z razvojem AI. Njegove izjave so bile objavljene 30. septembra 2026 ob 10:20:20 UTC.",
-      "analiza": "Izjava guvernerja Baileyja nakazuje previden pristop k regulaciji umetne inteligence, kar bi lahko imelo posledice za hitro rastoči sektor tehnologije. Medtem ko se AI tehnologije hitro razvijajo, je poudarek na \"rigoroznem\" testiranju in varnostnih ukrepih pomemben za preprečevanje morebitnih negativnih učinkov. To bi lahko pomenilo daljše cikle razvoja in uvedbe novih AI rešitev, kar bi lahko vplivalo na pričakovano rast podjetij v sektorju. Za vlagatelje v tehnološke delnice, zlasti tiste, ki temeljijo na AI, to pomeni potencialno povečano negotovost glede prihodnjih regulativnih okvirov. Vendar pa lahko dolgoročno takšen pristop vodi k bolj stabilnemu in zaupanja vrednemu razvoju AI, kar bi lahko pozitivno vplivalo na sprejetost tehnologije. Trenutno se indeksi, kot je Nasdaq 100 pri 30339 (+0,21 %), še niso bistveno odzvali na te izjave, kar kaže na to, da trgi še niso v celoti internalizirali potencialnih regulativnih ovir. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pri vlaganju v AI podjetja pomembno spremljati regulatorne novice in ocenjevati, kako bi morebitne omejitve vplivale na poslovne modele podjetij.",
+      "povzetek": "Al Jazeera je 30. septembra 2026 ob 19:46:35Z poročala, da je ameriški regulator, FTC (Federal Trade Commission), sprožil preiskavo podjetij, ki delujejo na področju umetne inteligence. Preiskava je posledica zaskrbljenosti glede 'neobvladljivih agentov' in potencialnih groženj človeštvu v naslednjem desetletju. To kaže na naraščajočo regulativno pozornost do hitro razvijajočega se sektorja umetne inteligence, ki bi lahko prinesla nove omejitve.",
+      "analiza": "Razvoj umetne inteligence je v zadnjih letih izjemno hiter, kar je povzročilo tako navdušenje kot tudi zaskrbljenost glede etičnih, varnostnih in družbenih posledic. Ozadje te preiskave je naraščajoč pritisk po regulaciji, saj se tehnologija AI vse bolj integrira v vsakdanje življenje in kritične sisteme. Takšne preiskave lahko povzročijo negotovost med vlagatelji v tehnološka podjetja, ki se ukvarjajo z umetno inteligenco, saj lahko morebitne regulativne omejitve vplivajo na njihove poslovne modele, inovacije in dobičkonosnost. Čeprav Nasdaq 100 danes beleži rast za 0,23 % na 30409 točk, bi lahko dolgoročno strožja regulacija omejila potencial rasti nekaterih podjetij. Po drugi strani pa lahko regulacija prinese tudi večjo stabilnost in zaupanje v tehnologijo, kar bi dolgoročno lahko koristilo sektorju. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pri naložbah v tehnološka podjetja, še posebej tista na področju AI, pomembno upoštevati ne le potencial rasti, ampak tudi morebitna regulativna tveganja, ki lahko vplivajo na donose.",
       "vpliv": [
-        "Potencialno počasnejši razvoj AI produktov",
-        "Povečana previdnost vlagateljev v tehnološke delnice",
-        "Poudarek na varnostnih vidikih AI",
-        "Možna rast podjetij s poudarkom na varnosti"
+        "Povečana regulativna negotovost za AI podjetja",
+        "Potencialno omejevanje inovacij in poslovnih modelov",
+        "Vpliv na vrednotenje tehnoloških delnic",
+        "Dolgoročno lahko regulacija prinese večjo stabilnost"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-30T10:20:20.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/9/30/us-regulator-launches-probe-into-ai-companies?traffic_source=rss",
+      "objavljeno": "2026-09-30T19:46:35.000Z"
     },
     {
-      "naslov": "Afriški najbogatejši mož gradi rafinerijo kljub protestom",
+      "naslov": "Trump napoveduje 200 milijard dolarjev energetskih naložb iz Južne Koreje",
       "sektor": "Energetika",
-      "smer": "mešano",
+      "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Aliko Dangote, najbogatejši človek v Afriki, kljub protestom glede zemljišč nadaljuje z gradnjo naftne rafinerije v Keniji. Projekt je del njegove ambiciozne strategije za industrializacijo Afrike do leta 2030. Novica je bila objavljena 30. septembra 2026 ob 09:49:53 UTC.",
-      "analiza": "Gradnja nove naftne rafinerije v Keniji s strani Alika Dangoteja ima lahko večplasten vpliv. Na eni strani predstavlja pomembno naložbo v afriško gospodarstvo in potencialno zmanjšanje odvisnosti regije od uvoženih rafiniranih naftnih produktov, kar bi lahko pozitivno vplivalo na lokalno gospodarstvo in zaposlovanje. Na drugi strani pa protesti glede zemljišč nakazujejo potencialne okoljske in socialne pomisleke, ki bi lahko vplivali na časovnico projekta ali njegove stroške. Za energetske trge bi lahko povečana lokalna proizvodnja zmanjšala povpraševanje po uvoženih gorivih, kar bi lahko vplivalo na cene nafte in naftnih derivatov v regiji. Vendar pa je vpliv na globalne cene verjetno omejen, saj je obseg proizvodnje verjetno manjši od globalnih potreb. Trenutna cena Brent nafte je 97,27 USD/sod (+1,15 %), kar kaže na splošno rast cen energentov, ki pa ni neposredno povezana s tem projektom. Za slovenske vlagatelje, ki morda investirajo v energetske družbe ali sklade, je pomembno spremljati razvoj takšnih infrastrukturnih projektov v razvijajočih se gospodarstvih, saj lahko vplivajo na dolgoročne energetske tokove in povpraševanje.",
+      "povzetek": "Al Jazeera je 30. septembra 2026 ob 18:01:14Z poročala, da naj bi nekdanji predsednik Trump napovedal 200 milijard dolarjev energetskih naložb iz Južne Koreje. Te naložbe so del prizadevanj za poudarjanje gospodarskih dosežkov Republikanske stranke pred vmesnimi volitvami v ZDA. Gre za pomemben priliv kapitala v ameriški energetski sektor, ki obljublja krepitev energetske infrastrukture in proizvodnje.",
+      "analiza": "Ozadje te napovedi je Trumpova strategija 'Amerika na prvem mestu' in poudarek na krepitvi domače energetske neodvisnosti ter ustvarjanju delovnih mest. Naložbe v višini 200 milijard dolarjev so izjemno pomembne za energetski sektor ZDA, saj lahko spodbudijo razvoj infrastrukture, raziskave in razvoj novih tehnologij ter povečajo proizvodne zmogljivosti. To lahko pozitivno vpliva na delnice podjetij v energetskem sektorju, saj se pričakuje povečano povpraševanje po njihovih storitvah in produktih. Na širšem makroekonomskem nivoju lahko takšne naložbe prispevajo k gospodarski rasti in stabilnosti. Kljub temu, da so cene nafte danes že zrasle (WTI +1.39%, Brent +2.13%), kar je povezano tudi z geopolitičnimi tveganji, bi dolgoročno povečanje ponudbe energije lahko vplivalo na stabilizacijo cen. Za slovenskega dolgoročnega vlagatelja to pomeni, da so naložbe v energetski sektor, zlasti v ZDA, lahko privlačne zaradi pričakovanega priliva kapitala in politične podpore, vendar je treba upoštevati tudi globalne trende in geopolitične dejavnike, ki vplivajo na cene energentov.",
       "vpliv": [
-        "Potencialno zmanjšanje uvoza naftnih derivatov v Kenijo",
-        "Vpliv na lokalno gospodarstvo in zaposlovanje",
-        "Možni okoljski in socialni pomisleki",
-        "Dolgoročni vpliv na regionalne energetske tokove"
+        "Spodbuda za ameriški energetski sektor",
+        "Potencialna rast delnic energetskih podjetij",
+        "Prispevek k gospodarski rasti ZDA",
+        "Dolgoročna stabilizacija cen energije"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-30T09:49:53.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
+      "objavljeno": "2026-09-30T18:01:14.000Z"
     },
     {
-      "naslov": "Nova študija: tablete Wegovy ohranjajo izgubo teže",
+      "naslov": "Lastnik Bootsa blizu prodaje verige lekarn za 9 milijard dolarjev kanadski družini Weston",
       "sektor": "Potrošniki",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Nova študija je pokazala, da ljudje, ki preidejo s tedenskih injekcij na tablete Wegovy podjetja Novo Nordisk, nadaljujejo z izgubljanjem telesne teže. To nakazuje, da bolniki morda ne bodo več potrebovali tedenskih injekcij, temveč bodo lahko izbrali bolj priročne oblike zdravljenja. Novica je bila objavljena 30. septembra 2026 ob 09:45:01 UTC.",
-      "analiza": "Uspeh tablete Wegovy podjetja Novo Nordisk, ki omogoča nadaljnjo izgubo teže po prehodu z injekcij, je pomemben razvoj na trgu zdravil za obvladovanje debelosti. Ta priročnejša oblika zdravljenja bi lahko povečala dostopnost in sprejetost zdravila med pacienti, ki se izogibajo injekcijam. To bi lahko vodilo do povečane prodaje in prihodkov za Novo Nordisk, kar bi pozitivno vplivalo na ceno delnic podjetja. Hkrati to predstavlja konkurenčno prednost pred drugimi zdravili, ki zahtevajo injiciranje. Vpliv na širše trge je verjetno omejen, vendar lahko dolgoročno vpliva na farmacevtski sektor, zlasti na področju zdravil za metabolne bolezni. Zlato pri 4219,30 USD/oz (+0,95 %) in nafta kažejo rast, kar ni neposredno povezano s tem dogodkom. Za slovenskega dolgoročnega vlagatelja, ki morda že ima delnice Novo Nordiska ali razmišlja o vlaganju v farmacevtski sektor, je to pozitivna novica, ki potrjuje potencial rasti podjetja na področju zdravljenja debelosti.",
+      "povzetek": "Financial Times je 30. septembra 2026 ob 18:59:53Z poročal, da se lastnik verige lekarn Boots približuje prodaji podjetja kanadski družini Weston za približno 9 milijard dolarjev. Ta prevzem bi pomenil vrnitev milijarderske družine Weston na britanski maloprodajni trg, štiri leta po prodaji Selfridgesa. Posel poudarja nadaljnjo konsolidacijo v maloprodajnem sektorju in kaže na strateške premike velikih igralcev.",
+      "analiza": "Ozadje te novice je dinamično okolje v maloprodajnem sektorju, kjer se podjetja soočajo z izzivi, kot so spletna konkurenca, spreminjajoče se navade potrošnikov in inflacijski pritiski. Prevzemi in združitve, kot je ta, so pogosti odziv na te izzive, saj omogočajo podjetjem optimizacijo poslovanja, doseganje sinergij in povečanje tržnega deleža. Prodaja Bootsa za 9 milijard dolarjev kaže na še vedno prisotno zanimanje za stabilne maloprodajne verige z močno blagovno znamko in uveljavljenim položajem na trgu. Takšni posli lahko pozitivno vplivajo na delnice vpletenih podjetij in celotnega sektorja, saj signalizirajo zaupanje v dolgoročni potencial. Za slovenskega dolgoročnega vlagatelja to pomeni, da je sektor potrošnikov, zlasti maloprodaja, podvržen nenehnim spremembam in konsolidaciji. Iskanje podjetij z močnimi blagovnimi znamkami in strateškimi prednostmi je ključno, saj lahko prevzemi prinesejo dodatno vrednost delničarjem in vplivajo na tržno dinamiko.",
       "vpliv": [
-        "Povečan potencial prodaje za Novo Nordisk",
-        "Večja konkurenčna prednost na trgu zdravil za debelost",
-        "Potencialno zmanjšanje stroškov zdravljenja za paciente",
-        "Pozitiven vpliv na ceno delnic podjetja"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
-      "objavljeno": "2026-09-30T09:45:01.000Z"
-    },
-    {
-      "naslov": "PwC zavrača potrditev računov Nideca kljub 6,3 milijarde dolarjev bremenitve",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Revizijska hiša PwC je zavrnila potrditev računovodskih izkazov podjetja Nidec, japonskega proizvajalca avtomobilskih delov, kljub bremenitvi v višini 6,3 milijarde dolarjev. To je nov udarec za prizadevanja podjetja, da bi se oddolžilo za računovodsko goljufijo. Novica je bila objavljena 30. septembra 2026 ob 09:44:31 UTC.",
-      "analiza": "Zavračanje potrditve računovodskih izkazov s strani ugledne revizijske hiše, kot je PwC, je resen znak za podjetje Nidec in njegove vlagatelje. To nakazuje na morebitne resne nepravilnosti v računovodstvu, ki bi lahko imele dolgoročne posledice za finančno stabilnost podjetja in zaupanje vlagateljev. Bremenitev v višini 6,3 milijarde dolarjev je izjemno visoka in lahko bistveno vpliva na bilanco stanja podjetja. Posledično lahko pride do padca cene delnic Nideca, povečanja stroškov financiranja in potencialnih pravnih posledic. Vpliv na širše finančne trge je verjetno omejen na specifični sektor avtomobilskih delov in podjetja, ki so izpostavljena podobnim tveganjem. Donosnost 10-letnih ameriških obveznic pri 5,25 % (+0,29 %) in VIX indeks pri 16,05 (+0,06 %) nakazujeta na relativno mirno splošno tržno razpoloženje, vendar pa takšne novice lahko povzročijo lokalizirano nestanovitnost. Za slovenskega dolgoročnega vlagatelja je to opomnik, da je skrbno preverjanje finančnih poročil podjetij ključnega pomena, zlasti v primerih, ko obstajajo znaki računovodskih težav.",
-      "vpliv": [
-        "Padajoča cena delnic Nideca",
-        "Povečano tveganje za vlagatelje v podjetje",
-        "Možni pravni postopki",
-        "Poslabšanje ugleda podjetja"
+        "Konsolidacija v maloprodajnem sektorju",
+        "Potencialna rast vrednosti delnic vpletenih podjetij",
+        "Zaupanje v dolgoročni potencial maloprodajnih verig",
+        "Povečana aktivnost M&A v sektorju"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/62ea4dd5-69ef-4fcf-8f07-ee1b3e4cdd9a?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-30T09:44:31.000Z"
+      "vir_url": "https://www.ft.com/content/c3a6e3b7-e998-43f0-82b2-f197e5d1730b?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-30T18:59:53.000Z"
     },
     {
-      "naslov": "Cene energije v Združenem kraljestvu najvišje v štirih letih",
-      "sektor": "Energetika",
+      "naslov": "Paramountova mega prodaja dolga razkriva pritisk višjih donosov obveznic na ameriška podjetja",
+      "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Napovedi kažejo, da bodo računi za gospodinjsko energijo v Združenem kraljestvu od januarja 2027 do marca 2027 najvišji v zadnjih štirih letih, s povprečnim letnim zneskom 1.999 funtov. Ta rast je deloma posledica vojne v Iranu, ki dviguje cene nafte. Novica je bila objavljena 30. septembra 2026 ob 09:08:22 UTC in 08:37:08 UTC.",
-      "analiza": "Napovedana rast cen energije v Združenem kraljestvu predstavlja pomemben pritisk na gospodinjstva in gospodarstvo. Povečanje letnih stroškov za skoraj 2.000 funtov bo zmanjšalo razpoložljivi dohodek gospodinjstev, kar lahko vpliva na potrošnjo drugih dobrin in storitev. To bi lahko negativno vplivalo na splošno gospodarsko rast. Geopolitični dejavniki, kot je vojna v Iranu, ki povzroča rast cen nafte (WTI pri 90,27 USD/sod, Brent pri 97,27 USD/sod), neposredno vplivajo na stroške energije. Ta dvig cen energije lahko dodatno prispeva k inflacijskim pritiskom, kar bi lahko prisililo Bank of England k strožji monetarni politiki. Za slovenske vlagatelje, ki imajo naložbe v podjetjih, ki so izpostavljena britanskemu trgu, ali v energetske družbe, je pomembno spremljati te trende. Povečani stroški energije lahko negativno vplivajo na dobičke podjetij in na kupno moč potrošnikov. Dolgoročno bi lahko takšne cene spodbudile naložbe v obnovljive vire energije, vendar je kratkoročni vpliv negativen.",
+      "povzetek": "MarketWatch je 30. septembra 2026 ob 19:42:00Z poročal, da Paramountova obsežna prodaja dolga razkriva, kako višje donosnosti obveznic stiskajo korporativno Ameriko. Matt Brill iz Invesca je dejal: 'V bližnji prihodnosti pričakujemo upad ponudbe, razen če si bo kdo moral izposoditi.' To kaže na naraščajoče stroške financiranja za podjetja, ki se morajo zadolževati na trgu obveznic, kar vpliva na njihove bilance.",
+      "analiza": "Ta novica je neposredno povezana z novico o rasti donosnosti ameriških državnih obveznic, ki smo jo obravnavali. Ko donosnosti obveznic rastejo, se povečajo tudi obrestne mere, po katerih se lahko zadolžujejo podjetja. To pomeni višje stroške servisiranja dolga, kar zmanjšuje dobičkonosnost podjetij in lahko omejuje njihove investicijske načrte. Za podjetja z velikim dolgom, kot je Paramount, to predstavlja pomemben izziv, saj se morajo prilagoditi dražjemu kapitalu. Višji stroški zadolževanja lahko vodijo do zmanjšanja naložb, odpuščanj in upočasnjene rasti, kar se lahko odrazi v padcu vrednosti delnic. To lahko vpliva tudi na celotno gospodarstvo, saj podjetja postanejo previdnejša pri porabi. Za slovenskega dolgoročnega vlagatelja to pomeni, da je v okolju naraščajočih obrestnih mer ključno preverjati finančno stanje podjetij, v katera vlaga, še posebej njihovo raven zadolženosti in sposobnost servisiranja dolga. Podjetja z močnimi bilancami so v takšnem okolju bolj odporna na finančne pritiske.",
       "vpliv": [
-        "Zmanjšana kupna moč britanskih gospodinjstev",
-        "Dodatni inflacijski pritiski v Združenem kraljestvu",
-        "Negativen vpliv na dobičke podjetij, odvisnih od energije",
-        "Potencialna potreba po strožji monetarni politiki"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-30T09:08:22.000Z"
-    },
-    {
-      "naslov": "OpenAI lansira osebnega AI asistenta 'dots', medtem ko varnostne skrbi zavirajo nov model",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Podjetje OpenAI je na svojem letnem dogodku za razvijalce predstavilo nov osebni AI asistent 'dots', ki naj bi bil zasnovan za obvladovanje vseh nalog. Hkrati pa varnostne skrbi zavirajo razvoj njihovega novega modela. Novici sta bili objavljeni 30. septembra 2026 ob 06:29:57 UTC in 05:18:13 UTC.",
-      "analiza": "Lansiranje novega AI asistenta 'dots' s strani OpenAI predstavlja nadaljnjo konkurenco na področju umetne inteligence, zlasti v primerjavi z rešitvami, kot sta Muse podjetja Meta in Gemini Spark podjetja Google. Ta razvoj bi lahko spodbudil inovacije in izboljšal funkcionalnost osebnih digitalnih asistentov. Vendar pa so hkratne varnostne skrbi glede novega modela OpenAI pomemben dejavnik, ki bi lahko vplival na zaupanje vlagateljev in uporabnikov. Takšne skrbi lahko privedejo do strožjih regulacij ali zamud pri uvajanju novih tehnologij. Vpliv na finančne trge je lahko dvojen: pozitivno na podjetja, ki razvijajo konkurenčne rešitve, in potencialno negativen na OpenAI, če varnostne težave postanejo resnejše. Trenutno se indeksi, kot je Nasdaq 100 pri 30339 (+0,21 %), niso bistveno odzvali, kar kaže na to, da trgi še ocenjujejo pomen teh novic. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati razvoj na področju AI, pri čemer je treba upoštevati tako inovativni potencial kot tudi varnostna in etična vprašanja, ki jih prinašajo te tehnologije.",
-      "vpliv": [
-        "Povečana konkurenca na trgu osebnih AI asistentov",
-        "Potencialne zamude pri razvoju novih AI modelov",
-        "Poudarek na varnostnih vidikih AI",
-        "Možna rast podjetij, ki ponujajo alternativne rešitve"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss",
-      "objavljeno": "2026-09-30T06:29:57.000Z"
-    },
-    {
-      "naslov": "Strateg: 5,25 % donosi obveznic so privlačni",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Strateg je izrazil optimizem glede ameriških obveznic, saj donosi 10-letnih obveznic dosegajo 5,25 %. Po njegovem mnenju so ti donosi \"velika debela blazina\", ki ponuja privlačno naložbeno priložnost, v nasprotju z njegovim prejšnjim pesimizmom glede obveznic od leta 2020. Novica je bila objavljena 30. septembra 2026 ob 09:32:00 UTC.",
-      "analiza": "Izjava stratega o privlačnosti 5,25 % donosa 10-letnih ameriških obveznic je pomemben signal za obvezniške trge. Po obdobju nizkih obrestnih mer, ki so izkrivljale donose, se zdaj ponujajo bolj realni donosi, ki bi lahko privabili vlagatelje. Strateg omenja, da so 5 % donosi na obveznice in 6 % na delnice bolj realni. Ta premik lahko povzroči prerazporeditev sredstev iz bolj tveganih naložb, kot so delnice, v obveznice, ki ponujajo višje in bolj stabilne donose. To bi lahko vodilo do zmanjšanja volatilnosti na delniških trgih, kot je S&P 500 pri 7671 (-0,17 %), in potencialno do rasti cen obveznic (padca njihovih donosov) v prihodnje. Vendar pa je treba upoštevati, da so visoki donosi pogosto povezani z inflacijskimi pričakovanji ali tveganjem. Za slovenske dolgoročne vlagatelje to pomeni, da bi lahko obveznice v prihodnje ponovno postale bolj privlačen del naložbenega portfelja, zlasti za tiste, ki iščejo stabilnost in reden dohodek, namesto visokih kapitalskih dobičkov.",
-      "vpliv": [
-        "Potencialni premik vlagateljev iz delnic v obveznice",
-        "Zmanjšanje privlačnosti delnic z nizkimi dividendami",
-        "Povečana stabilnost na obvezniških trgih",
-        "Možna rast cen obveznic"
+        "Višji stroški zadolževanja za podjetja",
+        "Zmanjšana dobičkonosnost podjetij",
+        "Potencialno zmanjšanje investicij in rasti",
+        "Povečan pritisk na podjetja z visokim dolgom"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-30T09:32:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/paramounts-mega-debt-sale-reveals-how-higher-bond-yields-are-squeezing-corporate-america-e9694ec3?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-30T19:42:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-30T10:28:49.533Z",
+    "posodobljenoOb": "2026-09-30T20:14:23.191Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7670.84,
-        "sprememba_pct": -0.17
+        "vrednost": 7651.54,
+        "sprememba_pct": -0.25
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 30339.332,
-        "sprememba_pct": 0.21
+        "vrednost": 30408.502,
+        "sprememba_pct": 0.23
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25360.12,
-        "sprememba_pct": -0.15
+        "vrednost": 25199.19,
+        "sprememba_pct": -0.79
       },
       {
         "simbol": "^N225",
@@ -158,22 +124,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4219.3,
-        "sprememba_pct": 0.95,
+        "vrednost": 4185.4,
+        "sprememba_pct": 0.14,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 90.27,
-        "sprememba_pct": 1,
+        "vrednost": 90.62,
+        "sprememba_pct": 1.39,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 97.27,
-        "sprememba_pct": 1.15,
+        "vrednost": 98.21,
+        "sprememba_pct": 2.13,
         "enota": "USD/sod"
       }
     ],
@@ -181,16 +147,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1362,
-        "sprememba_pct": 0.13
+        "vrednost": 1.1328,
+        "sprememba_pct": -0.17
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 5.255,
-        "sprememba_pct": 0.29,
+        "vrednost": 5.293,
+        "sprememba_pct": 0.72,
         "enota": "%"
       }
     ],
@@ -198,16 +164,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 83774.83,
-        "sprememba_pct": 0.18,
+        "vrednost": 83577.97,
+        "sprememba_pct": -0.06,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16.05,
-      "sprememba_pct": 0.06
+      "vrednost": 16.34,
+      "sprememba_pct": 1.87
     }
   }
 }
