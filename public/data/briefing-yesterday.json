@@ -1,163 +1,162 @@
 {
-  "generiranoOb": "2026-09-28T21:26:27.303Z",
+  "generiranoOb": "2026-09-29T20:17:41.864Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-09-28",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, medtem ko so ameriški indeksi po dveh urah trgovanja prav tako kazali rdeče številke. Nemški DAX je dan zaključil z blagim padcem za 0,13 % pri 25374 točkah, medtem ko sta v ZDA S&P 500 in Nasdaq 100 izgubljala, in sicer S&P 500 za 0,77 % na 7684 točk in Nasdaq 100 za 1,08 % na 30277 točk. Vzrok za to so predvsem nadaljnji pritiski na obvezniške donose, saj je donos 10-letne ameriške državne obveznice zrasel za 1,08 % na 5,24 %, kar je povzročilo umik iz tveganih naložb, še posebej v tehnološkem sektorju. Cene nafte so se zvišale, saj je Brent zrasel za 1,15 % na 98,56 USD/sod, kar je prispevalo k zaskrbljenosti glede inflacije in vpliva na potrošnike, kar se odraža tudi v napovedih podjetij kot je PepsiCo o dvigu cen. Zlato je medtem močno padlo, za 4,00 % na 4148.50 USD/oz, medtem ko je Bitcoin izgubil 1,19 % in se giblje pri 83448 USD. VIX, indeks volatilnosti, je zrasel za 8,07 % na 16,07, kar kaže na povečano negotovost na trgu. Vlagatelji bodo ta teden pozorno spremljali objave o inflaciji in morebitne komentarje centralnih bank glede prihodnje denarne politike.",
+  "datum": "2026-09-29",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje z mešanim, a večinoma pozitivnim predznakom, medtem ko so ameriški indeksi v zgodnjem popoldanskem trgovanju kazali rahlo nihanje. Nemški DAX je dan zaključil z rastjo za 0,10 % pri 25399 točkah. V ZDA je indeks S&P 500 beležil rahel padec za 0,17 % na 7671 točk, medtem ko je tehnološki Nasdaq 100 zrasel za 0,21 % na 30339 točk. Na trgu surovin je cena nafte WTI padla za 3,94 % na 88,95 USD/sod, Brent pa za 2,22 % na 95,66 USD/sod, medtem ko je zlato pridobilo 0,93 % in se gibalo pri 4207,10 USD/oz. Donosnost 10-letne ameriške državne obveznice se je zvišala za 0,29 % na 5,25 %, kar kaže na pritisk na obvezniški trg. Evro je glede na dolar oslabel za 0,30 %, pri čemer je tečaj EUR/USD znašal 1,1339. Med ključnimi novicami dneva so bile razprave o prihodnjih potezah ameriške centralne banke, pomembna prevzema v tehnološkem sektorju, geopolitične napetosti med ZDA in Iranom ter gibanje cen nafte. Vlagatelji bodo ta teden pozorno spremljali prihajajoče podatke o inflaciji v evroobmočju.",
   "novice": [
     {
-      "naslov": "Nvidia razkrila varnostno platformo za AI in ogromen odkup delnic",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 3,
-      "povzetek": "Nvidia je danes predstavila novo varnostno platformo, zasnovano za preprečevanje 'podivjanja' umetno inteligentnih agentov, kar je odziv na incidente pri vodilnih podjetjih. Hkrati je podjetje napovedalo odkup lastnih delnic v vrednosti 150 milijard dolarjev, kar predstavlja največji odkup v zgodovini ameriških korporacij. Nova platforma poudarja Nvidiino zavezanost k varnosti in zanesljivosti v razvoju AI. Odkup delnic je namenjen povečanju vrednosti za delničarje in signalizira močno finančno stanje podjetja. To kaže na Nvidiino vodilno vlogo v sektorju AI in njeno sposobnost inovacij.",
-      "analiza": "Nvidia, ključni igralec v industriji čipov za umetno inteligenco, s to potezo utrjuje svoj položaj na trgu. Predstavitev varnostne platforme je pomembna v luči naraščajočih etičnih in varnostnih pomislekov glede AI, saj podjetja iščejo rešitve za zanesljivo implementacijo AI agentov. To bi lahko povečalo zaupanje v Nvidiine rešitve in privabilo nove stranke. Odkup delnic v vrednosti 150 milijard dolarjev je izjemno pomemben, saj zmanjšuje število delnic v obtoku in s tem povečuje dobiček na delnico, kar je običajno pozitivno za ceno delnice. Takšna poteza signalizira močno bilanco stanja in optimističen pogled uprave na prihodnje poslovanje. Za delnice Nvidie to pomeni močno podporo, medtem ko bi lahko širši tehnološki sektor dobil zagon zaradi poudarka na inovacijah in zaupanju v AI. Obvezniški trgi in valute so manj neposredno prizadeti, razen posredno preko splošnega sentimenta. Za slovenskega dolgoročnega vlagatelja to pomeni, da so podjetja v sektorju AI še vedno v fazi hitre rasti in inovacij, vendar je pomembno spremljati tudi regulatorne in varnostne vidike.",
-      "vpliv": [
-        "Nvidia napovedala odkup delnic v vrednosti 150 milijard dolarjev",
-        "Predstavitev nove varnostne platforme za AI",
-        "Povečanje zaupanja v AI sektor",
-        "Pozitiven vpliv na ceno delnic Nvidie"
-      ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback",
-      "objavljeno": "2026-09-28T19:24:07.000Z"
-    },
-    {
-      "naslov": "Cena dizla v Združenem kraljestvu dosegla rekordno raven",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Povprečna cena litra dizla na črpalkah v Združenem kraljestvu je dosegla rekordnih 198,32 penijev, poroča avtomobilistično združenje RAC. Glavni razlog za to podražitev je vojna med ZDA in Izraelom z Iranom, ki povzroča motnje v globalnih dobavah nafte. Ta geopolitična napetost je že povzročila rast cen surove nafte, vključno z Brent nafto, ki je danes zrasla za 1,15 % na 98,56 USD/sod. Združeno kraljestvo se prav tako sooča z grožnjo ameriškega predsednika Donalda Trumpa o ustavitvi izvoza dizla, kar bi lahko še dodatno poslabšalo situacijo. Vlada Združenega kraljestva se pogaja z ZDA, da bi preprečila takšno prepoved izvoza.",
-      "analiza": "Rast cen dizla na rekordne ravni v Združenem kraljestvu je neposredna posledica geopolitičnih napetosti, predvsem zaradi vojne med ZDA in Izraelom z Iranom. Ta konflikt povzroča negotovost na trgu nafte, kar se odraža v višjih cenah surovine in posledično dražjih gorivih za končne potrošnike. Cene Brent nafte so danes zrasle na 98,56 USD/sod, kar kaže na nadaljnje inflacijske pritiske. Grožnja ameriškega predsednika Trumpa z ustavitvijo izvoza dizla bi lahko imela daljnosežne ekonomske posledice, saj bi omejila dobavo na globalnem trgu in povzročila še večje cenovne skoke, kar bi prizadelo industrijo in potrošnike. Visoke cene energentov povečujejo proizvodne stroške podjetij in zmanjšujejo kupno moč gospodinjstev, kar lahko upočasni gospodarsko rast. Za obvezniške trge to pomeni nadaljnje pritiske na donose, saj centralne banke morda ne bodo mogle znižati obrestnih mer, če se inflacija zaradi energentov ne umiri. Za slovenskega dolgoročnega vlagatelja to pomeni, da so energenti in geopolitika še vedno pomembna gonilna sila trga, kar lahko vpliva na inflacijo in s tem na donosnost naložb.",
-      "vpliv": [
-        "Cena dizla v UK dosegla rekordnih 198,32 penijev/liter",
-        "Rast cen nafte zaradi geopolitičnih napetosti (Brent +1,15 % na 98,56 USD/sod)",
-        "Grožnja z ameriško prepovedjo izvoza dizla",
-        "Povečani inflacijski pritiski"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-09-28T20:42:56.000Z"
-    },
-    {
-      "naslov": "Prodaja obveznic se poglablja ob rasti cen nafte",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Prodaja obveznic se je poglobila, saj so cene nafte ponovno zrasle, kar je potisnilo donos 10-letne ameriške državne obveznice nad 5,2 %. Natančneje, donos je danes zrasel za 1,08 % na 5,24 %. Povečanje cen nafte, kjer je Brent nafta poskočila, je posledica upadajočih upanj za dogovor med ZDA in Iranom, kar ohranja geopolitične napetosti. To ustvarja pritisk na centralne banke, da ohranijo ali celo zvišajo obrestne mere, kar negativno vpliva na cene obveznic. VIX, indeks volatilnosti, je danes zrasel za 8,07 % na 16,07, kar kaže na povečano negotovost na trgu.",
-      "analiza": "Poglobljena prodaja obveznic, ki je danes potisnila donos 10-letne ameriške državne obveznice na 5,24 %, je ključni makroekonomski trend. Ta rast donosov je neposredno povezana z naraščajočimi cenami nafte, ki so posledica geopolitičnih napetosti in upadajočih upanj za stabilizacijo razmer med ZDA in Iranom. Višje cene nafte povečujejo inflacijske pritiske, kar zmanjšuje verjetnost, da bodo centralne banke kmalu znižale obrestne mere. To pomeni, da so obveznice manj privlačne, saj njihove cene padajo, ko donosi rastejo. Za delniške trge, še posebej za tehnološke delnice, višji donosi obveznic pomenijo večje stroške zadolževanja in nižje vrednotenje prihodnjih denarnih tokov, kar je danes prispevalo k padcu indeksov S&P 500 (-0,77 %) in Nasdaq 100 (-1,08 %). Zlato je v takšnem okolju, kljub negotovosti, padlo za 4,00 % na 4148.50 USD/oz, kar kaže na močnejši dolar in umik kapitala v bolj likvidne naložbe. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so obrestne mere in inflacija ključni dejavniki, ki vplivajo na vrednost vseh naložb, in da je trenutno okolje neugodno za dolgoročne obveznice.",
-      "vpliv": [
-        "Donos 10-letne US Treasury zrasel za 1,08 % na 5,24 %",
-        "Padec cen obveznic",
-        "Rast cen nafte (Brent +1,15 % na 98,56 USD/sod)",
-        "Negativen vpliv na delnice, še posebej tehnološke (S&P 500 -0,77 %, Nasdaq 100 -1,08 %)",
-        "Povečana volatilnost (VIX +8,07 % na 16,07)"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-28T19:41:05.000Z"
-    },
-    {
-      "naslov": "AMD za 8 milijard dolarjev prevzema AI startup Fei-Fei Li",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "AMD je napovedal prevzem zagonskega podjetja World Labs, ki ga je ustanovila raziskovalka z univerze Stanford, Fei-Fei Li, za 8 milijard dolarjev. World Labs se osredotoča na razvoj modelov umetne inteligence, ki razumejo 3D okolja. Ta prevzem poudarja nadaljnjo konsolidacijo in intenzivno naložbeno dejavnost v sektorju umetne inteligence. AMD s to potezo krepi svoje zmogljivosti na področju AI, kar je ključno za konkurenčnost v hitro rastoči industriji čipov.",
-      "analiza": "Prevzem podjetja World Labs s strani AMD za 8 milijard dolarjev je pomemben korak v tekmi za prevlado v sektorju umetne inteligence. Fei-Fei Li je ugledna raziskovalka, in njeno podjetje prinaša specializirano znanje o AI modelih, ki razumejo 3D okolja, kar je ključno za aplikacije v virtualni resničnosti, robotiki in avtonomni vožnji. Ta poteza kaže na strateško usmeritev AMD-ja v širjenje portfelja AI rešitev in neposredno konkuriranje podjetjem kot je Nvidia. Prevzemi v AI sektorju so pogosti, saj velika podjetja iščejo inovativne tehnologije in talente za pospešitev lastnega razvoja. Za delnice AMD-ja je to dolgoročno pozitivno, saj krepi njihov položaj na rastočem trgu AI. Širši tehnološki sektor to vidi kot potrditev nenehnih inovacij in privlačnosti AI podjetij. Vpliv na obveznice, valute in surovine je minimalen, razen posredno preko splošnega optimizma v tehnološkem sektorju. Slovenski dolgoročni vlagatelj lahko iz tega sklepa, da je sektor umetne inteligence še vedno v fazi intenzivne rasti in da so strateški prevzemi ključni za ohranjanje konkurenčnosti.",
-      "vpliv": [
-        "AMD prevzel World Labs za 8 milijard dolarjev",
-        "Krepitev AMD-jevih zmogljivosti na področju AI",
-        "Nadaljevanje konsolidacije v AI sektorju",
-        "Pozitiven vpliv na delnice AMD dolgoročno"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-28T20:45:12.000Z"
-    },
-    {
-      "naslov": "Apple mora plačati 5,7 milijarde dolarjev v patentnem sporu",
-      "sektor": "Tehnologija",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Kalifornijska porota je odločila, da mora Apple plačati 5,7 milijarde dolarjev v primeru kršitve patentov. Ugotovljeno je bilo, da je Apple kršil dva patenta podjetja Taction, vendar ni namerno kršil pravic. Apple načrtuje pritožbo na to odločitev. Ta sodba predstavlja pomemben finančni udarec za tehnološkega velikana in poudarja tveganja, povezana z intelektualno lastnino v industriji.",
-      "analiza": "Sodba, ki Applu nalaga plačilo 5,7 milijarde dolarjev zaradi kršitve patentov, je pomemben dogodek za podjetje in širši tehnološki sektor. Čeprav Apple načrtuje pritožbo, takšna odločitev poudarja kompleksnost in tveganja, povezana z intelektualno lastnino v visoko tehnološki industriji. Znesek 5,7 milijarde dolarjev je sicer velik, vendar za podjetje velikosti Appla, z ogromnimi denarnimi rezervami, ne predstavlja eksistenčne grožnje, lahko pa vpliva na kratkoročno sentiment in dobičkonosnost. Za delnice Appla bi to lahko pomenilo kratkoročni pritisk, saj vlagatelji ocenjujejo finančni vpliv in pravna tveganja. Širši tehnološki sektor bo pozorno spremljal razvoj dogodkov, saj patentni spori niso redkost in lahko vplivajo na inovacije in konkurenčnost. Vpliv na obveznice, valute in surovine je minimalen, saj gre za specifičen primer podjetja. Slovenski dolgoročni vlagatelj naj bo pozoren na to, da so tudi največja podjetja izpostavljena pravnim tveganjem, ki lahko občasno vplivajo na njihovo poslovanje in vrednost delnic.",
-      "vpliv": [
-        "Apple mora plačati 5,7 milijarde dolarjev odškodnine",
-        "Kršitev dveh patentov podjetja Taction",
-        "Apple načrtuje pritožbo",
-        "Negativen vpliv na ceno delnic Appla"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case?traffic_source=rss",
-      "objavljeno": "2026-09-28T20:11:30.000Z"
-    },
-    {
-      "naslov": "PepsiCo načrtuje dvig cen, kar skrbi Wall Street",
-      "sektor": "Potrošniki",
+      "naslov": "Fed: Ni potrebe po hitenju z oktobrskim zvišanjem obrestnih mer",
+      "sektor": "Makro & Centralne banke",
       "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "PepsiCo načrtuje dvig cen za svoje izdelke, vključno z gaziranimi pijačami, čipsom in pomakami, kar skrbi Wall Street. Analitiki TD Cowen so opozorili na 'spreminjajočo se pripoved o cenovni dostopnosti' kot tveganje za podjetje. Ta poteza kaže na nadaljnje inflacijske pritiske v sektorju potrošniškega blaga, saj podjetja poskušajo prenesti višje stroške na potrošnike. To bi lahko vplivalo na obseg prodaje in kupno moč gospodinjstev.",
-      "analiza": "Napoved PepsiCo o dvigu cen je pomemben indikator nadaljnjih inflacijskih pritiskov v gospodarstvu. Podjetja v sektorju potrošniškega blaga se soočajo z naraščajočimi stroški surovin, dela in logistike, kar jih sili v prilagajanje cen. Čeprav dvig cen lahko kratkoročno izboljša marže podjetja, kot je PepsiCo, obstaja tveganje, da bo to zmanjšalo povpraševanje potrošnikov, še posebej ob 'spreminjajoči se pripovedi o cenovni dostopnosti'. Za delnice PepsiCo bi to lahko pomenilo mešan odziv – potencialno višje prihodke, a tudi tveganje za zmanjšanje obsega prodaje. Širše gledano, takšne napovedi krepijo pričakovanja, da bo inflacija ostala povišana, kar lahko vpliva na odločitve centralnih bank glede obrestnih mer. Višje obrestne mere pa posledično vplivajo na obvezniške trge in vrednotenje delnic. Za valute bi to lahko pomenilo močnejši dolar, če ameriška inflacija ostane visoka. Slovenski dolgoročni vlagatelj naj bo pozoren na to, kako se podjetja v sektorju potrošniškega blaga spopadajo z inflacijskimi pritiski in ali lahko ohranijo svojo konkurenčnost in dobičkonosnost kljub višjim cenam.",
+      "intenziteta": 3,
+      "povzetek": "Trgovci, ki so pričakovali zaporedno zvišanje obrestnih mer s strani ameriške centralne banke (Fed) že oktobra, so morda prehitevali dogodke. Predsednik newyorškega Feda, John Williams, je izjavil, da »ni potrebe po hitenju« po septembrskem zvišanju. Ta izjava nakazuje na bolj previden pristop Feda k monetarni politiki v prihodnjih mesecih. Trgi so v zadnjem času močno vključevali možnost nadaljnjega zaostrovanja, kar je vplivalo na donosnosti obveznic. Williamsove besede so pomemben signal o morebitnem umirjanju tempa zviševanja obrestnih mer, kar lahko vpliva na pričakovanja vlagateljev.",
+      "analiza": "Ozadje te novice je trenutno visoka inflacija in robusten trg dela v ZDA, ki sta Fed v zadnjem obdobju silila v agresivno zviševanje obrestnih mer. Trgi so bili v pričakovanju, da bo Fed nadaljeval s hitrim zaostrovanjem, kar se je odražalo v rasti donosnosti obveznic, vključno z 10-letno ameriško državno obveznico, ki je danes pri 5,25 %. Izjava Johna Williamsa, da »ni potrebe po hitenju«, je pomembna, saj zmanjšuje pritisk na Fed za takojšnje nadaljnje zvišanje. To lahko pomeni, da se bo Fed morda odločil za premor ali počasnejši tempo zviševanja, kar bi lahko razbremenilo delniške trge, ki so občutljivi na višje obrestne mere. Hkrati pa to ne pomeni nujno konca cikla zviševanja, ampak le spremembo tempa. Za delnice bi to lahko pomenilo manjši pritisk na vrednotenja, saj višje obrestne mere zmanjšujejo privlačnost prihodnjih denarnih tokov. Za obveznice bi lahko umiritev pričakovanj zmanjšala pritisk na rast donosnosti, čeprav je danes donosnost 10-letne obveznice zrasla za 0,29 %. Vpliv na valute je lahko mešan; če se pričakovanja o zviševanju umirijo, bi lahko dolar oslabel, kar se je danes delno že pokazalo z padcem EUR/USD za 0,30 %. Slovenski dolgoročni vlagatelj naj bo pozoren na komunikacijo Feda, saj ta močno vpliva na globalne obrestne mere in s tem na privlačnost različnih naložbenih razredov.",
       "vpliv": [
-        "PepsiCo načrtuje dvig cen izdelkov",
-        "Zaskrbljenost Wall Streeta glede vpliva na povpraševanje",
-        "Nadaljnji inflacijski pritiski v sektorju potrošniškega blaga",
-        "Potencialno zmanjšanje kupne moči potrošnikov"
+        "Zmanjšana pričakovanja za hitro zvišanje obrestnih mer",
+        "Potencialno manjši pritisk na delniške trge",
+        "Možna umiritev rasti donosnosti obveznic",
+        "Potencialno šibkejši dolar"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/pepsico-plans-to-raise-prices-on-sodas-chips-and-dip-and-that-has-wall-street-worried-0ec355bf?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-28T19:37:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/traders-expecting-a-back-to-back-rate-hike-from-the-fed-in-october-may-have-gotten-ahead-of-themselves-e2cc5193?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-29T20:13:00.000Z"
+    },
+    {
+      "naslov": "AMD prevzema World Labs za 8 milijard dolarjev, cilj so talenti in AI",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Podjetje AMD je zaključilo prevzem World Labs za 8 milijard dolarjev, pri čemer se 'prava nagrada' ne skriva le v tehnologiji. AMD s to potezo pridobiva vrhunske modele prostorske inteligence, še pomembneje pa je, da dobiva vodjo, ki lahko pomaga pri privabljanju vrhunskih talentov. Cilj prevzema je tudi osredotočenje na realne aplikacije umetne inteligence. Ta strateška poteza poudarja pomen talentov in praktične uporabe AI v konkurenčnem tehnološkem sektorju. Prevzem bo AMD-ju omogočil krepitev položaja na področju umetne inteligence.",
+      "analiza": "Prevzem World Labs s strani AMD-ja za 8 milijard dolarjev je del širšega trenda v tehnološki industriji, kjer podjetja agresivno vlagajo v umetno inteligenco in s tem povezan talent. V ozadju je hitra rast povpraševanja po AI rešitvah in čipih, ki jih poganjajo. To je še posebej relevantno zdaj, ko se podjetja borijo za prevlado v razvoju in implementaciji AI tehnologij. Mehanizem vpliva na finančne trge je večplasten: za AMD to pomeni krepitev konkurenčnega položaja proti tekmecem, kot je Nvidia, kar lahko dolgoročno pozitivno vpliva na ceno delnice. Poudarek na pridobivanju talentov in praktičnih aplikacijah kaže na zrelost trga AI, ki se premika od raziskav k komercializaciji. Za širši tehnološki sektor to pomeni nadaljevanje konsolidacije in intenziviranja boja za inovacije. Posledice za delnice podjetij, ki so aktivna na področju AI, so lahko pozitivne, saj prevzemi kažejo na visoko vrednost tovrstnih podjetij. Za obveznice in valute je neposreden vpliv manjši, posredno pa močan tehnološki sektor lahko podpira gospodarsko rast. Slovenski dolgoročni vlagatelj naj bo pozoren na podjetja, ki se strateško pozicionirajo v sektorju umetne inteligence, saj ta ostaja gonilna sila rasti.",
+      "vpliv": [
+        "Krepitev konkurenčnega položaja AMD na področju AI",
+        "Pozitiven vpliv na ceno delnice AMD",
+        "Nadaljevanje konsolidacije v tehnološkem sektorju",
+        "Poudarek na talentih in praktičnih aplikacijah AI"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-29T19:34:00.000Z"
+    },
+    {
+      "naslov": "OpenAI in Meta stopnjujeta bitko za AI agente z novimi lansiranji",
+      "sektor": "Tehnologija & AI",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "OpenAI je lansiral svojega tekmeca Metinemu Muse, s čimer se bitka za AI agente (umetno inteligentne pomočnike) močno stopnjuje. Osebni AI asistenti se oblikujejo kot nova fronta za tehnološka podjetja. Ta poteza OpenAI-ja kaže na hitro in agresivno širjenje na področje, ki ga Meta že razvija. Sam Altman je govoril v San Franciscu med letnim dogodkom OpenAI za razvijalce, kjer je bilo razkrito tudi preimenovanje agentov v 'dots'. Varnostni pomisleki pa so zamaknili nov model, kar kaže na izzive pri hitrem razvoju.",
+      "analiza": "Ozadje te novice je eksponentna rast in komercializacija umetne inteligence, kjer se podjetja, kot sta OpenAI in Meta, borijo za prevlado v naslednji generaciji digitalnih interakcij – osebnih AI asistentih. To je relevantno zdaj, saj se AI premika iz ozkih aplikacij v širšo uporabo, ki bo vplivala na vsakdanje življenje in poslovanje. Mehanizem vpliva na finančne trge je predvsem skozi konkurenčno dinamiko in potencial za rast. Intenzivna konkurenca med velikimi tehnološkimi podjetji lahko vodi do hitrejših inovacij, a tudi do večjih stroškov razvoja in trženja. Za delnice to pomeni, da bodo podjetja, ki uspešno razvijejo in monetizirajo AI agente, verjetno videla rast vrednosti, medtem ko bodo tista, ki zaostajajo, pod pritiskom. Novica o zamiku novega modela zaradi varnostnih pomislekov poudarja tudi regulativna in etična tveganja, ki bi lahko vplivala na razvoj sektorja. Za širši tehnološki indeks, kot je Nasdaq 100, ki je danes zrasel za 0,21 %, je to dokaz nadaljnje rasti in inovacij. Slovenski dolgoročni vlagatelj naj razume, da je sektor AI zelo dinamičen in zahteva pozorno spremljanje tako tehnološkega napredka kot tudi konkurenčnega okolja.",
+      "vpliv": [
+        "Intenziviranje konkurence na trgu AI asistentov",
+        "Potencial za hitrejše inovacije v AI",
+        "Povečani stroški razvoja in trženja za tehnološka podjetja",
+        "Opozorilo na varnostna in etična tveganja AI"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/openai-launches-a-rival-to-metas-muse-as-the-battle-for-ai-agents-kicks-into-high-gear-0f0de9b3?mod=mw_rss_topstories",
+      "objavljeno": "2026-09-29T18:34:00.000Z"
+    },
+    {
+      "naslov": "Posredniki si prizadevajo prebiti zastoj v pogovorih med ZDA in Iranom",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Posredniki si prizadevajo prebiti zastoj v pogovorih med ZDA in Iranom. Pogajalci so se premikali med ameriškimi in iranskimi uradniki v prizadevanjih za obnovo pogovorov, ki bi končali sedemmesečno vojno. Ta diplomatska prizadevanja so ključna za regionalno stabilnost in imajo potencial za širše gospodarske posledice. Iranska revolucionarna garda (IRGC) je medtem pozvala ameriške volivce k spremembi Trumpove administracije, obtožujoč Trumpa laganja o stanju vojne. Napetosti ostajajo visoke.",
+      "analiza": "Ozadje te novice so dolgotrajne napetosti med ZDA in Iranom, ki so se v zadnjih sedmih mesecih stopnjevale v vojaški konflikt. Ta konflikt ima korenine v zgodovinskih nesoglasjih, jedrskem programu Irana in regionalnem vplivu. Relevantnost je visoka, saj konflikt vpliva na stabilnost celotnega Bližnjega vzhoda in globalne energetske trge. Mehanizem vpliva na finančne trge je predvsem prek cen nafte in splošnega sentimenta tveganja. Nestabilnost v regiji, ki je ključna za globalno oskrbo z nafto, običajno povzroči rast cen nafte. Danes sta ceni nafte WTI in Brent sicer padli za 3,94 % in 2,22 %, kar bi lahko bilo posledica drugih dejavnikov, kot je novica o povečanem izvozu nafte iz Bližnjega vzhoda (novica 32), vendar dolgoročna geopolitična tveganja ostajajo. Za delnice to pomeni povečano negotovost, še posebej za podjetja, ki so odvisna od stabilnih cen energije ali imajo poslovanje v regiji. Zlato, ki velja za varno zatočišče, je danes zraslo za 0,93 % na 4207,10 USD/oz, kar odraža splošno geopolitično negotovost. Slovenski dolgoročni vlagatelj naj se zaveda, da so geopolitična tveganja inherentni del globalnih trgov in lahko povzročijo kratkoročno volatilnost, vendar redko spremenijo dolgoročne trende, razen v primeru obsežnih konfliktov.",
+      "vpliv": [
+        "Povečana geopolitična negotovost v regiji",
+        "Potencial za rast cen nafte (dolgoročno)",
+        "Povečano povpraševanje po varnih zatočiščih, kot je zlato",
+        "Povečana volatilnost na delniških trgih"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/2e2c868b-9510-4f0c-bbeb-ca17e7a18cc1?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-29T18:30:00.000Z"
+    },
+    {
+      "naslov": "Disney odpušča 300 zaposlenih v okviru zmanjševanja stroškov",
+      "sektor": "Potrošniki",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Disney odpušča približno 300 zaposlenih v najnovejšem krogu zmanjševanja stroškov pod novim izvršnim direktorjem Joshom D'Amarom. Podjetje je že v avgustovskem poročilu o zaslužkih opozorilo na ta krog odpuščanj kot enega izmed vzvodov za zmanjšanje stroškov. To kaže na nadaljnje prizadevanje podjetja za optimizacijo poslovanja in izboljšanje dobičkonosnosti v izzivnem gospodarskem okolju. Odpuščanja se dotikajo različnih oddelkov znotraj podjetja in so del širše strategije preoblikovanja.",
+      "analiza": "Odpuščanja v Disneyju so del širšega trenda, kjer velika podjetja, tudi tista z močno blagovno znamko, optimizirajo stroške v luči negotovega gospodarskega okolja in spreminjajočih se navad potrošnikov. V ozadju so pritiski na dobičkonosnost, visoki stroški dela in potreba po prilagoditvi digitalni transformaciji. To je relevantno zdaj, saj kaže na previdnost podjetij glede prihodnjih gospodarskih obetov in na nadaljevanje 'vitkanja' organizacij. Mehanizem vpliva na finančne trge je predvsem skozi percepcijo zdravja podjetja in širšega gospodarstva. Odpuščanja lahko kratkoročno pozitivno vplivajo na ceno delnice, saj vlagatelji pozdravljajo zmanjšanje stroškov in prizadevanja za dobičkonosnost. Dolgoročno pa lahko ponavljajoča se odpuščanja kažejo na strukturne težave ali šibko povpraševanje potrošnikov. Za delnice podjetij v sektorju potrošniških storitev in medijev, kot je Disney, to pomeni, da so pod pritiskom za učinkovitost. Širše, to lahko vpliva na potrošniško zaupanje, čeprav 300 odpuščenih ni ogromna številka za podjetje velikosti Disneyja. Slovenski dolgoročni vlagatelj naj bo pozoren na finančne rezultate podjetij in njihove strategije za obvladovanje stroškov, saj to vpliva na dolgoročno stabilnost in rast naložb.",
+      "vpliv": [
+        "Zmanjšanje stroškov in optimizacija poslovanja Disneyja",
+        "Potencialno kratkoročno pozitiven vpliv na ceno delnice Disneyja",
+        "Opozorilo na previdnost podjetij glede gospodarskih obetov",
+        "Širši trend optimizacije stroškov v velikih korporacijah"
+      ],
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/09/29/disney-layoffs-josh-damaro.html",
+      "objavljeno": "2026-09-29T18:21:27.000Z"
+    },
+    {
+      "naslov": "Izvoz nafte z Bližnjega vzhoda na najvišji ravni od iranske vojne",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Izvoz nafte z Bližnjega vzhoda je dosegel najvišjo raven od začetka iranske vojne. Storitve prevoza skozi Hormuško ožino so povečale pošiljke na več kot 80 % predvojnega dnevnega povprečja. To pomeni pomembno povečanje globalne ponudbe nafte, kar lahko vpliva na cene. Povečan izvoz lahko prispeva k stabilizaciji trga in zmanjšanju pritiskov na cene, ki so se v zadnjem času zviševale. To je pomemben dejavnik za globalno energetsko varnost.",
+      "analiza": "Povečanje izvoza nafte z Bližnjega vzhoda je ključna novica za globalne energetske trge, saj regija ostaja eden glavnih dobaviteljev nafte. V ozadju je verjetno kombinacija diplomatskih prizadevanj, kot je posredovanje med ZDA in Iranom (novica 14), in želja držav proizvajalk po maksimiranju prihodkov. To je relevantno zdaj, ko so cene nafte, kot je Brent pri 95,66 USD/sod in WTI pri 88,95 USD/sod, še vedno razmeroma visoke, kljub današnjemu padcu za 2,22 % oziroma 3,94 %. Mehanizem vpliva na finančne trge je neposreden: povečana ponudba nafte običajno vodi do znižanja cen, kar je danes že opazno. Nižje cene nafte so na splošno pozitivne za globalno gospodarstvo, saj zmanjšujejo inflacijske pritiske in stroške poslovanja za podjetja. To lahko razbremeni centralne banke, kot je Fed, pri odločanju o obrestnih merah. Za delnice to pomeni nižje stroške energije za številna podjetja, kar lahko izboljša njihovo dobičkonosnost. Za valute lahko nižje cene nafte zmanjšajo pritisk na valute uvoznic nafte. Slovenski dolgoročni vlagatelj naj razume, da so cene energije ključen dejavnik za globalno gospodarstvo in inflacijo, zato je spremljanje ponudbe in povpraševanja po nafti bistveno za oceno makroekonomskih obetov.",
+      "vpliv": [
+        "Povečana globalna ponudba nafte",
+        "Znižanje cen nafte (WTI -3,94 %, Brent -2,22 %)",
+        "Zmanjšanje inflacijskih pritiskov",
+        "Potencialno razbremenitev centralnih bank pri monetarni politiki"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/26c54c8c-931c-4d84-9cf3-fd3e9b5e215d?syn-25a6b1a6=1",
+      "objavljeno": "2026-09-29T16:46:57.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-28T21:25:36.307Z",
+    "posodobljenoOb": "2026-09-29T20:16:46.249Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7683.69,
-        "sprememba_pct": -0.77
+        "vrednost": 7670.84,
+        "sprememba_pct": -0.17
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 30276.81,
-        "sprememba_pct": -1.08
+        "vrednost": 30339.332,
+        "sprememba_pct": 0.21
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25374.42,
-        "sprememba_pct": -0.13
+        "vrednost": 25399.21,
+        "sprememba_pct": 0.1
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 65877.62,
-        "sprememba_pct": -0.73
+        "vrednost": 65481.27,
+        "sprememba_pct": -0.6
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4148.5,
-        "sprememba_pct": -4,
+        "vrednost": 4207.1,
+        "sprememba_pct": 0.93,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 93.29,
-        "sprememba_pct": 0.95,
+        "vrednost": 88.95,
+        "sprememba_pct": -3.94,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 98.56,
-        "sprememba_pct": 1.15,
+        "vrednost": 95.66,
+        "sprememba_pct": -2.22,
         "enota": "USD/sod"
       }
     ],
@@ -165,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1373,
-        "sprememba_pct": -0.18
+        "vrednost": 1.1339,
+        "sprememba_pct": -0.3
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 5.24,
-        "sprememba_pct": 1.08,
+        "vrednost": 5.255,
+        "sprememba_pct": 0.29,
         "enota": "%"
       }
     ],
@@ -182,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 83448.45,
-        "sprememba_pct": -1.19,
+        "vrednost": 83539.2,
+        "sprememba_pct": 0.06,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16.07,
-      "sprememba_pct": 8.07
+      "vrednost": 16.01,
+      "sprememba_pct": -0.37
     }
   }
 }
