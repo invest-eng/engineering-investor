@@ -1,82 +1,116 @@
 {
-  "generiranoOb": "2026-09-30T20:21:47.447Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-10-01T10:57:50.855Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-09-30",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje večinoma v negativnem območju, pri čemer je nemški indeks DAX padel za 0,79 % na 25199 točk. Na drugi strani je japonski Nikkei 225 zabeležil rast za 1,94 % na 66754. Ameriški trgi, ki so odprti že dve uri, kažejo mešano sliko, saj je S&P 500 pri 7652 točkah z -0,25 % padcem, medtem ko Nasdaq 100 beleži rast za 0,23 % na 30409. Pozornost vlagateljev je pritegnil predvsem skok donosnosti 10-letne ameriške državne obveznice, ki je zrasla za 0,72 % na 5,29 %, kar kaže na širšo nestabilnost na trgu obveznic. Geopolitične napetosti ostajajo visoke, medtem ko sektor umetne inteligence čaka na regulativne odločitve. Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v ZDA, ki bi lahko vplivali na pričakovanja glede prihodnjih potez centralnih bank.",
+  "datum": "2026-10-01",
+  "povzetek": "Jutranji pregled finančnih trgov 1. oktobra 2026 kaže na mešano sliko po nočnem trgovanju. Ameriški indeks S&P 500 je zaključil z rahlim padcem za -0.25 % pri 7652 točkah, medtem ko je tehnološki Nasdaq 100 zabeležil skromno rast za +0.23 % na 30409 točk. Evropski DAX je sledil ameriškemu trendu in padel za -0.30 % na 25123 točk, medtem ko so azijski trgi, predvsem Nikkei 225, izstopali z močno rastjo +3.30 % na 68957 točk. Na trgu obveznic se nadaljuje razprodaja, saj je donosnost 10-letne ameriške državne obveznice poskočila za +0.72 % na 5.29 %, kar je najvišja raven po letu 2002. Surovine so bile v zelenem, WTI nafta je zrasla za +1.11 % na 91.42 USD/sod, Brent pa za +1.79 % na 99.78 USD/sod, zlato je pridobilo +0.41 % na 4204.00 USD/oz. Geopolitične napetosti ostajajo v ospredju z preiskavo napada na let Flydubai, medtem ko tehnološki sektor spremlja opozorila Bank of England glede tveganj umetne inteligence in nov 7 milijard dolarjev vreden posel med Oraclom in Tencentom. Vlagatelji bodo ta teden pozorno spremljali objave o inflaciji in morebitne izjave centralnih bankirjev glede obrestnih mer.",
   "novice": [
     {
-      "naslov": "Donosnosti ameriških obveznic dosegle rekordno rast, pretresle globalne vlagatelje",
-      "sektor": "Finance & Makroekonomija",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Donosnosti ameriških državnih obveznic so v zadnjih mesecih izjemno hitro narasle, kar je povzročilo največji skok v generaciji in pretreslo vlagatelje po vsem svetu. 10-letna ameriška državna obveznica je danes zabeležila donosnost 5,29 %, kar predstavlja rast za 0,72 %. Ta trend ni prizanesel niti 30 bilijonov dolarjev vrednemu trgu ameriškega državnega dolga. Naraščajoče donosnosti obveznic so posledica pričakovanj o nadaljnjem zaostrovanju denarne politike in inflacijskih pritiskov. Podjetja se soočajo z višjimi stroški zadolževanja, kar se odraža tudi v odločitvah o izdaji dolga, kot je razvidno iz primera Paramountove prodaje dolga.",
-      "analiza": "Naraščajoče donosnosti obveznic so ključen makroekonomski trend, ki odraža pričakovanja trga glede inflacije in prihodnjih obrestnih mer. Ko donosnosti rastejo, se zmanjšuje privlačnost delnic, saj obveznice ponujajo višji donos z manjšim tveganjem. To lahko povzroči odliv kapitala iz delniških trgov, kar se je danes delno odrazilo v padcu indeksa S&P 500 za 0,25 %. Višje donosnosti pomenijo tudi višje stroške zadolževanja za podjetja in države, kar lahko upočasni gospodarsko rast in zmanjša dobičkonosnost podjetij. Za valute, kot je EUR/USD, lahko višje ameriške donosnosti podprejo dolar, kar se je danes pokazalo z -0,17 % padcem para EUR/USD na 1.1328. Zgodovinsko gledano so obdobja hitre rasti donosnosti obveznic pogosto napovedovala gospodarsko ohlajanje ali recesijo. Slovenski dolgoročni vlagatelj mora biti pozoren na ta trend, saj vpliva na vrednotenje vseh razredov sredstev in lahko zahteva prilagoditev portfelja glede na spremenjeno razmerje med tveganjem in donosom.",
-      "vpliv": [
-        "Donosnost 10-letne ameriške obveznice +0,72 % na 5,29 %",
-        "S&P 500 padec za 0,25 %",
-        "Višji stroški zadolževanja za podjetja",
-        "Padec EUR/USD za 0,17 % na 1.1328"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
-      "objavljeno": "2026-09-30T19:42:00.000Z"
-    },
-    {
-      "naslov": "Ameriški regulator sprožil preiskavo podjetij na področju umetne inteligence",
+      "naslov": "Oracle in Tencent sklenila sedemmilijardni posel za dostop do AI čipov",
       "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Ameriški regulator, Zvezna trgovinska komisija (FTC), je sprožil preiskavo podjetij na področju umetne inteligence. Preiskava se osredotoča na pomisleke glede 'neobvladljivih agentov' in potencialnih groženj človeštvu v naslednjem desetletju, kar kaže na naraščajočo zaskrbljenost glede etičnih in varnostnih vidikov hitrega razvoja AI. Ta poteza regulatorja prihaja v času, ko se Trumpova administracija zavzema za prostovoljni pakt o AI, ki poziva podjetja k samoregulaciji, medtem ko se krepijo pozivi k strožjim varnostnim predpisom.",
-      "analiza": "Regulativna preiskava v sektorju umetne inteligence je pomemben dogodek, saj lahko vpliva na inovacije, poslovne modele in vrednotenje podjetij v tem hitro rastočem sektorju. Čeprav Nasdaq 100 danes beleži rast za 0,23 % na 30409, lahko takšne novice povzročijo kratkoročno negotovost in pritisk na delnice tehnoloških podjetij, ki so močno vpletena v razvoj AI. Povečana regulacija lahko pomeni višje stroške skladnosti, počasnejši razvoj novih produktov in potencialne kazni. Dolgoročno pa lahko jasnejši regulativni okvir zmanjša tveganja in poveča zaupanje javnosti v tehnologijo, kar bi lahko stabiliziralo sektor. Za slovenskega dolgoročnega vlagatelja je ključno spremljati razvoj regulative v tehnološkem sektorju, saj ima ta neposreden vpliv na investicijsko okolje. Podjetja, ki so proaktivna pri reševanju etičnih in varnostnih vprašanj AI, so lahko dolgoročno bolj odporna.",
-      "vpliv": [
-        "Povečana negotovost za delnice AI podjetij",
-        "Potencialno višji stroški skladnosti za tehnološka podjetja",
-        "Možnost upočasnitve razvoja novih AI produktov",
-        "Vpliv na vrednotenje podjetij v sektorju umetne inteligence"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/economy/2026/9/30/us-regulator-launches-probe-into-ai-companies?traffic_source=rss",
-      "objavljeno": "2026-09-30T19:46:35.000Z"
-    },
-    {
-      "naslov": "CEO Stellantisa potrdil napovedi za 2026, delnice dosegle novo najnižjo vrednost",
-      "sektor": "Potrošniki",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Izvršni direktor Stellantisa, Antonio Filosa, je danes ponovno potrdil smernice podjetja za leto 2026 in načrte za dosego pozitivnega denarnega toka do leta 2027. Kljub temu so delnice avtomobilskega proizvajalca dosegle novo najnižjo vrednost, kar kaže na zaskrbljenost vlagateljev glede izvedbe načrta preobrata. To odraža širše izzive v avtomobilski industriji, vključno z naraščajočimi stroški, spremembami v povpraševanju in prehodom na električna vozila. Vlagatelji očitno ostajajo skeptični glede sposobnosti podjetja, da se spopade s temi izzivi in izboljša svojo finančno uspešnost.",
-      "analiza": "Potrditev smernic s strani CEO-ja je običajno poskus pomiritve vlagateljev, vendar je dejstvo, da so delnice Stellantisa dosegle novo najnižjo vrednost, močan signal negativnega sentimenta. To kaže, da trg ne verjame v celoti v sposobnost podjetja za izvedbo načrta preobrata. Takšne novice imajo neposreden negativen vpliv na delnice podjetja in lahko vplivajo tudi na celoten avtomobilski sektor, saj odražajo splošne izzive v industriji. Povečana negotovost vpliva tudi na širše potrošniške trge, saj avtomobilska industrija velja za pomemben indikator gospodarskega zdravja. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so posamezne delnice lahko podvržene specifičnim tveganjem podjetja, ne glede na širše tržne trende. Analiza vodstva, finančnih izkazov in konkurenčnega položaja je ključna pred investicijo v takšna podjetja. V tem primeru je trg očitno bolj pozoren na dejansko uspešnost kot na verbalne potrditve.",
-      "vpliv": [
-        "Delnice Stellantisa dosegle novo najnižjo vrednost",
-        "Negativen sentiment vlagateljev do podjetja",
-        "Povečana negotovost v avtomobilskem sektorju",
-        "Vpliv na širše potrošniške trge"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
-      "objavljeno": "2026-09-30T20:15:48.000Z"
-    },
-    {
-      "naslov": "Burnham odprl pot do vrha EU z napredkom po Brexitu",
-      "sektor": "Geopolitika",
       "smer": "pozitivno",
       "intenziteta": 2,
-      "povzetek": "Združeno kraljestvo in Bruselj sta se dogovorila, da bosta nadaljevala s ključnim novembrskim srečanjem po dogovoru o preložitvi pogovorov o industrijskih subvencijah na naslednje leto. Ta preboj je odprl pot do vrha EU, kar nakazuje na izboljšanje odnosov med Združenim kraljestvom in Evropsko unijo po Brexitu. Dogovor o preložitvi spornih vprašanj omogoča napredek pri drugih, manj kontroverznih temah in zmanjšuje tveganje za nadaljnje trenje. To je pomemben korak k stabilizaciji političnih in gospodarskih vezi med obema stranema.",
-      "analiza": "Napredek v pogovorih med Združenim kraljestvom in EU je pozitivna novica za evropsko gospodarstvo in politično stabilnost. Zmanjšanje negotovosti glede post-Brexit odnosov lahko pozitivno vpliva na valute, kot je evro, čeprav je danes EUR/USD padel za 0,17 % na 1.1328 zaradi močnejšega dolarja in višjih ameriških donosnosti. Izboljšani odnosi lahko spodbujajo trgovanje in investicije med Združenim kraljestvom in državami članicami EU, kar je koristno za podjetja, ki poslujejo na obeh trgih. Zmanjšanje geopolitičnih trenj v Evropi lahko tudi prispeva k splošnemu pozitivnemu sentimentu na trgih, čeprav je danes DAX padel za 0,79 % na 25199. Za slovenskega dolgoročnega vlagatelja to pomeni, da so stabilni politični in gospodarski odnosi v Evropi ključni za dolgoročno rast in predvidljivost investicijskega okolja. Vsak korak k reševanju odprtih vprašanj po Brexitu zmanjšuje tveganje in ustvarja boljše pogoje za poslovanje.",
+      "povzetek": "Ameriško tehnološko podjetje Oracle naj bi po poročanju Financial Timesa sklenilo petletni posel v vrednosti 7 milijard dolarjev s kitajskim gigantom Tencentom. Ta dogovor Tencentu omogoča dostop do čipov za umetno inteligenco, ki prej niso bili na voljo na Kitajskem. Posel bi lahko predstavljal pomembno olajšanje za delnice Oracle, ki so se v zadnjem času soočale z izzivi. Gre za strateško potezo, ki bi lahko okrepila prisotnost Oracle na kitajskem trgu in hkrati podprla razvoj umetne inteligence v Tencentu.",
+      "analiza": "V zadnjih letih so se odnosi med ZDA in Kitajsko zaostrili, zlasti na področju tehnologije in polprevodnikov. Ameriška vlada je uvedla stroge omejitve izvoza naprednih čipov in opreme za proizvodnjo čipov na Kitajsko, da bi omejila njen tehnološki napredek, predvsem na področju umetne inteligence. To je povzročilo precejšnje izzive za kitajska podjetja, ki so odvisna od tuje tehnologije. Ta posel med Oraclom in Tencentom, ki naj bi bil vreden 7 milijard dolarjev, kaže na iskanje alternativnih poti za kitajska podjetja, da pridejo do ključnih AI komponent. Hkrati pa poudarja pomen kitajskega trga za zahodne tehnološke gigante, kot je Oracle, ki si prizadevajo za rast kljub geopolitičnim napetostim. Dolgoročni trend je nadaljevanje tehnološkega rivalstva, vendar z iskanjem pragmatičnih poslovnih rešitev. Posel bi lahko pozitivno vplival na delnice Oracle, saj prinaša znatne prihodke in potencialno odpira vrata za nadaljnje širjenje na kitajskem trgu. Za Tencent pomeni zagotovitev ključnih virov za razvoj AI, kar je bistveno za njegovo konkurenčnost. Vlagatelji bodo pozorno spremljali podrobnosti posla in morebitne odzive regulatorjev, zlasti v ZDA, glede dostopa do \"prej nedostopnih\" AI čipov. Pomembno bo tudi, kako se bo posel odrazil na finančnih rezultatih Oracle v prihodnjih četrtletjih. Za slovenskega dolgoročnega vlagatelja, ki ima izpostavljenost do tehnološkega sektorja, ta novica poudarja kompleksnost globalnih dobavnih verig in geopolitičnih tveganj, a hkrati tudi priložnosti za rast podjetij, ki znajo krmariti v takšnem okolju.",
       "vpliv": [
-        "Izboljšanje odnosov med Združenim kraljestvom in EU",
-        "Zmanjšanje negotovosti glede post-Brexit odnosov",
-        "Potencialna spodbuda za trgovanje in investicije",
-        "Pozitiven vpliv na stabilnost evropskih trgov"
+        "Rast delnic Oracle",
+        "Okrepljena prisotnost Oracle na kitajskem trgu",
+        "Zagotovitev AI čipov za Tencent",
+        "Potencialna omilitev trgovinskih omejitev"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/oracle-has-reportedly-signed-a-7-billion-deal-with-tencent-it-could-provide-relief-for-the-troubled-stock-abd428f5?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-01T10:10:00.000Z"
+    },
+    {
+      "naslov": "Guverner Bank of England opozarja na tveganja umetne inteligence za trge",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Guverner Bank of England, Andrew Bailey, je opozoril, da bi lahko razcvet umetne inteligence (AI) sprožil tržne pretrese. Centralna banka zelo pozorno spremlja velike količine denarja, ki se vlagajo v umetno inteligenco. Baileyjevo opozorilo poudarja zaskrbljenost glede morebitne pregrete rasti in koncentracije tveganj v sektorju AI, kar bi lahko imelo širše posledice za finančno stabilnost.",
+      "analiza": "V zadnjih letih smo priča izjemnemu razcvetu umetne inteligence, ki je pritegnila ogromne naložbe in povzročila močno rast delnic podjetij, povezanih z AI. To je sprožilo debate o morebitnem \"AI balonu\" in tveganjih, ki jih prinaša hitra in obsežna koncentracija kapitala v enem sektorju. Centralne banke, kot je Bank of England, so odgovorne za finančno stabilnost in zato pozorno spremljajo takšne trende. Opozorilo Andrewa Baileyja je relevantno v luči trenutne evforije okoli AI in visokih vrednotenj nekaterih tehnoloških podjetij. Povezuje se s širšim trendom, kjer centralne banke vse bolj opozarjajo na sistemska tveganja, ki izhajajo iz hitrih tehnoloških sprememb in koncentracije kapitala. Morebitni tržni pretresi, ki jih omenja Bailey, bi lahko izhajali iz nenadnega popravka vrednotenj v sektorju AI, če se pričakovanja ne uresničijo ali če pride do regulativnih sprememb. To bi lahko povzročilo širši padec delniških trgov, zlasti tehnoloških indeksov, kot je Nasdaq 100, ki je danes pri 30409 točkah. Za delnice bi to pomenilo povečano volatilnost, zlasti v tehnološkem sektorju. Morebitni padec delniških trgov bi lahko vplival tudi na obveznice, saj bi vlagatelji iskali varna zatočišča, kar bi lahko povzročilo padec donosnosti. Na valute bi vplivalo splošno zmanjšanje apetita po tveganju. Surovine in kriptovalute bi bile prav tako pod pritiskom zaradi splošne negotovosti. Vlagatelji bi morali spremljati nadaljnje izjave centralnih bankirjev, regulativne pobude na področju AI in predvsem finančne rezultate podjetij, ki so v ospredju AI revolucije, da ocenijo, ali so njihova vrednotenja upravičena. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da je diverzifikacija portfelja ključna, še posebej v času, ko so določeni sektorji, kot je AI, deležni izjemne pozornosti in naložb. Pomembno je razumeti, da visoke rasti pogosto spremljajo tudi visoka tveganja.",
+      "vpliv": [
+        "Povečana volatilnost v tehnološkem sektorju",
+        "Potencialni padec delniških trgov",
+        "Odliv kapitala iz delnic v obveznice",
+        "Pritisk na kriptovalute"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-10-01T10:05:25.000Z"
+    },
+    {
+      "naslov": "Starbucks odpira prve kavarne v kitajski regiji Xinjiang kljub obtožbam o zlorabah",
+      "sektor": "Potrošniki",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Ameriški kavni velikan Starbucks je odprl svoje prve kavarne v kitajski regiji Xinjiang, kjer je Peking obtožen široko razširjenih kršitev človekovih pravic. Ta poteza pomeni vstop podjetja na trg, ki je bil v preteklosti predmet mednarodnih kritik in bojkotov zaradi domnevnega prisilnega dela in zatiranja Ujgurov. Odločitev Starbucksa je poslovno usmerjena v širitev trga, vendar nosi s seboj tudi etična in reputacijska tveganja.",
+      "analiza": "Regija Xinjiang je že več let v središču mednarodne pozornosti zaradi obtožb o sistematičnih kršitvah človekovih pravic, vključno z množičnim pridržanjem in prisilnim delom, usmerjenim proti Ujgurom in drugim etničnim manjšinam. Številna zahodna podjetja so se zaradi teh obtožb umaknila iz regije ali se soočala z močnim pritiskom potrošnikov in aktivistov. Vstop Starbucksa v Xinjiang kljub tem obtožbam poudarja kompleksnost poslovanja globalnih podjetij na Kitajskem. Kaže na trend, kjer se nekatera podjetja odločajo za prioritizacijo dostopa do velikega kitajskega trga pred morebitnimi etičnimi pomisleki ali pritiskom zahodnih potrošnikov. To je del širšega trenda, kjer se podjetja soočajo z izzivi \"ESG\" (okolje, družba, upravljanje) dejavnikov. Poslovno gledano, odprtje novih trgov lahko prispeva k rasti prihodkov in dobička Starbucksa, kar bi lahko pozitivno vplivalo na vrednost delnic. Vendar pa obstaja tveganje za negativno reakcijo potrošnikov na zahodu, ki bi lahko vodila do bojkotov in poškodovanja ugleda blagovne znamke, kar bi imelo negativen vpliv na delnice. Za delnice Starbucksa je vpliv mešan: kratkoročno potencialna rast zaradi širitve, dolgoročno pa tveganje za ugled in prodajo na drugih trgih. Na širšem trgu potrošniških dobrin bi to lahko vplivalo na to, kako vlagatelji ocenjujejo tveganja, povezana s poslovanjem v regijah s spornimi človekovimi pravicami. Na valute in surovine ne pričakujemo neposrednega vpliva. Vlagatelji in potrošniki bodo pozorno spremljali odzive javnosti in morebitne kampanje proti Starbucksu. Pomembno bo tudi, kako bo podjetje komuniciralo svojo prisotnost v regiji in ali bo uspelo uravnotežiti poslovne interese z etičnimi standardi. Za slovenskega dolgoročnega vlagatelja je ta novica opomin, da je pri vlaganju v globalna podjetja pomembno upoštevati ne le finančne kazalnike, temveč tudi dejavnike ESG, ki lahko dolgoročno vplivajo na vrednost podjetja in njegov ugled.",
+      "vpliv": [
+        "Rast prihodkov Starbucksa zaradi širitve",
+        "Tveganje za ugled blagovne znamke",
+        "Možni bojkot s strani zahodnih potrošnikov",
+        "Vpliv na oceno ESG tveganj podjetij"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/ef10b301-6264-4ac8-8d23-bd3dddf9b8a2?syn-25a6b1a6=1",
-      "objavljeno": "2026-09-30T20:00:00.000Z"
+      "vir_url": "https://www.ft.com/content/352e32dd-9dd8-4544-a807-9ec1a4904105?syn-25a6b1a6=1",
+      "objavljeno": "2026-10-01T09:55:30.000Z"
+    },
+    {
+      "naslov": "Poglobljena globalna razprodaja obveznic, donosnost 10-letne ameriške obveznice najvišja po letu 2002",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Globalna razprodaja obveznic se poglablja, saj je donosnost 10-letne ameriške državne obveznice dosegla 5.29 %, kar je najvišja raven po letu 2002. Stroški zadolževanja suverenih držav po svetu se vračajo na večletne vrhunce. To odraža pričakovanja trga o višjih obrestnih merah in inflaciji, hkrati pa tudi zaskrbljenost glede fiskalne vzdržnosti nekaterih držav.",
+      "analiza": "V zadnjih mesecih smo priča nenehnemu naraščanju obrestnih mer centralnih bank v boju proti inflaciji. To je povzročilo padec cen obveznic in posledično rast njihovih donosnosti. Donosnost 10-letne ameriške državne obveznice je ključni pokazatelj, saj vpliva na stroške zadolževanja podjetij in posameznikov po vsem svetu, pa tudi na vrednotenje drugih finančnih sredstev. Trenutna donosnost 10-letne ameriške obveznice pri 5.29 % je pomembna, saj signalizira, da trgi pričakujejo, da bodo obrestne mere ostale visoke dlje časa, ali pa celo še naraščale. To je v nasprotju z nekaterimi preteklimi pričakovanji o hitrem znižanju obrestnih mer. Trend višjih donosnosti obveznic je globalen in vpliva na vse razvite ekonomije. Ko donosnosti obveznic rastejo, postanejo obveznice privlačnejše kot naložba v primerjavi z delnicami, saj ponujajo višji donos z manjšim tveganjem. To lahko povzroči odliv kapitala iz delniških trgov, kar pritiska na cene delnic. Višje donosnosti pomenijo tudi višje stroške zadolževanja za podjetja in države, kar lahko upočasni gospodarsko rast. Za delnice to pomeni negativen pritisk, saj se zmanjšuje privlačnost delniških naložb. Obveznice, čeprav njihove cene padajo, postajajo privlačnejše za nove vlagatelje zaradi višjih donosnosti. Valute, kot je EUR/USD, ki je danes pri 1.1298, so pod pritiskom, saj višje donosnosti v ZDA krepijo dolar. Surovine so lahko pod pritiskom zaradi strahu pred upočasnitvijo gospodarstva, čeprav sta WTI in Brent danes zrasla. Kriptovalute so prav tako občutljive na splošno razpoloženje na trgu in višje obrestne mere. Vlagatelji bodo pozorno spremljali objave o inflaciji, odločitve centralnih bank glede obrestnih mer in fiskalno politiko vlad, ki lahko vplivajo na ponudbo državnih obveznic. Za slovenskega dolgoročnega vlagatelja je rast donosnosti obveznic pomembna, saj pomeni višje stroške zadolževanja tudi za Slovenijo in slovenska podjetja. Hkrati pa višje donosnosti obveznic ponujajo priložnost za varnejše naložbe z boljšim donosom, kar je bilo v preteklosti redko.",
+      "vpliv": [
+        "Višji stroški zadolževanja za države in podjetja",
+        "Pritisk na cene delnic",
+        "Krepitev ameriškega dolarja (EUR/USD padec)",
+        "Povečana privlačnost obveznic za nove vlagatelje"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1",
+      "objavljeno": "2026-10-01T09:17:01.000Z"
+    },
+    {
+      "naslov": "ZAE preiskujejo napad na letalo Flydubai kot možno teroristično dejavnost",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "Združeni arabski emirati preiskujejo, ali je bil napad na letalo Flydubai na letu FZ1073 med Dubajem in Tel Avivom teroristično dejanje. V preiskavo je vključen tudi Izrael. Incident je oživil travme ugrabitev letal v Izraelu in poudarja občutljivost letalskega prometa v regiji. Podrobnosti o naravi napada in dogajanju v pilotski kabini še niso znane, vendar je potencialna teroristična narava dogodka sprožila resne varnostne pomisleke.",
+      "analiza": "Odnosi med ZAE in Izraelom so se v zadnjih letih izboljšali z Abrahamovimi sporazumi, kar je omogočilo tudi direktne letalske povezave. Vendar pa je regija Bližnjega vzhoda še vedno zaznamovana z nestabilnostjo in konflikti. Vsak incident, ki vključuje letalski promet, še posebej med tema državama, ima takojšnje in daljnosežne geopolitične posledice. Preiskava incidenta kot morebitne teroristične dejavnosti je izjemno pomembna. Če se potrdi, bi to lahko pomenilo eskalacijo napetosti v regiji in morebitno ponovno oceno varnostnih protokolov za civilno letalstvo. To se vpenja v širši trend naraščajočih geopolitičnih tveganj, ki vplivajo na globalne trge. Potencialni teroristični napad na civilno letalo bi lahko takoj povzročil padec delnic letalskih družb in turističnega sektorja zaradi zmanjšanja zaupanja potnikov in povečanih varnostnih stroškov. Povečana negotovost bi lahko vodila tudi do rasti cen nafte, saj bi vlagatelji pričakovali motnje v dobavi iz regije. WTI nafta je danes že zrasla za +1.11 % na 91.42 USD/sod, Brent pa za +1.79 % na 99.78 USD/sod. Za delnice letalskih družb in turističnega sektorja bi to pomenilo negativen pritisk. Cene nafte in zlata (ki je danes zraslo za +0.41 % na 4204.00 USD/oz kot varno zatočišče) bi verjetno narasle. Na obvezniških trgih bi se lahko povečalo povpraševanje po varnih državnih obveznicah, kar bi znižalo njihove donosnosti. Valute, kot je EUR/USD, bi lahko bile pod pritiskom, če se poveča averzija do tveganja. Ključno bo spremljati izsledke preiskave in uradne izjave ZAE in Izraela. Pomembni bodo tudi morebitni odzivi mednarodne skupnosti in vpliv na regionalno stabilnost. Za slovenskega dolgoročnega vlagatelja ta novica poudarja, kako hitro lahko geopolitični dogodki vplivajo na globalne trge, še posebej na cene energentov in potovalni sektor. Diverzifikacija in razumevanje globalnih tveganj sta ključna.",
+      "vpliv": [
+        "Padec delnic letalskih družb in turističnega sektorja",
+        "Rast cen nafte (WTI, Brent)",
+        "Rast cene zlata kot varnega zatočišča",
+        "Povečana averzija do tveganja na trgih"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/8ead762e-88a0-4227-80b5-7aa605caf6ea?syn-25a6b1a6=1",
+      "objavljeno": "2026-10-01T08:06:17.000Z"
+    },
+    {
+      "naslov": "Najbogatejši Afričan kljub protestom odprl rafinerijo nafte v Keniji",
+      "sektor": "Energetika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Najbogatejši Afričan, Aliko Dangote, je kljub lokalnim protestom zaradi zemljišč odprl rafinerijo nafte v Keniji. Ta rafinerija je del Dangotejevega ambicioznega načrta za širitev in industrializacijo Afrike do leta 2030. Projekt obljublja povečanje lokalne predelovalne zmogljivosti nafte in zmanjšanje odvisnosti od uvoza rafiniranih naftnih derivatov, kar je pomembno za energetsko varnost Kenije in regije.",
+      "analiza": "Afrika je bogata z naftnimi viri, vendar mnoge države še vedno nimajo zadostnih rafinerijskih zmogljivosti in so prisiljene uvažati drage rafinirane naftne derivate. To obremenjuje njihove gospodarstva in omejuje industrijski razvoj. Dangotejev projekt je del širših prizadevanj za spodbujanje lokalne industrializacije in dodane vrednosti na celini. Odprtje rafinerije je pomemben korak k energetski neodvisnosti Kenije in širše vzhodne Afrike. Čeprav so prisotni lokalni protesti glede zemljišč, kar je pogost izziv pri velikih infrastrukturnih projektih, je dolgoročni trend na celini usmerjen v povečanje predelovalnih zmogljivosti. To lahko zmanjša ranljivost regije na globalne cenovne šoke nafte, kot so tisti, ki jih vidimo danes z WTI nafto pri 91.42 USD/sod in Brentom pri 99.78 USD/sod. Povečana lokalna predelava nafte lahko zmanjša stroške goriva v Keniji, kar bi lahko pozitivno vplivalo na lokalno gospodarstvo in potrošnike. Za globalne trge nafte bi to dolgoročno pomenilo manjšo odvisnost afriških držav od uvoza, kar bi lahko vplivalo na globalne tokove in cene rafiniranih izdelkov. Za kenijsko gospodarstvo in potrošnike je to potencialno pozitivno zaradi znižanja stroškov energentov. Za globalne cene nafte in rafinerijskih marž je vpliv dolgoročnejši in bi lahko pomenil večjo konkurenco. Delnice podjetij, vključenih v projekt, bi lahko imele koristi. Na valute in obveznice je neposreden vpliv omejen, razen na lokalni ravni. Vlagatelji bodo spremljali operativno učinkovitost rafinerije, reševanje zemljiških sporov in vpliv na cene goriva v Keniji. Pomembno bo tudi, kako bo projekt vplival na Dangotejevo širšo strategijo industrializacije Afrike. Za slovenskega dolgoročnega vlagatelja, ki razmišlja o naložbah v rastoče trge ali energetski sektor, ta novica poudarja potencial Afrike in pomen lokalne industrializacije. Vendar pa je treba upoštevati tudi politična in socialna tveganja, kot so protesti in morebitni vplivi na okolje.",
+      "vpliv": [
+        "Zmanjšanje stroškov goriva v Keniji",
+        "Povečana energetska neodvisnost Kenije",
+        "Dolgoročen vpliv na globalne tokove rafiniranih izdelkov",
+        "Potencialna rast delnic vključenih podjetij"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-10-01T07:04:27.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-09-30T20:21:09.185Z",
+    "posodobljenoOb": "2026-10-01T10:56:39.567Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -93,36 +127,36 @@
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25199.19,
-        "sprememba_pct": -0.79
+        "vrednost": 25122.94,
+        "sprememba_pct": -0.3
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 66753.72,
-        "sprememba_pct": 1.94
+        "vrednost": 68956.72,
+        "sprememba_pct": 3.3
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4188.2,
-        "sprememba_pct": 0.2,
+        "vrednost": 4204,
+        "sprememba_pct": 0.41,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 90.53,
-        "sprememba_pct": 1.29,
+        "vrednost": 91.42,
+        "sprememba_pct": 1.11,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 98.08,
-        "sprememba_pct": 2,
+        "vrednost": 99.78,
+        "sprememba_pct": 1.79,
         "enota": "USD/sod"
       }
     ],
@@ -130,8 +164,8 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1328,
-        "sprememba_pct": -0.17
+        "vrednost": 1.1298,
+        "sprememba_pct": -0.32
       }
     ],
     "obveznice": [
@@ -147,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 83602.02,
-        "sprememba_pct": -0.03,
+        "vrednost": 83953.14,
+        "sprememba_pct": 0.46,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16.49,
-      "sprememba_pct": 2.81
+      "vrednost": 16.4,
+      "sprememba_pct": 0.37
     }
   }
 }
