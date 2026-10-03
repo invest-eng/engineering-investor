@@ -1,99 +1,133 @@
 {
-  "generiranoOb": "2026-10-03T09:52:08.370Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-10-03T18:53:19.259Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-10-03",
-  "povzetek": "Jutranji pregled finančnih trgov 3. oktobra 2026 kaže na mešano sliko po nočnih dogodkih. Ameriški borzni indeksi so zaključili v pozitivnem območju, pri čemer je S&P 500 zrasel za 0.73 % na 7723 točk, Nasdaq 100 pa za 1.00 % na 30808 točk. Evropski trgi, kot kaže DAX, so sledili pozitivnemu trendu z rastjo 1.17 % na 25231 točk, medtem ko je azijski Nikkei 225 zabeležil padec za 0.94 % na 68309 točk. Cene nafte so se umirile, saj je WTI nafta padla za 1.90 % na 91.11 USD/sod, Brent pa za 0.06 % na 102.25 USD/sod, kar je delno odraz napovedi G7 o sprostitvi 100 milijonov sodčkov nafte in dizla. Geopolitične napetosti na Bližnjem vzhodu in v Vzhodni Evropi ostajajo v ospredju, kar vpliva na cene energentov in globalno stabilnost. Vlagatelji bodo ta teden pozorni predvsem na prihajajočo objavo podatkov o inflaciji v ZDA, ki bo ključna za smer monetarne politike.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, medtem ko so ameriški indeksi nadaljevali rast v zgodnjem popoldanskem trgovanju. Nemški DAX je danes pridobil 1,17 % in se ustavil pri 25.231 točkah, kar kaže na optimizem v evroobmočju. V ZDA je indeks S&P 500 zrasel za 0,73 % na 7.723 točk, tehnološki Nasdaq 100 pa je bil še močnejši z rastjo 1,00 % na 30.808 točk. Azijski trgi so bili mešani, Nikkei 225 je padel za 0,94 % na 68.309. Na trgu surovin sta zlato in WTI nafta zabeležila padec, in sicer za 0,95 % na 4162,30 USD/oz oziroma za 1,90 % na 91,11 USD/sod, medtem ko je Brent nafta ostala stabilna. Donosnost 10-letne ameriške obveznice je zrasla na 5,28 %, kar kaže na nadaljnje pritiske na obvezniškem trgu. Bitcoin je medtem pridobil 0,49 % in se giblje pri 84.923 USD, indeks volatilnosti VIX pa je padel za 6,59 % na 15,31, kar nakazuje zmanjšanje negotovosti. Prihajajoča objava podatkov o inflaciji v ZDA bo vlagateljem ponudila nadaljnje vpoglede v monetarno politiko Federal Reserve.",
   "novice": [
     {
-      "naslov": "G7 sprošča 100 milijonov sodčkov nafte in dizla za umiritev cen",
-      "sektor": "Energetika",
+      "naslov": "Kalifornija uvaja nove zakone za zaščito delavcev pred vplivi umetne inteligence",
+      "sektor": "Tehnologija & AI",
       "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Skupina G7 je napovedala sprostitev 100 milijonov sodčkov nafte in dizla iz strateških rezerv, da bi zajezila naraščajoče globalne cene energentov. Ta poteza prihaja v luči visokih cen, ki so posledica vojne med ZDA in Izraelom proti Iranu ter vojne Rusije proti Ukrajini. Cilj je preprečiti nadaljnje skoke cen in morebitno prepoved izvoza dizla iz ZDA, ki bi še poslabšala situacijo na trgu. Novica, ki jo je objavila Al Jazeera 3. oktobra 2026, poudarja globalni pritisk na oskrbo z energijo.",
-      "analiza": "Ozadje te odločitve je v trenutnih geopolitičnih konfliktih, ki so močno destabilizirali globalne energetske trge. Vojni v Ukrajini in na Bližnjem vzhodu sta povzročili negotovost glede dobav, kar je pognalo cene nafte in dizla navzgor. Sproščanje strateških rezerv je običajen ukrep, ki ga države uporabijo v obdobjih pomanjkanja ali ekstremnih cenovnih šokov, da bi povečale ponudbo in stabilizirale trg. Mehanizem vpliva je neposreden: povečana ponudba bi morala zmanjšati cenovni pritisk. Nafta WTI je danes pri 91.11 USD/sod (-1.90 %), Brent pa pri 102.25 USD/sod (-0.06 %), kar kaže na že delno vključitev te novice v cene. Posledice za delnice so lahko mešane – energetska podjetja bi lahko občutila pritisk na dobičke zaradi nižjih cen, medtem ko bi podjetja v transportnem in proizvodnem sektorju lahko imela koristi od nižjih stroškov. Za obveznice in valute je vpliv posreden, saj nižje cene energentov lahko zmanjšajo inflacijske pritiske, kar bi lahko vplivalo na odločitve centralnih bank. Slovenski dolgoročni vlagatelj naj bo pozoren na gibanje cen energentov, saj visoke cene neposredno vplivajo na inflacijo in kupno moč, kar se odraža v širšem gospodarskem okolju in dobičkih podjetij.",
+      "povzetek": "Kalifornijski guverner Gavin Newsom je podpisal vrsto novih zakonov, ki so namenjeni zaščiti delavcev pred vplivi umetne inteligence. Ti zakoni prepovedujejo delodajalcem, da bi se pri odločitvah o odpuščanju v celoti zanašali na umetno inteligenco, jo uporabljali za napovedovanje čustvenih stanj zaposlenih ali zbirali nevronske podatke. Prav tako zahtevajo, da podjetja obvestijo delavce, če so bila odpuščanja posledica uporabe umetne inteligence, in prepovedujejo nadzor z umetno inteligenco v delovnih kopalnicah. Kalifornija, dom številnih podjetij za umetno inteligenco, je tako ena prvih držav, ki uvaja tovrstne delovnopravne predpise. Ti ukrepi bi lahko utrli pot širšim zaščitnim ukrepom po ZDA, saj se pozivi k regulaciji tehnologije krepijo.",
+      "analiza": "Novi zakoni v Kaliforniji predstavljajo pomemben korak v regulaciji umetne inteligence na delovnem mestu. V kontekstu hitrega razvoja AI in naraščajočih skrbi glede avtomatizacije delovnih mest, ti zakoni postavljajo precedens za zaščito delavcev. Mehanizem vpliva na finančne trge je dvojen: po eni strani lahko povečajo operativne stroške za tehnološka podjetja, ki se zanašajo na AI za optimizacijo delovne sile, kar bi lahko kratkoročno vplivalo na njihovo dobičkonosnost in s tem na cene delnic v tehnološkem sektorju. Po drugi strani pa lahko zmanjšajo tveganja, povezana z morebitnimi pravnimi spori in negativno publiciteto, kar bi dolgoročno lahko stabiliziralo sektor. Za delnice tehnoloških podjetij, zlasti tistih, ki so močno vpletena v razvoj in implementacijo AI, to pomeni potrebo po prilagoditvi poslovanja. Obveznice in valute so manj neposredno prizadete, razen če bi regulacija AI povzročila širše makroekonomske premike. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati regulativno okolje v tehnološkem sektorju, saj lahko vpliva na rast in stabilnost naložb v globalna tehnološka podjetja. Podobni primeri regulacije novih tehnologij v preteklosti (npr. internet, biotehnologija) so pokazali, da so začetni stroški pogosto uravnoteženi z dolgoročno stabilnostjo in zaupanjem.",
       "vpliv": [
-        "Znižanje cen nafte in dizla",
-        "Zmanjšanje inflacijskih pritiskov",
-        "Potencialni pritisk na dobičke energetskih podjetij",
-        "Koristi za transportni in proizvodni sektor"
+        "Povečani operativni stroški za AI podjetja",
+        "Potencialno zmanjšanje rasti dobička v tehnološkem sektorju",
+        "Zmanjšanje pravnih tveganj za podjetja",
+        "Vpliv na delnice tehnoloških podjetij"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss",
-      "objavljeno": "2026-10-03T09:27:38.000Z"
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
+      "objavljeno": "2026-10-03T14:00:00.000Z"
     },
     {
-      "naslov": "Dobavitelji pritiskajo na vlade zaradi visokih računov za energijo",
+      "naslov": "Mladi Američani se v težkem trgu dela vse bolj odločajo za podjetništvo",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "V Združenih državah Amerike se je povečalo število mladih podjetnikov, saj je trg dela za začetnike postal bolj zahteven. Ta trend kaže, da se mladi Američani, soočeni z ovirami pri iskanju zaposlitve, vse pogosteje odločajo za ustanovitev lastnih podjetij. Članek iz MarketWatcha poudarja, da je to 'velika stava nase', ki jo posamezniki sprejemajo v iskanju ekonomskih priložnosti. Ta pojav odraža širše spremembe v dinamiki trga dela in morda tudi vpliv inflacije, ki prekaša rast plač, kar posameznike sili v iskanje alternativnih virov dohodka in kariernih poti. Povečanje podjetništva med mladimi lahko dolgoročno vpliva na strukturo gospodarstva.",
+      "analiza": "Povečanje podjetništva med mladimi Američani je pomemben makroekonomski trend, ki odraža tako izzive na trgu dela kot tudi prilagoditvene sposobnosti gospodarstva. V kontekstu 'težkega trga dela' za začetnike, kjer inflacija prekaša rast plač, se posamezniki obračajo k samostojnim podjetniškim potim. Ta mehanizem vpliva na finančne trge je kompleksen: kratkoročno lahko povečano podjetništvo prispeva k ustvarjanju novih delovnih mest in inovacij, kar je pozitivno za gospodarsko rast in s tem za delniške trge. Dolgoročno pa lahko kaže na strukturne probleme na trgu dela, ki bi lahko vplivali na potrošniško porabo in stabilnost gospodarstva. Posledice za delnice so lahko pozitivne za sektorje, ki podpirajo mala podjetja (npr. tehnologija za mala podjetja, finančne storitve), medtem ko bi lahko tradicionalni zaposlovalci občutili pritisk. Za obveznice in valute bi lahko ta trend pomenil zmanjšanje pritiska na centralne banke za hitro zviševanje obrestnih mer, če bi podjetništvo pomagalo absorbirati delavce in zmanjšati inflacijske pritiske. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so tovrstni trendi kazalnik gospodarske vitalnosti in prilagodljivosti, ki lahko vplivajo na dolgoročno rast globalnih trgov. Spremljanje rasti malih in srednjih podjetij v ZDA je ključno.",
+      "vpliv": [
+        "Potencialno ustvarjanje novih delovnih mest",
+        "Spodbujanje inovacij in gospodarske rasti",
+        "Spremembe v dinamiki trga dela",
+        "Vpliv na sektorje, ki podpirajo mala podjetja"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-03T17:24:00.000Z"
+    },
+    {
+      "naslov": "Temu podvojil prodajo v Združenem kraljestvu na 171 milijonov dolarjev",
+      "sektor": "Potrošniki",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Kitajsko podjetje za e-trgovino Temu je v Združenem kraljestvu več kot podvojilo svojo prodajo, ki je dosegla 171 milijonov dolarjev. Ta impresivna rast kaže na močno prisotnost in agresivno širitev podjetja na evropskem trgu. Financial Times poroča, da Temu izkorišča davčno luknjo, ki majhne pakete oprošča carinskih dajatev, kar mu omogoča ponudbo konkurenčnih cen. Ta strategija je ključna za njegov uspeh in hitro pridobivanje tržnega deleža. Rast Temuja poudarja spremembe v nakupnih navadah potrošnikov in intenzivno konkurenco v sektorju e-trgovine, zlasti s strani azijskih igralcev, ki vstopajo na zahodne trge.",
+      "analiza": "Izjemna rast prodaje Temuja v Združenem kraljestvu na 171 milijonov dolarjev je pomemben pokazatelj trendov v potrošniškem sektorju in e-trgovini. V času, ko se potrošniki soočajo z inflacijskimi pritiski, je privlačnost nizkocenovnih spletnih trgovcev, kot je Temu, še posebej velika. Mehanizem vpliva na finančne trge je predvsem konkurenčen pritisk na uveljavljene trgovce na drobno in druge platforme za e-trgovino, kar lahko vpliva na njihove marže in cene delnic. Podjetja, ki se ne morejo kosati z agresivnimi cenami Temuja, bi lahko izgubila tržni delež. Po drugi strani pa rast e-trgovine na splošno kaže na močno potrošniško porabo, kar je pozitivno za gospodarstvo. Za delnice to pomeni, da bi lahko imela podjetja, ki so odporna na cenovno konkurenco ali ponujajo edinstvene izdelke, prednost. Valute so posredno prizadete preko vpliva na trgovinsko bilanco in splošno gospodarsko aktivnost. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati globalne trende v e-trgovini in konkurenčno dinamiko, saj lahko vplivajo na naložbe v sektorju potrošniških dobrin in tehnologije. Rast Temuja poudarja pomen agilnosti in inovativnosti v maloprodaji.",
+      "vpliv": [
+        "Povečan konkurenčni pritisk na e-trgovce",
+        "Vpliv na marže tradicionalnih trgovcev",
+        "Indikator močne potrošniške porabe",
+        "Spremembe v delnicah maloprodajnega sektorja"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/b119a81f-2347-4ba8-8b5f-13b380cf45fa?syn-25a6b1a6=1",
+      "objavljeno": "2026-10-03T13:54:13.000Z"
+    },
+    {
+      "naslov": "Alžirija poslala bojna letala v Niger za preprečitev poskusa državnega udara",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Alžirski predsednik Abdelmadjid Tebboune je sporočil, da je Alžirija konec avgusta poslala bojna letala v Niamey, glavno mesto Nigra, da bi preprečila poskus državnega udara s strani upornikov. Ta poteza poudarja naraščajoče napetosti in nestabilnost v regiji Sahel, ki je že dolgo prizorišče političnih pretresov in varnostnih izzivov. Niger je ključna država v regiji, bogata z naravnimi viri, vključno z uranom, in je strateško pomembna za stabilnost Zahodne Afrike. Intervencija Alžirije kaže na pripravljenost regionalnih sil za posredovanje, vendar hkrati poudarja krhkost političnih razmer in tveganja za nadaljnjo eskalacijo konflikta.",
+      "analiza": "Geopolitična nestabilnost v regiji Sahel, ki jo poudarja alžirska intervencija v Nigru, ima lahko pomembne posledice za globalne finančne trge. Niger je pomemben proizvajalec urana, zato bi morebitna dolgotrajna nestabilnost lahko vplivala na cene te surovine, kar bi se odrazilo na energetskem sektorju in delnicah podjetij, ki so odvisna od urana. Mehanizem vpliva je predvsem preko tveganja za dobavne verige in povečane negotovosti, kar lahko zmanjša apetit vlagateljev po tveganih naložbah. Povečana geopolitična tveganja običajno vodijo do bega kapitala v varnejša zatočišča, kot so državne obveznice (npr. ameriške 10-letne obveznice, katerih donosnost je danes zrasla na 5,28 %) in zlato (ki je danes padlo za 0,95 %, vendar bi v primeru eskalacije lahko zraslo). Valute držav, ki so gospodarsko močno povezane z regijo, bi lahko bile pod pritiskom. Za delnice bi to pomenilo povečano volatilnost, zlasti za podjetja, ki imajo naložbe ali poslujejo v Afriki. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati geopolitične dogodke v regijah, bogatih z viri, saj lahko imajo posreden vpliv na globalne cene surovin in s tem na inflacijo ter monetarno politiko. Zgodovinsko gledano, so konflikti v regijah, bogatih z viri, pogosto povzročili skoke cen določenih surovin.",
+      "vpliv": [
+        "Potencialno povečanje cen urana",
+        "Povečana geopolitična tveganja",
+        "Vpliv na delnice energetskega sektorja",
+        "Beg kapitala v varnejša zatočišča"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says?traffic_source=rss",
+      "objavljeno": "2026-10-03T18:03:08.000Z"
+    },
+    {
+      "naslov": "Pet mrtvih v Kijevu in Moskvi po napadih, Rusija zadela drugi most",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "V Kijevu in Moskvi je bilo ubitih pet ljudi v medsebojnih napadih, pri čemer je Rusija zadela še en ključen most v Kijevu, kar je že drugi takšen napad v dveh dneh. Ti dogodki kažejo na nadaljnjo eskalacijo konflikta in intenziviranje vojaških operacij. Napadi na infrastrukturo, kot so mostovi, imajo lahko uničujoče posledice za logistiko in gospodarstvo prizadetih regij. Poročilo Al Jazeere poudarja, da se konflikt nadaljuje z visoko intenzivnostjo, kar ohranja geopolitično negotovost na vzhodu Evrope. To vpliva na globalno stabilnost in povzroča zaskrbljenost glede širših posledic za mednarodne odnose in gospodarstvo.",
+      "analiza": "Nadaljevanje in eskalacija konflikta med Kijevom in Moskvo, zlasti z napadi na ključno infrastrukturo, kot so mostovi, predstavlja pomembno geopolitično tveganje za globalne finančne trge. Mehanizem vpliva je predvsem preko povečane negotovosti, ki lahko vpliva na cene surovin, zlasti nafte in plina, saj so dobavne poti in proizvodnja v regiji ogrožene. Čeprav sta ceni WTI nafte (-1,90 % na 91,11 USD/sod) in Brent nafte (-0,06 % na 102,25 USD/sod) danes ostali relativno stabilni ali celo padli, bi nadaljnja eskalacija lahko povzročila skok cen. To bi imelo inflacijske posledice, kar bi lahko prisililo centralne banke k bolj agresivni monetarni politiki, kar bi vplivalo na obvezniške donosnosti (10Y US Treasury je danes zrasla na 5,28 %). Za delnice to pomeni povečano volatilnost, zlasti v sektorjih, ki so občutljivi na cene energije in geopolitična tveganja. Vlagatelji se v takšnih razmerah pogosto obračajo k varnejšim naložbam. Za slovenskega dolgoročnega vlagatelja je ključno spremljati razvoj dogodkov, saj imajo lahko neposreden vpliv na cene energije, inflacijo in splošno gospodarsko rast v Evropi in po svetu. Geopolitična tveganja ostajajo pomemben dejavnik pri oblikovanju naložbenih strategij.",
+      "vpliv": [
+        "Povečana geopolitična negotovost",
+        "Potencialni skoki cen nafte in plina",
+        "Inflacijski pritiski",
+        "Vpliv na obvezniške donosnosti in delnice"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
+      "objavljeno": "2026-10-03T12:55:54.000Z"
+    },
+    {
+      "naslov": "Sopilot uporabil sekiro za 'teroristično dejanje' na letu Flydubai",
+      "sektor": "Geopolitika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Na letu Flydubai 1073, ki je bil namenjen v Tel Aviv, je sopilot uporabil sekiro za izvedbo 'terorističnega dejanja' v pilotski kabini, poroča Financial Times. Ta incident poudarja resne varnostne pomisleke v letalskem prometu in potencialna tveganja za potnike. Čeprav je dogodek specifičen in izoliran, ima lahko širše posledice za zaupanje v letalsko industrijo in varnostne protokole. Incident, ki se je zgodil med letom, zahteva temeljito preiskavo in morebitno zaostritev varnostnih ukrepov, kar bi lahko vplivalo na operativne stroške letalskih družb in izkušnjo potnikov.",
+      "analiza": "Incident na letu Flydubai, kjer je sopilot izvedel 'teroristično dejanje', je resen varnostni dogodek, ki ima lahko pomembne, čeprav posredne, posledice za finančne trge. Vpliv na trge se kaže predvsem skozi zmanjšanje zaupanja potrošnikov v letalski promet, kar lahko zmanjša povpraševanje po letalskih storitvah in s tem vpliva na cene delnic letalskih družb in turističnega sektorja. Mehanizem vpliva je psihološki in operativni: strah pred ponovitvijo takšnih dogodkov lahko odvrne potnike, medtem ko morebitna zaostritev varnostnih ukrepov poveča operativne stroške letalskih prevoznikov. To bi lahko vplivalo na dobičkonosnost podjetij v sektorju. Za delnice letalskih družb in podjetij, povezanih s turizmom, to pomeni potencialni pritisk navzdol. Obveznice in valute so manj neposredno prizadete, razen če bi incident sprožil širšo geopolitično nestabilnost ali gospodarsko upočasnitev. Zgodovinsko gledano, so podobni varnostni incidenti v letalstvu pogosto povzročili kratkoročne padce delnic letalskih družb, sledilo pa je okrevanje po implementaciji novih varnostnih ukrepov. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati odpornost letalskega in turističnega sektorja na tovrstne šoke ter morebitne spremembe v varnostnih predpisih, ki lahko vplivajo na dolgoročno poslovanje podjetij.",
+      "vpliv": [
+        "Zmanjšanje zaupanja potrošnikov v letalski promet",
+        "Potencialni padec delnic letalskih družb",
+        "Povečani operativni stroški za letalske prevoznike",
+        "Vpliv na turistični sektor"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/36b90fa1-f61e-4563-8622-127cdb471101?syn-25a6b1a6=1",
+      "objavljeno": "2026-10-03T17:21:11.000Z"
+    },
+    {
+      "naslov": "Desettisoči protestirajo v Španiji po neuspelih reformah stanovanjske politike",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Trgovinsko združenje Energy UK poziva k takojšnjim ukrepom za pomoč gospodinjstvom, ki se to zimo soočajo s težavami pri plačevanju računov za energijo. Novica, objavljena s strani BBC Business 3. oktobra 2026, poudarja, da dobavitelji energije opozarjajo na nujnost ukrepanja, saj naraščajoči stroški življenja in visoke cene energentov povzročajo velik pritisk na potrošnike. Podobne razmere so tudi na Severnem Irskem, kjer so povišanja cen energije že začela veljati.",
-      "analiza": "Ozadje te novice je v vztrajno visokih cenah energentov, ki so posledica globalnih geopolitičnih napetosti in omejene ponudbe. V Evropi se to še posebej močno čuti zaradi odvisnosti od uvoza in vpliva vojne v Ukrajini. Pritiski dobaviteljev na vlade kažejo na resnost situacije in potrebo po sistemskih rešitvah, kot so subvencije, regulacija cen ali drugi podporni ukrepi za gospodinjstva. Mehanizem vpliva je neposreden: visoki računi za energijo zmanjšujejo razpoložljivi dohodek potrošnikov, kar posledično zmanjšuje potrošnjo v drugih sektorjih gospodarstva. To lahko vodi v upočasnitev gospodarske rasti in poveča tveganje za recesijo. Za delnice to pomeni pritisk na podjetja, ki so odvisna od potrošniške porabe, medtem ko bi energetska podjetja lahko imela koristi od višjih cen, vendar so pod pritiskom regulacije. Za obveznice lahko povečana inflacija in morebitni vladni ukrepi za pomoč pomenijo večjo zadolženost. Slovenski dolgoročni vlagatelj naj spremlja vladne politike in ukrepe za obvladovanje energetske krize, saj ti vplivajo na stabilnost gospodarstva in dobičkonosnost podjetij v različnih sektorjih.",
+      "povzetek": "Desettisoči ljudi so protestirali v Španiji po neuspehu parlamenta pri sprejetju dveh odlokov o cenovno dostopnih stanovanjih. Ti protesti poglabljajo večdnevno krizo in odražajo naraščajoče nezadovoljstvo javnosti z vladno stanovanjsko politiko. Neuspeh reform poudarja resnost stanovanjske krize v Španiji, kjer se prebivalci soočajo z visokimi najemninami in nedostopnostjo stanovanj. Socialni nemiri in politična nestabilnost, ki izhajajo iz teh protestov, lahko imajo širše makroekonomske posledice, vplivajo na zaupanje potrošnikov in investitorjev ter na stabilnost vladne politike. Al Jazeera poroča, da so demonstracije odraz globokih strukturnih problemov.",
+      "analiza": "Protesti v Španiji zaradi neuspelih stanovanjskih reform so pomemben pokazatelj socialnih in političnih napetosti, ki lahko vplivajo na makroekonomsko stabilnost. V kontekstu naraščajočih življenjskih stroškov in inflacije, ki prekaša rast plač, so stanovanjski problemi postali kritična točka za mnoge državljane. Mehanizem vpliva na finančne trge je predvsem preko zmanjšanja zaupanja vlagateljev v stabilnost države in njeno sposobnost reševanja ključnih gospodarskih problemov. To lahko vpliva na bonitetne ocene države, donosnosti državnih obveznic in vrednost evra (EUR/USD je danes zrasel za 0,11 % na 1,1257, vendar bi se v primeru dolgotrajne krize lahko obrnil navzdol). Za delnice to pomeni potencialni pritisk na podjetja, ki so močno odvisna od domačega trga in potrošniške porabe v Španiji. Dolgotrajni socialni nemiri lahko tudi odvrnejo tuje neposredne naložbe. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati politično in socialno stabilnost v državah evroobmočja, saj lahko vpliva na celotno gospodarstvo in s tem na naložbe v evropske delnice in obveznice. Zgodovinski primeri kažejo, da so socialni nemiri pogosto povezani z gospodarsko negotovostjo in odlivom kapitala.",
       "vpliv": [
-        "Zmanjšanje potrošniške porabe",
-        "Pritisk na gospodarsko rast",
-        "Potencialne vladne subvencije in regulacija",
-        "Povečana inflacija"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-10-03T08:58:44.000Z"
-    },
-    {
-      "naslov": "Volitve v Latviji potekajo v senci zaznane ruske grožnje",
-      "sektor": "Geopolitika",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "V Latviji so se odprla volišča, kjer volivci glasujejo v ozadju zaznane grožnje iz Rusije. Čeprav se ne pričakuje, da bi Latvija spremenila svojo proevropsko in proukrajinsko usmeritev, bi lahko bila koalicijska pogajanja zapletena. Glavne teme volitev so varnost in stroški življenja, kot poroča Al Jazeera 3. oktobra 2026. Rezultati bodo pokazali, kako se bo država odzvala na notranje in zunanje izzive.",
-      "analiza": "Ozadje teh volitev je v širših geopolitičnih napetostih v Vzhodni Evropi, še posebej po ruski invaziji na Ukrajino. Države, ki mejijo na Rusijo, kot je Latvija, so še posebej občutljive na varnostna vprašanja. Čeprav se ne pričakuje dramatične spremembe v zunanji politiki, lahko zapletena koalicijska pogajanja povzročijo notranjo politično nestabilnost. Mehanizem vpliva na finančne trge je posreden: politična nestabilnost v članici EU in Natu lahko poveča splošno geopolitično tveganje v regiji, kar lahko vpliva na zaupanje vlagateljev. To se lahko odrazi v nihanjih valutnih tečajev (npr. EUR/USD, ki je danes pri 1.1257 (+0.11 %)), saj se vlagatelji umikajo iz bolj tveganih sredstev. Za delnice in obveznice v regiji to pomeni povečano premijo za tveganje. V preteklosti so politične negotovosti v manjših državah EU občasno povzročale kratkoročna nihanja na trgih. Slovenski dolgoročni vlagatelj naj bo pozoren na širše geopolitične trende v Evropi, saj lahko ti vplivajo na stabilnost evroobmočja in s tem na naložbe v evropska podjetja in obveznice.",
-      "vpliv": [
-        "Povečanje geopolitičnega tveganja v Evropi",
-        "Potencialna politična nestabilnost v Latviji",
-        "Vpliv na zaupanje vlagateljev v regijo",
-        "Nihanja valutnih tečajev"
+        "Zmanjšanje zaupanja vlagateljev v Španijo",
+        "Potencialni vpliv na bonitetne ocene države",
+        "Vpliv na donosnosti španskih obveznic",
+        "Pritisk na vrednost evra"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/10/3/latvians-head-to-polls-with-security-and-cost-of-living-in-focus?traffic_source=rss",
-      "objavljeno": "2026-10-03T08:21:23.000Z"
-    },
-    {
-      "naslov": "Opozorila: Povišanje davka na kapitalske dobičke bi odvrnilo vlagatelje",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Vodje premoženjskih skladov opozarjajo, da bi morebitno povišanje davka na kapitalske dobičke odvrnilo vlagatelje v delnice in spodkopalo vladni cilj spodbujanja naložb v Združenem kraljestvu. Novica, ki jo je objavil Financial Times 3. oktobra 2026, poudarja, da bi vsako povečanje davka v proračunu lahko imelo negativne posledice za trg kapitala. To opozorilo prihaja v času, ko se razpravlja o načinih za povečanje državnih prihodkov.",
-      "analiza": "Ozadje te razprave je v prizadevanjih vlad po vsem svetu, da bi uravnotežile proračune in financirale javne storitve, pogosto z razmišljanjem o davčnih reformah. Davek na kapitalske dobičke je davek na dobiček, ustvarjen s prodajo naložbenih sredstev, kot so delnice ali nepremičnine. Povečanje tega davka je pogosto predmet razprav, saj lahko vpliva na investicijsko klimo. Mehanizem vpliva je, da višji davek zmanjšuje neto donosnost naložb, kar zmanjšuje privlačnost vlaganja v delnice in druga kapitalska sredstva. To lahko povzroči umik kapitala ali zmanjšanje novih naložb, kar bi lahko negativno vplivalo na rast borznih indeksov, kot je S&P 500 (7723, +0.73 %) ali DAX (25231, +1.17 %), in splošno gospodarsko aktivnost. Vpliv bi bil najprej viden na britanskem trgu, vendar bi lahko imel širše implikacije, če bi se podobni ukrepi razširili. Za obveznice bi lahko bil vpliv manjši, razen če bi to sprožilo širše spremembe v fiskalni politiki. Slovenski dolgoročni vlagatelj naj bo pozoren na davčne politike v državah, kjer ima naložbe, saj lahko te bistveno vplivajo na končno donosnost. Spremembe davkov na kapitalske dobičke so pomemben dejavnik pri dolgoročnem načrtovanju naložb.",
-      "vpliv": [
-        "Zmanjšanje privlačnosti vlaganja v delnice",
-        "Potencialni umik kapitala iz delniških trgov",
-        "Negativen vpliv na rast borznih indeksov",
-        "Zmanjšanje novih naložb"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/678d61ea-d3f6-467f-a2b0-ffc78f1ed922?syn-25a6b1a6=1",
-      "objavljeno": "2026-10-03T04:23:59.000Z"
-    },
-    {
-      "naslov": "Zelenski prosil Trumpa za blokado rusko-kitajskega satelitskega rivala Starlinka",
-      "sektor": "Tehnologija & AI",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Ukrajinski predsednik Volodimir Zelenski je zaprosil svojega ameriškega kolega Donalda Trumpa, naj uvede sankcije proti podjetjem, ki sodelujejo pri razvoju 'Rassveta', satelitskega rivala Starlinka, ki ga razvijata Rusija in Kitajska. Novica, objavljena v Financial Timesu 3. oktobra 2026, poudarja, da Zelenski želi blokirati ta projekt, ki bi lahko imel pomembne vojaške in komunikacijske posledice. To kaže na naraščajočo tekmo v vesoljski tehnologiji z geopolitičnimi implikacijami.",
-      "analiza": "Ozadje te novice je v strateškem pomenu satelitskih komunikacij v sodobnem vojskovanju in globalni infrastrukturi. Starlink, ki ga upravlja SpaceX, je dokazal svojo ključno vlogo v Ukrajini. Razvoj rusko-kitajskega rivala, 'Rassveta', predstavlja poskus teh držav, da zmanjšajo odvisnost od zahodnih tehnologij in vzpostavijo lastno globalno satelitsko omrežje. Mehanizem vpliva na finančne trge je večplasten: morebitne sankcije bi lahko vplivale na podjetja, vpletena v razvoj 'Rassveta', in na širši tehnološki sektor, ki se ukvarja z vesoljsko tehnologijo. To bi lahko povečalo tveganje za podjetja, ki poslujejo s Kitajsko in Rusijo. Hkrati pa to poudarja pomen podjetij, kot je SpaceX, in njihovih tehnoloških rešitev. Za delnice v tehnološkem sektorju to pomeni tako priložnosti (za inovatorje) kot tveganja (za podjetja, ki so tarča sankcij). Geopolitična tekma v vesolju lahko vpliva tudi na obrambni sektor. Slovenski dolgoročni vlagatelj naj bo pozoren na trende v vesoljski in komunikacijski tehnologiji ter na geopolitične napetosti, ki lahko vplivajo na globalne dobavne verige in regulativno okolje za tehnološka podjetja. Naložbe v tehnološka podjetja so lahko donosne, vendar so izpostavljene tudi geopolitičnim tveganjem.",
-      "vpliv": [
-        "Potencialne sankcije proti podjetjem, vpletenim v 'Rassvet'",
-        "Povečano tveganje za podjetja, ki poslujejo s Kitajsko in Rusijo",
-        "Poudarjen pomen zahodnih satelitskih tehnologij",
-        "Vpliv na delnice v tehnološkem in obrambnem sektorju"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/5501a0c6-7d1e-4c1f-acc7-3b928e1f664a?syn-25a6b1a6=1",
-      "objavljeno": "2026-10-03T04:00:39.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms?traffic_source=rss",
+      "objavljeno": "2026-10-03T15:06:40.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-10-03T09:51:30.273Z",
+    "posodobljenoOb": "2026-10-03T18:51:35.500Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -164,8 +198,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 84571.34,
-        "sprememba_pct": 0.08,
+        "vrednost": 84922.54,
+        "sprememba_pct": 0.49,
         "enota": "USD"
       }
     ],
