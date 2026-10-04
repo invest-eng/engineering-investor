@@ -1,116 +1,114 @@
 {
-  "generiranoOb": "2026-10-04T10:35:30.500Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-10-04T18:44:56.282Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-10-04",
-  "povzetek": "Jutranji pregled trgov kaže na optimistično zaprtje ameriških borz in rast v Evropi, medtem ko so azijski trgi zabeležili padec. Indeks S&P 500 je zaključil pri 7723 točkah z rastjo 0,73 %, Nasdaq 100 je pridobil 1,00 % na 30808 točk, nemški DAX pa je zrasel za 1,17 % na 25231 točk. Japonski Nikkei 225 je medtem padel za 0,94 % na 68309 točk. Cene surovin so bile pod pritiskom, saj je zlato padlo za 0,95 % na 4162,30 USD/oz, WTI nafta za 1,90 % na 91,11 USD/sod, Brent nafta pa za 0,06 % na 102,25 USD/sod. Donosnost 10-letne ameriške državne obveznice se je zvišala na 5,28 %, kar kaže na povečano zaskrbljenost glede inflacije ali pričakovanja višjih obrestnih mer. Med ključnimi novicami izstopajo politična nestabilnost v Španiji, prizadevanja Združenega kraljestva za uravnoteženje proračuna, ohlajanje trga IPO in zapiranje bank na Kitajskem. Vlagatelji bodo ta teden pozorno spremljali objave ključnih makroekonomskih podatkov in morebitna zasedanja centralnih bank, ki lahko vplivajo na smer globalnih trgov.",
+  "povzetek": "Evropski delniški trgi so danes, 4. oktobra 2026, zaključili trgovanje v pozitivnem tonu, medtem ko so ameriški indeksi nadaljevali rast v zgodnjem popoldanskem trgovanju. Nemški DAX je zrasel za 1.17 % na 25231 točk. Čez lužo je S&P 500 pridobil 0.73 % in dosegel 7723 točk, tehnološki Nasdaq 100 pa je bil še močnejši z rastjo 1.00 % na 30808 točk. Japonski Nikkei 225 je bil izjema z padcem za 0.94 % na 68309 točk. Na trgu surovin je zlato padlo za 0.95 % na 4162.30 USD/oz, medtem ko je WTI nafta izgubila 1.90 % in se ustalila pri 91.11 USD/sod, Brent nafta pa je zabeležila manjši padec za 0.06 % na 102.25 USD/sod. Donosnost 10-letne ameriške državne obveznice se je zvišala za 0.76 % na 5.28 %, medtem ko je evro v primerjavi z dolarjem pridobil 0.11 %, pri čemer je tečaj EUR/USD znašal 1.1257. Bitcoin je zrasel za 0.70 % na 85338 USD, indeks volatilnosti VIX pa je padel za 6.59 % na 15.31, kar kaže na zmanjšano negotovost. Vlagatelji so optimistični glede prihodnjih dobičkov podjetij in čakajo na objavo zapisnikov Feda ta teden, ki bi lahko dali namige o prihodnjih dvigih obrestnih mer.",
   "novice": [
     {
-      "naslov": "Protesti v Španiji po zavrnitvi stanovanjskega zakona: Grožnja predčasnih volitev?",
+      "naslov": "Ameriška podjetja izjemno optimistična glede prihodnjih dobičkov pred objavo rezultatov",
+      "sektor": "Finance",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "MarketWatch poroča, da je optimizem med ameriškimi podjetji glede prihodnjih dobičkov dosegel rekordno raven. Ta izjemno pozitivna pričakovanja sovpadajo z začetkom objav rezultatov tretjega četrtletja. Več podjetij kot kdaj koli prej je izrazilo zaupanje v svoje poslovne rezultate, kar kaže na močno korporativno okolje in potencial za nadaljnjo rast. To razpoloženje je pomemben kazalnik splošnega gospodarskega zdravja in zaupanja v trg.",
+      "analiza": "Ozadje tega optimizma je verjetno kombinacija robustne gospodarske rasti in morebitnega umirjanja inflacijskih pritiskov, kar podjetjem omogoča ohranjanje ali celo povečanje marž. Novica je relevantna, ker optimizem podjetij pogosto služi kot napovednik rasti delnic in odraža zaupanje v dolgoročno gospodarsko stabilnost. Mehanizem vpliva je neposreden: pričakovani višji dobički privabljajo investitorje, kar dviguje cene delnic. To se že odraža v današnji rasti indeksov, kot sta S&P 500 (+0.73 %) in Nasdaq 100 (+1.00 %). Povečan apetit po tveganju lahko zmanjša povpraševanje po varnih obveznicah, kar se lahko kaže v rasti donosnosti. Za slovenskega dolgoročnega vlagatelja to pomeni potencialno nadaljevanje rasti na ameriških delniških trgih, kar je pomembno za globalno razpršene portfelje in lahko prispeva k skupni donosnosti. Pomembno je spremljati dejanske objave rezultatov, ki bodo potrdile ali ovrgle ta pričakovanja.",
+      "vpliv": [
+        "Rast delniških indeksov (S&P 500 +0.73 %, Nasdaq 100 +1.00 %)",
+        "Potencialno zmanjšanje povpraševanja po varnih obveznicah",
+        "Krepitev zaupanja vlagateljev"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-04T14:00:00.000Z"
+    },
+    {
+      "naslov": "Zapisniki Feda ta teden ključni za namige o prihodnjih dvigih obrestnih mer",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "MarketWatch opozarja na objavo zapisnikov septembrskega zasedanja ameriške centralne banke (Fed) ta teden, ki so ključni za vlagatelje. Ti zapisniki bi lahko ponudili pomembne namige o prihodnjih dvigih obrestnih mer, saj je realna obrestna mera trenutno presenetljivo nizka. Vlagatelji bodo iskali dodatni kontekst in razloge za odločitve Feda, kar bo vplivalo na pričakovanja glede monetarne politike. To je eden najpomembnejših ekonomskih dogodkov tedna.",
+      "analiza": "Ozadje je trenutna inflacijska politika Feda in pričakovanja glede obrestnih mer, ki so ključna za globalno gospodarstvo. Novica je izjemno relevantna, ker odločitve Feda močno vplivajo na stroške zadolževanja, vrednotenje podjetij in privlačnost različnih naložbenih razredov po vsem svetu. Mehanizem vpliva: morebitni namigi o nadaljnjih dvigih bi lahko zvišali donosnosti obveznic (10Y US Treasury je danes zrasla za 0.76 % na 5.28 %), kar bi lahko negativno vplivalo na delnice, še posebej na rastna podjetja. Nasprotno, morebitni znaki umirjanja bi lahko spodbudili delnice in znižali donosnosti obveznic. Vpliva tudi na valutne pare, kot je EUR/USD (danes +0.11 %), saj višje obrestne mere v ZDA krepijo dolar. Za slovenskega dolgoročnega vlagatelja je ključno spremljati to objavo, saj določa širše makroekonomsko okolje in vpliva na vrednost vseh naložb, od delnic do obveznic, ter na stroške financiranja podjetij.",
+      "vpliv": [
+        "Vpliv na donosnosti obveznic (10Y US Treasury +0.76 %)",
+        "Potencialni vpliv na delniške trge (S&P 500, Nasdaq 100)",
+        "Vpliv na valutne tečaje (EUR/USD)",
+        "Spremembe v pričakovanjih glede obrestnih mer"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-04T12:00:00.000Z"
+    },
+    {
+      "naslov": "Ukrajina pripravljena na pogovore z Rusijo ob podpori ZDA, pravi Zelenski",
+      "sektor": "Geopolitika",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Al Jazeera poroča, da je ukrajinski predsednik Zelenski izrazil pripravljenost na pogovore z Rusijo, ki bi jih podprle ZDA. Trilateralni pogovori bi se lahko zgodili še ta mesec v ZAE ali na drugem prizorišču, ki ga predlagajo ZDA. To je pomemben diplomatski razvoj v dolgotrajnem konfliktu, ki kaže na morebitno iskanje mirne rešitve. Pripravljenost na dialog prinaša upanje za zmanjšanje napetosti v regiji.",
+      "analiza": "Ozadje je dolgotrajen in uničujoč konflikt v Ukrajini, ki ima globalne posledice na gospodarstvo in geopolitično stabilnost. Novica je relevantna, ker morebitni mirovni pogovori zmanjšujejo geopolitično tveganje in negotovost na trgih. Mehanizem vpliva: zmanjšanje tveganja lahko pozitivno vpliva na trge, saj se zmanjša negotovost. To bi lahko vodilo do padca cen surovin, kot sta nafta (WTI -1.90 %, Brent -0.06 %) in plin, saj bi se izboljšale dobavne verige in zmanjšale skrbi glede oskrbe. Pozitivno bi vplivalo na evropske delniške trge (DAX +1.17 %) in okrepilo evro (EUR/USD +0.11 %), saj bi se izboljšali gospodarski obeti v Evropi. Zlato, kot varno zatočišče, bi lahko nadaljevalo padec (-0.95 %). Za slovenskega dolgoročnega vlagatelja to pomeni potencialno stabilizacijo evropskega gospodarstva in zmanjšanje inflacijskih pritiskov, kar je ugodno za naložbe v regiji in širše.",
+      "vpliv": [
+        "Potencialno znižanje cen surovin (WTI -1.90 %, Brent -0.06 %)",
+        "Pozitiven vpliv na evropske delniške trge (DAX +1.17 %)",
+        "Krepitev evra (EUR/USD +0.11 %)",
+        "Zmanjšanje povpraševanja po varnih zatočiščih (zlato -0.95 %)"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
+      "objavljeno": "2026-10-04T17:17:42.000Z"
+    },
+    {
+      "naslov": "Iran sporoča ZDA: vojaške rešitve za končanje vojne ni",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Al Jazeera poroča, da je iranski zunanji minister Abbas Araghchi sporočil ZDA, da 'ni vojaške rešitve' za končanje vojne in da je obdobje 'izgube časa in narekovanja zahtev končano'. Ta izjava poudarja vztrajanje Irana pri svoji poziciji v regionalnih konfliktih in diplomatskih odnosih z ZDA. Poudarja tudi kompleksnost in dolgotrajnost reševanja napetosti na Bližnjem vzhodu.",
+      "analiza": "Ozadje so dolgotrajne in napete razmere na Bližnjem vzhodu ter vpletenost Irana v različne regionalne konflikte, ki imajo globalne posledice. Izjava je relevantna, ker poudarja nadaljevanje diplomatskih napetosti med Iranom in ZDA, kar ohranja geopolitično tveganje v regiji. Mehanizem vpliva: nadaljevanje napetosti lahko ohranja visoke cene nafte (Brent pri 102.25 USD/sod), saj Bližnji vzhod ostaja ključna regija za dobavo energentov. Povečana negotovost lahko spodbudi povpraševanje po varnih zatočiščih, kot je zlato, čeprav je danes padlo (-0.95 %). Lahko vpliva na globalno razpoloženje vlagateljev in poveča volatilnost (VIX je danes padel za 6.59 %, a se lahko obrne). Za slovenskega dolgoročnega vlagatelja to pomeni, da je potrebno biti pozoren na dogajanje na Bližnjem vzhodu, saj ima lahko pomemben vpliv na cene energije in s tem na inflacijo in gospodarsko rast, kar posredno vpliva na vse naložbe.",
+      "vpliv": [
+        "Ohranjanje visokih cen nafte (Brent 102.25 USD/sod)",
+        "Potencialno povečanje povpraševanja po varnih zatočiščih",
+        "Ohranjanje geopolitičnega tveganja"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss",
+      "objavljeno": "2026-10-04T15:06:14.000Z"
+    },
+    {
+      "naslov": "Pravna tveganja se kopičijo za Altmana, OpenAI odkriva desetine vdorov",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Financial Times poroča, da se za Sama Altmana, vodjo OpenAI, kopičijo pravna tveganja, saj je podjetje odkrilo na desetine kibernetskih vdorov. Ti incidenti, ki vključujejo orodja umetne inteligence podjetja, puščajo ustvarjalca ChatGPT-ja ranljivega za val tožb. Odkritje vdorov postavlja pod vprašaj varnostne protokole in zanesljivost platforme, kar je pomembno za celoten sektor umetne inteligence.",
+      "analiza": "Ozadje je hitra rast in razvoj umetne inteligence, ki prinaša tudi nova varnostna tveganja in izzive glede zaščite podatkov. Novica je relevantna, ker se OpenAI, kot vodilno podjetje na področju AI, sooča z resnimi varnostnimi izzivi, kar lahko vpliva na zaupanje v celoten sektor. Mehanizem vpliva: kibernetski vdori in pravna tveganja lahko zmanjšajo vrednost podjetja (če je javno) in vplivajo na celotni tehnološki sektor, še posebej podjetja, ki so močno odvisna od AI in obdelave podatkov. To lahko povzroči umik vlagateljev iz tveganih tehnoloških delnic, kar bi se lahko odrazilo na indeksih, kot je Nasdaq 100, ki je danes sicer zrasel (+1.00 %). Povečana regulacija in stroški varnosti so verjetni. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub visokemu potencialu AI sektorja pomembno upoštevati tudi tveganja, povezana z varnostjo podatkov in regulacijo, kar lahko vpliva na dolgoročno donosnost naložb v tehnološka podjetja.",
+      "vpliv": [
+        "Potencialno zmanjšanje zaupanja v AI sektor",
+        "Povečana pravna tveganja za OpenAI",
+        "Možna povečana regulacija tehnološkega sektorja",
+        "Vpliv na vrednotenje tehnoloških delnic"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1",
+      "objavljeno": "2026-10-04T11:00:08.000Z"
+    },
+    {
+      "naslov": "Množični protesti v Indiji zahtevajo odstop vodje volilne komisije",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "V Španiji so se razplamteli protesti, potem ko levičarski vladi ni uspelo sprejeti predlaganega stanovanjskega zakona v parlamentu. Ukrepi, ki jih je vlada predlagala za reševanje stanovanjske krize, so bili zavrnjeni, kar je sprožilo širjenje nezadovoljstva po državi. Neuspeh pri sprejemanju ključne zakonodaje kaže na naraščajočo politično nestabilnost in pomanjkanje enotnosti v španskem parlamentu. To bi lahko vodilo v morebitne predčasne volitve, kar bi dodatno zapletlo politično in ekonomsko situacijo v državi. Protesti in politična negotovost so se pojavili kot odziv na neuspešne poskuse reševanja perečih socialnih vprašanj.",
-      "analiza": "Ozadje dogodka je dolgotrajna stanovanjska kriza v Španiji, ki jo levičarska vlada poskuša rešiti z regulativnimi ukrepi. Neuspeh pri sprejemanju zakona in posledični protesti so relevantni, saj kažejo na globoke politične delitve in morebitno paralizo vlade. Takšna politična nestabilnost lahko neposredno vpliva na zaupanje vlagateljev v špansko gospodarstvo. Mehanizem vpliva se kaže v povečanem tveganju, ki ga vlagatelji pripisujejo španskim državnim obveznicam, kar lahko zviša njihove donosnosti in s tem stroške zadolževanja države. Posledično lahko to vpliva na vrednost evra (EUR/USD je danes pri 1.1257), saj se poveča percepcija tveganja v evroobmočju. Za delniške trge v Španiji in širše v Evropi to pomeni povečano volatilnost in morebiten pritisk na podjetja, ki so odvisna od domačega povpraševanja. Zgodovinsko gledano so politične krize pogosto povzročile umik kapitala in zmanjšanje investicij. V prihodnje bo pomembno spremljati, ali bo prišlo do predčasnih volitev in kakšna bo njihova posledica za politično stabilnost. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati politična tveganja v posameznih državah evroobmočja, saj lahko vplivajo na širše evropske trge in s tem na donosnost naložb v evropske delnice in obveznice.",
+      "povzetek": "Al Jazeera poroča, da množični protesti, ki zahtevajo odstop vodje volilne komisije, že tretji dan pretresajo Indijo. Protestniki trdijo, da je revizija volilnih seznamov s strani volilne komisije odstranila milijone upravičenih volivcev, kar naj bi koristilo premierju Modiju. Ti protesti kažejo na globoke notranje politične napetosti in obtožbe o nepravilnostih v volilnem procesu v največji demokraciji na svetu.",
+      "analiza": "Ozadje so notranje politične napetosti in obtožbe o nepravilnostih v volilnem procesu v Indiji, ki je ena izmed hitro rastočih in pomembnih svetovnih ekonomij. Novica je relevantna, ker politična nestabilnost v tako veliki državi lahko vpliva na zaupanje tujih investitorjev in na regionalno stabilnost. Mehanizem vpliva: dolgotrajni protesti in politična negotovost lahko odvrnejo tuje neposredne naložbe in portfeljske investicije, kar lahko oslabi indijsko valuto in negativno vpliva na lokalni delniški trg. Povečana politična tveganja lahko vodijo do višjih donosnosti obveznic, saj vlagatelji zahtevajo večjo premijo za tveganje. Čeprav današnji tržni snapshot ne vključuje indijskih indeksov, bi se to lahko odrazilo na širših trgih v razvoju. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pri naložbah v trge v razvoju, kot je Indija, ključno spremljati tudi notranjo politično stabilnost, saj ima lahko neposreden vpliv na varnost in donosnost naložb.",
       "vpliv": [
-        "Povečana donosnost španskih državnih obveznic",
-        "Potencialni padec vrednosti evra (EUR/USD)",
-        "Povečana volatilnost na španskih delniških trgih",
-        "Zmanjšano zaupanje vlagateljev v špansko gospodarstvo"
+        "Potencialno zmanjšanje zaupanja tujih investitorjev v Indijo",
+        "Možna oslabitev indijske valute",
+        "Negativen vpliv na indijski delniški trg",
+        "Povečana politična tveganja v regiji"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/10/4/spain-protests-flare-after-housing-bill-rejected-will-it-cause-snap-poll?traffic_source=rss",
-      "objavljeno": "2026-10-04T10:16:49.000Z"
-    },
-    {
-      "naslov": "Proračun Združenega kraljestva: Potreba po zmanjšanju porabe in spodbujanju rasti",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Članek v Financial Timesu poudarja, da mora proračun Združenega kraljestva uravnotežiti potrebo po obvladovanju javne porabe in spodbujanju gospodarske rasti. Kancler Healey ima priložnost, da z nizkoprofilnim fiskalnim dogodkom doseže konstruktivne rezultate. To vključuje iskanje rešitev za dolgoročno vzdržnost javnih financ, hkrati pa zagotavljanje pogojev za investicije in ustvarjanje delovnih mest. Izziv je v tem, kako zmanjšati proračunski primanjkljaj brez dušenja gospodarske aktivnosti, ki je ključna za okrevanje. Razprave se osredotočajo tudi na socialne programe, kot je pomoč pri varstvu otrok in pokojninski sistem, kjer Toriesi obljubljajo konec pasti 100.000 funtov za varstvo otrok, a ohranitev trojnega zaklepa pokojnin.",
-      "analiza": "Ozadje te novice je dolgotrajno soočanje Združenega kraljestva z visokim javnim dolgom in relativno nizko gospodarsko rastjo po Brexitu in pandemiji. Relevantnost je v prihajajočem proračunu, ki bo določil smer fiskalne politike za prihodnje obdobje. Mehanizem vpliva na finančne trge je večplasten: stroga fiskalna politika lahko umiri inflacijo, kar bi lahko vplivalo na odločitve Bank of England glede obrestnih mer. To bi lahko vplivalo na vrednost funta in donosnosti britanskih državnih obveznic. Po drugi strani pa lahko varčevalni ukrepi kratkoročno zmanjšajo gospodarsko rast, kar bi lahko negativno vplivalo na delniške trge, še posebej na podjetja, ki so odvisna od domačega povpraševanja. Obljube glede pokojninskega sistema in varstva otrok imajo socialni in dolgoročni ekonomski vpliv na potrošniško porabo. Zgodovinsko so bile fiskalne konsolidacije pogosto boleče, vendar so dolgoročno lahko prispevale k stabilnosti. V prihodnje bo ključno spremljati podrobnosti proračunskih ukrepov in odziv gospodarstva. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da fiskalna politika velikih gospodarstev, kot je Združeno kraljestvo, vpliva na globalno ekonomijo in s tem posredno na naložbe v mednarodne sklade in podjetja, ki poslujejo na britanskem trgu.",
-      "vpliv": [
-        "Potencialno znižanje inflacije v Združenem kraljestvu",
-        "Vpliv na odločitve Bank of England o obrestnih merah",
-        "Kratkoročni pritisk na gospodarsko rast Združenega kraljestva",
-        "Vpliv na vrednost funta in donosnosti britanskih obveznic"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/dfa07e3f-5557-46ba-8128-72f43aa6558d?syn-25a6b1a6=1",
-      "objavljeno": "2026-10-04T10:00:07.000Z"
-    },
-    {
-      "naslov": "Ohlajanje trga začetnih javnih ponudb (IPO) na Wall Streetu zaradi zadržanega povpraševanja",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Trg začetnih javnih ponudb delnic (IPO) na Wall Streetu doživlja ohladitev zaradi zadržanega povpraševanja in pomislekov glede vrednotenja. Več načrtovanih kotacij je bilo v zadnjih tednih prekinjenih, kar je povzročilo ohladitev na trgih, še posebej po zamudi javnega debija podjetja Anthropic. Članek v Financial Timesu poudarja, da so flotacije zastale, donosi novih kotacij pa so bili šibki. To kaže na previdnost vlagateljev, ki so manj pripravljeni tvegati pri novih in nepreverjenih podjetjih, še posebej v luči višjih obrestnih mer in negotovih gospodarskih obetov. Trg IPO je bil v preteklih letih zelo aktiven, zdaj pa se sooča z izzivi.",
-      "analiza": "Ozadje te novice je obdobje izjemne aktivnosti na trgu IPO, ki je bilo pogosto podprto z nizkimi obrestnimi merami in obilico likvidnosti. Trenutna ohladitev je relevantna, saj odraža spremenjeno makroekonomsko okolje z višjimi obrestnimi merami (10Y US Treasury je pri 5,28 %) in povečano previdnostjo vlagateljev. Mehanizem vpliva se kaže v zmanjšani sposobnosti podjetij, da pridobijo svež kapital prek javnih trgov, kar lahko upočasni njihovo rast in inovacije. To še posebej velja za tehnološka podjetja, ki so pogosto odvisna od financiranja prek IPO. Posledice za delniške trge so lahko negativne, saj zmanjšano število novih kotacij in šibki donosi obstoječih IPO-jev zmanjšujejo splošni optimizem in privlačnost trga. Vpliv na obveznice je posreden, saj podjetja, ki ne morejo na IPO, morda iščejo alternativne vire financiranja na dolžniških trgih. Zgodovinsko so ohladitve trga IPO pogosto sovpadale z obdobji gospodarske negotovosti ali korekcij na širših delniških trgih. V prihodnje bo pomembno spremljati, ali se bo zaupanje vlagateljev vrnilo in ali se bodo obrestne mere stabilizirale. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno biti previden pri naložbah v visoko vrednotena podjetja, še posebej tista, ki so pred kratkim vstopila na borzo, in se osredotočiti na podjetja z močnimi temelji in dokazano dobičkonosnostjo.",
-      "vpliv": [
-        "Zmanjšana možnost podjetij za pridobivanje kapitala",
-        "Pritisk na vrednotenja tehnoloških delnic",
-        "Zmanjšan optimizem na delniških trgih",
-        "Povečana previdnost vlagateljev"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1",
-      "objavljeno": "2026-10-04T04:01:05.000Z"
-    },
-    {
-      "naslov": "Kitajska zapira na stotine bank za krepitev finančnega sistema",
-      "sektor": "Finance",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Kitajska je lani zaprla več kot 670 bank, kar je rekordno število, v prizadevanjih za krepitev svojega finančnega sistema. Poteza je del širših prizadevanj za obvladovanje tveganj in zagotavljanje stabilnosti v bančnem sektorju. Agencija Fitch opozarja, da manjši igralci ostajajo najšibkejši del sektorja, kar kaže na ranljivost regionalnih bank. Zapiranje bank je lahko znak, da se kitajska vlada aktivno spopada z nakopičenimi slabimi posojili in prekomernim zadolževanjem, kar je ključno za dolgoročno zdravje gospodarstva. Ta ukrep poudarja tudi prizadevanja Pekinga za centralizacijo nadzora nad finančnim sistemom in preprečevanje sistemskih tveganj.",
-      "analiza": "Ozadje te novice je dolgotrajna zaskrbljenost glede stabilnosti kitajskega finančnega sistema, še posebej glede manjših regionalnih bank in njihove izpostavljenosti nepremičninskemu sektorju ter lokalnim vladnim dolgovom. Zapiranje tako velikega števila bank je relevantno, saj kaže na odločnost kitajskih oblasti pri reševanju teh problemov, hkrati pa poudarja obseg izzivov. Mehanizem vpliva na finančne trge je kompleksen: kratkoročno lahko zapiranje bank povzroči negotovost in zmanjša dostop do kapitala za nekatera podjetja, kar lahko upočasni gospodarsko rast Kitajske. To bi imelo posledice za globalne surovinske trge, saj je Kitajska velik potrošnik surovin (npr. WTI nafta je pri 91,11 USD/sod, Brent pri 102,25 USD/sod). Dolgoročno pa bi lahko takšni ukrepi prispevali k bolj stabilnemu in odpornemu finančnemu sistemu, kar bi bilo pozitivno za globalno ekonomijo. Vpliv na valute, kot je kitajski juan, je lahko mešan, odvisno od percepcije stabilnosti. Zgodovinsko so bančne krize pogosto sprožile širše gospodarske recesije, zato je proaktivno ukrepanje Kitajske pomembno. V prihodnje bo ključno spremljati, kako se bo razvijalo kitajsko gospodarstvo in ali bodo ti ukrepi uspešni pri preprečevanju širših sistemskih tveganj. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno biti pozoren na zdravje kitajskega gospodarstva, saj je to ključni dejavnik za globalno rast in s tem za donosnost naložb v podjetja, ki so izpostavljena kitajskemu trgu ali globalnim dobavnim verigam.",
-      "vpliv": [
-        "Kratkoročno upočasnitev gospodarske rasti Kitajske",
-        "Vpliv na globalne surovinske trge (nafta, kovine)",
-        "Povečana negotovost v kitajskem finančnem sektorju",
-        "Dolgoročno krepitev stabilnosti kitajskega finančnega sistema"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/8a8f5c97-f1d3-4d3d-a3bc-d5a2e5539177?syn-25a6b1a6=1",
-      "objavljeno": "2026-10-04T02:00:04.000Z"
-    },
-    {
-      "naslov": "Japonski in korejski ladjedelci uvajajo robote za konkurenčnost s Kitajsko",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Japonski in korejski ladjedelci vlagajo v 'pametne ladjedelnice' in uvajajo robote, da bi se lahko kosali z dominacijo Kitajske v industriji. Ta poteza zaveznic ZDA, ki vključuje avtomatizacijo procesov in uporabo naprednih tehnologij, je odziv na zaskrbljenost Washingtona glede kitajske prevlade v ladjedelništvu. Cilj je povečati učinkovitost, zmanjšati stroške dela in izboljšati kakovost proizvodnje, kar jim bo omogočilo, da ostanejo konkurenčni na globalnem trgu. Razvoj 'pametnih ladjedelnic' predstavlja pomemben korak k modernizaciji industrije in zagotavljanju dolgoročne vzdržnosti.",
-      "analiza": "Ozadje te novice je globalna konkurenca v ladjedelništvu, kjer je Kitajska v zadnjih letih pridobila precejšen tržni delež, kar je povzročilo zaskrbljenost v ZDA in med njenimi zaveznicami. Uvajanje robotov in avtomatizacije je relevantno, saj kaže na strateški odgovor Japonske in Južne Koreje na ta izziv, s poudarkom na tehnološki premoči. Mehanizem vpliva na finančne trge je dolgoročen in se kaže v povečani produktivnosti in konkurenčnosti podjetij v tem sektorju. To lahko pozitivno vpliva na delnice podjetij v ladjedelništvu in avtomatizaciji v teh državah. Hkrati lahko zmanjšanje stroškov dela in izboljšanje učinkovitosti prispevata k stabilnejšim dobavnim verigam, kar je pomembno za globalno trgovino. Vpliv na surovine je posreden, saj učinkovitejša proizvodnja lahko vpliva na povpraševanje po določenih materialih. Zgodovinsko so tehnološke inovacije vedno preoblikovale industrije in ustvarjale nove priložnosti za vlagatelje. V prihodnje bo pomembno spremljati, kako se bo razvijala avtomatizacija v drugih težkih industrijah in kakšen bo njen vpliv na globalno konkurenčnost. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno prepoznati trende avtomatizacije in robotike kot ključne dejavnike dolgoročne rasti in inovacij, ki lahko ponudijo zanimive naložbene priložnosti v podjetjih, ki so vodilna na tem področju.",
-      "vpliv": [
-        "Povečana produktivnost in konkurenčnost ladjedelnic",
-        "Potencialna rast delnic v sektorju robotike in avtomatizacije",
-        "Stabilizacija globalnih dobavnih verig",
-        "Dolgoročni vpliv na trg dela v industriji"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
-      "objavljeno": "2026-10-04T01:00:04.000Z"
-    },
-    {
-      "naslov": "Hutiji trdijo, da so napadli objekt Aramco, medtem ko se boji v Jemnu stopnjujejo",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Hutiji trdijo, da so napadli objekt podjetja Aramco v Savdski Arabiji, medtem ko se boji v Jemnu stopnjujejo. Tiskovni predstavnik koalicije pod vodstvom Savdske Arabije, ki podpira jemensko vlado, je te trditve označil za 'zavajajoče' in dejal, da jemenska oborožena skupina 'poskuša preusmeriti pozornost' od svojih izgub. Kljub zanikanju se napetosti v regiji Rdečega morja in Jemnu povečujejo. Jemenske vladne sile, ki jih podpira Savdska Arabija, trdijo, da so v 24 urah ubile 700 hutijskih upornikov, kar kaže na intenziviranje konflikta. Somalijski predsednik je Hutije obtožil destabilizacije regije in motenja plovbe skozi Bab al-Mandeb.",
-      "analiza": "Ozadje te novice je dolgotrajen konflikt v Jemnu, ki ima širše regionalne posledice, še posebej za energetsko varnost in plovbo v Rdečem morju. Trditve o napadu na objekt Aramco so relevantne, saj tudi ob morebitnem zanikanju povečujejo geopolitično tveganje v ključni regiji za svetovno oskrbo z nafto. Mehanizem vpliva na finančne trge je neposreden: povečana nestabilnost na Bližnjem vzhodu običajno vodi do rasti cen nafte, saj vlagatelji pričakujejo motnje v dobavi. Čeprav sta WTI nafta (-1,90 % na 91,11 USD/sod) in Brent nafta (-0,06 % na 102,25 USD/sod) danes padli, lahko takšni dogodki hitro obrnejo trend. Povečana geopolitična tveganja lahko vplivajo tudi na delniške trge, še posebej na podjetja v energetskem sektorju in tista, ki so odvisna od stabilnih cen energije. Zlato (4162,30 USD/oz, -0,95 %) se pogosto obravnava kot varno zatočišče v časih negotovosti, vendar danes ni pokazalo rasti. Zgodovinsko so konflikti na Bližnjem vzhodu pogosto povzročili skoke cen nafte in povečano volatilnost na trgih. V prihodnje bo ključno spremljati razvoj konflikta v Jemnu in morebitne napade na energetsko infrastrukturo v Savdski Arabiji. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno upoštevati geopolitična tveganja in njihov vpliv na cene surovin, saj lahko to vpliva na stroške proizvodnje in potrošnje ter s tem na dobičkonosnost podjetij in inflacijo.",
-      "vpliv": [
-        "Potencialna rast cen nafte (WTI, Brent)",
-        "Povečana geopolitična tveganja v regiji",
-        "Vpliv na delnice energetskega sektorja",
-        "Morebiten pritisk na globalno inflacijo"
-      ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
-      "objavljeno": "2026-10-04T03:33:49.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss",
+      "objavljeno": "2026-10-04T16:55:03.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-10-04T10:34:30.243Z",
+    "posodobljenoOb": "2026-10-04T18:44:15.837Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -181,8 +179,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 85344.33,
-        "sprememba_pct": 0.71,
+        "vrednost": 85338.08,
+        "sprememba_pct": 0.7,
         "enota": "USD"
       }
     ],
