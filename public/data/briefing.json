@@ -1,134 +1,100 @@
 {
-  "generiranoOb": "2026-10-05T11:27:57.637Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-10-05T22:12:07.894Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-10-05",
-  "povzetek": "Jutranji pregled trgov kaže mešano sliko po nočnih dogodkih. Ameriški trgi so zaprli pozitivno, saj je S&P 500 pridobil 0,73 % in dosegel 7723 točk, Nasdaq 100 pa je zrasel za 1,00 % na 30808 točk. Azijski trgi so sledili optimizmu, z Nikkei 225, ki je poskočil za 2,40 % na 69947 točk. Vendar pa evropski DAX kaže rahlo negativno tendenco z padcem za 0,06 % na 25217 točk, medtem ko je evro oslabel proti dolarju, pri čemer je EUR/USD padel za 0,44 % na 1.1208. Obvezniški trgi ostajajo pod pritiskom, saj je donosnost 10-letne ameriške zakladne obveznice zrasla na 5,28 %. Vlagatelji danes pričakujejo nadaljnje signale glede inflacije in morebitnih odločitev centralnih bank, zlasti v luči nestabilnosti na obvezniškem trgu. Ključni ekonomski dogodek tega tedna, ki ga vlagatelji morajo imeti na radarju, so prihajajoči podatki o inflaciji v evroobmočju in ZDA.",
+  "povzetek": "Evropski trgi so danes zaključili z rahlo pozitivnim tonom, medtem ko so ameriški indeksi nadaljevali rast v popoldanskih urah. DAX je dan zaključil pri 25254 točkah z minimalno rastjo +0.09 %, medtem ko sta S&P 500 in Nasdaq 100, dve uri po odprtju, beležila krepko rast, S&P 500 pri 7774 točkah (+0.66 %) in Nasdaq 100 pri 31076 točkah (+0.87 %), kar kaže na močno povpraševanje po tehnoloških delnicah. Na trgu surovin je zlato pridobilo 0.26 % na 4167.60 USD/oz, medtem ko je cena WTI nafte rahlo padla za 0.15 % na 89.30 USD/sod, Brent nafta pa je ostala nespremenjena pri 100.32 USD/sod. Donosnost 10-letne ameriške državne obveznice se je zvišala za 0.64 % na 5.31 %, kar kaže na nadaljnji pritisk na obvezniški trg, medtem ko je evro oslabel proti dolarju, par EUR/USD je bil pri 1.1225 (-0.28 %). Glavne novice dneva so se vrtele okoli velikih investicij v umetno inteligenco, izzivov v obvezniškem trgu in geopolitičnih napetosti v vzhodni Evropi ter na Bližnjem vzhodu. Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v ZDA, ki lahko vplivajo na pričakovanja glede monetarne politike.",
   "novice": [
     {
-      "naslov": "Evro zdrsnil na 17-mesečno dno proti dolarju ob energetskih skrbeh",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
+      "naslov": "Nvidia nadaljuje rast, analitiki vidijo potencial za nove rekorde",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
       "intenziteta": 3,
-      "povzetek": "Evro je danes zdrsnil na najnižjo raven v zadnjih 17 mesecih proti ameriškemu dolarju, pri čemer je valutni par EUR/USD padel za 0,44 % na 1.1208. Glavni razlogi za ta padec so visoke cene energentov, ki obremenjujejo evropsko gospodarstvo, ter naraščajoče skrbi glede javnih financ Francije. Ta kombinacija dejavnikov ustvarja pritisk na enotno valuto, saj vlagatelji ocenjujejo tveganja, povezana z evropsko gospodarsko stabilnostjo in fiskalno disciplino nekaterih članic evroobmočja. Oslabelost evra odraža tudi pričakovanja glede morebitnih ukrepov Evropske centralne banke (ECB).",
-      "analiza": "Oslabelost evra proti dolarju na 1.1208, kar predstavlja 17-mesečno dno, je posledica več dejavnikov. V ozadju so predvsem visoke cene energentov, ki močno vplivajo na uvozno odvisno Evropo, saj dražijo proizvodnjo in zmanjšujejo kupno moč potrošnikov. Dodatno zaskrbljenost povzročajo francoske javne finance, ki so pod drobnogledom zaradi morebitnega povečanja zadolženosti, kar bi lahko ogrozilo stabilnost celotnega evroobmočja. Ta situacija je relevantna, saj kaže na razhajanje med gospodarskimi obeti ZDA in evroobmočja, kjer ZDA kažejo večjo odpornost. Mehanizem vpliva je preprost: ko se povečajo tveganja v eni regiji, vlagatelji preusmerijo kapital v varnejša sredstva ali regije z boljšimi obeti, kar oslabi valuto prizadete regije. Posledice so vidne na valutnih trgih, kjer se EUR/USD giblje navzdol. Za delnice to pomeni, da so evropska podjetja, ki izvažajo, lahko konkurenčnejša, medtem ko so uvozniki prizadeti. Obveznice v evroobmočju bi lahko doživele pritisk navzdol, saj se povečuje tveganje, kar zahteva višje donosnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da so naložbe v evrih lahko manj donosne v primerjavi z naložbami v dolarjih, če se trend nadaljuje. Prav tako lahko uvozni izdelki postanejo dražji. Pomembno je spremljati politiko ECB in fiskalno stabilnost članic evroobmočja.",
+      "povzetek": "Analitiki podjetja MarketWatch poudarjajo, da ima delnica Nvidie, kljub nedavnemu doseganju prvega rekordnega vrha v mesecih, še vedno ugodno vrednotenje. Poudarjajo tudi ključno vlogo proizvajalca čipov v celotnem ekosistemu umetne inteligence. To kaže na trajno zaupanje v sposobnost podjetja, da izkorišča rastoče povpraševanje po AI tehnologijah. Optimizem temelji na pričakovanjih nadaljnje rasti prihodkov in dobičkov, ki jih poganja razvoj in implementacija AI rešitev po vsem svetu. Nvidia ostaja v središču pozornosti vlagateljev, ki iščejo izpostavljenost sektorju umetne inteligence.",
+      "analiza": "Nvidia je v zadnjih letih postala sinonim za rast v sektorju umetne inteligence, saj so njeni grafični procesorji (GPU) ključni za razvoj in delovanje AI modelov. Doseganje novega rekordnega vrha po mesecih in nadaljnji optimizem analitikov potrjujeta močan trend v tehnološkem sektorju, kjer je AI gonilna sila inovacij in investicij. Trenutno vrednotenje, ki ga analitiki označujejo kot 'poceni', kljub visokim cenam delnic, kaže na pričakovanja izjemne prihodnje rasti. To je pomembno, saj vlagatelji iščejo podjetja, ki lahko dolgoročno kapitalizirajo na transformativnih tehnologijah. Na delniške trge to vpliva pozitivno, saj krepi zaupanje v tehnološki sektor in širše trge, kar se odraža tudi v rasti indeksov, kot je Nasdaq 100 (+0.87 %). Za obveznice in valute je vpliv posreden, saj splošno pozitivno razpoloženje na delniških trgih lahko zmanjša povpraševanje po varnih sredstvih. Slovenski dolgoročni vlagatelj lahko to razume kot potrditev pomembnosti diverzifikacije portfelja v rastoče sektorje, kot je tehnologija, vendar ob zavedanju, da visoka rast pogosto prinaša tudi višjo volatilnost.",
       "vpliv": [
-        "EUR/USD padec za 0,44 % na 1.1208",
-        "Povečana konkurenčnost evropskih izvoznikov",
-        "Dražji uvoz za evroobmočje",
-        "Potencialni pritisk na obvezniške donose v evroobmočju"
+        "Rast delnic Nvidie",
+        "Pozitiven vpliv na tehnološke indekse (Nasdaq 100 +0.87 %)",
+        "Krepitev zaupanja v AI sektor",
+        "Povečano zanimanje za rastne delnice"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/8b19b9f7-9237-47bf-bc50-d8b78aa7fe24?syn-25a6b1a6=1",
-      "objavljeno": "2026-10-05T07:43:45.000Z"
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-05T21:52:00.000Z"
     },
     {
-      "naslov": "Preverjanje realnosti AI lahko S&P 500 zniža na 5.000 točk",
+      "naslov": "Intelov padec po namigih Muska o novem partnerju za čipe",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Strateg Panmure Liberuma opozarja, da bi 'preverjanje realnosti' glede porabe za umetno inteligenco (AI) lahko indeks S&P 500 znižalo na 5.000 točk. Vlagatelji naj bodo pozorni na porabo za AI v prihajajoči sezoni objave poslovnih rezultatov. Trenutno je S&P 500 pri 7723 točkah, kar pomeni, da bi morebiten padec na 5.000 točk predstavljal znatno korekcijo. Opozorilo poudarja, da je trenutna visoka vrednotenja delnic, povezanih z AI, morda prenapihnjena in da trg pričakuje preveč od kratkoročnih dobičkov iz te tehnologije. To bi lahko vplivalo na širok spekter delnic, še posebej tistih v tehnološkem sektorju.",
-      "analiza": "Opozorilo stratega Panmure Liberuma o možnem padcu S&P 500 na 5.000 točk zaradi 'preverjanja realnosti' na področju AI je pomembno v luči trenutne evforije okoli umetne inteligence. Trenutno je S&P 500 pri 7723 točkah, kar pomeni, da bi tak padec predstavljal skoraj 35-odstotno korekcijo. V ozadju je vprašanje, ali so trenutna vrednotenja tehnoloških podjetij, ki so močno povezana z AI, vzdržna. Vlagatelji so v zadnjem času močno vlagali v podjetja, ki so povezana z AI, kar je pognalo njihove cene navzgor. Analiza je relevantna, ker se bliža sezona objave poslovnih rezultatov, kjer bo poraba za AI ključni indikator. Če podjetja ne bodo izkazala pričakovanih dobičkov ali rasti, ki bi upravičevala visoka vrednotenja, bi lahko prišlo do razprodaje. Mehanizem vpliva je psihološki in fundamentalni: razočaranje nad rezultati ali zmanjšanje napovedi lahko sproži prodajo delnic. Posledice bi bile najprej vidne na delnicah tehnološkega sektorja, nato pa bi se lahko razširile na celoten trg. Obveznice in valute bi lahko reagirale na povečano negotovost in umik kapitala iz delnic. Za slovenskega dolgoročnega vlagatelja to pomeni, da je potrebna previdnost pri naložbah v visoko vrednotene tehnološke delnice in diverzifikacija portfelja. Pomembno je spremljati dejanske poslovne rezultate podjetij in ne le pričakovanja glede AI.",
+      "povzetek": "Delnice Intela so padle po namigih Elona Muska, da bi se lahko projektu Terafab, njegovi veliki iniciativi za proizvodnjo čipov, pridružil še en partner. Musk je omenil, da potekajo pogovori s TSMC, kar nakazuje, da Intel morda ne bo edino polprevodniško podjetje, vključeno v proizvodnjo čipov za ta projekt. Ta novica je povzročila zaskrbljenost med vlagatelji glede Intelovega deleža v projektu in njegove konkurenčne pozicije. Morebitna vključitev TSMC bi lahko pomenila manjšo ekskluzivnost za Intel in s tem potencialno manjše prihodke od tega ambicioznega podviga. Trg je reagiral z zmanjšanjem vrednosti delnic Intela.",
+      "analiza": "Intel, tradicionalni velikan v industriji polprevodnikov, se sooča z izzivi v hitro spreminjajočem se okolju, kjer se konkurenca za proizvodnjo naprednih čipov za AI in druge tehnologije zaostruje. Namigi Elona Muska o morebitnem sodelovanju TSMC pri projektu Terafab so sprožili zaskrbljenost glede Intelovega prihodnjega položaja. TSMC je vodilni proizvajalec čipov po pogodbi in morebitno partnerstvo bi lahko pomenilo, da Intel ne bo imel ekskluzivnega deleža v tako pomembnem projektu, kar bi lahko vplivalo na njegove prihodke in tržni delež. To je neposredno vplivalo na delnice Intela, ki so zabeležile padec. Na širši tehnološki sektor in indekse, kot sta S&P 500 (+0.66 %) in Nasdaq 100 (+0.87 %), je vpliv bolj specifičen, saj se nanaša na posamezno podjetje, vendar poudarja intenzivnost konkurence v sektorju čipov. Za slovenskega dolgoročnega vlagatelja je to opomin, da so tudi uveljavljena podjetja izpostavljena konkurenčnim pritiskom in da je pomembno spremljati strateške odločitve in partnerstva v panogah, v katere vlagajo.",
       "vpliv": [
-        "Potencialni padec S&P 500 na 5.000 točk",
-        "Povečana volatilnost v tehnološkem sektorju",
-        "Razočaranje nad porabo za AI lahko sproži razprodaje",
-        "Vpliv na širši delniški trg"
+        "Padec delnic Intela",
+        "Povečana konkurenca v sektorju polprevodnikov",
+        "Negativna percepcija Intelovega tržnega deleža",
+        "Potencialno zmanjšanje prihodkov Intela"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
-      "objavljeno": "2026-10-05T11:19:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-05T20:30:00.000Z"
     },
     {
-      "naslov": "Združeno kraljestvo razmišlja o carinah na kitajska električna vozila",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Britanski minister za gospodarstvo Jonathan Reynolds je pooblastil uradnike, da pripravijo paket morebitnih dajatev, ki bi jih lahko uvedli na kitajska električna vozila (EV). Ta poteza nakazuje na naraščajoče trgovinske napetosti med Združenim kraljestvom in Kitajsko, podobno kot so že opazne v Evropski uniji in ZDA. Cilj morebitnih carin je zaščititi domačo avtomobilsko industrijo pred, po mnenju nekaterih, nelojalno konkurenco s strani subvencioniranih kitajskih proizvajalcev. Odločitev bi lahko imela daljnosežne posledice za globalno trgovino in dobavne verige v avtomobilskem sektorju.",
-      "analiza": "Razmislek Združenega kraljestva o uvedbi carin na kitajska električna vozila se vpenja v širši globalni trend protekcionizma in trgovinskih napetosti, ki so jih že sprožile ZDA in Evropska unija. V ozadju je zaskrbljenost, da kitajski proizvajalci EV prejemajo državne subvencije, kar jim omogoča prodajo vozil po nižjih cenah in s tem nelojalno konkurenco na tujih trgih. Ta poteza je relevantna, saj bi lahko vodila v eskalacijo trgovinske vojne, ki bi prizadela globalne dobavne verige in povzročila višje cene za potrošnike. Mehanizem vpliva je direkten: carine povečajo stroške uvoženih vozil, kar lahko zmanjša njihovo konkurenčnost in zaščiti domače proizvajalce. Posledice bi bile vidne na delnicah avtomobilskih podjetij, zlasti tistih, ki so močno odvisna od kitajskega trga ali dobavnih verig. Surovine, kot so litij in kobalt, bi lahko doživele nihanja cen zaradi spremenjenih povpraševanj. Valute bi lahko bile pod pritiskom zaradi negotovosti v globalni trgovini. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati razvoj trgovinskih politik, saj lahko te vplivajo na dobičkonosnost podjetij v avtomobilski industriji in povečajo tveganje v globalno izpostavljenih portfeljih. Diverzifikacija in razumevanje geopolitičnih tveganj sta ključna.",
-      "vpliv": [
-        "Potencialno višje cene električnih vozil za potrošnike",
-        "Vpliv na dobavne verige avtomobilske industrije",
-        "Povečane trgovinske napetosti med Združenim kraljestvom in Kitajsko",
-        "Možna nihanja delnic avtomobilskih proizvajalcev"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/0f48c61b-a490-4bdc-8473-bab6705e5b61?syn-25a6b1a6=1",
-      "objavljeno": "2026-10-05T10:03:14.000Z"
-    },
-    {
-      "naslov": "Rast cen letalskih vozovnic in upad dobičkov letalskih družb",
-      "sektor": "Energetika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Letalske družbe zmanjšujejo kapacitete, medtem ko cene letalskega goriva še naprej naraščajo, kar bo verjetno povzročilo nadaljnjo rast cen letalskih vozovnic. Kljub temu, da potniki še vedno rezervirajo lete, analitiki opozarjajo, da dobički letalskih družb ne bodo rasli sorazmerno s cenami vozovnic. Cena WTI nafte je danes pri 90.31 USD/sod (-0.88 %), Brent nafte pa pri 102.55 USD/sod (+0.29 %). Visoki stroški goriva in zmanjšana ponudba ustvarjajo pritisk na marže letalskih prevoznikov, kar pomeni, da se bodo višji stroški prenašali na potrošnike, medtem ko bo profitabilnost podjetij ostala pod pritiskom.",
-      "analiza": "Rast cen letalskih vozovnic ob hkratnem upadu dobičkov letalskih družb je neposredna posledica naraščajočih cen letalskega goriva, ki so tesno povezane s cenami surove nafte. Cena WTI nafte je danes pri 90.31 USD/sod, Brent nafte pa pri 102.55 USD/sod. Letalsko gorivo predstavlja enega največjih stroškovnih postavk za letalske prevoznike. V ozadju je tudi zmanjševanje kapacitet s strani letalskih družb, kar je odziv na visoke operativne stroške in poskus ohranjanja cenovne moči. Ta situacija je relevantna, ker kaže na občutljivost sektorja na cene energentov in na omejene možnosti za prenos vseh stroškov na potrošnike, ne da bi to vplivalo na povpraševanje. Mehanizem vpliva je jasen: višje cene goriva povečajo stroške, kar zmanjša dobičkonosnost. Letalske družbe poskušajo to kompenzirati z višjimi cenami vozovnic, vendar je elastičnost povpraševanja omejena. Posledice so negativne za delnice letalskih družb, saj se zmanjšujejo pričakovanja glede dobičkov. Za potrošnike to pomeni dražja potovanja. Na trgu surovin lahko pričakujemo nadaljnjo volatilnost cen nafte, saj povpraševanje ostaja visoko, ponudba pa omejena. Za slovenskega dolgoročnega vlagatelja to pomeni, da so naložbe v letalski sektor lahko tvegane v okolju visokih cen energentov. Pomembno je spremljati gibanje cen nafte in strategije letalskih družb za obvladovanje stroškov.",
-      "vpliv": [
-        "Rast cen letalskih vozovnic",
-        "Zmanjšanje dobičkov letalskih družb",
-        "Pritisk na delnice letalskih prevoznikov",
-        "Nadaljnja volatilnost cen nafte (WTI: 90.31 USD/sod, Brent: 102.55 USD/sod)"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/10/05/airfare-prices-airline-profits.html",
-      "objavljeno": "2026-10-05T11:00:01.000Z"
-    },
-    {
-      "naslov": "Razprodaja obveznic odpira redke priložnosti za vlagatelje",
+      "naslov": "Wall Street banke financirajo rekordni 60 milijardni posel s čipi",
       "sektor": "Finance",
       "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Glavna investicijska pisarna banke Standard Chartered meni, da trenutna razprodaja obveznic odpira redke priložnosti za vlagatelje. Po njihovem mnenju so obvezniški in denarni trgi preveč 'jastrebji' glede Federal Reserve. Donosnost 10-letne ameriške zakladne obveznice je danes pri 5,28 %, kar predstavlja rast za 0,76 %. Visoke donosnosti obveznic, ki so posledica njihove razprodaje, so privlačne za vlagatelje, ki iščejo stabilen donos, vendar hkrati pomenijo višje stroške zadolževanja za podjetja in države. To ustvarja kompleksno okolje, kjer se nekaterim odpirajo priložnosti, medtem ko drugi trpijo zaradi višjih obrestnih mer.",
-      "analiza": "Trenutna razprodaja obveznic, ki je donosnost 10-letne ameriške zakladne obveznice povišala na 5,28 % (+0,76 %), je posledica pričakovanj vlagateljev glede nadaljnjega zaostrovanja monetarne politike Federal Reserve. Vendar pa Standard Chartered meni, da so trgi morda preveč pesimistični glede prihodnjih potez Feda, kar ustvarja priložnosti. V ozadju je boj centralnih bank z inflacijo, ki je povzročil agresivno zviševanje obrestnih mer. Ta situacija je relevantna, ker visoke donosnosti obveznic pomenijo višje stroške zadolževanja za podjetja in države, kar lahko upočasni gospodarsko rast. Mehanizem vpliva je direkten: ko cene obveznic padajo, njihove donosnosti rastejo, kar jih naredi privlačnejše za vlagatelje, ki iščejo fiksni donos. Posledice so vidne na obvezniškem trgu, kjer se donosnosti gibljejo navzgor. Za delnice to pomeni, da so obveznice konkurenčnejše, kar lahko odvzame kapital delniškim trgom. Višje obrestne mere vplivajo tudi na vrednotenje podjetij. Valute so pod vplivom razlik v obrestnih merah med državami. Za slovenskega dolgoročnega vlagatelja to pomeni, da so obveznice, še posebej tiste z višjimi donosnostmi, lahko zanimiva naložbena priložnost za diverzifikacijo portfelja in zaščito pred morebitnimi padci na delniških trgih. Vendar je pomembno razumeti tveganja, povezana z obrestnimi merami in kreditnim tveganjem izdajateljev.",
+      "intenziteta": 3,
+      "povzetek": "Wall Street banke so sprožile rekordni 60 milijard dolarjev vreden posel za financiranje podjetij Broadcom in Anthropic v sektorju čipov. Ta masivni finančni paket preizkuša apetit po posojilih v času naraščajočih skrbi glede kopičenja dolga, povezanega z umetno inteligenco. Posel poudarja ogromne investicije, ki se stekajo v razvoj in proizvodnjo AI čipov, kar kaže na močno zaupanje v prihodnost te tehnologije. Hkrati pa opozarja na morebitna tveganja, povezana z visoko zadolženostjo in morebitnim pregrevanjem trga. Gre za enega največjih tovrstnih finančnih dogovorov v zadnjem času.",
+      "analiza": "Financiranje v višini 60 milijard dolarjev za podjetji Broadcom in Anthropic predstavlja izjemen dogodek na finančnih trgih, ki odraža neizmeren apetit po investicijah v umetno inteligenco. Ta posel poudarja, kako globoko so finančne institucije pripravljene vložiti v sektor, ki obljublja revolucionarne spremembe. Vendar pa Financial Times opozarja na 'naraščajoče skrbi glede kopičenja dolga, povezanega z umetno inteligenco', kar kaže na mešane signale. Na eni strani je to pozitivno za rast podjetij v AI sektorju in za banke, ki si zagotovijo provizije. Na drugi strani pa lahko takšni obsežni posli, če se ne izkažejo za donosne, povzročijo sistemska tveganja v finančnem sektorju. To lahko vpliva na delnice tehnoloških podjetij, ki so deležne takšnih investicij, in na obvezniški trg, saj se povečuje izdaja dolga. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub privlačnosti AI sektorja pomembno biti pozoren na raven zadolženosti in morebitne znake pregrevanja, saj lahko prekomerna evforija vodi v korekcije. Vlagatelji naj spremljajo tudi stabilnost finančnega sistema, ki podpira te investicije.",
       "vpliv": [
-        "Donosnost 10-letne US Treasury pri 5,28 % (+0,76 %)",
-        "Potencialne naložbene priložnosti v obveznicah",
-        "Višji stroški zadolževanja za podjetja in države",
-        "Povečana konkurenčnost obveznic glede na delnice"
+        "Povečane investicije v AI sektor",
+        "Rast delnic Broadcoma in Anthropic (posredno)",
+        "Povečana zadolženost v AI sektorju",
+        "Potencialna tveganja za finančni sektor"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
-      "objavljeno": "2026-10-05T10:33:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca?syn-25a6b1a6=1",
+      "objavljeno": "2026-10-05T20:58:19.000Z"
     },
     {
-      "naslov": "Povprečna petletna hipotekarna obrestna mera v Združenem kraljestvu dosegla 6 %",
-      "sektor": "Makro & Centralne banke",
+      "naslov": "Ukrajina poroča o potopitvi ladje v romunskih vodah po napadu",
+      "sektor": "Geopolitika",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Povprečna petletna hipotekarna obrestna mera v Združenem kraljestvu je prvič v treh letih dosegla 6 %. Stroški novih hipotek z fiksno obrestno mero so v zadnjih tednih naraščali, saj se posojilodajalci soočajo z višjimi stroški zadolževanja. To je neposredna posledica splošnega dviga obrestnih mer s strani centralnih bank v boju proti inflaciji. Višje hipotekarne obrestne mere močno vplivajo na kupno moč potrošnikov in na stabilnost nepremičninskega trga, saj povečujejo mesečne stroške odplačevanja posojil in zmanjšujejo dostopnost stanovanj. To lahko vodi v ohlajanje nepremičninskega trga in potencialno zmanjšanje gospodarske aktivnosti.",
-      "analiza": "Doseganje 6 % povprečne petletne hipotekarne obrestne mere v Združenem kraljestvu je pomemben mejnik, ki odraža širši trend zviševanja obrestnih mer s strani centralnih bank po svetu. V ozadju je vztrajna inflacija, ki sili centralne banke k zaostrovanju monetarne politike, kar se prenaša na stroške zadolževanja za potrošnike in podjetja. Ta situacija je relevantna, ker neposredno vpliva na nepremičninski trg in kupno moč gospodinjstev. Višje hipotekarne obrestne mere pomenijo dražja stanovanjska posojila, kar zmanjšuje povpraševanje po nepremičninah in lahko vodi v padec cen. Mehanizem vpliva je direkten: višje obrestne mere povečajo mesečne obroke, kar zmanjša razpoložljiv dohodek gospodinjstev in jih odvrača od nakupa nepremičnin. Posledice so vidne na nepremičninskem trgu, kjer se pričakuje ohlajanje in morebiten padec cen. Za delnice to pomeni pritisk na gradbeni sektor, banke (zaradi morebitnih slabih posojil) in podjetja, odvisna od potrošniške porabe. Valute so pod vplivom pričakovanj glede obrestnih mer. Za slovenskega dolgoročnega vlagatelja to pomeni, da je nepremičninski trg, tako doma kot v tujini, pod povečanim pritiskom. Naložbe v nepremičnine so lahko bolj tvegane, medtem ko so varčevalci lahko nagrajeni z višjimi donosi na depozite. Pomembno je spremljati odločitve centralnih bank in trende na nepremičninskem trgu.",
+      "intenziteta": 3,
+      "povzetek": "Ukrajina trdi, da je ruski napad z dronom potopil ladjo v romunskih vodah, kar je najnovejši domnevni vdor na vzhodni bok Nata. Ta incident povečuje strahove, da bi se vojna v Ukrajini lahko razširila in ogrozila širšo regijo. Romunija je članica Nata, zato bi takšen napad predstavljal resno eskalacijo konflikta. Dogodek ima potencial za destabilizacijo mednarodnih odnosov in vpliv na pomorski promet v Črnem morju. Al Jazeera poroča o naraščajočih strahovih glede prelivanja konflikta.",
+      "analiza": "Domnevni ruski napad z dronom, ki naj bi potopil ladjo v romunskih vodah, predstavlja resno geopolitično tveganje in potencialno eskalacijo konflikta v Ukrajini. Romunija je članica Nata, kar pomeni, da bi takšen incident lahko sprožil določene klavzule o kolektivni obrambi. To povečuje negotovost na globalnih trgih, saj se vlagatelji bojijo širšega konflikta. Neposreden vpliv bi lahko bil na cene surovin, zlasti nafte in plina, saj bi motnje v dobavnih verigah ali eskalacija konflikta lahko povzročile skok cen. Čeprav WTI nafta danes beleži rahel padec (-0.15 %), bi se to lahko hitro spremenilo. Trgi delnic bi lahko reagirali negativno zaradi povečane negotovosti, kar bi se lahko odrazilo v padcu indeksov, kot je DAX (+0.09 %), ki je že tako občutljiv na evropske geopolitične dogodke. VIX indeks, ki meri volatilnost trga, je danes že zrasel za 1.37 % na 15.52, kar kaže na povečano previdnost. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da geopolitična tveganja ostajajo pomemben dejavnik in lahko hitro vplivajo na trge, zato je pomembna diverzifikacija in spremljanje mednarodnih dogodkov.",
       "vpliv": [
-        "Povprečna petletna hipotekarna mera v UK pri 6 %",
-        "Povečani stroški zadolževanja za gospodinjstva",
-        "Ohlajanje nepremičninskega trga",
-        "Pritisk na delnice gradbenega in bančnega sektorja"
+        "Povečana geopolitična tveganja v Evropi",
+        "Potencialna eskalacija konflikta v Ukrajini",
+        "Povečana volatilnost trga (VIX +1.37 %)",
+        "Možen vpliv na cene surovin in pomorski promet"
       ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-10-05T09:54:57.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss",
+      "objavljeno": "2026-10-05T20:03:06.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-10-05T11:27:19.268Z",
+    "posodobljenoOb": "2026-10-05T22:08:32.462Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7722.72,
-        "sprememba_pct": 0.73
+        "vrednost": 7773.95,
+        "sprememba_pct": 0.66
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 30807.932,
-        "sprememba_pct": 1
+        "vrednost": 31076.441,
+        "sprememba_pct": 0.87
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25217.25,
-        "sprememba_pct": -0.06
+        "vrednost": 25254.21,
+        "sprememba_pct": 0.09
       },
       {
         "simbol": "^N225",
@@ -141,22 +107,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4191,
-        "sprememba_pct": 0.69,
+        "vrednost": 4167.6,
+        "sprememba_pct": 0.26,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 90.31,
-        "sprememba_pct": -0.88,
+        "vrednost": 89.3,
+        "sprememba_pct": -0.15,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 102.55,
-        "sprememba_pct": 0.29,
+        "vrednost": 100.32,
+        "sprememba_pct": 0,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +130,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1208,
-        "sprememba_pct": -0.44
+        "vrednost": 1.1225,
+        "sprememba_pct": -0.28
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 5.277,
-        "sprememba_pct": 0.76,
+        "vrednost": 5.311,
+        "sprememba_pct": 0.64,
         "enota": "%"
       }
     ],
@@ -181,16 +147,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 86124.28,
-        "sprememba_pct": -0.45,
+        "vrednost": 85925.63,
+        "sprememba_pct": -0.68,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 16.24,
-      "sprememba_pct": 6.07
+      "vrednost": 15.52,
+      "sprememba_pct": 1.37
     }
   }
 }
