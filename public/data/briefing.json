@@ -1,114 +1,116 @@
 {
-  "generiranoOb": "2026-10-05T22:13:57.549Z",
-  "izdaja": "afternoon",
+  "generiranoOb": "2026-10-06T11:16:13.741Z",
+  "izdaja": "morning",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-10-05",
-  "povzetek": "Evropski trgi so danes zaključili trgovanje z rahlo pozitivnim tonom, saj je indeks DAX pridobil 0,09 % in se ustavil pri 25.254 točkah. Medtem so ameriški trgi, ki so bili odprti dve uri, kazali močnejšo rast, pri čemer je S&P 500 zrasel za 0,66 % na 7.774 točk, tehnološko usmerjeni Nasdaq 100 pa je poskočil za 0,87 % na 31.076 točk. Na azijskih trgih je Nikkei 225 že prej zaključil dan z impresivno rastjo 2,40 % na 69.947 točk. Surovine so bile razdeljene, saj sta nafta WTI in Brent zabeležili minimalen padec za 0,17 % oziroma 0,10 %, medtem ko je zlato rahlo pridobilo 0,31 % na 4169,50 USD za unčo. Donosnost 10-letne ameriške državne obveznice se je zvišala za 0,64 % na 5,31 %, kar kaže na pritisk na obvezniške trge. Evro je oslabel proti dolarju, saj je par EUR/USD padel za 0,28 % na 1,1225. V ospredju so bile novice o nadaljnji rasti delnic Nvidie in Microsofta, medtem ko je Intel doživel padec zaradi konkurence, geopolitične napetosti pa so se stopnjevale z domnevnim ruskim napadom na ladjo v romunskih vodah. Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v ZDA, ki bo vplivala na pričakovanja glede monetarne politike.",
+  "datum": "2026-10-06",
+  "povzetek": "Jutranja izdaja 6. oktobra 2026 kaže na pozitivno razpoloženje na azijskih in ameriških borzah, medtem ko so cene nafte padle. S&P 500 je zaključil pri 7774 (+0.66 %), Nasdaq 100 pri 31076 (+0.87 %), Nikkei 225 pa je zrasel na 70684 (+1.05 %). Evropski DAX je prav tako zabeležil rast na 25415 (+0.64 %). Zlato je pridobilo 0.67 % in se giblje pri 4184.50 USD/oz, medtem ko sta ceni nafte WTI in Brent padli za 1.86 % oziroma 1.98 % na 87.77 USD/sod in 98.33 USD/sod. Donosnost 10-letne ameriške državne obveznice je zrasla na 5.31 % (+0.64 %), medtem ko je Bitcoin pri 86168 USD (+0.49 %). Geopolitične napetosti v Savdski Arabiji po napadih Hutijev na letališča Jazan in Najran bi lahko vplivale na cene nafte, medtem ko predlog kalifornijskega davka na bogate in obljube Marine Le Pen o zmanjšanju javne porabe v Franciji prinašajo negotovost v makroekonomsko sliko. Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v ZDA za september.",
   "novice": [
     {
-      "naslov": "Analitiki vidijo nadaljnjo rast delnic Nvidie zaradi ključne vloge pri umetni inteligenci",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Analitiki poudarjajo, da ima delnica Nvidie, ki je po več mesecih dosegla nov rekord, še vedno privlačno vrednotenje. Podjetje je centralni igralec v ekosistemu umetne inteligence, kar mu zagotavlja močan položaj na trgu. Kljub pretekli rasti, strokovnjaki menijo, da so možnosti za nadaljnje povišanje vrednosti delnice velike. Njihova tehnologija je ključna za razvoj in delovanje naprednih AI sistemov.",
-      "analiza": "Nvidia je v zadnjih letih postala sinonim za umetno inteligenco, saj so njeni grafični procesorji (GPU) nepogrešljivi za usposabljanje in delovanje AI modelov. To podjetje je v središču trenutnega tehnološkega buma, kar se odraža v močni rasti delnice, ki je danes dosegla nov rekord. Kljub temu analitiki menijo, da je delnica še vedno podcenjena glede na njen potencial in ključno vlogo v prihodnosti tehnologije. Mehanizem vpliva je preprost: povpraševanje po AI rešitvah raste eksponentno, Nvidia pa je vodilni dobavitelj strojne opreme. Posledično se povečujejo prihodki in dobički podjetja, kar poganja rast vrednosti delnic. Za dolgoročnega slovenskega vlagatelja to pomeni, da so podjetja, ki so v jedru transformativnih tehnologij, kot je AI, lahko privlačna naložba, vendar je pomembno razumeti tveganja, povezana z visoko rastjo in morebitno pregreto vrednotenjem, kljub mnenju analitikov o \"poceni\" vrednotenju.",
-      "vpliv": [
-        "Rast delnic Nvidie",
-        "Povečano zaupanje v AI sektor",
-        "Potencialno nadaljnje vrednotenje"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
-      "objavljeno": "2026-10-05T21:52:00.000Z"
-    },
-    {
-      "naslov": "Delnice Intela padajo po namigih Muska o dodatnem partnerju za projekt Terafab",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Delnice Intela so danes padle, potem ko je Elon Musk namignil, da Intel morda ne bo edino podjetje, ki bo sodelovalo pri proizvodnji čipov za njegov ambiciozni projekt Terafab. Musk je dejal, da potekajo pogovori tudi s tajvanskim podjetjem TSMC, ki je vodilno na področju pogodbenega litja polprevodnikov. Ta novica je povzročila zaskrbljenost med vlagatelji glede potencialnega zmanjšanja Intlovega deleža v tem velikem projektu.",
-      "analiza": "Intel, tradicionalno dominanten igralec na trgu polprevodnikov, se v zadnjih letih sooča z močno konkurenco, zlasti s strani podjetij, kot je Nvidia, in pogodbenih proizvajalcev, kot je TSMC. Projekt Terafab, ki ga vodi Elon Musk, predstavlja ogromno priložnost za proizvajalce čipov, saj gre za obsežno investicijo v prihodnost umetne inteligence in superračunalništva. Muskova izjava o pogovorih s TSMC signalizira, da Intel morda ne bo ekskluzivni partner, kar zmanjšuje pričakovane prihodke in strateški pomen projekta za Intel. Mehanizem vpliva je neposreden: zmanjšanje pričakovanj glede prihodnjih poslovnih priložnosti in povečana konkurenca vplivata na vrednotenje delnic. Posledično so delnice Intela danes padle, kar odraža negotovost in zaskrbljenost vlagateljev. Za slovenskega dolgoročnega vlagatelja to poudarja pomen diverzifikacije znotraj tehnološkega sektorja in spremljanja konkurenčnega okolja, saj se dinamika v industriji polprevodnikov hitro spreminja.",
-      "vpliv": [
-        "Padec delnic Intela",
-        "Povečana konkurenca v proizvodnji čipov",
-        "Negotovost glede prihodnjih partnerstev"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
-      "objavljeno": "2026-10-05T20:30:00.000Z"
-    },
-    {
-      "naslov": "Banke Wall Streeta sprožajo rekordno 60 milijard dolarjev vredno posojilo za Broadcom in Anthropic",
-      "sektor": "Finance",
-      "smer": "mešano",
-      "intenziteta": 3,
-      "povzetek": "Banke na Wall Streetu so sprožile sindiciranje rekordnega finančnega paketa v višini 60 milijard dolarjev, namenjenega podjetjema Broadcom in Anthropic za projekte na področju čipov. Ta obsežna transakcija preizkuša apetit posojilodajalcev v času naraščajočih skrbi glede kopičenja dolga, povezanega z umetno inteligenco. Posel poudarja ogromne kapitalske potrebe za razvoj in implementacijo naprednih AI tehnologij.",
-      "analiza": "Finančni trgi so priča izjemnemu povpraševanju po financiranju v sektorju umetne inteligence, kar dokazuje ta 60 milijard dolarjev vreden posel za Broadcom in Anthropic. Medtem ko takšne investicije omogočajo hiter razvoj in inovacije, se pojavljajo tudi vprašanja o vzdržnosti naraščajočega \"AI dolga\". To je ključen trenutek, saj se preizkuša sposobnost finančnega sistema, da absorbira tako velike zneske, hkrati pa ohranja stabilnost. Mehanizem vpliva je dvojen: po eni strani takšna financiranja podpirajo rast tehnoloških podjetij in inovacije, kar je pozitivno za delniške trge. Po drugi strani pa povečan dolg in morebitno pregrevanje v sektorju AI lahko predstavljata sistemsko tveganje za finančno stabilnost in obvezniške trge. Za slovenskega dolgoročnega vlagatelja to pomeni, da je ključno spremljati tako priložnosti, ki jih prinaša AI, kot tudi morebitna tveganja, povezana z visoko zadolženostjo in vrednotenji v tem sektorju.",
-      "vpliv": [
-        "Povečanje dolga v AI sektorju",
-        "Podpora rasti tehnoloških podjetij",
-        "Preizkus apetita posojilodajalcev",
-        "Potencialno tveganje za finančno stabilnost"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca?syn-25a6b1a6=1",
-      "objavljeno": "2026-10-05T20:58:19.000Z"
-    },
-    {
-      "naslov": "Ukrajina trdi, da je ruski napad z dronom potopil ladjo v romunskih vodah",
+      "naslov": "Savdska Arabija: Napadi Hutijev na letališča ranili tri osebe in povzročili škodo",
       "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Ukrajina poroča, da je ruski napad z dronom potopil ladjo v romunskih vodah, kar predstavlja najnovejšo domnevno kršitev vzhodnega krila Nata. Ta incident povečuje strahove, da bi se vojna v Ukrajini lahko razširila preko njenih meja. Romunija je članica Nata, zato bi potrditev takšnega napada imela resne geopolitične posledice.",
-      "analiza": "Domnevni napad ruskega drona na ladjo v romunskih vodah predstavlja izjemno resno eskalacijo konflikta v Ukrajini, saj Romunija spada pod okrilje Nata. Članek 5 pogodbe Nata določa kolektivno obrambo, kar pomeni, da bi napad na eno članico veljal za napad na vse. Takšen dogodek bi lahko imel daljnosežne posledice za globalno varnost in finančne trge. Mehanizem vpliva je večplasten: neposredno bi se povečala geopolitična negotovost, kar bi lahko povzročilo beg v varna zatočišča, kot so zlato (ki je danes že rahlo zraslo za 0,31 % na 4169,50 USD/oz) in nekatere državne obveznice, čeprav so donosnosti ameriških obveznic danes zrasle. Delniški trgi bi verjetno reagirali negativno zaradi povečanega tveganja. Cene nafte bi lahko poskočile, čeprav sta danes WTI in Brent rahlo padli. Za slovenskega dolgoročnega vlagatelja to poudarja pomen spremljanja geopolitičnih tveganj, ki lahko hitro spremenijo tržne pogoje in zahtevajo premišljeno diverzifikacijo portfelja.",
+      "povzetek": "Savdska letalska uprava je poročala o napadih Hutijev na letališča Jazan in Najran blizu jemenske meje, ki so povzročili resne poškodbe trem osebam in materialno škodo. Ti napadi so se zgodili 6. oktobra 2026 in predstavljajo nadaljevanje konflikta v regiji. Incidenti poudarjajo nestabilnost v ključni regiji za globalno oskrbo z nafto. Jazan in Najran sta strateško pomembni lokaciji blizu meje z Jemenom. Napadi so bili izvedeni s strani jemenskih upornikov Hutijev, ki jih podpira Iran. Savdska Arabija je že večkrat opozorila na nevarnost takšnih napadov za regionalno varnost.",
+      "analiza": "Ozadje teh napadov je dolgotrajen konflikt v Jemnu, kjer Savdska Arabija vodi koalicijo proti Hutijem. Ti napadi so del širše strategije Hutijev za pritisk na Savdsko Arabijo in destabilizacijo regije. Relevantnost dogodka je v tem, da se dogaja v ključni regiji za svetovno proizvodnjo nafte, kar lahko vpliva na globalne cene energentov. Mehanizem vpliva je neposreden: povečana geopolitična tveganja v regiji, ki je dom velikih naftnih polj, običajno povzročijo rast cen nafte zaradi strahu pred motnjami v dobavi. Čeprav sta ceni WTI in Brent nafte danes padli za 1.86 % oziroma 1.98 % na 87.77 USD/sod in 98.33 USD/sod, bi lahko nadaljevanje napadov obrnilo ta trend. Posledice za delnice podjetij v energetskem sektorju so lahko mešane, saj višje cene nafte koristijo proizvajalcem, medtem ko povečana nestabilnost škoduje širšemu gospodarstvu. Za obveznice in valute to pomeni iskanje varnih zatočišč, kar lahko okrepi USD in švicarski frank. Slovenski dolgoročni vlagatelj mora biti pozoren na morebitno volatilnost cen nafte in njen vpliv na inflacijo ter stroške poslovanja podjetij, v katera vlaga.",
       "vpliv": [
-        "Povečana geopolitična negotovost",
-        "Potencialen padec delniških trgov",
-        "Rast cen zlata in nafte",
-        "Povečano tveganje za NATO"
+        "Povečana geopolitična tveganja v regiji",
+        "Potencialna rast cen nafte v prihodnosti",
+        "Iskanje varnih zatočišč (npr. USD, zlato)",
+        "Povečana volatilnost na svetovnih trgih"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss",
-      "objavljeno": "2026-10-05T20:03:06.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border?traffic_source=rss",
+      "objavljeno": "2026-10-06T10:47:54.000Z"
     },
     {
-      "naslov": "Vlagatelji vidijo priložnosti v ostrem padcu obvezniškega trga leta 2026",
-      "sektor": "Finance",
+      "naslov": "Kalifornija razmišlja o davku na bogate, kar bi lahko preoblikovalo ZDA",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Kalifornija razmišlja o uvedbi novega davka na premoženje, ki bi ciljal na najbogatejše prebivalce znotraj države. Članek v Financial Timesu, objavljen 6. oktobra 2026, poudarja, da je cilj predlagateljev davka bolj političen kot proračunski. Ta 'oligarch tax' bi lahko imel daljnosežne posledice za celotne Združene države Amerike. Predlog sledi naraščajočim razpravam o neenakosti premoženja in potrebi po redistribuciji bogastva. Analitiki opozarjajo na morebiten odliv kapitala in bogatih posameznikov iz države, kar bi lahko vplivalo na investicijsko klimo.",
+      "analiza": "Predlog kalifornijskega davka na bogate se pojavlja v času, ko se po vsem svetu krepijo razprave o davčni pravičnosti in financiranju javnih storitev. Kalifornija, kot največje gospodarstvo v ZDA, pogosto služi kot laboratorij za nove politike, ki se nato širijo po državi. Mehanizem vpliva je večplasten: takšen davek bi lahko kratkoročno povečal proračunske prihodke, dolgoročno pa bi lahko odvrnil investicije in spodbudil selitev premožnih posameznikov in podjetij, kar bi zmanjšalo davčno osnovo. Posledice za delnice bi bile verjetno negativne za podjetja, ki so močno odvisna od visoko premožnih posameznikov ali imajo sedež v Kaliforniji, medtem ko bi lahko podjetja v drugih državah pridobila. Za obveznice bi to lahko pomenilo povečano negotovost, za valute pa bi bil vpliv odvisen od širšega odziva na ameriško davčno politiko. Zgodovinsko gledano so visoki davki na premoženje pogosto povzročili odliv kapitala. Slovenski dolgoročni vlagatelj naj spremlja trende davčne politike v ZDA, saj lahko vplivajo na donosnost ameriških delnic in obveznic ter na globalno investicijsko klimo.",
+      "vpliv": [
+        "Potencialni odliv kapitala iz Kalifornije",
+        "Negativni vpliv na investicijsko klimo",
+        "Povečana negotovost za podjetja s sedežem v Kaliforniji",
+        "Možna širitev podobnih davkov v druge države ZDA"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/9a46af48-9c69-48bd-a648-2e496486c504?syn-25a6b1a6=1",
+      "objavljeno": "2026-10-06T11:01:53.000Z"
+    },
+    {
+      "naslov": "Francoska predsedniška kandidatka Le Pen obljublja zajezitev javne porabe",
+      "sektor": "Makro & Centralne banke",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Čeprav padec obvezniškega trga leta 2026 povzroča pretrese na trgih, nekateri vlagatelji v njem vidijo pomembne priložnosti. Predvsem varčevalci in tisti z averzijo do tveganja se zanimajo za višje donose, ki so posledica padca cen obveznic. Donosnost 10-letne ameriške državne obveznice je danes zrasla za 0,64 % na 5,31 %, kar potrjuje ta trend.",
-      "analiza": "Padec obvezniškega trga, ki ga zaznamujejo naraščajoče donosnosti in padajoče cene obveznic, je pogosto posledica pričakovanj o višji inflaciji ali zaostrovanju monetarne politike centralnih bank. Medtem ko je to za obstoječe imetnike obveznic negativno, saj se vrednost njihovih naložb zmanjšuje, pa za nove vlagatelje predstavlja priložnost za nakup obveznic z višjimi donosi. To je še posebej privlačno za varčevalce in tiste, ki iščejo varnejše naložbe z zajamčenim donosom v primerjavi z bolj volatilnimi delniškimi trgi. Mehanizem vpliva je, da višje donosnosti obveznic povečujejo stroške zadolževanja za podjetja in države, kar lahko upočasni gospodarsko rast in vpliva na dobičkonosnost podjetij. Za delniške trge so višje obrestne mere običajno negativne, saj zmanjšujejo privlačnost delnic. Za slovenskega dolgoročnega vlagatelja to pomeni, da je v obdobju naraščajočih obrestnih mer pomembno ponovno oceniti razmerje med tveganjem in donosom med različnimi razredi sredstev, saj obveznice z višjimi donosi postajajo konkurenčnejše.",
+      "povzetek": "Marine Le Pen, vodilna kandidatka skrajne desnice na francoskih predsedniških volitvah, je obljubila zajezitev javne porabe. Njen načrt, objavljen 6. oktobra 2026 v Financial Timesu, vključuje omejitev zadolževanja na 60 % BDP in zmanjšanje proračunskega primanjkljaja. Analitiki so skeptični glede izvedljivosti njenih predlogov. Le Pen želi s tem nasloviti naraščajoči javni dolg Francije in izboljšati fiskalno disciplino. Njene obljube prihajajo v času, ko se Evropa sooča z visokimi proračunskimi primanjkljaji in dolgovi po pandemiji in energetski krizi.",
+      "analiza": "Francija se že dolgo sooča z izzivi javnega dolga in proračunskega primanjkljaja, ki sta kljub prizadevanjem ostala visoka. Obljube Marine Le Pen o fiskalni konsolidaciji so relevantne, saj bi lahko morebitna zmaga vplivala na gospodarsko politiko drugega največjega gospodarstva v evroobmočju. Mehanizem vpliva je dvojen: na eni strani bi strožja fiskalna politika lahko pozitivno vplivala na zaupanje vlagateljev v francoske državne obveznice in stabilnost evra. Na drugi strani pa dvomi o izvedljivosti in morebitni politični pretresi, povezani z njenim programom, lahko povzročijo negotovost. Posledice za obveznice bi bile odvisne od verodostojnosti in izvedbe politik; uspeh bi znižal donosnosti, neuspeh pa bi jih zvišal. Za valute, zlasti evro, bi politična nestabilnost pomenila pritisk navzdol. Delnice bi se odzvale glede na sektorske vplive, saj bi zmanjšanje javne porabe lahko prizadelo nekatere sektorje. Slovenski dolgoročni vlagatelj naj bo pozoren na francoske predsedniške volitve in fiskalno politiko, saj imajo lahko pomemben vpliv na stabilnost evroobmočja in evropske trge.",
       "vpliv": [
-        "Višji donosi obveznic (10Y US Treasury 5.31%)",
-        "Padec cen obveznic",
-        "Povečani stroški zadolževanja",
-        "Potencialno manj privlačne delnice"
+        "Potencialna rast zaupanja vlagateljev v francoske obveznice",
+        "Povečana politična negotovost v evroobmočju",
+        "Možni pritiski na vrednost evra",
+        "Vpliv na sektorje, odvisne od javne porabe"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/4e1a4297-62f4-4b42-a41a-2ad23b64cbe9?syn-25a6b1a6=1",
+      "objavljeno": "2026-10-06T10:45:44.000Z"
+    },
+    {
+      "naslov": "Združeno kraljestvo tvega 'neinvestabilen' ugled, če blokira projekte v Severnem morju",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Generalni direktor Equinorja je opozoril, da Združeno kraljestvo tvega izgubo ugleda kot privlačna destinacija za naložbe, če bo blokiralo projekte v Severnem morju. Kot poroča Financial Times 6. oktobra 2026, bi zavrnitev odobritve projektov Rosebank in Jackdaw predstavljala 'velik udarec'. To opozorilo prihaja v času, ko se vlada sooča z okoljskimi pritiski in potrebo po energetski varnosti. Blokada bi lahko ogrozila prihodnje naložbe v energetski sektor Združenega kraljestva. Poudarja se napetost med podnebno politiko in energetsko neodvisnostjo.",
+      "analiza": "Združeno kraljestvo se, tako kot mnoge evropske države, sooča z dilemo med doseganjem podnebnih ciljev in zagotavljanjem zanesljive oskrbe z energijo. Projekti v Severnem morju, kot sta Rosebank in Jackdaw, so ključni za domačo proizvodnjo nafte in plina. Mehanizem vpliva je jasen: blokada teh projektov bi zmanjšala domačo ponudbo energentov, kar bi povečalo odvisnost od uvoza in potencialno zvišalo cene za potrošnike. To bi lahko odvrnilo tuje neposredne naložbe v energetski sektor Združenega kraljestva, kar bi imelo dolgoročne posledice za gospodarstvo. Posledice za delnice bi bile negativne za energetska podjetja, ki so vložila v te projekte, in morda tudi za širši britanski trg, če bi se zmanjšalo zaupanje vlagateljev. Cene nafte in plina bi lahko bile pod pritiskom, če bi se zmanjšala globalna ponudba, čeprav sta danes ceni WTI in Brent padli. Za valuto, britanski funt, bi to lahko pomenilo pritisk navzdol zaradi negotovosti. Slovenski dolgoročni vlagatelj naj spremlja britansko energetsko politiko, saj lahko vpliva na globalne cene energentov in stabilnost britanskega gospodarstva, kar posredno vpliva tudi na evropske trge.",
+      "vpliv": [
+        "Zmanjšanje domače energetske proizvodnje Združenega kraljestva",
+        "Povečana odvisnost od uvoza energentov",
+        "Negativni vpliv na tuje neposredne naložbe v energetiko",
+        "Potencialni pritisk na britanski funt"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/d510c91d-3039-42f7-af4a-63814f0df86f?syn-25a6b1a6=1",
+      "objavljeno": "2026-10-06T10:07:11.000Z"
+    },
+    {
+      "naslov": "Opozorilo hipotekarnega uradnika: Pretirana poraba bogatih vodi v finančne težave",
+      "sektor": "Finance",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Hipotekarni uradnik v ZDA je v članku za MarketWatch, objavljenem 6. oktobra 2026, opozoril na pretirano porabo bogatih parov, ki jih je moral zavrniti pri odobritvi hipotek. Opozarja, da se ZDA bližajo finančni krizi, ki bi lahko presegla recesijo iz leta 2008. Kljub visokim dohodkom, so se posamezniki prekomerno zadolževali, kar ustvarja tveganje za stabilnost finančnega sistema. To pismo bralca odraža naraščajoče zaskrbljenosti glede vzdržnosti dolga in potrošniških navad v ZDA. Opozorilo poudarja, da se morajo ljudje 'prebuditi' in realno oceniti svoje finančno stanje.",
+      "analiza": "Ozadje tega opozorila je obdobje nizkih obrestnih mer in enostavnega dostopa do kredita, ki je spodbudilo zadolževanje in rast cen nepremičnin. Trenutno, ko donosnost 10-letne ameriške državne obveznice znaša 5.31 % (+0.64 %), se stroški zadolževanja povečujejo. Mehanizem vpliva je takšen, da prekomerno zadolževanje, tudi med premožnimi, ustvarja sistemsko tveganje. Če se trg nepremičnin ohladi ali obrestne mere še zrastejo, bi lahko to sprožilo val neplačil in finančno krizo. Posledice za delnice bi bile negativne za finančni sektor, zlasti banke in nepremičninska podjetja. Za obveznice bi to pomenilo povečano povpraševanje po varnih zatočiščih, kar bi znižalo donosnosti. Valute, zlasti USD, bi bile pod pritiskom zaradi negotovosti. Zgodovinski primeri, kot je finančna kriza leta 2008, kažejo, da so težave na hipotekarnem trgu lahko sprožile širše gospodarske pretrese. Slovenski dolgoročni vlagatelj naj bo pozoren na kazalnike zadolženosti gospodinjstev in stabilnost nepremičninskega trga v ZDA, saj imajo lahko globalne posledice za finančne trge.",
+      "vpliv": [
+        "Povečano tveganje za finančno krizo v ZDA",
+        "Negativni vpliv na finančni in nepremičninski sektor",
+        "Potencialno iskanje varnih zatočišč na trgu obveznic",
+        "Pritisk na vrednost ameriškega dolarja"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
-      "objavljeno": "2026-10-05T20:14:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-06T10:15:00.000Z"
     },
     {
-      "naslov": "Vrhovno sodišče ZDA obravnava poskus naftnih velikanov za blokado podnebnih tožb",
-      "sektor": "Energetika",
+      "naslov": "Paramount zaključuje težaven prevzem Warner Bros. Discovery v torek",
+      "sektor": "Tehnologija & AI",
       "smer": "mešano",
       "intenziteta": 2,
-      "povzetek": "Vrhovno sodišče ZDA je začelo devetmesečni mandat z obravnavo pomembnega primera, v katerem velika naftna podjetja, kot sta Suncor Energy in ExxonMobil, poskušajo blokirati tožbe zaradi podnebnih škod na državni ravni. Po skoraj dvourni obravnavi ni bilo jasno, v katero smer se bodo sodniki nagnili, vendar strokovnjaki menijo, da bo sodišče težko sprejelo odločitev v korist industrije. Izid tega primera bo imel daljnosežne posledice za odgovornost podjetij glede podnebnih sprememb.",
-      "analiza": "Primer pred Vrhovnim sodiščem ZDA, ki obravnava poskus naftnih velikanov, da blokirajo podnebne tožbe, je ključen za prihodnost energetskega sektorja in korporativne odgovornosti. Če bi sodišče odločilo v korist tožnikov, bi to lahko odprlo vrata številnim podobnim tožbam in podjetjem naložilo ogromne stroške, povezane s podnebnimi spremembami. To bi seveda negativno vplivalo na vrednotenje delnic energetskih podjetij, kot sta Suncor Energy in ExxonMobil, in jih prisililo k hitrejši tranziciji k bolj zelenim tehnologijam. Mehanizem vpliva je, da pravne odločitve oblikujejo regulativno okolje, ki neposredno vpliva na poslovne modele in finančno uspešnost podjetij. Za slovenske dolgoročne vlagatelje to pomeni, da je pri naložbah v energetski sektor ključno upoštevati ne le tradicionalne finančne metrike, temveč tudi ESG dejavnike (okolje, družba, upravljanje) in regulativna tveganja, saj se pritisk na podjetja glede podnebnih sprememb povečuje.",
+      "povzetek": "Paramount bo v torek, 7. oktobra 2026, zaključil težaven prevzem podjetja Warner Bros. Discovery (WBD). Ta novica, objavljena 6. oktobra 2026 na CNBC, poudarja, da se je Paramount soočal s konkurenčnimi ponudbami in ovirami s strani protimonopolnih organov. Prevzem predstavlja pomembno konsolidacijo v medijski industriji, ki se sooča z izzivi pretočnih storitev in spreminjajočih se potrošniških navad. Zaključek posla prinaša novico po dolgem obdobju pogajanj in regulatornih preverjanj. Cilj je ustvariti močnejšega igralca na globalnem trgu zabave.",
+      "analiza": "Medijska industrija je v zadnjih letih doživela tektonske premike, saj se tradicionalni mediji soočajo s konkurenco pretočnih platform in digitalnih vsebin. Konsolidacija je pogost odziv na te izzive, saj podjetja iščejo sinergije in večji tržni delež. Prevzem WBD s strani Paramounta je pomemben korak v tej smeri. Mehanizem vpliva je, da združitev dveh velikih medijskih hiš lahko ustvari močnejšo vsebino in distribucijsko mrežo, kar bi lahko izboljšalo konkurenčnost proti velikanom kot sta Netflix in Disney. Posledice za delnice bi bile mešane: kratkoročno lahko pride do volatilnosti zaradi integracijskih izzivov, dolgoročno pa bi lahko združeno podjetje pridobilo na vrednosti. Za konkurenco v sektorju to pomeni zmanjšanje števila velikih igralcev. Na obveznice in valute prevzem ne bo imel neposrednega vpliva, razen če bi sprožil širše M&A aktivnosti, ki bi vplivale na likvidnost. Zgodovinsko gledano so velike združitve prinesle tako uspehe kot neuspehe, odvisno od izvedbe integracije. Slovenski dolgoročni vlagatelj naj bo pozoren na razvoj medijske industrije in konsolidacijske trende, saj lahko vplivajo na delnice podjetij v zabavnem in tehnološkem sektorju.",
       "vpliv": [
-        "Povečano regulativno tveganje za naftna podjetja",
-        "Potencialni stroški zaradi podnebnih tožb",
-        "Vpliv na vrednotenje energetskih delnic",
-        "Spodbuda za zeleno tranzicijo"
+        "Konsolidacija v medijski industriji",
+        "Potencialne sinergije in rast za združeno podjetje",
+        "Povečana konkurenca za manjše akterje",
+        "Kratkoročna volatilnost delnic vpletenih podjetij"
       ],
-      "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/us-news/2026/oct/05/supreme-court-big-oil-climate-damage-lawsuits",
-      "objavljeno": "2026-10-05T19:57:36.000Z"
+      "vir": "CNBC",
+      "vir_url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
+      "objavljeno": "2026-10-06T10:00:01.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-10-05T22:13:03.746Z",
+    "posodobljenoOb": "2026-10-06T11:15:31.306Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -125,36 +127,36 @@
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25254.21,
-        "sprememba_pct": 0.09
+        "vrednost": 25415.43,
+        "sprememba_pct": 0.64
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 69946.86,
-        "sprememba_pct": 2.4
+        "vrednost": 70683.98,
+        "sprememba_pct": 1.05
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4169.5,
-        "sprememba_pct": 0.31,
+        "vrednost": 4184.5,
+        "sprememba_pct": 0.67,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 89.28,
-        "sprememba_pct": -0.17,
+        "vrednost": 87.77,
+        "sprememba_pct": -1.86,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 100.22,
-        "sprememba_pct": -0.1,
+        "vrednost": 98.33,
+        "sprememba_pct": -1.98,
         "enota": "USD/sod"
       }
     ],
@@ -162,8 +164,8 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1225,
-        "sprememba_pct": -0.28
+        "vrednost": 1.1255,
+        "sprememba_pct": 0.29
       }
     ],
     "obveznice": [
@@ -179,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 85944.16,
-        "sprememba_pct": -0.66,
+        "vrednost": 86168.05,
+        "sprememba_pct": 0.49,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.52,
-      "sprememba_pct": 1.37
+      "vrednost": 15.35,
+      "sprememba_pct": -1.1
     }
   }
 }
