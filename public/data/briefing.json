@@ -1,116 +1,116 @@
 {
-  "generiranoOb": "2026-10-07T20:44:37.271Z",
+  "generiranoOb": "2026-10-07T20:51:35.085Z",
   "izdaja": "afternoon",
-  "model": "gemini-2.5-flash-lite",
+  "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-10-07",
-  "povzetek": "Popoldansko trgovanje na ameriških trgih je zabeležilo blago negativno odprtje, pri čemer je S&P 500 pri 7802 točkah (-0.22 %) in Nasdaq 100 pri 31160 točkah (-0.21 %). Evropski trgi so se zaprli nižje, saj je DAX izgubil 1.35 % in dosegel 25104 točke. Donosnost 10-letnih ameriških obveznic je narasla na 5.28 %. Med pomembnejšimi novicami izstopajo poročila o pričakovanjih glede obrestnih mer, kjer trgovci z opcijami stavijo na njihov padec, medtem ko Fedovi zapisniki kažejo na previdnost glede nadaljnjih dvigov. V tehnološkem sektorju Microsoft in Nvidia sodelujeta pri razvoju novih AI prenosnikov, SpaceX pa načrtuje veliko zadolževanje za nakup Nvidinih čipov, kar vpliva na njegovo kreditno tveganje. V energetiki je cena dizla skočila zaradi napovedi Mednarodne agencije za energijo o neobjavljanju dodatnih rezerv. Geopolitične napetosti ostajajo visoke, z novicami o ruskih napadih na Ukrajino in poslabšanjem razmer v Etiopiji. Vlagatelji bodo v prihajajočem tednu pozorno spremljali objave podatkov o inflaciji in zasedanja centralnih bank.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, medtem ko so ameriški indeksi po dveh urah trgovanja kazali rahlo negativno smer. Nemški DAX je dan zaključil z znatnim padcem za 1,35 % pri 25.104 točkah, kar odraža splošno previdnost v regiji. V ZDA sta S&P 500 in Nasdaq 100 beležila manjše padce, in sicer za 0,22 % na 7802 točke oziroma za 0,21 % na 31160 točk. Medtem ko so se delniški trgi umikali, je donosnost 10-letne ameriške državne obveznice zrasla za 0,15 % na 5,28 %, kar kaže na nadaljnji pritisk na obvezniški trg. Surovine so bile mešane; cena zlata je padla za 1,22 % na 4136,00 USD/oz, medtem ko je Brent nafta zrasla za 0,57 % na 101,15 USD/sod, kar je deloma posledica novice o pomanjkanju dizelskega goriva. Evro je oslabel proti dolarju, saj je par EUR/USD padel za 0,57 % na 1.1199. Vlagatelji so danes pozorno spremljali zapisnike Feda, ki so pokazali, da centralna banka ne kaže apetita za serijo dvigov obrestnih mer, kar je pomembno za prihodnjo monetarno politiko. Hkrati je kreditno tveganje SpaceX poskočilo zaradi načrtovanega zadolževanja za nakup Nvidia čipov, medtem ko sta Microsoft in Nvidia napovedala sodelovanje pri AI prenosnikih. Ta teden bo ključnega pomena objava podatkov o inflaciji v ZDA, ki bo vlagateljem ponudila nadaljnje smernice glede prihodnjih odločitev centralnih bank.",
   "novice": [
     {
-      "naslov": "Trgovci z opcijami stavijo na znatno znižanje obrestnih mer",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Nedavna aktivnost na trgu opcij kaže na naraščajoče zaupanje vlagateljev v dolgoročne obveznice in komunalna podjetja, kar nakazuje pričakovanja o znižanju obrestnih mer. Ta pozicioniranja so lahko odraz pričakovanj glede prihodnje monetarne politike ali inflacijskih pritiskov. Novica je bila objavljena 7. oktobra 2026 ob 20:36:00 UTC.",
-      "analiza": "Nedavna aktivnost na trgu opcij, kjer vlagatelji sklepajo stave na prihodnje gibanje cen, nakazuje, da se del trga pripravlja na znižanje obrestnih mer. To je v nasprotju z nekaterimi drugimi signali, ki bi lahko nakazovali na nadaljnjo inflacijo. Če se bodo pričakovanja o padcu obrestnih mer uresničila, bi to lahko pozitivno vplivalo na cene obveznic, saj se njihova donosnost giblje v obratnem sorazmerju s ceno. Prav tako bi lahko koristilo podjetjem z visoko zadolženostjo in sektorjem komunalnih storitev, ki so občutljivi na obrestne mere. Vendar pa zapisniki Feda, objavljeni istega dne, kažejo na previdnost glede nadaljnjih dvigov, kar lahko interpretiramo kot signal, da centralna banka ne pričakuje hitrega znižanja obrestnih mer, ampak bolj zadržan pristop. Ta dvojnost signalov lahko povzroči negotovost na trgu. Za slovenskega dolgoročnega vlagatelja to pomeni, da je treba pozorno spremljati tako signale iz opcijskih trgov kot tudi uradne izjave centralnih bank, saj lahko razhajanja napovedujejo večjo volatilnost.",
-      "vpliv": [
-        "Pozitivno za obveznice",
-        "Pozitivno za komunalne delnice",
-        "Negativno za kratkoročne obrestne instrumente",
-        "Povečana negotovost na delniških trgih"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories",
-      "objavljeno": "2026-10-07T20:36:00.000Z"
-    },
-    {
-      "naslov": "Microsoft in Nvidia združujeta moči za napredne AI prenosnike",
-      "sektor": "Tehnologija & AI",
-      "smer": "pozitivno",
+      "naslov": "Zapisniki Feda kažejo na omejen apetit za serijo dvigov obrestnih mer",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Microsoft in Nvidia sta napovedala sodelovanje pri razvoju novih prenosnikov z operacijskim sistemom Windows, ki bodo opremljeni z Nvidiinim čipom RTX Spark. Ti novi računalniki bodo zasnovani za izvajanje modelov umetne inteligence in nalog neposredno na napravi, kar obljublja znatno izboljšanje zmogljivosti za AI aplikacije. Novica je bila objavljena 7. oktobra 2026 ob 19:12:00 UTC.",
-      "analiza": "Napoved sodelovanja med velikanoma tehnološke industrije, Microsoftom in Nvidio, predstavlja pomemben korak naprej na področju razvoja strojne opreme za umetno inteligenco. Integracija Nvidiinega zmogljivega čipa RTX Spark v prenosnike z operacijskim sistemom Windows omogoča izvajanje kompleksnih AI nalog lokalno, kar zmanjšuje odvisnost od oblačnih storitev in povečuje hitrost obdelave. To bi lahko pospešilo sprejetje AI tehnologij v širšem krogu uporabnikov, od profesionalcev do domačih uporabnikov. Za podjetji to pomeni potencialno povečanje prodaje in utrditev vodilnih položajev na trgu. Za delnice obeh podjetij bi lahko ta novica predstavljala pozitiven katalizator. Vlagatelji bi morali pozorno spremljati odziv trga in povpraševanje po teh novih napravah. Za slovenskega dolgoročnega vlagatelja to pomeni nadaljnjo rast pomena AI v vsakdanjem življenju in poslovanju, kar lahko vpliva na izbiro tehnoloških naložb.",
+      "povzetek": "Zapisniki septembrskega zasedanja ameriške centralne banke (Fed) so pokazali, da večina uradnikov ne vidi potrebe po seriji zaporednih dvigov obrestnih mer. Čeprav so se nekateri strinjali z dvigom obrestne mere, so to videli kot previdnostni ukrep, če bi inflacija ostala vztrajna. Splošno mnenje je bilo, da je bil septembrski dvig potreben le v primeru, da bi inflacija ostala trdovratna. To nakazuje na bolj umirjen pristop Feda k prihodnjim odločitvam o monetarni politiki, kar bi lahko vplivalo na pričakovanja trgov. Omenjena previdnost pri nadaljnjih dvigih odraža tudi negotovost glede prihodnjega gospodarskega razvoja.",
+      "analiza": "Ozadje te novice so prizadevanja Feda za obvladovanje inflacije, ki je v zadnjem obdobju predstavljala velik izziv za svetovno gospodarstvo. Centralna banka je v preteklih mesecih agresivno dvigovala obrestne mere, da bi ohladila gospodarstvo in znižala inflacijske pritiske. Relevantnost te objave je v tem, da nakazuje morebitno stabilizacijo ali celo konec cikla dvigovanja obrestnih mer, kar bi lahko imelo pomembne posledice za finančne trge. Mehanizem vpliva je neposreden: manjši apetit za dvige obrestnih mer običajno pomeni nižje stroške zadolževanja za podjetja in potrošnike, kar je pozitivno za delniške trge, še posebej za rastna podjetja. Za obveznice to pomeni, da bi lahko donosnosti prenehale rasti ali celo začele padati, kar bi povečalo njihove cene. Valute, kot je ameriški dolar, bi lahko oslabeli, saj bi se zmanjšala privlačnost naložb v dolarjih. Za surovine in kriptovalute, kot je Bitcoin, ki je danes padel za 2,59 % na 83335 USD, bi lahko stabilnejše monetarne razmere pomenile manj volatilnosti in potencialno podporo. V preteklosti so podobni signali Feda pogosto sprožili rast delniških trgov, saj so vlagatelji pričakovali bolj sproščeno monetarno politiko. V prihodnje bo ključno spremljati inflacijske podatke in morebitne izjave uradnikov Feda, ki bi potrdile ali ovrgle to smer. Za slovenskega dolgoročnega vlagatelja to pomeni, da bi lahko obdobje visokih obrestnih mer doseglo vrhunec, kar bi lahko stabiliziralo trge in ponudilo bolj predvidljive pogoje za naložbe v delnice in obveznice.",
       "vpliv": [
-        "Pozitivno za delnice Microsoft in Nvidia",
-        "Potencialno pozitivno za proizvajalce prenosnikov",
-        "Povečano povpraševanje po zmogljivih GPU",
-        "Spodbujanje razvoja AI aplikacij"
+        "Manjši pritisk na dvig obrestnih mer",
+        "Potencialno zmanjšanje rasti donosnosti obveznic",
+        "Možna oslabitev ameriškega dolarja",
+        "Podpora delniškim trgom"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories",
-      "objavljeno": "2026-10-07T19:12:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-07T19:35:00.000Z"
     },
     {
-      "naslov": "SpaceX načrtuje veliko zadolževanje za nakup Nvidinih čipov",
-      "sektor": "Tehnologija & AI",
+      "naslov": "Vojna v Iranu povzročila skoraj 12 milijard funtov luknje v britanskih financah",
+      "sektor": "Geopolitika",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "SpaceX naj bi razmišljal o najemu do 40 milijard dolarjev posojil za nakup naprednih grafičnih procesorjev (GPU) in povezanih sistemov, predvsem Nvidinih čipov. Ta poteza je povzročila skok kreditnega tveganja podjetja, saj vlagatelji izražajo zaskrbljenost zaradi obsežnega zadolževanja. Novica je bila objavljena 7. oktobra 2026 ob 18:22:00 UTC in 18:05:37 UTC.",
-      "analiza": "Obsežno zadolževanje SpaceX-a za nakup Nvidinih čipov, ki naj bi doseglo 40 milijard dolarjev, je pomemben signal o naložbenih prioritetah podjetja in potencialnih tveganjih. Namen je očitno pospešiti razvoj in implementacijo umetne inteligence v svojih projektih, kar je v skladu z splošnim trendom v tehnološki industriji. Vendar pa tako visoka zadolženost povečuje finančno tveganje podjetja, kar se odraža v naraščajočih stroških zavarovanja proti neplačilu (credit default swaps). Za Nvidio to pomeni velik potencialni posel, ki bi lahko dodatno podprl njeno rast. Za SpaceX pa to predstavlja izziv upravljanja z dolgom, še posebej v primeru nepredvidenih težav ali počasnejše rasti prihodkov. Vpliv na delnice obeh podjetij je lahko mešan: pozitivno za Nvidio zaradi povečanega povpraševanja, potencialno negativno za SpaceX zaradi povečanega finančnega bremena. Slovenski vlagatelji bi morali biti pozorni na to, kako bo SpaceX upravljal s svojim dolgom in ali bo naložba v AI čipe prinesla pričakovane donose.",
+      "intenziteta": 3,
+      "povzetek": "Vojna v Iranu je povzročila skoraj 12 milijard funtov (približno 13,4 milijarde evrov) veliko luknjo v javnih financah Velike Britanije. Ocene Financial Timesa kažejo, da sta inflacija in naraščajoči stroški zadolževanja prepolovili manevrski prostor kanclerja Johna Healeyja. To pomeni, da ima vlada bistveno manj sredstev za porabo ali zmanjšanje davkov, kot je bilo prvotno načrtovano. Konflikt je povzročil nepredvidene stroške in gospodarske motnje, kar dodatno obremenjuje že tako napete javne finance. Povečani izdatki in zmanjšani prihodki so ustvarili precejšen fiskalni primanjkljaj.",
+      "analiza": "Ozadje te novice je dolgotrajen in zapleten geopolitični konflikt v Iranu, ki ima daljnosežne ekonomske posledice. Vojne in nestabilnost v ključnih regijah, kot je Bližnji vzhod, pogosto povzročijo motnje v dobavnih verigah, zvišanje cen energije in povečano negotovost, kar vpliva na globalno gospodarstvo. Relevantnost te novice je v neposrednem in merljivem vplivu na javne finance ene izmed največjih evropskih ekonomij, kar poudarja širše gospodarske stroške geopolitičnih konfliktov. Mehanizem vpliva je večplasten: vojaški izdatki se povečajo, cene surovin (zlasti nafte in plina) lahko narastejo, kar vodi v višjo inflacijo, centralne banke pa so prisiljene dvigovati obrestne mere, kar poveča stroške zadolževanja za države. Posledice za finančne trge so negativne: delniški trgi lahko trpijo zaradi negotovosti in višjih stroškov, obvezniški trgi pa se soočajo z višjimi donosnostmi zaradi povečanega tveganja in potrebe po financiranju. Valute držav, ki so neposredno vpletene ali močno prizadete, lahko oslabelijo. Primerjalno, podobne situacije smo videli med vojno v Iraku ali med rusko invazijo na Ukrajino, ko so se cene energije drastično zvišale in so države beležile znatne fiskalne obremenitve. V prihodnje bo ključno spremljati razvoj konflikta in odziv britanske vlade na fiskalne izzive. Za slovenskega dolgoročnega vlagatelja to pomeni, da geopolitična tveganja ostajajo pomemben dejavnik, ki lahko vpliva na globalno gospodarsko stabilnost in donosnost naložb, še posebej v sektorjih, občutljivih na cene energije in inflacijo.",
       "vpliv": [
-        "Pozitivno za delnice Nvidie",
-        "Negativno za kreditno tveganje SpaceX",
-        "Povečana skrb glede finančne stabilnosti SpaceX",
-        "Spodbujanje povpraševanja po GPU"
+        "Povečanje britanskega javnega dolga za skoraj 12 milijard funtov",
+        "Zmanjšanje fiskalnega manevrskega prostora",
+        "Potencialno višja inflacija v VB",
+        "Negativen vpliv na britanske delniške trge"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
-      "objavljeno": "2026-10-07T18:22:00.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/2cb13aed-f6bf-4f45-b906-fa1194405a0c?syn-25a6b1a6=1",
+      "objavljeno": "2026-10-07T20:00:03.000Z"
     },
     {
-      "naslov": "Cena dizla skokovito naraste po napovedi IEA o neobjavljanju dodatnih rezerv",
+      "naslov": "Cena dizla poskočila po sporočilu IEA o ne sprostitvi dodatnega goriva",
       "sektor": "Energetika",
       "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Cena dizelskega goriva je zabeležila znatno rast po tem, ko je Mednarodna agencija za energijo (IEA) sporočila, da članice ne bodo sprostile dodatnih naftnih rezerv. Objavljenih bo le 100 milijonov sodov, ki so bili že obljubljeni s strani G7 v marcu, in bodo črpani iz obstoječih zalog. Novica je bila objavljena 7. oktobra 2026 ob 19:02:51 UTC.",
-      "analiza": "Odločitev Mednarodne agencije za energijo (IEA), da ne bo sprostila dodatnih strateških naftnih rezerv, je povzročila takojšen dvig cen dizelskega goriva. To sporočilo nakazuje na pomanjkanje ponudbe ali na previdnost držav glede zmanjševanja svojih energetskih varnostnih zalog. Ker je dizel ključno gorivo za transport in industrijo, bo višja cena neposredno vplivala na stroške poslovanja številnih sektorjev gospodarstva, kar lahko privede do inflacijskih pritiskov. Brent nafta je sicer danes zabeležila rast (+0.58 %), medtem ko je WTI nafta rahlo padla (-0.44 %), kar kaže na kompleksnejše dinamike na trgu surove nafte. Za delnice energetskih podjetij bi to lahko pomenilo višje prihodke, medtem ko bi lahko podjetja, ki so odvisna od dizla, doživela povečanje stroškov. Slovenski vlagatelji bi morali biti pozorni na vpliv višjih cen energije na inflacijo in kupno moč potrošnikov, kar lahko posredno vpliva na domače podjetje.",
+      "intenziteta": 3,
+      "povzetek": "Cena dizelskega goriva je poskočila, potem ko je Mednarodna agencija za energijo (IEA) sporočila, da ne bo sprostila dodatnih zalog goriva. Članice agencije so potrdile, da bo 100 milijonov sodov, ki jih je obljubila skupina G7, prišlo iz 400 milijonov sodov sproščenih zalog, dogovorjenih marca. To pomeni, da ni pričakovati novih, dodatnih količin na trgu, kar je povzročilo zaskrbljenost glede ponudbe. Omejena razpoložljivost goriva vpliva na globalne cene in povzroča inflacijske pritiske. Povečano povpraševanje v kombinaciji z omejeno ponudbo ustvarja pritisk na cene.",
+      "analiza": "Ozadje te novice je globalna energetska kriza in prizadevanja za stabilizacijo cen goriv, ki so se v zadnjem času močno zvišale. IEA in države G7 so v preteklosti že sprostile strateške rezerve nafte, da bi ublažile pomanjkanje in znižale cene. Relevantnost te objave je v tem, da signalizira omejeno zmožnost ali voljo za nadaljnje posege v trg, kar pušča cene odvisne od osnovnih dejavnikov ponudbe in povpraševanja. Mehanizem vpliva je neposreden: ko se pričakuje omejena ponudba ključnega energenta, kot je dizel, se njegova cena zviša. To ima kaskadni učinek na celotno gospodarstvo, saj dizel poganja transport, industrijo in kmetijstvo. Višje cene dizla povečujejo proizvodne in transportne stroške, kar vodi v višjo inflacijo. Posledice za finančne trge so negativne: višje cene energije zmanjšujejo kupno moč potrošnikov in marže podjetij, kar lahko negativno vpliva na delniške trge. Centralne banke so pod pritiskom, da dvignejo obrestne mere za boj proti inflaciji, kar vpliva na obveznice in valute. Cena Brent nafte je danes že zrasla za 0,57 % na 101,15 USD/sod, kar kaže na splošni pritisk na cene energije. Zgodovinsko gledano so omejitve ponudbe ali pomanjkanje strateških rezerv vedno povzročile skokovito rast cen nafte in njenih derivatov. V prihodnje bo ključno spremljati geopolitične dogodke, ki vplivajo na proizvodnjo nafte, in odločitve Opec+. Za slovenskega dolgoročnega vlagatelja to pomeni, da je energetski sektor še naprej vir volatilnosti in inflacijskih pritiskov, kar lahko vpliva na donosnost podjetij v transportnem, proizvodnem in potrošniškem sektorju.",
       "vpliv": [
-        "Rast cene dizla",
-        "Potencialno višji stroški transporta in logistike",
-        "Inflacijski pritiski",
-        "Pozitivno za proizvajalce nafte in plina"
+        "Skokovita rast cen dizelskega goriva",
+        "Povečani inflacijski pritiski",
+        "Višji stroški transporta in proizvodnje",
+        "Dodaten pritisk na centralne banke za dvig obrestnih mer"
       ],
       "vir": "Financial Times",
       "vir_url": "https://www.ft.com/content/2761b6af-df11-49e8-a348-792a9597c9af?syn-25a6b1a6=1",
       "objavljeno": "2026-10-07T19:02:51.000Z"
     },
     {
-      "naslov": "Levi Strauss dvignil napoved dobička, a prodaja ostaja negotova",
-      "sektor": "Potrošniki",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Levi Strauss je objavil rezultate, ki presegajo pričakovanja glede dobička, deloma zaradi povračil carin. Vendar pa je napoved prodaje za prihodnje obdobje manj optimistična, kar nakazuje na morebitne izzive na strani povpraševanja. Novica je bila objavljena 7. oktobra 2026 ob 20:25:25 UTC.",
-      "analiza": "Podjetje Levi Strauss je uspelo preseči pričakovanja glede dobička, kar je deloma posledica enkratnih pozitivnih vplivov, kot so povračila carin. To kaže na dobro upravljanje stroškov in učinkovitost poslovanja v določenih segmentih. Vendar pa manj optimistična napoved prodaje opozarja na morebitne težave v prihodnosti, ki bi lahko izhajale iz zmanjšanega povpraševanja potrošnikov, sprememb v modnih trendih ali povečane konkurence. Ta dvojnost rezultatov – močan dobiček, a negotova prihodnost prodaje – je pogosta pri podjetjih v cikličnih sektorjih, kot je oblačilna industrija. Za delnice Levi Strauss bi to lahko pomenilo mešan odziv trga. Slovenski vlagatelji bi morali biti pozorni na to, kako se bodo razmere na globalnem potrošniškem trgu razvijale, saj lahko to vpliva na podjetja, ki so izpostavljena mednarodnemu povpraševanju.",
-      "vpliv": [
-        "Pozitivno za delnice Levi Strauss (kratkoročno)",
-        "Negativno za prihodnje napovedi prodaje",
-        "Indikator za zdravje potrošniškega povpraševanja",
-        "Vpliv na dobavitelje in proizvajalce tekstila"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
-      "objavljeno": "2026-10-07T20:25:25.000Z"
-    },
-    {
-      "naslov": "Rusija izvedla obsežen napad na Ukrajino, najmanj 24 mrtvih",
-      "sektor": "Geopolitika",
+      "naslov": "Kreditno tveganje SpaceX poskočilo zaradi obsežnega zadolževanja za AI čipe",
+      "sektor": "Finance",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Rusija je izvedla obsežen nočni napad na Ukrajino, pri čemer je uporabila 130 dronov, 48 krstarih raket in balistične rakete. Po poročilih ukrajinskih oblasti je bilo v napadu ubitih najmanj 24 ljudi. Novica je bila objavljena 7. oktobra 2026 ob 18:32:08 UTC.",
-      "analiza": "Najnovejši obsežni ruski napad na Ukrajino, ki je vključeval širok spekter orožij, poudarja nadaljevanje in morebitno zaostrovanje vojaškega konflikta. Veliko število žrtev in obseg napada nakazujeta na resnost humanitarne situacije in potencialne posledice za energetsko in drugo infrastrukturo Ukrajine. Geopolitične napetosti, ki izhajajo iz tega konflikta, imajo širše posledice za globalno varnost in stabilnost, vplivajo na cene energentov in surovin ter lahko povzročijo dodatno negotovost na finančnih trgih. Za delnice podjetij, ki so neposredno ali posredno izpostavljena konfliktu, bi to lahko pomenilo povečano tveganje. Mednarodna skupnost bo verjetno ponovno obsodila napad, kar lahko vpliva na nadaljnje sankcije proti Rusiji. Slovenski vlagatelji bi morali biti pozorni na morebitne gospodarske posledice za Evropo in na splošno povečano raven tveganja na globalnih trgih zaradi takšnih dogodkov.",
+      "povzetek": "Kreditno tveganje podjetja SpaceX, ki je v lasti Elona Muska, je močno poskočilo zaradi zaskrbljenosti glede njegovega obsežnega zadolževanja. Poročilo Financial Timesa navaja, da SpaceX razmišlja o zbiranju do 40 milijard dolarjev za nakup naprednih grafičnih procesnih enot (GPU) in povezanih sistemov podjetja Nvidia. Ta poteza je povzročila skok v ceni kreditnih zamenjav (CDS), ki sledijo letalski skupini, kar kaže na povečano dojemanje tveganja s strani vlagateljev. To zadolževanje je namenjeno izkoriščanju 'osupljivih' donosov v sektorju umetne inteligence. Povečana zadolženost lahko vpliva na finančno stabilnost podjetja v prihodnosti.",
+      "analiza": "Ozadje te novice je agresivna širitev podjetja SpaceX na področju umetne inteligence, ki zahteva ogromne kapitalske naložbe v visoko zmogljive čipe, kot so tisti podjetja Nvidia. SpaceX, znan predvsem po vesoljskih tehnologijah, očitno vidi \"osupljive\" donose v AI sektorju. Relevantnost te novice je v tem, da poudarja visoke stroške in tveganja, povezana z vstopom v in širitvijo v AI industriji, celo za dobro uveljavljena podjetja. Mehanizem vpliva je neposreden: obsežno zadolževanje, še posebej za tako velike zneske kot 40 milijard dolarjev, poveča finančno tveganje podjetja. To se odraža v višjih stroških zavarovanja pred neplačilom dolga (CDS), saj vlagatelji zahtevajo večjo premijo za prevzeto tveganje. Posledice za finančne trge so večplastne: za SpaceX to pomeni dražje financiranje in morebiten pritisk na njegovo bonitetno oceno. Za širši trg to lahko signalizira, da se tudi sicer močna podjetja v AI dirki soočajo z velikimi kapitalskimi izzivi, kar lahko vpliva na sentiment do celotnega sektorja. Za podjetja, kot je Nvidia, to pomeni nadaljnje močno povpraševanje po njihovih čipih, kar je pozitivno. V preteklosti so hitre širitve in visoko zadolževanje pogosto vodili do povečanega tveganja in morebitnih težav, če se pričakovani donosi niso uresničili. V prihodnje bo ključno spremljati, kako bo SpaceX financiral te naložbe in ali se bodo napovedani \"osupljivi\" donosi iz AI uresničili. Za slovenskega dolgoročnega vlagatelja to poudarja pomen ocene finančnega tveganja podjetij, tudi tistih z visokim potencialom rasti, in opozarja na morebitne pregrete dele trga AI.",
       "vpliv": [
-        "Negativno za stabilnost v regiji",
-        "Potencialno povečanje cen energentov",
-        "Povečana negotovost na finančnih trgih",
-        "Humanitarna kriza v Ukrajini"
+        "Povečano kreditno tveganje za SpaceX",
+        "Višji stroški zadolževanja za SpaceX",
+        "Povečano povpraševanje po Nvidia čipih",
+        "Opozorilo na visoke kapitalske zahteve v AI sektorju"
       ],
-      "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
-      "objavljeno": "2026-10-07T18:32:08.000Z"
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/4f2417d3-3de6-4f62-bd3a-8c8f740a4b29?syn-25a6b1a6=1",
+      "objavljeno": "2026-10-07T18:05:37.000Z"
+    },
+    {
+      "naslov": "Microsoft in Nvidia sodelujeta pri razvoju izjemno zmogljivega prenosnika z AI",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 3,
+      "povzetek": "Microsoft in Nvidia sta se združila pri razvoju izjemno zmogljivega prenosnika z umetno inteligenco. Ta najnovejši prenosnik z operacijskim sistemom Windows, ki ga poganja Nvidijin čip RTX Spark, je zasnovan za izvajanje modelov in delovnih obremenitev umetne inteligence neposredno na napravi. To sodelovanje kaže na nadaljnjo integracijo AI zmogljivosti v osebne računalnike in poudarja pomen lokalnega procesiranja AI. Cilj je uporabnikom omogočiti napredne AI funkcije brez odvisnosti od oblačnih storitev. To partnerstvo utrjuje položaj obeh podjetij na trgu umetne inteligence.",
+      "analiza": "Ozadje te novice je hitra evolucija umetne inteligence in naraščajoče povpraševanje po zmogljivi strojni opremi, ki lahko podpira kompleksne AI aplikacije. Microsoft in Nvidia sta ključna igralca v tem prostoru, prvi na področju programske opreme in operacijskih sistemov, drugi pa na področju grafičnih procesorjev, ki so bistveni za AI. Relevantnost te novice je v tem, da predstavlja pomemben korak k demokratizaciji AI, saj prinaša zmogljivosti umetne inteligence neposredno v roke končnih uporabnikov, namesto da bi bile omejene na oblak. Mehanizem vpliva je pozitiven za obe podjetji: Microsoft razširja svojo ponudbo Windows naprav z naprednimi AI zmogljivostmi, medtem ko Nvidia utrjuje svoj položaj vodilnega dobavitelja AI čipov za široko potrošnjo. To lahko spodbudi povpraševanje po novih prenosnikih in s tem povezanih komponentah. Posledice za finančne trge so pozitivne za delnice obeh podjetij, saj to sodelovanje odpira nove tržne priložnosti in krepi njun konkurenčni položaj. Širše gledano, to lahko spodbudi rast celotnega sektorja strojne opreme za AI in programske opreme, ki bo izkoriščala te lokalne zmogljivosti. V preteklosti so podobna sodelovanja med tehnološkimi velikani, kot je na primer Intel in Microsoft pri razvoju osebnih računalnikov, pogosto vodila do velikih inovacij in rasti trga. V prihodnje bo ključno spremljati sprejem teh AI prenosnikov na trgu in razvoj novih aplikacij, ki bodo izkoriščale njihove zmogljivosti. Za slovenskega dolgoročnega vlagatelja to poudarja pomen naložb v podjetja, ki so v ospredju inovacij na področju umetne inteligence, saj ta tehnologija preoblikuje različne sektorje gospodarstva.",
+      "vpliv": [
+        "Povečano povpraševanje po AI prenosnikih",
+        "Krepitev tržnega položaja Microsofta in Nvidie",
+        "Spodbujanje rasti sektorja strojne opreme za AI",
+        "Integracija napredne AI v osebne naprave"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-07T19:12:00.000Z"
+    },
+    {
+      "naslov": "Trgovci z opcijami stavijo na dramatičen padec obrestnih mer",
+      "sektor": "Finance",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Nedavna aktivnost trgovcev z opcijami kaže na močno pozicioniranje, ki pričakuje dramatičen padec obrestnih mer. To se odraža v bikovskih pozicijah za dolgoročne obveznice in komunalna podjetja. Trgovci očitno verjamejo, da bo prišlo do znižanja obrestnih mer, kar bi povečalo vrednost teh sredstev. To nakazuje na pričakovanja trga, da bo monetarna politika v prihodnosti postala bolj sproščena. Takšna pričakovanja so lahko posledica predvidevanj o morebitni gospodarski upočasnitvi ali uspešnem boju proti inflaciji.",
+      "analiza": "Ozadje te novice je trenutno visoko okolje obrestnih mer, ki so jih centralne banke dvignile za boj proti inflaciji. Trgovci z opcijami so pogosto napovedni indikatorji tržnega sentimenta, saj s svojimi stavami izražajo pričakovanja o prihodnjih gibanjih cen. Relevantnost te novice je v tem, da kaže na močno prepričanje dela trga, da bo monetarna politika v prihodnosti postala bolj sproščena, kar je v nasprotju z nekaterimi nedavnimi izjavami Feda, ki so kazale na previdnost. Mehanizem vpliva je takšen, da pričakovanje padca obrestnih mer poveča privlačnost dolgoročnih obveznic, saj se njihova vrednost ob znižanju donosnosti zviša. Komunalna podjetja so prav tako privlačna v okolju nižjih obrestnih mer, saj so pogosto stabilna in izplačujejo dividende, njihovi stroški zadolževanja pa se znižajo. Posledice za finančne trge so pozitivne za obvezniške trge, saj bi padec obrestnih mer pomenil rast cen obveznic. Za delniške trge bi to lahko bilo mešano: na eni strani nižje obrestne mere podpirajo rast podjetij, na drugi strani pa lahko dramatičen padec obrestnih mer signalizira pričakovano gospodarsko upočasnitev, kar bi bilo negativno. Valute, kot je ameriški dolar, bi lahko oslabeli, če bi Fed znižal obrestne mere. Zgodovinsko gledano so trgi opcij pogosto uspešno napovedovali preobrate v monetarni politiki. V prihodnje bo ključno spremljati makroekonomske podatke, zlasti inflacijo in rast BDP, ki bodo vplivali na odločitve centralnih bank. Za slovenskega dolgoročnega vlagatelja to pomeni, da je trg obveznic pod vplivom močnih pričakovanj o prihodnjih obrestnih merah, kar lahko ustvari priložnosti, vendar je pomembno razumeti, da dramatičen padec obrestnih mer lahko kaže tudi na širše gospodarske izzive.",
+      "vpliv": [
+        "Povečano povpraševanje po dolgoročnih obveznicah",
+        "Potencialno znižanje obrestnih mer",
+        "Rast cen obveznic",
+        "Povečana privlačnost komunalnih podjetij"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-07T20:36:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-10-07T20:43:47.595Z",
+    "posodobljenoOb": "2026-10-07T20:50:31.240Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
@@ -141,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4136.8,
-        "sprememba_pct": -1.2,
+        "vrednost": 4136,
+        "sprememba_pct": -1.22,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 89.05,
-        "sprememba_pct": -0.44,
+        "vrednost": 89.06,
+        "sprememba_pct": -0.42,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 101.16,
-        "sprememba_pct": 0.58,
+        "vrednost": 101.15,
+        "sprememba_pct": 0.57,
         "enota": "USD/sod"
       }
     ],
@@ -164,8 +164,8 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1198,
-        "sprememba_pct": -0.58
+        "vrednost": 1.1199,
+        "sprememba_pct": -0.57
       }
     ],
     "obveznice": [
@@ -181,8 +181,8 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 83357.55,
-        "sprememba_pct": -2.56,
+        "vrednost": 83334.59,
+        "sprememba_pct": -2.59,
         "enota": "USD"
       }
     ],
