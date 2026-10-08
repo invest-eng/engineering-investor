@@ -1,117 +1,133 @@
 {
-  "generiranoOb": "2026-10-08T11:21:55.382Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-10-08T20:47:17.741Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-10-08",
-  "povzetek": "Jutranji pregled finančnih trgov 8. oktobra 2026 kaže na splošno previdnost in nekaj pomembnih premikov. Ameriški indeksi so noč zaključili z rahlimi padci, S&P 500 pri 7802 (-0.22 %) in Nasdaq 100 pri 31160 (-0.21 %), medtem ko so evropski in azijski trgi beležili izrazitejše padce, DAX pri 24830 (-1.09 %) in Nikkei 225 pri 69042 (-1.42 %). Posebno pozornost si zasluži skok cen nafte, kjer sta WTI in Brent zrasla za več kot 5 % na 92.80 USD/sod oziroma 105.46 USD/sod, predvsem zaradi napadov na tankerje in upočasnjenih pretokov skozi Hormuško ožino. Donosnost 10-letne ameriške državne obveznice je nadaljevala rast in se povzpela na 5.28 % (+0.15 %), kar vpliva na privlačnost delnic in obveznic. V Evropi se nadaljujejo protesti v Franciji, medtem ko se britanske javne finance soočajo z velikansko luknjo zaradi vojne v Iranu. Vlagatelji bodo ta teden pozorno spremljali objave inflacijskih podatkov, ki bi lahko dodatno vplivali na pričakovanja glede obrestnih mer centralnih bank.",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v negativnem območju, z indeksom DAX, ki je padel za 1.18 % na 24807 točk. Tudi ameriški trgi so po dveh urah trgovanja kazali negativno smer, saj je S&P 500 beležil padec za 0.47 % na 7765 točk, medtem ko je Nasdaq 100 izgubil 1.39 % in se ustavil pri 30726 točkah. Med surovinami je nafta WTI zrasla za 2.82 % na 90.77 USD/sod, Brent pa za 3.27 % na 103.48 USD/sod, kar je verjetno odraz geopolitičnih napetosti, povezanih z vojno v Iranu, in bližajočega se orkana Isaias v Mehiškem zalivu. Donosnost 10-letne ameriške državne obveznice se je znižala za 0.87 % na 5.23 %, kar kaže na povečano povpraševanje po varnih naložbah. Zlato je pridobilo 0.42 % in se povzpelo na 4158.20 USD/oz, medtem ko je Bitcoin padel za 1.83 % na 81755 USD. Vlagatelji bodo v prihodnjih dneh pozorno spremljali prihajajočo objavo podatkov o inflaciji v evroobmočju, ki bo ključna za oceno nadaljnjih potez Evropske centralne banke.",
   "novice": [
     {
-      "naslov": "Cene nafte poskočile zaradi napadov na tankerje in zastojev v Hormuški ožini",
-      "sektor": "Energetika",
+      "naslov": "Ameriška vojska utrpela izgube 3,3 milijarde dolarjev v iranski vojni",
+      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Cene nafte so močno poskočile, saj so napadi na tankerje in upočasnjeni pretoki skozi strateško pomembno Hormuško ožino povzročili zaskrbljenost glede oskrbe. WTI nafta je zrasla za 5.12 % na 92.80 USD/sod, medtem ko je Brent nafta poskočila za 5.25 % na 105.46 USD/sod. Poročila kažejo, da so se pretoki skozi ožino, ki je prejšnji mesec dosegla skoraj 90 % predvojnih ravni, močno zmanjšali. Poleg tega so se pojavila poročila, da kapitani tankerjev prejemajo 100.000 dolarjev plače in 50.000 dolarjev bonusa za vsak tranzit skozi ožino, kar poudarja povečana tveganja. Ti dogodki so neposredna posledica iranske vojne, ki ustvarja nestabilnost v regiji.",
-      "analiza": "Hormuška ožina je ključna pomorska pot, skozi katero poteka približno petina svetovne nafte. Vsaka motnja v tej regiji ima takojšen in dramatičen vpliv na globalne cene nafte. Trenutni napadi na tankerje in upočasnjeni pretoki so neposredna posledica iranske vojne, kar povečuje geopolitična tveganja in negotovost na trgu energentov. Mehanizem vpliva je preprost: zmanjšana ponudba ali zaznano tveganje zmanjšane ponudbe ob nespremenjenem povpraševanju povzroči rast cen. To se odraža v današnjem skoku cen WTI in Brent nafte za več kot 5 %. Posledice so večplastne: za delnice to pomeni pritisk na podjetja, ki so odvisna od nizkih cen energentov (npr. letalske družbe, transportna podjetja, industrija), medtem ko so energetska podjetja (naftne in plinske družbe) lahko kratkoročno na dobičku. Za obveznice rast cen nafte pomeni inflacijski pritisk, kar lahko privede do višjih donosov obveznic, saj vlagatelji zahtevajo večje nadomestilo za inflacijo. Valute držav, ki so neto izvoznice nafte, se lahko okrepijo, medtem ko valute uvoznic oslabelijo. Zgodovinsko gledano so podobni dogodki v Perzijskem zalivu (npr. Zalivska vojna) vedno povzročili skoke cen nafte in globalno gospodarsko negotovost. Vlagatelji naj v prihodnje pozorno spremljajo razvoj dogodkov v regiji in morebitne eskalacije konflikta. Za slovenskega dolgoročnega vlagatelja to pomeni, da je diverzifikacija portfelja ključna za zmanjšanje tveganj, povezanih z nestanovitnostjo cen energentov in geopolitičnimi šoki.",
+      "povzetek": "Poročilo Kongresnega proračunskega urada (CBO) razkriva, da je bilo v tekoči vojni z Iranom izgubljenih ali poškodovanih vsaj 81 ameriških letal, ocenjene skupne vrednosti do 3,3 milijarde dolarjev. Ta podatek prihaja v času, ko se predsednik Trump sooča s kritikami glede stroškov vojne, kar je bilo omenjeno tudi v kontekstu njegove izjave, da ZDA ne bodo napadle Irana pred vmesnimi volitvami. Poročilo poudarja obsežnost konflikta in finančno breme, ki ga ta predstavlja za ameriške davkoplačevalce. Novica je bila objavljena s strani Al Jazeere.",
+      "analiza": "Ozadje te novice je dolgotrajna napetost med ZDA in Iranom, ki je očitno prerasla v obsežen konflikt, kljub predhodnim izjavam o 'produktivnih pogovorih'. Poročilo CBO, ki dokumentira izgube, potrjuje, da so ZDA aktivno vpletene v vojaške operacije, kar je v nasprotju z retoriko o izogibanju napadom pred volitvami. To je relevantno, ker aktivna vojna v regiji, ki je ključna za globalno oskrbo z nafto, povzroča negotovost in dviguje cene energentov. Mehanizem vpliva je neposreden: povečana geopolitična tveganja v Perzijskem zalivu, skozi katerega poteka velik del svetovnega pomorskega prometa nafte, avtomatsko dvignejo cene nafte. Danes sta WTI nafta in Brent nafta zrasli za 2.82 % na 90.77 USD/sod oziroma za 3.27 % na 103.48 USD/sod, kar je jasen odraz teh skrbi. Posledice za delniške trge so negativne, saj vojna povečuje stroške poslovanja in zmanjšuje zaupanje vlagateljev, kar se odraža v padcu indeksov, kot sta S&P 500 (-0.47 %) in DAX (-1.18 %). Obveznice, zlasti ameriške državne obveznice, lahko v takšnih razmerah služijo kot varno zatočišče, kar se kaže v padcu donosnosti 10-letne ameriške obveznice za 0.87 % na 5.23 %. Za slovenskega dolgoročnega vlagatelja to pomeni, da je portfelj izpostavljen tveganjem, ki izhajajo iz globalne nestabilnosti in morebitnih motenj v dobavnih verigah, kar lahko vpliva na vrednost delnic in obveznic. Pomembno je spremljati razvoj dogodkov v regiji in njihov vpliv na cene surovin.",
       "vpliv": [
-        "WTI nafta +5.12 % na 92.80 USD/sod",
-        "Brent nafta +5.25 % na 105.46 USD/sod",
-        "Povečan inflacijski pritisk",
-        "Povečana geopolitična tveganja"
+        "Cene nafte WTI +2.82%",
+        "Cene nafte Brent +3.27%",
+        "Padec delniških indeksov (S&P 500 -0.47%, DAX -1.18%)",
+        "Povečana negotovost na trgih"
       ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/ec860f96-5a2b-461a-a897-a957860c3dba?syn-25a6b1a6=1",
-      "objavljeno": "2026-10-08T10:46:10.000Z"
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss",
+      "objavljeno": "2026-10-08T19:43:39.000Z"
     },
     {
-      "naslov": "Francoske obveznice doživljajo najslabše desetletje od leta 1803; vlagatelji pričakujejo nadaljnje bolečine",
-      "sektor": "Makro & Centralne banke",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Francoske obveznice se soočajo z najslabšim desetletjem od leta 1803, vlagatelji pa se pripravljajo na nadaljnje težave. Razlika med donosnostjo 10-letne francoske državne obveznice in enakovredne nemške obveznice je prejšnji teden dosegla najširšo raven v Bloombergovih podatkih, ki segajo v leto 1990. To kaže na povečano tveganje, ki ga vlagatelji pripisujejo francoskemu dolgu. Medtem se v Franciji nadaljujejo šolski protesti in blokade kljub obljubam predsednika vlade, da bo ukrepal, kar dodatno prispeva k politični in socialni nestabilnosti v državi.",
-      "analiza": "Situacija s francoskimi obveznicami in širša politična nestabilnost v Franciji, ki se kaže v nadaljevanju šolskih protestov, predstavlja pomemben dejavnik tveganja za evroobmočje. Razširitev razlike v donosnosti med francoskimi in nemškimi obveznicami (t.i. 'spread') je ključen pokazatelj povečanega tveganja, ki ga vlagatelji vidijo v francoskih javnih financah in gospodarski stabilnosti. Nemčija velja za sidro stabilnosti v evroobmočju, zato je njen donos pogosto referenčna točka. Ko se spread poveča, to pomeni, da vlagatelji zahtevajo višjo premijo za tveganje, da bi imeli francoske obveznice. Mehanizem vpliva je takšen, da višji stroški zadolževanja za Francijo lahko obremenijo državni proračun, kar lahko vodi do zmanjšanja javne porabe ali povečanja davkov, kar bi zaviralo gospodarsko rast. Posledice za delnice v Franciji in širše v Evropi (npr. DAX -1.09 %) so lahko negativne, saj se povečuje negotovost. Na valute, zlasti evro (EUR/USD -0.16 %), to vpliva negativno, saj se zmanjšuje zaupanje v stabilnost evroobmočja. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da so politična tveganja v Evropi še vedno prisotna in lahko vplivajo na širše evropske trge in vrednost evra. Pomembno je spremljati odzive francoske vlade na proteste in fiskalno politiko države.",
-      "vpliv": [
-        "Razširitev donosnostnega spreada francoskih in nemških obveznic",
-        "Povečana politična in socialna nestabilnost v Franciji",
-        "Negativen vpliv na evro (EUR/USD -0.16 %)",
-        "DAX -1.09 %"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
-      "objavljeno": "2026-10-08T09:32:00.000Z"
-    },
-    {
-      "naslov": "PepsiCo znižuje napoved dobička, saj preobrat v Severni Ameriki traja dlje",
-      "sektor": "Potrošniki",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "PepsiCo je znižal svojo napoved dobička, saj preobrat v poslovanju v Severni Ameriki traja dlje, kot je bilo pričakovano. Poslovanje PepsiCo v Severni Ameriki še naprej zaostaja za mednarodnimi trgi podjetja. To kaže na izzive, s katerimi se soočajo velika podjetja v sektorju potrošniških dobrin, zlasti na domačih trgih, kjer se morda soočajo s spremenjenimi preferencami potrošnikov, konkurenco ali višjimi stroški. Znižanje napovedi je pomemben signal za vlagatelje glede pričakovanj dobičkov v prihodnosti.",
-      "analiza": "Znižanje napovedi dobička s strani podjetja PepsiCo, globalnega giganta v sektorju pijač in prigrizkov, je pomemben indikator za širši potrošniški sektor. Čeprav se mednarodni trgi PepsiCo dobro držijo, težave v Severni Ameriki kažejo na specifične izzive, kot so inflacijski pritiski, spremembe v nakupnih navadah potrošnikov ali intenzivna konkurenca. Mehanizem vpliva na finančne trge je neposreden: znižane napovedi dobička običajno vodijo do padca cene delnic podjetja, saj vlagatelji zmanjšajo svoje vrednotenje. To lahko povzroči tudi negativno razpoloženje v celotnem sektorju potrošniških dobrin, saj se vlagatelji sprašujejo, ali se podobni izzivi ne bodo pojavili tudi pri drugih podjetjih. Posledice za delnice so negativne za PepsiCo in potencialno za njegove konkurente. Na obveznice in valute je vpliv manj neposreden, razen če znižanje napovedi signalizira širše gospodarsko upočasnjevanje. Zgodovinsko gledano, so podjetja, ki ne uspejo obrniti trenda na ključnih trgih, pogosto pod dolgotrajnim pritiskom. Vlagatelji naj pozorno spremljajo prihodnje poročila o dobičkih in komentarje vodstva glede strategij za Severno Ameriko. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub stabilnosti sektorja potrošniških dobrin pomembno preučiti regionalne trende in specifične izzive podjetij, saj lahko ti vplivajo na dolgoročno donosnost naložbe.",
-      "vpliv": [
-        "Znižana napoved dobička PepsiCo",
-        "Negativen vpliv na ceno delnice PepsiCo",
-        "Potencialno negativno razpoloženje v sektorju potrošniških dobrin",
-        "Izzivi na severnoameriškem trgu"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
-      "objavljeno": "2026-10-08T10:38:59.000Z"
-    },
-    {
-      "naslov": "Hekerji Asosa pridobili več osebnih podatkov, kot je bilo sprva razkrito, ugotavlja BBC",
+      "naslov": "OpenAI letni prihodki 20 milijard dolarjev pod predhodnimi signali",
       "sektor": "Tehnologija & AI",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Trgovec Asos je izdal posodobitev po tem, ko je BBC stopil v stik s kibernetskimi kriminalci, ki so razkrili, da je kršitev varnosti ta teden presegla 'osnovne kontaktne podatke'. To pomeni, da so hekerji pridobili več osebnih podatkov strank, kot je bilo sprva objavljeno. Incident poudarja naraščajoča tveganja kibernetskih napadov in pomen varnosti podatkov za podjetja, ki poslujejo na spletu. Takšne kršitve lahko močno vplivajo na ugled podjetja in zaupanje strank.",
-      "analiza": "Kibernetski napadi in kršitve varnosti podatkov so postali stalna grožnja v digitalni dobi, zlasti za spletne trgovce, kot je Asos. Dejstvo, da so hekerji pridobili več osebnih podatkov, kot je bilo sprva razkrito, povečuje resnost incidenta. Mehanizem vpliva na finančne trge je večplasten: prvič, podjetje se lahko sooči z znatnimi stroški, povezanimi z odpravljanjem posledic napada, pravnimi stroški in morebitnimi globami (npr. po GDPR). Drugič, izguba zaupanja strank lahko vodi do zmanjšanja prodaje in dolgoročne škode ugledu blagovne znamke. Posledice za delnice Asosa so verjetno negativne, saj vlagatelji ocenjujejo finančne in ugledne posledice. Širše, to poudarja pomen naložb v kibernetsko varnost za vsa podjetja, kar lahko pozitivno vpliva na delnice podjetij, ki ponujajo rešitve za kibernetsko varnost. Zgodovinsko gledano so podjetja, ki so doživela večje kršitve podatkov, pogosto potrebovala dolgo časa, da so si povrnila zaupanje strank in vlagateljev. Vlagatelji naj bodo pozorni na poročila o podobnih incidentih in ocenjujejo prakse kibernetske varnosti podjetij v svojih portfeljih. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pri ocenjevanju podjetij, zlasti tistih v tehnološkem in e-trgovinskem sektorju, ključnega pomena upoštevati njihove strategije in naložbe v kibernetsko varnost kot dejavnik tveganja in potencialne rasti.",
+      "povzetek": "Podjetje OpenAI je nedavno vlagateljem sporočilo, da se njegovi letni prihodki približujejo 50 milijardam dolarjev, kar je bistveno manj od 70 milijard dolarjev, o katerih se je široko poročalo in so bili predhodno signalizirani. Ta razlika v 20 milijardah dolarjev letnih prihodkov kaže na morebitno precenjenost ali prevelika pričakovanja glede finančnega uspeha vodilnega podjetja na področju umetne inteligence. Novica je objavljena v Financial Timesu in poudarja izzive pri monetizaciji hitro rastočega AI sektorja.",
+      "analiza": "Ozadje te novice je izjemen optimizem in visoka vrednotenja, ki so v zadnjem času zaznamovala podjetja v sektorju umetne inteligence. OpenAI, kot eden izmed pionirjev in vodilnih akterjev na tem področju, je bil pogosto v središču teh pričakovanj. Znižanje signaliziranih letnih prihodkov za 20 milijard dolarjev je relevantno, saj lahko služi kot opozorilo, da so pričakovanja vlagateljev morda prenapihnjena in da monetizacija AI tehnologij morda ni tako enostavna ali hitra, kot se je sprva zdelo. Mehanizem vpliva je predvsem psihološki in vrednotenjski: nižji pričakovani prihodki lahko vodijo do revizije vrednotenj podjetij v AI sektorju in širše v tehnološkem sektorju. Posledice za delniške trge so lahko negativne za tehnološke delnice, zlasti tiste, ki so močno vezane na AI rast. Nasdaq 100 je danes padel za 1.39 % na 30726 točk, kar bi lahko deloma odražalo tovrstne skrbi. Čeprav novica ne vpliva neposredno na obveznice ali surovine, lahko splošno zmanjšanje apetita po tveganju v tehnološkem sektorju posredno vpliva na širše trge. Za slovenskega dolgoročnega vlagatelja to pomeni, da je kljub privlačnosti AI sektorja potrebna previdnost pri ocenjevanju vrednotenj in realnih poslovnih modelov podjetij. Pomembno je razumeti, da visoka rast ne pomeni vedno tudi visoke dobičkonosnosti in da so korekcije pričakovanj del tržnega cikla.",
       "vpliv": [
-        "Povečana tveganja kibernetskih napadov",
-        "Potencialne globe in pravni stroški za Asos",
-        "Škoda ugledu in zaupanju strank",
-        "Povečana potreba po naložbah v kibernetsko varnost"
-      ],
-      "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-10-08T11:01:29.000Z"
-    },
-    {
-      "naslov": "Vojna v Iranu povzročila skoraj 12 milijard funtov luknje v britanskih javnih financah",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Vojna v Iranu je povzročila skoraj 12 milijard funtov luknje v britanskih javnih financah, kar je zmanjšalo manevrski prostor finančnega ministra Johna Healeyja za polovico. Ocene Financial Timesa kažejo, da so inflacija in naraščajoči stroški zadolževanja prispevali k temu zmanjšanju. To poudarja visoke ekonomske stroške, ki jih imajo geopolitični konflikti, tudi za države, ki niso neposredno vpletene, vendar jih prizadenejo posredne posledice, kot so višje cene energentov in motnje v dobavnih verigah. Britanska vlada se bo morala soočiti z izzivi pri uravnoteženju proračuna.",
-      "analiza": "Vojna v Iranu ima daljnosežne ekonomske posledice, ki presegajo neposredno vpletene države. Ocena, da je vojna povzročila skoraj 12 milijard funtov luknje v britanskih javnih financah, je zaskrbljujoč podatek. Mehanizem vpliva je kompleksen: višje cene nafte (WTI +5.12 %, Brent +5.25 %) in drugih surovin zaradi konflikta prispevajo k inflaciji, kar povečuje stroške življenja in pritiska na centralne banke, da zvišajo obrestne mere. Višje obrestne mere pa povečajo stroške zadolževanja za države, kot je Združeno kraljestvo, kar obremenjuje javne finance. Posledice za funt šterling (GBP) so lahko negativne, saj se povečuje zaskrbljenost glede fiskalne vzdržnosti države. Za britanske državne obveznice (gilte) to pomeni pritisk na rast donosov, saj vlagatelji zahtevajo višjo premijo za tveganje. Delnice britanskih podjetij so lahko pod pritiskom zaradi višjih stroškov in morebitnih zmanjšanj javne porabe. Zgodovinsko gledano so veliki geopolitični konflikti pogosto povzročili znatne fiskalne obremenitve za države, kar je vplivalo na njihove valute in obvezniške trge. Vlagatelji naj pozorno spremljajo fiskalne objave britanske vlade in razvoj dogodkov v Iranu. Za slovenskega dolgoročnega vlagatelja to pomeni, da je globalna geopolitika pomemben dejavnik pri ocenjevanju tveganj in priložnosti na mednarodnih trgih, saj lahko posredni vplivi močno obremenijo tudi razvite ekonomije.",
-      "vpliv": [
-        "12 milijard funtov luknje v britanskih javnih financah",
-        "Povečan inflacijski pritisk v Združenem kraljestvu",
-        "Višji stroški zadolževanja za britansko vlado",
-        "Potencialni pritisk na funt šterling in britanske gilte"
+        "Negativen vpliv na vrednotenja AI podjetij",
+        "Padec tehnoloških delnic (Nasdaq 100 -1.39%)",
+        "Zmanjšan apetit po tveganju v tehnološkem sektorju"
       ],
       "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/2cb13aed-f6bf-4f45-b906-fa1194405a0c?syn-25a6b1a6=1",
-      "objavljeno": "2026-10-08T10:38:30.000Z"
+      "vir_url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1",
+      "objavljeno": "2026-10-08T20:15:57.000Z"
+    },
+    {
+      "naslov": "Donosnosti obveznic padajo ob izboljšani zaupanju vlagateljev",
+      "sektor": "Makro & Centralne banke",
+      "smer": "mešano",
+      "intenziteta": 2,
+      "povzetek": "Donosnosti ameriških državnih obveznic so padle, saj je trg zakladnih menic prestal ključen preizkus zaupanja vlagateljev. Poročilo MarketWatch navaja, da je 30-letna zakladna obveznica še vedno pomembna kot merilo zaupanja v ameriško vlado. Indeks MOVE, ki meri volatilnost na trgu zakladnih menic, je dosegel ravni, ki so v preteklosti nakazovale, da so donosnosti morda dosegle vrhunec. Danes se je donosnost 10-letne ameriške državne obveznice znižala za 0.87 % na 5.23 %.",
+      "analiza": "Ozadje te novice je obdobje povišanih donosnosti obveznic, ki je v zadnjem času povzročalo skrbi glede stroškov zadolževanja in privlačnosti delniških naložb. Padec donosnosti, še posebej po 'ključnem preizkusu zaupanja', je relevanten, saj nakazuje, da vlagatelji še vedno vidijo ameriške državne obveznice kot varno zatočišče in so pripravljeni kupovati tudi pri nižjih donosnostih. Mehanizem vpliva je takšen, da povečano povpraševanje po obveznicah dvigne njihovo ceno in posledično zniža donosnost. To je lahko posledica iskanja varnosti v času geopolitičnih napetosti (vojna v Iranu) ali pa preprosto odraz prepričanja, da so donosnosti dosegle vrhunec in da se bo inflacija umirila. Posledice za obvezniške trge so pozitivne za obstoječe imetnike obveznic, saj se njihova vrednost povečuje. Za delniške trge je padec donosnosti lahko mešan signal; na eni strani zmanjšuje privlačnost obveznic kot alternative delnicam, na drugi pa lahko nakazuje na šibkejše gospodarske obete, kar ni dobro za dobičke podjetij. Danes je S&P 500 padel za 0.47 %, kar kaže na prevladujočo previdnost. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so donosnosti obveznic ključen kazalnik gospodarskega zdravja in inflacijskih pričakovanj. Padec donosnosti lahko pomeni, da se trgi pripravljajo na morebitno upočasnitev gospodarstva ali da pričakujejo stabilizacijo obrestnih mer, kar vpliva na celoten portfelj.",
+      "vpliv": [
+        "Donosnost 10-letne ameriške obveznice -0.87% na 5.23%",
+        "Povečano povpraševanje po varnih naložbah",
+        "Potencialno zmanjšanje stroškov zadolževanja",
+        "Mešan signal za delniške trge"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-08T18:19:00.000Z"
+    },
+    {
+      "naslov": "Ob 7,5% hipotekarnih obrestih, pametni denar v ZDA najema",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "V ZDA so hipotekarne obrestne mere poskočile nad 7.5%, kar povzroča, da se 'pametni denar' raje odloča za najem kot za nakup nepremičnine. Članek MarketWatch postavlja vprašanje, zakaj Wall Street ne želi kupovati domov, če je to tako dobra ideja. Visoke obrestne mere bistveno povečujejo stroške lastništva in zmanjšujejo dostopnost nepremičnin za povprečnega kupca, kar preusmerja povpraševanje na najemniški trg.",
+      "analiza": "Ozadje te novice je agresivno zviševanje obrestnih mer s strani centralnih bank v boju proti inflaciji, kar se neposredno odraža na hipotekarnih obrestnih merah. Ko te presežejo določeno raven, postane nakup nepremičnine finančno neugoden v primerjavi z najemom, še posebej v okolju visokih cen nepremičnin. To je relevantno, ker nepremičninski trg igra ključno vlogo v gospodarstvu; upad aktivnosti na tem področju lahko povzroči širše gospodarsko ohlajanje. Mehanizem vpliva je jasen: višje obrestne mere zmanjšujejo kupno moč in dostopnost posojil, kar zmanjšuje povpraševanje po nakupu nepremičnin. To lahko vodi do stagnacije ali padca cen nepremičnin, hkrati pa povečuje povpraševanje in cene na najemniškem trgu. Posledice za delniške trge so lahko negativne za sektorje, povezane z nepremičninami (gradbeništvo, oprema za dom) in banke, ki so izpostavljene hipotekarnim posojilom. Za potrošnike to pomeni večje stroške bivanja, bodisi zaradi visokih najemnin ali dragih hipotek. Za slovenskega dolgoročnega vlagatelja je to opozorilo, da so visoke obrestne mere globalni trend, ki vpliva na nepremičninske trge povsod. Vlagatelji v nepremičninske sklade ali delnice podjetij, povezanih z nepremičninami, morajo biti pozorni na morebitno upočasnitev rasti ali celo padce v tem sektorju.",
+      "vpliv": [
+        "Hipotekarne obrestne mere nad 7.5%",
+        "Zmanjšano povpraševanje po nakupu nepremičnin",
+        "Povečano povpraševanje na najemniškem trgu",
+        "Negativen vpliv na nepremičninski in gradbeni sektor"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/with-mortgage-rates-soaring-above-7-5-the-smart-money-rents-in-america-ef0eb5aa?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-08T20:30:00.000Z"
+    },
+    {
+      "naslov": "Orkan Isaias se približuje obali ZDA z nevarnimi vetrovi",
+      "sektor": "Energetika",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Orkan Isaias se z nevarnimi vetrovi približuje obali Mehiškega zaliva v ZDA. Napovedi kažejo, da bo nevihta prizadela Florido, Alabamo in Mississippi, s pričakovanimi padavinami do 25 centimetrov čez vikend. Takšni orkani pogosto povzročijo motnje v proizvodnji nafte in zemeljskega plina v regiji Mehiškega zaliva, ki je ključna za ameriško energetsko oskrbo. Novica je bila objavljena s strani Al Jazeere.",
+      "analiza": "Ozadje te novice je sezona orkanov v Atlantiku, ki redno ogroža energetsko infrastrukturo v Mehiškem zalivu. Ta regija je pomembno središče za črpanje nafte in zemeljskega plina ter rafinerije. Prihajajoči orkan Isaias je relevanten, ker lahko neposredno vpliva na dobavo energentov in s tem na njihove cene. Mehanizem vpliva je prekinitev proizvodnje in transporta nafte in plina zaradi evakuacij, poškodb platform in rafinerij. Posledice za surovinske trge so običajno takojšen dvig cen nafte in zemeljskega plina zaradi pričakovanega zmanjšanja ponudbe. Danes sta ceni WTI nafte in Brent nafte že zrasli za 2.82 % na 90.77 USD/sod oziroma za 3.27 % na 103.48 USD/sod, kar kaže na vključitev tega tveganja v cene. Za delniške trge to pomeni potencialno rast delnic energetskih podjetij, vendar tudi višje stroške za podjetja, ki so odvisna od energentov. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da naravne katastrofe, zlasti tiste, ki prizadenejo ključne proizvodne regije, lahko povzročijo kratkoročne šoke na trgih surovin in imajo širši vpliv na inflacijo in gospodarsko rast. Spremljanje razvoja orkana in njegovega vpliva na energetsko infrastrukturo bo ključno.",
+      "vpliv": [
+        "Cene nafte WTI +2.82%",
+        "Cene nafte Brent +3.27%",
+        "Potencialne motnje v proizvodnji nafte in plina v ZDA",
+        "Povečana volatilnost na energetskih trgih"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds?traffic_source=rss",
+      "objavljeno": "2026-10-08T17:58:07.000Z"
+    },
+    {
+      "naslov": "Microsoftu prepovedano sponzoriranje tujih delavcev za bivanje v ZDA",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Bela hiša je Microsoftu prepovedala sponzoriranje tujih delavcev za pridobitev stalnega prebivališča v ZDA. Ta napoved, ki vpliva na več tehnoloških skupin, predstavlja najnovejši poskus Bele hiše, da omeji priseljevanje. Podpredsednik JD Vance je obtožil tehnološko podjetje zlorabe sistema H-1B vizumov, ki visokokvalificiranim delavcem omogoča delo v ZDA med postopkom pridobivanja zelene karte. Novica je bila objavljena v Financial Timesu.",
+      "analiza": "Ozadje te novice je dolgotrajna razprava o ameriški imigracijski politiki in vlogi tujih visokokvalificiranih delavcev v tehnološkem sektorju. Tehnološka podjetja so se pogosto zanašala na program H-1B za zaposlovanje talentov, ki jih primanjkuje na domačem trgu. Odločitev Bele hiše, da prepove Microsoftu sponzoriranje zelenih kart, je relevantna, saj signalizira zaostrovanje imigracijske politike, ki lahko omeji dostop tehnoloških podjetij do globalnega bazena talentov. Mehanizem vpliva je neposreden: težje bo zaposlovati in zadrževati tuje strokovnjake, kar lahko poveča stroške dela, upočasni inovacije in zmanjša konkurenčnost ameriških tehnoloških podjetij. Posledice za delniške trge so negativne za tehnološki sektor, saj lahko takšne omejitve vplivajo na rast in dobičkonosnost podjetij. Nasdaq 100 je danes padel za 1.39 % na 30726 točk, kar bi lahko deloma odražalo tudi tovrstne skrbi glede delovne sile. Za slovenskega dolgoročnega vlagatelja to pomeni, da so politične odločitve, zlasti tiste, ki vplivajo na globalni pretok talentov, pomembne za oceno dolgoročnega potenciala določenih sektorjev. Omejitve delovne sile lahko vplivajo na inovacijsko sposobnost in rast tehnoloških gigantov, kar je pomemben dejavnik pri naložbenih odločitvah.",
+      "vpliv": [
+        "Omejen dostop tehnoloških podjetij do tujih talentov",
+        "Potencialno povečanje stroškov dela v tehnološkem sektorju",
+        "Negativen vpliv na rast in inovacije tehnoloških podjetij",
+        "Padec tehnoloških delnic (Nasdaq 100 -1.39%)"
+      ],
+      "vir": "Financial Times",
+      "vir_url": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1",
+      "objavljeno": "2026-10-08T19:45:47.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-10-08T11:21:15.667Z",
+    "posodobljenoOb": "2026-10-08T20:46:13.015Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7801.77,
-        "sprememba_pct": -0.22
+        "vrednost": 7765.36,
+        "sprememba_pct": -0.47
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 31160.076,
-        "sprememba_pct": -0.21
+        "vrednost": 30725.809,
+        "sprememba_pct": -1.39
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 24829.5,
-        "sprememba_pct": -1.09
+        "vrednost": 24806.97,
+        "sprememba_pct": -1.18
       },
       {
         "simbol": "^N225",
@@ -124,22 +140,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4140.2,
-        "sprememba_pct": -0.01,
+        "vrednost": 4158.2,
+        "sprememba_pct": 0.42,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 92.8,
-        "sprememba_pct": 5.12,
+        "vrednost": 90.77,
+        "sprememba_pct": 2.82,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 105.46,
-        "sprememba_pct": 5.25,
+        "vrednost": 103.48,
+        "sprememba_pct": 3.27,
         "enota": "USD/sod"
       }
     ],
@@ -147,16 +163,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1181,
-        "sprememba_pct": -0.16
+        "vrednost": 1.1215,
+        "sprememba_pct": 0.14
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 5.277,
-        "sprememba_pct": 0.15,
+        "vrednost": 5.231,
+        "sprememba_pct": -0.87,
         "enota": "%"
       }
     ],
@@ -164,16 +180,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 82347.65,
-        "sprememba_pct": -1.11,
+        "vrednost": 81754.59,
+        "sprememba_pct": -1.83,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.99,
-      "sprememba_pct": 6.03
+      "vrednost": 15.41,
+      "sprememba_pct": 2.19
     }
   }
 }
