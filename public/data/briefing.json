@@ -1,134 +1,134 @@
 {
-  "generiranoOb": "2026-10-09T11:22:04.635Z",
-  "izdaja": "morning",
+  "generiranoOb": "2026-10-09T20:17:04.311Z",
+  "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
   "datum": "2026-10-09",
-  "povzetek": "Jutranja izdaja, 9. oktober 2026: Ameriški delniški trgi so noč zaključili v rdečem, saj je indeks S&P 500 padel za 0,47 % na 7765 točk, tehnološko obarvani Nasdaq 100 pa je zabeležil še večji padec, za 1,39 % na 30726 točk. Medtem so azijski trgi pokazali mešano sliko, z Nikkei 225 skoraj nespremenjenim pri 69031 točkah (-0,02 %), evropski DAX pa je danes zjutraj odprl pozitivno, z rastjo za 1,01 % na 25058 točk. Cene nafte so se znižale, Brent nafta je padla za 1,39 % na 102,83 USD/sod, kar je delno posledica skrbi glede povpraševanja in geopolitičnih tveganj, kot je negotovost glede letov v Savdsko Arabijo. Zlato je medtem pridobilo 1,06 % in se povzpelo na 4201,10 USD/oz, kar kaže na iskanje varnejših naložb. Donosnost 10-letne ameriške državne obveznice se je znižala za 0,87 % na 5,23 %, kar bi lahko nakazovalo na pričakovanja umirjanja inflacije ali povečano povpraševanje po obveznicah. V luči teh premikov in nedavnih opozoril nekaterih analitikov o morebitnih vzporednicah s poznimi 70. leti prejšnjega stoletja, se vlagatelji sprašujejo o vzdržnosti štiriletnega bikovskega trga in ohlajanju povpraševanja po izdelkih, kot je iPhone 18. Vlagatelji bodo ta teden pozorno spremljali objave ključnih makroekonomskih podatkov, predvsem inflacije in morebitnih izjav centralnih bankirjev.",
+  "povzetek": "Evropski trgi so zaključili dan v pozitivnem tonu, pri čemer je nemški indeks DAX pridobil 1.13 % in se ustavil pri 25087 točkah. Tudi ameriški trgi so v začetnih dveh urah trgovanja kazali rast, saj je S&P 500 zrasel za 0.59 % na 7812 točk, tehnološki Nasdaq 100 pa za 0.51 % na 30883 točk. Na surovinskih trgih je zlato zabeležilo pomembno rast za 1.50 % na 4219.30 USD/oz, medtem ko sta ceni nafte WTI in Brent pridobili skromnih 0.19 % oziroma 0.10 %. Donosnost 10-letne ameriške državne obveznice se je zvišala za 0.25 % na 5.24 %, kar kaže na nadaljnje pritiske na obvezniške trge. Bitcoin je nadaljeval z rastjo, pridobil je 0.80 % in dosegel 82340 USD, medtem ko je indeks volatilnosti VIX padel za 4.02 % na 14.79, kar nakazuje zmanjšano negotovost na trgih. Glavne novice dneva so vključevale dogovor predsednika Trumpa z Rusijo o dobavi dizelskega goriva, kar bi lahko vplivalo na energetske trge, ter njegovo ponovno preiskavo guvernerke Feda Lise Cook, kar prinaša negotovost glede neodvisnosti centralne banke. Vlagatelji naj bodo pozorni na prihajajoče poročilo o inflaciji v ZDA, ki bo ključno za smer monetarne politike v prihodnosti.",
   "novice": [
     {
-      "naslov": "Delta Air Lines razmišlja o varnosti letov v Savdsko Arabijo zaradi napadov Hutijev",
-      "sektor": "Geopolitika",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Izvršni direktor družbe Delta Air Lines je izjavil, da bo varnost odločilna pri morebitnem začetku letov v Rijad v Savdski Arabiji. Odločitev je povezana z nedavnimi napadi Hutijev, ki so povzročili zaskrbljenost glede varnosti letalskega prometa v regiji. Delta trenutno pretehta, ali naj nadaljuje z načrtovanim prvencem leta v Rijad. Morebitna prekinitev ali odložitev letov bi lahko vplivala na širše letalske operacije in regionalno povezljivost. To poudarja, kako geopolitična nestabilnost neposredno vpliva na poslovanje mednarodnih podjetij.",
-      "analiza": "Geopolitične napetosti na Bližnjem vzhodu, zlasti napadi Hutijev, imajo neposreden vpliv na globalno trgovino in transport, vključno z letalskim prometom. Odločitev družbe Delta Air Lines glede letov v Savdsko Arabijo je primer, kako se podjetja soočajo z varnostnimi tveganji. To ni le vprašanje varnosti potnikov, temveč tudi ekonomske izvedljivosti in ugleda. V preteklosti so podobni dogodki povzročili preusmeritve letov, višje stroške zavarovanja in zmanjšano povpraševanje po potovanjih v prizadete regije. Za delnice letalskih družb to pomeni povečano volatilnost in negotovost, saj se povečujejo operativna tveganja in stroški. Na cene nafte, kot je Brent nafta, ki je danes padla za 1,39 % na 102,83 USD/sod, lahko takšni dogodki vplivajo v obe smeri – bodisi zaradi motenj v dobavi ali zaradi zmanjšanega povpraševanja zaradi gospodarske negotovosti. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da geopolitična tveganja predstavljajo sistemsko tveganje, ki lahko vpliva na različne sektorje, zato je diverzifikacija portfelja ključna.",
-      "vpliv": [
-        "Povečana operativna tveganja za letalske družbe",
-        "Potencialno zmanjšanje letalskih povezav na Bližnjem vzhodu",
-        "Negativni vpliv na delnice letalskih prevoznikov",
-        "Povečana volatilnost cen nafte"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html",
-      "objavljeno": "2026-10-09T11:12:02.000Z"
-    },
-    {
-      "naslov": "Delta Air Lines znižala napoved za leto 2026 zaradi rasti cen goriva",
+      "naslov": "Trumpov dogovor z Rusijo o dizlu sproža kritike in vpliva na cene goriva.",
       "sektor": "Energetika",
-      "smer": "negativno",
+      "smer": "mešano",
       "intenziteta": 3,
-      "povzetek": "Družba Delta Air Lines je poročala o rezultatih za tretje četrtletje in prvič v dveh letih zgrešila ocene Wall Streeta. Podjetje je znižalo svojo napoved za leto 2026, kar pripisuje predvsem porastu cen goriva. Kljub temu izvršni direktor poudarja, da je povpraševanje po letalskih potovanjih še vedno močno. Rast cen goriva neposredno vpliva na stroške poslovanja letalskih prevoznikov, kar zmanjšuje njihovo dobičkonosnost. Ta novica kaže na občutljivost letalskega sektorja na nihanja cen energentov.",
-      "analiza": "Znižanje napovedi dobička s strani Delta Air Lines zaradi rasti cen goriva poudarja ranljivost letalske industrije na zunanje šoke. Cene nafte, kot sta WTI nafta pri 90,59 USD/sod (-0,98 %) in Brent nafta pri 102,83 USD/sod (-1,39 %), so ključni dejavnik stroškov za letalske družbe. Čeprav so se cene nafte danes znižale, je dolgoročni trend rasti goriva očitno že vplival na poslovanje Delte. To lahko pomeni pritisk na marže in morebitne višje cene vozovnic za potrošnike. V preteklosti so letalske družbe pogosto prenašale višje stroške goriva na potnike, kar pa lahko zmanjša povpraševanje, če je to preveč izrazito. Za delnice letalskih družb to pomeni negativen signal, saj se pričakujejo nižji dobički. Posredno lahko vpliva tudi na potrošniški sektor, saj višje cene potovanj zmanjšujejo razpoložljiv dohodek za druge dobrine in storitve. Slovenski dolgoročni vlagatelj naj bo pozoren na to, kako se podjetja v sektorjih, ki so močno odvisni od surovin, prilagajajo na spremembe cen in ali imajo mehanizme za zaščito pred takšnimi tveganji.",
+      "povzetek": "Ameriški predsednik Trump je napovedal dogovor z Rusijo o dobavi milijonov ton dizelskega goriva, kar naj bi pomagalo znižati visoke cene goriva v ZDA pred vmesnimi volitvami. Ukrajinski predsednik Zelenskij je ta dogovor kritiziral kot 'darilo Putinu', saj bi omogočal Rusiji prodajo naftnih derivatov in s tem podaljšal vojno v Ukrajini. Dogovor prihaja v času, ko so cene goriva v ZDA močno narasle, kar je postalo ključno vprašanje za milijone Američanov. Podrobnosti sporazuma kažejo na poskus Washingtona in Moskve, da se dogovorita le nekaj tednov pred kritičnimi volitvami v ZDA.",
+      "analiza": "Ta dogovor ima večplastne posledice. Na energetskih trgih bi lahko povečana ponudba ruskega dizla teoretično znižala cene goriva v ZDA, kar bi se odrazilo tudi na cenah nafte, kot sta WTI pri 91.66 USD/sod in Brent pri 104.38 USD/sod, čeprav sta danes zabeležili le manjše rasti. Geopolitično pa dogovor kaže na morebitno preoblikovanje mednarodnih zavezništev in trgovinskih poti, kar bi lahko imelo dolgoročne posledice za odnose med ZDA, Evropo in Rusijo. Kritike Zelenskega poudarjajo moralne in politične dileme, povezane s financiranjem Rusije med vojno. Za valute bi takšna poteza lahko povzročila nihanja, saj bi se lahko povečale napetosti med ZDA in EU, kar bi vplivalo na par EUR/USD, ki je danes že oslabil za 0.09 % na 1.1206. V preteklosti so podobni geopolitični dogovori, ki so vplivali na dobavo ključnih surovin, pogosto povzročili kratkoročno stabilizacijo cen, dolgoročno pa so lahko sprožili nove politične in ekonomske izzive. Slovenski dolgoročni vlagatelj naj bo pozoren na dolgoročne geopolitične trende in morebitne spremembe v globalnih dobavnih verigah, ki lahko vplivajo na cene energentov in s tem na inflacijo ter dobičkonosnost podjetij.",
       "vpliv": [
-        "Negativen vpliv na delnice Delta Air Lines in celotnega letalskega sektorja",
-        "Pritisk na marže letalskih družb",
-        "Potencialno višje cene letalskih vozovnic za potrošnike",
-        "Povečana občutljivost letalskega sektorja na cene nafte"
-      ],
-      "vir": "CNBC",
-      "vir_url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-      "objavljeno": "2026-10-09T10:47:40.000Z"
-    },
-    {
-      "naslov": "Podjetje za podatkovne centre, podprto z Nvidio, odpovedalo IPO zaradi skrbi o vrednotenju AI",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Podjetje Firmus, ki se osredotoča na podatkovne centre in ga podpira Nvidia, je odpovedalo svojo začetno javno ponudbo (IPO). Odločitev je bila sprejeta zaradi 'nedavne tržne volatilnosti in prevladujočih tržnih razmer', kar kaže na poglobljene skrbi glede vrednotenja podjetij v sektorju umetne inteligence. To je pomemben signal o morebitnem ohlajanju navdušenja v segmentu AI, ki je bil v zadnjem času gonilna sila rasti tehnoloških delnic. Odpoved IPO-ja kaže na previdnost vlagateljev in morebitno preobremenjenost trga z visokimi vrednotenji.",
-      "analiza": "Odpoved IPO-ja podjetja Firmus, ki je podprto z Nvidio, je pomemben indikator spremenjenega razpoloženja na trgu, zlasti v sektorju umetne inteligence. Nvidia je bila ključni igralec v nedavnem bikovskem trendu, zato je vsaka novica, ki kaže na previdnost v ekosistemu AI, pomembna. Ta dogodek se lahko razume kot znak, da so vlagatelji postali bolj selektivni in previdni pri visokih vrednotenjih, ki so pogosto povezana s podjetji v nastajajočih tehnoloških sektorjih. V preteklosti so obdobja pretiranega navdušenja, kot je bil dot-com balon, pogosto sledila korekcijam, ko so se vrednotenja uskladila z realnostjo. Za delnice v sektorju Tehnologija & AI, kot je Nasdaq 100, ki je danes padel za 1,39 % na 30726 točk, to pomeni povečano tveganje za korekcije, še posebej za podjetja z visokimi vrednotenji in brez dokazanih dobičkov. To lahko vpliva tudi na širše trge, saj se lahko zmanjša apetit po tveganju. Slovenski dolgoročni vlagatelj naj bo pozoren na dolgoročne trende in temeljne kazalnike podjetij, namesto da se zanaša zgolj na kratkoročno tržno navdušenje, še posebej v hitro rastočih, a potencialno precenjenih sektorjih.",
-      "vpliv": [
-        "Negativen signal za vrednotenja v sektorju AI",
-        "Povečana previdnost vlagateljev pri IPO-jih",
-        "Potencialno ohlajanje rasti tehnoloških delnic",
-        "Povečana volatilnost na Nasdaq 100"
+        "Nižje cene dizelskega goriva v ZDA",
+        "Povečane geopolitične napetosti",
+        "Morebiten pritisk na valuto EUR/USD",
+        "Vpliv na delnice energetskega sektorja"
       ],
       "vir": "BBC Business",
-      "vir_url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
-      "objavljeno": "2026-10-09T07:14:30.000Z"
+      "vir_url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-10-09T20:13:23.000Z"
     },
     {
-      "naslov": "Analitiki Wall Streeta vidijo vzporednice s poznimi 70. leti in priporočajo prodajo ameriških delnic",
+      "naslov": "Analitiki opozarjajo na možen dvig donosov ameriških obveznic na 6 %.",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Članek MarketWatch razpravlja o scenariju, po katerem bi donosi ameriških državnih obveznic lahko dosegli 6 %, tudi brez večjih pretresov na trgu. To bi se lahko zgodilo zaradi vztrajne inflacije, ki bi zahtevala višje obrestne mere, ali zaradi povečanega zadolževanja vlade, ki bi povečalo ponudbo obveznic. Trg obveznic bo sicer v ponedeljek zaprt zaradi praznika Columbus Day, medtem ko bo delniški trg deloval normalno. Trenutno je donos 10-letne ameriške državne obveznice pri 5.24 %, kar že kaže na povišane stroške zadolževanja.",
+      "analiza": "Dvig donosov ameriških državnih obveznic na 6 % bi imel pomembne posledice za celotno finančno krajino. Višji donosi obveznic pomenijo višje stroške zadolževanja za podjetja in potrošnike, kar lahko upočasni gospodarsko rast. Za delniške trge bi to pomenilo pritisk na vrednotenja, saj se bodo prihodnji denarni tokovi podjetij diskontirali z višjo obrestno mero, kar bi lahko povzročilo korekcije indeksov, kot sta S&P 500 (trenutno pri 7812) in Nasdaq 100 (pri 30883). Na valutnih trgih bi višji donosi v ZDA lahko okrepili ameriški dolar, kar bi vplivalo na par EUR/USD, ki je danes že rahlo oslabil. V preteklosti so obdobja hitrega dviga donosov obveznic pogosto sovpadala z večjo volatilnostjo na delniških trgih. Vlagatelji morajo spremljati inflacijske podatke in fiskalno politiko ZDA, saj sta to ključna dejavnika za gibanje donosov obveznic. Slovenski dolgoročni vlagatelj naj bo pozoren na morebiten vpliv višjih obrestnih mer na globalno gospodarsko rast in s tem na dobičkonosnost podjetij v svojem portfelju.",
+      "vpliv": [
+        "Pritisk na cene obveznic",
+        "Višji stroški zadolževanja",
+        "Morebitna korekcija delniških trgov",
+        "Krepitev ameriškega dolarja"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval-7d9fac9c?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-09T20:03:00.000Z"
+    },
+    {
+      "naslov": "Trump ponovno sproža preiskavo guvernerke Feda Lise Cook kljub sodni odločbi.",
       "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Eno izmed podjetij na Wall Streetu opozarja na vzporednice med trenutnim tržnim okoljem in poznimi 70. leti prejšnjega stoletja, ter priporoča prodajo ameriških delnic. Medtem ko se rast umetne inteligence pogosto primerja z dot-com obdobjem, kvantitativni analitiki vidijo podobnosti z obdobjem visoke inflacije in gospodarske stagnacije v 70. letih. To opozorilo poudarja, da kljub tehnološkemu napredku obstajajo makroekonomska tveganja, ki bi lahko vplivala na donose delnic. Takšna analiza kaže na morebitno spremembo v tržni strategiji velikih investicijskih bank.",
-      "analiza": "Primerjava trenutnega tržnega okolja s poznimi 70. leti prejšnjega stoletja, ki ga je zaznamovala stagflacija (visoka inflacija in nizka gospodarska rast), je pomembna za razumevanje morebitnih prihodnjih scenarijev. V tistem obdobju so delnice pod pritiskom, obveznice pa so imele težave zaradi erozije kupne moči. Trenutno se donosnost 10-letne ameriške državne obveznice giblje pri 5,23 % (-0,87 %), kar je relativno visoko, a v kontekstu inflacijskih pričakovanj morda ne ponuja zadostne zaščite. Če se inflacija ponovno pospeši, bi to lahko prisililo centralne banke k nadaljnjemu zaostrovanju monetarne politike, kar bi negativno vplivalo na delnice, še posebej na tiste z visokimi vrednotenji. Cena zlata, ki je danes zrasla za 1,06 % na 4201,10 USD/oz, pogosto služi kot varovalo proti inflaciji in negotovosti. Za slovenskega dolgoročnega vlagatelja je ključno razmisliti o diverzifikaciji in zaščiti pred inflacijo, saj lahko dolgotrajno obdobje visoke inflacije bistveno zmanjša realne donose naložb. Pomembno je spremljati makroekonomske podatke in odločitve centralnih bank.",
+      "povzetek": "Ameriški predsednik Donald Trump je napovedal ustanovitev odbora za preiskavo guvernerke Federal Reserve Lise Cook zaradi obtožb o hipotekarni goljufiji. Ta poteza predstavlja ponoven poskus njene odstranitve, kljub junijski odločitvi vrhovnega sodišča, ki je njeno predhodno odpustitev razglasilo za neustavno. Odbor bo sodeloval z uradniki ministrstva za pravosodje, da bi ugotovil, ali obstaja 'razlog' za njeno odstranitev. Zaslišanje, zaprto za javnost, je predvideno za 5. november, Cook pa bo lahko predložila pisno izjavo in bo podvržena zaslišanju.",
+      "analiza": "Preiskava guvernerke Feda Lise Cook s strani predsednika Trumpa ponovno odpira vprašanje neodvisnosti centralne banke, ki je ključna za stabilnost finančnih trgih in zaupanje v monetarno politiko. Politično vmešavanje v delovanje Feda lahko povzroči negotovost glede prihodnje smeri obrestnih mer in kvantitativnega sproščanja/zaostrovanja. To bi lahko vplivalo na donose obveznic, ki so že pod pritiskom, saj je donos 10-letne ameriške državne obveznice danes pri 5.24 %. Povečana negotovost bi lahko povzročila tudi nihanja na delniških trgih, saj vlagatelji cenijo stabilno in predvidljivo monetarno politiko. V preteklosti so poskusi političnega vplivanja na centralne banke pogosto vodili do zmanjšanja zaupanja vlagateljev in povečane volatilnosti. Morebitna oslabitev zaupanja v Fed bi lahko imela negativen vpliv na ameriški dolar in s tem na valutni par EUR/USD, ki je danes pri 1.1206. Slovenski dolgoročni vlagatelj naj spremlja razvoj dogodkov, saj lahko vpliv na neodvisnost Feda dolgoročno vpliva na stabilnost globalnih finančnih trgov in s tem na vrednost naložb.",
       "vpliv": [
-        "Potencialno zmanjšanje apetita po tveganju na delniških trgih",
-        "Povečana previdnost glede inflacijskih tveganj",
-        "Možna preusmeritev kapitala v varnejša sredstva, kot je zlato",
-        "Pritisk na delnice, še posebej tiste z visokimi vrednotenji"
+        "Povečana negotovost glede monetarne politike",
+        "Morebitna oslabitev ameriškega dolarja",
+        "Povečana volatilnost na trgih",
+        "Vpliv na obvezniške donose"
       ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/why-one-wall-street-firm-sees-parallels-to-the-late-1970s-and-recommends-shorting-u-s-stocks-bbd0ebd2?mod=mw_rss_topstories",
-      "objavljeno": "2026-10-09T08:49:00.000Z"
+      "vir": "The Guardian",
+      "vir_url": "https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor",
+      "objavljeno": "2026-10-09T18:05:12.000Z"
     },
     {
-      "naslov": "Štiri leta star bikovski trg lahko še vedno pokaže moč, pravijo analitiki",
-      "sektor": "Finance",
-      "smer": "pozitivno",
-      "intenziteta": 2,
-      "povzetek": "Kljub štiriletnemu trajanju in nekaterim pomislekom, analitiki iz Truist Advisory Services menijo, da lahko trenutni bikovski trg še vedno nadaljuje z rastjo. Zgodovina kaže, da bikovski trgi, ki preživijo četrto leto, redko popustijo in pogosto nadaljujejo z vzponom. Ta optimistična perspektiva ponuja protiutež pesimističnim napovedim in poudarja dolgoročno vzdržnost trga. To nakazuje, da je kljub kratkoročnim nihanjem in makroekonomskim izzivom, temeljno razpoloženje na trgu še vedno pozitivno.",
-      "analiza": "Analiza, ki kaže na vzdržnost štiriletnega bikovskega trga, ponuja pomemben kontekst za vlagatelje. V nasprotju z opozorili o morebitnih korekcijah, ta perspektiva poudarja, da dolgoročni trendi rasti pogosto presegajo kratkoročne pomisleke. Indeksi, kot je S&P 500, ki je danes pri 7765 točkah, so v zadnjih letih dosegli pomembne mejnike. Zgodovinski podatki kažejo, da so daljši bikovski trgi pogosto posledica strukturnih sprememb in inovacij, kot je trenutna rast umetne inteligence. Vendar pa je pomembno upoštevati, da pretekli donosi niso zagotovilo za prihodnje. Optimizem lahko vpliva na zaupanje potrošnikov in podjetij, kar spodbuja naložbe in gospodarsko rast. Za obveznice to pomeni, da lahko vlagatelji še vedno iščejo donos v delnicah, kar bi lahko zmanjšalo povpraševanje po varnih pristaniščih, če se zaupanje ohrani. Slovenski dolgoročni vlagatelj naj se osredotoči na robustna podjetja z dobrimi temelji, ki so sposobna rasti tudi v spreminjajočem se gospodarskem okolju, ne glede na kratkoročna nihanja tržnega razpoloženja.",
-      "vpliv": [
-        "Ohranjanje pozitivnega tržnega razpoloženja",
-        "Potencialna nadaljnja rast delniških trgov",
-        "Spodbujanje naložb in gospodarske rasti",
-        "Zmanjšanje povpraševanja po varnih naložbah v primeru optimizma"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
-      "objavljeno": "2026-10-09T11:02:00.000Z"
-    },
-    {
-      "naslov": "Povpraševanje po iPhone 18 se morda ohlaja, Apple zmanjšuje naročila komponent",
-      "sektor": "Potrošniki",
+      "naslov": "Mednarodna podpora Mednarodnemu kazenskemu sodišču po ameriških sankcijah.",
+      "sektor": "Geopolitika",
       "smer": "negativno",
       "intenziteta": 2,
-      "povzetek": "Povpraševanje po iPhone 18 se očitno ohlaja, saj Apple po poročanju Nikkei Asia zmanjšuje naročila komponent. Naročila komponent za iPhone 18 Pro in iPhone 18 Pro Max so se v oktobru zmanjšala za približno 15 %. To nakazuje na morebitno zmanjšanje potrošniške porabe ali zasičenost trga z najnovejšimi modeli pametnih telefonov. Zmanjšanje naročil komponent lahko vpliva na dobavitelje in celotno dobavno verigo v tehnološkem sektorju. To je pomemben signal za celotno industrijo pametnih telefonov.",
-      "analiza": "Novica o zmanjšanju naročil komponent za iPhone 18 s strani Appla je ključni indikator morebitnega ohlajanja potrošniškega povpraševanja v segmentu visoke tehnologije. Apple je eden največjih svetovnih proizvajalcev in njegov vpliv na globalno dobavno verigo je ogromen. Zmanjšanje naročil za 15 % za modele Pro in Pro Max v oktobru lahko pomeni, da so pričakovanja glede prodaje nižja od prvotnih. To lahko vpliva na delnice Appla in njegovih dobaviteljev, ki so pogosto odvisni od obsega naročil. V preteklosti so podobni signali pogosto napovedovali splošno upočasnitev v tehnološkem sektorju ali celo širše gospodarstvo, saj je potrošniška poraba ključni motor rasti. Na Nasdaq 100, ki je danes padel za 1,39 % na 30726 točk, lahko takšne novice povzročijo dodaten pritisk. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati trende v potrošniški porabi in tehnoloških inovacijah, saj so to sektorji, ki lahko prinašajo visoke donose, a so tudi podvrženi hitrim spremembam v povpraševanju in konkurenci.",
+      "povzetek": "Več evropskih držav, skupaj s Kanado, Japonsko in Združenimi narodi, je izrazilo podporo Mednarodnemu kazenskemu sodišču (ICC) in obsodilo ameriške sankcije proti temu sodnemu organu. Pozvali so k 'obrambi' in 'zaščiti' ICC-ja po odločitvi Washingtona, da sankcionira sodno telo. Ta poteza sledi ameriškim sankcijam, ki so bile napovedane z namenom 'obrambe suverenosti', in se je zgodila le nekaj ur po tem, ko je nekdanji sodnik ICC prejel Nobelovo nagrado. Predsednik ICC je ameriške sankcije označil za 'napad na suverene države'.",
+      "analiza": "Mednarodna podpora ICC in obsodba ameriških sankcij poudarjajo naraščajoče napetosti v mednarodnih odnosih in razhajanja med ZDA in njenimi tradicionalnimi zavezniki glede vloge mednarodnega prava. Takšni dogodki lahko vplivajo na globalno trgovino in investicije, saj povečujejo geopolitično negotovost. Čeprav neposreden vpliv na borzne indekse, kot sta DAX (25087) ali S&P 500 (7812), morda ni takojšen, lahko dolgoročno poslabšanje mednarodnih odnosov vpliva na stabilnost globalnih dobavnih verig in mednarodnih sporazumov. Na valutnih trgih bi lahko povečane napetosti med ZDA in Evropo vplivale na par EUR/USD, ki je danes že zabeležil manjši padec za 0.09 % na 1.1206. V preteklosti so diplomatski spori in sankcije pogosto povzročili negotovost na trgih in preusmeritev naložb. Slovenski dolgoročni vlagatelj naj spremlja razvoj mednarodnih odnosov, saj lahko geopolitična tveganja vplivajo na globalno gospodarsko stabilnost in s tem na donosnost naložb v mednarodna podjetja.",
       "vpliv": [
-        "Negativen vpliv na delnice Appla in njegovih dobaviteljev",
-        "Zmanjšanje pričakovanj glede prodaje pametnih telefonov",
-        "Potencialno ohlajanje potrošniške porabe v tehnološkem sektorju",
-        "Povečan pritisk na tehnološke indekse, kot je Nasdaq 100"
+        "Povečane geopolitične napetosti",
+        "Morebiten vpliv na trgovinske odnose",
+        "Negotovost na valutnih trgih",
+        "Vpliv na mednarodno sodelovanje"
+      ],
+      "vir": "Al Jazeera",
+      "vir_url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
+      "objavljeno": "2026-10-09T19:32:13.000Z"
+    },
+    {
+      "naslov": "Microsoft se približuje mejniku 4 bilijonov dolarjev tržne kapitalizacije.",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Microsoft se približuje pomembnemu mejniku, saj je blizu ponovnega doseganja tržne kapitalizacije v višini 4 bilijonov dolarjev. Ta dosežek bi utrdil njegovo oživitev in ga postavil v ospredje tehnoloških velikanov. Podjetje je na poti k novim rekordom, kar odraža močno rast in zaupanje vlagateljev v njegovo strategijo in izdelke. Ta rast je del širšega trenda, kjer tehnološka podjetja, še posebej tista, ki so močno vključena v umetno inteligenco, doživljajo izjemno rast.",
+      "analiza": "Doseganje 4 bilijonov dolarjev tržne kapitalizacije za Microsoft ni le simboličen mejnik, temveč odraz njegove močne pozicije na trgu in uspešne strategije, še posebej na področju umetne inteligence in storitev v oblaku. Rast Microsofta pomembno prispeva k rasti širših borznih indeksov, kot sta S&P 500 (danes +0.59 % na 7812) in Nasdaq 100 (danes +0.51 % na 30883), saj je eno izmed najtežjih podjetij v teh indeksih. Ta trend kaže na nadaljnjo koncentracijo tržne moči v rokah nekaj tehnoloških velikanov. Vlagatelji so optimistični glede prihodnjih dobičkov, ki jih poganjajo inovacije in širitev na nova področja. V preteklosti so podjetja, ki so dosegla takšne mejnike, pogosto kazala dolgoročno stabilnost in sposobnost prilagajanja tržnim spremembam. Slovenski dolgoročni vlagatelj naj bo pozoren na dolgoročne trende v tehnološkem sektorju, še posebej na področju umetne inteligence, saj imajo podjetja, kot je Microsoft, velik vpliv na celotno gospodarstvo in borzne trge.",
+      "vpliv": [
+        "Rast delnic Microsofta",
+        "Podpora tehnološkim indeksom",
+        "Privlačnost za vlagatelje v tehnološki sektor",
+        "Poudarek na umetni inteligenci"
       ],
       "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
-      "objavljeno": "2026-10-09T10:04:00.000Z"
+      "vir_url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-09T18:06:00.000Z"
+    },
+    {
+      "naslov": "Telekomunikacijske delnice padajo zaradi naraščajoče grožnje SpaceX.",
+      "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Delnice telekomunikacijskih velikanov, kot so AT&T, Verizon in T-Mobile, so zabeležile najslabše dnevne padce v več kot desetletju. Wall Street ocenjuje naraščajočo grožnjo, ki jo predstavlja SpaceX s svojo satelitsko internetno storitvijo Starlink. Konkurenca s strani SpaceX, ki ponuja internetno povezljivost prek satelitov, se kaže kot resen izziv za tradicionalne ponudnike mobilnih in fiksnih telekomunikacijskih storitev. To kaže na hitre spremembe v sektorju in potrebo po prilagajanju obstoječih igralcev.",
+      "analiza": "Padec delnic tradicionalnih telekomunikacijskih podjetij, kot so AT&T, Verizon in T-Mobile, odraža zaskrbljenost vlagateljev glede konkurenčnega pritiska, ki ga prinašajo inovativni akterji, kot je SpaceX. Storitev Starlink, ki ponuja širokopasovni internet prek satelitov, lahko odvzame tržni delež obstoječim ponudnikom, še posebej na ruralnih območjih. To poudarja, kako hitro se lahko tehnološke inovacije prelijejo v tržno konkurenco in vplivajo na dobičkonosnost uveljavljenih podjetij. Padec delnic v tem sektorju lahko vpliva na širše indekse, čeprav je danes S&P 500 zrasel za 0.59 %. V preteklosti so se podobni disruptivni vplivi pojavljali v različnih sektorjih, od maloprodaje do medijev, kar je vedno zahtevalo hitro prilagajanje in inovacije s strani obstoječih podjetij. Slovenski dolgoročni vlagatelj naj bo pozoren na podjetja, ki so izpostavljena tehnološkim motnjam, in oceni njihovo sposobnost inoviranja in prilagajanja novim tržnim razmeram.",
+      "vpliv": [
+        "Padec delnic telekomunikacijskih podjetij",
+        "Povečana konkurenca v sektorju",
+        "Preusmeritev naložb v inovativna podjetja",
+        "Vpliv na dobičkonosnost tradicionalnih ponudnikov"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-09T18:16:00.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-10-09T11:18:58.194Z",
+    "posodobljenoOb": "2026-10-09T20:15:54.493Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7765.36,
-        "sprememba_pct": -0.47
+        "vrednost": 7811.54,
+        "sprememba_pct": 0.59
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 30725.809,
-        "sprememba_pct": -1.39
+        "vrednost": 30883.148,
+        "sprememba_pct": 0.51
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 25058.28,
-        "sprememba_pct": 1.01
+        "vrednost": 25087.27,
+        "sprememba_pct": 1.13
       },
       {
         "simbol": "^N225",
@@ -141,22 +141,22 @@
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4201.1,
-        "sprememba_pct": 1.06,
+        "vrednost": 4219.3,
+        "sprememba_pct": 1.5,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 90.59,
-        "sprememba_pct": -0.98,
+        "vrednost": 91.66,
+        "sprememba_pct": 0.19,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 102.83,
-        "sprememba_pct": -1.39,
+        "vrednost": 104.38,
+        "sprememba_pct": 0.1,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1212,
-        "sprememba_pct": -0.04
+        "vrednost": 1.1206,
+        "sprememba_pct": -0.09
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 5.231,
-        "sprememba_pct": -0.87,
+        "vrednost": 5.244,
+        "sprememba_pct": 0.25,
         "enota": "%"
       }
     ],
@@ -181,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 82460.24,
-        "sprememba_pct": 0.94,
+        "vrednost": 82340.44,
+        "sprememba_pct": 0.8,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.24,
-      "sprememba_pct": -1.1
+      "vrednost": 14.79,
+      "sprememba_pct": -4.02
     }
   }
 }
