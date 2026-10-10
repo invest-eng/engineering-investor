@@ -1,10 +1,8 @@
 name: Afternoon Market Briefing
 
 on:
-  schedule:
-    # 17:30 SLO = 15:30 UTC — evropski trgi ravno zaprli, ZDA 2h odprta
-    - cron: '30 15 * * *'   # 15:30 UTC = 17:30 SLO (glavni)
-    - cron: '00 16 * * *'   # 16:00 UTC = 18:00 SLO (rezerva)
+  # Načrtovani zagoni so izklopljeni 10. 10. 2026: stara stran se ne razvija več (ARHIV.md).
+  # Za ponoven vklop vrni razdelek schedule iz zgodovine te datoteke.
   workflow_dispatch:
     inputs:
       force:

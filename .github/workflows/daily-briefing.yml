@@ -1,14 +1,8 @@
 name: Daily Market Briefing
 
 on:
-  schedule:
-    # GitHub Actions cron is best-effort — schedules during high-load times
-    # (06–10 UTC) often delay 30 min to several hours. We run multiple cron
-    # times in the morning; the script skips generation if today's briefing
-    # already exists, so only the first successful run actually does work.
-    - cron: '15 4 * * *'   # 04:15 UTC = ~06:15 SLO (less congested)
-    - cron: '45 5 * * *'   # 05:45 UTC backup
-    - cron: '30 8 * * *'   # 08:30 UTC safety net (always finishes by ~10 SLO)
+  # Načrtovani zagoni so izklopljeni 10. 10. 2026: stara stran se ne razvija več (ARHIV.md).
+  # Za ponoven vklop vrni razdelek schedule iz zgodovine te datoteke.
   workflow_dispatch:
     inputs:
       force:
