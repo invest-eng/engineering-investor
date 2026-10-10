@@ -29,10 +29,27 @@ nakup sam še ne.
 - Domača stran, seznam analiz, koledar in skupne komponente: nova stran ima novejše različice.
 - Stari članki v `src/content/analize/` ostanejo kot zapis, na novo stran se ne prenašajo.
 
+## Stran ni več objavljena, teče samo lokalno
+
+Avtor, 10. 10. 2026: stran naj ostane za ogled na računalniku, na internetu pa naj ne deluje več.
+Na javnem naslovu (invest-eng.github.io/engineering-investor) je zato samo obvestilo iz mape `arhiv-obvestilo/`,
+ki ga objavi `.github/workflows/deploy.yml`. Za ponovno objavo cele strani se vrne prejšnja različica te datoteke.
+
+Lokalni zagon v mapi repozitorija:
+
+```
+npm install        (samo prvič)
+npm run dev
+```
+
+Nato odpri naslov, ki ga izpiše terminal, s končnico `/engineering-investor/` (privzeto `http://localhost:4321/engineering-investor/`).
+Prijava, sledilnik in premium potrebujejo datoteko `.env` s ključema Supabase (`.env.example` je predloga).
+
 ## Roboti
 
-Načrtovani zagoni so 10. 10. 2026 izklopljeni (`daily-briefing.yml`, `afternoon-briefing.yml`, `market-data.yml`).
-Ročni zagon v zavihku Actions še deluje. Za ponoven vklop se v datoteko vrne razdelek `schedule`.
+Štirje poteki (`daily-briefing.yml`, `afternoon-briefing.yml`, `market-data.yml`, `premium-briefing.yml`) so 10. 10. 2026
+odstranjeni iz glavne veje, ker je vsak ob zagonu znova objavil celo stran. Ostanejo v zgodovini repozitorija
+(zadnjič v zapisu 840772d) in v veji `arhiv-2026-10-10`. Programi, ki so jih poganjali, so še v mapi `scripts/`.
 
 ## Na kaj paziti
 
