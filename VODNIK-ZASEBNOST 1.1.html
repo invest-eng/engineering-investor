@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html lang="sl"><head>
+<meta charset="UTF-8">
+<title>Vodnik za zasebnost — Davčni tracker</title>
+<style>
+  @media print {
+    #edit-toolbar { display: none !important; }
+  }
+  @page {
+    size: A4;
+    margin: 18mm 16mm 18mm 16mm;
+    @bottom-right {
+      content: counter(page);
+      font-family: Georgia, serif;
+      font-size: 10pt;
+      color: #888;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+    color: #1a1f2e;
+    line-height: 1.6;
+    font-size: 10.5pt;
+  }
+  h1, h2, h3, h4 {
+    font-family: Georgia, 'Times New Roman', serif;
+    color: #0a1628;
+    line-height: 1.25;
+    margin-top: 1.6em;
+    margin-bottom: 0.4em;
+  }
+  h1 { font-size: 26pt; letter-spacing: -0.5px; }
+  h2 {
+    font-size: 17pt;
+    border-bottom: 2px solid #1e4d8b;
+    padding-bottom: 6px;
+    page-break-before: always;
+    margin-top: 0;
+  }
+  h3 { font-size: 12.5pt; color: #1a3a5c; }
+  h4 { font-size: 11pt; color: #2a4a6c; margin-top: 1em; }
+  p { margin: 0.4em 0 0.7em 0; }
+  a { color: #1e4d8b; text-decoration: none; }
+  code {
+    font-family: 'Consolas', 'Courier New', monospace;
+    font-size: 9.5pt;
+    background: #f0f4fb;
+    padding: 1px 5px;
+    border-radius: 3px;
+    color: #1a3a7c;
+  }
+  pre {
+    background: #f0f4fb;
+    border-left: 3px solid #1e4d8b;
+    padding: 10px 14px;
+    overflow-x: auto;
+    border-radius: 0 4px 4px 0;
+    font-family: 'Consolas', 'Courier New', monospace;
+    font-size: 9pt;
+    line-height: 1.6;
+    page-break-inside: avoid;
+    color: #1a2a4a;
+  }
+  pre code { background: none; padding: 0; color: inherit; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    font-size: 9.5pt;
+    page-break-inside: avoid;
+  }
+  th {
+    background: #0a1628;
+    color: #fff;
+    text-align: left;
+    padding: 8px 10px;
+    font-weight: 600;
+  }
+  td {
+    border-bottom: 1px solid #e4e1d6;
+    padding: 7px 10px;
+    vertical-align: top;
+  }
+  tr:nth-child(even) td { background: #f6f8fb; }
+  ul, ol { margin: 0.4em 0 0.7em 0; padding-left: 1.4em; }
+  li { margin-bottom: 0.3em; }
+  .cover {
+    page-break-after: always;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 40px;
+    background: linear-gradient(135deg, #0a1628 0%, #0d2a52 100%);
+    color: #fff;
+    margin: -18mm -16mm;
+    height: calc(297mm);
+    position: relative;
+  }
+  .cover h1 { color: #fff; font-size: 36pt; margin: 0; letter-spacing: -1px; }
+  .cover .subtitle { color: #6fa3d8; font-size: 14pt; font-family: Georgia, serif; margin-top: 10px; font-style: italic; }
+  .cover .meta { margin-top: 50px; color: #9ab8d8; font-size: 11pt; line-height: 2; }
+  .cover .accent-bar { width: 60px; height: 3px; background: #6fa3d8; margin: 24px auto; }
+  .cover .shield { margin: 0 auto 20px; }
+  .cover .label { font-size: 10pt; color: #6fa3d8; letter-spacing: 0.35em; text-transform: uppercase; margin-bottom: 16px; }
+  .cover .footer-note { position: absolute; bottom: 36px; left: 0; right: 0; font-size: 9pt; color: #5a7a9a; }
+  .toc { page-break-after: always; }
+  .toc h2 { page-break-before: avoid; }
+  .toc ol { list-style: none; padding: 0; counter-reset: toc; }
+  .toc li {
+    counter-increment: toc;
+    padding: 8px 0;
+    border-bottom: 1px dotted #c4c0b0;
+    display: flex;
+    align-items: baseline;
+  }
+  .toc li::before {
+    content: counter(toc) ".";
+    color: #1e4d8b;
+    font-weight: 700;
+    font-family: Georgia, serif;
+    margin-right: 10px;
+    min-width: 24px;
+  }
+  .toc li .title { flex: 1; font-size: 11pt; }
+  .toc li .page { color: #999; font-size: 9.5pt; }
+  .lead {
+    font-size: 11.5pt;
+    color: #3a4a5a;
+    font-family: Georgia, serif;
+    line-height: 1.6;
+    margin-bottom: 1.2em;
+  }
+  .callout {
+    background: #f0f6fb;
+    border-left: 3px solid #1e4d8b;
+    padding: 10px 14px;
+    margin: 1em 0;
+    border-radius: 0 4px 4px 0;
+    page-break-inside: avoid;
+  }
+  .callout.warn { background: #fcf2e8; border-left-color: #c8651a; }
+  .callout.tip { background: #f0f6f0; border-left-color: #3a7a3e; }
+  .callout.danger { background: #fdf0f0; border-left-color: #a82020; }
+  .callout-title {
+    font-weight: 700;
+    font-size: 9pt;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    margin-bottom: 5px;
+    color: #1e4d8b;
+  }
+  .callout.warn .callout-title { color: #c8651a; }
+  .callout.tip .callout-title { color: #3a7a3e; }
+  .callout.danger .callout-title { color: #a82020; }
+  .section-num {
+    display: inline-block;
+    background: #1e4d8b;
+    color: #fff;
+    font-family: Georgia, serif;
+    font-weight: 700;
+    width: 30px; height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50%;
+    margin-right: 12px;
+    font-size: 13pt;
+    vertical-align: middle;
+  }
+  h2 .section-num { vertical-align: -5px; }
+  .kbd {
+    font-family: 'Consolas', monospace;
+    background: #f8f8f8;
+    border: 1px solid #bbb;
+    border-bottom-width: 2px;
+    border-radius: 3px;
+    padding: 1px 7px;
+    font-size: 9pt;
+    color: #222;
+  }
+  .step {
+    display: flex;
+    gap: 14px;
+    margin: 0.8em 0;
+    page-break-inside: avoid;
+    align-items: flex-start;
+  }
+  .step-num {
+    flex-shrink: 0;
+    width: 26px; height: 26px;
+    background: #1e4d8b;
+    color: #fff;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 10pt; font-weight: 700;
+    font-family: Georgia, serif;
+    margin-top: 1px;
+  }
+  .step-content { flex: 1; }
+  .step-content strong { display: block; margin-bottom: 2px; }
+  .browser-section {
+    border: 1px solid #d8e4f0;
+    border-radius: 6px;
+    margin: 1.2em 0;
+    page-break-inside: avoid;
+    overflow: hidden;
+  }
+  .browser-header {
+    background: #1e4d8b;
+    color: #fff;
+    padding: 8px 14px;
+    font-weight: 600;
+    font-size: 10pt;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .browser-body { padding: 12px 14px; }
+  .network-row {
+    background: #f8fafc;
+    border: 1px solid #e0e8f0;
+    border-radius: 4px;
+    padding: 8px 12px;
+    margin: 6px 0;
+    font-family: 'Consolas', monospace;
+    font-size: 9pt;
+    color: #1a3a5a;
+  }
+  .network-row.bad { background: #fff0f0; border-color: #f0c0c0; color: #8a2020; }
+  .network-row.good { background: #f0faf0; border-color: #c0e0c0; color: #1a5a1a; }
+  .badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 8.5pt;
+    font-weight: 600;
+  }
+  .badge-green { background: #d4f0d8; color: #1a5a1a; }
+  .badge-red { background: #fdd; color: #8a2020; }
+  .badge-blue { background: #d4e8fb; color: #1a3a7c; }
+  hr { border: none; border-top: 1px solid #d0d8e8; margin: 1.5em 0; }
+  .diagram {
+    margin: 1.2em 0;
+    padding: 14px;
+    background: #f6f9fc;
+    border: 1px solid #d8e4f0;
+    border-radius: 6px;
+    text-align: center;
+    page-break-inside: avoid;
+  }
+  .diagram-caption { font-size: 9pt; color: #6a7a8a; margin-top: 8px; font-style: italic; }
+  .page-break { page-break-before: always; }
+</style>
+</head>
+<body>
+
+<!-- COVER -->
+<section class="cover">
+  <div class="label">Zasebnost in varnost</div>
+  <div class="shield">
+    <svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M36 6 L62 18 L62 36 C62 52 50 64 36 68 C22 64 10 52 10 36 L10 18 Z" fill="none" stroke="#6fa3d8" stroke-width="2.5"></path>
+      <path d="M26 36 L33 43 L47 29" stroke="#6fa3d8" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+    </svg>
+  </div>
+  <h1>Vodnik za zasebnost</h1>
+  <div class="accent-bar"></div>
+  <div class="subtitle">Kako preveriti, da so tvoji davčni podatki<br>shranjeni izključno v tvojem brskalniku</div>
+  <div class="meta">
+    Davčni tracker · Engineering Investor<br>
+    Maj 2026 · Verzija 1.0
+  </div>
+  <div class="footer-note">engineeringinvestor.si/davek</div>
+</section>
+
+<!-- TOC -->
+<section class="toc">
+  <h2 style="page-break-before: avoid; border-color: #1e4d8b;">Kazalo</h2>
+  <p class="lead">Ta vodnik ti po korakih razloži, kako deluje lokalno shranjevanje in ti da orodja, da to preveriš sam. Nobeno zaupanje ni potrebno na besedo.</p>
+  <ol>
+    <li><span class="title">Zakaj je to pomembno</span><span class="page"></span></li>
+    <li><span class="title">Kaj je localStorage in kako deluje</span><span class="page"></span></li>
+    <li><span class="title">Preverjanje v Google Chrome</span><span class="page"></span></li>
+    <li><span class="title">Preverjanje v Mozilla Firefox</span><span class="page"></span></li>
+    <li><span class="title">Preverjanje v Microsoft Edge</span><span class="page"></span></li>
+    <li><span class="title">Preverjanje v Apple Safari</span><span class="page"></span></li>
+    <li><span class="title">Omrežni zavihek: dokaz da ni zunanjih zahtevkov</span><span class="page"></span></li>
+    <li><span class="title">Preverjanje s pomočjo umetne inteligence</span><span class="page"></span></li>
+    <li><span class="title">Kaj narediti z izvozom podatkov</span><span class="page"></span></li>
+    <li><span class="title">Pogosta vprašanja</span><span class="page"></span></li>
+  </ol>
+</section>
+
+<!-- 1 -->
+<h2><span class="section-num">1</span>Zakaj je to pomembno</h2>
+
+<p class="lead">Davčni podatki so med najobčutljivejšimi osebnimi informacijami. Vsebujejo podatke o tvojem premoženju, transakcijah, dobičkih in izgubah. Vsako orodje, ki te podatke pošilja na strežnik, ustvarja tveganje.</p>
+
+<p>Davčni tracker na Engineering Investor je zasnovan z enim temeljnim načelom: <strong>nobeden od tvojih podatkov nikoli ne zapusti tvojega brskalnika.</strong> Ni registracije, ni oblačne sinhronizacije, ni analitike transakcij.</p>
+
+<div class="callout danger">
+  <div class="callout-title">Zakaj ne zaupati na besedo</div>
+  Večina spletnih orodij trdi, da so varni. Preden zaupamo, preverimo. Ta vodnik ti da konkretna orodja za neodvisno preverjanje. Vsak korak je opisan tako natančno, da ga lahko naredi brez tehničnega znanja.
+</div>
+
+<h3>Kaj se dejansko shrani in kje</h3>
+
+<table>
+  <thead>
+    <tr><th>Podatek</th><th>Kje je shranjen</th><th>Kdo ima dostop</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Tvoje transakcije (nakupi, prodaje)</td><td>localStorage v tvojem brskalniku</td><td>Samo ti, na tej napravi</td></tr>
+    <tr><td>FIFO izračuni</td><td>Izračunano v živo v brskalniku</td><td>Nobeden, ni shranjeno</td></tr>
+    <tr><td>Profil za eDavki (davčna št., naslov)</td><td>localStorage v tvojem brskalniku</td><td>Samo ti, na tej napravi</td></tr>
+    <tr><td>Izvožene datoteke (Excel, XML)</td><td>Tvoj lokalni disk</td><td>Samo ti</td></tr>
+    <tr><td>Tečaji EUR (ki jih vnesesh)</td><td>localStorage v tvojem brskalniku</td><td>Samo ti, na tej napravi</td></tr>
+  </tbody>
+</table>
+
+<div class="callout tip">
+  <div class="callout-title">Ključna posledica</div>
+  Ker so podatki shranjeni lokalno, <strong>ne delujejo med napravami</strong>. Če odpreš stran na drugem računalniku, bodo podatki prazni. To je namerno in je dokaz zasebnosti.
+</div>
+
+<!-- 2 -->
+<h2><span class="section-num">2</span>Kaj je localStorage in kako deluje</h2>
+
+<p class="lead">localStorage je del vsakega modernega brskalnika. Je majhna podatkovna baza, ki jo spletna stran lahko used za shranjevanje informacij direktno na tvoji napravi, brez posrednika.</p>
+
+<div class="diagram">
+  <svg viewBox="0 0 640 160" xmlns="http://www.w3.org/2000/svg" style="max-width:100%">
+    <!-- Browser box -->
+    <rect x="10" y="30" width="200" height="100" rx="8" fill="#f0f6fb" stroke="#1e4d8b" stroke-width="1.5"></rect>
+    <text x="110" y="22" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#1a3a5c">Tvoj brskalnik</text>
+    <rect x="25" y="50" width="170" height="35" rx="4" fill="#fff" stroke="#9ab8d8" stroke-width="1"></rect>
+    <text x="110" y="62" text-anchor="middle" font-size="9" fill="#444">Davčni tracker</text>
+    <text x="110" y="77" text-anchor="middle" font-size="8" fill="#888">(JavaScript koda)</text>
+    <rect x="25" y="95" width="170" height="28" rx="4" fill="#d4f0d8" stroke="#3a7a3e" stroke-width="1"></rect>
+    <text x="110" y="113" text-anchor="middle" font-size="9" fill="#1a5a1a">localStorage: ei-tax-v1</text>
+    <!-- Arrow between JS and localStorage -->
+    <line x1="110" y1="85" x2="110" y2="95" stroke="#1e4d8b" stroke-width="1.5" marker-end="url(#arr)"></line>
+    <!-- Internet cloud -->
+    <ellipse cx="440" cy="80" rx="80" ry="45" fill="#f0f0f0" stroke="#bbb" stroke-width="1.5"></ellipse>
+    <text x="440" y="75" text-anchor="middle" font-size="11" fill="#888">Internet /</text>
+    <text x="440" y="92" text-anchor="middle" font-size="11" fill="#888">Strežnik</text>
+    <!-- X between browser and internet -->
+    <line x1="215" y1="80" x2="345" y2="80" stroke="#ddd" stroke-width="1.5" stroke-dasharray="4 3"></line>
+    <circle cx="280" cy="80" r="14" fill="#fdd" stroke="#e44" stroke-width="1.5"></circle>
+    <line x1="273" y1="73" x2="287" y2="87" stroke="#c00" stroke-width="2"></line>
+    <line x1="287" y1="73" x2="273" y2="87" stroke="#c00" stroke-width="2"></line>
+    <text x="280" y="110" text-anchor="middle" font-size="8.5" fill="#a00">Nobene povezave</text>
+    <defs>
+      <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+        <path d="M0,0 L10,5 L0,10 Z" fill="#1e4d8b"></path>
+      </marker>
+    </defs>
+  </svg>
+  <div class="diagram-caption">Podatki ostanejo v brskalniku. Med brskalnikom in strežnikom ni prenosa tvojih podatkov.</div>
+</div>
+
+<h3>Tehnična razlaga</h3>
+<p>localStorage je standard vgrajen v vsak brskalnik (Chrome, Firefox, Edge, Safari). Vsaka domena ima svojo izolirano shrambo, ki je dostopna samo kodi s te domene. Ko zapreš brskalnik, podatki ostanejo. Ko izbrišeš podatke brskalnika ("Clear browsing data"), se izbrišejo.</p>
+
+<p>Ključ, pod katerim so shranjeni tvoji podatki, je <code>ei-tax-v1</code>. Vrednost je JSON niz s tvojimi transakcijami in profilom.</p>
+
+<div class="callout">
+  <div class="callout-title">Analogija</div>
+  localStorage je kot beležnica v predalu tvojega pisalne mize. Spletna stran jo lahko bere in piše. Nihče drug nima ključa do tvojega predala.
+</div>
+
+<!-- 3 -->
+<h2><span class="section-num">3</span>Preverjanje v Google Chrome</h2>
+
+<p class="lead">Chrome je najpogosteje gebruikt brskalnik in ima odlična razvijalska orodja. Postopek traja manj kot dve minuti.</p>
+
+<div class="browser-section">
+  <div class="browser-header">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="4"></circle><line x1="12" y1="2" x2="12" y2="8"></line><line x1="12" y1="16" x2="12" y2="22"></line></svg>
+    Google Chrome
+  </div>
+  <div class="browser-body">
+
+    <div class="step">
+      <div class="step-num">1</div>
+      <div class="step-content">
+        <strong>Odpri Davčni tracker</strong>
+        Pojdi na <code>engineeringinvestor.si/davek</code> in dodaj vsaj eno testno transakcijo.
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">2</div>
+      <div class="step-content">
+        <strong>Odpri razvijalska orodja</strong>
+        Pritisni <span class="kbd">F12</span> ali <span class="kbd">Ctrl</span> + <span class="kbd">Shift</span> + <span class="kbd">I</span>. Na dnu ali na desni strani ekrana se odpre siva plošča.
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">3</div>
+      <div class="step-content">
+        <strong>Klikni zavihek "Application"</strong>
+        V zgornji vrstici razvijalskih orodij poišči zavihek z napisom <strong>Application</strong>. Morda je skrit, klikni na "<strong>&gt;&gt;</strong>" če ga ne vidiš.
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">4</div>
+      <div class="step-content">
+        <strong>Razširi "Local Storage"</strong>
+        V levem meniju poišči razdelek <strong>Storage</strong> in klikni trikotnik poleg <strong>Local Storage</strong>. Pojavi se podmeni.
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">5</div>
+      <div class="step-content">
+        <strong>Klikni na domeno</strong>
+        Pod "Local Storage" se pojavi vnos <code>https://engineeringinvestor.si</code>. Klikni nanj.
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">6</div>
+      <div class="step-content">
+        <strong>Poišchi kljuc ei-tax-v1</strong>
+        V desnem delu se prikaže tabela z dvema stolpcema: "Key" in "Value". Poišchi vrstico kjer je v stolpcu "Key" napisano <code>ei-tax-v1</code>. Klikni nanjo.
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">7</div>
+      <div class="step-content">
+        <strong>Preveri vsebino</strong>
+        Na dnu se prikaže JSON vsebina. Videti mora biti kaj takega:
+        <pre>{"trades":[{"id":"abc123","ticker":"AAPL","type":"buy",...}],"profile":{"taxNumber":"","name":"",...]}</pre>
+        Vse tvoje transakcije so tukaj, vidne, v brskalniku. Niso nekje na strežniku.
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class="callout tip">
+  <div class="callout-title">Preizkus v realnem casu</div>
+  Ko si v zavihku Application in gledas ei-tax-v1, dodaj novo transakcijo v tracker. Vrni se v Application in pritisni <span class="kbd">F5</span> ali klikni ikono "refresh". Vrednost se takoj posodobi. To je dokaz, da se podatki shranjujejo lokalno in ne cakajo na odgovor streznika.
+</div>
+
+<!-- 4 -->
+<h2><span class="section-num">4</span>Preverjanje v Mozilla Firefox</h2>
+
+<div class="browser-section">
+  <div class="browser-header">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><path d="M12 6 C10 8 8 10 8 13 C8 16 10 18 12 18 C14 18 16 16 16 13"></path></svg>
+    Mozilla Firefox
+  </div>
+  <div class="browser-body">
+
+    <div class="step">
+      <div class="step-num">1</div>
+      <div class="step-content">
+        <strong>Odpri razvijalska orodja</strong>
+        Pritisni <span class="kbd">F12</span> ali iz menija: <strong>Orodja</strong> (Tools) → <strong>Spletni razvijalec</strong> → <strong>Preklopi orodja</strong>.
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">2</div>
+      <div class="step-content">
+        <strong>Klikni zavihek "Storage"</strong>
+        V zgornji vrstici orodij najdi zavihek <strong>Storage</strong> (Shramba). V Firefoxu je ta zavihek na vidnem mestu.
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">3</div>
+      <div class="step-content">
+        <strong>Razširi "Local Storage"</strong>
+        V levem meniju pod "Storage" klikni trikotnik poleg <strong>Local Storage</strong> in nato na <code>https://engineeringinvestor.si</code>.
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">4</div>
+      <div class="step-content">
+        <strong>Poišci kljuc ei-tax-v1</strong>
+        V desnem delu se prikaze tabela. Poišci vrstico z <code>ei-tax-v1</code> in klikni nanjo za prikaz celotne JSON vsebine.
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- 5 -->
+<h2><span class="section-num">5</span>Preverjanje v Microsoft Edge</h2>
+
+<div class="browser-section">
+  <div class="browser-header">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10"></path><path d="M22 12 C22 8 18 5 14 6 C10 7 8 11 10 14 C12 17 16 17 18 15"></path></svg>
+    Microsoft Edge
+  </div>
+  <div class="browser-body">
+    <p>Edge je zgrajen na istem temelju kot Chrome (Chromium). Postopek je identičen kot pri Chromu:</p>
+    <ol>
+      <li>Pritisni <span class="kbd">F12</span> za razvijalska orodja</li>
+      <li>Klikni zavihek <strong>Application</strong></li>
+      <li>V levem meniju: <strong>Local Storage</strong> → <code>https://engineeringinvestor.si</code></li>
+      <li>Poišci kljuc <code>ei-tax-v1</code></li>
+    </ol>
+    <p>Vse enako kot Chrome, vkljucno z imeni zavihkov.</p>
+  </div>
+</div>
+
+<!-- 6 -->
+<h2><span class="section-num">6</span>Preverjanje v Apple Safari</h2>
+
+<div class="browser-section">
+  <div class="browser-header">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="5" x2="12" y2="5.5" stroke-width="3"></line><line x1="12" y1="19" x2="12" y2="18.5" stroke-width="3"></line><line x1="5" y1="12" x2="5.5" y2="12" stroke-width="3"></line><line x1="19" y1="12" x2="18.5" y2="12" stroke-width="3"></line></svg>
+    Apple Safari (macOS)
+  </div>
+  <div class="browser-body">
+
+    <div class="callout warn">
+      <div class="callout-title">Pred uporabo</div>
+      V Safariju moras najprej vkljuciti meni za razvijalce. To narediš samo enkrat.
+    </div>
+
+    <div class="step">
+      <div class="step-num">1</div>
+      <div class="step-content">
+        <strong>Vklopi meni "Develop"</strong>
+        Safari → <strong>Settings</strong> (Nastavitve) → zavihek <strong>Advanced</strong> → kljukica pri <strong>"Show features for web developers"</strong> (ali "Show Develop menu in menu bar" v starejših verzijah).
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">2</div>
+      <div class="step-content">
+        <strong>Odpri Web Inspector</strong>
+        Iz menijske vrstice: <strong>Develop</strong> → <strong>Show Web Inspector</strong>, ali pritisni <span class="kbd">⌥</span> + <span class="kbd">⌘</span> + <span class="kbd">I</span>.
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">3</div>
+      <div class="step-content">
+        <strong>Klikni zavihek "Storage"</strong>
+        V Web Inspectorju poišci zavihek <strong>Storage</strong> in razširi <strong>Local Storage</strong> → <code>https://engineeringinvestor.si</code>.
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">4</div>
+      <div class="step-content">
+        <strong>Poišci kljuc ei-tax-v1</strong>
+        V desnem delu poišci vrstico z <code>ei-tax-v1</code>.
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- 7 -->
+<h2><span class="section-num">7</span>Omrežni zavihek: dokaz da ni zunanjih zahtevkov</h2>
+
+<p class="lead">Preverjanje localStorage ti pokaže, kaj je shranjeno. Omrežni zavihek (Network) ti pokaže, kaj se dogaja, ko delaš z orodjem. To je najmočnejši dokaz.</p>
+
+<div class="callout">
+  <div class="callout-title">Kaj bomo preverili</div>
+  Ko dodas, uredis ali izbrisas transakcijo, brskalnik ne sme poslati nobenih podatkov navzven. V zavihku Network ne sme biti nobene zahteve (request) ki bi vsebovala tvoje podatke.
+</div>
+
+<h3>Navodila (enako za Chrome, Edge in Firefox)</h3>
+
+<div class="step">
+  <div class="step-num">1</div>
+  <div class="step-content">
+    <strong>Odpri razvijalska orodja in klikni zavihek "Network"</strong>
+    Pritisni <span class="kbd">F12</span>, nato klikni zavihek <strong>Network</strong> (Omrezje).
+  </div>
+</div>
+
+<div class="step">
+  <div class="step-num">2</div>
+  <div class="step-content">
+    <strong>Pocisti dnevnik in vklopi snemanje</strong>
+    Klikni ikono smetnjaka (clear) da pocistis obstoječe zapise. Snemanje je obicajno ze vklopljeno (rdeca pika v Chromu).
+  </div>
+</div>
+
+<div class="step">
+  <div class="step-num">3</div>
+  <div class="step-content">
+    <strong>Dodaj transakcijo v Davcnem trackerju</strong>
+    Vrni se na stran, klikni "+ Dodaj transakcijo", izpolni obrazec in shrani. Potem se vrni v DevTools.
+  </div>
+</div>
+
+<div class="step">
+  <div class="step-num">4</div>
+  <div class="step-content">
+    <strong>Pregledaj zahteve</strong>
+    V zavihku Network ves seznam zahtev ki so se zgodile. Iščes zahteve, ki bi šle na zunaj. To pomeni: zahteve katerih "Domain" ali "URL" NI <code>engineeringinvestor.si</code> in ne vsebuje tvojih podatkov.
+  </div>
+</div>
+
+<h3>Kaj je normalno videti</h3>
+
+<div class="network-row good">GET engineeringinvestor.si/davek &nbsp; <span class="badge badge-green">NORMALNO</span> &nbsp; Stran se nalozi</div>
+<div class="network-row good">GET engineeringinvestor.si/_astro/TaxTracker.js &nbsp; <span class="badge badge-green">NORMALNO</span> &nbsp; Koda orodja</div>
+<div class="network-row good">GET engineeringinvestor.si/_astro/index.css &nbsp; <span class="badge badge-green">NORMALNO</span> &nbsp; Slog strani</div>
+
+<h3>Kaj bi bil problem (in ce ga ni, si varen)</h3>
+
+<div class="network-row bad">POST api.nekstrežnik.com/transactions &nbsp; <span class="badge badge-red">ALARMANTNO</span> &nbsp; Posiljanje podatkov navzven</div>
+<div class="network-row bad">GET analytics.nekstrežnik.com/?data=AAPL... &nbsp; <span class="badge badge-red">ALARMANTNO</span> &nbsp; Sledenje z vkljucenimi podatki</div>
+
+<div class="callout tip">
+  <div class="callout-title">Filter za lazje iskanje</div>
+  V zavihku Network vpiši v iskalno polje npr. <code>POST</code> da vidis samo zahteve, ki posiljajo podatke. Pravilno orodje ne bo imelo nobene take zahteve po tistem, ko je stran nalozena.
+</div>
+
+<div class="callout">
+  <div class="callout-title">Kaj se normalno zgodi</div>
+  Ko stran prvic nalozis, brskalnik prenese JavaScript kodo iz streznika (to je normalno). Ko pa potem dodas transakcijo, se ne zgodi nobena nova omrezna zahteva. Podatki gredo direktno v localStorage, brez potovanja cez internet.
+</div>
+
+<!-- 8 -->
+<h2><span class="section-num">8</span>Preverjanje s pomočjo umetne inteligence</h2>
+
+<p class="lead">Umetna inteligenca (ChatGPT, Claude) ti lahko pomaga preveriti kodo, ce nimas tehnicnega znanja. Spodaj so tocni koraki in vprasanja, ki jih postavi.</p>
+
+<div class="callout warn">
+  <div class="callout-title">Preden zaces</div>
+  Koda, ki jo bos kopiral, ne vsebuje tvojih osebnih podatkov. To je le JavaScript, ki definira kako orodje deluje. Varne ga je deliti z AI sistemom.
+</div>
+
+<h3>Korak 1: Pridobi izvorno kodo orodja</h3>
+
+<div class="step">
+  <div class="step-num">1</div>
+  <div class="step-content">
+    <strong>Odpri razvijalska orodja</strong>
+    Pritisni <span class="kbd">F12</span> in klikni zavihek <strong>Sources</strong> (Chrome/Edge) ali <strong>Debugger</strong> (Firefox).
+  </div>
+</div>
+
+<div class="step">
+  <div class="step-num">2</div>
+  <div class="step-content">
+    <strong>Poišci datoteko TaxTracker</strong>
+    V levem panelu razširi <code>engineeringinvestor.si</code> → <code>_astro</code>. Poišci datoteko ki vsebuje ime <code>TaxTracker</code> ali podobno (konca se na <code>.js</code>). Klikni nanjo.
+  </div>
+</div>
+
+<div class="step">
+  <div class="step-num">3</div>
+  <div class="step-content">
+    <strong>Kopiraj vsebino</strong>
+    Klikni v desni panel z kodo, pritisni <span class="kbd">Ctrl</span>+<span class="kbd">A</span> (izberi vse) in <span class="kbd">Ctrl</span>+<span class="kbd">C</span> (kopiraj).
+  </div>
+</div>
+
+<h3>Korak 2: Postavi vprasanje AI sistemu</h3>
+
+<p>Odpri ChatGPT (chat.openai.com), Claude (claude.ai) ali drug AI sistem po tvoji izbiri. Prilepi kodo in dodaj eno od spodnjih vprasanj:</p>
+
+<h4>Vprasanje za splosno varnost</h4>
+<pre>Spodaj je JavaScript koda spletnega orodja za sledenje davčnih transakcij.
+Prosim preveri:
+1. Ali koda pošilja kakšne podatke na zunanji strežnik ali API?
+2. Kje so shranjeni podatki (localStorage, strežnik, oblak)?
+3. Ali je karkoli sumljivega z vidika zasebnosti?
+
+Koda:
+[sem prilepi kopirano kodo]</pre>
+
+<h4>Vprasanje za tehnično potrditev</h4>
+<pre>Ta koda naj bi shranjeval vse podatke izključno v localStorage brskalnika,
+brez pošiljanja na strežnik. Potrdi ali zanikaj to trditev s primeri iz kode.
+Pokaži mi katere vrstice kode skrbijo za shranjevanje in ali obstajajo kakšni
+fetch(), XMLHttpRequest, WebSocket ali podobni klici, ki bi lahko pošiljali podatke.
+
+Koda:
+[sem prilepi kopirano kodo]</pre>
+
+<h4>Kaj iskati v odgovoru AI</h4>
+
+<table>
+  <thead><tr><th>Ce AI poroča...</th><th>Pomeni</th></tr></thead>
+  <tbody>
+    <tr><td>"Vsi podatki gredo v localStorage"</td><td><span class="badge badge-green">Varno</span></td></tr>
+    <tr><td>"Ni fetch() ali XMLHttpRequest klicev"</td><td><span class="badge badge-green">Varno</span></td></tr>
+    <tr><td>"Koda ne komunicira z zunanjim strežnikom"</td><td><span class="badge badge-green">Varno</span></td></tr>
+    <tr><td>"Nasël sem fetch() ki pošilja podatke na..."</td><td><span class="badge badge-red">Preveri</span></td></tr>
+    <tr><td>"Podatki se sinhronizirajo z oblakom"</td><td><span class="badge badge-red">Preveri</span></td></tr>
+  </tbody>
+</table>
+
+<h3>Korak 3: Preveri še knjiznicne datoteke</h3>
+<p>Orodje ima vece datotek. Ce zes biti natancen, ponovi postopek se za:</p>
+<ul>
+  <li><code>store</code> datoteka (upravlja shranjevanje)</li>
+  <li><code>fifo</code> datoteka (izracuni)</li>
+  <li><code>exporters</code> datoteka (izvoz)</li>
+</ul>
+
+<div class="callout tip">
+  <div class="callout-title">Brezplacna alternativa</div>
+  Ce ne maras posiljati kode na AI strežnike, lahko uporabis lokalni AI model. Ollama (brezplacna, odprtokodna aplikacija) tece v celoti lokalno na tvojem racunalniku. Enaka vprasanja, nulta zasebnostna tveganja.
+</div>
+
+<!-- 9 -->
+<h2><span class="section-num">9</span>Kaj narediti z izvozom podatkov</h2>
+
+<p class="lead">Ko izvoziš podatke (JSON backup, Excel, XML), nastanejo datoteke na tvojem disku. Te datoteke vsebujejo tvoje transakcije in davčne podatke. Ravnanje z njimi je tvojav odgovornost.</p>
+
+<h3>JSON backup</h3>
+<p>Datoteka <code>ei-davek-YYYY-MM-DD.json</code> vsebuje vse tvoje transakcije in profil. Shrani jo na varno mesto (zunanji disk, geslo zaščiten ZIP).</p>
+
+<div class="callout warn">
+  <div class="callout-title">Varnostno kopiranje</div>
+  localStorage je vezan na brskalnik in napravo. Ce izbrises podatke brskalnika, so transakcije izgubljene. Redno izvažaj JSON backup in ga shrani na varno.
+</div>
+
+<h3>Excel datoteka</h3>
+<p>Datoteka <code>davek-kapitalski-dobicki-YYYY.xlsx</code> vsebuje tri liste: vse transakcije, FIFO pare in odprte pozicije. Ta datoteka je namenjena pregledu in arhiviranju.</p>
+
+<h3>eDavki XML (Doh-KDVP)</h3>
+<p>Datoteka <code>Doh-KDVP-YYYY.xml</code> je formatirana za nalaganje na FURS portal. Naloži jo na <strong>eDavki.durs.si</strong> → Dohodnina → Doh-KDVP. Pred oddajo preveri z racunovodjem.</p>
+
+<div class="callout danger">
+  <div class="callout-title">Pomembno opozorilo</div>
+  XML datoteka vsebuje davčno številko, ime, naslov in transakcije. Ko jo naložiš na eDavki, jo prejmejo organi FURS. To je normalen zakonski postopek, ne kršitev zasebnosti. NIKOLI te datoteke ne pošlji nikamur drugam.
+</div>
+
+<!-- 10 -->
+<h2><span class="section-num">10</span>Pogosta vprašanja</h2>
+
+<h3>Ali se moji podatki vidijo, ce nekdo odpre isti brskalnik?</h3>
+<p>Da. localStorage je vezan na brskalnik, ne na uporabnika. Ce deli računalnik, so podatki vidni vsakomur, ki odpre Chrome na tistem računalniku. Za skupne naprave priporocam redno ciscenje ali uporabo zasebnega okna (incognito).</p>
+
+<h3>Ali Engineering Investor vidi moje transakcije?</h3>
+<p>Ne. Streznik Engineering Investorja vidi samo, da je nekdo obiskal stran <code>/davek</code> (standardni webstrežnik log). Transakcije, tečaji, davčna številka in vsi drugi podatki se nikoli ne pošljejo na nek strežnik.</p>
+
+<h3>Kaj se zgodi ce izbrišem zgodovino brskalnika?</h3>
+<p>localStorage se izbrise ob "Clear browsing data" ce vkljucis opcijo "Cached images and files" ALI "Cookies and site data". Priporocam reden JSON backup.</p>
+
+<h3>Ali so podatki varni pred virusi?</h3>
+<p>localStorage ni posebej varen pred zlonamerno kodo, ki bi tekla v tvojem brskalniku. Normalna spletna higena (ne klikaj sumljivih linkov, posodobljen antivirusni program) zadostuje.</p>
+
+<h3>Zakaj na drugi napravi ne vidim transakcij?</h3>
+<p>Ker so shranjene lokalno. To je namerno. Za prenos med napravami: izvozi JSON backup na prvem računalniku in uvozi na drugem.</p>
+
+<h3>Ali Engineering Investor zbira statistike o uporabi orodja?</h3>
+<p>Spletna stran ima osnovno analitiko (stevec obiskov strani), ki je standardna za vsako spletno stran. Ta analitika ne beleži vsebine transakcij, tickerjev, zneskov ali cesakoli, kar vpisujes v orodje.</p>
+
+<hr>
+
+<div style="text-align:center; margin-top: 2em; padding: 1.5em; background: #f0f6fb; border-radius: 8px;">
+  <div style="font-family: Georgia, serif; font-size: 13pt; color: #1a3a5c; margin-bottom: 8px;">Davčni tracker</div>
+  <div style="font-size: 9.5pt; color: #666;">engineeringinvestor.si/davek</div>
+  <div style="margin-top: 12px; font-size: 9pt; color: #888;">Ta vodnik je informativne narave. Pred oddajo davčne napovedi preveri podatke z racunovodjem ali na FURS portalu.</div>
+</div>
+
+<!-- EDIT TOOLBAR -->
+<div id="edit-toolbar" style="position: fixed; top: 16px; right: 16px; z-index: 9999; display: none; align-items: center; gap: 8px; background: rgb(10, 22, 40); padding: 8px 14px; border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.35) 0px 4px 24px; font-family: &quot;Segoe UI&quot;, sans-serif;">
+  <span id="edit-hint" style="font-size: 9pt; color: rgb(111, 163, 216); display: inline; margin-right: 4px;">Klikni na besedilo za urejanje</span>
+  <button id="btn-edit" onclick="toggleEdit()" style="padding: 6px 14px; background: rgb(200, 101, 26); color: rgb(255, 255, 255); border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; border-radius: 6px; font-size: 9.5pt; cursor: pointer; font-family: inherit; display: flex; align-items: center; gap: 6px;"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg> Zakljuci</button>
+  <button id="btn-save" onclick="saveDoc()" style="padding:6px 14px;background:#1a6b3a;color:#fff;border:none;border-radius:6px;font-size:9.5pt;cursor:pointer;font-family:inherit;display:flex;align-items:center;gap:6px;">
+    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg>
+    Shrani
+  </button>
+</div>
+
+<script>
+  var editing = false;
+
+  function toggleEdit() {
+    editing = !editing;
+    document.designMode = editing ? 'on' : 'off';
+    var btn = document.getElementById('btn-edit');
+    var hint = document.getElementById('edit-hint');
+    if (editing) {
+      btn.style.background = '#c8651a';
+      btn.innerHTML = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg> Zakljuci';
+      hint.style.display = 'inline';
+    } else {
+      btn.style.background = '#1e4d8b';
+      btn.innerHTML = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg> Uredi';
+      hint.style.display = 'none';
+    }
+  }
+
+  function saveDoc() {
+    // izklopimo design mode in skrijemo toolbar med shranjevanjem
+    var wasEditing = editing;
+    if (editing) { document.designMode = 'off'; }
+    var toolbar = document.getElementById('edit-toolbar');
+    toolbar.style.display = 'none';
+
+    var html = '<!DOCTYPE html>\n' + document.documentElement.outerHTML;
+
+    toolbar.style.display = 'flex';
+    if (wasEditing) { document.designMode = 'on'; }
+
+    var blob = new Blob([html], { type: 'text/html;charset=utf-8' });
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'VODNIK-ZASEBNOST.html';
+    a.click();
+    URL.revokeObjectURL(a.href);
+  }
+</script>
+
+
+
+</body></html>

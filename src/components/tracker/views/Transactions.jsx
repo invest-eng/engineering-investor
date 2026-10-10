@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react';
 import { Card, Button, Input, Select, Field, Modal, SectionHeader, Empty, Tag } from '../ui.jsx';
-import { fmtEur, fmtDate, todayIso, uid } from '../store.js';
+import { fmtEur, fmtDate, findPayee, todayIso, uid } from '../store.js';
+import QuickAdd from '../QuickAdd.jsx';
 
 const TYPES = [
   { id: 'expense',  label: 'Odhodek' },
@@ -23,7 +24,7 @@ function emptyTx() {
   };
 }
 
-export default function Transactions({ state, dispatch }) {
+export default function Transactions({ state, dispatch, quickAdd = true }) {
   const [editing, setEditing] = useState(null);
   const [filter, setFilter] = useState({ type: 'all', accountId: 'all', categoryId: 'all', from: '', to: '', search: '' });
 
@@ -90,8 +91,10 @@ export default function Transactions({ state, dispatch }) {
       <SectionHeader
         title="Transakcije"
         subtitle={`${filtered.length} vnosov · ${fmtEur(totalIn)} prihodki · ${fmtEur(totalOut)} odhodki`}
-        action={<Button onClick={openNew}>+ Nova transakcija</Button>}
+        action={<Button variant="secondary" onClick={openNew}>Podroben vnos ali prenos</Button>}
       />
+
+      {quickAdd && <QuickAdd state={state} dispatch={dispatch} />}
 
       <Card padding="0.85rem 1rem">
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.6rem' }}>
@@ -251,8 +254,16 @@ export default function Transactions({ state, dispatch }) {
             )}
 
             <Field label="Plačnik / prejemnik">
-              <Input value={editing.payee} placeholder="npr. Mercator, Plača Acme d.o.o."
-                onChange={(e) => setEditing({ ...editing, payee: e.target.value })} />
+              <Input value={editing.payee} placeholder="npr. Mercator, Plača Acme d.o.o." list="tracker-payees"
+                onChange={(e) => {
+                  // Znana trgovina prinese svojo kategorijo, enako kot pri hitrem vnosu.
+                  const known = findPayee(state.payees, e.target.value, editing.type);
+                  const cat = known && cats.some((c) => c.id === known.categoryId) ? known.categoryId : editing.categoryId;
+                  setEditing({ ...editing, payee: e.target.value, categoryId: cat });
+                }} />
+              <datalist id="tracker-payees">
+                {(state.payees ?? []).filter((p) => p.type === editing.type).map((p) => <option key={p.id} value={p.name} />)}
+              </datalist>
             </Field>
 
             <Field label="Opombe">

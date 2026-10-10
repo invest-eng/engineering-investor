@@ -39,6 +39,7 @@ import { selectByMajority, summarizeByConsensus } from '../lib/consensus.mjs';
 import { buildMasterPrompt } from '../lib/prompts.mjs';
 import { extractJson } from '../lib/extract-json.mjs';
 import { synthesizeSlovenian } from '../lib/tts.mjs';
+import { fetchMarketData, formatMarketDataForPrompt } from '../lib/market-data.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT_DIR = join(__dirname, '..', '..', 'public', 'data', 'premium');
@@ -80,14 +81,20 @@ async function main() {
         .filter((k) => !process.env[k]).join(', ') || 'none'}`);
   }
 
-  // ---- Step 1: fetch ----
-  const allArticles = await fetchAll({});
+  // ---- Step 1: fetch news + market data in parallel ----
+  const [allArticles, trgi] = await Promise.all([
+    fetchAll({}),
+    fetchMarketData(),
+  ]);
   if (allArticles.length === 0) throw new Error('No articles fetched');
   // Cap at 35 freshest to stay within selector prompt token limits.
   const articles = allArticles
     .sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt))
     .slice(0, 35);
   console.log(`[premium] ${articles.length}/${allArticles.length} articles in pool`);
+  const marketSnapshot = formatMarketDataForPrompt(trgi);
+  if (trgi) console.log('[premium] market snapshot attached');
+  else console.warn('[premium] market snapshot unavailable');
 
   // ---- Step 2: selection by majority ----
   console.log('[premium] running selection (majority vote)...');
@@ -98,6 +105,7 @@ async function main() {
     minCount: 4,
     maxCount: 7,
     minAgreement: 2,
+    marketSnapshot,
   });
   console.log(`[premium] ${selection.selected.length} articles selected (min agreement: ${selection.minAgreementUsed})`);
   if (selection.selected.length === 0) {
@@ -131,7 +139,7 @@ async function main() {
 
   // ---- Step 4: master summary ----
   console.log('[premium] generating master summary...');
-  const masterPrompt = buildMasterPrompt({ articles: summaries, edition });
+  const masterPrompt = buildMasterPrompt({ articles: summaries, edition, marketSnapshot });
   let masterText;
   try {
     // Use Claude for master (best at cohesive Slovenian prose).
@@ -184,6 +192,7 @@ async function main() {
     master_povzetek: masterText,
     audio_url: audioUrl,
     novice: summaries,
+    trgi: trgi ?? null,
   };
 
   await mkdir(OUT_DIR, { recursive: true });

@@ -3,6 +3,149 @@
  * All charts use CSS variables for theming.
  */
 
+import { useEffect, useRef, useState } from 'react';
+
+// Širina vsebnika v slikovnih pikah, da se graf nariše v pravi velikosti (ostra črta in besedilo),
+// namesto da bi ga brskalnik raztegnil.
+function useWidth() {
+  const ref = useRef(null);
+  const [width, setWidth] = useState(0);
+  useEffect(() => {
+    if (!ref.current) return undefined;
+    const ro = new ResizeObserver(([entry]) => setWidth(Math.round(entry.contentRect.width)));
+    ro.observe(ref.current);
+    return () => ro.disconnect();
+  }, []);
+  return [ref, width];
+}
+
+// Okrogla zgornja meja osi in koraki: 0, 250, 500 ... namesto 0, 137, 274.
+export function niceTicks(max, count = 4) {
+  if (!(max > 0)) return [0, 1];
+  const raw = max / count;
+  const pow = 10 ** Math.floor(Math.log10(raw));
+  const step = [1, 2, 2.5, 5, 10].map((m) => m * pow).find((s) => s >= raw);
+  const ticks = [];
+  for (let v = 0; v < max + step * 0.999; v += step) ticks.push(Math.round(v * 100) / 100);
+  return ticks;
+}
+
+/**
+ * Poraba skozi mesec: seštevek odhodkov po dnevih za izbrani mesec in mesec prej.
+ *
+ * Oblika "poudarek": izbrani mesec v poudarjeni barvi z rahlim polnilom in končno piko, mesec prej v sivi
+ * kot ozadje za primerjavo. Legenda je vedno prisotna (dve seriji), vrednost izbranega meseca je zapisana
+ * ob koncu črte. Kazalec ali puščici levo/desno pokažeta navpično črto in obe vrednosti za tisti dan.
+ *
+ * current, previous: [vsota po 1. dnevu, po 2. dnevu, ...]; current je lahko krajši (tekoči mesec).
+ */
+export function CumulativeChart({ current, previous, days, currentLabel, previousLabel, format, height = 220 }) {
+  const [ref, width] = useWidth();
+  const [hover, setHover] = useState(null);
+
+  const padL = 52, padR = 76, padT = 12, padB = 26;
+  const innerW = Math.max(0, width - padL - padR);
+  const innerH = height - padT - padB;
+  const maxVal = Math.max(current.at(-1) ?? 0, previous.at(-1) ?? 0);
+  const ticks = niceTicks(maxVal);
+  const top = ticks.at(-1);
+  const x = (day) => padL + (days > 1 ? ((day - 1) / (days - 1)) * innerW : 0);
+  const y = (v) => padT + innerH * (1 - v / top);
+  const linePath = (values) => values.map((v, i) => `${i === 0 ? 'M' : 'L'}${x(i + 1).toFixed(1)},${y(v).toFixed(1)}`).join(' ');
+  const dayTicks = [1, 5, 10, 15, 20, 25, days].filter((d, i, all) => d <= days && all.indexOf(d) === i && (d === days || days - d >= 3));
+
+  const lastDay = current.length;
+  const endVal = current.at(-1) ?? 0;
+  const prevEnd = previous.at(-1) ?? 0;
+  // Oznaka prejšnjega meseca ob koncu črte samo, kadar se ne prekriva z oznako izbranega meseca.
+  const showPrevLabel = previous.length > 0 && (lastDay < days - 2 || Math.abs(y(endVal) - y(prevEnd)) > 16);
+
+  function dayFromPointer(e) {
+    const rect = e.currentTarget.getBoundingClientRect();
+    const px = e.clientX - rect.left;
+    const day = Math.round(((px - padL) / Math.max(1, innerW)) * (days - 1)) + 1;
+    return Math.min(days, Math.max(1, day));
+  }
+  function onKey(e) {
+    if (e.key !== 'ArrowLeft' && e.key !== 'ArrowRight') return;
+    e.preventDefault();
+    setHover((h) => Math.min(days, Math.max(1, (h ?? lastDay ?? 1) + (e.key === 'ArrowRight' ? 1 : -1))));
+  }
+
+  const hoverCur = hover && hover <= current.length ? current[hover - 1] : null;
+  const hoverPrev = hover && hover <= previous.length ? previous[hover - 1] : null;
+  const tipLeft = hover ? Math.min(Math.max(x(hover) - 80, 0), Math.max(0, width - 170)) : 0;
+  const key = (color) => ({ display: 'inline-block', width: 16, height: 0, borderTop: `2px solid ${color}`, verticalAlign: 'middle', marginRight: 6 });
+  const summary = `Poraba skozi mesec. ${currentLabel}: ${format(endVal)} do ${lastDay}. dne. ${previousLabel}: ${format(prevEnd)} v celem mesecu.`;
+
+  return (
+    <div>
+      <div style={{ display: 'flex', gap: 16, flexWrap: 'wrap', fontSize: '0.8rem', color: 'var(--color-text-muted)', marginBottom: 6 }}>
+        <span><span style={key('var(--color-accent)')} />{currentLabel}</span>
+        <span><span style={key('var(--color-text-muted)')} />{previousLabel}</span>
+      </div>
+      <div ref={ref} style={{ position: 'relative', height }}>
+        {width > 0 && (
+          <svg width={width} height={height} role="img" aria-label={summary} tabIndex={0}
+            onPointerMove={(e) => setHover(dayFromPointer(e))} onPointerLeave={() => setHover(null)}
+            onKeyDown={onKey} onBlur={() => setHover(null)}
+            style={{ display: 'block', outlineOffset: 2, touchAction: 'pan-y' }}>
+            {ticks.map((t) => (
+              <g key={t}>
+                <line x1={padL} x2={padL + innerW} y1={y(t)} y2={y(t)} stroke="var(--color-border)" strokeWidth="1" />
+                <text x={padL - 8} y={y(t)} textAnchor="end" dominantBaseline="middle" fontSize="11" fill="var(--color-text-subtle)" style={{ fontVariantNumeric: 'tabular-nums' }}>{format(t)}</text>
+              </g>
+            ))}
+            {dayTicks.map((d) => (
+              <text key={d} x={x(d)} y={height - 8} textAnchor="middle" fontSize="11" fill="var(--color-text-subtle)">{d}.</text>
+            ))}
+
+            {previous.length > 1 && <path d={linePath(previous)} fill="none" stroke="var(--color-text-muted)" strokeWidth="2" strokeLinejoin="round" strokeLinecap="round" />}
+            {current.length > 1 && (
+              <path d={`${linePath(current)} L${x(lastDay).toFixed(1)},${y(0).toFixed(1)} L${x(1).toFixed(1)},${y(0).toFixed(1)} Z`} fill="var(--color-accent)" opacity="0.1" />
+            )}
+            {current.length > 1 && <path d={linePath(current)} fill="none" stroke="var(--color-accent)" strokeWidth="2" strokeLinejoin="round" strokeLinecap="round" />}
+            {current.length > 0 && (
+              <>
+                <circle cx={x(lastDay)} cy={y(endVal)} r="5" fill="var(--color-accent)" stroke="var(--color-surface)" strokeWidth="2" />
+                <text x={x(lastDay) + 10} y={y(endVal)} dominantBaseline="middle" fontSize="12" fontWeight="700" fill="var(--color-text)">{format(endVal)}</text>
+              </>
+            )}
+            {showPrevLabel && (
+              <text x={x(previous.length) + 10} y={y(prevEnd)} dominantBaseline="middle" fontSize="11" fill="var(--color-text-muted)">{format(prevEnd)}</text>
+            )}
+
+            {hover && (
+              <g pointerEvents="none">
+                <line x1={x(hover)} x2={x(hover)} y1={padT} y2={padT + innerH} stroke="var(--color-border-strong)" strokeWidth="1" />
+                {hoverPrev != null && <circle cx={x(hover)} cy={y(hoverPrev)} r="4" fill="var(--color-text-muted)" stroke="var(--color-surface)" strokeWidth="2" />}
+                {hoverCur != null && <circle cx={x(hover)} cy={y(hoverCur)} r="4" fill="var(--color-accent)" stroke="var(--color-surface)" strokeWidth="2" />}
+              </g>
+            )}
+          </svg>
+        )}
+        {hover && (
+          <div role="status" style={{
+            position: 'absolute', top: 4, left: tipLeft, width: 170, pointerEvents: 'none',
+            background: 'var(--color-surface)', border: '1px solid var(--color-border-strong)', borderRadius: 6,
+            padding: '0.45rem 0.6rem', fontSize: '0.78rem', boxShadow: '0 6px 18px rgba(0,0,0,0.14)', lineHeight: 1.5,
+          }}>
+            <div style={{ color: 'var(--color-text-muted)' }}>Do {hover}. dne v mesecu</div>
+            <div style={{ display: 'flex', justifyContent: 'space-between', gap: 8 }}>
+              <span style={{ color: 'var(--color-text-muted)' }}><span style={key('var(--color-accent)')} />{currentLabel}</span>
+              <strong style={{ color: 'var(--color-text)' }}>{hoverCur != null ? format(hoverCur) : 'še ni'}</strong>
+            </div>
+            <div style={{ display: 'flex', justifyContent: 'space-between', gap: 8 }}>
+              <span style={{ color: 'var(--color-text-muted)' }}><span style={key('var(--color-text-muted)')} />{previousLabel}</span>
+              <strong style={{ color: 'var(--color-text)' }}>{hoverPrev != null ? format(hoverPrev) : 'ni dneva'}</strong>
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
 export function PieChart({ data, size = 200, thickness = 32, centerLabel, centerValue }) {
   const total = data.reduce((s, d) => s + Math.max(0, d.value), 0);
   const r = size / 2 - thickness / 2;

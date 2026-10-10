@@ -64,6 +64,7 @@ export function freshState() {
     accounts,
     categories,
     transactions: [],
+    payees: [],
     budgets: [],
     goals: [],
     recurring: [],
@@ -83,11 +84,11 @@ export function loadState() {
     if (!raw) return freshState();
     const parsed = JSON.parse(raw);
     if (!parsed || parsed.version !== 1) return freshState();
-    return {
+    return withPayees({
       ...freshState(),
       ...parsed,
       settings: { ...freshState().settings, ...(parsed.settings || {}) },
-    };
+    }, parsed.payees);
   } catch {
     return freshState();
   }
@@ -102,49 +103,85 @@ export function saveState(state) {
   }
 }
 
-export async function exportExcel(state) {
-  const XLSX = await import('xlsx');
-
-  const catById = Object.fromEntries(state.categories.map((c) => [c.id, c.name]));
+// Listi za izvoz v Excel kot navadni podatki, da jih preverjajo preizkusi brez brskalnika.
+// Do 3. 10. 2026 je izvoz bral polja, ki ne obstajajo: opombo iz t.note (pravilno t.notes) in mejo proračuna
+// iz b.limit (pravilno b.monthlyLimit), zato sta bila stolpca prazna; trgovine sploh ni izvozil.
+export function excelSheets(state) {
+  const catById = Object.fromEntries(state.categories.map((c) => [c.id, c]));
   const accById = Object.fromEntries(state.accounts.map((a) => [a.id, a.name]));
+  const vrsta = (type) => (type === 'income' ? 'Prihodek' : type === 'expense' ? 'Odhodek' : 'Prenos');
+  const pogostost = { monthly: 'Mesečno', weekly: 'Tedensko', yearly: 'Letno' };
 
-  // Sheet 1 — Transakcije
-  const txRows = [...state.transactions]
-    .sort((a, b) => (a.date < b.date ? 1 : -1))
+  const transakcije = [...state.transactions]
+    .sort((a, b) => b.date.localeCompare(a.date))
     .map((t) => ({
       Datum: t.date,
-      Vrsta: t.type === 'income' ? 'Prihodek' : t.type === 'expense' ? 'Odhodek' : 'Prenos',
-      Račun: accById[t.accountId] ?? '',
-      Kategorija: catById[t.categoryId] ?? '',
+      Vrsta: vrsta(t.type),
+      'Trgovina ali plačnik': t.payee ?? '',
+      Kategorija: catById[t.categoryId]?.name ?? '',
+      Račun: t.type === 'transfer' ? `${accById[t.accountId] ?? ''} → ${accById[t.transferToAccountId] ?? ''}` : accById[t.accountId] ?? '',
       'Znesek (EUR)': t.type === 'expense' ? -Math.abs(Number(t.amount)) : Number(t.amount),
-      Opis: t.note ?? '',
+      Opomba: t.notes ?? '',
     }));
 
-  // Sheet 2 — Stanja računov
-  const accRows = state.accounts
+  const racuni = state.accounts
     .filter((a) => !a.archived)
     .map((a) => ({
       Račun: a.name,
       Vrsta: ACCOUNT_TYPE_LABEL[a.type] ?? a.type,
       'Začetno stanje (EUR)': Number(a.startingBalance) || 0,
-      'Trenutno stanje (EUR)': accountBalance(state, a.id),
+      'Trenutno stanje (EUR)': Math.round(accountBalance(state, a.id) * 100) / 100,
     }));
 
-  // Sheet 3 — Proračun
-  const catMap = Object.fromEntries(state.categories.map((c) => [c.id, c]));
-  const budgetRows = state.budgets.map((b) => ({
-    Kategorija: catById[b.categoryId] ?? '',
-    Vrsta: catMap[b.categoryId]?.type === 'income' ? 'Prihodek' : 'Odhodek',
-    'Omejitev (EUR)': Number(b.limit) || 0,
-    Obdobje: b.period === 'month' ? 'Mesec' : b.period === 'year' ? 'Leto' : b.period,
+  const proracun = state.budgets.map((b) => ({
+    Kategorija: catById[b.categoryId]?.name ?? '',
+    'Mesečna meja (EUR)': Number(b.monthlyLimit) || 0,
   }));
 
-  const wb = XLSX.utils.book_new();
-  XLSX.utils.book_append_sheet(wb, XLSX.utils.json_to_sheet(txRows), 'Transakcije');
-  XLSX.utils.book_append_sheet(wb, XLSX.utils.json_to_sheet(accRows), 'Računi');
-  if (budgetRows.length) XLSX.utils.book_append_sheet(wb, XLSX.utils.json_to_sheet(budgetRows), 'Proračun');
+  const redni = (state.recurring ?? []).map((r) => ({
+    Ime: r.name,
+    Vrsta: vrsta(r.type),
+    'Znesek (EUR)': Number(r.amount) || 0,
+    Pogostost: pogostost[r.frequency] ?? r.frequency,
+    'Naslednji vpis': r.nextDate ?? '',
+    Kategorija: catById[r.categoryId]?.name ?? '',
+    Račun: accById[r.accountId] ?? '',
+    Stanje: r.active ? 'Aktivno' : 'Pavza',
+  }));
 
-  XLSX.writeFile(wb, `sledilnik-${new Date().toISOString().slice(0, 10)}.xlsx`);
+  return [
+    { name: 'Transakcije', rows: transakcije },
+    { name: 'Računi', rows: racuni },
+    { name: 'Proračun', rows: proracun },
+    { name: 'Redni stroški', rows: redni },
+  ].filter((sheet) => sheet.rows.length > 0);
+}
+
+// Sestavi delovni zvezek. XLSX je knjižnica, ki jo kličoči naloži sam (v brskalniku po potrebi, v preizkusu neposredno).
+export function buildWorkbook(XLSX, state) {
+  const wb = XLSX.utils.book_new();
+  for (const sheet of excelSheets(state)) {
+    const ws = XLSX.utils.json_to_sheet(sheet.rows);
+    // Širina stolpca po najdaljši vrednosti, da datumov in imen ni treba ročno razširjati.
+    const headers = Object.keys(sheet.rows[0]);
+    ws['!cols'] = headers.map((h) => ({ wch: Math.min(40, Math.max(h.length, ...sheet.rows.map((r) => String(r[h] ?? '').length)) + 2) }));
+    XLSX.utils.book_append_sheet(wb, ws, sheet.name);
+  }
+  return wb;
+}
+
+// Vrne null ob uspehu ali sporočilo napake. Do 3. 10. 2026 je napaka pri nalaganju knjižnice ostala brez
+// sporočila in klik na gumb ni naredil nič.
+export async function exportExcel(state) {
+  try {
+    if (state.transactions.length === 0) return 'Ni še nobenega vnosa za izvoz.';
+    const XLSX = await import('xlsx');
+    XLSX.writeFile(buildWorkbook(XLSX, state), `sledilnik-${todayIso()}.xlsx`);
+    return null;
+  } catch (e) {
+    console.error('exportExcel failed', e);
+    return 'Izvoz v Excel ni uspel. Osveži stran in poskusi znova.';
+  }
 }
 
 export function exportJson(state) {
@@ -173,6 +210,274 @@ export function importJson(file) {
   });
 }
 
+/* ---------- trgovine in storitve ---------- */
+
+// Avtor, 3. 10. 2026: "ko enkrat dodaš trgovino ali storitev vse ti shrani in naslednjič jo lahko kar izbereš
+// in takoj ve da npr. Hofer je za hrano". Trgovina se zapomni ob prvi transakciji; naslednjič zadošča
+// znesek in en klik nanjo. Velja zadnja izbrana kategorija: če jo uporabnik popravi, se popravi tudi spomin.
+
+// "  HOFER " in "Hofer" sta ista trgovina.
+export const payeeKey = (name) => String(name ?? '').trim().toLocaleLowerCase('sl-SI').replace(/\s+/g, ' ');
+
+export function findPayee(payees, name, type = 'expense') {
+  const key = payeeKey(name);
+  if (!key) return null;
+  return (payees ?? []).find((p) => p.type === type && payeeKey(p.name) === key) ?? null;
+}
+
+// Vrne nov seznam trgovin po shranjeni transakciji. Prenos med računi ni nakup in se ne zapomni.
+// count: false pri popravku obstoječe transakcije, da se ista ne šteje dvakrat.
+export function rememberPayee(payees, tx, { count = true } = {}) {
+  const list = payees ?? [];
+  const name = String(tx?.payee ?? '').trim().replace(/\s+/g, ' ');
+  // Samodejno vpisan redni strošek (najemnina) ni trgovina, ki bi jo izbirali pri hitrem vnosu.
+  if (!name || tx.recurringId || (tx.type !== 'expense' && tx.type !== 'income')) return list;
+  const known = findPayee(list, name, tx.type);
+  if (!known) {
+    return [...list, {
+      id: uid(), name, type: tx.type,
+      categoryId: tx.categoryId || null, accountId: tx.accountId || null,
+      count: 1, lastUsed: tx.date, lastAmount: Number(tx.amount) || 0,
+    }];
+  }
+  const newer = !known.lastUsed || tx.date >= known.lastUsed;
+  const { demo: _testna, ...mine } = known;
+  const base = tx.demo ? known : mine;
+  return list.map((p) => (p.id !== known.id ? p : {
+    ...base,
+    categoryId: newer && tx.categoryId ? tx.categoryId : p.categoryId,
+    accountId: newer && tx.accountId ? tx.accountId : p.accountId,
+    count: p.count + (count ? 1 : 0),
+    lastUsed: newer ? tx.date : p.lastUsed,
+    lastAmount: newer ? Number(tx.amount) || 0 : p.lastAmount,
+  }));
+}
+
+// Za podatke iz časa pred spominom trgovin: seznam se sestavi iz zgodovine transakcij.
+export function payeesFromTransactions(transactions) {
+  return [...(transactions ?? [])]
+    .sort((a, b) => String(a.date).localeCompare(String(b.date)))
+    .reduce((list, tx) => rememberPayee(list, tx), []);
+}
+
+export function withPayees(state, payees) {
+  return { ...state, payees: Array.isArray(payees) ? payees : payeesFromTransactions(state.transactions) };
+}
+
+// Najpogostejše najprej; pri enakem številu tista, ki je bila uporabljena nazadnje.
+const byUse = (a, b) => b.count - a.count || String(b.lastUsed).localeCompare(String(a.lastUsed)) || a.name.localeCompare(b.name, 'sl');
+
+export function topPayees(payees, type = 'expense', limit = 8) {
+  return (payees ?? []).filter((p) => p.type === type).sort(byUse).slice(0, limit);
+}
+
+// Predlogi med tipkanjem: najprej imena, ki se začnejo z vpisanim, nato tista, ki ga vsebujejo.
+export function suggestPayees(payees, type, query, limit = 6) {
+  const q = payeeKey(query);
+  if (!q) return [];
+  const all = (payees ?? []).filter((p) => p.type === type);
+  const starts = all.filter((p) => payeeKey(p.name).startsWith(q)).sort(byUse);
+  const contains = all.filter((p) => !payeeKey(p.name).startsWith(q) && payeeKey(p.name).includes(q)).sort(byUse);
+  return [...starts, ...contains].slice(0, limit);
+}
+
+// "12,5" -> 12.5; "1.234,56" -> 1234.56; "12.50" -> 12.5. Neveljaven vnos, nič ali negativno število da null.
+// Dvoumnega "1.234" ne ugibamo (tisoč dvesto ali ena cela dve): raje null kot napačen znesek.
+export function parseAmount(text) {
+  let t = String(text ?? '').replace(/[\s€]/g, '');
+  if (!t) return null;
+  if (t.includes(',')) t = t.replace(/\./g, '').replace(',', '.');
+  if (!/^\d+(\.\d{1,2})?$/.test(t)) return null;
+  const n = Number(t);
+  return n > 0 ? n : null;
+}
+
+/* ---------- redni stroški in prihodki ---------- */
+
+// Avtor, 3. 10. 2026: redni stroški (najemnina, naročnine) naj se vpišejo sami. Do zdaj je bilo treba pri
+// vsakem zapadlem pravilu klikniti "Knjiži". Zdaj se ob odprtju sledilnika vpiše vse, kar je zapadlo.
+
+const pad2 = (n) => String(n).padStart(2, '0');
+const daysInMonth = (y, m) => new Date(y, m, 0).getDate(); // m: 1-12
+
+// Naslednji datum pravila. Mesečno in letno pravilo se drži svojega dne (anchorDay): pravilo z 31. v mesecu
+// gre februarja na 28., marca pa nazaj na 31. Brez tega bi po februarju za vedno ostalo na 28.
+export function nextOccurrence(rule, fromIso) {
+  const [y, m, d] = fromIso.split('-').map(Number);
+  if (rule.frequency === 'weekly') return isoDay(new Date(y, m - 1, d + 7));
+  const anchor = rule.anchorDay ?? d;
+  if (rule.frequency === 'yearly') return `${y + 1}-${pad2(m)}-${pad2(Math.min(anchor, daysInMonth(y + 1, m)))}`;
+  const [ny, nm] = m === 12 ? [y + 1, 1] : [y, m + 1];
+  return `${ny}-${pad2(nm)}-${pad2(Math.min(anchor, daysInMonth(ny, nm)))}`;
+}
+
+// Varovalo pred napačno vpisanim letom: eno pravilo za nazaj vpiše največ toliko transakcij, starejše preskoči.
+// Obrazec dovoli začetek največ leto dni nazaj (tedensko pravilo: 53 vpisov), zato se meja običajno ne doseže.
+export const MAX_CATCH_UP = 60;
+
+// Vpiše vse zapadle redne stroške in prihodke do vključno danes in pravila premakne naprej.
+// Vrne isti objekt stanja, kadar ni kaj vpisati. Pravilo brez veljavnega računa ali zneska ostane zapadlo,
+// da ga pogled pokaže; neaktivno pravilo (pavza) se ne vpisuje.
+export function postDueRecurring(state, today) {
+  const posted = [];
+  const accountIds = new Set((state.accounts ?? []).map((acc) => acc.id));
+  const recurring = (state.recurring ?? []).map((rule) => {
+    if (!rule.active || !rule.nextDate || rule.nextDate > today) return rule;
+    if (!accountIds.has(rule.accountId) || !(Number(rule.amount) > 0)) return rule;
+    const r = { ...rule, anchorDay: rule.anchorDay ?? Number(rule.nextDate.slice(8, 10)) };
+    let next = r.nextDate;
+    for (let n = 0; next <= today && n < MAX_CATCH_UP; n++) {
+      posted.push({
+        id: uid(), date: next, type: r.type, amount: Number(r.amount),
+        accountId: r.accountId, transferToAccountId: '', categoryId: r.categoryId || null,
+        payee: r.name, notes: 'Vpisano samodejno (redno)', tags: ['recurring'], recurringId: r.id,
+        ...(r.demo ? { demo: true } : {}),
+      });
+      next = nextOccurrence(r, next);
+    }
+    while (next <= today) next = nextOccurrence(r, next);
+    return { ...r, nextDate: next };
+  });
+  if (!posted.length) return { state, posted };
+  return { state: { ...state, recurring, transactions: [...state.transactions, ...posted] }, posted };
+}
+
+// Pravila, ki so zapadla, a jih ni mogoče vpisati (račun izbrisan, znesek nič). Pogled jih pokaže z razlogom.
+export function blockedRecurring(state, today) {
+  const accountIds = new Set((state.accounts ?? []).map((acc) => acc.id));
+  return (state.recurring ?? []).filter((r) => r.active && r.nextDate && r.nextDate <= today
+    && (!accountIds.has(r.accountId) || !(Number(r.amount) > 0)));
+}
+
+/* ---------- pregled meseca ---------- */
+
+// Avtor, 3. 10. 2026: sledilnik naj "vse, kar potrebuješ, dobro prikazuje" in bo enostaven. Pregled zato
+// odgovori na štiri vprašanja po vrsti: koliko sem ta mesec porabil, za kaj, kje in koliko mi ostane.
+// Vsi izračuni so tukaj, brez Reacta, da jih preverjajo preizkusi.
+
+export const MONTHS_SL = {
+  nom: ['januar', 'februar', 'marec', 'april', 'maj', 'junij', 'julij', 'avgust', 'september', 'oktober', 'november', 'december'],
+  gen: ['januarja', 'februarja', 'marca', 'aprila', 'maja', 'junija', 'julija', 'avgusta', 'septembra', 'oktobra', 'novembra', 'decembra'],
+  loc: ['januarju', 'februarju', 'marcu', 'aprilu', 'maju', 'juniju', 'juliju', 'avgustu', 'septembru', 'oktobru', 'novembru', 'decembru'],
+};
+export const monthName = (ym, form = 'nom') => MONTHS_SL[form][Number(ym.slice(5, 7)) - 1];
+
+export function shiftMonth(ym, by) {
+  const [y, m] = ym.split('-').map(Number);
+  const d = new Date(y, m - 1 + by, 1);
+  return `${d.getFullYear()}-${pad2(d.getMonth() + 1)}`;
+}
+export const daysInMonthKey = (ym) => daysInMonth(Number(ym.slice(0, 4)), Number(ym.slice(5, 7)));
+
+const amountOf = (t) => Number(t.amount) || 0;
+const inMonth = (t, ym, uptoDay = 31) => t.date.slice(0, 7) === ym && Number(t.date.slice(8, 10)) <= uptoDay;
+
+// Vsota odhodkov in prihodkov v mesecu do vključno danega dne. Prenosi med računi niso ne eno ne drugo.
+export function monthTotals(transactions, ym, uptoDay = 31) {
+  let expense = 0, income = 0;
+  for (const t of transactions) {
+    if (!inMonth(t, ym, uptoDay)) continue;
+    if (t.type === 'expense') expense += amountOf(t);
+    else if (t.type === 'income') income += amountOf(t);
+  }
+  return { expense, income };
+}
+
+// Poraba od prvega v mesecu, seštevek po dnevih: [po 1. dnevu, po 2. dnevu, ...] do lastDay.
+export function cumulativeSpend(transactions, ym, lastDay = daysInMonthKey(ym)) {
+  const perDay = new Array(lastDay).fill(0);
+  for (const t of transactions) {
+    if (t.type !== 'expense' || t.date.slice(0, 7) !== ym) continue;
+    const day = Number(t.date.slice(8, 10));
+    if (day <= lastDay) perDay[day - 1] += amountOf(t);
+  }
+  let sum = 0;
+  return perDay.map((v) => (sum += v));
+}
+
+// Odhodki meseca po kategorijah, največja najprej, z deležem in mesečno mejo iz proračuna, če je nastavljena.
+export function categoryBreakdown(state, ym) {
+  const byCat = new Map();
+  for (const t of state.transactions) {
+    if (t.type !== 'expense' || !inMonth(t, ym)) continue;
+    const key = t.categoryId || '';
+    const row = byCat.get(key) ?? { value: 0, count: 0 };
+    row.value += amountOf(t);
+    row.count += 1;
+    byCat.set(key, row);
+  }
+  const total = [...byCat.values()].reduce((sum, r) => sum + r.value, 0);
+  return [...byCat.entries()].map(([id, r]) => {
+    const cat = state.categories.find((c) => c.id === id);
+    const limit = Number(state.budgets.find((b) => b.categoryId === id)?.monthlyLimit) || 0;
+    return { id, name: cat?.name ?? 'Brez kategorije', color: cat?.color ?? '#64748b', value: r.value, count: r.count, share: total > 0 ? r.value / total : 0, limit };
+  }).sort((x, y) => y.value - x.value || x.name.localeCompare(y.name, 'sl'));
+}
+
+// Kje je šel denar: trgovine in storitve meseca. Redni stroški (najemnina) niso trgovina in so izpuščeni.
+export function payeeBreakdown(transactions, ym, limit = 5) {
+  const by = new Map();
+  for (const t of transactions) {
+    if (t.type !== 'expense' || t.recurringId || !inMonth(t, ym)) continue;
+    const name = String(t.payee ?? '').trim();
+    if (!name) continue;
+    const key = payeeKey(name);
+    const row = by.get(key) ?? { name, value: 0, count: 0 };
+    row.value += amountOf(t);
+    row.count += 1;
+    by.set(key, row);
+  }
+  return [...by.values()].sort((x, y) => y.value - x.value || x.name.localeCompare(y.name, 'sl')).slice(0, limit);
+}
+
+// Redni stroški in prihodki, ki pridejo po današnjem dnevu do vključno untilIso (konec meseca).
+export function upcomingRecurring(state, today, untilIso) {
+  const out = [];
+  for (const rule of state.recurring ?? []) {
+    if (!rule.active || !rule.nextDate || !(Number(rule.amount) > 0)) continue;
+    const r = { ...rule, anchorDay: rule.anchorDay ?? Number(rule.nextDate.slice(8, 10)) };
+    let next = r.nextDate;
+    for (let n = 0; next <= untilIso && n < MAX_CATCH_UP; n++) {
+      if (next > today) out.push({ id: r.id, name: r.name, type: r.type, amount: Number(r.amount), date: next });
+      next = nextOccurrence(r, next);
+    }
+  }
+  return out.sort((x, y) => x.date.localeCompare(y.date) || x.name.localeCompare(y.name, 'sl'));
+}
+
+// Vse, kar Pregled pokaže za izbrani mesec. today: današnji dan (LLLL-MM-DD).
+// Tekoči mesec se primerja s prejšnjim do istega dne, pretekli mesec s celim mesecem prej: primerjava
+// 3. oktobra s celim septembrom bi vedno kazala, da je poraba majhna.
+export function monthOverview(state, ym, today) {
+  const currentYm = today.slice(0, 7);
+  const isCurrent = ym === currentYm;
+  const isFuture = ym > currentYm;
+  const days = daysInMonthKey(ym);
+  const lastDay = isCurrent ? Number(today.slice(8, 10)) : isFuture ? 0 : days;
+  const { expense, income } = monthTotals(state.transactions, ym);
+  const prevYm = shiftMonth(ym, -1);
+  const prevDays = daysInMonthKey(prevYm);
+  const compareDay = isCurrent ? Math.min(lastDay, prevDays) : prevDays;
+  const toDate = monthTotals(state.transactions, ym, isCurrent ? lastDay : 31).expense;
+  const prevExpense = monthTotals(state.transactions, prevYm, compareDay).expense;
+  const upcoming = isCurrent ? upcomingRecurring(state, today, `${ym}-${pad2(days)}`) : [];
+  const upcomingExpense = upcoming.filter((u) => u.type === 'expense').reduce((sum, u) => sum + u.amount, 0);
+  const upcomingIncome = upcoming.filter((u) => u.type === 'income').reduce((sum, u) => sum + u.amount, 0);
+  const totalBudget = state.budgets.reduce((sum, b) => sum + (Number(b.monthlyLimit) || 0), 0);
+  return {
+    ym, isCurrent, isFuture, days, lastDay,
+    expense, income, net: income - expense,
+    compare: { prevYm, basis: isCurrent ? 'toDate' : 'full', day: compareDay, expense: toDate, prevExpense, diff: toDate - prevExpense, pct: prevExpense > 0 ? ((toDate - prevExpense) / prevExpense) * 100 : null },
+    current: cumulativeSpend(state.transactions, ym, lastDay),
+    previous: cumulativeSpend(state.transactions, prevYm, prevDays),
+    categories: categoryBreakdown(state, ym),
+    payees: payeeBreakdown(state.transactions, ym),
+    upcoming, upcomingExpense, upcomingIncome,
+    totalBudget,
+    count: state.transactions.filter((t) => t.type !== 'transfer' && t.date.slice(0, 7) === ym).length,
+  };
+}
+
 /* ---------- formatters ---------- */
 
 const eurFmt = new Intl.NumberFormat('sl-SI', { style: 'currency', currency: 'EUR', maximumFractionDigits: 0 });
@@ -192,7 +497,12 @@ export function fmtMonth(iso) {
   const d = new Date(iso);
   return d.toLocaleDateString('sl-SI', { month: 'long', year: 'numeric' });
 }
-export function todayIso() { return new Date().toISOString().slice(0, 10); }
+// Dan po uri uporabnika. toISOString() da dan po UTC, zato je bil med polnočjo in 2.00 "danes" še včerajšnji datum.
+export function isoDay(d = new Date()) {
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+}
+export function todayIso() { return isoDay(); }
+export function yesterdayIso() { const d = new Date(); d.setDate(d.getDate() - 1); return isoDay(d); }
 export function monthKey(iso) { return iso.slice(0, 7); }
 
 /* ---------- selectors / derived ---------- */

@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Card, Button, Input, Select, Field, Modal, SectionHeader, Empty, Tag } from '../ui.jsx';
-import { fmtEur, fmtDate, todayIso, uid } from '../store.js';
+import { blockedRecurring, fmtEur, fmtDate, isoDay, nextOccurrence, todayIso, uid } from '../store.js';
 
 const FREQS = [
   { id: 'monthly', label: 'Mesečno' },
@@ -8,42 +8,60 @@ const FREQS = [
   { id: 'yearly',  label: 'Letno' },
 ];
 
-function emptyRule() {
+// Začetek pravila sme biti največ leto dni nazaj: toliko zamujenih vpisov je še smiselno nadoknaditi,
+// napačno vpisano leto pa ne zasuje sledilnika (store.js, MAX_CATCH_UP).
+function earliestStart() {
+  const d = new Date();
+  d.setFullYear(d.getFullYear() - 1);
+  return isoDay(d);
+}
+
+function emptyRule(accountId = '') {
   return {
     id: '',
     name: '',
     type: 'expense',
     amount: '',
-    accountId: '',
+    accountId,
     categoryId: '',
     frequency: 'monthly',
-    dayOfMonth: 1,
     nextDate: todayIso(),
     active: true,
     notes: '',
   };
 }
 
-function nextDate(rule, fromIso) {
-  const d = new Date(fromIso);
-  if (rule.frequency === 'monthly') d.setMonth(d.getMonth() + 1);
-  else if (rule.frequency === 'weekly') d.setDate(d.getDate() + 7);
-  else if (rule.frequency === 'yearly') d.setFullYear(d.getFullYear() + 1);
-  return d.toISOString().slice(0, 10);
-}
-
+/**
+ * Redni stroški in prihodki. Vpišejo se sami (avtor, 3. 10. 2026): ob odprtju sledilnika se vpiše vse,
+ * kar je zapadlo, pravilo pa se premakne na naslednji datum (MoneyTracker.jsx, store.js postDueRecurring).
+ */
 export default function Recurring({ state, dispatch }) {
   const [editing, setEditing] = useState(null);
+  const [error, setError] = useState('');
   const accounts = state.accounts.filter((a) => !a.archived);
   const cats = state.categories.filter((c) => !c.archived);
+  const today = todayIso();
+
+  function open(rule) {
+    setError('');
+    setEditing(rule);
+  }
 
   function save(e) {
     e.preventDefault();
-    if (!editing.name || !editing.amount) return;
+    const amount = Math.abs(Number(String(editing.amount).replace(',', '.'))) || 0;
+    if (!editing.name.trim()) return setError('Vpiši ime.');
+    if (!(amount > 0)) return setError('Vpiši znesek, večji od nič.');
+    if (!editing.accountId) return setError('Izberi račun.');
+    if (!editing.nextDate) return setError('Izberi datum.');
+    if (editing.nextDate < earliestStart()) return setError('Datum je lahko največ leto dni nazaj.');
     const rule = {
       ...editing,
       id: editing.id || uid(),
-      amount: Math.abs(Number(editing.amount)) || 0,
+      name: editing.name.trim(),
+      amount,
+      // Dan, ki se ga pravilo drži: 31. gre februarja na 28., marca nazaj na 31.
+      anchorDay: Number(editing.nextDate.slice(8, 10)),
     };
     if (editing.id) dispatch({ type: 'recurring/update', rule });
     else dispatch({ type: 'recurring/add', rule });
@@ -51,57 +69,47 @@ export default function Recurring({ state, dispatch }) {
   }
 
   function remove(id) {
-    if (!confirm('Izbrišem ponavljajoče?')) return;
+    if (!confirm('Izbrišem to pravilo? Že vpisane transakcije ostanejo.')) return;
     dispatch({ type: 'recurring/remove', id });
     setEditing(null);
   }
 
-  function executeNow(rule) {
-    const tx = {
-      id: uid(),
-      date: rule.nextDate,
-      type: rule.type,
-      amount: rule.amount,
-      accountId: rule.accountId,
-      categoryId: rule.categoryId,
-      payee: rule.name,
-      notes: 'Avtomatsko iz ponavljajočih',
-      tags: ['recurring'],
-    };
-    dispatch({ type: 'tx/add', tx });
-    dispatch({ type: 'recurring/update', rule: { ...rule, nextDate: nextDate(rule, rule.nextDate) } });
+  // Preskoči naslednji vpis, na primer ko je mesec brez najemnine. Ne vpiše ničesar.
+  function skipNext(rule) {
+    dispatch({ type: 'recurring/update', rule: { ...rule, amount: Number(rule.amount) || 0, nextDate: nextOccurrence(rule, rule.nextDate) } });
+    setEditing(null);
   }
 
-  const due = state.recurring.filter((r) => r.active && r.nextDate <= todayIso());
-  const upcoming = state.recurring.filter((r) => r.active && r.nextDate > todayIso());
+  const blocked = blockedRecurring(state, today);
   const monthlyTotal = state.recurring
     .filter((r) => r.active)
     .reduce((s, r) => {
       const mult = r.frequency === 'monthly' ? 1 : r.frequency === 'weekly' ? 4.33 : 1 / 12;
       return s + (r.type === 'expense' ? r.amount * mult : r.type === 'income' ? -r.amount * mult : 0);
     }, 0);
+  const rules = [...state.recurring].sort((a, b) => String(a.nextDate).localeCompare(String(b.nextDate)));
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
       <SectionHeader
-        title="Ponavljajoče"
-        subtitle={`${state.recurring.length} pravil · mesečno neto: ${fmtEur(-monthlyTotal)}`}
-        action={<Button onClick={() => setEditing(emptyRule())}>+ Novo pravilo</Button>}
+        title="Redni stroški in prihodki"
+        subtitle={`${state.recurring.length} pravil · mesečno neto: ${fmtEur(-monthlyTotal)} · vpišejo se sami na svoj dan`}
+        action={<Button onClick={() => open(emptyRule(accounts[0]?.id))}>+ Novo pravilo</Button>}
       />
 
-      {due.length > 0 && (
+      {blocked.length > 0 && (
         <Card style={{ borderLeft: '3px solid #d97706' }}>
-          <strong style={{ fontSize: '0.95rem' }}>Zapadla pravila ({due.length})</strong>
+          <strong style={{ fontSize: '0.95rem' }}>Teh pravil ni bilo mogoče vpisati ({blocked.length})</strong>
           <div style={{ marginTop: 10, display: 'flex', flexDirection: 'column', gap: 6 }}>
-            {due.map((r) => (
+            {blocked.map((r) => (
               <div key={r.id} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 8 }}>
                 <div style={{ fontSize: '0.9rem' }}>
-                  <strong>{r.name}</strong> · {fmtEur(r.amount)} <span style={{ color: 'var(--color-text-muted)' }}>({fmtDate(r.nextDate)})</span>
+                  <strong>{r.name}</strong>{' '}
+                  <span style={{ color: 'var(--color-text-muted)' }}>
+                    ({fmtDate(r.nextDate)}): {Number(r.amount) > 0 ? 'račun ne obstaja več' : 'znesek ni vpisan'}
+                  </span>
                 </div>
-                <div style={{ display: 'flex', gap: 6 }}>
-                  <Button size="sm" onClick={() => executeNow(r)}>Knjiži</Button>
-                  <Button size="sm" variant="ghost" onClick={() => dispatch({ type: 'recurring/update', rule: { ...r, nextDate: nextDate(r, r.nextDate) } })}>Preskoči</Button>
-                </div>
+                <Button size="sm" onClick={() => open({ ...r, amount: String(r.amount) })}>Uredi</Button>
               </div>
             ))}
           </div>
@@ -110,22 +118,23 @@ export default function Recurring({ state, dispatch }) {
 
       {state.recurring.length === 0 ? (
         <Empty
-          title="Še ni ponavljajočih"
-          description="Naročnine, plača, najemnina, krediti, vse, kar se ponavlja na rednih intervalih."
-          action={<Button onClick={() => setEditing(emptyRule())}>+ Novo pravilo</Button>}
+          title="Še ni rednih stroškov"
+          description="Najemnina, naročnine, zavarovanje, kredit, plača: vpišeš enkrat, potem se vpisujejo sami na svoj dan."
+          action={<Button onClick={() => open(emptyRule(accounts[0]?.id))}>+ Novo pravilo</Button>}
         />
       ) : (
         <Card padding="0">
-          {state.recurring.map((r, i) => {
+          {rules.map((r, i) => {
             const acc = state.accounts.find((a) => a.id === r.accountId);
             const cat = state.categories.find((c) => c.id === r.categoryId);
             return (
-              <button key={r.id} onClick={() => setEditing({ ...r, amount: String(r.amount) })}
+              <button key={r.id} onClick={() => open({ ...r, amount: String(r.amount) })}
                 style={{
-                  display: 'grid', gridTemplateColumns: '1fr auto auto', gap: '0.85rem',
-                  padding: '0.85rem 1.25rem',
-                  borderBottom: i < state.recurring.length - 1 ? '1px solid var(--color-border)' : 'none',
-                  background: 'transparent', border: 'none', color: 'inherit', cursor: 'pointer',
+                  display: 'grid', gridTemplateColumns: '1fr auto', gap: '0.85rem',
+                  width: '100%', padding: '0.85rem 1.25rem',
+                  background: 'transparent', border: 'none',
+                  borderBottom: i < rules.length - 1 ? '1px solid var(--color-border)' : 'none',
+                  color: 'inherit', cursor: 'pointer',
                   textAlign: 'left', fontFamily: 'inherit', alignItems: 'center',
                   opacity: r.active ? 1 : 0.5,
                 }}>
@@ -136,14 +145,14 @@ export default function Recurring({ state, dispatch }) {
                     {!r.active && <Tag>Pavza</Tag>}
                   </div>
                   <div style={{ fontSize: '0.78rem', color: 'var(--color-text-subtle)' }}>
-                    Naslednje: {fmtDate(r.nextDate)} · {acc?.name} {cat ? `· ${cat.name}` : ''}
+                    {r.active ? `Naslednjič: ${fmtDate(r.nextDate)}` : 'Se ne vpisuje'} · {acc?.name || 'brez računa'} {cat ? `· ${cat.name}` : ''}
                   </div>
                 </div>
                 <div style={{
                   fontWeight: 700, fontSize: '0.95rem',
                   color: r.type === 'income' ? '#059669' : '#dc2626',
                 }}>
-                  {r.type === 'income' ? '+' : '−'}{fmtEur(r.amount)}
+                  {r.type === 'income' ? '+' : '−'}{fmtEur(r.amount, true)}
                 </div>
               </button>
             );
@@ -151,16 +160,16 @@ export default function Recurring({ state, dispatch }) {
         </Card>
       )}
 
-      <Modal open={!!editing} onClose={() => setEditing(null)} title={editing?.id ? 'Uredi pravilo' : 'Novo ponavljajoče'}>
+      <Modal open={!!editing} onClose={() => setEditing(null)} title={editing?.id ? 'Uredi pravilo' : 'Nov redni strošek ali prihodek'}>
         {editing && (
           <form onSubmit={save} style={{ display: 'flex', flexDirection: 'column', gap: '0.85rem' }}>
             <Field label="Ime">
-              <Input required value={editing.name} placeholder="npr. Najemnina, Plača, Spotify"
+              <Input required autoFocus={!editing.id} value={editing.name} placeholder="npr. Najemnina, Plača, Spotify"
                 onChange={(e) => setEditing({ ...editing, name: e.target.value })} />
             </Field>
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '0.75rem' }}>
               <Field label="Vrsta">
-                <Select value={editing.type} onChange={(e) => setEditing({ ...editing, type: e.target.value })}>
+                <Select value={editing.type} onChange={(e) => setEditing({ ...editing, type: e.target.value, categoryId: '' })}>
                   <option value="expense">Odhodek</option>
                   <option value="income">Prihodek</option>
                 </Select>
@@ -171,15 +180,18 @@ export default function Recurring({ state, dispatch }) {
               </Field>
             </div>
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '0.75rem' }}>
-              <Field label="Frekvenca">
+              <Field label="Kako pogosto">
                 <Select value={editing.frequency} onChange={(e) => setEditing({ ...editing, frequency: e.target.value })}>
                   {FREQS.map((f) => <option key={f.id} value={f.id}>{f.label}</option>)}
                 </Select>
               </Field>
-              <Field label="Naslednji datum">
-                <Input type="date" value={editing.nextDate}
+              <Field label="Naslednji vpis">
+                <Input type="date" required value={editing.nextDate} min={earliestStart()}
                   onChange={(e) => setEditing({ ...editing, nextDate: e.target.value })} />
               </Field>
+            </div>
+            <div style={{ fontSize: '0.78rem', color: 'var(--color-text-subtle)', lineHeight: 1.5, marginTop: -4 }}>
+              Na ta dan se vpiše samo, potem po izbranem ritmu. Če izbereš datum v preteklosti, se vpišejo tudi zamujeni, največ za leto nazaj.
             </div>
             <Field label="Račun">
               <Select required value={editing.accountId}
@@ -189,7 +201,7 @@ export default function Recurring({ state, dispatch }) {
               </Select>
             </Field>
             <Field label="Kategorija">
-              <Select value={editing.categoryId}
+              <Select value={editing.categoryId || ''}
                 onChange={(e) => setEditing({ ...editing, categoryId: e.target.value })}>
                 <option value="">Brez</option>
                 {cats.filter((c) => c.type === editing.type).map((c) => <option key={c.id} value={c.id}>{c.name}</option>)}
@@ -198,11 +210,15 @@ export default function Recurring({ state, dispatch }) {
             <label style={{ display: 'flex', alignItems: 'center', gap: 8, fontSize: '0.9rem' }}>
               <input type="checkbox" checked={editing.active}
                 onChange={(e) => setEditing({ ...editing, active: e.target.checked })} />
-              Aktivno
+              Aktivno (odkljukaj za pavzo)
             </label>
-            <div style={{ display: 'flex', justifyContent: 'space-between', gap: 8, marginTop: 4 }}>
+            {error && <div role="alert" style={{ color: '#d97706', fontSize: '0.85rem', fontWeight: 600 }}>{error}</div>}
+            <div style={{ display: 'flex', justifyContent: 'space-between', gap: 8, marginTop: 4, flexWrap: 'wrap' }}>
               {editing.id ? (
-                <Button type="button" variant="danger" onClick={() => remove(editing.id)}>Izbriši</Button>
+                <div style={{ display: 'flex', gap: 8 }}>
+                  <Button type="button" variant="danger" onClick={() => remove(editing.id)}>Izbriši</Button>
+                  <Button type="button" variant="ghost" onClick={() => skipNext(editing)}>Preskoči naslednji vpis</Button>
+                </div>
               ) : <span />}
               <div style={{ display: 'flex', gap: 8 }}>
                 <Button type="button" variant="secondary" onClick={() => setEditing(null)}>Prekliči</Button>

@@ -23,7 +23,7 @@ const EDITION_FRAMING = {
  * Prompt for picking the most important articles.
  * Used by selectors in premium consensus flow (and by old single-model flow).
  */
-export function buildSelectorPrompt({ articles, edition = 'daily', minCount = 4, maxCount = 7 }) {
+export function buildSelectorPrompt({ articles, edition = 'daily', minCount = 4, maxCount = 7, marketSnapshot = '' }) {
   const today = new Date().toISOString().slice(0, 10);
   const list = articles
     .map(
@@ -33,9 +33,11 @@ export function buildSelectorPrompt({ articles, edition = 'daily', minCount = 4,
     .join('\n\n');
 
   const framing = EDITION_FRAMING[edition] || EDITION_FRAMING.daily;
+  const marketBlock = marketSnapshot ? `\n${marketSnapshot}\n` : '';
 
   return `Datum: ${today}.
 ${framing}
+${marketBlock}
 
 Spodaj je seznam najnovejših poslovnih novic, ki jih je vrnil NewsAPI:
 
@@ -194,9 +196,10 @@ Vrni IZKLJUČNO JSON v isti obliki, kot ga imajo kandidati, brez "kljucna_dejstv
  * Master prompt: combines all selected/judged articles into a single
  * cohesive "pregled dneva" suitable for TTS.
  */
-export function buildMasterPrompt({ articles, edition = 'daily' }) {
+export function buildMasterPrompt({ articles, edition = 'daily', marketSnapshot = '' }) {
   const today = new Date().toISOString().slice(0, 10);
   const framing = EDITION_FRAMING[edition] || EDITION_FRAMING.daily;
+  const marketBlock = marketSnapshot ? `\n${marketSnapshot}\n` : '';
   const list = articles
     .map(
       (a, i) =>
@@ -206,7 +209,7 @@ export function buildMasterPrompt({ articles, edition = 'daily' }) {
 
   return `Datum: ${today}.
 ${framing}
-
+${marketBlock}
 Spodaj so finalni povzetki izbranih novic dneva:
 
 ${list}

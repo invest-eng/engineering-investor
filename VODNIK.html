@@ -1,0 +1,1049 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+<meta charset="UTF-8">
+<title>Vodnik po Engineering Investor</title>
+<style>
+  @page {
+    size: A4;
+    margin: 18mm 16mm 18mm 16mm;
+    @bottom-right {
+      content: counter(page);
+      font-family: Georgia, serif;
+      font-size: 10pt;
+      color: #888;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+    color: #1a1f2e;
+    line-height: 1.55;
+    font-size: 10.5pt;
+  }
+  h1, h2, h3, h4 {
+    font-family: Georgia, 'Times New Roman', serif;
+    color: #0a1628;
+    line-height: 1.25;
+    margin-top: 1.6em;
+    margin-bottom: 0.4em;
+  }
+  h1 { font-size: 26pt; letter-spacing: -0.5px; }
+  h2 {
+    font-size: 18pt;
+    border-bottom: 2px solid #d4a017;
+    padding-bottom: 6px;
+    page-break-before: always;
+    margin-top: 0;
+  }
+  h3 { font-size: 13pt; color: #1a3a5c; }
+  h4 { font-size: 11pt; color: #2a4a6c; }
+  p { margin: 0.4em 0 0.7em 0; }
+  a { color: #1e4d8b; text-decoration: none; }
+  code {
+    font-family: 'Consolas', 'Courier New', monospace;
+    font-size: 9.5pt;
+    background: #f4f2ec;
+    padding: 1px 5px;
+    border-radius: 3px;
+    color: #6b3410;
+  }
+  pre {
+    background: #f7f4ec;
+    border-left: 3px solid #d4a017;
+    padding: 10px 14px;
+    overflow-x: auto;
+    border-radius: 0 4px 4px 0;
+    font-family: 'Consolas', 'Courier New', monospace;
+    font-size: 9pt;
+    line-height: 1.5;
+    page-break-inside: avoid;
+    color: #2a3a4a;
+  }
+  pre code { background: none; padding: 0; color: inherit; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    font-size: 9.5pt;
+    page-break-inside: avoid;
+  }
+  th {
+    background: #0a1628;
+    color: #fff;
+    text-align: left;
+    padding: 8px 10px;
+    font-weight: 600;
+  }
+  td {
+    border-bottom: 1px solid #e4e1d6;
+    padding: 7px 10px;
+    vertical-align: top;
+  }
+  tr:nth-child(even) td { background: #faf8f2; }
+  ul, ol { margin: 0.4em 0 0.7em 0; padding-left: 1.4em; }
+  li { margin-bottom: 0.2em; }
+  blockquote {
+    border-left: 3px solid #d4a017;
+    margin: 1em 0;
+    padding: 0.4em 1em;
+    background: #faf6e8;
+    color: #4a3a1a;
+    font-style: italic;
+  }
+  /* Cover page */
+  .cover {
+    height: 100vh;
+    page-break-after: always;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 40px;
+    background: linear-gradient(135deg, #0a1628 0%, #1a3a5c 100%);
+    color: #fff;
+    margin: -18mm -16mm;
+    height: calc(100vh + 36mm);
+  }
+  .cover h1 {
+    color: #fff;
+    font-size: 42pt;
+    margin: 0;
+    letter-spacing: -1px;
+  }
+  .cover .subtitle {
+    color: #d4a017;
+    font-size: 16pt;
+    font-family: Georgia, serif;
+    margin-top: 12px;
+    font-style: italic;
+  }
+  .cover .meta {
+    margin-top: 60px;
+    color: #b0c4d8;
+    font-size: 11pt;
+    line-height: 1.8;
+  }
+  .cover .accent-bar {
+    width: 80px;
+    height: 4px;
+    background: #d4a017;
+    margin: 28px auto;
+  }
+  /* TOC */
+  .toc {
+    page-break-after: always;
+  }
+  .toc h2 {
+    page-break-before: avoid;
+  }
+  .toc ol {
+    list-style: none;
+    padding: 0;
+    counter-reset: toc-counter;
+  }
+  .toc li {
+    counter-increment: toc-counter;
+    padding: 7px 0;
+    border-bottom: 1px dotted #c4c0b0;
+    display: flex;
+    align-items: baseline;
+  }
+  .toc li::before {
+    content: counter(toc-counter) ".";
+    color: #d4a017;
+    font-weight: 700;
+    font-family: Georgia, serif;
+    margin-right: 10px;
+    min-width: 24px;
+  }
+  .toc li .title { flex: 1; font-size: 11pt; }
+  .toc li .page { color: #888; font-size: 9.5pt; }
+  /* Diagram */
+  .diagram {
+    margin: 1.2em 0;
+    padding: 14px;
+    background: #faf8f2;
+    border: 1px solid #e4e1d6;
+    border-radius: 6px;
+    text-align: center;
+    page-break-inside: avoid;
+  }
+  .diagram svg { max-width: 100%; height: auto; }
+  .diagram-caption {
+    font-size: 9pt;
+    color: #6a6a6a;
+    margin-top: 8px;
+    font-style: italic;
+  }
+  /* Callout */
+  .callout {
+    background: #f0f6fb;
+    border-left: 3px solid #1e4d8b;
+    padding: 10px 14px;
+    margin: 1em 0;
+    border-radius: 0 4px 4px 0;
+    page-break-inside: avoid;
+  }
+  .callout.warn {
+    background: #fcf2e8;
+    border-left-color: #c8651a;
+  }
+  .callout.tip {
+    background: #f0f6f0;
+    border-left-color: #4a7c4e;
+  }
+  .callout-title {
+    font-weight: 700;
+    font-size: 9.5pt;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 4px;
+    color: #1e4d8b;
+  }
+  .callout.warn .callout-title { color: #c8651a; }
+  .callout.tip .callout-title { color: #4a7c4e; }
+
+  .lead {
+    font-size: 12pt;
+    color: #4a4a4a;
+    font-family: Georgia, serif;
+    line-height: 1.55;
+    margin-bottom: 1.2em;
+  }
+  hr {
+    border: none;
+    border-top: 1px solid #d4d0c0;
+    margin: 1.5em 0;
+  }
+  .section-num {
+    display: inline-block;
+    background: #d4a017;
+    color: #0a1628;
+    font-family: Georgia, serif;
+    font-weight: 700;
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    text-align: center;
+    border-radius: 50%;
+    margin-right: 12px;
+    font-size: 14pt;
+    vertical-align: middle;
+  }
+  h2 .section-num { vertical-align: -6px; }
+  .kbd {
+    font-family: 'Consolas', monospace;
+    background: #fff;
+    border: 1px solid #b0a890;
+    border-bottom-width: 2px;
+    border-radius: 3px;
+    padding: 1px 6px;
+    font-size: 9pt;
+    color: #2a2a2a;
+    box-shadow: inset 0 -1px 0 #e4e1d6;
+  }
+</style>
+</head>
+<body>
+
+<!-- ==================== COVER ==================== -->
+<section class="cover">
+  <div style="font-size: 11pt; color:#d4a017; letter-spacing: 0.3em; text-transform: uppercase; margin-bottom: 20px;">Učno gradivo</div>
+  <h1>Vodnik po<br>Engineering Investor</h1>
+  <div class="accent-bar"></div>
+  <div class="subtitle">Kako razumeti, urejati in objavljati spletno stran</div>
+  <div class="meta">
+    Astro 6 &middot; React 19 &middot; GitHub Pages<br>
+    Verzija 1.0 &middot; Maj 2026
+  </div>
+  <div style="position: absolute; bottom: 40px; left: 0; right: 0; text-align: center;">
+    <svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="30" cy="30" r="26" fill="none" stroke="#d4a017" stroke-width="2"/>
+      <path d="M18 30 L26 38 L42 22" stroke="#d4a017" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </div>
+</section>
+
+<!-- ==================== TOC ==================== -->
+<section class="toc">
+  <h2 style="page-break-before: avoid;">Kazalo</h2>
+  <p class="lead">Ta vodnik te po korakih nauči, kako je sestavljena spletna stran in kako jo varno spreminjaš. Ne potrebuješ predznanja programiranja, dovolj je radovednost.</p>
+  <ol>
+    <li><span class="title">Veliki vzorec — kako stvar deluje</span><span class="page"></span></li>
+    <li><span class="title">Mape — kaj je kje</span><span class="page"></span></li>
+    <li><span class="title">Kje spreminjati kaj — 16 tipičnih nalog</span><span class="page"></span></li>
+    <li><span class="title">Razvojni cikel — kako delaš spremembe</span><span class="page"></span></li>
+    <li><span class="title">Git osnove — shranjevanje in objavljanje</span><span class="page"></span></li>
+    <li><span class="title">Kako razmišljati pri programiranju</span><span class="page"></span></li>
+    <li><span class="title">Dnevni pregled — posebnost</span><span class="page"></span></li>
+    <li><span class="title">Tipičen scenarij — dodajam nov članek</span><span class="page"></span></li>
+    <li><span class="title">Pogosta orodja, ki jih boš srečal</span><span class="page"></span></li>
+    <li><span class="title">Naprej — kaj se naučiti</span><span class="page"></span></li>
+    <li><span class="title">Hitri referenčni listek</span><span class="page"></span></li>
+  </ol>
+</section>
+
+<!-- ==================== 1 ==================== -->
+<h2><span class="section-num">1</span>Veliki vzorec — kako stvar deluje</h2>
+
+<p class="lead">Spletna stran je narejena z <strong>Astro</strong> (ogrodje), z <strong>React</strong> komponentami za interaktivne dele. Stran je <strong>statična</strong>: ko jo zgradimo, nastane mapa <code>dist/</code> z gotovimi HTML/CSS/JS datotekami. Te se hostajo na <strong>GitHub Pages</strong> brezplačno.</p>
+
+<div class="diagram">
+  <svg viewBox="0 0 720 160" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="arr1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+        <path d="M0,0 L10,5 L0,10 z" fill="#1a3a5c"/>
+      </marker>
+    </defs>
+    <!-- Stages -->
+    <g font-family="Segoe UI, sans-serif" font-size="11">
+      <!-- 1 src -->
+      <rect x="10" y="50" width="100" height="60" rx="6" fill="#fff" stroke="#1a3a5c" stroke-width="1.5"/>
+      <text x="60" y="78" text-anchor="middle" font-weight="700" fill="#0a1628">src/</text>
+      <text x="60" y="95" text-anchor="middle" font-size="9" fill="#5a5a5a">tvoja koda</text>
+      <!-- arrow -->
+      <line x1="115" y1="80" x2="155" y2="80" stroke="#1a3a5c" stroke-width="1.5" marker-end="url(#arr1)"/>
+      <text x="135" y="72" text-anchor="middle" font-size="8.5" fill="#1a3a5c" font-style="italic">npm run build</text>
+      <!-- 2 dist -->
+      <rect x="160" y="50" width="100" height="60" rx="6" fill="#fff" stroke="#1a3a5c" stroke-width="1.5"/>
+      <text x="210" y="78" text-anchor="middle" font-weight="700" fill="#0a1628">dist/</text>
+      <text x="210" y="95" text-anchor="middle" font-size="9" fill="#5a5a5a">HTML + CSS + JS</text>
+      <line x1="265" y1="80" x2="305" y2="80" stroke="#1a3a5c" stroke-width="1.5" marker-end="url(#arr1)"/>
+      <text x="285" y="72" text-anchor="middle" font-size="8.5" fill="#1a3a5c" font-style="italic">git push</text>
+      <!-- 3 GitHub -->
+      <rect x="310" y="50" width="100" height="60" rx="6" fill="#0a1628" stroke="#0a1628"/>
+      <text x="360" y="78" text-anchor="middle" font-weight="700" fill="#fff">GitHub</text>
+      <text x="360" y="95" text-anchor="middle" font-size="9" fill="#d4a017">repozitorij</text>
+      <line x1="415" y1="80" x2="455" y2="80" stroke="#1a3a5c" stroke-width="1.5" marker-end="url(#arr1)"/>
+      <text x="435" y="72" text-anchor="middle" font-size="8.5" fill="#1a3a5c" font-style="italic">Actions</text>
+      <!-- 4 Pages -->
+      <rect x="460" y="50" width="100" height="60" rx="6" fill="#0a1628" stroke="#0a1628"/>
+      <text x="510" y="78" text-anchor="middle" font-weight="700" fill="#fff">GH Pages</text>
+      <text x="510" y="95" text-anchor="middle" font-size="9" fill="#d4a017">strežnik</text>
+      <line x1="565" y1="80" x2="605" y2="80" stroke="#1a3a5c" stroke-width="1.5" marker-end="url(#arr1)"/>
+      <!-- 5 Live -->
+      <rect x="610" y="50" width="100" height="60" rx="6" fill="#d4a017" stroke="#b8860b"/>
+      <text x="660" y="78" text-anchor="middle" font-weight="700" fill="#0a1628">LIVE</text>
+      <text x="660" y="95" text-anchor="middle" font-size="9" fill="#0a1628">obiskovalci</text>
+    </g>
+    <text x="360" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#0a1628" font-weight="700">Pot kode od urejevalnika do produkcije</text>
+    <text x="360" y="140" text-anchor="middle" font-size="9" fill="#7a7a7a" font-style="italic">Vsa avtomatizacija (Actions) je brezplačna in vključena v GitHub.</text>
+  </svg>
+</div>
+
+<h3>Astro vs React — razlika</h3>
+
+<div class="diagram">
+  <svg viewBox="0 0 700 200" xmlns="http://www.w3.org/2000/svg">
+    <g font-family="Segoe UI, sans-serif" font-size="10.5">
+      <!-- Astro side -->
+      <rect x="30" y="20" width="290" height="160" rx="8" fill="#faf6e8" stroke="#d4a017" stroke-width="1.5"/>
+      <text x="175" y="48" text-anchor="middle" font-family="Georgia" font-weight="700" font-size="14" fill="#0a1628">Astro (.astro)</text>
+      <text x="175" y="68" text-anchor="middle" font-size="9.5" fill="#5a5a5a">Tečejo OB BUILDU, ne v brskalniku</text>
+      <line x1="50" y1="80" x2="300" y2="80" stroke="#d4a017" stroke-width="0.8"/>
+      <text x="50" y="100" font-size="10" fill="#1a1f2e">&#x2022; Statične strani (analize, naslovna)</text>
+      <text x="50" y="120" font-size="10" fill="#1a1f2e">&#x2022; Hitre, brez JavaScripta</text>
+      <text x="50" y="140" font-size="10" fill="#1a1f2e">&#x2022; SEO-optimizirane</text>
+      <text x="50" y="160" font-size="10" fill="#1a1f2e">&#x2022; Berejo Markdown članke</text>
+
+      <!-- React side -->
+      <rect x="380" y="20" width="290" height="160" rx="8" fill="#f0f6fb" stroke="#1e4d8b" stroke-width="1.5"/>
+      <text x="525" y="48" text-anchor="middle" font-family="Georgia" font-weight="700" font-size="14" fill="#0a1628">React (.jsx)</text>
+      <text x="525" y="68" text-anchor="middle" font-size="9.5" fill="#5a5a5a">Tečejo V BRSKALNIKU, interaktivno</text>
+      <line x1="400" y1="80" x2="650" y2="80" stroke="#1e4d8b" stroke-width="0.8"/>
+      <text x="400" y="100" font-size="10" fill="#1a1f2e">&#x2022; Kalkulatorji</text>
+      <text x="400" y="120" font-size="10" fill="#1a1f2e">&#x2022; Sledilnik denarja</text>
+      <text x="400" y="140" font-size="10" fill="#1a1f2e">&#x2022; localStorage, klikanje, grafi</text>
+      <text x="400" y="160" font-size="10" fill="#1a1f2e">&#x2022; Stanje, ki se spreminja</text>
+    </g>
+  </svg>
+  <div class="diagram-caption">Astro skrbi za "okvir" strani; React za žive komponente.</div>
+</div>
+
+<p>Astro datoteka lahko <strong>vključi</strong> React komponento takole:</p>
+<pre><code>&lt;MoneyTracker client:only="react" /&gt;</code></pre>
+<p><code>client:only="react"</code> pomeni: zaženi to komponento šele v brskalniku.</p>
+
+<!-- ==================== 2 ==================== -->
+<h2><span class="section-num">2</span>Mape — kaj je kje</h2>
+
+<div class="diagram">
+  <svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace" font-size="11">
+    <text x="350" y="22" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#0a1628" font-weight="700">Drevo projekta</text>
+
+    <!-- Root -->
+    <rect x="20" y="40" width="200" height="28" rx="4" fill="#0a1628"/>
+    <text x="32" y="59" fill="#fff" font-weight="700">📁 engineering-investor/</text>
+
+    <!-- Children connector lines -->
+    <line x1="40" y1="68" x2="40" y2="450" stroke="#c4c0b0" stroke-width="1" stroke-dasharray="2,3"/>
+
+    <!-- public -->
+    <line x1="40" y1="90" x2="60" y2="90" stroke="#c4c0b0"/>
+    <rect x="65" y="78" width="160" height="24" rx="3" fill="#fff" stroke="#9a9a9a"/>
+    <text x="75" y="95" fill="#5a5a5a">📁 public/</text>
+    <text x="240" y="95" fill="#7a7a7a" font-size="10" font-style="italic" font-family="Segoe UI">slike, JSON, statični viri</text>
+
+    <!-- src -->
+    <line x1="40" y1="120" x2="60" y2="120" stroke="#c4c0b0"/>
+    <rect x="65" y="108" width="160" height="24" rx="3" fill="#d4a017"/>
+    <text x="75" y="125" fill="#0a1628" font-weight="700">📁 src/</text>
+    <text x="240" y="125" fill="#7a7a7a" font-size="10" font-style="italic" font-family="Segoe UI">VSA tvoja koda</text>
+
+    <!-- src children connector -->
+    <line x1="80" y1="132" x2="80" y2="320" stroke="#c4c0b0" stroke-width="1" stroke-dasharray="2,3"/>
+
+    <line x1="80" y1="148" x2="100" y2="148" stroke="#c4c0b0"/>
+    <rect x="105" y="138" width="140" height="22" rx="3" fill="#f0f6fb" stroke="#1e4d8b"/>
+    <text x="115" y="153" fill="#1a3a5c" font-weight="600">📁 pages/</text>
+    <text x="260" y="153" fill="#7a7a7a" font-size="10" font-style="italic" font-family="Segoe UI">vsaka datoteka = URL</text>
+
+    <line x1="80" y1="178" x2="100" y2="178" stroke="#c4c0b0"/>
+    <rect x="105" y="168" width="140" height="22" rx="3" fill="#fff" stroke="#9a9a9a"/>
+    <text x="115" y="183" fill="#5a5a5a">📁 layouts/</text>
+    <text x="260" y="183" fill="#7a7a7a" font-size="10" font-style="italic" font-family="Segoe UI">ovojnice za več strani</text>
+
+    <line x1="80" y1="208" x2="100" y2="208" stroke="#c4c0b0"/>
+    <rect x="105" y="198" width="140" height="22" rx="3" fill="#fff" stroke="#9a9a9a"/>
+    <text x="115" y="213" fill="#5a5a5a">📁 components/</text>
+    <text x="260" y="213" fill="#7a7a7a" font-size="10" font-style="italic" font-family="Segoe UI">UI gradniki (kalkulatorji, sledilnik...)</text>
+
+    <line x1="80" y1="238" x2="100" y2="238" stroke="#c4c0b0"/>
+    <rect x="105" y="228" width="140" height="22" rx="3" fill="#fff" stroke="#9a9a9a"/>
+    <text x="115" y="243" fill="#5a5a5a">📁 content/articles/</text>
+    <text x="260" y="243" fill="#7a7a7a" font-size="10" font-style="italic" font-family="Segoe UI">analize v Markdownu</text>
+
+    <line x1="80" y1="268" x2="100" y2="268" stroke="#c4c0b0"/>
+    <rect x="105" y="258" width="140" height="22" rx="3" fill="#fff" stroke="#9a9a9a"/>
+    <text x="115" y="273" fill="#5a5a5a">📁 styles/</text>
+    <text x="260" y="273" fill="#7a7a7a" font-size="10" font-style="italic" font-family="Segoe UI">globalni CSS</text>
+
+    <line x1="80" y1="298" x2="100" y2="298" stroke="#c4c0b0"/>
+    <rect x="105" y="288" width="140" height="22" rx="3" fill="#faf6e8" stroke="#d4a017"/>
+    <text x="115" y="303" fill="#5a5a5a">📄 config.ts</text>
+    <text x="260" y="303" fill="#7a7a7a" font-size="10" font-style="italic" font-family="Segoe UI">ime, navigacija, URL</text>
+
+    <!-- scripts -->
+    <line x1="40" y1="335" x2="60" y2="335" stroke="#c4c0b0"/>
+    <rect x="65" y="324" width="160" height="22" rx="3" fill="#fff" stroke="#9a9a9a"/>
+    <text x="75" y="339" fill="#5a5a5a">📁 scripts/</text>
+    <text x="240" y="339" fill="#7a7a7a" font-size="10" font-style="italic" font-family="Segoe UI">Node.js skripte (briefing)</text>
+
+    <!-- workflows -->
+    <line x1="40" y1="365" x2="60" y2="365" stroke="#c4c0b0"/>
+    <rect x="65" y="354" width="160" height="22" rx="3" fill="#fff" stroke="#9a9a9a"/>
+    <text x="75" y="369" fill="#5a5a5a">📁 .github/workflows/</text>
+    <text x="240" y="369" fill="#7a7a7a" font-size="10" font-style="italic" font-family="Segoe UI">avtomatizacije (cron)</text>
+
+    <!-- astro.config -->
+    <line x1="40" y1="395" x2="60" y2="395" stroke="#c4c0b0"/>
+    <rect x="65" y="384" width="160" height="22" rx="3" fill="#fff" stroke="#9a9a9a"/>
+    <text x="75" y="399" fill="#5a5a5a">📄 astro.config.mjs</text>
+    <text x="240" y="399" fill="#7a7a7a" font-size="10" font-style="italic" font-family="Segoe UI">konfiguracija ogrodja</text>
+
+    <!-- package.json -->
+    <line x1="40" y1="425" x2="60" y2="425" stroke="#c4c0b0"/>
+    <rect x="65" y="414" width="160" height="22" rx="3" fill="#fff" stroke="#9a9a9a"/>
+    <text x="75" y="429" fill="#5a5a5a">📄 package.json</text>
+    <text x="240" y="429" fill="#7a7a7a" font-size="10" font-style="italic" font-family="Segoe UI">knjižnice + npm ukazi</text>
+
+    <text x="350" y="465" text-anchor="middle" font-family="Segoe UI" font-size="9" fill="#7a7a7a" font-style="italic">Rumeno = najpomembnejše datoteke za začetnika.</text>
+  </svg>
+</div>
+
+<h3>2.1. <code>src/pages/</code> — strani</h3>
+<p><strong>Vsaka datoteka v tej mapi postane URL na strani.</strong> To se imenuje <em>file-based routing</em>.</p>
+
+<div class="diagram">
+  <svg viewBox="0 0 700 200" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace" font-size="10">
+    <defs>
+      <marker id="arr2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+        <path d="M0,0 L10,5 L0,10 z" fill="#1a3a5c"/>
+      </marker>
+    </defs>
+    <text x="350" y="22" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#0a1628" font-weight="700">File-based routing</text>
+
+    <g font-size="10">
+      <!-- File side -->
+      <text x="20" y="55" font-weight="700" fill="#0a1628" font-family="Segoe UI">Datoteka</text>
+      <text x="20" y="80" fill="#5a5a5a">src/pages/index.astro</text>
+      <text x="20" y="105" fill="#5a5a5a">src/pages/o-meni.astro</text>
+      <text x="20" y="130" fill="#5a5a5a">src/pages/sledilnik.astro</text>
+      <text x="20" y="155" fill="#5a5a5a">src/pages/analize/index.astro</text>
+      <text x="20" y="180" fill="#5a5a5a">src/pages/analize/[slug].astro</text>
+
+      <!-- Arrows -->
+      <line x1="290" y1="77" x2="380" y2="77" stroke="#1a3a5c" stroke-width="1.2" marker-end="url(#arr2)"/>
+      <line x1="290" y1="102" x2="380" y2="102" stroke="#1a3a5c" stroke-width="1.2" marker-end="url(#arr2)"/>
+      <line x1="290" y1="127" x2="380" y2="127" stroke="#1a3a5c" stroke-width="1.2" marker-end="url(#arr2)"/>
+      <line x1="290" y1="152" x2="380" y2="152" stroke="#1a3a5c" stroke-width="1.2" marker-end="url(#arr2)"/>
+      <line x1="290" y1="177" x2="380" y2="177" stroke="#1a3a5c" stroke-width="1.2" marker-end="url(#arr2)"/>
+
+      <!-- URL side -->
+      <text x="395" y="55" font-weight="700" fill="#0a1628" font-family="Segoe UI">URL</text>
+      <text x="395" y="80" fill="#1a3a5c">engineeringinvestor.si/</text>
+      <text x="395" y="105" fill="#1a3a5c">engineeringinvestor.si/o-meni</text>
+      <text x="395" y="130" fill="#1a3a5c">engineeringinvestor.si/sledilnik</text>
+      <text x="395" y="155" fill="#1a3a5c">engineeringinvestor.si/analize</text>
+      <text x="395" y="180" fill="#1a3a5c">engineeringinvestor.si/analize/<tspan fill="#c8651a" font-style="italic">{slug}</tspan></text>
+    </g>
+  </svg>
+</div>
+
+<p>Vsaka stran običajno samo <strong>uvozi</strong> ovojnico in vsebino:</p>
+<pre><code>---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import MoneyTracker from '../components/tracker/MoneyTracker.jsx';
+---
+&lt;BaseLayout title="Sledilnik"&gt;
+  &lt;MoneyTracker client:only="react" /&gt;
+&lt;/BaseLayout&gt;</code></pre>
+
+<div class="callout tip">
+  <div class="callout-title">Pravilo</div>
+  Kadarkoli želiš novo URL pot na strani, dodaj datoteko v <code>src/pages/</code>.
+</div>
+
+<h3>2.2. <code>src/layouts/</code> — ovojnice</h3>
+<p>V <code>BaseLayout.astro</code> je vse, kar se ponavlja na vsaki strani: glava (<code>&lt;head&gt;</code>), navigacija, noga, meta tagi. Posamezne strani (<code>pages/</code>) samo "padejo noter" v to ovojnico.</p>
+<p>Če bi rad spremenil <strong>navigacijo</strong> (zgornji meni), to NI v <code>BaseLayout</code>, ampak v <code>src/components/layout/</code> in seznam povezav je v <strong><code>src/config.ts</code></strong>.</p>
+
+<h3>2.3. <code>src/components/</code> — komponente</h3>
+<p>Tu so vsi gradniki UI, razdeljeni po smiselnih podkategorijah:</p>
+<pre><code>components/
+├── articles/      # Komponente za prikaz analiz
+├── calculators/   # 3 kalkulatorji (naložb, INR vs IBKR, neto vrednost)
+├── home/          # Naslovna stran (hero, najnovejše analize)
+├── layout/        # Glava in noga strani
+├── news/          # Dnevni pregled (MarketBriefing.jsx)
+├── premium/       # Premium komponente
+├── tracker/       # Sledilnik denarja
+└── ui/            # Mali generični gradniki (Badge, Disclaimer)</code></pre>
+
+<p><strong>Komponenta</strong> je samostojen kos UI z lastno logiko. Princip: <strong>iste stvari pišeš ENKRAT, uporabljaš večkrat.</strong></p>
+
+<p>Primer: gumb "+" se uporablja v transakcijah, računih, ciljih. Zato imamo <code>Button</code> komponento v <code>tracker/ui.jsx</code>, ki jo vsi uvozijo:</p>
+<pre><code>import { Button } from '../ui.jsx';
+&lt;Button onClick={...}&gt;+ Nov račun&lt;/Button&gt;</code></pre>
+
+<h3>2.4. <code>src/content/</code> — članki v Markdown</h3>
+<p>Analize (poglobljene pojasnjevalne objave) niso programirane, ampak <strong>napisane v Markdownu</strong> — to je preprost format brez HTML-ja.</p>
+<pre><code>content/articles/
+├── trump-hormuz-blokada-2026.md
+├── fed-obrestne-mere-2025.md
+└── ...</code></pre>
+
+<p>Vsak <code>.md</code> ima na vrhu <strong>frontmatter</strong> (metapodatki) in pod njim besedilo:</p>
+<pre><code>---
+title: 'Trump in Hormuz blokada'
+date: 2026-04-15
+category: 'Geopolitika'
+excerpt: 'Kratek povzetek...'
+---
+
+# Glavni naslov
+
+Tu pišeš članek.</code></pre>
+
+<p><code>src/content.config.ts</code> določa <strong>schema</strong> — katera polja so obvezna v vsakem članku. Ko zaženeš build, Astro avtomatsko ustvari URL za vsakega: <code>/analize/trump-hormuz-blokada-2026</code>.</p>
+
+<h3>2.5. <code>public/</code> — statični viri</h3>
+<p>Vse v <code>public/</code> se servira <strong>direktno</strong> brez obdelave. Slike, fonti, podatki.</p>
+<pre><code>public/
+├── data/briefing.json     # Tu se shrani rezultat dnevnega pregleda
+├── og-image.png           # Slika za Twitter/Facebook share
+└── favicon.svg</code></pre>
+
+<p>URL primer: datoteka <code>public/data/briefing.json</code> je dosegljiva na <code>engineeringinvestor.si/data/briefing.json</code>.</p>
+
+<h3>2.6. <code>scripts/</code> — Node.js skripte</h3>
+<p>Skripte, ki <strong>niso</strong> del spletne strani — tečejo na strežniku ali v GitHub Actions. <code>scripts/generate-briefing.mjs</code> se zažene vsak dan ob 06:30 UTC, pokliče NewsAPI in Gemini, in shrani rezultat v <code>public/data/briefing.json</code>.</p>
+
+<h3>2.7. <code>.github/workflows/</code> — avtomatizacije</h3>
+<p>GitHub Actions = brezplačni roboti, ki jih lahko nastaviš na sprožilce (cron, push, manualno). <code>daily-briefing.yml</code> ima dva dela:</p>
+<ol>
+  <li><strong>build</strong> — vsak dan ob 06:30 UTC: zaženi skripto, shrani briefing, zgradi stran, naloži artefakt</li>
+  <li><strong>deploy</strong> — naloži artefakt na GitHub Pages</li>
+</ol>
+
+<h3>2.8. <code>src/config.ts</code> — glavna konfiguracija</h3>
+<p>Tu je <strong>ime strani, URL, navigacijski meni</strong>. Če dodaš novo stran in želiš, da je v meniju, dodaj jo tu:</p>
+<pre><code>export const NAV_LINKS = [
+  { label: 'Analize', href: '/analize' },
+  { label: 'Kalkulatorji', href: '/kalkulatorji' },
+  { label: 'Sledilnik', href: '/sledilnik' },
+  ...
+];</code></pre>
+
+<h3>2.9. <code>astro.config.mjs</code> in <code>package.json</code></h3>
+<p>V <code>astro.config.mjs</code> je base path (<code>/engineering-investor</code>) in vključeni vtičniki. <strong>Tega običajno ne spreminjaš.</strong></p>
+
+<p>V <code>package.json</code> so vse zunanje knjižnice in <strong>npm skripte</strong>:</p>
+<pre><code>"scripts": {
+  "dev": "astro dev",       // razvojni strežnik
+  "build": "astro build",   // gradnja produkcijske različice
+  "preview": "astro preview" // pregled produkcijske različice
+}</code></pre>
+<p>Zaženeš jih z <code>npm run dev</code>, <code>npm run build</code>, ipd.</p>
+
+<!-- ==================== 3 ==================== -->
+<h2><span class="section-num">3</span>Kje spreminjati kaj — 16 tipičnih nalog</h2>
+
+<table>
+  <thead>
+    <tr><th style="width: 38%;">Želim spremeniti...</th><th>Kje</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Naslovno stran</td><td><code>src/pages/index.astro</code> + komponente v <code>src/components/home/</code></td></tr>
+    <tr><td>Navigacijski meni</td><td><code>src/config.ts</code> (NAV_LINKS)</td></tr>
+    <tr><td>Glavo / nogo strani</td><td><code>src/components/layout/</code></td></tr>
+    <tr><td>Globalne barve / fonte</td><td><code>src/styles/global.css</code></td></tr>
+    <tr><td>Dodati novo analizo</td><td>Nov <code>.md</code> v <code>src/content/articles/</code></td></tr>
+    <tr><td>Spremeniti obstoječo analizo</td><td>Pripadajoči <code>.md</code> v <code>src/content/articles/</code></td></tr>
+    <tr><td>Dodati nov kalkulator</td><td>Nova <code>.jsx</code> v <code>src/components/calculators/</code> + nova stran v <code>src/pages/</code> + dodati v <code>src/pages/kalkulatorji.astro</code></td></tr>
+    <tr><td>Dodati novo stran (npr. /blog)</td><td>Nova <code>.astro</code> v <code>src/pages/</code> + dodati v <code>src/config.ts</code></td></tr>
+    <tr><td>Logiko sledilnika</td><td><code>src/components/tracker/</code></td></tr>
+    <tr><td>Skripto za dnevni pregled</td><td><code>scripts/generate-briefing.mjs</code></td></tr>
+    <tr><td>Cron urnik za dnevni pregled</td><td><code>.github/workflows/daily-briefing.yml</code> (vrstica <code>cron:</code>)</td></tr>
+    <tr><td>Domeno / URL</td><td><code>astro.config.mjs</code> (<code>site:</code>) + GitHub Pages nastavitve</td></tr>
+    <tr><td>Sliko za share na družbenih omrežjih</td><td><code>public/og-image.png</code></td></tr>
+    <tr><td>Favicon</td><td><code>public/favicon.svg</code></td></tr>
+    <tr><td>Sitemap</td><td>Avtomatsko (vtičnik <code>@astrojs/sitemap</code>)</td></tr>
+    <tr><td>Disclaimer / opozorila</td><td><code>src/components/ui/Disclaimer.astro</code></td></tr>
+  </tbody>
+</table>
+
+<!-- ==================== 4 ==================== -->
+<h2><span class="section-num">4</span>Razvojni cikel — kako delaš spremembe</h2>
+
+<div class="diagram">
+  <svg viewBox="0 0 700 280" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="arr3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+        <path d="M0,0 L10,5 L0,10 z" fill="#1a3a5c"/>
+      </marker>
+    </defs>
+    <text x="350" y="22" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#0a1628" font-weight="700">Šest korakov razvojnega cikla</text>
+    <g font-family="Segoe UI, sans-serif">
+      <!-- Circular layout -->
+      <!-- 1 EDIT (top) -->
+      <circle cx="350" cy="80" r="40" fill="#fff" stroke="#1a3a5c" stroke-width="1.5"/>
+      <text x="350" y="78" text-anchor="middle" font-weight="700" font-size="11" fill="#0a1628">1. EDIT</text>
+      <text x="350" y="93" text-anchor="middle" font-size="9" fill="#5a5a5a">uredi datoteko</text>
+      <!-- 2 PREVIEW (top-right) -->
+      <circle cx="540" cy="130" r="40" fill="#fff" stroke="#1a3a5c" stroke-width="1.5"/>
+      <text x="540" y="128" text-anchor="middle" font-weight="700" font-size="11" fill="#0a1628">2. PREVIEW</text>
+      <text x="540" y="143" text-anchor="middle" font-size="9" fill="#5a5a5a">npm run dev</text>
+      <!-- 3 BUILD (bottom-right) -->
+      <circle cx="540" cy="230" r="40" fill="#fff" stroke="#1a3a5c" stroke-width="1.5"/>
+      <text x="540" y="228" text-anchor="middle" font-weight="700" font-size="11" fill="#0a1628">3. BUILD</text>
+      <text x="540" y="243" text-anchor="middle" font-size="9" fill="#5a5a5a">preveri napake</text>
+      <!-- 4 COMMIT (bottom) -->
+      <circle cx="350" cy="240" r="40" fill="#faf6e8" stroke="#d4a017" stroke-width="1.5"/>
+      <text x="350" y="238" text-anchor="middle" font-weight="700" font-size="11" fill="#0a1628">4. COMMIT</text>
+      <text x="350" y="253" text-anchor="middle" font-size="9" fill="#5a5a5a">git commit</text>
+      <!-- 5 PUSH (bottom-left) -->
+      <circle cx="160" cy="230" r="40" fill="#faf6e8" stroke="#d4a017" stroke-width="1.5"/>
+      <text x="160" y="228" text-anchor="middle" font-weight="700" font-size="11" fill="#0a1628">5. PUSH</text>
+      <text x="160" y="243" text-anchor="middle" font-size="9" fill="#5a5a5a">git push</text>
+      <!-- 6 DEPLOY (top-left) -->
+      <circle cx="160" cy="130" r="40" fill="#0a1628" stroke="#0a1628"/>
+      <text x="160" y="128" text-anchor="middle" font-weight="700" font-size="11" fill="#fff">6. DEPLOY</text>
+      <text x="160" y="143" text-anchor="middle" font-size="9" fill="#d4a017">avtomatsko</text>
+      <!-- Curved arrows connecting -->
+      <path d="M 386 95 Q 470 90 506 110" stroke="#1a3a5c" stroke-width="1.2" fill="none" marker-end="url(#arr3)"/>
+      <path d="M 540 170 L 540 190" stroke="#1a3a5c" stroke-width="1.2" marker-end="url(#arr3)"/>
+      <path d="M 506 250 Q 470 270 386 250" stroke="#1a3a5c" stroke-width="1.2" fill="none" marker-end="url(#arr3)"/>
+      <path d="M 314 250 Q 270 270 196 250" stroke="#1a3a5c" stroke-width="1.2" fill="none" marker-end="url(#arr3)"/>
+      <path d="M 160 190 L 160 170" stroke="#1a3a5c" stroke-width="1.2" marker-end="url(#arr3)"/>
+      <path d="M 196 110 Q 270 90 314 95" stroke="#1a3a5c" stroke-width="1.2" fill="none" marker-end="url(#arr3)"/>
+    </g>
+  </svg>
+  <div class="diagram-caption">Cikel ponavljaš za vsako spremembo. Po koraku 5 sledi avtomatika — počakaj ~2 minuti.</div>
+</div>
+
+<h3>4.1. Lokalni razvoj — <code>npm run dev</code></h3>
+<p>V terminalu (PowerShell/Git Bash), v mapi projekta:</p>
+<pre><code>cd "C:/Users/Jaž/OneDrive/Namizje/PROJEKTI/INVESTING SPLETNA STRAN/engineering-investor"
+npm run dev</code></pre>
+<p>To zažene <strong>lokalni strežnik</strong> na <code>http://localhost:4321/engineering-investor</code>. Spremembe v kodi so vidne <strong>takoj</strong> (hot reload — ni potrebno osveževati ročno).</p>
+<p>Ko si končal, v terminalu pritisni <span class="kbd">Ctrl</span> + <span class="kbd">C</span> da ustaviš strežnik.</p>
+
+<h3>4.2. Build — preverba pred objavo</h3>
+<pre><code>npm run build</code></pre>
+<p>To naredi produkcijsko različico v mapo <code>dist/</code>. Če koda ni veljavna (sintaktične napake, manjkajoče komponente), bo build <strong>padel</strong> — to je dobro, ker vidi napako PRED objavo.</p>
+<pre><code>npm run preview</code></pre>
+<p>Servira <code>dist/</code> lokalno — vidiš, kako bo stran dejansko zgledala v produkciji.</p>
+
+<!-- ==================== 5 ==================== -->
+<h2><span class="section-num">5</span>Git osnove — shranjevanje in objavljanje</h2>
+
+<p><strong>Git</strong> je sistem za vodenje verzij. Vsaka sprememba se shrani kot "commit" z opisom. <strong>GitHub</strong> je spletni servis, ki hostira tvoj git repozitorij.</p>
+
+<div class="diagram">
+  <svg viewBox="0 0 700 180" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI">
+    <defs>
+      <marker id="arr4" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+        <path d="M0,0 L10,5 L0,10 z" fill="#1a3a5c"/>
+      </marker>
+    </defs>
+    <text x="350" y="22" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#0a1628" font-weight="700">Pot datoteke skozi git</text>
+    <!-- Stages -->
+    <rect x="30" y="60" width="130" height="60" rx="6" fill="#fff" stroke="#7a7a7a"/>
+    <text x="95" y="85" text-anchor="middle" font-weight="700" font-size="11">Working dir</text>
+    <text x="95" y="103" text-anchor="middle" font-size="9" fill="#5a5a5a">tvoja datoteka</text>
+    <rect x="200" y="60" width="130" height="60" rx="6" fill="#faf6e8" stroke="#d4a017"/>
+    <text x="265" y="85" text-anchor="middle" font-weight="700" font-size="11">Staging area</text>
+    <text x="265" y="103" text-anchor="middle" font-size="9" fill="#5a5a5a">pripravljene</text>
+    <rect x="370" y="60" width="130" height="60" rx="6" fill="#f0f6fb" stroke="#1e4d8b"/>
+    <text x="435" y="85" text-anchor="middle" font-weight="700" font-size="11">Local repo</text>
+    <text x="435" y="103" text-anchor="middle" font-size="9" fill="#5a5a5a">zgodovina lokalno</text>
+    <rect x="540" y="60" width="130" height="60" rx="6" fill="#0a1628"/>
+    <text x="605" y="85" text-anchor="middle" font-weight="700" font-size="11" fill="#fff">GitHub</text>
+    <text x="605" y="103" text-anchor="middle" font-size="9" fill="#d4a017">objavljeno</text>
+    <!-- Arrows + commands -->
+    <line x1="160" y1="90" x2="195" y2="90" stroke="#1a3a5c" stroke-width="1.2" marker-end="url(#arr4)"/>
+    <text x="178" y="80" text-anchor="middle" font-size="9" fill="#1a3a5c" font-style="italic" font-family="Consolas, monospace">git add</text>
+    <line x1="330" y1="90" x2="365" y2="90" stroke="#1a3a5c" stroke-width="1.2" marker-end="url(#arr4)"/>
+    <text x="347" y="80" text-anchor="middle" font-size="9" fill="#1a3a5c" font-style="italic" font-family="Consolas, monospace">git commit</text>
+    <line x1="500" y1="90" x2="535" y2="90" stroke="#1a3a5c" stroke-width="1.2" marker-end="url(#arr4)"/>
+    <text x="518" y="80" text-anchor="middle" font-size="9" fill="#1a3a5c" font-style="italic" font-family="Consolas, monospace">git push</text>
+    <text x="350" y="160" text-anchor="middle" font-size="9" fill="#7a7a7a" font-style="italic">Vsaka sprememba prepotuje vse 3 stopnje, preden je objavljena.</text>
+  </svg>
+</div>
+
+<h3>5.1. Osnovni ukazi</h3>
+<pre><code>git status            # Kaj je spremenjeno?
+git diff              # Pokaži spremembe
+git add &lt;datoteka&gt;    # Pripravi datoteko za commit
+git add .             # Pripravi VSE spremembe (previdno!)
+git commit -m "opis"  # Shrani spremembe v zgodovino
+git push              # Naloži lokalne commite na GitHub
+git pull              # Prenesi tuje spremembe iz GitHuba
+git log               # Pokaži zgodovino commitov</code></pre>
+
+<h3>5.2. Tipičen tok shranjevanja</h3>
+<pre><code># 1. Preveri stanje
+git status
+
+# 2. Izberi datoteke
+git add src/components/tracker/views/Transactions.jsx
+
+# 3. Naredi commit z opisom (kratek, opisen)
+git commit -m "fix(tracker): clarify search placeholder"
+
+# 4. Pošlji na GitHub
+git push</code></pre>
+
+<div class="callout">
+  <div class="callout-title">Pravilo dobrega commita</div>
+  Opis pove <strong>kaj</strong> se je spremenilo in <strong>zakaj</strong>, ne kako.
+  <ul style="margin-top: 6px; margin-bottom: 0;">
+    <li><span style="color: #c8651a;">Slabo:</span> "spremembe"</li>
+    <li><span style="color: #c8651a;">Slabo:</span> "popravil sem datoteko Transactions.jsx z dodanim labelom"</li>
+    <li><span style="color: #4a7c4e;">Dobro:</span> "fix(tracker): clarify search placeholder to avoid confusion"</li>
+  </ul>
+</div>
+
+<h3>5.3. Konflikti pri push</h3>
+<p>Če pushaš in dobiš:</p>
+<pre><code>error: failed to push some refs
+hint: Updates were rejected because the remote contains work that you do not have locally.</code></pre>
+<p>Pomeni, da je nekdo drug (ali GitHub Actions bot) pushal pred tabo. Reši takole:</p>
+<pre><code>git pull --rebase
+git push</code></pre>
+<p><code>--rebase</code> "potegne" tuje commite in tvoje postavi na vrh. Brez konfliktov gre samodejno.</p>
+
+<h3>5.4. Kaj NE delati</h3>
+<div class="callout warn">
+  <div class="callout-title">Pozor</div>
+  <ul style="margin: 0;">
+    <li><strong>Nikoli</strong> <code>git push --force</code> na main brez razmisleka — prepiše tuje delo.</li>
+    <li><strong>Nikoli</strong> ne commitaj <code>.env</code> datotek z gesli ali API ključi.</li>
+    <li><strong>Nikoli</strong> ne commitaj mape <code>node_modules/</code> (je v <code>.gitignore</code>).</li>
+    <li><strong>Ne</strong> delaj velikih commitov z 50 spremembami — raje več manjših z jasnim opisom.</li>
+  </ul>
+</div>
+
+<h3>5.5. Skrivnosti / API ključi</h3>
+<p>API ključi (Gemini, NewsAPI) <strong>niso</strong> v kodi. So shranjeni kot <strong>GitHub Secrets</strong>: GitHub repo → Settings → Secrets and variables → Actions. V workflow yaml-u jih dostopaš z <code>${{ secrets.GEMINI_API_KEY }}</code>.</p>
+
+<!-- ==================== 6 ==================== -->
+<h2><span class="section-num">6</span>Kako razmišljati pri programiranju</h2>
+
+<p class="lead">Ko pišeš kodo, se sprašuj. Spodnja načela ne nadomeščajo prakse, ampak jo vodijo.</p>
+
+<h3>6.1. Razdeli problem na dele</h3>
+<p>Velika naloga ("zgradi sledilnik denarja") = <strong>strašna</strong>. Razdeljena na korake = <strong>izvedljiva</strong>:</p>
+<ol>
+  <li>Najprej shramba podatkov (kako shranim transakcijo?)</li>
+  <li>Potem prikaz seznama</li>
+  <li>Potem dodajanje</li>
+  <li>Potem urejanje</li>
+  <li>Potem grafi</li>
+</ol>
+<p>Začni z <strong>najmanjšim, najpreprostejšim delom, ki dela</strong>, šele potem dodajaj.</p>
+
+<h3>6.2. DRY — Don't Repeat Yourself</h3>
+<p>Če pišeš isto kodo 3-krat, naredi <strong>funkcijo</strong> ali <strong>komponento</strong>. Primer: namesto da v vsaki view-u sledilnika pišeš <code>&lt;button style={{ padding: '0.5rem'... }}&gt;</code>, imamo <code>&lt;Button&gt;</code> komponento v <code>tracker/ui.jsx</code> — vse views jo uvozijo.</p>
+
+<h3>6.3. Imenovanja: kratka, jasna, povedna</h3>
+<pre><code>slabo:    var x = data.filter(d =&gt; d.t &gt; 0)
+dobro:    const positiveTransactions = transactions.filter(t =&gt; t.amount &gt; 0)</code></pre>
+<p>Tudi imena datotek: <code>Transactions.jsx</code>, ne <code>t.jsx</code> ali <code>transactions_v2_final.jsx</code>.</p>
+
+<h3>6.4. Beri obstoječo kodo, preden pišeš novo</h3>
+<p>Preden napišeš novo komponento, se vprašaj:</p>
+<ul>
+  <li><em>Mar že obstaja podobna?</em> (preglej <code>components/tracker/ui.jsx</code>, <code>components/ui/</code>)</li>
+  <li><em>Ali lahko obstoječo razširim?</em></li>
+</ul>
+<p>Tako se izogneš podvojeni kodi.</p>
+
+<h3>6.5. Single source of truth</h3>
+<p>Vsak podatek ima <strong>eno mesto, kjer je shranjen</strong>. Sledilnik: vse stanje je v <code>localStorage</code> pod ključem <code>ei-tracker-v1</code>, dostopano preko <code>loadState()</code> v <code>store.js</code>. Vsi viewi to stanje <strong>berejo</strong>, ne dvopisujejo lokalno.</p>
+
+<h3>6.6. Ko obstane, vprašaj "zakaj"</h3>
+<p>Če koda ne deluje:</p>
+<ol>
+  <li><strong>Preberi sporočilo o napaki natančno</strong> — pogosto pove točno, kaj je narobe.</li>
+  <li>Vprašaj: <em>zakaj se to dogaja?</em>, ne <em>kako naj to skrijem?</em></li>
+  <li>Dodaj <code>console.log(...)</code> za izpis vrednosti, da vidiš, kaj se zgodi.</li>
+</ol>
+
+<h3>6.7. Ne piši kode "za bodočnost"</h3>
+<div class="callout tip">
+  <div class="callout-title">Pravilo</div>
+  Mlade razvijalce mami pisati abstraktno kodo "za bodoče potrebe". <strong>To je past.</strong> Piši najpreprostejšo kodo, ki reši <strong>trenutni</strong> problem. Refaktoriraš lahko, ko se potreba pojavi.
+</div>
+
+<!-- ==================== 7 ==================== -->
+<h2><span class="section-num">7</span>Dnevni pregled — posebnost</h2>
+
+<p>To je <strong>edina avtomatizacija</strong> na strani. Pretok prikazuje, kaj se zgodi vsak dan ob 06:30 UTC, brez tvojega posredovanja:</p>
+
+<div class="diagram">
+  <svg viewBox="0 0 700 280" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI">
+    <defs>
+      <marker id="arr5" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+        <path d="M0,0 L10,5 L0,10 z" fill="#0a1628"/>
+      </marker>
+    </defs>
+    <text x="350" y="22" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#0a1628" font-weight="700">Dnevni pregled — pipeline</text>
+
+    <!-- 1 Cron -->
+    <rect x="20" y="50" width="120" height="50" rx="6" fill="#0a1628"/>
+    <text x="80" y="75" text-anchor="middle" font-weight="700" font-size="10" fill="#fff">⏰ Cron 06:30 UTC</text>
+    <text x="80" y="90" text-anchor="middle" font-size="9" fill="#d4a017">GitHub Actions</text>
+
+    <line x1="140" y1="75" x2="170" y2="75" stroke="#0a1628" stroke-width="1.2" marker-end="url(#arr5)"/>
+
+    <!-- 2 Script -->
+    <rect x="175" y="50" width="160" height="50" rx="6" fill="#fff" stroke="#1a3a5c" stroke-width="1.5"/>
+    <text x="255" y="75" text-anchor="middle" font-weight="700" font-size="10" fill="#0a1628">generate-briefing.mjs</text>
+    <text x="255" y="90" text-anchor="middle" font-size="9" fill="#5a5a5a">Node.js skripta</text>
+
+    <line x1="335" y1="75" x2="365" y2="75" stroke="#0a1628" stroke-width="1.2" marker-end="url(#arr5)"/>
+
+    <!-- 3 NewsAPI -->
+    <rect x="370" y="20" width="130" height="50" rx="6" fill="#faf6e8" stroke="#d4a017"/>
+    <text x="435" y="42" text-anchor="middle" font-weight="700" font-size="10" fill="#0a1628">NewsAPI</text>
+    <text x="435" y="58" text-anchor="middle" font-size="9" fill="#5a5a5a">zadnje novice</text>
+
+    <line x1="370" y1="60" x2="370" y2="65" stroke="#0a1628" stroke-width="0.8"/>
+    <line x1="335" y1="80" x2="365" y2="80" stroke="#0a1628" stroke-width="1.2" marker-end="url(#arr5)" stroke-dasharray="3,2"/>
+
+    <!-- 4 Gemini -->
+    <rect x="370" y="90" width="130" height="50" rx="6" fill="#faf6e8" stroke="#d4a017"/>
+    <text x="435" y="112" text-anchor="middle" font-weight="700" font-size="10" fill="#0a1628">Gemini AI</text>
+    <text x="435" y="128" text-anchor="middle" font-size="9" fill="#5a5a5a">slo. analiza → JSON</text>
+
+    <path d="M 500 75 Q 540 75 540 130 Q 540 175 500 175" stroke="#0a1628" stroke-width="1.2" fill="none" marker-end="url(#arr5)"/>
+
+    <!-- 5 JSON -->
+    <rect x="370" y="160" width="130" height="50" rx="6" fill="#fff" stroke="#1a3a5c" stroke-width="1.5"/>
+    <text x="435" y="182" text-anchor="middle" font-weight="700" font-size="10" fill="#0a1628">briefing.json</text>
+    <text x="435" y="198" text-anchor="middle" font-size="9" fill="#5a5a5a">public/data/</text>
+
+    <line x1="370" y1="185" x2="340" y2="185" stroke="#0a1628" stroke-width="1.2" marker-end="url(#arr5)"/>
+
+    <!-- 6 Build & Deploy -->
+    <rect x="175" y="160" width="160" height="50" rx="6" fill="#0a1628"/>
+    <text x="255" y="182" text-anchor="middle" font-weight="700" font-size="10" fill="#fff">Build + Deploy</text>
+    <text x="255" y="198" text-anchor="middle" font-size="9" fill="#d4a017">na GitHub Pages</text>
+
+    <line x1="175" y1="185" x2="145" y2="185" stroke="#0a1628" stroke-width="1.2" marker-end="url(#arr5)"/>
+
+    <!-- 7 LIVE -->
+    <rect x="20" y="160" width="120" height="50" rx="6" fill="#d4a017"/>
+    <text x="80" y="182" text-anchor="middle" font-weight="700" font-size="10" fill="#0a1628">🌐 LIVE</text>
+    <text x="80" y="198" text-anchor="middle" font-size="9" fill="#0a1628">~07:00 UTC</text>
+
+    <text x="350" y="250" text-anchor="middle" font-size="9" fill="#7a7a7a" font-style="italic">Komponenta MarketBriefing.jsx ob nalaganju strani fetcha briefing.json in prikaže.</text>
+  </svg>
+</div>
+
+<p>Če želiš spremeniti <strong>frekvenco</strong>: <code>cron: '30 6 * * *'</code> v <code>.github/workflows/daily-briefing.yml</code>. Format: minute, ure, dan v mesecu, mesec, dan v tednu.</p>
+<p>Če želiš spremeniti <strong>prompt</strong> za Gemini: <code>scripts/generate-briefing.mjs</code>, funkcija <code>buildUserPrompt</code>.</p>
+
+<div class="callout tip">
+  <div class="callout-title">Ročni sprožilec</div>
+  Lahko ga sprožiš tudi ročno: GitHub repo → Actions → Daily Market Briefing → Run workflow.
+</div>
+
+<!-- ==================== 8 ==================== -->
+<h2><span class="section-num">8</span>Tipičen scenarij — dodajam nov članek</h2>
+
+<p>Pretok od ideje do objave:</p>
+
+<pre><code># 1. Naredi novo datoteko
+src/content/articles/moja-nova-analiza.md</code></pre>
+
+<pre><code>---
+title: 'Moja nova analiza'
+date: 2026-05-08
+category: 'Trgi'
+excerpt: 'Kratek povzetek za seznam.'
+---
+
+# Glavni naslov
+
+Tu napišeš članek.</code></pre>
+
+<pre><code># 2. Lokalno preveri
+npm run dev
+# Odpri http://localhost:4321/engineering-investor/analize/moja-nova-analiza
+
+# 3. Build preveri (naj ne bo napak)
+npm run build
+
+# 4. Shrani in objavi
+git add src/content/articles/moja-nova-analiza.md
+git commit -m "post: nova analiza o trgih"
+git push</code></pre>
+
+<p>GitHub Actions bo zgradil in deployal v ~2 minutah.</p>
+
+<!-- ==================== 9 ==================== -->
+<h2><span class="section-num">9</span>Pogosta orodja, ki jih boš srečal</h2>
+
+<table>
+  <thead>
+    <tr><th style="width: 30%;">Orodje</th><th>Za kaj</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>VS Code</strong></td><td>Urejevalnik kode (priporočam za to delo).</td></tr>
+    <tr><td><strong>Terminal</strong></td><td>PowerShell, Git Bash — za <code>npm</code>, <code>git</code> ukaze.</td></tr>
+    <tr><td><strong>Brskalnik DevTools</strong></td><td><span class="kbd">F12</span> — za inšpekcijo HTML/CSS in vidno napak v konzoli.</td></tr>
+    <tr><td><strong>GitHub</strong></td><td>Kjer je koda shranjena, kjer se sproži deploy.</td></tr>
+    <tr><td><strong>node_modules/</strong></td><td>Mapa s knjižnicami; <code>npm install</code> jo ustvari iz <code>package.json</code>. Ne commitaj je.</td></tr>
+  </tbody>
+</table>
+
+<!-- ==================== 10 ==================== -->
+<h2><span class="section-num">10</span>Naprej — kaj se naučiti</h2>
+
+<p>Vrstni red, ki priporočam:</p>
+
+<div class="diagram">
+  <svg viewBox="0 0 700 130" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI">
+    <defs>
+      <marker id="arr6" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+        <path d="M0,0 L10,5 L0,10 z" fill="#1a3a5c"/>
+      </marker>
+    </defs>
+    <g>
+      <rect x="10" y="40" width="100" height="50" rx="6" fill="#fff" stroke="#1a3a5c" stroke-width="1.5"/>
+      <text x="60" y="62" text-anchor="middle" font-weight="700" font-size="11" fill="#0a1628">HTML</text>
+      <text x="60" y="78" text-anchor="middle" font-size="8.5" fill="#5a5a5a">tagi, semantika</text>
+
+      <line x1="110" y1="65" x2="125" y2="65" stroke="#1a3a5c" stroke-width="1.2" marker-end="url(#arr6)"/>
+
+      <rect x="125" y="40" width="100" height="50" rx="6" fill="#fff" stroke="#1a3a5c" stroke-width="1.5"/>
+      <text x="175" y="62" text-anchor="middle" font-weight="700" font-size="11" fill="#0a1628">CSS</text>
+      <text x="175" y="78" text-anchor="middle" font-size="8.5" fill="#5a5a5a">flexbox, grid</text>
+
+      <line x1="225" y1="65" x2="240" y2="65" stroke="#1a3a5c" stroke-width="1.2" marker-end="url(#arr6)"/>
+
+      <rect x="240" y="40" width="100" height="50" rx="6" fill="#fff" stroke="#1a3a5c" stroke-width="1.5"/>
+      <text x="290" y="62" text-anchor="middle" font-weight="700" font-size="11" fill="#0a1628">JavaScript</text>
+      <text x="290" y="78" text-anchor="middle" font-size="8.5" fill="#5a5a5a">funkcije, map/filter</text>
+
+      <line x1="340" y1="65" x2="355" y2="65" stroke="#1a3a5c" stroke-width="1.2" marker-end="url(#arr6)"/>
+
+      <rect x="355" y="40" width="100" height="50" rx="6" fill="#faf6e8" stroke="#d4a017" stroke-width="1.5"/>
+      <text x="405" y="62" text-anchor="middle" font-weight="700" font-size="11" fill="#0a1628">React</text>
+      <text x="405" y="78" text-anchor="middle" font-size="8.5" fill="#5a5a5a">useState, props</text>
+
+      <line x1="455" y1="65" x2="470" y2="65" stroke="#1a3a5c" stroke-width="1.2" marker-end="url(#arr6)"/>
+
+      <rect x="470" y="40" width="100" height="50" rx="6" fill="#faf6e8" stroke="#d4a017" stroke-width="1.5"/>
+      <text x="520" y="62" text-anchor="middle" font-weight="700" font-size="11" fill="#0a1628">Astro</text>
+      <text x="520" y="78" text-anchor="middle" font-size="8.5" fill="#5a5a5a">routing, content</text>
+
+      <line x1="570" y1="65" x2="585" y2="65" stroke="#1a3a5c" stroke-width="1.2" marker-end="url(#arr6)"/>
+
+      <rect x="585" y="40" width="100" height="50" rx="6" fill="#0a1628"/>
+      <text x="635" y="62" text-anchor="middle" font-weight="700" font-size="11" fill="#fff">Git</text>
+      <text x="635" y="78" text-anchor="middle" font-size="8.5" fill="#d4a017">commit, push</text>
+    </g>
+    <text x="350" y="115" text-anchor="middle" font-size="9" fill="#7a7a7a" font-style="italic">Vsak korak gradi na prejšnjem. Brez panike — tedne, ne dneve.</text>
+  </svg>
+</div>
+
+<ol>
+  <li><strong>HTML osnove</strong> — kaj so tagi, atributi, semantika (<code>&lt;header&gt;</code>, <code>&lt;article&gt;</code>, <code>&lt;section&gt;</code>).</li>
+  <li><strong>CSS osnove</strong> — selektorji, flexbox, grid, custom properties (<code>--color-accent</code>).</li>
+  <li><strong>JavaScript osnove</strong> — spremenljivke, funkcije, objekti, array metode (<code>map</code>, <code>filter</code>, <code>reduce</code>).</li>
+  <li><strong>React osnove</strong> — komponente, props, useState, useEffect.</li>
+  <li><strong>Astro osnove</strong> — frontmatter, file-based routing, integracije.</li>
+  <li><strong>Git osnove</strong> — commit, push, pull, branch.</li>
+</ol>
+
+<p>Brez znanja vseh detajlov razumeš <strong>strukturo</strong>, in to je dovolj, da lahko spreminjaš stran.</p>
+
+<!-- ==================== 11 ==================== -->
+<h2><span class="section-num">11</span>Hitri referenčni listek</h2>
+
+<h3>Razvoj</h3>
+<pre><code>npm run dev               # zaženi lokalno
+npm run build             # zgradi produkcijsko
+npm run preview           # pokaži produkcijsko lokalno</code></pre>
+
+<h3>Git</h3>
+<pre><code>git status                # kaj je spremenjeno
+git add &lt;datoteka&gt;        # pripravi za commit
+git commit -m "opis"      # shrani v zgodovino
+git push                  # naloži na GitHub
+git pull --rebase         # prenesi tuje + postavi svoje na vrh</code></pre>
+
+<h3>Cron sprožilec ročno</h3>
+<pre><code>GitHub repo → Actions → Daily Market Briefing → Run workflow</code></pre>
+
+<h3>Pomembne lokacije v kodi</h3>
+<table>
+  <tbody>
+    <tr><td>Navigacijski meni</td><td><code>src/config.ts</code></td></tr>
+    <tr><td>Globalni stili</td><td><code>src/styles/global.css</code></td></tr>
+    <tr><td>Sledilnik logika</td><td><code>src/components/tracker/store.js</code></td></tr>
+    <tr><td>Briefing skripta</td><td><code>scripts/generate-briefing.mjs</code></td></tr>
+    <tr><td>Cron urnik</td><td><code>.github/workflows/daily-briefing.yml</code></td></tr>
+  </tbody>
+</table>
+
+<hr style="margin-top: 3em;">
+
+<div class="callout tip" style="margin-top: 2em;">
+  <div class="callout-title">Zlato pravilo</div>
+  Če se kje obstaneš, vprašaj. <strong>Bolje 5 minut vprašanja kot 5 ur ugibanja.</strong>
+</div>
+
+<div style="margin-top: 4em; text-align: center; color: #888; font-size: 9pt; font-style: italic;">
+  Engineering Investor &middot; Vodnik v1.0 &middot; Maj 2026
+</div>
+
+</body>
+</html>
