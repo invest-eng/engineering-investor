@@ -1,4 +1,8 @@
-name: Deploy to GitHub Pages
+name: Objava obvestila (stara stran ni več objavljena)
+
+# Stara stran od 10. 10. 2026 ni več objavljena (ARHIV.md). Na javni naslov gre samo obvestilo iz mape
+# arhiv-obvestilo/. Koda strani ostane v repozitoriju in teče lokalno z "npm run dev".
+# Za ponovno objavo cele strani vrni prejšnjo različico te datoteke iz zgodovine.
 
 on:
   push:
@@ -21,25 +25,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: npm
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Build
-        env:
-          PUBLIC_SUPABASE_URL: ${{ secrets.PUBLIC_SUPABASE_URL }}
-          PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.PUBLIC_SUPABASE_ANON_KEY }}
-        run: npm run build
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist
+          path: ./arhiv-obvestilo
 
   deploy:
     needs: build
