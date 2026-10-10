@@ -1,162 +1,162 @@
 {
-  "generiranoOb": "2026-10-08T20:53:23.464Z",
+  "generiranoOb": "2026-10-09T20:23:14.303Z",
   "izdaja": "afternoon",
   "model": "gemini-2.5-flash",
   "tier": "free",
-  "datum": "2026-10-08",
-  "povzetek": "Evropski in ameriški trgi so danes, 8. oktobra 2026, pokazali negativno smer. Evropski indeks DAX je dan zaključil z padcem za 1,18 % pri 24.807 točkah, medtem ko sta ameriška indeksa S&P 500 in Nasdaq 100 po dveh urah trgovanja beležila padec za 0,47 % na 7765 oziroma 1,39 % na 30726 točk. Glavni razlogi za pesimizem so bili predvsem v tehnološkem sektorju, kjer je novica o nižjih pričakovanih letnih prihodkih OpenAI za 20 milijard dolarjev vplivala na razpoloženje. Dodatno je na tehnološke gigante vplivala odločitev Bele hiše o blokadi Microsofta pri programu zaposlovanja tujih delavcev. Naftni trgi so medtem doživeli precejšen skok, saj je cena WTI nafte zrasla za 2,85 % na 90,80 USD/sod, Brent nafte pa za 3,39 % na 103,60 USD/sod, kar je verjetno povezano z geopolitičnimi napetostmi v regiji Bližnjega vzhoda. Vlagatelji bodo v prihodnjih dneh pozorno spremljali morebitne objave makroekonomskih podatkov in komentarje centralnih bankirjev, ki bi lahko vplivali na smer trgov.",
+  "datum": "2026-10-09",
+  "povzetek": "Evropski trgi so danes zaključili trgovanje v pozitivnem tonu, pri čemer je nemški indeks DAX zrasel za 1,13 % in dosegel 25.087 točk. Medtem so ameriški trgi, ki so odprti že dve uri, nadaljevali z rastjo; S&P 500 je pridobil 0,59 % in dosegel 7812 točk, tehnološki Nasdaq 100 pa je bil višje za 0,51 % pri 30883 točkah. Japonski Nikkei 225 je danes zabeležil minimalen padec za 0,02 % na 69031 točk. Na trgu surovin je zlato zraslo za 1,52 % na 4220,20 USD/oz, medtem ko sta ceni nafte WTI in Brent ostali stabilni, z minimalnim padcem za 0,04 % oziroma 0,02 %. Devizni par EUR/USD je bil rahlo nižje pri 1,1206 (-0,09 %), donosnost 10-letne ameriške državne obveznice pa se je povzpela za 0,25 % na 5,24 %. Bitcoin je nadaljeval z rastjo in pridobil 0,89 % na 82414 USD, medtem ko je indeks volatilnosti VIX padel za 3,83 % na 14,82. Glavne novice dneva so vključevale dogovor o dobavi ruskega dizla v ZDA, ki bi lahko vplival na cene energentov, in napovedi o morebitnem dvigu donosnosti ameriških obveznic na 6 %, kar bi lahko imelo širše posledice za trge. Vlagatelji bodo ta teden pozorno spremljali objavo podatkov o inflaciji v ZDA, ki bo ključna za smer monetarne politike.",
   "novice": [
     {
-      "naslov": "Izguba ameriških letal v iranski vojni dviga geopolitična tveganja in cene nafte",
+      "naslov": "Trumpov dogovor z Rusijo o dizlu sproža kritike in vpliva na energente",
+      "sektor": "Geopolitika",
+      "smer": "mešano",
+      "intenziteta": 3,
+      "povzetek": "Ameriški predsednik Trump je napovedal dogovor z Rusijo o dobavi ruskega dizla v ZDA, kar naj bi pomagalo znižati visoke cene goriva v državi. Ta poteza prihaja le nekaj tednov pred ključnimi vmesnimi volitvami v ZDA, kjer so cene energentov pomembno politično vprašanje. Ukrajinski predsednik Zelenski je dogovor ostro kritiziral, češ da omogočanje prodaje ruskih naftnih derivatov podaljšuje vojno in je \"darilo Putinu\". Al Jazeera poroča, da naj bi Rusija kmalu dobavila milijone ton dizla, medtem ko BBC poudarja, da so cene goriva v ZDA močno narasle. Dogovor je bil objavljen 9. oktobra 2026 ob 20:13:23 UTC.",
+      "analiza": "Ozadje tega dogovora je v naraščajočih cenah goriva v ZDA, ki so postale pomembna tema v predvolilni kampanji za vmesne volitve. Trumpova administracija si prizadeva znižati stroške za potrošnike, kar bi lahko izboljšalo njene politične možnosti. Povezava z aktualnimi trendi je očitna: globalna energetska kriza in geopolitične napetosti, ki so povzročile visoke cene nafte in njenih derivatov. Mehanizem vpliva na finančne trge je večplasten: povečana ponudba dizla iz Rusije bi lahko kratkoročno znižala cene naftnih derivatov v ZDA, kar bi ublažilo inflacijske pritiske. To bi lahko pozitivno vplivalo na delnice podjetij, odvisnih od transporta, in na potrošniško porabo. Vendar pa geopolitične posledice, kot je kritika Ukrajine in drugih zaveznic, lahko povečajo negotovost na mednarodnih trgih. Za surovine, kot sta WTI nafta (trenutno pri 91,45 USD/sod) in Brent nafta (104,26 USD/sod), bi lahko takšen dogovor pomenil pritisk navzdol, čeprav je danes njun padec minimalen. Za valute, kot je EUR/USD (1,1206), bi lahko stabilizacija cen energentov v ZDA okrepila dolar, če bi to pomenilo manjšo inflacijo in morebitno manj agresivno politiko Feda. Slovenski dolgoročni vlagatelj mora razumeti, da so cene energentov ključni dejavnik globalne inflacije in gospodarske rasti, zato so takšni dogovori pomembni za stabilnost trgov, čeprav prinašajo tudi geopolitična tveganja.",
+      "vpliv": [
+        "Potencialno znižanje cen dizla v ZDA",
+        "Povečana geopolitična negotovost",
+        "Vpliv na inflacijske pritiske",
+        "Potencialno znižanje cen nafte"
+      ],
+      "vir": "BBC Business",
+      "vir_url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "objavljeno": "2026-10-09T20:13:23.000Z"
+    },
+    {
+      "naslov": "Analiza napoveduje morebiten dvig donosnosti ameriških obveznic na 6 %",
+      "sektor": "Makro & Centralne banke",
+      "smer": "negativno",
+      "intenziteta": 3,
+      "povzetek": "MarketWatch poroča o analizi, ki nakazuje, da bi donosnosti ameriških državnih obveznic lahko dosegle 6 %, tudi brez večjih pretresov na trgu. Donosnost 10-letne ameriške državne obveznice je danes že zrasla za 0,25 % na 5,24 %. Članek omenja, da bo trg obveznic v ponedeljek, 12. oktobra 2026, zaprt zaradi praznika Columbus Day, medtem ko bo delniški trg deloval normalno. Ta napoved je pomembna v luči trenutnih makroekonomskih razmer in pričakovanj glede prihodnje monetarne politike. Novica je bila objavljena 9. oktobra 2026 ob 20:03:00 UTC.",
+      "analiza": "Trenutno se donosnost 10-letne ameriške državne obveznice giblje pri 5,24 %, kar je že precej visoko v primerjavi z zadnjimi leti. Ozadje teh napovedi je v vztrajni inflaciji in pričakovanjih, da bo Federal Reserve morda morala ohraniti višje obrestne mere dlje časa ali jih celo še dvigniti, da bi zajezila cenovne pritiske. Povezava z aktualnimi trendi je neposredna, saj so donosnosti obveznic ključni kazalnik stroškov zadolževanja in vplivajo na vrednotenje vseh finančnih sredstev. Mehanizem vpliva na finančne trge je jasen: višje donosnosti obveznic pomenijo višje stroške zadolževanja za podjetja in države, kar lahko upočasni gospodarsko rast. Za delnice to pomeni, da so prihodnji dobički podjetij diskontirani z višjo obrestno mero, kar zmanjšuje njihovo privlačnost. Tehnološke delnice in rastna podjetja so še posebej občutljive na to. Za valute bi višje donosnosti ameriških obveznic lahko okrepile ameriški dolar (EUR/USD je danes pri 1,1206), saj bi privabile tuje vlagatelje, ki iščejo višje donose. Slovenski dolgoročni vlagatelj mora biti pozoren na gibanje obrestnih mer, saj te vplivajo na privlačnost različnih naložbenih razredov in na splošno gospodarsko okolje.",
+      "vpliv": [
+        "Pritisk na vrednotenje delnic",
+        "Višji stroški zadolževanja",
+        "Potencialna krepitev USD",
+        "Zmanjšana privlačnost dolgoročnih obveznic"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval-7d9fac9c?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-09T20:03:00.000Z"
+    },
+    {
+      "naslov": "Mednarodna skupnost podpira ICC proti ameriškim sankcijam, kar kaže na razkol",
       "sektor": "Geopolitika",
       "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Poročilo Kongresnega proračunskega urada razkriva, da je bilo v vojni z Iranom izgubljenih ali poškodovanih najmanj 81 ameriških letal, kar predstavlja škodo v višini do 3,3 milijarde dolarjev. Ta podatek prihaja v času, ko se predsednik Trump sooča s kritikami glede stroškov vojne. Izgube poudarjajo resnost konflikta in njegov finančni davek za ZDA. Dogajanje v regiji Bližnjega vzhoda ostaja napeto, kar se odraža tudi na trgih surovin. Povečana nestabilnost vpliva na globalno percepcijo tveganja, še posebej v energetskem sektorju.",
-      "analiza": "Konflikt z Iranom, ki je ključni proizvajalec nafte in se nahaja v strateško pomembni regiji, ima neposredne in posredne posledice za globalne finančne trge. Izguba vojaške opreme v tako velikem obsegu kaže na intenzivnost in dolgotrajnost konflikta, kar povečuje geopolitično premijo tveganja. V preteklosti so podobne napetosti in konflikti na Bližnjem vzhodu vedno povzročili rast cen nafte, saj trgi predvidevajo morebitne motnje v dobavi. Danes je cena WTI nafte zrasla za 2,85 % na 90,80 USD/sod, Brent nafte pa za 3,39 % na 103,60 USD/sod, kar je neposredna posledica teh tveganj. Povečana negotovost vpliva tudi na delniške trge, saj vlagatelji postanejo bolj previdni, kar se odraža v padcu indeksov, kot sta S&P 500 in Nasdaq 100. Zlato, ki velja za varno zatočišče, je zraslo za 0,43 % na 4158,50 USD/oz, kar potrjuje iskanje varnosti. Za slovenskega dolgoročnega vlagatelja to pomeni, da je pomembno spremljati globalna geopolitična tveganja, saj lahko ta močno vplivajo na cene surovin in splošno razpoloženje na trgih, kar se posredno odraža tudi na donosnosti naložb.",
+      "intenziteta": 2,
+      "povzetek": "Več evropskih držav, Kanada, Japonska in Združeni narodi so izrazili podporo Mednarodnemu kazenskemu sodišču (ICC) in pozvali k njegovi \"obrambi\" in \"zaščiti\" po odločitvi Washingtona, da uvede sankcije proti sodnemu organu. Predsednica ICC, Tomoko Akane, je ameriške sankcije označila za \"napad na suverene države\". Ta poteza ZDA in odziv mednarodne skupnosti kažeta na naraščajoče napetosti in razkol glede mednarodnega prava in suverenosti. Novica je bila objavljena 9. oktobra 2026 ob 19:32:13 UTC.",
+      "analiza": "Ozadje te novice je v dolgotrajnih napetostih med ZDA in ICC, ki so se stopnjevale zaradi preiskav, ki bi lahko vključevale ameriško osebje. ZDA so tradicionalno skeptične do pristojnosti ICC nad svojimi državljani, kar je privedlo do uvedbe sankcij. Povezava z aktualnimi trendi je v širšem kontekstu multilateralizma in mednarodnih odnosov, kjer se ZDA včasih odločijo za unilateralne poteze, kar naleti na odpor mednarodne skupnosti. Mehanizem vpliva na finančne trge je posreden, vendar pomemben: povečana geopolitična nestabilnost in trenja med ključnimi globalnimi akterji lahko zmanjšajo zaupanje vlagateljev. To lahko vodi do bega v varnejša zatočišča, kot je zlato, ki je danes zraslo za 1,52 % na 4220,20 USD/oz. Za valute bi lahko takšni razkoli povzročili nihanja, saj bi vlagatelji preusmerjali kapital med različnimi valutami, odvisno od percepcije tveganja. Čeprav neposrednega vpliva na delnice ni, lahko splošna negotovost vpliva na sentiment in povzroči povečano volatilnost, kar se danes odraža v padcu VIX za 3,83 % na 14,82. Slovenski dolgoročni vlagatelj mora biti pozoren na geopolitične dejavnike, saj lahko ti dolgoročno vplivajo na stabilnost globalnega gospodarstva in s tem na donosnost naložb.",
       "vpliv": [
-        "Cena WTI nafte +2,85 % na 90,80 USD/sod",
-        "Cena Brent nafte +3,39 % na 103,60 USD/sod",
-        "Rast cene zlata +0,43 % na 4158,50 USD/oz",
-        "Povečana geopolitična tveganja"
+        "Povečana geopolitična negotovost",
+        "Potencialna nihanja valut",
+        "Povečana privlačnost varnih zatočišč (zlato)",
+        "Vpliv na zaupanje vlagateljev"
       ],
       "vir": "Al Jazeera",
-      "vir_url": "https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss",
-      "objavljeno": "2026-10-08T19:43:39.000Z"
+      "vir_url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
+      "objavljeno": "2026-10-09T19:32:13.000Z"
     },
     {
-      "naslov": "OpenAI letni prihodki 20 milijard dolarjev pod prejšnjimi napovedmi",
+      "naslov": "Delnice telekomunikacijskih velikanov padajo zaradi grožnje SpaceX-a",
       "sektor": "Tehnologija & AI",
+      "smer": "negativno",
+      "intenziteta": 2,
+      "povzetek": "Delnice telekomunikacijskih podjetij, kot so AT&T, Verizon in T-Mobile, so danes zabeležile najslabše dnevne padce v več kot desetletju. Wall Street ocenjuje naraščajočo grožnjo, ki jo predstavlja SpaceX s svojo satelitsko internetno storitvijo Starlink. Opis novice poudarja, da so se delnice telekomunikacijskih podjetij soočale z močnim pritiskom, saj vlagatelji prepoznavajo potencialno konkurenčno prednost SpaceX-a na trgu širokopasovnega interneta. Novica je bila objavljena 9. oktobra 2026 ob 18:16:00 UTC.",
+      "analiza": "Ozadje te novice je v hitrem razvoju satelitske internetne tehnologije, ki jo poganja podjetje SpaceX z omrežjem Starlink. Ta tehnologija omogoča dostop do interneta na oddaljenih območjih in predstavlja neposredno konkurenco tradicionalnim ponudnikom telekomunikacijskih storitev. Povezava z aktualnimi trendi je jasna: tehnološke inovacije nenehno spreminjajo industrije in ustvarjajo nove izzive za uveljavljene akterje. Mehanizem vpliva na finančne trge je v preusmerjanju kapitala in pričakovanj vlagateljev. Ko se pojavi disruptivna tehnologija, vlagatelji pogosto preusmerijo sredstva iz podjetij, ki so ogrožena, v tista, ki so inovatorji. Posledice za delnice so neposredne: delnice AT&T, Verizon in T-Mobile so padle, saj se zmanjšujejo pričakovanja o njihovih prihodnjih dobičkih in tržnem deležu. To poudarja pomen inovacij in prilagodljivosti v poslovnem svetu. Za širši trg to pomeni, da so sektorji, ki so se zdeli stabilni, zdaj izpostavljeni tveganju tehnološke disrupcije. Slovenski dolgoročni vlagatelj mora razumeti, da je diverzifikacija portfelja ključna in da je pomembno spremljati tehnološke trende, ki lahko korenito spremenijo industrije in vplivajo na dolgoročno uspešnost naložb.",
+      "vpliv": [
+        "Padec delnic tradicionalnih telekomunikacijskih podjetij",
+        "Povečana konkurenca v telekomunikacijskem sektorju",
+        "Preusmeritev investicij v inovativne tehnologije",
+        "Vpliv na dolgoročno strategijo telekomunikacijskih podjetij"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-09T18:16:00.000Z"
+    },
+    {
+      "naslov": "Microsoft se približuje 4 bilijonom dolarjev tržne kapitalizacije",
+      "sektor": "Tehnologija & AI",
+      "smer": "pozitivno",
+      "intenziteta": 2,
+      "povzetek": "Microsoft se približuje pomembnemu mejniku, saj je blizu ponovnega doseganja tržne kapitalizacije v višini 4 bilijonov dolarjev. MarketWatch poroča, da so novi rekordi prav tako na dosegu roke, kar utrjuje preporod podjetja. Ta dosežek kaže na močno rast in zaupanje vlagateljev v poslovni model in prihodnje strategije tehnološkega velikana. Novica je bila objavljena 9. oktobra 2026 ob 19:04:00 UTC.",
+      "analiza": "Ozadje Microsoftovega uspeha je v njegovi močni poziciji na področju programske opreme v oblaku (Azure), poslovnih rešitev (Office 365) in umetne inteligence. Podjetje je uspešno prešlo iz tradicionalnega modela programske opreme na naročniški model in agresivno investira v prihodnje tehnologije. Povezava z aktualnimi trendi je očitna: rast velikih tehnoloških podjetij, ki so gonilna sila borznih indeksov, kot sta S&P 500 (danes pri 7812 točkah) in Nasdaq 100 (danes pri 30883 točkah). Mehanizem vpliva na finančne trge je v splošnem pozitivnem sentimentu do tehnološkega sektorja in rasti, ki jo vodijo inovacije. Ko velika podjetja dosegajo takšne mejnike, to pogosto signalizira moč celotnega sektorja in privablja dodatne investicije. Posledice za delnice so jasne: Microsoftove delnice so v porastu, kar prispeva k rasti širših indeksov. To kaže na moč podjetja, ki je ključni igralec v globalnem gospodarstvu. Slovenski dolgoročni vlagatelj mora razumeti, da so tehnološki velikani pogosto ključni del globalnih indeksov in njihova uspešnost pomembno vpliva na celoten trg.",
+      "vpliv": [
+        "Rast delnic Microsofta",
+        "Pozitiven vpliv na tehnološki sektor",
+        "Utrjevanje zaupanja vlagateljev v velike tehnološke družbe",
+        "Prispevek k rasti širših borznih indeksov"
+      ],
+      "vir": "MarketWatch",
+      "vir_url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
+      "objavljeno": "2026-10-09T19:04:00.000Z"
+    },
+    {
+      "naslov": "Trump ustanavlja odbor za preiskavo guvernerke Feda Lise Cook",
+      "sektor": "Makro & Centralne banke",
       "smer": "negativno",
       "intenziteta": 3,
-      "povzetek": "Podjetje OpenAI, ključni akter na področju umetne inteligence, je nedavno vlagateljem sporočilo, da se njegovi letni prihodki približujejo 50 milijardam dolarjev, kar je bistveno manj od 70 milijard dolarjev, o katerih se je široko poročalo. Ta razlika, ki znaša 20 milijard dolarjev, kaže na morebitno preveč optimistične ocene rasti v sektorju umetne inteligence. Novica je pomembna, saj OpenAI velja za enega vodilnih inovatorjev, in morebitno upočasnjevanje rasti pri tako pomembnem podjetju lahko vpliva na celoten sektor.",
-      "analiza": "Prihodki podjetij, še posebej tistih v hitro rastočih sektorjih, kot je umetna inteligenca, so ključni kazalnik zdravja in prihodnjih pričakovanj. Znižanje napovedi letnih prihodkov OpenAI za 20 milijard dolarjev, s 70 na 50 milijard dolarjev, pomeni pomemben udarec za optimizem vlagateljev v AI sektorju. To lahko sproži vprašanja o realističnosti valuacij in stopnji rasti, ki so bile pripisane podjetjem v umetni inteligenci. Posledično se je danes Nasdaq 100, indeks, ki je močno obremenjen s tehnološkimi delnicami, znižal za 1,39 %. Vlagatelji so postali bolj previdni, saj bi lahko nižji prihodki OpenAI nakazovali širše izzive pri monetizaciji AI tehnologij. V preteklosti so podobna razočaranja pri ključnih podjetjih v določenem sektorju pogosto sprožila širšo korekcijo v celotnem sektorju. Za slovenskega dolgoročnega vlagatelja to poudarja pomen temeljite analize in ne zgolj sledenja 'hypeu', tudi v obetavnih sektorjih. Potencialna upočasnitev rasti ali nižji prihodki v vodilnih podjetjih AI lahko vplivajo na delnice tehnoloških podjetij po vsem svetu.",
+      "povzetek": "Predsednik ZDA Donald Trump je napovedal ustanovitev odbora za preiskavo guvernerke Federal Reserve, Lise Cook, zaradi obtožb o hipotekarni goljufiji. To je ponoven poskus Trumpa, da jo odstrani s položaja, kljub junijski odločitvi vrhovnega sodišča, ki je njegovo prejšnjo odpoved razglasilo za neustavno. Odbor bo v posvetovanju z ministrstvom za pravosodje odločal o \"razlogu\" za njeno odstranitev, z zaslišanjem, ki bo potekalo 5. novembra 2026, zaprto za javnost, vendar s prepisom. Cook bo lahko predložila pisno izjavo in bo podvržena zaslišanju. Novica je bila objavljena 9. oktobra 2026 ob 18:05:12 UTC.",
+      "analiza": "Ozadje te novice je v Trumpovih ponavljajočih se poskusih vplivanja na neodvisnost Federal Reserve in odstranitve uradnikov, ki niso v skladu z njegovimi političnimi željami. Vrhovno sodišče je že junija razsodilo, da je bila njena predhodna odpoved neustavna, kar poudarja pravne in politične zaplete. Povezava z aktualnimi trendi je v širši debati o neodvisnosti centralnih bank, ki je ključna za ohranjanje zaupanja v monetarno politiko in stabilnost finančnega sistema. Mehanizem vpliva na finančne trge je v povečani negotovosti glede prihodnje smeri monetarne politike in morebitnega političnega vmešavanja. Če bi se neodvisnost Feda omajala, bi to lahko vplivalo na zaupanje vlagateljev v ameriško gospodarstvo in finančne institucije. Posledice za obveznice so lahko negativne, saj bi vlagatelji zahtevali višje donose za kompenzacijo povečanega tveganja političnega vmešavanja (donosnost 10-letne ameriške obveznice je danes pri 5,24 %). Za valute, kot je ameriški dolar, bi lahko takšna negotovost povzročila devalvacijo, saj bi se zmanjšala privlačnost ameriških sredstev. Slovenski dolgoročni vlagatelj mora razumeti, da je neodvisnost centralnih bank temelj stabilnega finančnega sistema in da so poskusi političnega vmešavanja dejavnik tveganja, ki ga je treba spremljati.",
       "vpliv": [
-        "Padec Nasdaq 100 za 1,39 %",
-        "Negativen vpliv na splošno razpoloženje v tehnološkem sektorju",
-        "Povečana previdnost vlagateljev v AI podjetja",
-        "Potencialno preveč optimistične valuacije AI podjetij"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1",
-      "objavljeno": "2026-10-08T20:15:57.000Z"
-    },
-    {
-      "naslov": "Bela hiša prepovedala Microsoftu sponzoriranje tujih delavcev za zelene karte",
-      "sektor": "Tehnologija & AI",
-      "smer": "negativno",
-      "intenziteta": 2,
-      "povzetek": "Bela hiša je Microsoftu prepovedala prijavo za zelene karte za delavce, zaposlene prek programa vizumov H-1B, ki omogoča visokokvalificiranim tujim delavcem delo v ZDA. To odločitev je potrdil podpredsednik ZDA JD Vance, ki je obtožil tehnološko podjetje zlorabe sistema H-1B. Ta poteza je del širših prizadevanj Bele hiše za omejevanje priseljevanja in vpliva na več tehnoloških skupin, saj omejuje njihovo sposobnost zaposlovanja mednarodnih talentov za stalno prebivanje v ZDA.",
-      "analiza": "Odločitev Bele hiše, da prepove Microsoftu sponzoriranje tujih delavcev za zelene karte, predstavlja pomemben regulativni udarec za eno največjih tehnoloških podjetij na svetu. Program H-1B je ključnega pomena za ameriška tehnološka podjetja, saj jim omogoča privabljanje in zadrževanje vrhunskih talentov iz tujine, kar je bistveno za inovacije in konkurenčnost. Omejitve pri zaposlovanju tujih delavcev lahko povečajo stroške dela za Microsoft in druga podjetja, saj se bodo morala bolj zanašati na domači trg dela, kjer je ponudba specifičnih znanj morda omejena. To lahko dolgoročno vpliva na njihovo rast in dobičkonosnost. V preteklosti so podobne regulativne spremembe vplivale na delnice prizadetih podjetij, saj vlagatelji ocenjujejo tveganja, povezana z operativnimi omejitvami. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da regulativne odločitve vlad lahko imajo neposreden vpliv na poslovanje velikih mednarodnih korporacij in s tem na vrednost njihovih delnic. Spremljanje političnih in regulativnih trendov je ključno pri ocenjevanju naložbenih priložnosti v tehnološkem sektorju.",
-      "vpliv": [
-        "Povečani stroški dela za Microsoft in druga tehnološka podjetja",
-        "Omejena sposobnost privabljanja mednarodnih talentov",
-        "Negativen vpliv na delnice tehnoloških podjetij",
-        "Širši vpliv na ameriško imigracijsko politiko"
-      ],
-      "vir": "Financial Times",
-      "vir_url": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1",
-      "objavljeno": "2026-10-08T19:45:47.000Z"
-    },
-    {
-      "naslov": "Vodstvo Goldman Sachsa si bo razdelilo do 500 milijonov dolarjev bonusov",
-      "sektor": "Finance",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Vodstveni delavci investicijske banke Goldman Sachs si bodo letos razdelili bonusni sklad v višini do 500 milijonov dolarjev, kar je eden največjih izplačil v zgodovini banke. Ta izjemna vsota bo razdeljena med 20 bankirjev, pri čemer naj bi glavni izvršni direktor David Solomon prejel približno 100 milijonov dolarjev v delnicah Goldman Sachsa. Takšna izplačila običajno odražajo močno poslovno uspešnost banke v tekočem letu, vendar lahko sprožijo tudi širše razprave o korporativnem upravljanju in neenakosti.",
-      "analiza": "Izplačilo tako velikega bonusnega sklada v Goldman Sachsu kaže na izjemno uspešno leto za investicijsko banko, kar je običajno pozitiven signal za finančni sektor. Visoki bonusi so pogosto povezani z močnim poslovanjem na področju investicijskega bančništva, trgovanja in upravljanja premoženja. To lahko nakazuje na robustno aktivnost na kapitalskih trgih in dobre pogoje za finančne institucije. Vendar pa lahko takšna izplačila v javnosti sprožijo tudi kritike glede pretiranih nagrad, še posebej v luči morebitnih širših gospodarskih izzivov. V preteklosti so visoki bonusi v finančnem sektorju pogosto sovpadali z obdobjem močne rasti in optimizma na trgih. Za delnice finančnih institucij je to novica, ki lahko podpira njihovo vrednost, saj kaže na močno dobičkonosnost. Za slovenskega dolgoročnega vlagatelja je pomembno razumeti, da so rezultati in nagrade v finančnem sektorju pogosto ciklični in odvisni od splošnega gospodarskega okolja. Čeprav visoki bonusi kažejo na trenutno moč, je ključno spremljati tudi širše makroekonomske trende in regulativne pritiske, ki lahko vplivajo na dolgoročno stabilnost in donosnost finančnih institucij.",
-      "vpliv": [
-        "Pozitiven signal za uspešnost finančnega sektorja",
-        "Povečana dobičkonosnost Goldman Sachsa",
-        "Potencialne javne debate o korporativnem upravljanju",
-        "Podpora vrednosti delnic finančnih institucij"
+        "Povečana negotovost glede monetarne politike ZDA",
+        "Potencialni pritisk na ameriški dolar",
+        "Vpliv na zaupanje v neodvisnost Federal Reserve",
+        "Potencialni dvig donosnosti obveznic zaradi tveganja"
       ],
       "vir": "The Guardian",
-      "vir_url": "https://www.theguardian.com/business/2026/oct/08/top-bosses-goldman-sachs-bonus-pot",
-      "objavljeno": "2026-10-08T18:09:14.000Z"
-    },
-    {
-      "naslov": "Zaradi visokih hipotekarnih obrestnih mer nad 7,5 % je najem pametnejša izbira",
-      "sektor": "Makro & Potrošniki",
-      "smer": "negativno",
-      "intenziteta": 3,
-      "povzetek": "Z naraščanjem hipotekarnih obrestnih mer nad 7,5 % se v ZDA uveljavlja prepričanje, da je najem nepremičnine trenutno pametnejša finančna odločitev kot nakup. Članek v MarketWatchu poudarja, da Wall Street ne kaže interesa za nakupovanje domov, kar kaže na previdnost institucionalnih vlagateljev. Visoke obrestne mere močno zvišujejo stroške lastništva in zmanjšujejo kupno moč, kar ohlaja nepremičninski trg in vpliva na potrošniško vedenje.",
-      "analiza": "Rast hipotekarnih obrestnih mer nad 7,5 % ima globok vpliv na nepremičninski trg in širšo ekonomijo. Višje obrestne mere neposredno zvišujejo mesečne stroške hipotekarnih posojil, kar zmanjšuje cenovno dostopnost nepremičnin za povprečnega kupca. To vodi v zmanjšanje povpraševanja po nakupih domov in lahko povzroči upočasnitev ali celo padec cen nepremičnin. Odločitev 'pametnega denarja' za najem namesto nakupa je jasen znak, da se vlagatelji in potrošniki prilagajajo novim tržnim razmeram. V preteklosti so visoke obrestne mere pogosto sprožile recesije na nepremičninskih trgih, kar je imelo širše posledice za gospodarstvo, saj je gradbeništvo pomemben sektor. To vpliva tudi na banke, ki so izpostavljene hipotekarnim posojilom, in na potrošniško porabo, saj imajo gospodinjstva manj razpoložljivega dohodka. Za slovenskega dolgoročnega vlagatelja je pomembno spremljati trende na globalnih nepremičninskih trgih, saj lahko ti vplivajo na delnice gradbenih podjetij, bank in podjetij s področja potrošniških storitev. Visoke obrestne mere so znak za previdnost pri naložbah, povezanih z nepremičninami in potrošniškim kreditiranjem.",
-      "vpliv": [
-        "Zmanjšana cenovna dostopnost nepremičnin",
-        "Ohlajanje nepremičninskega trga",
-        "Potencialen padec cen nepremičnin",
-        "Negativen vpliv na banke in potrošniško porabo"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/with-mortgage-rates-soaring-above-7-5-the-smart-money-rents-in-america-ef0eb5aa?mod=mw_rss_topstories",
-      "objavljeno": "2026-10-08T20:30:00.000Z"
-    },
-    {
-      "naslov": "Trg opcij opozarja na zdravilo za naraščajoče donose obveznic – višje donose",
-      "sektor": "Makro & Centralne banke",
-      "smer": "mešano",
-      "intenziteta": 2,
-      "povzetek": "Trg opcij, preko indeksa MOVE (merilnik strahu na trgu državnih obveznic), nakazuje, da so donosi obveznic morda dosegli vrhunec, vsaj za zdaj. Indeks MOVE je dosegel ravni, ki so v preteklosti nakazovale, da bi se lahko trend naraščanja donosov obrnil. To pomeni, da bi se lahko trg obveznic stabiliziral ali celo obrnil smer, kar bi imelo posledice za celotne finančne trge. Donosnost 10-letne ameriške državne obveznice je danes padla za 0,87 % na 5,23 %.",
-      "analiza": "Indeks MOVE, ki meri pričakovano volatilnost na trgu ameriških državnih obveznic, je pomemben barometer za razpoloženje vlagateljev. Njegova rast na visoke ravni pogosto nakazuje, da vlagatelji pričakujejo velike premike v donosih obveznic, kar lahko pomeni, da so trenutne ravni donosov blizu preobrata. Dejstvo, da je donosnost 10-letne ameriške državne obveznice danes padla za 0,87 % na 5,23 %, se ujema s to interpretacijo. Višji donosi obveznic so običajno negativni za delniške trge, saj povečujejo stroške zadolževanja za podjetja in zmanjšujejo privlačnost delnic v primerjavi z 'varnimi' obveznicami. Morebitna stabilizacija ali padec donosov bi lahko bil pozitiven signal za delniške trge. Vendar pa je pomembno opozoriti, da je nihanje donosov obveznic odvisno od številnih dejavnikov, vključno z inflacijo, pričakovanji glede obrestnih mer centralnih bank in gospodarsko rastjo. Za slovenskega dolgoročnega vlagatelja je ključno spremljati gibanje donosov obveznic, saj so ti temeljni kazalnik za vrednotenje vseh drugih naložb. Morebiten vrhunec donosov bi lahko pomenil priložnost za preusmeritev naložb ali pa opozorilo na morebitno gospodarsko upočasnitev, ki bi lahko vplivala na prihodnje donose.",
-      "vpliv": [
-        "Padec donosnosti 10-letne ameriške obveznice za 0,87 % na 5,23 %",
-        "Potencialna stabilizacija ali padec donosov obveznic",
-        "Vpliv na vrednotenje delnic",
-        "Indeks VIX (volatilnost trga) +2,19 % na 15,41"
-      ],
-      "vir": "MarketWatch",
-      "vir_url": "https://www.marketwatch.com/story/the-options-market-is-reminding-investors-theres-a-cure-for-rising-bond-yields-higher-yields-2dcac640?mod=mw_rss_topstories",
-      "objavljeno": "2026-10-08T18:51:00.000Z"
+      "vir_url": "https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor",
+      "objavljeno": "2026-10-09T18:05:12.000Z"
     }
   ],
   "trgi": {
-    "posodobljenoOb": "2026-10-08T20:52:42.475Z",
+    "posodobljenoOb": "2026-10-09T20:22:14.985Z",
     "indeksi": [
       {
         "simbol": "^GSPC",
         "ime": "S&P 500",
-        "vrednost": 7765.36,
-        "sprememba_pct": -0.47
+        "vrednost": 7811.54,
+        "sprememba_pct": 0.59
       },
       {
         "simbol": "^NDX",
         "ime": "Nasdaq 100",
-        "vrednost": 30725.809,
-        "sprememba_pct": -1.39
+        "vrednost": 30883.148,
+        "sprememba_pct": 0.51
       },
       {
         "simbol": "^GDAXI",
         "ime": "DAX",
-        "vrednost": 24806.97,
-        "sprememba_pct": -1.18
+        "vrednost": 25087.27,
+        "sprememba_pct": 1.13
       },
       {
         "simbol": "^N225",
         "ime": "Nikkei 225",
-        "vrednost": 69042.11,
-        "sprememba_pct": -1.42
+        "vrednost": 69030.92,
+        "sprememba_pct": -0.02
       }
     ],
     "surovine": [
       {
         "simbol": "GC=F",
         "ime": "Zlato",
-        "vrednost": 4158.5,
-        "sprememba_pct": 0.43,
+        "vrednost": 4220.2,
+        "sprememba_pct": 1.52,
         "enota": "USD/oz"
       },
       {
         "simbol": "CL=F",
         "ime": "WTI nafta",
-        "vrednost": 90.8,
-        "sprememba_pct": 2.85,
+        "vrednost": 91.45,
+        "sprememba_pct": -0.04,
         "enota": "USD/sod"
       },
       {
         "simbol": "BZ=F",
         "ime": "Brent nafta",
-        "vrednost": 103.6,
-        "sprememba_pct": 3.39,
+        "vrednost": 104.26,
+        "sprememba_pct": -0.02,
         "enota": "USD/sod"
       }
     ],
@@ -164,16 +164,16 @@
       {
         "simbol": "EURUSD=X",
         "ime": "EUR/USD",
-        "vrednost": 1.1217,
-        "sprememba_pct": 0.16
+        "vrednost": 1.1206,
+        "sprememba_pct": -0.09
       }
     ],
     "obveznice": [
       {
         "simbol": "^TNX",
         "ime": "10Y US Treasury",
-        "vrednost": 5.231,
-        "sprememba_pct": -0.87,
+        "vrednost": 5.244,
+        "sprememba_pct": 0.25,
         "enota": "%"
       }
     ],
@@ -181,16 +181,16 @@
       {
         "simbol": "BTC-USD",
         "ime": "Bitcoin",
-        "vrednost": 81716.58,
-        "sprememba_pct": -1.87,
+        "vrednost": 82413.59,
+        "sprememba_pct": 0.89,
         "enota": "USD"
       }
     ],
     "vix": {
       "simbol": "^VIX",
       "ime": "VIX",
-      "vrednost": 15.41,
-      "sprememba_pct": 2.19
+      "vrednost": 14.82,
+      "sprememba_pct": -3.83
     }
   }
 }
